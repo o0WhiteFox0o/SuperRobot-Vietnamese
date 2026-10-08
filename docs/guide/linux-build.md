@@ -1,3 +1,5 @@
+> **语言 / Language:** [中文](linux-build.md) · [Tiếng Việt](linux-build.vi.md) · [English](linux-build.en.md)
+
 # Linux 与 Steam Deck 构建
 
 2026-09-25。[三平台移植计划](../design/three-platform-port.md) X2 的第一个版本：Linux x64 上用 Vulkan 运行游戏。五个 HD 图层都已改走 plume（X1），在 Linux 上与 macOS 同样绘制。HD 素材包与 macOS 版是同一个下载，解压到 `~/.local/share/srw64-recomp/hd` 即可；自用构建也可以用 `build_linux.py --hd DIR` 直接打进包里（`hd/` 在程序旁边）。

@@ -1,3 +1,5 @@
+> **语言 / Language:** [中文](native-development.md) · [Tiếng Việt](native-development.vi.md) · [English](native-development.en.md)
+
 # 原生开发指南
 
 更新：2026-09-18。本文描述当前源码和开发入口；内置功能模块的当前范围见[路线图](../design/mod-roadmap.md)，外部包与公开 API 暂缓。所有路径相对仓库根目录。

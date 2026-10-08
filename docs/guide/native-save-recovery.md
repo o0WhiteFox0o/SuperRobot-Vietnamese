@@ -1,3 +1,5 @@
+> **语言 / Language:** [中文](native-save-recovery.md) · [Tiếng Việt](native-save-recovery.vi.md) · [English](native-save-recovery.en.md)
+
 # 原生存档历史选择与通关档恢复
 
 2026-09-12。本轮实现的是历史 SRAM 副本的完整性筛选、显式恢复与读取验证；不是新的游戏存档格式，也不是安全节点自动保存或任意时刻即时存档。

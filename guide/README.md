@@ -1,3 +1,5 @@
+> **语言 / Language:** [中文](README.md) · [Tiếng Việt](README.vi.md) · [English](README.en.md)
+
 # 流程与隐藏要素攻略
 
 `srw64-flow-guide.html` 是面向玩家的离线单文件攻略，一个文件内含中日英三语：页签栏右侧切换语言，

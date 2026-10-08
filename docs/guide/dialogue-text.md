@@ -1,3 +1,5 @@
+> **语言 / Language:** [中文](dialogue-text.md) · [Tiếng Việt](dialogue-text.vi.md) · [English](dialogue-text.en.md)
+
 # 台词文本文件：格式、存放位置与修改方法
 
 日期：2026-09-23。剧情对白、选择肢和战斗台词不写进语言目录 `content/locales/<locale>.json`，每种语言单独一套纯文本文件，玩家可以直接修改。名称、界面标签与系统提示仍走[词条表](../native/localization-terms.md)。

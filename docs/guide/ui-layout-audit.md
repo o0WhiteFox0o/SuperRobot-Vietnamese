@@ -1,3 +1,5 @@
+> **语言 / Language:** [中文](ui-layout-audit.md) · [Tiếng Việt](ui-layout-audit.vi.md) · [English](ui-layout-audit.en.md)
+
 # 界面排版离线审计
 
 日期：2026-09-29。不启动游戏、不读 ROM 运行，也能检查共用界面（`src/native/ui/frontend.cpp` 画的场间画面、战前确认、标题菜单、设置窗口、联动页）在各语言、各窗口尺寸下有没有文字超出框、框线伸出边框。

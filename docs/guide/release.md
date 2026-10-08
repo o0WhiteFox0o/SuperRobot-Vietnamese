@@ -1,3 +1,5 @@
+> **语言 / Language:** [中文](release.md) · [Tiếng Việt](release.vi.md) · [English](release.en.md)
+
 # 发布构建
 
 公开发布有两个下载文件：应用本体（原版画面），以及单独下载的 HD 图片包。

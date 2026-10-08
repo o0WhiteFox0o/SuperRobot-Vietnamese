@@ -1,3 +1,5 @@
+> **语言 / Language:** [中文](provenance.md) · [Tiếng Việt](provenance.vi.md) · [English](provenance.en.md)
+
 # 本地输入与来源记录
 
 本文件记录可复现实验所需、但不能提交进 Git 的输入。哈希是身份门禁，不代表

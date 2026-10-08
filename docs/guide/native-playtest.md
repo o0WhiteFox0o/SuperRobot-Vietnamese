@@ -1,3 +1,5 @@
+> **语言 / Language:** [中文](native-playtest.md) · [Tiếng Việt](native-playtest.vi.md) · [English](native-playtest.en.md)
+
 # 原生试玩
 
 更新：2026-09-18。只支持 macOS（Apple Silicon，Metal）。构建准备见[原生开发指南](native-development.md)。

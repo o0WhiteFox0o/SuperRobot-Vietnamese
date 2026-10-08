@@ -1,3 +1,5 @@
+> **语言 / Language:** [中文](debug-interface.md) · [Tiếng Việt](debug-interface.vi.md) · [English](debug-interface.en.md)
+
 # 调试接口与 MCP
 
 日期：2026-09-20。给开发者和 Claude 共用的实机调试入口：启动隔离的调试会话、按键、截图、读状态、操作原生界面、退出，都通过同一个接口完成，不用再靠人工按键或各自为政的控制文件。
