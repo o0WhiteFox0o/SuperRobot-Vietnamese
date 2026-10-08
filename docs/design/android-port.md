@@ -1,3 +1,5 @@
+> **语言 / Language:** [中文](android-port.md) · [Tiếng Việt](android-port.vi.md) · [English](android-port.en.md)
+
 # 安卓移植方案（调研）
 
 2026-10-01。接续[三平台移植计划](three-platform-port.md)。本页是调研结论和建议方案，依据有三部分：

@@ -1,3 +1,5 @@
+> **语言 / Language:** [中文](battle-animation.md) · [Tiếng Việt](battle-animation.vi.md) · [English](battle-animation.en.md)
+
 # 战斗动画处理逻辑与自定义机体／武器可行性
 
 更新：2026-09-19。静态分析（反汇编与 ROM 数据），没有运行游戏。图像资源、场景格式与导出见[战斗图像](battle-graphics.md)。“代码确认”指读到了读取／使用该数据的指令；“静态推断”指从使用方式推出的含义，尚需实机核对。

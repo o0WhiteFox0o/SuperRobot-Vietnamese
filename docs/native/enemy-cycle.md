@@ -1,3 +1,5 @@
+> **语言 / Language:** [中文](enemy-cycle.md) · [Tiếng Việt](enemy-cycle.vi.md) · [English](enemy-cycle.en.md)
+
 # 战术地图：L2 / R2 切换敌方机体
 
 2026-09-25 用户要求：像现代机战那样，用 L2、R2 在战场上遍历敌方机体。原版的 L / R（以及 Z）已经在我方未行动机体之间切换，这里补上敌方。实现在 [`enemy_cycle.cpp`](../../src/host/enemy_cycle.cpp)，键位总表见 [Steam Deck 键位](../design/steam-deck-controls.md)。

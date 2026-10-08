@@ -1,3 +1,5 @@
+> **语言 / Language:** [中文](native-rom-importer.md) · [Tiếng Việt](native-rom-importer.vi.md) · [English](native-rom-importer.en.md)
+
 # 原生 ROM 首次导入（P1 导入阶段）
 
 2026-09-20。接续 [P0 发布计划](cross-platform-release-plan.md)。本页更新其中“原生首次导入尚未实现”的状态：导入代码、启动接线和无 ROM 对照测试已加入；完整 macOS 应用分发仍未完成。图形宿主依然只支持 macOS，不代表 Win/Linux 已能运行游戏。

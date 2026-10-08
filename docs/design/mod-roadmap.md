@@ -1,3 +1,5 @@
+> **语言 / Language:** [中文](mod-roadmap.md) · [Tiếng Việt](mod-roadmap.vi.md) · [English](mod-roadmap.en.md)
+
 # 内置 MOD 路线图：基础体验、多语种与 Original / HD
 
 日期：2026-09-12；2026-09-16 补充 Bug 来源登记及 EW 换机预览需求。本文规定后续交付范围、优先级与验收门槛；除“当前起点”明确列出的能力外，均为计划。

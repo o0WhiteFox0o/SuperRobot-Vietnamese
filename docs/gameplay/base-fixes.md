@@ -1,3 +1,5 @@
+> **语言 / Language:** [中文](base-fixes.md) · [Tiếng Việt](base-fixes.vi.md) · [English](base-fixes.en.md)
+
 # 基础修复：默认生效、没有开关
 
 日期：2026-09-18。这里记录**默认生效**的原版缺陷修复：游戏与自己的数据自相矛盾、修好之后没有任何原版玩法被改掉，因此不做成玩家选项。需要玩家自己决定强弱取舍的改动在[可选规则修正](rule-fixes.md)，外部报告的原始线索在[原版 Bug 登记](original-bug-register.md)。

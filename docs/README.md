@@ -46,128 +46,127 @@
 
 ## 玩法：规则与原版缺陷（gameplay/）
 
-| 文档 | 内容 |
-| --- | --- |
-| [战斗计算](gameplay/battle-formulas.md) | 伤害与命中公式、暴击、分身／切り払い／假身／护罩／S防御、反撃／回避／防御 三个指令、精神指令位图与持续时间 |
-| [原版 Bug 登记](gameplay/original-bug-register.md) | 网上 Bug 报告、来源分歧、已确认原因（BUG01–05）与建议复现步骤 |
-| [基础修复](gameplay/base-fixes.md) | 默认生效、没有开关的缺陷修复（BUG05 五飞假身） |
-| [可选规则修正](gameplay/rule-fixes.md) | 超能力、圣战士、限界、底力、武器改造继承、奥拉斩威力等修正，以及假身、改造上限突破、离队退款等难度调整：原因、依据、开关与实机核对 |
-| [改造段数与上限](gameplay/upgrade-limits.md) | “丑小鸭”上限、每段增量与价格、上限突破、升级规则文件 |
-| [金手指](gameplay/cheats.md) | 设置「作弊」页的六项：资金、部件、EN、SP、气力 150、改机师等级；地址与上限依据、为什么不用 libretro 的码 |
-| [框体与滤镜](native/bezels-and-filters.md) | RetroArch 的 overlay 框体（仅 4:3）与 slang 滤镜（librashader，目前只接了 Metal）：用法、接在哪一步、透明窗口对位、验证 |
-| [改造继承分析](gameplay/upgrade-inheritance.md) | 换机时改造段数如何搬运、前任表与武器映射、疑似漏项（静态分析） |
-| [隐藏要素](gameplay/hidden-elements.md) | 隐藏机体／驾驶员、说服与分歧条件在脚本中的实现，与攻略对照（静态分析） |
-| [Link Battler 联动](gameplay/link-battler.md) | F91、ゴーショーグン、ザンボット3 的开放判定、插入关、等级对齐与 GB 数据块格式；原生版用联动页勾选代替卡带 |
-| [原版按键绑定](gameplay/original-controls.md) | 采样层与三张输入表、连发时序、摇杆折算、Z＋START 与开机 START、各画面每个键的用途、调试菜单与调试 overlay（静态分析） |
-
+| 文档 / Document | Ngôn ngữ / Language | 内容 / Summary |
+| --- | --- | --- |
+| [战斗计算](gameplay/battle-formulas.md) | [Tiếng Việt](gameplay/battle-formulas.vi.md) · [English](gameplay/battle-formulas.en.md) | 伤害与命中公式、暴击、分身／切り払い／假身／护罩／S防御、反撃／回避／防御 三个指令、精神指令位图与持续时间 |
+| [原版 Bug 登记](gameplay/original-bug-register.md) | [Tiếng Việt](gameplay/original-bug-register.vi.md) · [English](gameplay/original-bug-register.en.md) | 网上 Bug 报告、来源分歧、已确认原因（BUG01–05）与建议复现步骤 |
+| [基础修复](gameplay/base-fixes.md) | [Tiếng Việt](gameplay/base-fixes.vi.md) · [English](gameplay/base-fixes.en.md) | 默认生效、没有开关的缺陷修复（BUG05 五飞假身） |
+| [可选规则修正](gameplay/rule-fixes.md) | [Tiếng Việt](gameplay/rule-fixes.vi.md) · [English](gameplay/rule-fixes.en.md) | 超能力、圣战士、限界、底力、武器改造继承、奥拉斩威力等修正，以及假身、改造上限突破、离队退款等难度调整：原因、依据、开关与实机核对 |
+| [改造段数与上限](gameplay/upgrade-limits.md) | [Tiếng Việt](gameplay/upgrade-limits.vi.md) · [English](gameplay/upgrade-limits.en.md) | “丑小鸭”上限、每段增量与价格、上限突破、升级规则文件 |
+| [金手指](gameplay/cheats.md) | [Tiếng Việt](gameplay/cheats.vi.md) · [English](gameplay/cheats.en.md) | 设置「作弊」页的六项：资金、部件、EN、SP、气力 150、改机师等级；地址与上限依据、为什么不用 libretro 的码 |
+| [框体与滤镜](native/bezels-and-filters.md) | [Tiếng Việt](native/bezels-and-filters.vi.md) · [English](native/bezels-and-filters.en.md) | RetroArch 的 overlay 框体（仅 4:3）与 slang 滤镜（librashader，目前只接了 Metal）：用法、接在哪一步、透明窗口对位、验证 |
+| [改造继承分析](gameplay/upgrade-inheritance.md) | [Tiếng Việt](gameplay/upgrade-inheritance.vi.md) · [English](gameplay/upgrade-inheritance.en.md) | 换机时改造段数如何搬运、前任表与武器映射、疑似漏项（静态分析） |
+| [隐藏要素](gameplay/hidden-elements.md) | [Tiếng Việt](gameplay/hidden-elements.vi.md) · [English](gameplay/hidden-elements.en.md) | 隐藏机体／驾驶员、说服与分歧条件在脚本中的实现，与攻略对照（静态分析） |
+| [Link Battler 联动](gameplay/link-battler.md) | [Tiếng Việt](gameplay/link-battler.vi.md) · [English](gameplay/link-battler.en.md) | F91、ゴーショーグン、ザンボット3 的开放判定、插入关、等级对齐与 GB 数据块格式；原生版用联动页勾选代替卡带 |
+| [原版按键绑定](gameplay/original-controls.md) | [Tiếng Việt](gameplay/original-controls.vi.md) · [English](gameplay/original-controls.en.md) | 采样层与三张输入表、连发时序、摇杆折算、Z＋START 与开机 START、各画面每个键的用途、调试菜单与调试 overlay（静态分析） |
 ## 原生界面与呈现（native/）
 
-| 文档 | 内容 |
-| --- | --- |
-| [对白 UI](native/native-dialogue-ui.md) | 双框对白、整条连排与后台确认、分页、回看、自动阅读、快进与跳过 |
-| [阅读指示器](native/native-reading-indicators.md) | 自动档位、下一句进度、当前说话框 |
-| [对白闪烁](native/native-dialogue-flicker.md) | 间歇性画面／底栏消失的原因与修复证据 |
-| [对话框 HD 边框](native/native-dialogue-runtime-hd.md) | 资源 1296 的 13 张边框切片按原版设计重画，RT64 哈希替换 |
-| [主角选择与确认页](native/native-name-entry.md) | 窗口内选角页与双人确认页、原版姓名区、默认名写入、关闭后的按键释放 |
-| [默认姓名三语显示](native/default-names.md) | 不许改名；姓名区存原版字形，默认名按阅读语言显示；接入点、存档兼容与译名表 |
-| [部队名固定](native/fixed-unit-name.md) | 部队名不许改：命名选择自动答「それでかまわない」、3D5E 不开页面、默认名按语言显示；3D5E／部队名页（模式 6、状态 4、保留名校验）的静态分析 |
-| [共享姓名页原型](native/shared-name-page-probe.md) | 固定 RecompFrontend/RmlUi、独立的选角与确认页及脚本化验证 |
-| [场间主菜单接管](native/native-intermission-menu.md) | 原版调度表、布局表、面板几何与 8 张背景的静态分析；保持原构图的 RmlUi 接管、实机验证（12 项）与未验证清单 |
-| [改造画面接管](native/native-upgrade-screens.md) | ユニット改造／武器改造 五个画面：原版列表、详情与状态机的静态分析，保持原构图的 RmlUi 接管，与 15 段规则钩子的配合，实机验证与未验证清单 |
-| [強化パーツ 画面接管](native/native-parts-screens.md) | 机体列表、槽位与库存、持有者三个画面：原版列表、加成表与状态机的静态分析，保持原构图的 RmlUi 接管，装卸走原版函数，实机验证与未验证清单 |
-| [能力查看画面接管](native/native-ability-screens.md) | ユニット能力／パイロット能力 五个只读画面：列表、机体能力页、武器一览、驾驶员能力页的静态分析与 RmlUi 接管，实机验证与未验证清单 |
-| [のりかえ 画面接管](native/native-swap-screens.md) | 驾驶员／妖精列表、目标列表、确认页五个画面的静态分析与 RmlUi 接管，换乘走原版函数；测试关卡与未验证清单 |
-| [データセーブ 画面接管](native/native-save-screens.md) | 存储介质选择与两栏存档页（含覆盖确认、コントローラパック 提示）的静态分析与 RmlUi 接管，写入走原版 SRAM／Pak 例程；存档头记录格式 |
-| [数据文本汉化与译名规范](native/localization-terms.md) | 名称、标签与系统提示的词条表：分区、展开工具与检查，中英文统一译名（作品、构词、主要人物） |
-| [战前确认 UI](native/native-battle-ui.md) | 双方信息、武器补正与最终概率、反击／回避／防御、原游戏流程接线与迷你关卡验证 |
-| [战前 UI 设计说明](native/battle-ui-design-brief.md) | 攻击与反击两种布局的设计目标、信息分区与验收要求，附实机基线截图 |
-| [SDL/RmlUi 游戏界面](native/shared-game-ui.md) | 默认共享页面、线程边界、输入与真实游戏验证 |
-| [macOS 兼容构建](native/macos-release.md) | 固定源码依赖、macOS 14 部署目标与本地应用打包 |
-| [通用 Plume 像素合成](native/plume-pixel-compositor.md) | 后端无关上传／混合、GPU 完成资源引用、三平台离屏回读与可选游戏接线 |
-| [跨平台文字组件](native/portable-text.md) | ICU／HarfBuzz／FreeType 排版与 CPU 栅格化、字体快照、Reader 适配和独立验证 |
-| [开场文字](native/native-intro.md) | 开场缩放文字跳过与资源提取 |
-| [设置窗口](native/settings-window.md) | 菜单栏「选项」与设置窗口的结构、元数据与验收；游戏内叠加的五页面板（通用／界面／规则／操作／关于）与键位 |
-| [更新检查](native/update-check.md) | 读官网 `/latest.json` 比版本：「关于」页与 macOS 应用菜单手动检查、首次在标题询问后每天最多一次自动检查、标题角落新版提示；各平台系统 HTTP；不下载不安装 |
-| [问题报告](native/bug-report.md) | 设置「反馈」页：复制平台信息、一键导出 zip：系统与显卡、游戏设置、最近 3 次运行的日志；新的 `console.log` 记下 stdout／stderr；不带 ROM、存档和令牌，家目录写成 `~` |
-| [Original 回退](native/native-original-fallback.md) | HD 资源缺失时的启动行为 |
-| [世界地图 HD](native/native-worldmap-hd.md) | 对话世界地图高清资源 |
-| [人物头像 HD](native/native-portraits-hd.md) | 全部头像的 2×2 拼图生成、逐格配准与抠图，模式 7 绘制的整张 768×768 替换（宿主经 Plume 绘制） |
-| [场间背景 HD](native/native-backgrounds-hd.md) | インターミッション 8 张背景的亮／暗 HD、模式 4 分块绘制的整张替换 |
-| [剧情世界地图 HD](native/native-worldmap-regions-hd.md) | 剧情世界地图的全部地球区域与宇宙：按第一话欧洲画风分窗口重绘、陆海分布自动检查、星空整张绘制 |
-| [标题画面与剧情文字图](native/native-title-and-story-images.md) | 标题 Logo 与火焰的整帧高清替换（去接缝）；标题菜单、章节标题卡、开场序章与结局页按阅读语言原生绘制，保留原版缩放旋转翻面；场景精灵绘制器、句柄表与标题卡状态机 |
-| [标题菜单画面](native/native-title-menus.md) | 环形菜单之后的 ロード、オプション、サウンドセレクト、カラオケモード 原生接管，原版/新版切换；コンティニュー 没有画面，两个隐藏列表不可达；标题 overlay 主状态表与解锁条件 |
-| [原版界面文字](native/native-ui-text.md) | 战术地图、战斗等原版界面的标签、数字与正文窗口按阅读语言原生重画（文字引擎池与显示列表核对、数字移进译句、先压窄后缩字）；战斗 HUD 徽章、能力横幅与边框高清化 |
-| [移动选格：按住 R 跳到最远格](native/move-jump.md) | 现代机战式操作：选移动目的地时按住 R 高亮最远格、方向键在其间跳；状态 0xC 选格 `801CBB04`、范围绘制 `801E4760`、输入字与镜头的静态分析 |
-| [Library（图鉴）](native/library.md) | 标题画面 MOD 旁的机体／人物资料页：运行时从 ROM 读数值、武器、成长、精神与技能等级；收录与去重规则、操作、代码位置 |
-| [剧情短跳过](native/script-skip.md) | 现代机战式 R + START：宿主在一帧内连续执行事件脚本，对白不显示、等待与演出当帧完成，停在选择肢、出击选择、切往战场或脚本结束；脚本轮询契约、各指令的完成办法、与逐句读完的状态逐字节对照 |
-| [战斗演出中途退出](native/battle-animation-skip.md) | 进战斗后按 X 中止演出回地图：演出状态机 `D_80250000` 与收尾状态 21、原版 Z+START 是标题路线不能用；伤害其实由地图状态 0x4B 链的子状态 2（`801FBBD4`）计算，开动画时整条链被跳过；两个 overlay 地址重叠与未完成部分 |
-| [L2 / R2 切换敌方机体](native/enemy-cycle.md) | 现代机战式操作：地图空闲时用手柄扳机遍历敌方与第三方机体；空闲状态 `801C8B04` 里原版 L/R 切换我方的静态分析与接管方式 |
-| [改键](native/controls-remapping.md) | 设置窗口「操作」页：Steam Deck 按键图写着每个键的作用，按功能改键（键盘与手柄各一套，按下即绑定），手柄默认按功能重排，`input.json`；提示与原生页面跟随绑定 |
-| [模型替换](native/native-model-replacement.md) | 5600 原生 HD 标记（保留原版棱角的倒角金色八面体）与 Original/HD 切换 |
-| [世界地图过场模型 HD](native/native-ship-model.md) | 世界地图模型表、`3D72` 载具与场景地标、15 个舰船／地标按设定重建、平滑航迹与实机对照 |
-| [退出生命周期](native/native-window-close.md) | 关窗崩潰修复、线程回收与退出验收边界 |
-| [内容架构第一批实现](native/native-content-foundation.md) | 语言、图片、5600 模型配置及扩展方式 |
-| [三项底座验证](native/native-foundations-verification.md) | 语言设置与覆盖报告、保存集合原型、冷启动及随机状态差异 |
-
+| 文档 / Document | Ngôn ngữ / Language | 内容 / Summary |
+| --- | --- | --- |
+| [对白 UI](native/native-dialogue-ui.md) | [Tiếng Việt](native/native-dialogue-ui.vi.md) · [English](native/native-dialogue-ui.en.md) | 双框对白、整条连排与后台确认、分页、回看、自动阅读、快进与跳过 |
+| [阅读指示器](native/native-reading-indicators.md) | [Tiếng Việt](native/native-reading-indicators.vi.md) · [English](native/native-reading-indicators.en.md) | 自动档位、下一句进度、当前说话框 |
+| [对白闪烁](native/native-dialogue-flicker.md) | [Tiếng Việt](native/native-dialogue-flicker.vi.md) · [English](native/native-dialogue-flicker.en.md) | 间歇性画面／底栏消失的原因与修复证据 |
+| [对话框 HD 边框](native/native-dialogue-runtime-hd.md) | [Tiếng Việt](native/native-dialogue-runtime-hd.vi.md) · [English](native/native-dialogue-runtime-hd.en.md) | 资源 1296 的 13 张边框切片按原版设计重画，RT64 哈希替换 |
+| [主角选择与确认页](native/native-name-entry.md) | [Tiếng Việt](native/native-name-entry.vi.md) · [English](native/native-name-entry.en.md) | 窗口内选角页与双人确认页、原版姓名区、默认名写入、关闭后的按键释放 |
+| [默认姓名三语显示](native/default-names.md) | [Tiếng Việt](native/default-names.vi.md) · [English](native/default-names.en.md) | 不许改名；姓名区存原版字形，默认名按阅读语言显示；接入点、存档兼容与译名表 |
+| [部队名固定](native/fixed-unit-name.md) | [Tiếng Việt](native/fixed-unit-name.vi.md) · [English](native/fixed-unit-name.en.md) | 部队名不许改：命名选择自动答「それでかまわない」、3D5E 不开页面、默认名按语言显示；3D5E／部队名页（模式 6、状态 4、保留名校验）的静态分析 |
+| [共享姓名页原型](native/shared-name-page-probe.md) | [Tiếng Việt](native/shared-name-page-probe.vi.md) · [English](native/shared-name-page-probe.en.md) | 固定 RecompFrontend/RmlUi、独立的选角与确认页及脚本化验证 |
+| [场间主菜单接管](native/native-intermission-menu.md) | [Tiếng Việt](native/native-intermission-menu.vi.md) · [English](native/native-intermission-menu.en.md) | 原版调度表、布局表、面板几何与 8 张背景的静态分析；保持原构图的 RmlUi 接管、实机验证（12 项）与未验证清单 |
+| [改造画面接管](native/native-upgrade-screens.md) | [Tiếng Việt](native/native-upgrade-screens.vi.md) · [English](native/native-upgrade-screens.en.md) | ユニット改造／武器改造 五个画面：原版列表、详情与状态机的静态分析，保持原构图的 RmlUi 接管，与 15 段规则钩子的配合，实机验证与未验证清单 |
+| [強化パーツ 画面接管](native/native-parts-screens.md) | [Tiếng Việt](native/native-parts-screens.vi.md) · [English](native/native-parts-screens.en.md) | 机体列表、槽位与库存、持有者三个画面：原版列表、加成表与状态机的静态分析，保持原构图的 RmlUi 接管，装卸走原版函数，实机验证与未验证清单 |
+| [能力查看画面接管](native/native-ability-screens.md) | [Tiếng Việt](native/native-ability-screens.vi.md) · [English](native/native-ability-screens.en.md) | ユニット能力／パイロット能力 五个只读画面：列表、机体能力页、武器一览、驾驶员能力页的静态分析与 RmlUi 接管，实机验证与未验证清单 |
+| [のりかえ 画面接管](native/native-swap-screens.md) | [Tiếng Việt](native/native-swap-screens.vi.md) · [English](native/native-swap-screens.en.md) | 驾驶员／妖精列表、目标列表、确认页五个画面的静态分析与 RmlUi 接管，换乘走原版函数；测试关卡与未验证清单 |
+| [データセーブ 画面接管](native/native-save-screens.md) | [Tiếng Việt](native/native-save-screens.vi.md) · [English](native/native-save-screens.en.md) | 存储介质选择与两栏存档页（含覆盖确认、コントローラパック 提示）的静态分析与 RmlUi 接管，写入走原版 SRAM／Pak 例程；存档头记录格式 |
+| [数据文本汉化与译名规范](native/localization-terms.md) | [Tiếng Việt](native/localization-terms.vi.md) · [English](native/localization-terms.en.md) | 名称、标签与系统提示的词条表：分区、展开工具与检查，中英文统一译名（作品、构词、主要人物） |
+| [战前确认 UI](native/native-battle-ui.md) | [Tiếng Việt](native/native-battle-ui.vi.md) · [English](native/native-battle-ui.en.md) | 双方信息、武器补正与最终概率、反击／回避／防御、原游戏流程接线与迷你关卡验证 |
+| [战前 UI 设计说明](native/battle-ui-design-brief.md) | [Tiếng Việt](native/battle-ui-design-brief.vi.md) · [English](native/battle-ui-design-brief.en.md) | 攻击与反击两种布局的设计目标、信息分区与验收要求，附实机基线截图 |
+| [SDL/RmlUi 游戏界面](native/shared-game-ui.md) | [Tiếng Việt](native/shared-game-ui.vi.md) · [English](native/shared-game-ui.en.md) | 默认共享页面、线程边界、输入与真实游戏验证 |
+| [macOS 兼容构建](native/macos-release.md) | [Tiếng Việt](native/macos-release.vi.md) · [English](native/macos-release.en.md) | 固定源码依赖、macOS 14 部署目标与本地应用打包 |
+| [通用 Plume 像素合成](native/plume-pixel-compositor.md) | [Tiếng Việt](native/plume-pixel-compositor.vi.md) · [English](native/plume-pixel-compositor.en.md) | 后端无关上传／混合、GPU 完成资源引用、三平台离屏回读与可选游戏接线 |
+| [跨平台文字组件](native/portable-text.md) | [Tiếng Việt](native/portable-text.vi.md) · [English](native/portable-text.en.md) | ICU／HarfBuzz／FreeType 排版与 CPU 栅格化、字体快照、Reader 适配和独立验证 |
+| [开场文字](native/native-intro.md) | [Tiếng Việt](native/native-intro.vi.md) · [English](native/native-intro.en.md) | 开场缩放文字跳过与资源提取 |
+| [设置窗口](native/settings-window.md) | [Tiếng Việt](native/settings-window.vi.md) · [English](native/settings-window.en.md) | 菜单栏「选项」与设置窗口的结构、元数据与验收；游戏内叠加的五页面板（通用／界面／规则／操作／关于）与键位 |
+| [更新检查](native/update-check.md) | [Tiếng Việt](native/update-check.vi.md) · [English](native/update-check.en.md) | 读官网 `/latest.json` 比版本：「关于」页与 macOS 应用菜单手动检查、首次在标题询问后每天最多一次自动检查、标题角落新版提示；各平台系统 HTTP；不下载不安装 |
+| [问题报告](native/bug-report.md) | [Tiếng Việt](native/bug-report.vi.md) · [English](native/bug-report.en.md) | 设置「反馈」页：复制平台信息、一键导出 zip：系统与显卡、游戏设置、最近 3 次运行的日志；新的 `console.log` 记下 stdout／stderr；不带 ROM、存档和令牌，家目录写成 `~` |
+| [Original 回退](native/native-original-fallback.md) | [Tiếng Việt](native/native-original-fallback.vi.md) · [English](native/native-original-fallback.en.md) | HD 资源缺失时的启动行为 |
+| [世界地图 HD](native/native-worldmap-hd.md) | [Tiếng Việt](native/native-worldmap-hd.vi.md) · [English](native/native-worldmap-hd.en.md) | 对话世界地图高清资源 |
+| [人物头像 HD](native/native-portraits-hd.md) | [Tiếng Việt](native/native-portraits-hd.vi.md) · [English](native/native-portraits-hd.en.md) | 全部头像的 2×2 拼图生成、逐格配准与抠图，模式 7 绘制的整张 768×768 替换（宿主经 Plume 绘制） |
+| [场间背景 HD](native/native-backgrounds-hd.md) | [Tiếng Việt](native/native-backgrounds-hd.vi.md) · [English](native/native-backgrounds-hd.en.md) | インターミッション 8 张背景的亮／暗 HD、模式 4 分块绘制的整张替换 |
+| [剧情世界地图 HD](native/native-worldmap-regions-hd.md) | [Tiếng Việt](native/native-worldmap-regions-hd.vi.md) · [English](native/native-worldmap-regions-hd.en.md) | 剧情世界地图的全部地球区域与宇宙：按第一话欧洲画风分窗口重绘、陆海分布自动检查、星空整张绘制 |
+| [标题画面与剧情文字图](native/native-title-and-story-images.md) | [Tiếng Việt](native/native-title-and-story-images.vi.md) · [English](native/native-title-and-story-images.en.md) | 标题 Logo 与火焰的整帧高清替换（去接缝）；标题菜单、章节标题卡、开场序章与结局页按阅读语言原生绘制，保留原版缩放旋转翻面；场景精灵绘制器、句柄表与标题卡状态机 |
+| [标题菜单画面](native/native-title-menus.md) | [Tiếng Việt](native/native-title-menus.vi.md) · [English](native/native-title-menus.en.md) | 环形菜单之后的 ロード、オプション、サウンドセレクト、カラオケモード 原生接管，原版/新版切换；コンティニュー 没有画面，两个隐藏列表不可达；标题 overlay 主状态表与解锁条件 |
+| [原版界面文字](native/native-ui-text.md) | [Tiếng Việt](native/native-ui-text.vi.md) · [English](native/native-ui-text.en.md) | 战术地图、战斗等原版界面的标签、数字与正文窗口按阅读语言原生重画（文字引擎池与显示列表核对、数字移进译句、先压窄后缩字）；战斗 HUD 徽章、能力横幅与边框高清化 |
+| [移动选格：按住 R 跳到最远格](native/move-jump.md) | [Tiếng Việt](native/move-jump.vi.md) · [English](native/move-jump.en.md) | 现代机战式操作：选移动目的地时按住 R 高亮最远格、方向键在其间跳；状态 0xC 选格 `801CBB04`、范围绘制 `801E4760`、输入字与镜头的静态分析 |
+| [Library（图鉴）](native/library.md) | [Tiếng Việt](native/library.vi.md) · [English](native/library.en.md) | 标题画面 MOD 旁的机体／人物资料页：运行时从 ROM 读数值、武器、成长、精神与技能等级；收录与去重规则、操作、代码位置 |
+| [剧情短跳过](native/script-skip.md) | [Tiếng Việt](native/script-skip.vi.md) · [English](native/script-skip.en.md) | 现代机战式 R + START：宿主在一帧内连续执行事件脚本，对白不显示、等待与演出当帧完成，停在选择肢、出击选择、切往战场或脚本结束；脚本轮询契约、各指令的完成办法、与逐句读完的状态逐字节对照 |
+| [战斗演出中途退出](native/battle-animation-skip.md) | [Tiếng Việt](native/battle-animation-skip.vi.md) · [English](native/battle-animation-skip.en.md) | 进战斗后按 X 中止演出回地图：演出状态机 `D_80250000` 与收尾状态 21、原版 Z+START 是标题路线不能用；伤害其实由地图状态 0x4B 链的子状态 2（`801FBBD4`）计算，开动画时整条链被跳过；两个 overlay 地址重叠与未完成部分 |
+| [L2 / R2 切换敌方机体](native/enemy-cycle.md) | [Tiếng Việt](native/enemy-cycle.vi.md) · [English](native/enemy-cycle.en.md) | 现代机战式操作：地图空闲时用手柄扳机遍历敌方与第三方机体；空闲状态 `801C8B04` 里原版 L/R 切换我方的静态分析与接管方式 |
+| [改键](native/controls-remapping.md) | [Tiếng Việt](native/controls-remapping.vi.md) · [English](native/controls-remapping.en.md) | 设置窗口「操作」页：Steam Deck 按键图写着每个键的作用，按功能改键（键盘与手柄各一套，按下即绑定），手柄默认按功能重排，`input.json`；提示与原生页面跟随绑定 |
+| [模型替换](native/native-model-replacement.md) | [Tiếng Việt](native/native-model-replacement.vi.md) · [English](native/native-model-replacement.en.md) | 5600 原生 HD 标记（保留原版棱角的倒角金色八面体）与 Original/HD 切换 |
+| [世界地图过场模型 HD](native/native-ship-model.md) | [Tiếng Việt](native/native-ship-model.vi.md) · [English](native/native-ship-model.en.md) | 世界地图模型表、`3D72` 载具与场景地标、15 个舰船／地标按设定重建、平滑航迹与实机对照 |
+| [退出生命周期](native/native-window-close.md) | [Tiếng Việt](native/native-window-close.vi.md) · [English](native/native-window-close.en.md) | 关窗崩潰修复、线程回收与退出验收边界 |
+| [内容架构第一批实现](native/native-content-foundation.md) | [Tiếng Việt](native/native-content-foundation.vi.md) · [English](native/native-content-foundation.en.md) | 语言、图片、5600 模型配置及扩展方式 |
+| [三项底座验证](native/native-foundations-verification.md) | [Tiếng Việt](native/native-foundations-verification.vi.md) · [English](native/native-foundations-verification.en.md) | 语言设置与覆盖报告、保存集合原型、冷启动及随机状态差异 |
 ## 关卡脚本（script/）
 
-| 文档 | 内容 |
-| --- | --- |
-| [关卡脚本完整解析](script/stage-script-exploration.md) | 事件脚本的完整指令、条件块、主角段落、说话人、触发类型、路线流向和出击记录 |
-| [剩余指令语义确认](script/script-semantics-confirmation.md) | 尚待确认的指令效果、静音跟踪与单参数实验安排 |
-| [静音脚本运行观察](script/script-runtime-observation.md) | 第一话实际执行的 123 条指令、地图转换和部署 |
-| [3D3C 静音运行观察](script/script-3d3c-runtime.md)、[3D3C 单参数实验](script/script-3d3c-experiment.md) | 男性超级系开场的单位移动证据与目标位置对照 |
-| [脚本注入调试](script/script-debug-injection.md) | 在运行中的游戏里执行自定义脚本验证指令效果 |
-| [迷你关卡](script/mini-stage.md) | 用自制关卡替换一话来验证指令与关卡流程 |
-| [剧情审阅站](script/story-reader.md) | 连续阅读剧情、全文搜索、逐句定位、主角路线 |
-
+| 文档 / Document | Ngôn ngữ / Language | 内容 / Summary |
+| --- | --- | --- |
+| [关卡脚本完整解析](script/stage-script-exploration.md) | [Tiếng Việt](script/stage-script-exploration.vi.md) · [English](script/stage-script-exploration.en.md) | 事件脚本的完整指令、条件块、主角段落、说话人、触发类型、路线流向和出击记录 |
+| [剩余指令语义确认](script/script-semantics-confirmation.md) | [Tiếng Việt](script/script-semantics-confirmation.vi.md) · [English](script/script-semantics-confirmation.en.md) | 尚待确认的指令效果、静音跟踪与单参数实验安排 |
+| [静音脚本运行观察](script/script-runtime-observation.md) | [Tiếng Việt](script/script-runtime-observation.vi.md) · [English](script/script-runtime-observation.en.md) | 第一话实际执行的 123 条指令、地图转换和部署 |
+| [3D3C 静音运行观察](script/script-3d3c-runtime.md) | [Tiếng Việt](script/script-3d3c-runtime.vi.md) · [English](script/script-3d3c-runtime.en.md) | 男性超级系开场的单位移动证据与目标位置对照 |
+| [3D3C 单参数实验](script/script-3d3c-experiment.md) | [Tiếng Việt](script/script-3d3c-experiment.vi.md) · [English](script/script-3d3c-experiment.en.md) | 3D3C 单参数实验相关实验与记录 |
+| [脚本注入调试](script/script-debug-injection.md) | [Tiếng Việt](script/script-debug-injection.vi.md) · [English](script/script-debug-injection.en.md) | 在运行中的游戏里执行自定义脚本验证指令效果 |
+| [迷你关卡](script/mini-stage.md) | [Tiếng Việt](script/mini-stage.vi.md) · [English](script/mini-stage.en.md) | 用自制关卡替换一话来验证指令与关卡流程 |
+| [剧情审阅站](script/story-reader.md) | [Tiếng Việt](script/story-reader.vi.md) · [English](script/story-reader.en.md) | 连续阅读剧情、全文搜索、逐句定位、主角路线 |
 ## 原始数据（data/）
 
-| 文档 | 内容 |
-| --- | --- |
-| [原始数据目录](data/original-data-catalog.md) | 文本／资源／机体／驾驶员／场景地图提取、整合档案、特殊能力与技能持有者、引用链 |
-| [原版图片与武器标记](data/original-images.md) | 人物头像、机体地图图标、战场底图及武器属性标记 |
-| [战斗图像](data/battle-graphics.md) | 机体战斗图、动画零件、特效、cut-in 的资源分布、绑定表、场景格式与整理导出 |
-| [战斗 cut-in 总表](data/battle-cutins.md) | 55 个特写场景按招式列出：画的是什么、尺寸帧数、哪件武器怎样引用、没有引用的 9 项、做 HD 时的图集分组 |
-| [战斗台词选择表](data/battle-quotes.md) | 哪句台词在什么时候说：声部号、通用台词段九个情境、条件台词表与原版读不到的台词；导出里的 `# 触发：` 注释由此而来 |
-| [战斗动画与自定义机体](data/battle-animation.md) | 战斗动画脚本的处理逻辑，加入自定义机体与武器的可行性 |
-| [3D 资源分析](data/3d-model-replacement-analysis.md) | 原始 3D 资源与模型替换可行性 |
-| [战术地图清单](data/tactical-maps.md) | 158 张战术地图逐张的尺寸、图集、初始场景与动态效果（水面等调色板循环、殖民地、3D34 换图） |
-| [HD 资产盘点](data/hd-asset-inventory.md) | 全 ROM 逐资源分类与各类现状、战术地图水面等动态效果、每类的阿里云模型选择与费用粗估 |
-| [模型查看器](data/native-model-viewer.md) | 本地模型资源浏览与 5600 验证 |
-
+| 文档 / Document | Ngôn ngữ / Language | 内容 / Summary |
+| --- | --- | --- |
+| [原始数据目录](data/original-data-catalog.md) | [Tiếng Việt](data/original-data-catalog.vi.md) · [English](data/original-data-catalog.en.md) | 文本／资源／机体／驾驶员／场景地图提取、整合档案、特殊能力与技能持有者、引用链 |
+| [原版图片与武器标记](data/original-images.md) | [Tiếng Việt](data/original-images.vi.md) · [English](data/original-images.en.md) | 人物头像、机体地图图标、战场底图及武器属性标记 |
+| [战斗图像](data/battle-graphics.md) | [Tiếng Việt](data/battle-graphics.vi.md) · [English](data/battle-graphics.en.md) | 机体战斗图、动画零件、特效、cut-in 的资源分布、绑定表、场景格式与整理导出 |
+| [战斗 cut-in 总表](data/battle-cutins.md) | [Tiếng Việt](data/battle-cutins.vi.md) · [English](data/battle-cutins.en.md) | 55 个特写场景按招式列出：画的是什么、尺寸帧数、哪件武器怎样引用、没有引用的 9 项、做 HD 时的图集分组 |
+| [战斗台词选择表](data/battle-quotes.md) | [Tiếng Việt](data/battle-quotes.vi.md) · [English](data/battle-quotes.en.md) | 哪句台词在什么时候说：声部号、通用台词段九个情境、条件台词表与原版读不到的台词；导出里的 `# 触发：` 注释由此而来 |
+| [战斗动画与自定义机体](data/battle-animation.md) | [Tiếng Việt](data/battle-animation.vi.md) · [English](data/battle-animation.en.md) | 战斗动画脚本的处理逻辑，加入自定义机体与武器的可行性 |
+| [3D 资源分析](data/3d-model-replacement-analysis.md) | [Tiếng Việt](data/3d-model-replacement-analysis.vi.md) · [English](data/3d-model-replacement-analysis.en.md) | 原始 3D 资源与模型替换可行性 |
+| [战术地图清单](data/tactical-maps.md) | [Tiếng Việt](data/tactical-maps.vi.md) · [English](data/tactical-maps.en.md) | 158 张战术地图逐张的尺寸、图集、初始场景与动态效果（水面等调色板循环、殖民地、3D34 换图） |
+| [HD 资产盘点](data/hd-asset-inventory.md) | [Tiếng Việt](data/hd-asset-inventory.vi.md) · [English](data/hd-asset-inventory.en.md) | 全 ROM 逐资源分类与各类现状、战术地图水面等动态效果、每类的阿里云模型选择与费用粗估 |
+| [模型查看器](data/native-model-viewer.md) | [Tiếng Việt](data/native-model-viewer.vi.md) · [English](data/native-model-viewer.en.md) | 本地模型资源浏览与 5600 验证 |
 ## 规划与历史实验（design/）
 
 这些文档记录当时的配置和验收，不能替代当前 profile 的结果。
 
-| 文档 | 内容 |
-| --- | --- |
-| [内置 MOD 路线图](design/mod-roadmap.md) | 首发／后续范围、多语种、Original/HD、存档兼容与验收门槛 |
-| [全文本地化规划](design/translation-plan.md) | 51,174 条文本、开场转写与原生 UI 的分类导出；词条表与机翻分工；中英全量初稿与 AI 审校结果、台词文件生成、阶段与待定事项 |
-| [对白排版](design/dialogue-typesetting.md) | HarmonyOS 字体与许可、英文 0.85 倍字号、整条连排与原版翻页同步、名牌、行距自适应、翻页位置动态规划；翻页次数模拟数据 |
-| [跨平台发布计划 / P0](design/cross-platform-release-plan.md) | 原生启动、独立存档、平台迁移顺序与发布验收；P0 历史记录 |
-| [原生 ROM 首次导入 / P1](design/native-rom-importer.md) | 内嵌元数据、C++ 文本与头像导入、版本化缓存及 Python 对照测试 |
-| [三平台移植计划](design/three-platform-port.md) | Windows／Linux（含 Steam Deck）／macOS 的后端与编译器选择、移植阻塞项审计、X0–X4 阶段与验收、构建步骤分工 |
-| [安卓移植方案](design/android-port.md) | 调研：社区 N64Recomp 安卓移植先例、固定版本 RT64／plume／运行库的安卓缺口与 GPU 门槛、ROM 派生代码与侧载分发、宿主改动清单（构建、入口、生命周期与存档、触屏与手机界面）、A0–A4 阶段与待定事项 |
-| [手机触屏操作](design/touch-controls.md) | 按场景显示功能名按钮：MOBA 式左侧任意位置方向区、右下固定的确定／返回、各场景的按钮与识别依据、三语词条、实施顺序 |
-| [宽屏画面](design/deck-16x10.md) | 以 Steam Deck 1280×800 为基准、随屏幕 4:3–16:9：RT64 按画面宽度渲染加扩展指令、宿主绘制层映射、两侧清黑、各场景做法、战术地图放宽的改动点、阶段、实机验收与未知项 |
-| [战斗演出渲染机制](design/battle-animation-rendering.md) | 战斗演出怎样画出来：背景、3D 地面与模型、机体精灵、特效、cut-in 与遮框；HD 路线（机体姿势、烘焙光照城市、实时水面）与实机验收 |
-| [战斗鉴赏](design/battle-viewer.md) | 标题上的 Battle Viewer：原版演示战斗（模式 0x1C、8009C2DC）直接播一场演出，选攻守双方机体与驾驶员、武器、反击、防御反应、伤害、击坠、背景与 BGM |
-| [多存档栏与自动存档](design/save-slots-autosave.md) | 原版 SRAM 布局与校验、卡带文件与模拟器互通、扩展栏和自动存档改道原版 SRAM 传输、导入导出与格式识别、阶段与待核实项 |
-| [60 帧研究](design/60fps.md) | 远期待办，只有静态研究。原版逻辑固定 30 帧的依据、RT64 显示插帧的机制与前提、各场景能否插值（矩阵类能、矩形类不能）、战术地图的两条做法、试验计划与未核实项 |
-| [Steam Deck 键位与按键图标](design/steam-deck-controls.md) | 默认手柄模板下的全部键位、标题与场间的设置入口、设置界面分页改版、待定键位、自绘图标字体方案与验证计划 |
-| [分阶段计划](design/recomp-plan.md)、[实施记录](design/recomp-progress.md) | recomp 基础方案、早期进度与可重跑探针 |
-| [同类项目比较](design/recomp-peer-comparison.md)、[原生增强规划](design/native-enhancements-plan.md) | 架构研究与增强方案 |
-| [扩展架构方案](design/native-extensibility-architecture.md) | 内容分层与语义接口，暂缓的外部 MOD 扩展 |
-| [自定义战役](design/custom-campaign.md) | 多关串联（借场景号、开局结局、存档附加文件）、新台词的虚拟记录、整张绘制的新地图（地形表、资源替换、原版降级版原型）与分阶段 |
-| [MOD 包](design/mod-packages.md) | 包格式与依赖、外观／数值／规则／剧情分类、按键叠加、挑战奖励带回主线、存档记录 |
-| [HD 化规划](design/hd-pipeline-plan.md) | HD 各类的现状、四条接入路径（宿主整张绘制／RT64 哈希替换／原生模型／原生文字）、战术地图整张接管的实现与待做、制作工具 |
-| [战术地图 HD 生成包](design/tactical-map-hd-kit.md) | 131 张战术地图的清单与动态元素、image_gen 生成包与变体包、殖民地 8 帧、地形面板伪 tile 与总览缩放、接入美术清单与自用包 |
-| [台词润色规划](design/dialogue-polish-plan.md) | 按人物口吻做风格审校：人物设定卡、风格审校与跨页整条重读、试点与全量结果、精读与抽检进度 |
-| [机体立绘 HD](design/unit-pose-hd.md) | 原生页面机体大图的规模、千问试做与本地 ESRGAN 定案、接入与按尺寸等级缩放 |
-| [机体标识 HD](design/unit-icon-hd.md) | 地图单位图标保留像素感的重画：MMPX→PixelPerfectV4→硬量化→MMPX 的 64² 色号图、RT64 哈希接入 |
-| [AI 探索](design/hd-ai-exploration.md)、[基准比较](design/hd-ai-benchmark.md) | 美术高清化实验 |
-
+| 文档 / Document | Ngôn ngữ / Language | 内容 / Summary |
+| --- | --- | --- |
+| [内置 MOD 路线图](design/mod-roadmap.md) | [Tiếng Việt](design/mod-roadmap.vi.md) · [English](design/mod-roadmap.en.md) | 首发／后续范围、多语种、Original/HD、存档兼容与验收门槛 |
+| [全文本地化规划](design/translation-plan.md) | [Tiếng Việt](design/translation-plan.vi.md) · [English](design/translation-plan.en.md) | 51,174 条文本、开场转写与原生 UI 的分类导出；词条表与机翻分工；中英全量初稿与 AI 审校结果、台词文件生成、阶段与待定事项 |
+| [对白排版](design/dialogue-typesetting.md) | [Tiếng Việt](design/dialogue-typesetting.vi.md) · [English](design/dialogue-typesetting.en.md) | HarmonyOS 字体与许可、英文 0.85 倍字号、整条连排与原版翻页同步、名牌、行距自适应、翻页位置动态规划；翻页次数模拟数据 |
+| [跨平台发布计划 / P0](design/cross-platform-release-plan.md) | [Tiếng Việt](design/cross-platform-release-plan.vi.md) · [English](design/cross-platform-release-plan.en.md) | 原生启动、独立存档、平台迁移顺序与发布验收；P0 历史记录 |
+| [原生 ROM 首次导入 / P1](design/native-rom-importer.md) | [Tiếng Việt](design/native-rom-importer.vi.md) · [English](design/native-rom-importer.en.md) | 内嵌元数据、C++ 文本与头像导入、版本化缓存及 Python 对照测试 |
+| [三平台移植计划](design/three-platform-port.md) | [Tiếng Việt](design/three-platform-port.vi.md) · [English](design/three-platform-port.en.md) | Windows／Linux（含 Steam Deck）／macOS 的后端与编译器选择、移植阻塞项审计、X0–X4 阶段与验收、构建步骤分工 |
+| [安卓移植方案](design/android-port.md) | [Tiếng Việt](design/android-port.vi.md) · [English](design/android-port.en.md) | 调研：社区 N64Recomp 安卓移植先例、固定版本 RT64／plume／运行库的安卓缺口与 GPU 门槛、ROM 派生代码与侧载分发、宿主改动清单（构建、入口、生命周期与存档、触屏与手机界面）、A0–A4 阶段与待定事项 |
+| [手机触屏操作](design/touch-controls.md) | [Tiếng Việt](design/touch-controls.vi.md) · [English](design/touch-controls.en.md) | 按场景显示功能名按钮：MOBA 式左侧任意位置方向区、右下固定的确定／返回、各场景的按钮与识别依据、三语词条、实施顺序 |
+| [宽屏画面](design/deck-16x10.md) | [Tiếng Việt](design/deck-16x10.vi.md) · [English](design/deck-16x10.en.md) | 以 Steam Deck 1280×800 为基准、随屏幕 4:3–16:9：RT64 按画面宽度渲染加扩展指令、宿主绘制层映射、两侧清黑、各场景做法、战术地图放宽的改动点、阶段、实机验收与未知项 |
+| [战斗演出渲染机制](design/battle-animation-rendering.md) | [Tiếng Việt](design/battle-animation-rendering.vi.md) · [English](design/battle-animation-rendering.en.md) | 战斗演出怎样画出来：背景、3D 地面与模型、机体精灵、特效、cut-in 与遮框；HD 路线（机体姿势、烘焙光照城市、实时水面）与实机验收 |
+| [战斗鉴赏](design/battle-viewer.md) | [Tiếng Việt](design/battle-viewer.vi.md) · [English](design/battle-viewer.en.md) | 标题上的 Battle Viewer：原版演示战斗（模式 0x1C、8009C2DC）直接播一场演出，选攻守双方机体与驾驶员、武器、反击、防御反应、伤害、击坠、背景与 BGM |
+| [多存档栏与自动存档](design/save-slots-autosave.md) | [Tiếng Việt](design/save-slots-autosave.vi.md) · [English](design/save-slots-autosave.en.md) | 原版 SRAM 布局与校验、卡带文件与模拟器互通、扩展栏和自动存档改道原版 SRAM 传输、导入导出与格式识别、阶段与待核实项 |
+| [60 帧研究](design/60fps.md) | [Tiếng Việt](design/60fps.vi.md) · [English](design/60fps.en.md) | 远期待办，只有静态研究。原版逻辑固定 30 帧的依据、RT64 显示插帧的机制与前提、各场景能否插值（矩阵类能、矩形类不能）、战术地图的两条做法、试验计划与未核实项 |
+| [Steam Deck 键位与按键图标](design/steam-deck-controls.md) | [Tiếng Việt](design/steam-deck-controls.vi.md) · [English](design/steam-deck-controls.en.md) | 默认手柄模板下的全部键位、标题与场间的设置入口、设置界面分页改版、待定键位、自绘图标字体方案与验证计划 |
+| [分阶段计划](design/recomp-plan.md) | [Tiếng Việt](design/recomp-plan.vi.md) · [English](design/recomp-plan.en.md) | recomp 基础方案、早期进度与可重跑探针 |
+| [实施记录](design/recomp-progress.md) | [Tiếng Việt](design/recomp-progress.vi.md) · [English](design/recomp-progress.en.md) | 实施记录相关实验与记录 |
+| [同类项目比较](design/recomp-peer-comparison.md) | [Tiếng Việt](design/recomp-peer-comparison.vi.md) · [English](design/recomp-peer-comparison.en.md) | 架构研究与增强方案 |
+| [原生增强规划](design/native-enhancements-plan.md) | [Tiếng Việt](design/native-enhancements-plan.vi.md) · [English](design/native-enhancements-plan.en.md) | 原生增强规划相关实验与记录 |
+| [扩展架构方案](design/native-extensibility-architecture.md) | [Tiếng Việt](design/native-extensibility-architecture.vi.md) · [English](design/native-extensibility-architecture.en.md) | 内容分层与语义接口，暂缓的外部 MOD 扩展 |
+| [自定义战役](design/custom-campaign.md) | [Tiếng Việt](design/custom-campaign.vi.md) · [English](design/custom-campaign.en.md) | 多关串联（借场景号、开局结局、存档附加文件）、新台词的虚拟记录、整张绘制的新地图（地形表、资源替换、原版降级版原型）与分阶段 |
+| [MOD 包](design/mod-packages.md) | [Tiếng Việt](design/mod-packages.vi.md) · [English](design/mod-packages.en.md) | 包格式与依赖、外观／数值／规则／剧情分类、按键叠加、挑战奖励带回主线、存档记录 |
+| [HD 化规划](design/hd-pipeline-plan.md) | [Tiếng Việt](design/hd-pipeline-plan.vi.md) · [English](design/hd-pipeline-plan.en.md) | HD 各类的现状、四条接入路径（宿主整张绘制／RT64 哈希替换／原生模型／原生文字）、战术地图整张接管的实现与待做、制作工具 |
+| [战术地图 HD 生成包](design/tactical-map-hd-kit.md) | [Tiếng Việt](design/tactical-map-hd-kit.vi.md) · [English](design/tactical-map-hd-kit.en.md) | 131 张战术地图的清单与动态元素、image_gen 生成包与变体包、殖民地 8 帧、地形面板伪 tile 与总览缩放、接入美术清单与自用包 |
+| [台词润色规划](design/dialogue-polish-plan.md) | [Tiếng Việt](design/dialogue-polish-plan.vi.md) · [English](design/dialogue-polish-plan.en.md) | 按人物口吻做风格审校：人物设定卡、风格审校与跨页整条重读、试点与全量结果、精读与抽检进度 |
+| [机体立绘 HD](design/unit-pose-hd.md) | [Tiếng Việt](design/unit-pose-hd.vi.md) · [English](design/unit-pose-hd.en.md) | 原生页面机体大图的规模、千问试做与本地 ESRGAN 定案、接入与按尺寸等级缩放 |
+| [机体标识 HD](design/unit-icon-hd.md) | [Tiếng Việt](design/unit-icon-hd.vi.md) · [English](design/unit-icon-hd.en.md) | 地图单位图标保留像素感的重画：MMPX→PixelPerfectV4→硬量化→MMPX 的 64² 色号图、RT64 哈希接入 |
+| [AI 探索](design/hd-ai-exploration.md) | [Tiếng Việt](design/hd-ai-exploration.vi.md) · [English](design/hd-ai-exploration.en.md) | 美术高清化实验 |
+| [基准比较](design/hd-ai-benchmark.md) | [Tiếng Việt](design/hd-ai-benchmark.vi.md) · [English](design/hd-ai-benchmark.en.md) | 基准比较相关实验与记录 |
 ## 验证层次
 
 静态检查、组件测试、固定帧回放、原生游戏运行、模拟器运行和人工检查各有独立范围；“有截图”或“退出码为 0”不自动代表整条流程已验收。`tests/test_docs.py` 检查所有 Markdown 链接與文档中引用的仓库路径。

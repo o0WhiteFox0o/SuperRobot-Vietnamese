@@ -1,3 +1,5 @@
+> **语言 / Language:** [中文](native-title-and-story-images.md) · [Tiếng Việt](native-title-and-story-images.vi.md) · [English](native-title-and-story-images.en.md)
+
 # 标题画面与剧情文字图
 
 2026-09-24。标题画面的 Logo 和火焰换成整帧高清图，拼块接缝随之消失；标题菜单字，以及剧情里用图片显示的文字（章节标题卡、开场序章页、结局页），都按阅读语言用原生文字绘制，动作沿用游戏自己的缩放、旋转和翻面。剧情文字图**不再显示原图**，F6 切到原版画面时也一样；Logo 和火焰跟随 F6。

@@ -1,3 +1,5 @@
+> **语言 / Language:** [中文](touch-controls.md) · [Tiếng Việt](touch-controls.vi.md) · [English](touch-controls.en.md)
+
 # 手机触屏操作（按场景设计）
 
 2026-10-03。安卓手机没有手柄时的操作方案。上一版是固定的虚拟手柄（`src/host/touch_pad.hpp`，main 1c55cd9），所有画面都显示同一套 N64 键。这一版按场景显示写着功能名的按钮。按键在底层仍是 N64 键和宿主键，所以游戏、我们的页面、按键提示都不用另改。

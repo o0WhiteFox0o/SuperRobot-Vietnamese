@@ -1,3 +1,5 @@
+> **语言 / Language:** [中文](battle-formulas.md) · [Tiếng Việt](battle-formulas.vi.md) · [English](battle-formulas.en.md)
+
 # 战斗计算：伤害、命中、暴击、防御判定与精神指令
 
 日期：2026-09-20。本文记录一次交战里游戏实际执行的全部计算：伤害与命中公式、暴击、五类防御判定、防御方的三个指令，以及精神指令如何改写这些值。**除特别标注外，结论均为静态代码确认**（反汇编 `build/recomp/cpu-scan/load_000AB160/rom_801C2600.text.s`，表值从 `rom.z64` 直接读出）；伤害公式另有 24 行运行数据吻合。演出（动画）侧见[战斗动画与自定义机体](../data/battle-animation.md)，图像资源见[战斗图像](../data/battle-graphics.md)。

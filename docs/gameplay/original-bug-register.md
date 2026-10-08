@@ -1,3 +1,5 @@
+> **语言 / Language:** [中文](original-bug-register.md) · [Tiếng Việt](original-bug-register.vi.md) · [English](original-bug-register.en.md)
+
 # SRW64 原版 Bug 与易混淆行为登记
 
 调查日期：2026-09-16。范围：网上公开的《スーパーロボット大戦64》报告，供本项目日版 Rev 0 原版对照和复现使用。**这是报告清单，不是本项目已经验证或修复的 Bug 清单，也不宣称收全。** 本轮没有运行游戏复现、确认代码原因或更改游戏规则。

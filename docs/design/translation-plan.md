@@ -1,3 +1,5 @@
+> **语言 / Language:** [中文](translation-plan.md) · [Tiếng Việt](translation-plan.vi.md) · [English](translation-plan.en.md)
+
 # 全文本地化：文本导出与中英翻译
 
 日期：2026-09-23。这份文档说明以下几件事：

@@ -1,3 +1,5 @@
+> **语言 / Language:** [中文](localization-terms.md) · [Tiếng Việt](localization-terms.vi.md) · [English](localization-terms.en.md)
+
 # 数据文本汉化：词条表与译名规范
 
 日期：2026-09-23。本文说明名称、标签与系统提示这类“数据文本”怎样翻译、怎样进入语言目录，以及中文（`zh-Hans`）和英文（`en`）的统一译名规范。台词不走这里：战斗台词（约 5799–17346）与剧情对白、选择肢（17347 起）放在独立的纯文本文件里，玩家可以逐条修改，见[台词文本文件](../guide/dialogue-text.md)；它们的机翻草稿另有流程，译名以本文的词条表为准。

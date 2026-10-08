@@ -1,3 +1,5 @@
+> **语言 / Language:** [中文](custom-campaign.md) · [Tiếng Việt](custom-campaign.vi.md) · [English](custom-campaign.en.md)
+
 # 自定义战役：多关串联、新台词与整张绘制的新地图
 
 2026-10-01。用户定的目标：mod 能把多关自定义关卡连成一个战役；新地图按「整张自由绘制」做：HD 模式下宿主整张绘制作者的大图，原版模式显示塞进原版格式的近似版。本文是**静态分析**（读生成代码与 ROM、Python 原型），没有开宿主跑过；地址以 main 94f110b 的生成代码为准。标 [实机] 的条目有既往运行记录，其余都待实机核对。上级规划见 [mod 路线图](mod-roadmap.md) 与[扩展架构](native-extensibility-architecture.md) §6。

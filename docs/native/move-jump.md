@@ -1,3 +1,5 @@
+> **语言 / Language:** [中文](move-jump.md) · [Tiếng Việt](move-jump.vi.md) · [English](move-jump.en.md)
+
 # 移动选格：按住 R 跳到最远格
 
 2026-09-25 用户要求加现代机战的操作：选移动目的地时按住 R1，高亮能到达的最远格；按住 R 时按方向，光标在这些格子之间快速跳，A 确认移过去。参考《超级机器人大战30》：移动范围显示时按 R1，光标跳到最大范围（[ナノゲームス TIPS](https://ds-can.com/srw30/system/s_tips.html)）。

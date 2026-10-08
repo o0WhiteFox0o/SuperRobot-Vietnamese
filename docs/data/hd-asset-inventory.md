@@ -1,3 +1,5 @@
+> **语言 / Language:** [中文](hd-asset-inventory.md) · [Tiếng Việt](hd-asset-inventory.vi.md) · [English](hd-asset-inventory.en.md)
+
 # HD 资产盘点：分类、地图动态效果与阿里云模型选择
 
 日期：2026-09-23，2026-09-24 补上各类的现状。盘点本身来自静态分析，当时没有跑游戏，也没有调用收费接口。各类用哪条接入路径、做到哪一步，见 [HD 化规划](../design/hd-pipeline-plan.md)；以前的模型实测见 [阿里云基准](../design/hd-ai-benchmark.md)。

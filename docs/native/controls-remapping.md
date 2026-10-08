@@ -1,3 +1,5 @@
+> **语言 / Language:** [中文](controls-remapping.md) · [Tiếng Việt](controls-remapping.vi.md) · [English](controls-remapping.en.md)
+
 # 改键
 
 2026-09-28。用户要求：按键设置加手柄图对照，加上本作的附加按键，按一下就能识别并设置。过程：先用了用户给的 N64 手柄图（两版，第二版在 L／R 下加了虚拟的 L2／R2、十字键四向各一个标签）；看了[原版按键分析](../gameplay/original-controls.md)后用户认为原版有用的键不多，改成**按功能**组织、用 Steam Deck 的布局（“就用 steamdeck 吧”），图照用户给的扁平风格（深灰底、白色按键形状、键名写在形状上）由我们自己画。同日用户又决定**不要图**（“感觉还是不要图了”）：手柄默认按 Steam Deck 设好，键盘默认照 PCSX2 的做法。定下来的做法：

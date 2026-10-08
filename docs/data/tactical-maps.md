@@ -1,3 +1,5 @@
+> **语言 / Language:** [中文](tactical-maps.md) · [Tiếng Việt](tactical-maps.vi.md) · [English](tactical-maps.en.md)
+
 # 战术地图清单与动态效果
 
 日期：2026-09-23。本文逐张列出全部战术地图及其运行时动态，供 [HD 化规划 §3](../design/hd-pipeline-plan.md#3-战术地图) 使用。机制说明（调色板循环的数据格式、殖民地帧、3D34 换图）见 [HD 资产盘点 §3](hd-asset-inventory.md#3-战术地图的动态效果)。

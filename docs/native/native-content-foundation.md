@@ -1,3 +1,5 @@
+> **语言 / Language:** [中文](native-content-foundation.md) · [Tiếng Việt](native-content-foundation.vi.md) · [English](native-content-foundation.en.md)
+
 # 原生内容架构：第一批实现
 
 2026-09-12 范围更新：后续按[内置 MOD 路线图](../design/mod-roadmap.md)推进我们自己的功能模块；本文“下一批工作”中的外部内容类型注册、包依赖与公开 SDK 接入暂缓。已有目录、profile、语言和美术切换继续复用。

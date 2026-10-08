@@ -1,0 +1,80 @@
+> **Language / Ngôn ngữ:** [English](script-semantics-confirmation.en.md) · [Tiếng Việt](script-semantics-confirmation.vi.md) · [中文](script-semantics-confirmation.md)
+
+# Semantic confirmation of remaining instructions
+
+2026-09-12. Currently, 1,812 events can be parsed to the terminator, and the boundaries and distribution tables of 73 slots of ordinary instructions and 30 types of conditional instructions have been covered. The semantic tags of ordinary instructions are: 73 items `code-confirmed`, 0 items `structure-confirmed`, 0 items `unknown` (2026-09-17, after mini-level test one by one). These three states record the strength of the evidence, and `code-confirmed` is not equal to the completion of game operation acceptance.
+
+The goal is to confirm parameter meanings, state changes, asynchronous completion conditions, and game effects for the remaining commands, and then decide which ones are safe to use in level mods. At this stage, we are not writing back to the original ROM, nor are we using the plot viewer as a script interpreter.
+
+Two silent runs have checked all 123 female super-type openings and all 56 normal/dialogue commands for male super-type openings. For the former, see [First Run Observation](script-runtime-observation.md); for the latter, confirm that the first parameter of `3D3C` is the driver number. The five original parameter movements have codes and continuous frames that support each other. See [3D3C Run Observation](script-3d3c-runtime.md). Boundaries such as relative positions and logical coordinates still need special experiments.
+
+The second step on 2026-09-16 is [Mini Level](mini-stage.md): Injection can only be done when the tactical map is idle, and cannot reach the world map overlay, nor can it arrange the attack lineup you need. Self-made levels can provide both, so it is confirmed that `3D32` (world map positioning, fixed length 106 VI), `3D33` (world map moves, draws a track, grows with distance), `3D31` (same processing function as `3D32`, behaves the same), `3D50` (body deformation, body instance number changes and HP and coordinates are retained), `3D58` (switch camps, roster slots migrate across sides), `3D5C` (merge/separate, the roster increases by four slots after separation), `3D6E` (unit exits). The same round also eliminated several misunderstandings: `3D68` belongs to the tactical overlay rather than the world map; `3D70`/`3D6F`/`3D69` are no-ops instead of having no effect when the target does not exist; `3D49` crashes when triggered and remains `unknown`.
+
+Starting from 2026-09-16, you can use [script injection debugging](script-debug-injection.md) to hand over custom instructions to the original engine for execution: the first batch of run confirmations `3D3B` four kinds of fade in and out, `3D38` 2 VIs per count, `3D35` non-blocking scroll, `3D34` In fact, it is to switch the map (the first parameter is the map number), `3D45` appears, `3D46` exits, `3D3C` absolute movement, `3D5B` funds, `3D6C` transformation section, `3D5F` overall strength −30, `3E13/3E03/3E1D` Conversations with branch processes and route markers, `3D3E/3D3F`. The result is written to the `runtime` field of each instruction of the layout lock.
+
+## Confirmation process for each instruction
+
+1. **Select samples and fix evidence. ** Find all occurrence positions of the command from the directory, and register the ROM SHA, scene, event address, instruction offset, original parameters, previous and subsequent commands, and branch conditions. Give priority to two instances that are easy to reproduce and have contrasting parameter values; unused commands in the original script are marked separately.
+2. **Catch up to the bottom layer for reading and writing. ** Enter the correct overlay from the resident handler to track state machines, parameter consumption, reads and writes of table entries, rosters, or engine fields, and subsequent functions that consume these fields. The processing function may be called multiple times per frame. It is necessary to distinguish between first entry, waiting and completion, and check the timing of script PC advancement. Unread placeholder parameters are still retained and cannot be deleted without authorization.
+3. **Silent running tracking. ** Add a closeable directional trace in native recomp to record command start/completion, frame number, scene, event PC, protagonist mark, condition ACC, related variables and unit status before and after values. Filter only targeted events or commands to avoid drowning evidence in each frame of output. Use screen or video alignment effects to confirm that the completion of an instruction indeed corresponds to the observed changes.
+4. **Single parameter control experiment. ** In standalone test configurations, archived copies, and temporary memory overlays, compare the original value to a changed value; first verify that the baseline is reproducible before changing a factor. Generalize conclusions before at least two original contexts match; check post-performance units, camps, coordinates, turns, and archive status. End and restore the original settings, and the test run will remain silent.
+5. **Backfill and recheck. ** Update parameter names, semantics and evidence windows in layout lock, add real instance testing, raw byte reorganization and boundary checking, and re-extract the directory. Static conclusions, operational observations, counterexamples, and unexplained bits are saved in the evidence record respectively, and the semantic state is upgraded only when the evidence supports it.
+
+It is recommended that each item be recorded independently: `opcode / handler / overlay / source occurrences / parameter hypotheses / code evidence / runtime trace / changed parameter / observed effect / confidence / unresolved`. The running record must include the ROM, build version, test entry and mute settings; you cannot just write "looks like an explosion".
+
+## First round priority
+
+The times in the table below come from the current independent event command statistics of the original ROM, and the shared scenarios are not accumulated repeatedly. The title is a description of the existing technology, and the complete effect cannot be predetermined based on it.
+
+| Sequence | Command | Number of occurrences | Key points that need to be confirmed |
+| --- | --- | ---: | --- |
+| 1 | `3D3C` | 486 | Move according to the unit specified by the driver: Five examples of observation and absolute target single parameter comparison have been completed, and the relative position and other boundaries are yet to be accepted |
+| 1 | `3D36` | 196 | Map/World Map Performance: The meaning of low bytes, state machine branches |
+| 1 | `3D55` | 169 | Unit performance: character parameter analysis and second parameter effect |
+| 2 | `3D32` / `3D33` | 661 / 166 | The correlation between fields, people and places in the world map table `801C5310` |
+| 2 | `3D6B` / `3D69` | 59 / 28 | Role operations and status bytes: which roster fields are affected and whether they can be persisted |
+| 2 | `3D6E` / `3D6F` / `3D70` | 53 / 30 / 13 | Role and association table operations, confirm who will consume after writing |
+| 3 | `3D49` / `3D67` / `3D58` / `3D5C` | 30 / 23 / 18 / 12 | Show items, special numbers, BGM association and variant parameters |
+| 3 | `3D75` / `3D50` / `3D5E` / `3D63` / `3D68` | 9 / 4 / 3 / 1 / 1 | Low-frequency instances establish reproducible test entrances one by one |
+| Finally | `3D31` | 0 | Shared handler with `3D32`; static tracking takes priority, artificial construction experiments cannot prove that the original game uses it |
+
+`3D3C` Completed [Isolation Control](script-3d3c-experiment.md) of Brad's target position `1912 → 1911`: Under the same binary system, the elf end point and roster logical coordinates were moved up one space, the subsequent opening command was completed, and the parameters were restored. Next, confirm the boundaries such as relative positions, multiple units with the same number, and missing targets, and then advance other performance commands of the same overlay. The blocks are currently enumerated according to the valid roster, and the collision and passage rules have not yet been accepted.
+
+## Remaining items that are more critical for level editing
+
+- The meaning of ~~`3E06/3E0D` roster fields `+5`, `+0x14`~~: 2026-10-01 Code confirmed as level and kill count, see [Hidden Elements](../gameplay/hidden-elements.md) Section 2.4.
+- ~~Writer of `+0x992` of type 9~~: 2026-10-01 confirmed as resident `800A4634`; the header is [persuader, object, threshold variable, threshold value], the threshold is the precondition of each persuasion step, see [Hidden Elements](../gameplay/hidden-elements.md) Section 3.
+- `3E16/3E17/3E19/3E1A`: The source and conditional meaning of the warring character and engine fields (`3E18` has been confirmed to read the current scene index), first check the writer, and then compare the event trigger.
+- Type 13: Exact path into initial configuration state `engine+4 = 0xC2`.
+- 28-byte sortie record: uninterpreted fields such as `+8`, `+E`–`+13`, `+1A`, and 13 blocks without aligned 999 terminators. Guess fields or terminators may not be added to facilitate editing.
+- The remaining number in the text header, the relative speaker of the common segment, and `3D4B 500` restore the runtime source of the scene.
+
+These items determine the reliability of route playback and mods and should be scheduled at the same level as the show order. Static analysis can already support full-text reading; automatic folding of the real route requires the above conditional semantics and running status, and script writeback also requires independent byte round-trips and game acceptance.
+
+For the relationship between the entry code and the machine code, see [Complete Analysis of Level Scripts](stage-script-exploration.md); for reading-side capabilities, see [Plot Review Station](story-reader.md).
+
+
+## Complete list of currently unknown semantics and C code analysis route
+
+2026-09-16 Check: Structure decoding has no unknown length instructions. After multiple rounds of mini-level verification, there is no `unknown` for ordinary commands (the last two `3D75` and `3D63` were finalized on 2026-09-17: the former releases the units carried by the mothership, and the latter switches between landing/flying, see [Mini-level](mini-stage.md)).
+
+The Thirteen Views [Mini Level](mini-stage.md) upgraded to `code-confirmed` in this round: There is also the `3D55` of the fourth round - its second parameter is the mental command number after comparison** (only 11 values are used at 169 in the original script, except for Sentinel 30 All the exceptions correspond to the real spirit: acceleration/concentration/ひらめき/root nature/must hit/iron wall/hot blood/気合/ドroot nature/soul; the byte table `80217D20` is invalid data after exactly 31 items, the table value 15/1 is the target type), and the activation screen is the glowing diamond. In addition, the first round `3D31`/`3D32`/`3D33`/`3D50`/`3D58`/`3D5C`/`3D6E`; the second round `3D49` (script combat performance), `3D6F` (clear component flag bit) 2), `3D70` (mounted with co-passenger characters); `3D67` (the third round of audio is turned on) (the cut-in performance, each of the four values ​​is a machine passing through the light speed tunnel, the sampling level correlation is only +0.007, proving that the audio is different from each other) and `3D68` (the camera pulls back to the selected unit, frame by frame comparison is finalized and confirmed to be silent). `3D55` has been upgraded from `unknown` to `structure-confirmed`: It has been confirmed that it moves the camera and selects the unit. The second parameter is listed in the table `80217D20` and unit special effects are added (9 is a glowing diamond). The item-by-item correspondence is not yet completed.
+
+The most useful methodology this round: **0 The "no-op" of VIs are almost all missing objects, rather than invalid instructions. ** `3D6F` Replace it with the number that actually exists in the relevant parts table and the result will appear; `3D70` According to the original script writing method, first use `3D5A` to register the co-passenger character into the driver table and the result will appear; `3D49` even deploys the two characters on the map and the crash will turn into a normal performance. A few others (`3D58 59,0`, `3D69 4,1`) are actually idempotent - the target state is already established.
+
+The driver instance step is 0x4C, the airframe instance is 0x54, and the roster slot is 0x14, all derived from byte-by-byte difference between this round and inject-2.
+
+The conditional directive does not have `unknown`, but the six `3E06 / 3E0D / 3E16 / 3E17 / 3E19 / 3E1A` items are still `structure-confirmed`: the code for the comparison or assignment is known, and the game meaning, origin, or special cases of the relevant fields have not yet been fully confirmed. There is no instance of `3E19 / 3E1A` in the original script.
+
+### You can directly use the generated C analysis
+
+The generated directory `build/recomp/cpu-bound/generated/` retains the complete processing functions and MIPS address annotations, and can directly trace the reading, writing and calling relationships. This is register-level recomp C. Common `ctx->rN`, `MEM_W/MEM_H/MEM_BU`, `LOOKUP_FUNC` does not have the original developer's variable names and structure types; it should correspond to the original ROM and generation lock, and these generated files should not be modified. The same VRAM may correspond to different functions in different overlays, and must be distinguished using prefixes such as `resident` / `load_000AB160` / `load_000A7EC0`.
+
+This round of spot checks has seen clear clues that can be further explored, but there is no batch upgrade of semantic status based on this:
+
+- **3D69**: The second parameter of `load_000AB160_func_802128E4` takes the low byte, a zero value clears the driver `+0x35`, a non-zero value copies `+0x34` to `+0x35`; also looks for the driven unit, handles other drivers and calls `801F94D0`. It is not an arbitrary value written directly to the status byte. The next step is to follow the initialization of the two fields, the round update and the menu consumer to confirm its game name.
+- **3D6F**: `resident_func_800ACF44` scans 700 36-byte records, checks for valid bytes, matches the `+2` number, then clears the `0x04` bit of the first matching record `+0x22`. The remaining focus is on the setter and reader of the bit; this is mostly driven by static cross-references.
+- **3D55**: `load_000AB160_func_80210490` not only checks the main pilot, but also traverses the driver pointers starting from `+0x38` according to the number of aircraft `+0x34`. After finding it, set the selected sprite and lens. The second parameter continues to enter the tables `80217D20` and `801D6A68`, which must be analyzed along the downstream. You cannot guess the performance effect just by using the entry name.
+- **3D5E**: `load_000A7EC0_func_801C517C` has only 14 instructions with different addresses, setting `801C58C4=2`, calling `80080188(6)` and `80099814(5,1,2)`. The short function does not mean that the game semantics are complete. The next step is to parse the consumer of the status field.
+
+The follow-up is mainly C static analysis: first process `3D69/3D6B/3D6E/3D6F/3D70` and the structure fields of the above six conditional instructions; then pursue high-frequency state machines such as `3D36/3D55`. Direct registration of code evidence with semantics confirmed by the complete read-write chain; silent runs for checking visuals, timing, special branches, and writeback compatibility. No need to run the entire opening over and over again for every ordinary assignment instruction.

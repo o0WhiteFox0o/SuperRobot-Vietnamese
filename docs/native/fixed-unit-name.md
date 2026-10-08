@@ -1,3 +1,5 @@
+> **语言 / Language:** [中文](fixed-unit-name.md) · [Tiếng Việt](fixed-unit-name.vi.md) · [English](fixed-unit-name.en.md)
+
 # 部队名固定为默认名（3D5E）
 
 2026-09-27 用户定：人名和部队名都不许玩家改，原版页面也不开（设置里选原版时同样）。部队名因此始终是游戏默认的 マーチウィンド，显示时按阅读语言换成「三月风」「March Wind」。人物默认名与显示替换见[默认姓名三语显示](default-names.md)，这里只记部队名。

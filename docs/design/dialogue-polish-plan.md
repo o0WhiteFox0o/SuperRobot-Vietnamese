@@ -1,3 +1,5 @@
+> **语言 / Language:** [中文](dialogue-polish-plan.md) · [Tiếng Việt](dialogue-polish-plan.vi.md) · [English](dialogue-polish-plan.en.md)
+
 # 台词润色规划：按人物口吻做风格审校
 
 日期：2026-09-26。承接[全文本地化](translation-plan.md)的“参考对照润色”一节。

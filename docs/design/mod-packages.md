@@ -1,3 +1,5 @@
+> **语言 / Language:** [中文](mod-packages.md) · [Tiếng Việt](mod-packages.vi.md) · [English](mod-packages.en.md)
+
 # MOD 包：格式、依赖、分类与挑战奖励
 
 2026-10-03。本文汇总与用户讨论定下的 MOD 方向，是设计，尚未实现（除注明「已有」的部分）。它接替[内置 MOD 路线图](mod-roadmap.md)开头「当前不接入外部 MOD、不做包加载器与依赖」的范围限定：现在要支持玩家安装第三方 MOD 包，但仍只放数据、不放代码。已有基础见[自定义战役](custom-campaign.md)（追加剧本、MOD 管理、独立存档）与[改造上限](../gameplay/upgrade-limits.md) §7（改造规则文件）。

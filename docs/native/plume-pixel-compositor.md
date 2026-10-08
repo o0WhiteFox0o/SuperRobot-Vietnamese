@@ -1,3 +1,5 @@
+> **语言 / Language:** [中文](plume-pixel-compositor.md) · [Tiếng Việt](plume-pixel-compositor.vi.md) · [English](plume-pixel-compositor.en.md)
+
 # 通用 Plume 像素合成（P2b）
 
 2026-09-20。接续 [CPU／GPU 后端拆分](shared-game-ui.md)。像素上传与 GPU 合成器现为默认对白路径，配合[中日英跨平台文字](portable-text.md)。

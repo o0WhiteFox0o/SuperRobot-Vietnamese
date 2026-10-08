@@ -1,3 +1,5 @@
+> **语言 / Language:** [中文](native-ability-screens.md) · [Tiếng Việt](native-ability-screens.vi.md) · [English](native-ability-screens.en.md)
+
 # 能力查看画面：ユニット能力／パイロット能力 的原生接管
 
 日期：2026-09-23。场间菜单第 4、5 项。五个只读画面（画面号 4、13、14、5、15）由 RmlUi 页面接管，保持原构图；画面之间的切换注入按键边沿交给原版函数，不改任何游戏数据。原版画面可在设置页「场间画面」选回，见[场间主菜单](native-intermission-menu.md)。

@@ -1,3 +1,5 @@
+> **语言 / Language:** [中文](recomp-progress.md) · [Tiếng Việt](recomp-progress.vi.md) · [English](recomp-progress.en.md)
+
 # SRW64 recomp 实施记录
 
 2026-09-12 补充：第一话通关槽位现已通过原生冷启动读取，恢复整备的总回合 7、资金 14,500，并核对玛娜米等级 2 / SP 102/102；未进入第二话，未新增参考模拟器对照。历史 SRAM 选择已增加摘要校验与回退，详见[当前存档恢复记录](../guide/native-save-recovery.md)。下文“通关槽位读取待验证”保留为当时的证据状态。

@@ -1,3 +1,5 @@
+> **语言 / Language:** [中文](native-dialogue-ui.md) · [Tiếng Việt](native-dialogue-ui.vi.md) · [English](native-dialogue-ui.en.md)
+
 # 原生对白 UI
 
 2026-09-11：新增统一原始 JP ROM 的日中语言目录入口，见 [原生内容架构第一批实现](native-content-foundation.md)。当前使用统一 profile；下文的历史运行证据仍保留原验证范围。

@@ -1,3 +1,5 @@
+> **语言 / Language:** [中文](battle-graphics.md) · [Tiếng Việt](battle-graphics.vi.md) · [English](battle-graphics.en.md)
+
 # 战斗图像：机体战斗图、动画零件、特效与 cut-in
 
 更新：2026-09-19。本文记录战斗与剧情演出用的 2D 图像：资源分布、绑定表、「精灵场景」格式和整理导出。武器动画怎样调用这些场景、能否加入自定义机体和武器，见[战斗动画与自定义机体](battle-animation.md)。全部为静态 ROM 解析，没有启动游戏。

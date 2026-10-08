@@ -1,3 +1,5 @@
+> **语言 / Language:** [中文](library.md) · [Tiếng Việt](library.vi.md) · [English](library.en.md)
+
 # Library（图鉴）
 
 日期：2026-10-02。原版没有的资料页：标题画面右下角 MOD 左边的「Library」，也可从设置「通用」页的「Library · 图鉴」进入（给够不到标题按钮的手柄）。窗口沿用设置窗口的框体，左边列表、右边详情，分「机体」「人物」两页。

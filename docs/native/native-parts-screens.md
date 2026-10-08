@@ -1,3 +1,5 @@
+> **语言 / Language:** [中文](native-parts-screens.md) · [Tiếng Việt](native-parts-screens.vi.md) · [English](native-parts-screens.en.md)
+
 # 強化パーツ 画面：机体列表、槽位与库存、持有者的原生接管
 
 日期：2026-09-23。场间菜单第 7 项。三个原版画面（画面号 7、18、19）由 RmlUi 页面接管，保持原构图；装备、卸下、从别的机体拿走部件都注入 A 边沿交给原版函数完成，机体记录与库存记录不由页面直接改写。原版画面可在设置页「场间画面」选回，见[场间主菜单](native-intermission-menu.md)。

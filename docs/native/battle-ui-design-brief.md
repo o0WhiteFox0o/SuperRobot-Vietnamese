@@ -1,3 +1,5 @@
+> **语言 / Language:** [中文](battle-ui-design-brief.md) · [Tiếng Việt](battle-ui-design-brief.vi.md) · [English](battle-ui-design-brief.en.md)
+
 # 战前 UI：攻击与反击设计说明
 
 日期：2026-09-21。本文用于界面设计评审与后续调整。当时的实机截图（自制迷你关卡）作为现状基线，未随仓库保存；设计目标与验收要求不代表每项视觉细节已经达到最终效果。

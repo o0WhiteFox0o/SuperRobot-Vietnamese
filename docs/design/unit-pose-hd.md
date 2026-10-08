@@ -1,3 +1,5 @@
+> **语言 / Language:** [中文](unit-pose-hd.md) · [Tiếng Việt](unit-pose-hd.vi.md) · [English](unit-pose-hd.en.md)
+
 # 机体立绘 HD：规模与首轮试做
 
 2026-09-26。战前确认、改造、能力、のりかえ 等原生页面画的机体大图来自 `battle_assets.units`（机体基本姿势，按 场景/图集/调色板 三元组去重），页面最多放大 6 倍，像素块很明显。本文记录用 `qwen-image-3.0-pro` 重画的规模估算和 3 台机体的试做结果。工具：[`unit_pose_hd.py`](../../tools/hd_ai/unit_pose_hd.py)，输出在 `assets/hd-ai/unit-poses/`（不进 git）。

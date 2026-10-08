@@ -1,3 +1,5 @@
+> **语言 / Language:** [中文](native-title-menus.md) · [Tiếng Việt](native-title-menus.vi.md) · [English](native-title-menus.en.md)
+
 # 标题菜单画面：ロード、オプション、サウンドセレクト、カラオケモード 的原生接管
 
 日期：2026-09-24。标题环形菜单四项之后的画面。ロード 复用[データセーブ 页面](native-save-screens.md)，改成读取的文案与流程；オプション 与两个曲目表是新页面（[`title_page.cpp`](../../src/host/title_page.cpp)）。页面只负责画，原版状态函数继续管解锁、滚动、放歌和切 overlay，页面的选择以按键形式交给它们。设置页「标题菜单画面」可以选回原版画面。环形菜单上的四个项名见[标题画面与剧情文字图](native-title-and-story-images.md)。

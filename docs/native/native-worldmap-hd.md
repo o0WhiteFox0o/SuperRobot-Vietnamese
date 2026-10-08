@@ -1,3 +1,5 @@
+> **语言 / Language:** [中文](native-worldmap-hd.md) · [Tiếng Việt](native-worldmap-hd.vi.md) · [English](native-worldmap-hd.en.md)
+
 # 对话世界地图高清资源
 
 2026-09-09。当前目标为“同样至关重要。别人拿不到的情报，”这段对话背后的世界地图。用户明确以游戏截图纠正了范围：战斗棋盘的森林、道路 tile 实验不属于本次交付，也没有加入当前高清试玩包。

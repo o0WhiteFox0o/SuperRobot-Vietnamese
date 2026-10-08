@@ -1,3 +1,5 @@
+> **语言 / Language:** [中文](native-intermission-menu.md) · [Tiếng Việt](native-intermission-menu.vi.md) · [English](native-intermission-menu.en.md)
+
 # 场间主菜单：原版逻辑与原生接管
 
 日期：2026-09-21。状态：**已实现，完整菜单已在实机验证；两项菜单和 RNG 对照尚未运行验证**（见第 9 节）。第 1–3 节是对 `load_0008F4B0` 和常驻段的静态分析结论（反汇编与 ROM 数据表）；第 4 节以后是接管方案。画面基线是 `sdl-link-01` 运行留下的原版截图，运行目录不保留。

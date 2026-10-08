@@ -1,3 +1,5 @@
+> **语言 / Language:** [中文](bug-report.md) · [Tiếng Việt](bug-report.vi.md) · [English](bug-report.en.md)
+
 # 问题报告
 
 2026-10-07。设置窗口的「反馈」页（`frontend.cpp feedback_page`，在「操作」和「关于」之间）有三行：

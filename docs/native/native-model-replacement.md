@@ -1,3 +1,5 @@
+> **语言 / Language:** [中文](native-model-replacement.md) · [Tiếng Việt](native-model-replacement.vi.md) · [English](native-model-replacement.en.md)
+
 # 原生 3D 模型替换：5600 标记
 
 同一套接入后来扩展到世界地图过场的舰船、地标与航迹，见[世界地图过场模型 HD](native-ship-model.md)。

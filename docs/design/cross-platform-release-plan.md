@@ -1,3 +1,5 @@
+> **语言 / Language:** [中文](cross-platform-release-plan.md) · [Tiếng Việt](cross-platform-release-plan.vi.md) · [English](cross-platform-release-plan.en.md)
+
 # 跨平台发布改造：计划与第一批实施
 
 基线：`22706a4294f7e0ddee40563e7c6e4972376811f9`（2026-09-19）。

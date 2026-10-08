@@ -1,3 +1,5 @@
+> **语言 / Language:** [中文](native-dialogue-flicker.md) · [Tiếng Việt](native-dialogue-flicker.vi.md) · [English](native-dialogue-flicker.en.md)
+
 # 剧情对白间歇闪烁修复
 
 日期：2026-09-11。用户报告高清模式下剧情对白会间歇闪一下。本次后续回归均关闭声音。

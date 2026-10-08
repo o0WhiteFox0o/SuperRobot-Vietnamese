@@ -1,3 +1,5 @@
+> **语言 / Language:** [中文](native-swap-screens.md) · [Tiếng Việt](native-swap-screens.vi.md) · [English](native-swap-screens.en.md)
+
 # のりかえ 画面：驾驶员列表、机体列表、确认页与妖精换乘的原生接管
 
 日期：2026-09-23。场间菜单第 6 项（子菜单 パイロット／妖精）。五个原版画面（画面号 6、16、17、20、21）由 RmlUi 页面接管，保持原构图；换乘本身注入 A 边沿交给原版函数完成，名册、部件、同乘者的搬运不由页面改写。原版画面可在设置页「场间画面」选回，见[场间主菜单](native-intermission-menu.md)。

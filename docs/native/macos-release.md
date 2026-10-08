@@ -1,3 +1,5 @@
+> **语言 / Language:** [中文](macos-release.md) · [Tiếng Việt](macos-release.vi.md) · [English](macos-release.en.md)
+
 # macOS 本地兼容构建
 
 发行构建目标为 Apple Silicon、macOS 14.0。这个目标必须用于宿主和所有运行时依赖；

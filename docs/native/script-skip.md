@@ -1,3 +1,5 @@
+> **语言 / Language:** [中文](script-skip.md) · [Tiếng Việt](script-skip.vi.md) · [English](script-skip.en.md)
+
 # 剧情短跳过（R + START）
 
 2026-09-29。现代机战的「短跳过」：在剧情对白中按 R + START（键盘 E + Enter，Steam Deck R1 + 菜单），剧情脚本直接执行到下一个停点，中间的对白不显示，等待和演出不播放。所有命令仍由原版处理函数执行，所以旗标、变量、资金、单位登场与移动、地图切换的结果和逐句读完相同。按 B 或打开回看会在当前位置停下。代码：[script_skip.hpp](../../src/host/script_skip.hpp)、[game_hooks.cpp](../../src/host/game_hooks.cpp) 的 `skip_begin`/`skip_polls`，开始与停止由[对白阅读器](native-dialogue-ui.md)负责（[native_dialogue.cpp](../../src/host/native_dialogue.cpp)）。

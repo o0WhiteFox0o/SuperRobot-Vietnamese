@@ -1,3 +1,5 @@
+> **语言 / Language:** [中文](native-extensibility-architecture.md) · [Tiếng Việt](native-extensibility-architecture.vi.md) · [English](native-extensibility-architecture.en.md)
+
 # SRW64 多语言与内容 Mod 架构建议
 
 2026-09-12：产品阶段、默认设置、安全节点保存和语言/画质验收以

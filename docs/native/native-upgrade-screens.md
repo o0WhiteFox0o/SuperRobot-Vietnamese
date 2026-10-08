@@ -1,3 +1,5 @@
+> **语言 / Language:** [中文](native-upgrade-screens.md) · [Tiếng Việt](native-upgrade-screens.vi.md) · [English](native-upgrade-screens.en.md)
+
 # 改造画面：机体列表、五项改造与武器改造的原生接管
 
 日期：2026-09-22。状态：**ユニット改造（机体列表、五项改造）与 武器改造（机体列表、武器列表、改造确认）五个画面都已接管并实机验证；武器实际改造成功的一步（はい 后扣款、加值、満改追加武器提示）因存档資金不足未走到**。做法与[场间主菜单](native-intermission-menu.md)相同：原版初始化函数跳过绘制，原生页面按 ROM 里的布局矩形画同样的面板；选择只是写光标、给原版每帧函数注入一次 A／B 边沿。改造数值、价格、上限、传播、EW 换装都仍由原版函数和[15 段改造规则](../gameplay/upgrade-limits.md)的钩子决定。

@@ -1,3 +1,5 @@
+> **语言 / Language:** [中文](battle-animation-rendering.md) · [Tiếng Việt](battle-animation-rendering.vi.md) · [English](battle-animation-rendering.en.md)
+
 # 战斗演出渲染机制分析
 
 2026-09-30。为宽屏适配的收尾和战斗演出 HD 化立项而做的静态分析（反汇编＋ROM 数据表，未加新探针）。状态机、中止与结算见 [battle-animation-skip.md](../native/battle-animation-skip.md)，宽屏已做的部分见 [deck-16x10.md](deck-16x10.md) 第 8/13 条；本文不重复那些内容。凡写「推断」的都还没有实机核对。

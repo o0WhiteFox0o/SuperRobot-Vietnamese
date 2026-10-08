@@ -1,3 +1,5 @@
+> **语言 / Language:** [中文](battle-quotes.md) · [Tiếng Việt](battle-quotes.vi.md) · [English](battle-quotes.en.md)
+
 # 战斗台词的选择表：哪句话在什么时候说
 
 日期：2026-09-27。战斗 overlay（ROM `0x121560`，代码 `0x801C2600` 起）为每个交战方准备两条台词槽（记录 `+0x2C` 攻击时说，`+0x848` 挨打／回避时说），由 `func_80222050` 填入。填法分两层，先查**条件台词表**，再按情境从**通用台词段**里抽。解码实现在 `src/srw64_native/battle_quotes.py`，导出（`tools/content/export_text.py`）把结果写进 `assets/text-export/records.jsonl` 每条战斗台词的 `context.triggers`，并按声部汇总到 `assets/text-export/battle/triggers.json`；出货文件 `content/dialogue/<locale>/battle/` 每条上方的 `# 触发：` 注释也来自这里。

@@ -1,3 +1,5 @@
+> **语言 / Language:** [中文](shared-game-ui.md) · [Tiếng Việt](shared-game-ui.vi.md) · [English](shared-game-ui.en.md)
+
 # SDL/RmlUi 游戏界面
 
 2026-09-20。游戏内界面默认切换为 SDL2 事件、RmlUi 布局与 FreeType 字体、

@@ -1,3 +1,5 @@
+> **语言 / Language:** [中文](hd-ai-exploration.md) · [Tiếng Việt](hd-ai-exploration.vi.md) · [English](hd-ai-exploration.en.md)
+
 # UI 与纹理高清化：阿里云 AI 选型调查
 
 调查日期：2026-09-08。结论：采用字体／规则图形重建、保真超分、受约束生成式重绘的组合，优先验证过场背景与少量装饰资产。

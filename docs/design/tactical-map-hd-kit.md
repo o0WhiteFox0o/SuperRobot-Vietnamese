@@ -1,3 +1,5 @@
+> **语言 / Language:** [中文](tactical-map-hd-kit.md) · [Tiếng Việt](tactical-map-hd-kit.vi.md) · [English](tactical-map-hd-kit.en.md)
+
 # 战术地图 HD：清单重整、动态元素与 image_gen 生成包规划
 
 2026-09-25。战术地图的 HD 底图改由 Codex 的 image_gen 来画（与[剧情世界地图](../native/native-worldmap-regions-hd.md#改用-image_gen2026-09-25)相同做法）。本文按「HD 资产」的口径重新整理地图清单，逐项确认地图上的动态元素在 HD 下怎样保留，规划生成包的组成，并给出地形面板「伪 tile」的做法。运行时机制沿用 [HD 化规划 §3](hd-pipeline-plan.md#3-战术地图)（地图 20 样板），逐张的动态数据见[战术地图清单](../data/tactical-maps.md)。

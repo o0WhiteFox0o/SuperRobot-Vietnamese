@@ -1,3 +1,5 @@
+> **语言 / Language:** [中文](script-semantics-confirmation.md) · [Tiếng Việt](script-semantics-confirmation.vi.md) · [English](script-semantics-confirmation.en.md)
+
 # 剩余指令的语义确认
 
 2026-09-12。当前 1,812 个事件都可解析到结束符，普通指令 73 槽、条件指令 30 种的边界与分发表已覆盖。普通指令的语义标记为：73 项 `code-confirmed`、0 项 `structure-confirmed`、0 项 `unknown`（2026-09-17，迷你关卡逐条补测后）。这三个状态记录证据强度，`code-confirmed` 也不等于完成游戏运行验收。

@@ -1,3 +1,5 @@
+> **语言 / Language:** [中文](three-platform-port.md) · [Tiếng Việt](three-platform-port.vi.md) · [English](three-platform-port.en.md)
+
 # 三平台移植计划：Windows / Linux / macOS
 
 2026-09-24。接续 [P0 发布计划](cross-platform-release-plan.md) 与 [P1 原生导入](native-rom-importer.md)。

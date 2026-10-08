@@ -1,3 +1,5 @@
+> **语言 / Language:** [中文](native-foundations-verification.md) · [Tiếng Việt](native-foundations-verification.vi.md) · [English](native-foundations-verification.en.md)
+
 # 语言设置、保存集合与状态对照
 
 2026-09-12。范围为项目自有模块，不接入外部 MOD。语言内容生产另排期；原版随机时序保持不变，只验证并记录差异。

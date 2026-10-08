@@ -1,3 +1,5 @@
+> **语言 / Language:** [中文](steam-deck-controls.md) · [Tiếng Việt](steam-deck-controls.vi.md) · [English](steam-deck-controls.en.md)
+
 # Steam Deck 键位与按键图标
 
 2026-09-25。Steam Deck 版按 **Steam 默认手柄模板**操作，玩家不用改 Steam 输入设置。本页记录现在的键位（以代码为准）、这次补上的设置入口，以及按键图标（PromptFont）。上级计划见[三平台移植](three-platform-port.md) X2，构建与安装见 [Linux 构建](../guide/linux-build.md)。

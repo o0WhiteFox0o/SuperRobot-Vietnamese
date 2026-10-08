@@ -1,3 +1,5 @@
+> **语言 / Language:** [中文](original-controls.md) · [Tiếng Việt](original-controls.vi.md) · [English](original-controls.en.md)
+
 # 原版按键绑定（静态分析）
 
 2026-09-28。本文回答「游戏本体怎么读手柄、每个键在每个画面里做什么」。全部结论来自反汇编（`build/recomp/cpu-scan/<overlay>/*.text.s`）和 ROM 数据表，**没有实机验证**；已有实机记录的地方注明出处。宿主侧（键盘／手柄 → N64 掩码、重映射）不在本文范围，见 [Steam Deck 键位](../design/steam-deck-controls.md) 与 `src/host/input_bindings.hpp`。

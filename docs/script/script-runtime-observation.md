@@ -1,3 +1,5 @@
+> **语言 / Language:** [中文](script-runtime-observation.md) · [Tiếng Việt](script-runtime-observation.vi.md) · [English](script-runtime-observation.en.md)
+
 # 第一次静音脚本运行观察
 
 后续进展：[男性超级系开场与 3D3C 单位移动](script-3d3c-runtime.md)。下面保留第一次运行的证据范围。

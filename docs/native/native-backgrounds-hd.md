@@ -1,3 +1,5 @@
+> **语言 / Language:** [中文](native-backgrounds-hd.md) · [Tiếng Việt](native-backgrounds-hd.vi.md) · [English](native-backgrounds-hd.en.md)
+
 # 场间背景 HD
 
 2026-09-24。インターミッション画面的 8 张背景图已生成 HD，并以整张图接入游戏，亮版、暗版各一套。

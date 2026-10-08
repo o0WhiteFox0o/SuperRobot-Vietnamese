@@ -1,3 +1,5 @@
+> **语言 / Language:** [中文](hidden-elements.md) · [Tiếng Việt](hidden-elements.vi.md) · [English](hidden-elements.en.md)
+
 # 隐藏要素、说服与路线分歧：脚本与代码实现
 
 2026-10-01，第二轮全面静态核查。对象是锁定的日版 Rev 0 `rom.z64`：脚本 IR（`assets/original-data/records/stage_events.jsonl`）的**全部 1,812 个事件**逐条扫描（条件块、主角与系别段、选择肢、类型 2/7/9 表头门槛），并把涉及的判定读到常驻代码（`build/recomp/cpu-scan/resident/`）和 overlay（战术 `load_000AB160`、战斗 `load_00121560`、场间 `load_0008F4B0`、世界地图 `load_000A7EC0`、主角选择 `load_001090A0`）。第一轮（2026-09-17）留下的「前置未见」「未核对」「推断」已全部改成代码或脚本结论。**本轮没有运行游戏，也没有写回 ROM**；结论已定、但值得用一次存档复核的点集中在第 10 节。

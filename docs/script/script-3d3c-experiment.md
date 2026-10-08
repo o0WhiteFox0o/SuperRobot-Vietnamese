@@ -1,3 +1,5 @@
+> **语言 / Language:** [中文](script-3d3c-experiment.md) · [Tiếng Việt](script-3d3c-experiment.vi.md) · [English](script-3d3c-experiment.en.md)
+
 # 3D3C 单参数对照实验
 
 2026-09-12。承接[五次原参数观察](script-3d3c-runtime.md)，用固定原生二进制、相同按键和独立空 SRAM 对比男性超级系第一话。运行期间关闭音频设备输出，使用日文、Original 图片与模型显示。

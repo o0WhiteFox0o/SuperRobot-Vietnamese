@@ -1,3 +1,5 @@
+> **语言 / Language:** [中文](native-reading-indicators.md) · [Tiếng Việt](native-reading-indicators.vi.md) · [English](native-reading-indicators.en.md)
+
 # 自动阅读档位、推进进度与双框焦点
 
 日期：2026-09-11。参考用户提供的《机战 Z》截图，把自动档位和推进进度加入原生双对话框。

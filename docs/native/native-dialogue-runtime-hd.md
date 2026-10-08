@@ -1,3 +1,5 @@
+> **语言 / Language:** [中文](native-dialogue-runtime-hd.md) · [Tiếng Việt](native-dialogue-runtime-hd.vi.md) · [English](native-dialogue-runtime-hd.en.md)
+
 # 对话框 HD 边框
 
 2026-09-09 首版，2026-09-24 按原版设计重画。剧情对白框的边框改为高清切片，仍由 RT64 按纹理哈希替换，框的位置、正文底板透明度和文字绘制顺序都沿用游戏。

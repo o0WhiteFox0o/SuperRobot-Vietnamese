@@ -1,3 +1,5 @@
+> **语言 / Language:** [中文](native-model-viewer.md) · [Tiếng Việt](native-model-viewer.vi.md) · [English](native-model-viewer.en.md)
+
 # 本地模型资源浏览与 5600 验证
 
 5600 已增加“原生水滴 · 3,968 面”选项及实际游戏对照。该版本使用宿主 GPU 网格和逐像素光照；试玩入口、接入方式与证据见 [原生模型替换](../native/native-model-replacement.md)。

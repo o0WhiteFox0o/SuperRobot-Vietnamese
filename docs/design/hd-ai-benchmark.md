@@ -1,3 +1,5 @@
+> **语言 / Language:** [中文](hd-ai-benchmark.md) · [Tiếng Việt](hd-ai-benchmark.vi.md) · [English](hd-ai-benchmark.en.md)
+
 # SRW64 阿里云图像高清化首轮实测
 
 2026-09-08。已完成 6 份源图、4 个图像编辑模型、42 张输出的实测，并将一张受保护的高清地图绑定到真实 RT64/Metal 显示列表快照。公开价估算合计 **¥17.64**，没有读取实际账单。

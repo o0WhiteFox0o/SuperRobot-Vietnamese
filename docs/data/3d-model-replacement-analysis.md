@@ -1,3 +1,5 @@
+> **语言 / Language:** [中文](3d-model-replacement-analysis.md) · [Tiếng Việt](3d-model-replacement-analysis.vi.md) · [English](3d-model-replacement-analysis.en.md)
+
 # SRW64 原始 3D 与模型替换分析
 
 2026-09-10 更新：5600 的[原生 GPU 水滴替换](../native/native-model-replacement.md)已完成女主开场到第一话战术地图的有界验证。现代浮点网格与 Metal 材质已接入场景绘制顺序，原游戏提供姿态和相机。

@@ -1,3 +1,5 @@
+> **语言 / Language:** [中文](save-slots-autosave.md) · [Tiếng Việt](save-slots-autosave.vi.md) · [English](save-slots-autosave.en.md)
+
 # 多存档栏、自动存档与模拟器存档互通
 
 2026-10-01。对应[路线图](mod-roadmap.md) B04（多手动槽、安全节点自动保存、轮转备份）。本文只做规划：第 1 节是静态分析的结论（反汇编、现有 SRAM 文件和模拟器源码，未加新探针、未实机运行），第 2 节起是方案。第 3 节列出的开工前核实项已于同日静态补完，结论写回了第 1 节。

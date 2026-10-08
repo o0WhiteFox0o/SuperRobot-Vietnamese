@@ -1,3 +1,5 @@
+> **语言 / Language:** [中文](original-images.md) · [Tiếng Việt](original-images.vi.md) · [English](original-images.en.md)
+
 # 原版图片提取与武器标记
 
 更新：2026-09-11。

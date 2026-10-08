@@ -1,3 +1,5 @@
+> **语言 / Language:** [中文](default-names.md) · [Tiếng Việt](default-names.vi.md) · [English](default-names.en.md)
+
 # 默认姓名的三语显示
 
 2026-09-27。用户定下：主角、搭档的名字和部队名都**不让玩家改**，默认名按阅读语言显示中文、英文或日文。部队名那一半（跳过第 33 话的命名选择、`3D5E` 兜底）见[部队名固定](fixed-unit-name.md)。

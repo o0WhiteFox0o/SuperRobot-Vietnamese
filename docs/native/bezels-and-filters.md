@@ -1,3 +1,5 @@
+> **语言 / Language:** [中文](bezels-and-filters.md) · [Tiếng Việt](bezels-and-filters.vi.md) · [English](bezels-and-filters.en.md)
+
 # 框体与滤镜（RetroArch 兼容）
 
 日期：2026-10-05。设置「通用」页的三行：**框体**、**滤镜**、**滤镜行数**。滤镜支持 Metal（macOS）、Vulkan（Linux、Steam Deck、安卓；Mac 上可用 MoltenVK 试；2026-10-06 Steam Deck 实机通过，2026-10-07 安卓实机通过）与 D3D12（Windows，2026-10-06 加上，见 §2）。用户定：框体只在画面比例设成 4:3 时才有（宽屏照旧填满）；滤镜要兼容 RetroArch 的全部 slang 预设，所以用 librashader 跑，不自己写着色器。

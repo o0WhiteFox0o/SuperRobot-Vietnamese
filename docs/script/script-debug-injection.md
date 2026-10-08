@@ -1,3 +1,5 @@
+> **语言 / Language:** [中文](script-debug-injection.md) · [Tiếng Việt](script-debug-injection.vi.md) · [English](script-debug-injection.en.md)
+
 # 脚本注入调试：用自定义指令验证指令效果
 
 更新：2026-09-16。本页记录原生宿主的脚本注入调试功能：把自己写的事件脚本交给原版脚本引擎在运行中的游戏里执行，用轮询跟踪、状态探针和采样帧核对每条指令的实际效果。它是[剩余指令语义确认](script-semantics-confirmation.md)第 3、4 步的工具，不是脚本写回，也不改变 ROM、目录数据或原事件。

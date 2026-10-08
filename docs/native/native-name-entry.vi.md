@@ -1,0 +1,88 @@
+> **Ngôn ngữ / Language:** [Tiếng Việt](native-name-entry.vi.md) · [English](native-name-entry.en.md) · [中文](native-name-entry.md)
+
+# Trang lựa chọn và xác nhận nhân vật chính
+
+Việc lựa chọn nhân vật chính và chỉnh sửa tên khi mở đầu sẽ được đảm nhận từ ngày 11 tháng 9 năm 2026 và trang lựa chọn nhân vật chính sẽ được thêm vào ngày 18 tháng 9 năm 2026. **Người chơi sẽ không còn được phép đổi tên kể từ ngày 27-09-2026**: Sau khi chọn nhân vật chính, tên mặc định của hai người sẽ được ghi. Chỉ còn hai bước trên trang tên: truyền và xác nhận. Tên mặc định được hiển thị theo ngôn ngữ đọc, xem [Hiển thị ba ngôn ngữ tên mặc định](default-names.md). Trang này là trang SDL/RmlUi được chia sẻ, được vẽ trực tiếp trong cửa sổ trò chơi, bao gồm bảng chọn từ gốc và giao diện người dùng xác nhận, đồng thời không mở cửa sổ phụ (AppKit sẽ không còn được sử dụng từ ngày 22 tháng 9 năm 2026).
+
+## Sử dụng
+
+Khởi động lại `scripts/Play SRW64 Native.command`, chọn trò chơi mới, bỏ qua phần mở đầu công khai và sau đó trang lựa chọn nhân vật chính sẽ xuất hiện. Sau khi xác nhận, hãy vào trang xác nhận. Cả hai bước đều dùng chung một bộ tiêu đề trang và bản sao giao diện có sẵn bằng tiếng Nhật, tiếng Trung và tiếng Anh. Trang này có thể được sử dụng ở cả chế độ Gốc và HD. Đối với avatar nhân vật, bạn có thể chọn ảnh gốc hoặc ảnh HD đã đăng ký tùy theo chế độ.
+
+- **Lựa chọn nhân vật chính** (Thẻ 2×2 bắt đầu từ 2026-09-30, bản phác thảo thiết kế có thể được tìm thấy trong canvas "SRW64 Protagonist Selection Redesign" kế hoạch C của Claude): Có bốn thẻ ở hai hàng và hai cột, theo thứ tự ban đầu - ブラッド (siêu loại, nam), Malima (siêu loại, nữ) ở hàng trên,アークライト (loại thật, nam), セレイン (loại thật, nữ) ở hàng dưới cùng. Ở phía trên bên trái của mỗi thẻ là nhãn tuyến đường chéo (siêu cam, xanh thật). Bên dưới, hai bức chân dung **cùng kích thước** của nhân vật chính và cộng sự của anh ta được đặt cạnh nhau, mỗi bức đều có nhãn "Nhân vật chính/Đối tác" và tên mặc định (ngôn ngữ đọc). Độ dài cạnh của hình đại diện được tính từ cửa sổ: chiều cao của thẻ trừ đi lề sau thẻ, chú thích và tên, khoảng 100 dp (150 pixel) ở định dạng Deck Extra Large.
+- Thao tác: ←→ lặp theo thứ tự ban đầu, ↑↓ đổi dòng; Nhập/Z/A để xác nhận; nhấp chuột hoặc chạm để đánh dấu thẻ, sau đó nhấn "Tiếp tục: Xác nhận". Thanh dưới cùng hiển thị các lời nhắc chính (`select_keyboard_hint`, bên dưới tay cầm là phiên bản `_pad`).
+- Hiệu ứng âm thanh: Phát âm thanh con trỏ gốc khi chuyển đổi và phát âm thanh xác nhận ban đầu khi xác nhận.
+- Trang gốc chưa được trả lại và trang này cũng vậy.
+- **Trang xác nhận**: Hai thẻ ngang ở hàng trên (thẻ nhân vật chính được viền màu lục lam), mỗi thẻ có nhãn lộ trình, hình đại diện hộp, họ tên và "/nickname" (ngôn ngữ đọc, tên đầy đủ được nối với dấu phân cách của ngôn ngữ); hai thẻ ở hàng dưới hiển thị **nội dung ban đầu**: sơ đồ tư thế cơ thể (sử dụng toàn bộ tư thế HD ở chế độ HD, `battle_assets.units` đã đăng ký `hd`), tên nội dung (văn bản) `0x20F + 机体号`, tùy theo ngôn ngữ đọc, người dẫn chương trình sẽ đổi tên khi chuyển đổi ngôn ngữ) và "biệt hiệu của người lái xe". Phần đầu của mỗi tuyến đường được viết bằng `native_name_entry.cpp``route_units`：アースゲイン(34)／ヴァイローズ(35)、スイームルグ(36)／エルブルス(37),ソルデファー(30)/ノウルーズ(327), スヴァンヒルド(32)/シグルーン(328). "Bắt đầu câu chuyện" (Enter/Z/A) đi vào cốt truyện dọc theo lối vào ban đầu; "Quay lại lựa chọn ký tự" (Esc/X/B) quay lại trang truyền hình, giữ nguyên phần đánh dấu ban đầu.
+- **Tỷ lệ cửa sổ**: Trang được sắp chữ theo kích thước dp của cửa sổ (`NamePage::build` sử dụng kích thước và tỷ lệ dp của `context` để tính toán hình đại diện và kích thước thẻ, đồng thời xây dựng lại trang đó khi kích thước cửa sổ hoặc giao diện thay đổi) và hình đại diện được lấy mẫu lại theo chiều rộng hiển thị thông qua `NameActions::image`. Khi SDL cập nhật trước lớp Metal, nó cũng đồng bộ hóa kích thước mô tả có thể vẽ của Plume để tránh sử dụng kích thước cửa sổ cuối cùng cho đoạn hội thoại sau khi quay lại cốt truyện.
+- **Chuyển ngôn ngữ**: F7 hoặc đặt thành chuyển ngôn ngữ, trang sẽ được xây dựng lại ngay lập tức bằng ngôn ngữ mới.
+
+## Ranh giới thích ứng
+
+**Có thể tắt** (23-09-2026): Chọn phiên bản gốc (`name_entry_ui` của `presentation.json`, giao diện gỡ lỗi `settings {"name_entry_ui": "original"}`) trong trang cài đặt "Lựa chọn nhân vật chính". Lần tiếp theo khi một trò chơi mới bước vào phần lựa chọn nhân vật chính, trang gốc sẽ được sử dụng; `SRW64_NATIVE_NAME_ENTRY=0` sẽ giữ lại phiên bản gốc trong toàn bộ quá trình chạy. Tập lệnh xác minh `tools/recomp/debug/check_name_entry_ui_switch.py` (23-09-2026, `build/recomp/debug/20260923T045705.937081Z/`, đã vượt qua 3 mục: Mở trò chơi mới sau khi đặt màn hình tiêu đề về phiên bản gốc, nhấp vào phần mở đầu để xuất hiện trang シナリオselect択 gốc thay vì trang gốc, `name-entry-original.png`; khi cài đặt lại phiên bản mới, `presentation-settings.json` ghi `name_entry_ui`). Trang gốc cũng không thể đổi tên: sau "はい" ban đầu, máy chủ ghi tên mặc định, đặt `801C70F4 = 2`, mờ dần và đi thẳng đến phần mở đầu tuyến đường mà không cần vào trang chọn từ gốc (27/09/2026, phần kiểm tra này đã được thêm vào tập lệnh và chưa được chạy trên máy thực tế). `SRW64_NATIVE_NAME_ENTRY=0` vẫn giữ lại tất cả các trang gốc và chỉ được sử dụng để tái tạo đường cơ sở cũ.
+
+Phân phối mã:
+- bắc cầu tại `src/host/native_name_entry.cpp`;
+- Giao diện người dùng gốc trong `src/native/ui/name_page.cpp` (RmlUi);
+- Giải mã glyph ở dạng `src/native/game_adapter/name_codec.hpp` và bảng tên mặc định ở dạng `src/native/game_adapter/default_names.hpp`;
+- Các mục giao diện có dạng `content/locales/{ja,zh-Hans,en}.json` (`select_*`, `name_*`, `review_keyboard_hint` và các tên khóa được đăng ký trong `UI_KEYS` của `src/srw64_native/profile.py`).
+
+Giao diện người dùng nền tảng chỉ nhận các yêu cầu bất biến và báo cáo các hành động ngữ nghĩa; chỉ chuỗi trò chơi mới đọc và sửa đổi RDRAM và chuỗi giao diện người dùng không gọi hàm gốc.
+
+**Hook**: Chặn 4 cặp chức năng của ROM `0x1090A0`:
+- `801C5004/801C50B8`: Lựa chọn nhân vật chính;
+- `801C5494/801C5644`, `801C5920/801C5AD0`: Chỉnh sửa tên nhân vật chính và đối tác; chúng sẽ không còn được mở trên trang gốc nữa và sẽ chỉ được trả về phiên bản gốc khi quá trình ghi không thành công;
+- `801C5DAC/801C5E88`: Xác nhận cuối cùng.
+
+Che màn hình gốc ngay sau khi khởi tạo và chỉ chấp nhận thao tác sau khi quá trình làm mờ ban đầu hoàn tất.
+
+Khi **chọn tuyến đường**, chuỗi trò chơi sẽ xử lý tuyến đường đó theo thứ tự "はい" ban đầu: âm thanh xác nhận, ghi lại tuyến đường, đặt lại mẫu khi tuyến đường thay đổi và gọi `801C3744`. Sau đó viết tên mặc định: đặt họ, tên và biệt hiệu (tên được cắt thành 5 khoảng trắng, アークライト được cắt thành 3 khoảng trắng, giống như `801C3744`) vào bộ đệm chỉnh sửa `801C71E0`, và chức năng xác minh ban đầu `801C474C` được điều chỉnh một lần cho nhân vật chính và đối tác, đồng thời ghi ra bốn trường của vùng tên. Cuối cùng, trạng thái trang `801C6FB0` được đặt thành 3 và chuyển sang trang xác nhận. Khi xác minh bị từ chối, trạng thái được đặt thành 1, trang tên ban đầu được nhập và nhật ký ghi lại `defaults-rejected`.
+
+**Trang xác nhận**: "Bắt đầu câu chuyện" viết cờ thoát ban đầu `801C70F4 = 2` và gọi bản gốc mờ dần; "Trở lại" đặt trạng thái thành 0 và quay lại trang truyền hình. Lối vào cốt truyện vẫn tuân theo logic trò chơi gốc. Việc thay đổi tên robot nằm ngoài phạm vi sửa đổi này.
+
+**Trang lựa chọn nhân vật chính** (2026-09-18): Bản gốc `801C50B8` Ở trạng thái duyệt web, sử dụng phím trái và phải (`801C34E4`) để quay vòng 0–3 trong `801C70FA`, A Khi mở "はい／いいえ" và "はい", nếu tuyến đường này khác với lộ trình được xác nhận lần trước (`801C70B0`), điền 30 ký tự vào mỗi vùng trong hai vùng tên là `0x1549` và gọi `801C3744` để tải tên mặc định của tuyến đường, sau đó đặt từ trạng thái `801C6FB0` 1. Viết tuyến đường và gọi fadeout `80099814(5,1,2)`; phiên bản gốc không có phím quay lại. Khi trang gốc được xác định, nó sẽ được thực thi theo cùng thứ tự trên chuỗi trò chơi (bao gồm âm thanh xác nhận 0xB7 của `8007E8A8`), mà không cần thông qua "はい／いいえ", sau đó tên mặc định (xem ở trên) được viết; âm thanh con trỏ 0xB9 được phát một lần mỗi bước trong khi duyệt. Tên mặc định trên thẻ được đọc từ cùng một bộ bảng được sử dụng bởi `801C3744`: tên `801C6C00`, họ `801C6C70`, mỗi tuyến có 7 mã, đối tác là +0x38 và kết thúc bằng 0xCA (tức là `0x1549`); mỗi mã là một từ trong bảng chọn từ, tương ứng với văn bản id bảng 0 Một glyph cho `0x147F + 码`. Khi giải mã không thành công (xuất hiện các ký tự không được nhận dạng), trang gốc được giữ lại và tên mặc định vẫn được viết sau "はい" ban đầu. `tests/test_protagonist_select.py` kiểm tra tám hướng dẫn chính của tên mặc định và đường dẫn "はい" đối với ROM, `tests/native_name_entry.cpp` ghi đè lựa chọn, viết phần cắt ngắn tên và biệt hiệu mặc định, tải lại mẫu khi tuyến đường thay đổi, quay lại và bắt đầu trang xác nhận và bắt đầu trực tiếp với "はい" ban đầu.
+
+2026-09-18 Thử nghiệm thực tế bằng [Giao diện gỡ lỗi](../guide/debug-interface.md) (nhập trang chỉnh sửa tên sau khi xác nhận): Trang lựa chọn xuất hiện sau khi trò chơi mới bỏ qua phần mở đầu công khai, `status.name_page` liệt kê tên mặc định của bốn tuyến đường; `uikey right` đánh dấu 1; nhấp vào "セレイン・メネス" để đánh dấu 3. Nhấp vào OK lần nữa và trang tên được điền sẵn セレイン/メネス/セレイン (giá trị mặc định của tuyến đường 3 được tải từ `801C3744` ban đầu); "Quay lại lựa chọn ký tự" quay lại trang lựa chọn và giữ điểm đánh dấu 3, Enter để xác nhận lại, tên sẽ không được đặt lại; mã thoát 0. Thử nghiệm thực tế đầu tiên cho thấy rằng khi đọc thẻ từ bàn phím hoặc `performClick:` được kích hoạt, một ngoại lệ sẽ được đưa ra. Nó đã được thay đổi thành chỉ đọc khi có sự kiện chuột.
+
+Chia tỷ lệ cửa sổ cũng sửa lỗi đồng bộ hóa kích thước của phiên bản Plume cố định: SDL có thể cập nhật `CAMetalLayer.drawableSize` trước và `MetalSwapChain::resize` ban đầu bỏ qua cập nhật mô tả có thể vẽ khi kích thước giống nhau, khiến cho bộ đệm khung và đoạn hội thoại gốc tiếp theo vẫn được vẽ ở kích thước cũ. Bản vá được kiểm soát cho `prepare_rt64.py` di chuyển các bản cập nhật mô tả ra ngoài tình trạng này, duy trì khóa phiên bản phụ thuộc cũng như kiểm tra trước và sau SHA-256. Kiểm tra máy thực tế thêm một xác nhận rằng kích thước của `dialogue-raster.json` phù hợp với cửa sổ sau khi quay lại biểu đồ.
+
+`Request.visible` được tách khỏi `active`: Các trang được giữ nguyên trong quá trình truyền sang quá trình chuyển đổi xác nhận, quay lại truyền và chờ thoát. Mỗi khối lượng công việc RT64 ghi lại xem màn hình gốc có nên được che hay không và bản đồ cơ sở tương ứng sẽ bị xóa ở cuối; lỗi cảnh được đánh giá bằng các khoảng địa chỉ mã chồng chéo (đoạn mở đầu tiếp theo được tải từ `801C4500`) và lớp phủ chỉ bị xóa sau khi khung thoát hoàn tất. Ảnh chụp màn hình thử nghiệm nên sử dụng ảnh chụp màn hình cửa sổ trò chơi thực. Chỉ riêng việc đọc lại GPU sẽ chỉ chứa nền được đặt tên và không thể được sử dụng làm bằng chứng trực quan của trang.
+
+`src/srw64_native/name_assets.py` Trích xuất tám hình đại diện gốc từ bảng lộ trình ký tự và bảng tài nguyên khuôn mặt của ROM gốc. Ở chế độ HD, phiên bản HD của mỗi hình đại diện được lấy từ toàn bộ bộ hình đại diện (xem [Hình đại diện nhân vật HD](native-portraits-hd.md)) và trang truyền hình không còn được đăng ký riêng nữa.
+
+| Lĩnh vực | Địa chỉ nhân vật | Địa chỉ đối tác |
+| --- | --- | --- |
+| Tên | `8010F5F8` | `8010F608` |
+| Họ | `8010F618` | `8010F628` |
+| Biệt danh | `8010F638` | `8010F644` |
+| Tên đầy đủ | `8010F650` | `8010F674` |
+
+Tên đầy đủ được kết nối với điểm giữa `0x00E7` ban đầu, chuỗi được kết thúc bằng `0xFFFF` và chỉ hình tượng gốc được lưu trữ trong trường. Bản ghi từ ảo `E000..E81E` được chuẩn bị trước đó cho "Trả lại và Thay đổi" sẽ bị xóa cùng với trang chỉnh sửa.
+
+Khi trang đang mở, tất cả các nút trò chơi và cần điều khiển đều bị chặn, cũng như Esc để thoát trò chơi và F6 để cắt hình ảnh. Sau khi rời khỏi trang, hãy đợi các phím vật lý liên quan được giải phóng trước khi tiếp tục nhập trò chơi để ngăn chặn sự xâm nhập của Z/X vào Enter, phím định hướng và đầu vào. Kiểm tra phát hành vật lý này thuộc về lớp nền tảng macOS. Nó chỉ đợi một lần mỗi khi trang được đóng và chỉ được tính khi cửa sổ trò chơi có tiêu điểm. Sửa chữa 18-09-2026: Kiểm tra trước tiếp tục mọi khung hình sau khi đóng và mọi phím trò chơi được giữ sau đó (chuyển tiếp nhanh E+Z, cỡ chữ I/K, xem lại Q, bỏ qua E+Enter trong phần mở đầu tuyến đường) sẽ bị chặn vì "vẫn đang được phát hành"; nó đọc trạng thái bàn phím cấp hệ thống và việc gõ vào các ứng dụng khác cũng sẽ chặn hoạt động nhập trò chơi.
+
+## Xác minh và bằng chứng
+
+Trang hiện tại được điều khiển bởi [Giao diện gỡ lỗi](../guide/debug-interface.md): `ui.click` và `ui.key` vận hành các thẻ và nút, `status.name_page` đưa ra yêu cầu hiện tại (trang truyền được đính kèm với tên mặc định bằng tiếng Nhật của bốn tuyến); việc viết và bắt đầu tên được ghi bằng `name-entry-events.jsonl` (`selected`, `back`, `started`, `original-started`, `defaults-rejected`).
+- Đầu dò ngoại tuyến `srw64-ui-probe` (`cmake --build build/recomp/gfx-build --target srw64-ui-probe`) có thể vẽ hai trang này mà không cần mở trò chơi: `--dialogue` đặt cho nó hình đại diện của `name_entry_assets` và tư thế cơ thể ban đầu là `battle_assets.units`, `--density` là tỷ lệ dp của máy chủ (truyền cực lớn Deck mô phỏng trên Retina Mac 2.96, file chuẩn 2.0), trong tập lệnh `resize`/`capture`/`click`/`key`/`language`. Lịch thi đấu sử dụng tám tên mặc định của ROM và tên nội dung ban đầu của mỗi tuyến đường. Nhấn `content/locales/terms/<语言>.json` và `default_names` và `units` để thay đổi sang ngôn ngữ đọc. Đối với hình đại diện, nhấn `route_faces` để biết tuyến đường. Đây là cách kiểm tra phiên bản 2×2 của 2026-09-30 ở ba kích thước: 1280×800 cực lớn, 1280×800 tiêu chuẩn và 960×720 và bằng ba ngôn ngữ. RmlUi không có xác nhận sắp chữ.
+- Hai cạm bẫy của RmlUi: `display:flex` văn bản được viết trực tiếp trong vùng chứa không được hiển thị và phải bao gồm `<span>`; khi hộp linh hoạt được nhúng vào mục linh hoạt `flex:1 1 0`, RmlUi sẽ sắp xếp lại hộp theo nội dung tối thiểu và lỗi làm tròn sẽ kích hoạt xác nhận `containing_block.x >= 0` - do đó, bốn thẻ trên trang xác nhận được thay đổi thành chiều rộng rõ ràng.
+- `tools/recomp/verify/verify_shared_ui.py`: Truyền, trang xác nhận tên ba thứ tiếng, cài đặt, thu phóng, quay lại và bắt đầu.
+- `tools/recomp/debug/check_name_entry_ui_switch.py`: Chuyển đổi trang gốc/hiện đại, "はい" gốc bắt đầu trực tiếp.
+- `tools/recomp/debug/check_dialogue.py`: Trong trò chơi mới, hãy sử dụng Enter để hoàn tất việc lựa chọn và xác nhận nhân vật chính và vào cốt truyện.
+
+27-09-2026 Sau khi thay đổi tên thành không được phép, hai tập lệnh đầu tiên ở trên đã được viết lại và chưa được chạy trên máy thực tế. Kiểm tra thành phần: `make recomp-name-entry-test`, ASan+UBSan ghi đè cách viết tên mặc định và cắt bớt biệt hiệu, quay lại trang gốc khi xác minh bị từ chối, thời gian cắt cảnh, quay lại, "はい" ban đầu, từ chối yêu cầu cũ, sử dụng khóa và lưu giữ đăng ký khách.
+
+**Lịch sử (trang chỉnh sửa tên từ 2026-09-11 đến 27-09)**:
+- Trang chỉnh sửa RmlUi từ 18-09-2026 đến 27-09: ba hộp nhập có thể chỉnh sửa tên, họ và biệt danh cùng lúc, hỗ trợ nhóm và dán phương thức nhập từ, giới hạn ở thư viện phông chữ gốc và 7/7/5 ký tự; toàn bộ quá trình khôi phục sẽ xảy ra khi xác minh ký tự và xác minh ban đầu không thành công; trang chỉnh sửa có thể được quay lại để thực hiện thay đổi. 27-09-2026 Xóa với dòng chữ "Không được phép đổi tên".
+- 2026-09-11 đến 18-09 là phiên bản AppKit:
+- Được điều khiển bởi tệp kiểm soát `SRW64_NAME_ENTRY_CONTROL` và verify_native_name_entry.py tại thời điểm đó; cả hai đều đã bị xóa bằng trang AppKit.
+- Phiên bản đó đã được kiểm tra: không có cửa sổ con, các trường được nhúng, Tab và Shift-Tab, thu phóng 800×600 / 1200×800, đầu vào không hợp lệ và từ chối tên trùng lặp ban đầu, hủy trả lại, chỉnh sửa lại trang xác nhận kép, tám trường tên cho hai ký tự và biệt danh tùy chỉnh "ヒカリ" để vào cốt truyện.
+- Thư mục đang chạy:
+- `build/recomp/cleanup-check/name-window/`: Đặt tên hoàn chỉnh, ghi lại tám trường, nhập cốt truyện, phóng to và đóng cửa sổ thực, mã thoát 0;
+- `build/recomp/window-close-check/{window-1,control-trace,window-trace}/`: đã vượt qua ba vòng, vui lòng xem [Xác minh thoát](native-window-close.md) để biết các lỗi trong vòng đời thoát;
+- `build/recomp/name-page/live-4/` (HD tiếng Trung), `ja-original/` (Bản gốc tiếng Nhật), `final-hd/` (sau khi hiển thị bản vá kích thước, máy chủ thoát ra và gặp sự cố khi VI 2855 đóng cửa sổ, `final-review.json` được ghi riêng);
+- Cửa sổ bật lên cũ được triển khai trong `build/recomp/name-input/runtime-2/`.
+- Không có nội dung nào trong số này thể hiện giao diện của trang hiện tại.
+- Kiểm tra tự động lúc đó là chèn văn bản vào `NSTextView`, không tương đương với thao tác thủ công đối với hộp ứng viên phương thức nhập.
+- Đọc lại khởi động nguội vẫn không được thực thi sau khi lưu trong trò chơi: Trường bộ nhớ tên gốc và cách sử dụng cốt truyện đã được chứng minh, chuyến đi khứ hồi SRAM chưa được đánh dấu là đã vượt qua.
+
+Tập lệnh nút N64 cũ xác nhận tên bằng cách di chuyển hộp chọn từ và không thể vận hành trang gốc và hộp chọn từ không còn xuất hiện trên trang gốc nữa. Thêm `--original-name-entry` vào `run_host_probe.py` khi sao chép đường cơ sở cũ và mẫu sẽ được ghi lại trong báo cáo. Chỉ phát lại khung hình cố định, chỉ dành cho CPU và chạy bản vá giai đoạn 1 cũ tiếp tục duy trì trình nhập khẩu vanilla.

@@ -1,3 +1,5 @@
+> **语言 / Language:** [中文](upgrade-limits.md) · [Tiếng Việt](upgrade-limits.vi.md) · [English](upgrade-limits.en.md)
+
 # 改造段数与“丑小鸭”上限：每段增量、价格、机体设置与 MOD 设计
 
 日期：2026-09-18。范围：日版 Rev 0 ROM 与本项目的静态反汇编（`build/recomp/cpu-scan`）、已提取的机体／武器目录（`assets/original-data/records`）。第 1～6 节是静态分析；第 7 节的一期 MOD（数值可配置、上限突破到 15、改造画面显示原作上限）已实现，并在 2026-09-18 用两次有界运行核对了改造画面（7.5 节）；仍未实机确认的条目在第 8 节。换机时段数如何搬运见[改造继承分析](upgrade-inheritance.md)，本文不重复。

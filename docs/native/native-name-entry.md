@@ -1,3 +1,5 @@
+> **语言 / Language:** [中文](native-name-entry.md) · [Tiếng Việt](native-name-entry.vi.md) · [English](native-name-entry.en.md)
+
 # 主角选择与确认页
 
 2026-09-11 起接管开场的主角选择与姓名编辑，2026-09-18 加入主角选择页。**2026-09-27 起不再让玩家改名**：选定主角即写入两人的默认名，姓名页只剩选角和确认两步，默认名按阅读语言显示，见[默认姓名三语显示](default-names.md)。页面是共享的 SDL／RmlUi 页面，直接画在游戏窗口里，盖住原版选字表和确认 UI，不开子窗口（2026-09-22 起不再用 AppKit）。

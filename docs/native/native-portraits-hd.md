@@ -1,3 +1,5 @@
+> **语言 / Language:** [中文](native-portraits-hd.md) · [Tiếng Việt](native-portraits-hd.vi.md) · [English](native-portraits-hd.en.md)
+
 # 人物头像 HD
 
 2026-09-24。全部人物头像已生成高清母版、抠好透明，并以**整张图**接入游戏：每张头像一张 768×768 的图，宿主在游戏画头像的位置一次画上去，不再按 32×32 小块做纹理替换。抠图方法与旧版问题见[原图与高清图](native-content-foundation.md#原图与高清图)。

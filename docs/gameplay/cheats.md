@@ -1,3 +1,5 @@
+> **语言 / Language:** [中文](cheats.md) · [Tiếng Việt](cheats.vi.md) · [English](cheats.en.md)
+
 # 金手指
 
 日期：2026-10-05。设置窗口的「作弊」页（在「规则」之后），默认全部关闭；机师等级一行默认收起，点「展开」才列出机师。内容是用户定的六项，全部按原版代码里的字段与上限自己实现，不读 GameShark 码，不导入 RetroArch 的 `.cht`。代码：`src/host/cheats.hpp`（字段、上限与每帧写入规则）、`src/host/cheats.cpp`（钩子、机师列表、改等级），界面在 `frontend.cpp` 的 `cheats_page`（展开状态不保存，每次打开设置都是收起的），开关随 `presentation-settings.json` 的 `cheats` 保存。

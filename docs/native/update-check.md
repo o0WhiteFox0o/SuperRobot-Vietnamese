@@ -1,3 +1,5 @@
+> **语言 / Language:** [中文](update-check.md) · [Tiếng Việt](update-check.vi.md) · [English](update-check.en.md)
+
 # 更新检查
 
 2026-10-06。桌面三平台（macOS、Windows、Linux／Steam Deck）的游戏内更新检查：游戏只读官网的 `/latest.json`，不带标识、不下载；首次联网前先问玩家，之后可在设置里关掉。安卓不做（`update::supported()` 为假，「关于」页只有链接行）。

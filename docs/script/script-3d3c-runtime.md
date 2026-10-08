@@ -1,3 +1,5 @@
+> **语言 / Language:** [中文](script-3d3c-runtime.md) · [Tiếng Việt](script-3d3c-runtime.vi.md) · [English](script-3d3c-runtime.en.md)
+
 # 3D3C：男性超级系开场的静音运行观察
 
 后续进展见[单参数对照实验](script-3d3c-experiment.md)。本文保留原参数观察时的证据边界。

@@ -1,3 +1,5 @@
+> **语言 / Language:** [中文](native-enhancements-plan.md) · [Tiếng Việt](native-enhancements-plan.vi.md) · [English](native-enhancements-plan.en.md)
+
 # SRW64 原生增强实施方案
 
 2026-09-12 规划更新：后续优先级和首发边界以 [MOD 产品路线图](mod-roadmap.md)为准。

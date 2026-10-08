@@ -1,3 +1,5 @@
+> **语言 / Language:** [中文](recomp-peer-comparison.md) · [Tiếng Việt](recomp-peer-comparison.vi.md) · [English](recomp-peer-comparison.en.md)
+
 # 相近 N64 recomp 项目与 SRW64 增强可行性
 
 核查日期：2026-09-10。

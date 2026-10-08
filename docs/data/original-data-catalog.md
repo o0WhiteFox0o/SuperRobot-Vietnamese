@@ -1,3 +1,5 @@
+> **语言 / Language:** [中文](original-data-catalog.md) · [Tiếng Việt](original-data-catalog.vi.md) · [English](original-data-catalog.en.md)
+
 # 原始游戏数据目录与解析进度
 
 更新：2026-09-12。

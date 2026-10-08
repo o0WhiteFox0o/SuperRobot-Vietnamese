@@ -1,3 +1,5 @@
+> **语言 / Language:** [中文](story-reader.md) · [Tiếng Việt](story-reader.vi.md) · [English](story-reader.en.md)
+
 # 剧情审阅站
 
 2026-09-12。沿用 Z 审阅站的连续对白、人物头像、章节导航、全文搜索与逐句定位方式，使用 SRW64 已提取的原始脚本生成只读页面。

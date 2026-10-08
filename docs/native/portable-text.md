@@ -1,3 +1,5 @@
+> **语言 / Language:** [中文](portable-text.md) · [Tiếng Việt](portable-text.vi.md) · [English](portable-text.en.md)
+
 # 中日英跨平台文字与游戏对白
 
 2026-09-20。实际游戏的正文、人名、分页提示、阅读进度、底栏和回看现在默认使用

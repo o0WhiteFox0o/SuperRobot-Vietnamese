@@ -1,3 +1,5 @@
+> **语言 / Language:** [中文](recomp-plan.md) · [Tiếng Việt](recomp-plan.vi.md) · [English](recomp-plan.en.md)
+
 # SRW64 静态重编译方案
 
 建议采用 **N64Recomp + N64ModernRuntime + RT64**，先完成日版原生可玩纵向样片，

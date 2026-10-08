@@ -1,3 +1,5 @@
+> **语言 / Language:** [中文](native-battle-ui.md) · [Tiếng Việt](native-battle-ui.vi.md) · [English](native-battle-ui.en.md)
+
 # 战前确认 UI
 
 日期：2026-09-20。原生 profile 运行默认在选定武器与目标后显示 SDL/RmlUi 战前确认页。敌方攻击时也用同一页面选择反击、回避或防御。场景是自制 `battle-ui` 迷你关卡，不是独立网页原型。

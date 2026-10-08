@@ -1,3 +1,5 @@
+> **语言 / Language:** [中文](native-window-close.md) · [Tiếng Việt](native-window-close.vi.md) · [English](native-window-close.en.md)
+
 # 关闭窗口时的宿主退出问题
 
 2026-09-12 更新：已实现游戏线程的协作停止、唤醒和完整回收；现代姓名→剧情关窗及原版姓名页面关窗的最终版本均已通过。原先“释放 RDRAM 时还有 4 个游戏线程存活”的缺陷在这些入口中已消除。VI 自动退出的本轮结果与完整证据汇总见下方验收记录；不据此宣称全游戏、存档恢复或任意卡死场景已验收。

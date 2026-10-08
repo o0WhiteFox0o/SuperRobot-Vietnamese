@@ -1,3 +1,5 @@
+> **语言 / Language:** [中文](hd-pipeline-plan.md) · [Tiếng Việt](hd-pipeline-plan.vi.md) · [English](hd-pipeline-plan.en.md)
+
 # HD 化：现状、接入方式与后续
 
 2026-09-23 起草，2026-09-24 按实际实现改写。产品边界沿用[内置 MOD 路线图](mod-roadmap.md) §6（Original / HD 逐项可回退，缺哪项就用原图）。全 ROM 资源盘点、每类的阿里云模型选择见 [HD 资产盘点](../data/hd-asset-inventory.md)；战术地图逐张的动态效果见[战术地图清单](../data/tactical-maps.md)。

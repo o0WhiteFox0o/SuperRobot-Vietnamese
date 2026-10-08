@@ -1,3 +1,5 @@
+> **语言 / Language:** [中文](upgrade-inheritance.md) · [Tiếng Việt](upgrade-inheritance.vi.md) · [English](upgrade-inheritance.en.md)
+
 # 改造继承：换机时段数如何搬运，以及哪些是真的漏项
 
 日期：2026-09-18。范围：日版 Rev 0 ROM 与本项目的静态反汇编（`build/recomp/cpu-scan`）、已提取的机体／武器目录（`assets/original-data/records`）。**本文全部结论来自静态分析，没有运行游戏复现**；需要运行才能定论的条目集中列在第 7 节。对照[原版 Bug 登记](original-bug-register.md)的 BUG07／BUG08／LEAD01／WATCH01／WATCH02。

@@ -1,3 +1,5 @@
+> **语言 / Language:** [中文](battle-cutins.md) · [Tiếng Việt](battle-cutins.vi.md) · [English](battle-cutins.en.md)
+
 # 战斗 cut-in 总表
 
 2026-09-30 整理。战斗演出里的特写（cut-in）一共 55 个场景，全在战斗场景登记表（ROM `0x11E3D0`）的 984–1038 项。本文按招式列出每一项画的是什么、尺寸与帧数、哪件武器怎样引用。格式与解码见[战斗图像](battle-graphics.md)，渲染机制、遮框与 HD 路线见[战斗演出渲染机制](../design/battle-animation-rendering.md) §6.3／§7。

@@ -1,3 +1,5 @@
+> **语言 / Language:** [中文](link-battler.md) · [Tiếng Việt](link-battler.vi.md) · [English](link-battler.en.md)
+
 # Link Battler 联动：F91、ゴーショーグン、ザンボット3 如何开放
 
 2026-09-19。本文基于锁定的日版 Rev 0 `rom.z64` 做静态分析：常驻代码的 GB Pak 驱动层、整备画面 overlay `load_0008F4B0`（ROM `0x8F4B0`，VRAM `801C4500`；表的 ROM 偏移 = VRAM − `0x801C4500` + `0x8F4B0`），以及 `assets/original-data/records` 里场景 109–122 的脚本和部署记录。社区资料对照 [Akurasu Wiki：Link Battler Units][wiki]（同日检索）。**本轮没有运行游戏，也没有 Link Battler 的卡带或存档可以对照**，需要运行才能定论的条目列在第 8 节。

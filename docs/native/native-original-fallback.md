@@ -1,3 +1,5 @@
+> **语言 / Language:** [中文](native-original-fallback.md) · [Tiếng Việt](native-original-fallback.vi.md) · [English](native-original-fallback.en.md)
+
 # Original 模式的 HD 资源回退
 
 日期：2026-09-12。属于本项目内置呈现模块；没有新增外部 MOD 接口。

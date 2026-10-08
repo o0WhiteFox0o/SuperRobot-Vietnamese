@@ -1,3 +1,5 @@
+> **语言 / Language:** [中文](dialogue-typesetting.md) · [Tiếng Việt](dialogue-typesetting.vi.md) · [English](dialogue-typesetting.en.md)
+
 # 对白排版：多显示字、少翻页
 
 日期：2026-09-23。用户定下的目标是：对白框尽量多显示字，减少按 A 翻页的次数。本文记录为此定下的字体和排版规则、依据的数据，以及原生要改的地方。

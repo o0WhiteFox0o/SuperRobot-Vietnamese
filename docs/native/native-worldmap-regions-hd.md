@@ -1,3 +1,5 @@
+> **语言 / Language:** [中文](native-worldmap-regions-hd.md) · [Tiếng Việt](native-worldmap-regions-hd.vi.md) · [English](native-worldmap-regions-hd.en.md)
+
 # 剧情世界地图 HD：全部区域
 
 2026-09-24。剧情里场景之间的背景是世界地图 overlay（`load_000A7EC0`）画的，现在所有区域都是 HD。2026-09-25 起全部四个地表由 Codex 的 image_gen 重画（[改用 image_gen](#改用-image_gen2026-09-25)），画风沿用第一话欧洲的 image_gen 版（[世界地图 HD](native-worldmap-hd.md)）。2026-09-25 起欧洲改由百炼在 image_gen 版上补细节，见[欧洲改用百炼](#欧洲改用百炼2026-09-25)。

@@ -1,3 +1,5 @@
+> **语言 / Language:** [中文](shared-name-page-probe.md) · [Tiếng Việt](shared-name-page-probe.vi.md) · [English](shared-name-page-probe.en.md)
+
 # RecompFrontend 共享姓名页原型
 
 2026-09-20。接续[跨平台发布计划](../design/cross-platform-release-plan.md)的 P2/P3。

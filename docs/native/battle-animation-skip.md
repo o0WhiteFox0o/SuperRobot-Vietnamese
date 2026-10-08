@@ -1,3 +1,5 @@
+> **语言 / Language:** [中文](battle-animation-skip.md) · [Tiếng Việt](battle-animation-skip.vi.md) · [English](battle-animation-skip.en.md)
+
 # 战斗演出中途退出（按 X）
 
 2026-09-25。进战斗后随时按 **X**（键盘 X／手柄 B／Steam Deck R2）中止演出回到地图，并按照「关闭战斗动画」时的样子把结果展示出来。默认开启，没有设置项。

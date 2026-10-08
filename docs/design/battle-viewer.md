@@ -1,3 +1,5 @@
+> **语言 / Language:** [中文](battle-viewer.md) · [Tiếng Việt](battle-viewer.vi.md) · [English](battle-viewer.en.md)
+
 # 战斗鉴赏（Battle Viewer）设计调研
 
 2026-10-03。纯静态分析（反汇编 `build/recomp/cpu-scan/*/rom_*.text.s`、ROM 数据），**没有跑游戏、没有构建**。目标：标题画面在「Library」「MOD」旁加一个「战斗鉴赏」入口（参考 SRW Z スペシャルディスク 的 Battle Viewer），玩家选攻方机体＋驾驶员、武器、守方机体＋驾驶员、是否反击及反击武器、守方的防御反应（命中／回避／分身／切り払い／S防御／护罩）、伤害量、是否击坠、两侧战斗背景、BGM，然后用原版演出 overlay `load_00121560` 播放，结束后回到鉴赏页。同时当作我们自己的演出测试工具。
