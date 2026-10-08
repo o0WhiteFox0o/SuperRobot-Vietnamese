@@ -1,0 +1,797 @@
+# Bản dịch tiếng Việt Super Robot Wars 64
+# Định dạng và vị trí: docs/guide/dialogue-text.md
+
+@17683 Brad · ブラッド（按段落 3DD3）
+> 「で、結局どういうことなんだ?」
+“Vậy thì chuyện gì đang xảy ra vậy?”
+
+@17684 Banjo · 万丈
+> 「発端はコロニー国家であった
+>  ジオン公国の
+"Lý do có lẽ là quốc gia vệ tinh thuộc địa của Công quốc Zeon.
+---
+>  独立戦争だといっても
+>  間違いないだろうね
+Cuộc chiến tranh giành độc lập đó
+---
+>  あの戦争で地球連邦軍は
+>  勝利したが
+Mặc dù Quân đội Liên bang Trái đất đã thắng trận chiến đó,
+---
+>  コロニーの大半は破壊され、
+>  地上も甚大な被害を受けた
+Tuy nhiên, hầu hết các vệ tinh thuộc địa đã bị phá hủy và mặt đất bị tổn thất nặng nề.
+---
+>  人口も激減し、
+>  地球圏を動かしてきた
+Dân số giảm mạnh, điều này đã hỗ trợ cho sự chuyển động của quả cầu trái đất.
+---
+>  システムそのものが
+>  破綻をきたしてしまった
+Toàn bộ hệ thống bị hỏng.
+---
+>  それがなかったら、もしかしたら
+>  まだ地球は占領されずに
+Nếu không có cuộc chiến tranh đó, có lẽ trái đất vẫn chưa bị chiếm đóng.
+---
+>  帝国軍と戦い続けていたかも
+>  しれない」
+Vẫn đang chiến đấu với Quân đội Đế quốc. "
+
+@17685 Kurtz · カーツ（按段落 3DD3）
+> 「なるほどな。そこにあの
+>  異星人どもが、やってきて
+"Chính là như vậy. Đúng lúc đó những người ngoài hành tinh đó tiến tới và giết chết họ,
+---
+>  あっという間に、やられちまったって
+>  わけか」
+Nó đã đánh bại chúng ta trong chớp mắt phải không? "
+
+@17686 Brad · ブラッド（按段落 3DD3）
+> 「なにしろ俺たちは、そういうのとは
+>  まったく無関係だったからな
+"Dù sao thì chúng ta cũng chẳng liên quan gì đến những chuyện đó.
+---
+>  なんかすげぇことになっちまってるって
+>  のは、わかっていたんだが
+Mặc dù tôi cũng biết rằng bên ngoài dường như đã xảy ra chuyện gì đó lớn lao...
+---
+>  それで?」
+Vậy thì sao? "
+
+@17687 Banjo · 万丈
+> 「帝国軍は地球圏を占領した
+>  占領軍の司令官だった
+“Sau khi Quân đội Hoàng gia chiếm đóng Earth Sphere, người chỉ huy lực lượng chiếm đóng—
+---
+>  グラドス人のグレスコが、地球圏
+>  総督になり地球は帝国によって
+Gradosian Gresco trở thành Thống đốc của Earth Sphere và Đế quốc đã sử dụng
+---
+>  死と、破壊と、恐怖とで
+>  支配された。地球人はその
+Cái chết, sự hủy diệt và nỗi kinh hoàng thống trị trái đất. Người trái đất đã bị bắt đi
+---
+>  文化を奪われ、帝国のいいなりに
+>  なるしか、生き残る道はなかった」
+Văn hóa không còn cách nào khác để tồn tại ngoài việc tuân theo đế chế. "
+
+@17688 Kurtz · カーツ（按段落 3DD3）
+> 「連中が言うところの
+>  “市民”ってやつだな」
+"Đó là cái mà người ta gọi là 'công dân'."
+
+@17689 Brad · ブラッド（按段落 3DD3）
+> 「前にも聞いたが、なんなんだ?」
+"Tôi đã từng nghe rồi, đó là cái quái gì vậy?"
+
+@17690 Banjo · 万丈
+> 「占領政策の一環で、
+>  地球人をグループ分けしたのさ
+"Đây là một phần của chính sách chiếm đóng, phân chia người dân trên Trái đất thành các giai cấp.
+---
+>  帝国に率先して協力し、
+>  かつ有益な者はA級
+Những người đầu tiên hỗ trợ đế chế và có ích là Lớp A,
+---
+>  積極的に協力する者が
+>  B級
+Những người tích cực hỗ trợ là Lớp B,
+---
+>  比較的協力的な者が
+>  C級
+Những người hợp tác hơn là cấp độ C.
+---
+>  それ以外の、反抗的でない
+>  者は、ただの市民」
+Ngoài ra, những người không chống cự chỉ là những công dân bình thường. "
+
+@17691 Brad · ブラッド（按段落 3DD3）
+> 「じゃ、俺たちは?」
+"Còn chúng tôi thì sao?"
+
+@17692 Banjo · 万丈
+> 「不穏分子とか反乱分子、
+>  あるいは単にゲリラ
+"Họ dường như được gọi là những phần tử không ngừng nghỉ, những kẻ nổi loạn hay đơn giản là du kích,
+---
+>  レジスタンスなんて呼ばれてるようだ
+Sự kháng cự hoặc một cái gì đó tương tự.
+---
+>  それとたぶん君たちは知らない
+>  だろうが
+Ngoài ra, có thể bạn chưa biết,
+---
+>  もう1つ重要なことがある」
+Có một vấn đề quan trọng khác. "
+
+@17693 Brad · ブラッド（按段落 3DD3）
+> 「なんだ?」
+"Có chuyện gì thế?"
+
+@17694 Banjo · 万丈
+> 「ロームフェラ財団のことさ
+“Đó là Quỹ Romphela.
+---
+>  地球人でありながら、
+>  占領直後から
+Họ rõ ràng đến từ Trái đất, nhưng họ đã đến
+---
+>  帝国に取り入っている
+>  たちの悪い連中で
+Đòi ân huệ cho đế quốc là một nhóm người có ý đồ xấu xa.
+---
+>  帝国軍の一部として
+>  スペシャルズという軍事組織を
+Họ cũng có một tổ chức quân sự liên kết với Quân đội Hoàng gia,
+---
+>  持っている」
+Gọi là Lực Lượng Đặc Biệt. "
+
+@17695 Brad · ブラッド（按段落 3DD3）
+> 「地球人のくせに
+>  帝国軍だって!?」
+"Người trái đất thực sự đã trở thành Quân đội Hoàng gia!?"
+
+@17696 Banjo · 万丈
+> 「そうだ!
+"Đúng vậy!
+---
+>  それも僕たちのような反帝国を
+>  掲げる人々を狩り出すことで
+Và họ dựa vào việc săn lùng những người chống lại đế chế như chúng tôi,
+---
+>  帝国に認められた、
+>  許されざる者たちだ」
+Để đổi lấy sự công nhận của đế quốc. Loại người này không thể được tha thứ. "
+
+@17697 Banjo · 万丈
+> 「発端はコロニー国家であった
+>  ジオン公国の
+"Lý do có lẽ là quốc gia vệ tinh thuộc địa của Công quốc Zeon.
+---
+>  独立戦争だといっても
+>  間違いないだろうね
+Cuộc chiến tranh giành độc lập đó
+---
+>  あの戦争で地球連邦軍は
+>  勝利したが
+Mặc dù Quân đội Liên bang Trái đất đã thắng trận chiến đó,
+---
+>  コロニーの大半は破壊され、
+>  地上も甚大な被害を受けた
+Tuy nhiên, hầu hết các vệ tinh thuộc địa đã bị phá hủy và mặt đất bị tổn thất nặng nề.
+---
+>  人口も激減し、
+>  地球圏を動かしてきた
+Dân số giảm mạnh, điều này đã hỗ trợ cho sự chuyển động của quả cầu trái đất.
+---
+>  システムそのものが
+>  破綻をきたしてしまった」
+Toàn bộ hệ thống bị hỏng. "
+
+@17698 Simone · シモーヌ
+> 「そうね。あれがなければ、
+>  地球連邦軍はまだ
+"Ừ. Nếu không có cuộc chiến đó, Quân đội Liên bang Trái đất có thể vẫn còn ở đó
+---
+>  ムゲゾルバドス帝国との戦争を
+>  続けていたかもしれない」
+Chiến đấu chống lại Đế chế Mugh Zorbados. "
+
+@17699 Banjo · 万丈
+> 「そう。だが現実には
+>  地球圏は色々な意味で
+"Đúng vậy. Nhưng trên thực tế, tất cả các khía cạnh của quả cầu Trái đất
+---
+>  疲弊しきっていた」
+Tất cả đều đã bị suy yếu nghiêm trọng. "
+
+@17700 Manami · マナミ（按段落 3DD4）
+> 「そこへ帝国が侵略してきて、
+>  地球は、あっと言う間に
+"Vừa vặn lúc này đế quốc tràn qua, địa cầu trong nháy mắt biến hóa.
+---
+>  帝国軍に占領されてしまったのね
+>  あたしは、まだその頃は地球が
+Nó đã bị quân đội Đế quốc chiếm đóng. Lúc đó tôi chưa biết đến trái đất
+---
+>  そんなにひどいことになっているなんて
+>  知らなかった。誰も、ローレンスだって
+Nó đã trở nên khốn khổ như vậy. Không ai nói với tôi, kể cả Lawrence
+---
+>  そんなこと教えてくれなかったわ」
+Cũng không nói cho tôi biết. "
+
+@17701 Banjo · 万丈
+> 「それは、しかたのないことだよ。
+>  君の立場ではそれほど
+“Không có gì ngạc nhiên đâu bạn. Trong khả năng của bạn, loại điều này
+---
+>  めずらしいことではなかった
+>  だろうしね
+Không phải là hiếm.
+---
+>  ご両親が亡くなったのを
+>  知らされたときには
+Khi bạn biết tin bố mẹ bạn đã qua đời,
+---
+>  もうロームフェラ財団は
+>  帝国軍に率先して
+Hiệp hội Romphila có thể đã dẫn đầu
+---
+>  協力を始めていたんだろう?」
+Bạn đang làm việc cho Quân đội Hoàng gia? "
+
+@17702 Manami · マナミ（按段落 3DD4）
+> 「だけど、みんなはその頃から
+>  戦っていたのでしょう?」
+“Nhưng mọi người đã chiến đấu kể từ đó, phải không? "
+
+@17703 Simone · シモーヌ
+> 「運が悪かったのかもね。アタシは
+>  地球人が最初に帝国からの
+“Có lẽ đó là sự xui xẻo. Tôi là người đầu tiên trên trái đất bị đế quốc tấn công
+---
+>  攻撃を受けた、火星の研究
+>  施設にいたのよ。全滅した、ね
+Trong cơ sở nghiên cứu sao Hỏa đang bị tấn công. Không ai được tha.
+---
+>  今こうして、ここにいることすら
+>  不思議なくらい」
+Ngay cả tôi cũng thấy thật khó tin là bây giờ tôi vẫn có thể đứng ở đây. "
+
+@17704 Banjo · 万丈
+> 「火星、か…………」
+"Sao Hỏa..."
+
+@17705 Manami · マナミ（按段落 3DD4）
+> 「どうかして?」
+"Có chuyện gì thế?"
+
+@17706 Banjo · 万丈
+> 「いや、なんでもない」
+"Không, không có gì đâu. "
+
+@17707 Garrison · ギャリソン
+> 「万丈様、お話中申しわけ
+>  ありませんが
+"Ngài Wan Zhang, tôi xin lỗi đã làm gián đoạn cuộc trò chuyện của bạn.
+---
+>  先に向かわれていたお二方から
+>  緊急通信が入りました」
+Hai người lên đường trước đó đã gửi một tin nhắn khẩn cấp. "
+
+@17708 Banjo · 万丈
+> 「緊急通信?
+>  それで、どうしたっていうんだい?」
+"Liên lạc khẩn cấp? Vậy chuyện gì đã xảy ra?"
+
+@17709 Garrison · ギャリソン
+> 「どうも我々の目的地が
+>  帝国軍に襲撃されたようですな
+“Có vẻ như điểm đến của chúng ta đã bị Quân đội Đế quốc tấn công.
+---
+>  なにぶん、かなりあわてておいでの
+>  ご様子で、詳しい状況は
+Chỉ là hai người họ có vẻ khá hoảng loạn. Chi tiết
+---
+>  確認できませんでしたが」
+Chưa thể xác nhận được. "
+
+@17710 Banjo · 万丈
+> 「なんだって!? ……
+>  よし、急いで向かおう!
+“Cái gì!?...Được rồi, nhanh lên!
+---
+>  ギャリソン、
+>  すまないが弓教授に
+Garrison, hãy tìm cách
+---
+>  なんとか連絡をつけておいて
+>  くれないか」
+Hãy liên hệ với Giáo sư Gong. "
+
+@17711 Garrison · ギャリソン
+> 「承知いたしました」
+“Như đã ra lệnh.”
+
+@17712 Banjo · 万丈
+> 「あそこか。みんな、いくぞ!」
+"Vậy đó. Mọi người, đi thôi!"
+
+@17713 Brad · ブラッド（按段落 3DD3）
+> 「おう!」
+"Ồ!"
+
+@17714 Manami · マナミ（按段落 3DD4）
+> 「ええ!」
+"Được rồi!"
+
+@17715 Koji · 甲児
+> 「ちっきしょう!
+"Chết tiệt!
+---
+>  こんなところで、おじいちゃんの恨みも
+>  晴らさずに死ねるかぁっ!!」
+Sự trả thù của ông nội còn chưa báo thù, sao tôi có thể chết ở một nơi như thế này! ! "
+
+@17716 Hell Marshal · 地獄大元帥
+> 「フハハハハッ、観念せい!
+"Ha ha ha, từ bỏ đi!
+---
+>  兜十蔵めが、よくもこんな
+>  ロボットをつくったものだが
+Anh chàng Kabuto Juzo đó thực sự đã chế tạo ra loại robot này.
+---
+>  乗っているのが貴様のような
+>  奴では
+Nó được điều khiển bởi một người như bạn,
+---
+>  我が軍団の前には
+>  ひとたまりもないわ!」
+Bạn hoàn toàn dễ bị tổn thương trước quân đội của tôi! "
+
+@17717 Koji · 甲児
+> 「なにを!」
+"Bạn đã nói gì!"
+
+@17718 Hell Marshal · 地獄大元帥
+> 「隠してもワシにはわかるぞ
+“Anh không thể giấu chuyện đó với em được.
+---
+>  貴様は、そのロボットに
+>  乗ったばかりであろう
+Bạn vừa lên con robot đó.
+---
+>  貴様を倒して、そのロボットを
+>  ワシのものにしてくれるわ
+Tôi muốn hạ gục anh và chiếm lấy con robot đó làm của mình.
+---
+>  ゆけぃ!」
+Cố lên! "
+
+@17719 Koji · 甲児
+> 「く、くそぉ……」
+"Chết tiệt nó..."
+
+@17720 Brad · ブラッド（按段落 3DD3）
+> 「へっ、うようよいやがるぜ」
+“Hừm, nhiều như côn trùng vậy.”
+
+@17721 Manami · マナミ（按段落 3DD4）
+> 「そこまでよ!
+>  それ以上は、やらせないわ!!」
+"Vậy thôi! Tôi sẽ không để anh tiếp tục kiêu ngạo nữa!!"
+
+@17722 Hell Marshal · 地獄大元帥
+> 「なに!? むぅ、
+>  反帝国ゲリラどもか」
+"Cái gì!? Chà, họ là quân du kích chống đế quốc."
+
+@17723 Banjo · 万丈
+> 「あれは……まさかマジンガーZか?
+>  乗っているのは誰なんだ!?」
+"Đó... là Mazinger Z à? Ai đang lái nó!?"
+
+@17724 Koji · 甲児
+> 「なんだ、てめぇらは!
+>  また敵が増えやがったのか!?」
+"Bạn là ai! Có một nhóm kẻ thù khác à!?"
+
+@17725 Banjo · 万丈
+> 「僕はカラバの破嵐万丈だ。
+>  それは兜十蔵博士のつくった
+"Tôi là Hakuran Tenjo của Karaba. Nó được tạo ra bởi Tiến sĩ Kabutojuzo
+---
+>  マジンガーZだな?
+>  君は一体誰だ? 兜博士は?」
+Mazinger Z phải không? Bạn là ai? Tiến sĩ Kabuto ở đâu? "
+
+@17726 Koji · 甲児
+> 「そう何もかもいっぺんにいわないでくれよ
+>  頭が、こんがらがっちまう
+“Đừng nói hết một lúc, đầu óc tôi đang bối rối.
+---
+>  カラバってのは、おじいちゃんからも
+>  聞いた名前だ
+Tôi cũng nghe cái tên Kalaba từ ông nội tôi.
+---
+>  とりあえず敵じゃないってことで
+>  いいんだな?」
+Tóm lại, các bạn không phải là kẻ thù, phải không? "
+
+@17727 Banjo · 万丈
+> 「そうだ」
+"Đúng vậy."
+
+@17728 Koji · 甲児
+> 「こいつは確かにマジンガーZだ。
+>  オレは兜甲児
+"Đây quả thực là Mazinger Z. Tôi là Kabuto.
+---
+>  兜十蔵は、
+>  おじいちゃんは、奴らに殺された!」
+Kabuto Juzo, ông nội tôi, đã bị bọn chúng giết chết! "
+
+@17729 Banjo · 万丈
+> 「なんだって!?
+>  ……そうか、わかった
+“Cái gì!?…Thật sự, tôi hiểu rồi.
+---
+>  話の続きは連中を倒してからに
+>  するとしよう
+Còn lại thì đợi xử lý xong mấy tên đó đã.
+---
+>  やれるか、甲児くん?」
+Được không, Gia Nhi? "
+
+@17730 Koji · 甲児
+> 「ありがてぇ、加勢してくれる
+>  ってんならなんとかやってみるぜ
+"Tốt, với sự giúp đỡ của bạn, tôi sẽ thử.
+---
+>  みてろよ化け物どもめ、
+>  おじいちゃんの仇をうってやる!」
+Nhìn này, lũ quái vật, tôi muốn trả thù cho ông nội! "
+
+@17731 Brad · ブラッド（按段落 3DD3）
+> 「あれが次の仲間ってわけか
+"Đó là người bạn đồng hành tiếp theo.
+---
+>  お手並み拝見だな
+>  {PartnerName}」
+Hãy xem anh ấy có gì nào, {PartnerName}. "
+
+@17732 Kurtz · カーツ（按段落 3DD3）
+> 「動きを一目見てわからんとはな。
+>  あれは、まだ不慣れなパイロットだ
+“Chỉ nhìn chuyển động thôi không thể biết được sao? Đó là một phi công chưa thành thạo.
+---
+>  昨日今日乗ったばかりに
+>  相違ない」
+Chắc là tôi vừa ngồi trong đó trong vòng hai ngày qua. "
+
+@17733 Brad · ブラッド（按段落 3DD3）
+> 「ちっ」
+"Chậc."
+
+@17734 Simone · シモーヌ
+> 「アタシたちもいくわよ、{HeroNick}」
+"Chúng ta cũng đi thôi, {HeroNick}."
+
+@17735 Manami · マナミ（按段落 3DD4）
+> 「ええ、帝国軍の好きに
+>  させるわけにはいきません」
+“Chà, chúng ta không thể để Quân đội Đế quốc làm bất cứ điều gì họ muốn.”
+
+@17736 Hell Marshal · 地獄大元帥
+> 「うぬぅ、ゲリラどもめ
+>  好き勝手なことをほざきおって
+“Ồ, sao quân du kích dám tự phụ như vậy.
+---
+>  ゆけ、戦闘獣どもよ!
+>  奴らを皆殺しにするのじゃ!」
+Tiến lên nào, những con thú chiến đấu! Giết tất cả bọn chúng! "
+
+@17737 Koji · 甲児
+> 「この野郎、覚悟しやがれ!」
+"Tên khốn kiếp, chịu chết đi!"
+
+@17738 Hell Marshal · 地獄大元帥
+> 「こざかしい!
+>  返り討ちにしてくれるわ!」
+"Ngươi không biết ngươi có thể làm gì! Ta nhất định làm cho ngươi không thể quay lại!"
+
+@17739 Hell Marshal · 地獄大元帥
+> 「おのれマジンガーZ、
+>  おのれゲリラどもめぇぇっ!!」
+"Con quỷ Z đáng nguyền rủa, quân du kích chết tiệt!!"
+
+@17740 Hell Marshal · 地獄大元帥
+> 「おのれマジンガーZ、
+>  おのれゲリラどもめ!!
+"Con quỷ Z đáng nguyền rủa, quân du kích chết tiệt!!
+---
+>  覚えておれ!」
+Hãy nhớ nó cho tôi! "
+
+@17741 Brad · ブラッド（按段落 3DD3）
+> 「素人にしては、まずまずだったな」
+“Người ngoài có thể chiến đấu như thế này thì khá tốt rồi.”
+
+@17742 Koji · 甲児
+> 「なにぃ!?」
+"Cái gì!?"
+
+@17743 Brad · ブラッド（按段落 3DD3）
+> 「短気な奴だな。
+>  ほめているのに、なぜ怒る?」
+"Thật là nóng nảy, rõ ràng là đang khen ngươi, ngươi sao tức giận như vậy?"
+
+@17744 Koji · 甲児
+> 「……なんだか、お前には
+>  いわれたくない気がするぜ」
+"...Tôi luôn cảm thấy như chưa đến lượt cậu nói điều này."
+
+@17745 Banjo · 万丈
+> 「甲児くん、すぐに移動したいが、
+>  大丈夫かい?」
+"Jia'er, chúng ta phải di chuyển ngay lập tức. Có vấn đề gì với bạn ở đó không?"
+
+@17746 Koji · 甲児
+> 「ああ、いつでもかまわないぜ」
+"Ừ, bất cứ lúc nào."
+
+@17747 Banjo · 万丈
+> 「よし、じゃあみんな、
+>  ひきあげよう」
+"Được rồi, mọi người xin hãy rút lui."
+
+@17748 Manami · マナミ（按段落 3DD4）
+> 「すごいのね、マジンガーZって」
+"Mazinger Z thật tuyệt vời."
+
+@17749 Simone · シモーヌ
+> 「そうね、あれが敵にわたらなくて
+>  よかったわ」
+“Ừ, thật tốt là nó không rơi vào tay kẻ thù.”
+
+@17750 Koji · 甲児
+> 「よせやい、
+>  おだてたって何にもでないぜ」
+"Thôi nào, khen ngợi tôi cũng chẳng có ích gì đâu."
+
+@17751 Banjo · 万丈
+> 「甲児くん、すぐに移動したいが、
+>  大丈夫かい?」
+"Jia'er, chúng ta phải di chuyển ngay lập tức. Có vấn đề gì với bạn ở đó không?"
+
+@17752 Koji · 甲児
+> 「ああ、いつでもかまわないぜ」
+"Ừ, bất cứ lúc nào."
+
+@17753 Banjo · 万丈
+> 「よし、じゃあみんな、
+>  ひきあげよう」
+"Được rồi, mọi người xin hãy rút lui."
+
+@17754 Koji · 甲児
+> 「で、おじいちゃんに呼ばれていってみたら
+>  もう奴らに攻撃された後だったんだ」
+"Sau đó, ông nội gọi tôi tới. Khi tôi chạy tới đó, tôi thấy nơi đó đã bị những kẻ đó tấn công."
+
+@17755 Banjo · 万丈
+> 「そうか……すまない。こちらがもっと
+>  早く動いていればよかったんだが」
+"Thật sao...Tôi xin lỗi. Giá như chúng ta hành động sớm hơn."
+
+@17756 Koji · 甲児
+> 「ま、しかたないさ。別に
+>  あんたのせいじゃない」
+"Quên đi, anh chẳng thể làm gì được đâu. Đó không phải lỗi của anh."
+
+@17757 Banjo · 万丈
+> 「そういってもらえると、助かる。
+>  続けてくれ」
+"Nếu bạn có thể nói vậy thì tôi thấy dễ chịu hơn rồi. Tiếp tục đi."
+
+@17758 Koji · 甲児
+> 「ああ。くずれた地下施設に
+>  入ったら、おじいちゃんがいた
+"Ừ. Tôi bước vào cơ sở ngầm đã bị sập, và ông nội đang ở đó.
+---
+>  あのロボット、マジンガーZもそこに
+>  あったんだ。おじいちゃんはオレに、
+Người máy đó, Mazinger Z, cũng ở đó. Ông nội nói với tôi,
+---
+>  マジンガーZに乗れといった
+Hãy lên Mazinger Z.
+---
+>  甲児、お前はあのマジンガーZさえ
+>  あれば、神にも悪魔にもなれる
+'Jia'er, chỉ cần có Ma thần Z, bạn có thể trở thành thần và quỷ.
+---
+>  帝国は地球を悪魔の世界に
+>  しようとしている
+Đế chế đang cố gắng biến Trái đất thành thế giới của quỷ dữ.
+---
+>  お前は黙ってそれを見ているのか
+>  ってね」
+Bạn chỉ đang xem thôi à? ’”
+
+@17759 Banjo · 万丈
+> 「それで、マジンガーZに
+>  乗り込んだってわけか
+"Vậy là bạn đã lên Mazinger Z.
+---
+>  しかし、おしい人を亡くした。
+>  博士は有能な方だった」
+Thật đáng tiếc khi mất đi một người tài năng. Bác sĩ là một người rất có năng lực. "
+
+@17760 Garrison · ギャリソン
+> 「万丈様、
+>  弓教授との連絡がつきました
+"Ngài Vạn Chương, ngài đã liên lạc với giáo sư Cung.
+---
+>  マジンガーZの操縦訓練の
+>  ために、ロボット1体と
+Để huấn luyện Mazinger Z lái xe, giáo sư sẽ gửi một robot và
+---
+>  パイロット1人を、こちらに
+>  向かわせるとのことです」
+Một phi công đi tới. "
+
+@17761 Banjo · 万丈
+> 「それはよかった」
+"Thật tuyệt vời."
+
+@17762 Brad · ブラッド（按段落 3DD3）
+> 「誰だ、その弓教授ってのは」
+“Giáo sư Cung là ai?”
+
+@17763 Manami · マナミ（按段落 3DD4）
+> 「その弓教授という方は
+>  何をされている方なのですか?」
+“Giáo sư Cung làm gì?”
+
+@17764 Banjo · 万丈
+> 「以前に兜博士の助手をされて
+>  いた方だ。帝国の侵略前に
+“Anh ấy từng là trợ lý của Tiến sĩ Kabuto. Trước khi đế quốc xâm lược,
+---
+>  博士から光子力の研究を
+>  まかされていた
+Bác sĩ đã cho anh ta nghiên cứu về lực photon.
+---
+>  やはり僕たちが保護したうちの
+>  1人だ」
+Anh ấy cũng là một trong những người chúng tôi đã bảo vệ. "
+
+@17765 Beauty · ビューティ
+> 「万丈!
+>  意外と早く終わったわね」
+"Vạn Chương! Kết thúc nhanh hơn dự kiến."
+
+@17766 Banjo · 万丈
+> 「ビューティー、レイカ。
+>  2人とも、どこにいってたんだ?」
+"Bioti, Reika. Hai người đã ở đâu thế?"
+
+@17767 Reika · レイカ
+> 「邪魔になるといけないから、
+>  避難していたのよ」
+"Chúng tôi trốn vì sợ bị cản đường."
+
+@17768 Banjo · 万丈
+> 「みんな紹介しよう
+“Hãy để tôi giới thiệu nó với bạn.
+---
+>  僕のアシスタント、
+>  ビューティーとレイカだ」
+Đây là trợ lý của tôi, Beauti và Reika. "
+
+@17769 Beauty · ビューティ
+> 「あら失礼。
+>  ビューティフル・タチバナよ
+"Ồ, xin lỗi. Tôi là Tachibana Meili,
+---
+>  ビューティーって呼んでちょうだい。
+>  なかなかワイルドな人たちね」
+Cứ gọi tôi là Biyoti. Các bạn khá hoang dã. "
+
+@17770 Reika · レイカ
+> 「三条レイカよ、よろしく」
+"Tôi là Reika Sanjo, xin hãy cho tôi lời khuyên."
+
+@17771 Brad · ブラッド（按段落 3DD3）
+> 「あ……その……
+>  {HeroFull}だ
+“À…à…tôi là {HeroFull}.
+---
+>  よ、よろしく、頼む」
+Làm ơn, xin hãy chăm sóc cho tôi. "
+
+@17772 Kurtz · カーツ（按段落 3DD3）
+> 「……{PartnerSurname}だ」
+"...Tôi là {PartnerSurname}."
+
+@17773 Koji · 甲児
+> 「オレ、兜甲児ってんだ
+"Tên tôi là Kabuto.
+---
+>  こんな美人とご一緒できるなんて
+>  光栄だなぁ」
+Thật vinh dự khi được đi du lịch cùng những người phụ nữ xinh đẹp. "
+
+@17774 Beauty · ビューティ
+> 「うふふ、ありがと」
+"Ha ha, cảm ơn."
+
+@17775 Beauty · ビューティ
+> 「あら失礼。
+>  シモーヌに{HeroName}ね
+"Rất tiếc, xin lỗi. Là Simone và {HeroName}.
+---
+>  ビューティフル・タチバナよ、
+>  ビューティって呼んでちょうだい」
+Tên tôi là Tachibana Meili, cứ gọi tôi là Biyoti. "
+
+@17776 Reika · レイカ
+> 「三条レイカよ、よろしく」
+"Tôi là Reika Sanjo, xin hãy cho tôi lời khuyên."
+
+@17777 Simone · シモーヌ
+> 「こっちこそ、よろしく頼むわ」
+"Xin hãy chăm sóc lẫn nhau."
+
+@17778 Koji · 甲児
+> (うーん美人ばっかり、
+>  楽しくなりそうだぜ。へへっ)
+(Hmm - họ đều xinh đẹp cả, có vẻ sẽ thú vị đây. Hehe.)
+
+@17779 Manami · マナミ（按段落 3DD4）
+> 「甲児さん?」
+"Gia nhi?"
+
+@17780 Koji · 甲児
+> 「……え? あ、や、
+>  なんでもないぜ、うん」
+"...Ơ? À, không, không có gì đâu, ừm."
+
+@17781 Banjo · 万丈
+> 「ギャリソン、
+>  それで施設のほうは、どうだい?」
+"Garrison, tình hình ở cơ sở thế nào rồi?"
+
+@17782 Garrison · ギャリソン
+> 「はい、連絡はついております
+"Vâng, chúng tôi đã liên lạc được.
+---
+>  今のところ問題はないと
+>  思われます」
+Có vẻ như không có vấn đề gì cho đến nay. "
+
+@17783 Brad · ブラッド（按段落 3DD3）
+> 「次の目的地か?
+>  今度は、どこにいくんだ?」
+"Điểm đến tiếp theo? Lần này cậu định đi đâu?"
+
+@17784 Manami · マナミ（按段落 3DD4）
+> 「次は、どこへいくのです?」
+"Tiếp theo cậu định đi đâu?"
+
+@17785 Banjo · 万丈
+> 「カラバの秘密施設のひとつさ。
+>  補給も、しなくちゃならないからね」
+"Một trong những cơ sở bí mật của Calabar. Đã đến lúc tiếp tế."
+
+@17786 Lawrence · ローレンス
+> 「ふむ、新鮮な紅茶も
+>  手に入るとよいですな」
+"Chà, thật tuyệt nếu chúng ta có thể uống một ít trà đen tươi."
+
+@17787 Kurtz · カーツ（按段落 3DD3）
+> (……なんだというのだ、この虚しさは。
+>  俺は……このままでよいのか……?)
+(…Cảm giác trống rỗng này là gì?…có thực sự ổn không nếu mình cứ tiếp tục như thế này…?)

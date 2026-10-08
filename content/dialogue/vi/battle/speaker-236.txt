@@ -1,0 +1,143 @@
+# Bản dịch tiếng Việt Super Robot Wars 64
+# Định dạng và vị trí: docs/guide/dialogue-text.md
+
+@9151 Aboly · アポリー
+# Kích hoạt: Tấn công (Chung，1/7）
+> 「照準セット」
+"Mục tiêu đã bị khóa."
+
+@9152 Aboly · アポリー
+# Kích hoạt: Tấn công (Chung，2/7）
+> 「邪魔はさせない!」
+"Đừng cố cản đường!"
+
+@9153 Aboly · アポリー
+# Kích hoạt: Tấn công (Chung，3/7）
+> 「アレを沈めりゃ……」
+"Chỉ cần đánh chìm gã đó..."
+
+@9154 Aboly · アポリー
+# Kích hoạt: Tấn công (Chung，4/7）
+> 「落ちろよ!」
+"Rớt nó!"
+
+@9155 Aboly · アポリー
+# Kích hoạt: Tấn công (Chung，5/7）
+> 「当たってくれ!」
+"Làm ơn đánh nó đi!"
+
+@9156 Aboly · アポリー
+# Kích hoạt: Tấn công (Chung，6/7）
+> 「当たれよ!」
+"Đánh!"
+
+@9157 Aboly · アポリー
+# Kích hoạt: Tấn công (Chung，7/7）
+> 「ここは俺がおさえる!」
+"Tôi sẽ đứng lên đây!"
+
+@9158 Aboly · アポリー
+# Kích hoạt: 被击坠（通用，1/1）
+> 「うわぁぁぁぁーっ!」
+"Aaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaa!"
+
+@9159 Aboly · アポリー
+# Kích hoạt: 重伤（剩余 HP 不足 30%）（通用，1/4）
+> 「これ以上は持たないっ!」
+"Tôi không thể giữ nó được nữa!"
+
+@9160 Aboly · アポリー
+# Kích hoạt: 重伤（剩余 HP 不足 30%）（通用，2/4）
+> 「パ、パワーがあがらないのか!?」
+“Không thể di chuyển, sức mạnh không thể tăng lên!?”
+
+@9161 Aboly · アポリー
+# Kích hoạt: 重伤（剩余 HP 不足 30%）（通用，3/4）
+> 「こ、こんなことで……」
+“Làm sao, làm sao tôi có thể rơi vào một nơi như thế này…”
+
+@9162 Aboly · アポリー
+# Kích hoạt: 重伤（剩余 HP 不足 30%）（通用，4/4）
+> 「くっ……終わりはしない!」
+"Chà... vẫn chưa kết thúc!"
+
+@9163 Aboly · アポリー
+# Kích hoạt: 中伤（剩余 HP 30–90%）（通用，1/4）
+> 「くっ、直撃をくらっちまったか!」
+"Chà, tôi bị đánh nặng quá!"
+
+@9164 Aboly · アポリー
+# Kích hoạt: 中伤（剩余 HP 30–90%）（通用，2/4）
+> 「まだいけるっ!」
+"Còn có thể chiến đấu!"
+
+@9165 Aboly · アポリー
+# Kích hoạt: 中伤（剩余 HP 30–90%）（通用，3/4）
+> 「この程度ならまだ持たせる!」
+"Ta còn có thể chịu đựng vết thương nhỏ này!"
+
+@9166 Aboly · アポリー
+# Kích hoạt: 中伤（剩余 HP 30–90%）（通用，4/4）
+> 「くっ、当たっちまったか!」
+"Ồ, tôi bị đánh rồi!"
+
+@9167 Aboly · アポリー
+# Kích hoạt: 轻伤（剩余 HP 90% 以上）（通用，1/2）
+> 「ん!?」
+"Hừm! ? "
+
+@9168 Aboly · アポリー
+# Kích hoạt: 轻伤（剩余 HP 90% 以上）（通用，2/2）
+> 「かすったのか!?」
+“Anh chà xát nó à!?”
+
+@9169 Aboly · アポリー
+# Kích hoạt: Né tránh（通用，1/5）
+> 「当たりはしないって!」
+"Ngươi sẽ không bị đánh!"
+
+@9170 Aboly · アポリー
+# Kích hoạt: Né tránh（通用，2/5）
+> 「甘いんだよ」
+"Quá ngây thơ."
+
+@9171 Aboly · アポリー
+# Kích hoạt: Né tránh（通用，3/5）
+> 「この程度なら俺だって」
+"Tôi có thể xử lý cấp độ này."
+
+@9172 Aboly · アポリー
+# Kích hoạt: Né tránh（通用，4/5）
+> 「かわしてみせる!」
+"Trốn khỏi bạn!"
+
+@9173 Aboly · アポリー
+# Kích hoạt: Né tránh（通用，5/5）
+> 「なめるなよ!」
+"Đừng đánh giá thấp tôi!"
+
+@9174 Aboly · アポリー
+# Kích hoạt: Tấn công无效（护罩／装甲）（通用，1/2）
+> 「ビームなら無効化できる!」
+"Chùm tia có thể được bù đắp!"
+
+@9175 Aboly · アポリー
+# Kích hoạt: Tấn công无效（护罩／装甲）（通用，2/2）
+> 「そんな攻撃は効かないぜ」
+“Đòn tấn công đó không gây đau đớn gì cả.”
+
+@9176 Aboly · アポリー
+# Kích hoạt: 弹药／EN 不足，无法反击（通用，1/1）
+> 「弾切れだって!?」
+"Hết đạn!?"
+
+@9177 Aboly · アポリー
+# Kích hoạt: 射程外，无法反击（通用，1/1）
+> 「ここからじゃ届かないか……」
+“Chúng ta không thể đánh nó từ đây được sao…”
+
+@14699 Aboly · アポリー
+# Kích hoạt: 使用〈ハイメガキャノン〉（低优先，可能被通用台词顶掉）
+> 「エネルギー充填……
+>  いけっ! ハイメガキャノン!!」
+"Sạc năng lượng...bắn! Mega Cannon năng lượng cao!!"

@@ -1,0 +1,924 @@
+# Bản dịch tiếng Việt Super Robot Wars 64
+# Định dạng và vị trí: docs/guide/dialogue-text.md
+
+@20808 Show · ショウ
+> 「北京か……ここもすっかり廃墟
+>  なんだな」
+"Bắc Kinh... Nơi này cũng là phế tích."
+
+@20809 Kamille · カミーユ
+> 「今はどこもこんなものだ。帝国の
+>  衛星軌道上からの攻撃で
+“Bây giờ mọi nơi đều như thế này. Đế chế tấn công từ quỹ đạo vệ tinh,
+---
+>  まともに残っているところなんて、
+>  なくなってしまった」
+Còn lại vài chỗ còn nguyên vẹn. "
+
+@20810 Show · ショウ
+> 「異星人か……いまだに実感
+>  わかないな」
+"Người ngoài hành tinh... vẫn không có cảm giác là thật."
+
+@20811 Shinobu · 忍
+> 「そりゃ、こっちのセリフだぜ。
+>  バイストンウェルとかなんとかって
+“Đó là điều tôi phải nói. Baiston Will và tất cả,
+---
+>  海と大地の間の世界なんてよ、
+>  ほんとにそんなところがあるのかよ?」
+Thực sự có một nơi như vậy trên thế giới giữa biển và đất? "
+
+@20812 Masato · 雅人
+> 「でもさ、アレみたら信じる気にも
+>  なるよね」
+"Nhưng khi bạn nhìn thấy điều đó, bạn không thể không tin vào điều đó."
+
+@20813 Shinobu · 忍
+> 「ああ……アレか。まぁ、確かにな」
+"Hmm...thứ đó. Đúng vậy."
+
+@20814 Chum · チャム
+> 「みんな～ごはんよ～」
+“Mọi người, đến giờ ăn rồi~!”
+
+@20815 Roux · ルー
+> 「羽根はえて空飛んでる
+>  “妖精”なんて見せられたらねぇ」
+"Khi tôi nhìn thấy một con 'yêu tinh' bay trên bầu trời với đôi cánh, tôi chỉ có thể tin vào điều đó."
+
+@20816 Show · ショウ
+> 「妖精じゃなくてミ・フェラリオさ。
+>  チャム、何やってるんだ?」
+"Không phải yêu tinh, là Mi Filario. Cam, cậu đang làm gì vậy?"
+
+@20817 Chum · チャム
+> 「何って、あたしだって仕事しなくちゃ
+>  何よ、みんなしてジロジロ見ないでよぉ」
+"Dù bạn làm gì thì tôi cũng phải làm việc, vì vậy mọi người đừng nhìn chằm chằm vào tôi."
+
+@20818 Aboly · アポリー
+> 「しかし本当にこんなところへ
+>  来るんですかね」
+“Nhưng liệu họ có thực sự đến một nơi như thế này không?”
+
+@20819 Bright · ブライト
+> 「そのはずだが……少し遅すぎるな」
+"Có lý đấy... nhưng đã quá muộn rồi."
+
+@20820 Amuro · アムロ
+> 「敵と接触した可能性も
+>  考えられるな」
+“Có lẽ chúng ta đã chạm trán với kẻ thù.”
+
+@20821 Bright · ブライト
+> 「どうした!?」
+"Có chuyện gì thế!?"
+
+@20822 Beltorchika · ベルトーチカ
+> 「未確認機が接近しています」
+“Không có xác nhận nào cho thấy máy bay đang đến gần”.
+
+@20823 Amuro · アムロ
+> 「合流相手じゃないのか?」
+“Hắn không phải là người chúng ta muốn gặp sao?”
+
+@20824 Beltorchika · ベルトーチカ
+> 「でも、ちょっと様子がおかしいのよ」
+"Nhưng, có điều gì đó có vẻ không ổn."
+
+@20825 Bright · ブライト
+> 「確認させろ。
+>  総員、戦闘配置につけ」
+"Xác nhận. Toàn bộ nhân sự, tiến vào vị trí chiến đấu."
+
+@20826 Ginrei · 銀鈴
+> 「くっ、だめ、追いつかれる!?」
+"Ừm, không, tôi sẽ bị cuốn theo mất!?"
+
+@20827 Q Boss · Qボス
+> 「フフフ、いまさらどこへ逃げようと
+>  いうのかな。さぁ、おとなしく教授と
+“Hahaha, bây giờ cậu còn muốn trốn đi đâu nữa? Nào, ngoan ngoãn dẫn giáo sư đi.”
+---
+>  そのケースを渡してもらおう」
+Đưa cái hộp đó cho tôi. "
+
+@20828 Prof. Yumi · 弓教授
+> 「ぎ、銀鈴くん、君だけでも先に
+>  逃げてくれ」
+"Âm, Yinling, ít nhất hãy trốn thoát trước."
+
+@20829 Ginrei · 銀鈴
+> 「いけません、弓教授! もうすぐ
+>  合流予定地点ですから!」
+"Không, Giáo sư Gong! Chúng ta sẽ đến điểm hẹn sớm thôi!"
+
+@20830 Q Boss · Qボス
+> 「ほう? まだ逃げようというのですか。
+>  わたしはそのケースだけでも
+"Ồ? Cậu vẫn muốn trốn à? Thực ra tôi chỉ muốn cái hộp đó thôi
+---
+>  手に入ればいいのですがねぇ」
+Chỉ cần lấy nó. "
+
+@20831 Ginrei · 銀鈴
+> 「こ、こんなことで!」
+"Làm sao, làm sao có thể rơi ở chỗ này!"
+
+@20832 ???
+> 「走って、もっと早く!
+>  そのまま、まっすぐ!」
+"Chạy nhanh, nhanh hơn nữa! Cứ như vậy, tiếp tục tiến về phía trước!"
+
+@20833 Ginrei · 銀鈴
+> 「えっ!? ええ!」
+"Ơ!? Hmm!"
+
+@20834 Q Boss · Qボス
+> 「な、なんだ!?」
+"C-Cái gì!?"
+
+@20835 Daisaku · 大作
+> 「銀鈴さんたちは、そのまま
+>  逃げてください
+"Cô Yinling, cứ chạy đi.
+---
+>  やれ! ジャイアントロボ!」
+Cố lên! Người sắt vĩ đại! "
+
+@20836 Ginrei · 銀鈴
+> 「大作くん! それにジャイアント・ロボ!」
+"Kiệt tác! Và Người sắt vĩ đại!"
+
+@20837 Q Boss · Qボス
+> 「こ、これは、ジャイアント・ロボ!?」
+"Đây, đây là một người sắt to lớn!?"
+
+@20838 Q Boss · Qボス
+> 「えぇーい!」
+"Này——!"
+
+@20839 Daisaku · 大作
+> 「移動します。銀鈴さん、教授、
+>  しっかり、つかまっててください」
+"Chúng ta sắp rời đi. Yinling cô, giáo sư, xin nhanh lên."
+
+@20840 Bright · ブライト
+> 「どういうことだ?」
+"Chuyện gì đang xảy ra vậy?"
+
+@20841 Beltorchika · ベルトーチカ
+> 「艦長、通信が入っています」
+"Đội trưởng, có người gửi tin nhắn."
+
+@20842 Bright · ブライト
+> 「スクリーンに出せ」
+"Bắt nó trên màn hình."
+
+@20843 Ginrei · 銀鈴
+> 「アルビオンのブライト艦長ですね?
+>  遅くなりました
+“Có phải thuyền trưởng Bright của Albion không? Chúng ta đến muộn rồi.
+---
+>  もと国際警察機構の銀鈴で
+>  す。よろしくお願いします」
+Tôi là Chuông Bạc của cơ quan cảnh sát quốc tế trước đây. Xin hãy chăm sóc tôi. "
+
+@20844 Bright · ブライト
+> 「銀鈴くん、そちらの方は?」
+"Ân Linh, đó là ai?"
+
+@20845 Ginrei · 銀鈴
+> 「はい、カラバの弓教授です。教授
+>  の研究施設が帝国軍に
+“Đúng, đây là Giáo sư Bow đến từ Calabar. Viện nghiên cứu của giáo sư đã bị Quân đội Đế quốc tấn công.
+---
+>  急襲されたとき、偶然お助けしま
+>  した。それで一緒に逃げてきたんです」
+Trong cuộc đột kích, tôi tình cờ cứu được anh ấy và chúng tôi cùng nhau trốn thoát. "
+
+@20846 Quattro · クワトロ
+> 「ほう、カラバの?」
+“Ồ, của Calabar à?”
+
+@20847 Prof. Yumi · 弓教授
+> 「お恥ずかしい話ですが、こちらの
+>  主力が出ているところを襲われ
+“Tôi xấu hổ khi nói rằng kẻ thù đã tấn công trong khi lực lượng chủ lực của chúng tôi đi vắng.
+---
+>  研究データを持ち出すのが、
+>  せいいっぱいでしてな
+Nếu bạn có thể đưa ra được dữ liệu nghiên cứu thì bạn đã làm hết sức mình rồi.
+---
+>  ジャイアント・ロボがいなければ
+>  危ないところでした」
+Nếu không có người sắt to lớn thì sẽ gặp nguy hiểm. "
+
+@20848 Bright · ブライト
+> 「ジャイアント・ロボ?」
+"Người sắt lớn?"
+
+@20849 Ginrei · 銀鈴
+> 「はい、あのロボットです。それと……
+>  大作くん、降りてらっしゃい
+"Đúng, đó là robot. Và... Dazuo, xuống đi.
+---
+>  彼が操縦を担当している
+>  草間大作くんです」
+Người chịu trách nhiệm kiểm soát nó là Daisaku Kusama. "
+
+@20850 Bright · ブライト
+> 「あんな子供が……?」
+"Một đứa trẻ như vậy...?"
+
+@20851 Ginrei · 銀鈴
+> 「ええ。直接操縦するわけではないの
+>  で問題はありません。それに
+"Ừ. Anh ấy không tự lái xe nên không sao cả. Hơn nữa,
+---
+>  ジャイアント・ロボは大作くんのコン
+>  トロール以外は受け付けませんから」
+Người sắt to lớn chỉ nghe lệnh của một người. "
+
+@20852 Daisaku · 大作
+> 「草間大作です! よろしくお願い
+>  します!」
+"Tôi là Daisaku Kusama! Xin hãy chăm sóc cho tôi!"
+
+@20853 Ryoma · リョウ
+> 「大作くん、君はいくつだ?」
+"Đại Tả, ngươi bao nhiêu tuổi?"
+
+@20854 Daisaku · 大作
+> 「はい、12歳です」
+“Ừ, mười hai tuổi.”
+
+@20855 Roux · ルー
+> 「じゅうにさい、ですってぇ!?
+>  本当なの?」
+"Mười, mười hai tuổi!? Thật sao?"
+
+@20856 Daisaku · 大作
+> 「そんなこと、ウソついてどうするんですか?」
+“Tại sao tôi phải nói dối về chuyện này?”
+
+@20857 Roux · ルー
+> 「まぁ、そりゃそうなんだけど……」
+"À, đúng rồi..."
+
+@20858 Beltorchika · ベルトーチカ
+> 「艦長、もと国際警察機構の
+>  中条長官から通信です」
+“Đội trưởng, có thông tin liên lạc từ Chỉ huy Nakajo của cơ quan cảnh sát quốc tế trước đây.”
+
+@20859 Bright · ブライト
+> 「ああ、まわしてくれ。お元気そうで
+>  なによりです、中条長官」
+"À, cầm lấy. Trông cậu ổn đấy, Chỉ huy Nakajo."
+
+@20860 Chief Chujo · 中条長官
+> 「そちらも、あいかわらずのようだね、
+>  ブライト艦長。3年ぶりだったかな
+"Bên đó anh vẫn như vậy, đội trưởng Bright. Tôi đã không gặp anh khoảng ba năm rồi.
+---
+>  銀鈴くんたちは無事に合流
+>  できただろうか?」
+Yin Ling và những người khác có gặp nhau thành công không? "
+
+@20861 Bright · ブライト
+> 「ええ、いま話を聞いていたところです」
+"Ừ, tôi đang nghe họ giải thích tình hình."
+
+@20862 Chief Chujo · 中条長官
+> 「そうか……それで、多少問題が
+>  減ったな」
+“Thật sao… Bằng cách này, sẽ ít rắc rối hơn.”
+
+@20863 Ginrei · 銀鈴
+> 「長官、何かあったのですか?」
+"Thưa ngài, chuyện gì đã xảy ra vậy?"
+
+@20864 Chief Chujo · 中条長官
+> 「うむ、実は帝国が大がかりなレジス
+>  タンス掃討作戦を開始した
+"Ồ, thực ra chúng tôi đã nhận được thông tin,
+---
+>  という情報を入手したのだ」
+Đế quốc đã bắt đầu một cuộc càn quét lớn chống lại quân Kháng chiến. "
+
+@20865 Quattro · クワトロ
+> 「我々の方では、それらしき動きは
+>  つかんでおりませんが……?」
+“Chúng tôi không nhận thấy bất kỳ chuyển động nào như vậy ở đây…”
+
+@20866 Chief Chujo · 中条長官
+> 「実に巧みに動きを隠していたのだ。
+>  おそらくカラバの方でも
+“Họ giấu nó rất khéo. Tôi e rằng Calabar cũng vậy.
+---
+>  何もつかんではおるまい。が、我々に
+>  は、少々特殊な能力を持った
+Tôi chưa nắm bắt được gì cả. Tuy nhiên, chúng ta có một người có năng lực ở đây
+---
+>  エキスパートがいるのでね」
+Một chút chuyên gia đặc biệt. "
+
+@20867 Bright · ブライト
+> 「信じましょう、長官。それで?」
+"Tôi tin ông, thưa ông. Bây giờ thì sao?"
+
+@20868 Chief Chujo · 中条長官
+> 「世界各地でレジスタンスの拠点
+>  と思われる地域に一斉に攻撃
+“Các khu vực trên khắp thế giới được coi là thành trì kháng chiến sẽ bị tấn công đồng loạt.
+---
+>  が行われる。残念だが警告は、
+>  もう間にあわないだろう。君たちの
+Thật không may, lời cảnh báo đến quá muộn. Chúng tôi đã nhận được thông tin,
+---
+>  もとにも帝国の大部隊が
+>  向かっているとの情報が入っている
+Lực lượng Imperial đang tiếp cận bạn.
+---
+>  今すぐその場所から移動し、
+>  なんとしても逃げ延びてもらいたい」
+Hãy rời khỏi nơi đó ngay lập tức và trốn thoát bằng mọi giá. "
+
+@20869 Bright · ブライト
+> 「やってみましょう」
+"Chúng tôi cố gắng hết sức."
+
+@20870 Ryoma · リョウ
+> 「どうやら遅かったようですよ。
+>  大部隊かどうかはわかりませんが、
+“Xem ra đã muộn rồi, không biết có phải là thế lực lớn hay không.
+---
+>  敵が接近しています」
+Nhưng kẻ thù đang đến gần. "
+
+@20871 Bright · ブライト
+> 「なに!?
+>  総員、第一級戦闘配備!」
+"Cái gì!? Tất cả thành viên, triển khai chiến đấu cấp một!"
+
+@20872 Daisaku · 大作
+> 「いくぞ、ロボ。みんなにお前のすごさを
+>  見てもらうんだ!」
+"Nào, robot. Hãy để mọi người thấy bạn mạnh mẽ đến mức nào!"
+
+@20873 Beltorchika · ベルトーチカ
+> 「艦長、ジャイアント・ロボが出ました!」
+"Đội trưởng, người sắt to lớn đang tấn công!"
+
+@20874 Bright · ブライト
+> 「いい、やらせろ! 他の者も出撃
+>  急げ!」
+"Được rồi, thả hắn đi! Những người khác cũng tấn công nhanh!"
+
+@20875 Hell Marshal · 地獄大元帥
+> 「くくくく、見つけたぞ。
+>  どうだ、ワシのいったとおりであろうが
+"Hehehe, tìm được rồi, thế nào, cứ làm như tôi nói đi.
+---
+>  さぁゆけ、お前たち。
+>  ここで奴らを倒すのじゃ!」
+Hãy tiếp tục đi các bạn. Giết chúng ngay tại đây! "
+
+@20876 Gosterro · ゴステロ
+> 「くそぉ、ル・カイン閣下の命令
+>  だからって、えばりちらしやがってよぉ……」
+“Chết tiệt, tôi chỉ làm theo lệnh của Lãnh chúa Lu Kane để phô trương sức mạnh của mình như thế này thôi…”
+
+@20877 Gosterro · ゴステロ
+> 「あれは……エイジィ、エイジィ!
+>  ぐぅぅ、脳がいてぇぇぇっ!
+"Đó là...Eiji, Eiji! Uh-huh, đầu tôi đau quá——!"
+---
+>  地獄大元帥ぃ、
+>  エイジは俺にやらせろぉ!」
+Thống chế địa ngục, Eiji hãy để tôi giải quyết nó! "
+
+@20878 Hell Marshal · 地獄大元帥
+> 「イカれた奴め。好きにするがいい」
+"Người điên. Như bạn mong muốn."
+
+@20879 Gosterro · ゴステロ
+> 「エイジはいないのかぁぁぁ!」
+“Eiji không có ở đây, ahhhh-!”
+
+@20880 Koji · 甲児
+> 「なんとか間にあったぜ。
+>  先生、ご無事ですか!?」
+"Cuối cùng cũng đuổi kịp. Giáo sư, ngài ổn chứ!?"
+
+@20881 Bright · ブライト
+> 「なんだ……?」
+"Chuyện gì đang xảy ra vậy...?"
+
+@20882 Prof. Yumi · 弓教授
+> 「おお、甲児くん、さやか、ボスくん、
+>  君たちも無事だったか」
+"Ồ, Jia'er, Sayaka và Boss, các bạn cũng không sao."
+
+@20883 Sayaka · さやか
+> 「お父さま……よかったわ」
+"Bố...tuyệt vời."
+
+@20884 Bright · ブライト
+> 「教授、彼らは?」
+“Giáo sư, phải không?”
+
+@20885 Prof. Yumi · 弓教授
+> 「娘のさやかと、カラバのスタッフの
+>  甲児くんとボスくんだ」
+"Đó là con gái tôi Sayaka, và các thành viên Kalaba là Jia'er và Boss."
+
+@20886 Koji · 甲児
+> 「あんちきしょうども、俺たちの留守を
+>  狙いやがって。先生が無事で
+"Những tên khốn này thực sự đã tấn công chúng tôi khi chúng tôi đi vắng. Giáo sư vẫn ổn.
+---
+>  ホントによかったぜ」
+Nó rất tốt. "
+
+@20887 Ryoma · リョウ
+> 「話はあとだ。手伝ってくれ!」
+"Chúng ta sẽ nói chuyện đó sau. Hãy đến giúp đỡ!"
+
+@20888 Koji · 甲児
+> 「あったり前だぜ!! さやかさん、ボス、
+>  いくぞ!」
+"Không cần phải nói!! Sayaka, Boss, cố lên!"
+
+@20889 Sayaka · さやか
+> 「ええ!」
+"Ừ!"
+
+@20890 Boss · ボス
+> 「ボスボロットの力を見せてやるだわさ!」
+"Cho các bạn thấy sức mạnh của Boss Robot!"
+
+@20891 Duo · デュオ
+> 「おいおい、あの変なのホントに
+>  大丈夫なのかよ?」
+"Này, thứ kì lạ đó có thực sự ổn không?"
+
+@20892 Ehrlich · エルリッヒ（按段落 3DD1）
+> 「彼らか……
+>  また、まみえることになるとはな
+“Là họ… Tôi không ngờ sẽ có một cuộc đối đầu khác.
+---
+>  どうも浅くはない因縁があるようだ」
+Xem ra duyên phận giữa chúng ta không hề nông cạn. "
+
+@20893 Yazan · ヤザン
+> 「なにぶつくさ、いってやがる。
+>  ふん、足止めなどといわず、連中を
+“Anh đang nói cái gì vậy, Jijigugu? Hả, đừng nói về sự kiềm chế, hãy để những kẻ đó
+---
+>  撃破しちまえばそれで終わりってもん
+>  だ。それでもいいんだろうなぁ?」
+Nó sẽ không kết thúc cho đến khi nó bị đánh bại. Điều này có ổn không? "
+
+@20894 Ehrlich · エルリッヒ（按段落 3DD1）
+> 「できるものなら、それもよかろう」
+“Nếu cậu có thể làm được thì không sao cả.”
+
+@20895 Ark · アーク（按段落 3DD1）
+> 「くっ……あいつは!」
+"À...chính là anh chàng đó!"
+
+@20896 Lera · レラ
+> 「あんたの知り合い?」
+"Một người nào đó bạn biết?"
+
+@20897 Ark · アーク（按段落 3DD1）
+> 「違うよ。あいつは……俺が忘れちゃ
+>  いけないことを思い出させてくれるんだ」
+"Không. Anh chàng đó... luôn nhắc nhở tôi về những điều tôi không bao giờ được quên."
+
+@20898 Lera · レラ
+> 「……なんだよ、それ」
+“…Cậu đang nói về cái gì thế?”
+
+@20899 Ark · アーク（按段落 3DD1）
+> 「そのうち教えてやるよ」
+"Tôi sẽ nói với bạn sau."
+
+@20900 Ehrlich · エルリッヒ（按段落 3DD1）
+> 「あの少年もいるのか? だがなぜだ、
+>  なぜ彼はここまで戦ってこれる!?」
+"Người thanh niên đó cũng ở đây à? Nhưng tại sao, tại sao anh ta có thể chiến đấu đến tận đây!?"
+
+@20901 Ehrlich · エルリッヒ（按段落 3DD1）
+> 「ふむ……あの少年は出ていない
+>  ようだな……」
+"Chà...có vẻ như cậu bé không tấn công..."
+
+@20902 Rish · リッシュ（按段落 3DD2）
+> 「まぁた、あいつらか。ちっとばかし
+>  やりづれぇかな……」
+"Lại là mấy người đó. Có chút khó khăn..."
+
+@20903 Yazan · ヤザン
+> 「なにぶつくさ、いってやがる。
+>  ふん、足止めなどといわず、連中を
+“Mày đang nói cái gì vậy? Hừ, đừng nói chuyện kiềm chế nữa, để mấy tên đó đi
+---
+>  撃破しちまえばそれで終わりってもん
+>  だ。それでもいいんだろうなぁ?」
+Nó sẽ không kết thúc cho đến khi nó bị đánh bại. Điều này có ổn không? "
+
+@20904 Rish · リッシュ（按段落 3DD2）
+> 「ああ、好きにやっちゃってくれ。
+>  お互い、その方がいいだろうよ」
+“Được rồi, cậu có thể chiến đấu bất cứ điều gì cậu muốn. Điều này tốt cho cả hai chúng tôi. "
+
+@20905 Yazan · ヤザン
+> 「へっ、わかってるじゃねぇか」
+"Này, nó khá rõ ràng. "
+
+@20906 Selain · セレイン（按段落 3DD2）
+> 「貴様……また来たのか。
+>  しつこい奴だ」
+"Anh...lại ở đây nữa à. Nó thực sự ám ảnh. "
+
+@20907 Rish · リッシュ（按段落 3DD2）
+> 「そりゃないぜ。俺はお前を追いかけて
+>  わざわざこんなトコまで来たってのによ」
+"Đừng nói thế. Tôi đặc biệt đến một nơi như thế này sau anh."
+
+@20908 Selain · セレイン（按段落 3DD2）
+> 「そのふざけた口を二度ときけなく
+>  してやる」
+“Tôi sẽ làm cho cái miệng hôi hám của anh không nói nên lời lần nữa.”
+
+@20909 Rish · リッシュ（按段落 3DD2）
+> (ちっ、つまらんな。{HeroName}がいない
+>  じゃねぇか……)
+(Tsk, chán quá. {HeroName} không có ở đây...)
+
+@20910 Beltorchika · ベルトーチカ
+> 「ブライト艦長、敵の増援部隊
+>  が接近中です。ものすごい数です!
+"Đội trưởng Bright, quân tiếp viện của địch đang đến gần. Con số thật đáng sợ!
+---
+>  とてもじゃありませんが、
+>  持ちこたえられません!」
+Đơn giản là chúng ta không thể giữ được! "
+
+@20911 Bright · ブライト
+> 「なんだと!?
+>  ……しまった、さっきの増援は
+“Cái gì!?... Ồ không, quân tiếp viện vừa rồi
+---
+>  我々の足止めが目的
+>  だったのか!」
+Có phải là để chứa chúng tôi? "
+
+@20912 Amuro · アムロ
+> 「ブライト、ここは脱出しよう。
+>  俺たちがここでやられてしまうわけには
+"Bright, rút ra. Chúng ta không thể
+---
+>  いかないんだ」
+Rơi xuống đây. "
+
+@20913 Bright · ブライト
+> 「……しかたがない。全機、戦域を
+>  急速離脱! 急げよ!」
+"...Không còn cách nào khác. Tất cả máy bay, nhanh chóng rời khỏi vùng chiến sự! Nhanh lên!"
+
+@20914 Beltorchika · ベルトーチカ
+> 「ブライト艦長、敵の増援部隊
+>  が接近中です。ものすごい数です!
+"Đội trưởng Bright, quân tiếp viện của địch đang đến gần. Con số thật đáng sợ!
+---
+>  とてもじゃありませんが、
+>  持ちこたえられません!」
+Đơn giản là chúng ta không thể giữ được! "
+
+@20915 Bright · ブライト
+> 「よし、すぐにこの戦域を離脱する」
+"Được rồi, lập tức rời khỏi chiến khu này."
+
+@20916 Quattro · クワトロ
+> 「間一髪というところだな」
+"Thật là một cuộc gọi gần gũi."
+
+@20917 主角
+> 「あんたは! しつこいんだよ!!」
+"Là ngươi! Tại sao hồn ma còn ở chỗ này?!"
+
+@20918 对手
+> 「くっ……なぜこれほどまでに戦えるのだ、
+>  君は!?」
+"Hmm... tại sao bạn có thể chiến đấu đến mức này!?"
+
+@20919 主角
+> 「ふざけた奴め。貴様が敵である
+>  以上、何をいおうと私は
+“Đồ khốn. Vì ngươi là kẻ thù nên dù ngươi có nói gì thì ta cũng sẽ làm.”
+---
+>  貴様を倒す!」
+Hãy hạ gục bạn! "
+
+@20920 对手
+> 「お前が“一緒に戦って”
+>  というんなら、俺はいつでも
+"Nếu bạn sẵn sàng nói 'cùng nhau chiến đấu', tôi sẽ
+---
+>  お前の味方になるぜ!?」
+Tôi đều có thể đứng về phía bạn! ? "
+
+@20921 主角
+> 「黙れ!」
+"Im đi!"
+
+@20922 Koji · 甲児
+> 「地獄大元帥! お前たちの
+>  好きにはさせないぞ!」
+"Tướng quân của địa ngục! Tôi sẽ không để bạn làm bất cứ điều gì bạn muốn!"
+
+@20923 Hell Marshal · 地獄大元帥
+> 「おのれ兜甲児め!!」
+"Kabuto chết tiệt!!"
+
+@20924 Amuro · アムロ
+> 「それで、状況の確認はできたのか?」
+“Vậy, tình hình đã rõ ràng chưa?”
+
+@20925 Quattro · クワトロ
+> 「ああ、だが予想以上に
+>  まずい状態だ」
+"Ừ, nhưng nó tệ hơn dự kiến."
+
+@20926 Bright · ブライト
+> 「そんなにひどいのか?」
+"Có nghiêm trọng đến vậy không?"
+
+@20927 Quattro · クワトロ
+> 「我々もカラバも、45の拠点の
+>  ほとんどが、つぶされた
+“Gần như toàn bộ 45 thành trì của chúng tôi ở Calabar đã bị phá hủy.
+---
+>  他の組織についても、
+>  ほぼ壊滅したと考えて間違いない
+Các tổ chức khác về cơ bản có thể được kết luận là đã bị tiêu diệt.
+---
+>  帝国をあなどりすぎたようだ」
+Có vẻ như chúng ta đã đánh giá quá thấp đế quốc. "
+
+@20928 Bright · ブライト
+> 「くっ……なんということだ……」
+"Chà...làm sao chuyện này có thể xảy ra được..."
+
+@20929 Ryoma · リョウ
+> 「そんなっ! じゃあ俺たちは、これから
+>  どうすればいいんです!?」
+"Sao có thể như vậy được! Vậy sau này chúng ta nên làm gì đây!?"
+
+@20930 Shinobu · 忍
+> 「どうしようもねぇってことさ。帝国に
+>  降伏するのがイヤなら俺たちだけでも
+“Chúng ta có thể làm gì khác? Nếu chúng ta không muốn đầu hàng đế quốc, ngay cả khi chỉ còn lại một vài người trong chúng ta,
+---
+>  戦うしかねぇ。そうだろう大尉」
+Chúng ta chỉ có thể chiến đấu tiếp. Đúng, thuyền trưởng. "
+
+@20931 Quattro · クワトロ
+> 「そうだ。帝国の掃討作戦を
+>  逃れた場所も多少はある
+“Đúng vậy. Vẫn còn một số nơi thoát khỏi sự tấn công của đế quốc.
+---
+>  しかし……厳しい戦いになる」
+Nhưng...đây sẽ là một cuộc chiến khó khăn. "
+
+@20932 Domon · ドモン
+> 「冗談じゃない! こうしている間にも
+>  デビルガンダムは……」
+"Thật là một trò đùa! Khi chúng ta đang nói chuyện, DemonGundam vẫn còn ở đây..."
+
+@20933 Amuro · アムロ
+> 「落ち着くんだ、ドモンくん」
+“Bình tĩnh nào, Domon.”
+
+@20934 Domon · ドモン
+> 「だが……!」
+"Nhưng...!"
+
+@20935 Rain · レイン
+> 「ドモン、そんなこといっている場合じゃ
+>  ないでしょう? あなたの気持ちも
+"Domeng, bây giờ không phải là lúc để nói những điều như vậy phải không? Tôi không biết bạn cảm thấy thế nào.
+---
+>  わかるけど、あせったって何も
+>  解決できはしないわ。ね? ドモン」
+Tôi hiểu, nhưng ngay cả việc vội vã cũng không thể giải quyết được vấn đề gì. Đúng không? Domon. "
+
+@20936 Domon · ドモン
+> 「くっ……」
+"Ờ..."
+
+@20937 Astonaige · アストナージ
+> 「おわっ、危ないじゃないか!
+>  ドモンの奴、どうしたんです?」
+"Wow, nguy hiểm quá! Chuyện gì đã xảy ra với cậu bé Domon vậy?"
+
+@20938 Amuro · アムロ
+> 「いや、いい。それよりアストナージ、
+>  アルビオンの方はどうだい?」
+"Không có gì đâu, đừng lo lắng về điều đó. Nhưng Astornaghi, mọi chuyện ở Albion thế nào rồi?"
+
+@20939 Astonaige · アストナージ
+> 「それなんですがね、エンジンの損傷が
+>  激しくて、とてもじゃありませんが
+“Nói mới nhớ, động cơ hư hỏng quá nghiêm trọng. Nói thật thì,
+---
+>  応急修理じゃ間にあわんのですよ」
+Chỉ sửa chữa khẩn cấp thôi là chưa đủ. "
+
+@20940 Bright · ブライト
+> 「なんだ? はっきりいってみろ」
+"Có chuyện gì vậy? Có gì muốn nói thì cứ nói đi."
+
+@20941 Astonaige · アストナージ
+> 「はぁ……いちおう修理はしましたが、
+>  このままではすぐに航行不能に
+"Haiz... việc sửa chữa đã được thực hiện một cách miễn cưỡng, nhưng nếu cứ tiếp tục như vậy, tôi e rằng nó sẽ không được sửa chữa sớm.
+---
+>  なると思われます」
+Không thể điều hướng được. "
+
+@20942 Kamille · カミーユ
+> 「でも、修理のできるような施設とは
+>  連絡がついていない……
+“Nhưng tôi không thể liên hệ với cơ sở có thể sửa chữa được…
+---
+>  深刻ですね、それは」
+Điều đó sẽ rất nghiêm trọng. "
+
+@20943 Duo · デュオ
+> 「なんてこった。今、動けなくなったら
+>  俺たち、お手上げだぜ?」
+"Làm sao chuyện này có thể xảy ra? Nếu bây giờ không thể di chuyển, chúng ta sẽ hoàn toàn bất lực."
+
+@20944 Quatre · カトル
+> 「……僕に心当たりがあります。
+>  少しお時間をいただけないでしょうか」
+"...Tôi đang nghĩ một nơi. Bạn có thể cho tôi một chút được không?"
+
+@20945 Bright · ブライト
+> 「君が? ……わかった、頼めるか」
+“Anh?…Được rồi, tôi sẽ giao việc đó cho anh.”
+
+@20946 Quatre · カトル
+> 「はい」
+"Ừ. "
+
+@20947 Show · ショウ
+> 「クワトロ大尉、バイストンウェルから
+>  出たらしいという軍勢の方は
+"Đại úy Kwatero, đội quân đó được cho là đã tiến ra từ Baiston Weir,
+---
+>  どうなっているのか、わかりますか?」
+Mọi chuyện thế nào rồi, bạn biết không? "
+
+@20948 Quattro · クワトロ
+> 「ああ、その件もあったな。はっきりとは
+>  わからないが、どうやら大部分は
+"Ừ, cũng có chuyện đó. Tuy không rõ ràng nhưng có vẻ như phần lớn
+---
+>  占領軍との交戦を行っていない
+>  ようだ」
+Không ai chiến đấu với lực lượng chiếm đóng. "
+
+@20949 Chum · チャム
+> 「それってどういうこと?」
+"Điều đó có nghĩa là gì?"
+
+@20950 Show · ショウ
+> 「……帝国とドレイクが手を結んだ
+>  かもしれない、ということですか?」
+"...Ý bạn là, Đế quốc và Drake có thể đã hợp lực?"
+
+@20951 Quattro · クワトロ
+> 「その可能性が高いな。ショウくん、
+>  君の考えはどうかな?」
+"Rất có thể, Hướng, ngươi cảm thấy thế nào?"
+
+@20952 Show · ショウ
+> 「ろくに戦いもしないでドレイクが同盟
+>  関係を求めるとは思えません。でも
+“Không có khả năng Drake sẽ tìm kiếm một liên minh mà không cần phải chiến đấu một trận tử tế. Tuy nhiên,
+---
+>  ドレイクのもとにいた地上人が手
+>  引きをしたのならありうることでしょうね」
+Điều đó có thể xảy ra nếu người của anh ta trên mặt đất có thể giật dây. "
+
+@20953 Ark · アーク（按段落 3DD1）
+> 「どういう人なんです、その人?」
+"Đó là loại người gì thế?"
+
+@20954 Selain · セレイン（按段落 3DD2）
+> 「……どういう人物なんだ?」
+“…Anh ta là người như thế nào?”
+
+@20955 Show · ショウ
+> 「よくは知らない。ただ、俺たちよりも
+>  ずっと、あとにバイストンウェルに来た
+"Không chắc lắm. Tôi chỉ nghe nói anh ấy đến Byston Weir muộn hơn chúng ta rất nhiều.
+---
+>  地上の軍関係者だったらしい
+>  とは聞いている」
+Ban đầu họ có vẻ là quân nhân trên mặt đất. "
+
+@20956 Quattro · クワトロ
+> 「軍関係者か……ありうるな」
+"Quân nhân...điều đó có lý."
+
+@20957 Show · ショウ
+> 「でも、さっき大部分は、といいました
+>  よね?」
+“Nhưng cậu vừa nói hầu hết rồi phải không?”
+
+@20958 Quattro · クワトロ
+> 「そうだ。一部では交戦が確認
+>  されている」
+"Đúng vậy. Có đánh nhau ở một số nơi."
+
+@20959 Chum · チャム
+> 「ショウ! きっとマーベルやシーラ様
+>  たちよ!」
+"Xiang! Chắc chắn là Mabel và Lady Sheila!"
+
+@20960 Ark · アーク（按段落 3DD1）
+> 「バイストンウェルで、味方だった人
+>  たちですか?」
+"Bạn có phải là bạn đồng hành của Baiston Weir không?"
+
+@20961 Selain · セレイン（按段落 3DD2）
+> 「味方か?」
+"Bạn có phải là bạn đồng hành không?"
+
+@20962 Show · ショウ
+> 「ああ。今どうなっているかわかりますか?」
+"Chà. Bạn có biết bây giờ họ thế nào không?"
+
+@20963 Quattro · クワトロ
+> 「残念だが、そこまではわからん」
+"Thật không may, tôi không biết điều đó."
+
+@20964 Chum · チャム
+> 「ショウ、マーベルたちを助けに
+>  行かなくちゃっ!!」
+"Xiang, chúng ta phải cứu Mabel và những người khác!!"
+
+@20965 Show · ショウ
+> 「だめだよチャム。俺だって行きたいけど
+>  どこにいるかもわからないんじゃ
+“Không, Chamu. Tôi cũng muốn đi, nhưng tôi thậm chí còn không biết họ ở đâu.
+---
+>  うかつには動けないよ」
+Đừng hành động hấp tấp. "
+
+@20966 Chum · チャム
+> 「そんなぁ～」
+"Sao lại thế này~!"
+
+@20967 Duo · デュオ
+> 「よう、どうだったカトル?」
+"Yo, mọi chuyện thế nào rồi, Cartel?"
+
+@20968 Quatre · カトル
+> 「なんとか連絡はついたよ」
+"Cuối cùng chúng tôi đã liên lạc được."
+
+@20969 Bright · ブライト
+> 「あてになるのか? その、マグアナック隊
+>  というのは」
+"Có đáng tin cậy không? Đội Magnak đó."
+
+@20970 Quatre · カトル
+> 「はい。彼らの基地は町の地下に
+>  あって発見されずに済んだようです
+"Đúng. Căn cứ của họ nằm dưới lòng đất trong thị trấn và dường như chưa được phát hiện.
+---
+>  アルビオンの修理もできると
+>  いっていました」
+Họ cũng cho biết họ có thể sửa chữa Albion. "
+
+@20971 Roux · ルー
+> 「それで、その基地っていうのはどこに
+>  あるの?」
+“Vậy căn cứ đó ở đâu?”
+
+@20972 Quatre · カトル
+> 「中東です」
+"Ở Trung Đông."
+
+@20973 Bright · ブライト
+> 「……かなり遠いが、敵に会わないこと
+>  を祈るしかないか」
+“…Nó khá xa. Tôi chỉ có thể cầu nguyện rằng mình không gặp phải kẻ thù.”

@@ -1,0 +1,172 @@
+# Bản dịch tiếng Việt Super Robot Wars 64
+# Định dạng và vị trí: docs/guide/dialogue-text.md
+
+@7364 Alberto · アルベルト
+# Kích hoạt: Tấn công (Chung，1/15）
+> 「逃がさん!」
+"Đừng cố trốn thoát!"
+
+@7365 Alberto · アルベルト
+# Kích hoạt: Tấn công (Chung，2/15）
+> 「チュアァァッ!」
+"Chào!"
+
+@7366 Alberto · アルベルト
+# Kích hoạt: Tấn công (Chung，3/15）
+> 「ヌゥアァァァァァァ!」
+"Ooooohhhhhhhhhhhhhhhhhhhhh!"
+
+@7367 Alberto · アルベルト
+# Kích hoạt: Tấn công (Chung，4/15）
+> 「とどめだっ!」
+"Đưa bạn lên đường!"
+
+@7368 Alberto · アルベルト
+# Kích hoạt: Tấn công (Chung，5/15）
+> 「死ね」
+"Đi xuống địa ngục đi."
+
+@7369 Alberto · アルベルト
+# Kích hoạt: Tấn công (Chung，6/15）
+> 「十傑集をなめるなぁぁぁぁぁっ!」
+"Đừng đánh giá thấp Bộ sưu tập Top Ten!"
+
+@7370 Alberto · アルベルト
+# Kích hoạt: Tấn công (Chung，7/15）
+> 「ハハハハッどうだぁっ」
+"Ha ha ha, thế nào rồi!"
+
+@7371 Alberto · アルベルト
+# Kích hoạt: Tấn công (Chung，8/15）
+> 「つおぅりゃぁぁぁっ!」
+"Này a a a a a!"
+
+@7372 Alberto · アルベルト
+# Kích hoạt: Tấn công (Chung，9/15）
+> 「思い知れっ!」
+"Cho ngươi nếm thử nỗi đau!"
+
+@7373 Alberto · アルベルト
+# Kích hoạt: Tấn công (Chung，10/15）
+> 「さぁて決めてやるっ!」
+"Được, để ta kết liễu ngươi!"
+
+@7374 Alberto · アルベルト
+# Kích hoạt: Tấn công (Chung，11/15）
+> 「フッフッフッフッフッ」
+"He he he he he he he."
+
+@7375 Alberto · アルベルト
+# Kích hoạt: Tấn công (Chung，12/15）
+> 「でぃやぁぁぁぁっ!」
+"Này a a a a a!"
+
+@7376 Alberto · アルベルト
+# Kích hoạt: Tấn công (Chung，13/15）
+> 「てこずらせおって」
+"Sao anh dám bắt tôi phải gặp rắc rối như vậy."
+
+@7377 Alberto · アルベルト
+# Kích hoạt: Tấn công (Chung，14/15）
+> 「問答無用!」
+"Đừng nói nhảm nữa!"
+
+@7378 Alberto · アルベルト
+# Kích hoạt: Tấn công (Chung，15/15）
+> 「どけぇぃ!」
+"Tránh xa!"
+
+@7379 Alberto · アルベルト
+# Kích hoạt: 被击坠（通用，1/1）
+> 「おおぉぉぅあぁぁぁっ」
+"Ồhhhhhhhhh!"
+
+@7380 Alberto · アルベルト
+# Kích hoạt: 重伤（剩余 HP 不足 30%）（通用，1/2）
+> 「き、貴様ぁぁっ!」
+"Ngươi, tên khốn!"
+
+@7381 Alberto · アルベルト
+# Kích hoạt: 重伤（剩余 HP 不足 30%）（通用，2/2）
+> 「おおぉぉぅあぁぁぁっ」
+"Ồhhhhhhhhh!"
+
+@7382 Alberto · アルベルト
+# Kích hoạt: 中伤（剩余 HP 30–90%）（通用，1/3）
+> 「な、なにぃっ!?」
+"C-Cái gì!?"
+
+@7383 Alberto · アルベルト
+# Kích hoạt: 中伤（剩余 HP 30–90%）（通用，2/3）
+> 「こしゃくなっ」
+"Thật dũng cảm."
+
+@7384 Alberto · アルベルト
+# Kích hoạt: 中伤（剩余 HP 30–90%）（通用，3/3）
+> 「ぬぅぅっ」
+"Ừm."
+
+@7385 Alberto · アルベルト
+# Kích hoạt: 轻伤（剩余 HP 90% 以上）（通用，1/3）
+> 「フッフッ味な真似をっ」
+"Hừm, ngươi khá giỏi giở trò."
+
+@7386 Alberto · アルベルト
+# Kích hoạt: 轻伤（剩余 HP 90% 以上）（通用，2/3）
+> 「ふんっ」
+"Hừm. "
+
+@7387 Alberto · アルベルト
+# Kích hoạt: 轻伤（剩余 HP 90% 以上）（通用，3/3）
+> 「このザコがぁっ!」
+"Đồ khốn nạn!"
+
+@7388 Alberto · アルベルト
+# Kích hoạt: Né tránh（通用，1/2）
+> 「どうした、よそ見はいかんぞ」
+"Có chuyện gì vậy, đừng nhìn quanh."
+
+@7389 Alberto · アルベルト
+# Kích hoạt: Né tránh（通用，2/2）
+> 「そこかぁっ!」
+"Nó ở đó!"
+
+@7390 Alberto · アルベルト
+# Kích hoạt: Tấn công无效（护罩／装甲）（通用，1/1）
+> 「ふんっ」
+"Hừm. "
+
+@7391 Alberto · アルベルト
+# Kích hoạt: 弹药／EN 不足，无法反击（通用，1/1）
+> 「ふんっ」
+"Hừm. "
+
+@7392 Alberto · アルベルト
+# Kích hoạt: 射程外，无法反击（通用，1/1）
+> 「ふんっ」
+"Hừm. "
+
+@14474 Alberto · アルベルト
+# Kích hoạt: 使用〈フィンファンネル〉
+> 「ダミーだっ!」
+"Đó là mồi!"
+
+@14475 Ko Enshaku · コエンシャク
+# Kích hoạt: Né tránh，条件 1300（对话第 1/2 句）
+> 「……………」
+“…………”
+
+@14476 Alberto · アルベルト
+# Kích hoạt: Né tránh，条件 1300（对话第 2/2 句）
+> 「貴様、余計な事をっ」
+"Anh này, anh thật tọc mạch!"
+
+@14477 Ko Enshaku · コエンシャク
+# Kích hoạt: Né tránh，条件 1300（对话第 1/2 句）
+> 「……………」
+“…………”
+
+@14478 Alberto · アルベルト
+# Kích hoạt: Né tránh，条件 1300（对话第 2/2 句）
+> 「ふんっ」
+"Hừm"

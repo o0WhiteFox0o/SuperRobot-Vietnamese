@@ -1,0 +1,197 @@
+# Bản dịch tiếng Việt Super Robot Wars 64
+# Định dạng và vị trí: docs/guide/dialogue-text.md
+
+@12140 Jeril · ジェリル
+# Kích hoạt: Tấn công (Chung，1/13）
+> 「アハハハハ……死になよっ!!」
+"Ahahahaha...đi xuống địa ngục đi!!"
+
+@12141 Jeril · ジェリル
+# Kích hoạt: Tấn công (Chung，2/13）
+> 「落ちなっ!!」
+"Thả tôi xuống!!"
+
+@12142 Jeril · ジェリル
+# Kích hoạt: Tấn công (Chung，3/13）
+> 「逃げられやしないよ!!」
+"Ngươi không thể trốn thoát!!"
+
+@12143 Jeril · ジェリル
+# Kích hoạt: Tấn công (Chung，4/13）
+> 「もらった!!」
+"Thành công!!"
+
+@12144 Jeril · ジェリル
+# Kích hoạt: Tấn công (Chung，5/13）
+> 「ハハハハハハハッ!!」
+"Hahahahaha!!"
+
+@12145 Jeril · ジェリル
+# Kích hoạt: Tấn công (Chung，6/13）
+> 「さっさとやられちまいなっ!」
+"Nhanh xuống đi!"
+
+@12146 Jeril · ジェリル
+# Kích hoạt: Tấn công (Chung，7/13）
+> 「ほらほら、邪魔なんだよ!!」
+"Này, này, cậu đang cản đường đấy!!"
+
+@12147 Jeril · ジェリル
+# Kích hoạt: Tấn công (Chung，8/13）
+> 「目障りだっ!」
+"Chướng mắt!"
+
+@12148 Jeril · ジェリル
+# Kích hoạt: Tấn công (Chung，9/13）
+> 「消えなっ!」
+"Biến mất!"
+
+@12149 Jeril · ジェリル
+# Kích hoạt: Tấn công (Chung，10/13）
+> 「地獄へ落ちな!!」
+"Xuống địa ngục đi!!"
+
+@12150 Jeril · ジェリル
+# Kích hoạt: Tấn công (Chung，11/13）
+> 「行けえぇぇぇっ!」
+"Cố lên--!!"
+
+@12151 Jeril · ジェリル
+# Kích hoạt: Tấn công (Chung，12/13）
+> 「どきなっ!」
+"Tránh ra!"
+
+@12152 Jeril · ジェリル
+# Kích hoạt: Tấn công (Chung，13/13）
+> 「とどめをさしてやるよ!」
+"Tôi sẽ kết liễu anh!"
+
+@12153 Jeril · ジェリル
+# Kích hoạt: 被击坠（通用，1/2）
+> 「ちっ! やられちまったか!」
+"Tsk! Bị giết rồi!"
+
+@12154 Jeril · ジェリル
+# Kích hoạt: 被击坠（通用，2/2）
+> 「何っ!? バカな……このあたしが!?」
+"Cái gì!? Không thể nào... thực ra là tôi!?"
+
+@12155 Jeril · ジェリル
+# Kích hoạt: 重伤（剩余 HP 不足 30%）（通用，1/3）
+> 「うあっ!! こ、こいつ……パワーが
+>  段ちだ」
+"Ugh!! Cái này, sức mạnh của tên này... hoàn toàn khác!"
+
+@12156 Jeril · ジェリル
+# Kích hoạt: 重伤（剩余 HP 不足 30%）（通用，2/3）
+> 「うっ! しまった!? どこをやられた!?」
+"Uh! Ồ không!? Nó bị đánh ở đâu!?"
+
+@12157 Jeril · ジェリル
+# Kích hoạt: 重伤（剩余 HP 不足 30%）（通用，3/3）
+> 「何っ!? あ、あたしのオーラ力が……
+>  押されている!?」
+"Cái gì!? Ôi, sức mạnh Hào quang của tôi...bị triệt tiêu rồi!?"
+
+@12158 Jeril · ジェリル
+# Kích hoạt: 中伤（剩余 HP 30–90%）（通用，1/5）
+> 「くっ! この、なめるなっ!」
+"Chà! Bạn ơi, đừng đánh giá thấp tôi!"
+
+@12159 Jeril · ジェリル
+# Kích hoạt: 中伤（剩余 HP 30–90%）（通用，2/5）
+> 「あうっ! そうかい、そんなに死にたいの
+>  かいっ!」
+"A! Được rồi, ngươi thực sự muốn chết đến vậy sao?"
+
+@12160 Jeril · ジェリル
+# Kích hoạt: 中伤（剩余 HP 30–90%）（通用，3/5）
+> 「うわっ! あたしを本気にさせたね!!」
+"Wow! Bạn thực sự làm tôi cảm động!!"
+
+@12161 Jeril · ジェリル
+# Kích hoạt: 中伤（剩余 HP 30–90%）（通用，4/5）
+> 「ちいっ! まだ負けちゃいないよっ!!」
+"Tsk! Tôi vẫn chưa thua!!"
+
+@12162 Jeril · ジェリル
+# Kích hoạt: 中伤（剩余 HP 30–90%）（通用，5/5）
+> 「うっ! こ、こしゃくな!」
+"Ugh! Kiêu ngạo quá!"
+
+@12163 Jeril · ジェリル
+# Kích hoạt: 轻伤（剩余 HP 90% 以上）（通用，1/5）
+> 「くっ! たかがかすり傷!」
+"Hmm! Chỉ là một vết xước thôi!"
+
+@12164 Jeril · ジェリル
+# Kích hoạt: 轻伤（剩余 HP 90% 以上）（通用，2/5）
+> 「ふふふ、そんなものかい?」
+"Hehehe, đó là tất cả những gì bạn có à?"
+
+@12165 Jeril · ジェリル
+# Kích hoạt: 轻伤（剩余 HP 90% 以上）（通用，3/5）
+> 「こそばゆいんだよっ!」
+"Nhiều nhất là có chút ngứa!"
+
+@12166 Jeril · ジェリル
+# Kích hoạt: 轻伤（剩余 HP 90% 以上）（通用，4/5）
+> 「効かないって言ってんだろ!!」
+"Thật vô ích khi nói tất cả!!"
+
+@12167 Jeril · ジェリル
+# Kích hoạt: 轻伤（剩余 HP 90% 以上）（通用，5/5）
+> 「ハハハハ! その程度かい!」
+"Hahahaha! Không có gì hơn thế!"
+
+@12168 Jeril · ジェリル
+# Kích hoạt: Né tránh（通用，1/6）
+> 「あたらないんだよっ!!」
+"Bạn không thể đánh nó!!"
+
+@12169 Jeril · ジェリル
+# Kích hoạt: Né tránh（通用，2/6）
+> 「ハハハッ、いいねぇこの緊張感!」
+"Hahaha, căng thẳng thế này thật là tốt!"
+
+@12170 Jeril · ジェリル
+# Kích hoạt: Né tránh（通用，3/6）
+> 「しゃらくさいっ!」
+"Đừng thể hiện!"
+
+@12171 Jeril · ジェリル
+# Kích hoạt: Né tránh（通用，4/6）
+> 「あたしを狙おうなんて、いい根性
+>  してるよ!」
+"Ngươi dám nhắm vào ta, ngươi thật can đảm!"
+
+@12172 Jeril · ジェリル
+# Kích hoạt: Né tránh（通用，5/6）
+> 「遅いねっ!」
+"Quá chậm!"
+
+@12173 Jeril · ジェリル
+# Kích hoạt: Né tránh（通用，6/6）
+> 「あたるかい、カトンボめ!!」
+"Mày không thể đánh nó được, con muỗi nhỏ!!"
+
+@12174 Jeril · ジェリル
+# Kích hoạt: Tấn công无效（护罩／装甲）（通用，1/2）
+> 「そんなものが効くか!! このあたしの
+>  オーラ力に!!」
+"Làm sao thứ đó có thể hoạt động được!! Trước sức mạnh Aura của tôi!!"
+
+@12175 Jeril · ジェリル
+# Kích hoạt: Tấn công无效（护罩／装甲）（通用，2/2）
+> 「ハハハッ、いきがってさ!」
+"Hahaha, tại sao bạn lại giả vờ tuyệt vời!"
+
+@12176 Jeril · ジェリル
+# Kích hoạt: 弹药／EN 不足，无法反击（通用，1/1）
+> 「弾切れだって!? こんな時に……」
+"Hết đạn!? Nhưng vào lúc này..."
+
+@12177 Jeril · ジェリル
+# Kích hoạt: 射程外，无法反击（通用，1/1）
+> 「ちっ、少しは頭を使ってるようだね」
+“Tsk, có vẻ như cậu đã sử dụng được não của mình phần nào rồi.”

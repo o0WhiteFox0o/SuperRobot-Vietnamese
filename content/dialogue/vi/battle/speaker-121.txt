@@ -1,0 +1,309 @@
+# Bản dịch tiếng Việt Super Robot Wars 64
+# Định dạng và vị trí: docs/guide/dialogue-text.md
+
+@9892 Hayato · ハヤト
+# Kích hoạt: Tấn công (Chung，1/3）
+> 「くらいな!!」
+"Hãy di chuyển của tôi!!"
+
+@9893 Hayato · ハヤト
+# Kích hoạt: Tấn công (Chung，2/3）
+> 「俺に任せろ!」
+"Để đó cho tôi! "
+
+@9894 Hayato · ハヤト
+# Kích hoạt: Tấn công (Chung，3/3）
+> 「いくぜっ!」
+"Nào!"
+
+@9895 Hayato · ハヤト
+# Kích hoạt: 被击坠（通用，1/3）
+> 「ちっ!! オレもヤキが
+>  まわったもんだぜ!!」
+"Tsk!! Tôi càng ngày càng trở nên vô dụng rồi!!"
+
+@9896 Hayato · ハヤト
+# Kích hoạt: 被击坠（通用，2/3）
+> 「くっ!! ここまでか!!」
+"Hmm!! Thế là xong rồi à?!"
+
+@9897 Hayato · ハヤト
+# Kích hoạt: 被击坠（通用，3/3）
+> 「なんだと!?」
+"Cái gì!?"
+
+@9898 Hayato · ハヤト
+# Kích hoạt: 重伤（剩余 HP 不足 30%）（通用，1/6）
+> 「ちっ!! しまった!」
+"Tsk!! Rất tiếc!"
+
+@9899 Hayato · ハヤト
+# Kích hoạt: 重伤（剩余 HP 不足 30%）（通用，2/6）
+> 「しまった! このままでは……」
+"Rất tiếc! Nếu chuyện này tiếp tục..."
+
+@9900 Hayato · ハヤト
+# Kích hoạt: 重伤（剩余 HP 不足 30%）（通用，3/6）
+> 「くうっ!! 意外とやるな!」
+"Hmm!! Không ngờ nó lại có khả năng chiến đấu tốt như vậy!"
+
+@9901 Hayato · ハヤト
+# Kích hoạt: 重伤（剩余 HP 不足 30%）（通用，4/6）
+> 「ちいっ!! ちょいとヤバイぜ!」
+"Tsk!! Có gì đó không ổn!"
+
+@9902 Hayato · ハヤト
+# Kích hoạt: 重伤（剩余 HP 不足 30%）（通用，5/6）
+> 「くっ!! ヤバイな……」
+"Ugh!! Điều đó không tốt..."
+
+@9903 Hayato · ハヤト
+# Kích hoạt: 重伤（剩余 HP 不足 30%）（通用，6/6）
+> 「くっ!! ダメージがでかすぎるか!?」
+"Ugh!! Có đau quá không!?"
+
+@9904 Hayato · ハヤト
+# Kích hoạt: 中伤（剩余 HP 30–90%）（通用，1/8）
+> 「うっ!! まだまだ!」
+"Ugh!! Vẫn còn sớm mà!"
+
+@9905 Hayato · ハヤト
+# Kích hoạt: 中伤（剩余 HP 30–90%）（通用，2/8）
+> 「この程度で、やられるか!」
+"Dựa trên điểm này, ngươi vẫn là không đánh bại được ta!"
+
+@9906 Hayato · ハヤト
+# Kích hoạt: 中伤（剩余 HP 30–90%）（通用，3/8）
+> 「つっ!! なかなかやるな!」
+"Ơ! Bạn có thể chiến đấu khá tốt!"
+
+@9907 Hayato · ハヤト
+# Kích hoạt: 中伤（剩余 HP 30–90%）（通用，4/8）
+> 「むっ!! だが、まだやられちゃいないぜ!」
+"Ừ!! Nhưng tôi vẫn chưa ngã xuống!"
+
+@9908 Hayato · ハヤト
+# Kích hoạt: 中伤（剩余 HP 30–90%）（通用，5/8）
+> 「なんのっ! まだだ!」
+"Cái gì thế này! Nó vẫn chưa kết thúc mà!"
+
+@9909 Hayato · ハヤト
+# Kích hoạt: 中伤（剩余 HP 30–90%）（通用，6/8）
+> 「ちっ! やるな!!」
+"Tsk! Chỉ một chút thôi!!"
+
+@9910 Hayato · ハヤト
+# Kích hoạt: 中伤（剩余 HP 30–90%）（通用，7/8）
+> 「くっ!! だが、この程度なら
+>  まだいける!!」
+"Hmm!! Nhưng tôi vẫn có thể chịu đựng được vết thương này!!"
+
+@9911 Hayato · ハヤト
+# Kích hoạt: 中伤（剩余 HP 30–90%）（通用，8/8）
+> 「ちっ! あたっちまったか!」
+"Tsk! Bị trúng đòn!"
+
+@9912 Hayato · ハヤト
+# Kích hoạt: 轻伤（剩余 HP 90% 以上）（通用，1/5）
+> 「あまいぜ!」
+"Thật ngây thơ!"
+
+@9913 Hayato · ハヤト
+# Kích hoạt: 轻伤（剩余 HP 90% 以上）（通用，2/5）
+> 「なっちゃいないぜ!」
+"Gần cũng không được!"
+
+@9914 Hayato · ハヤト
+# Kích hoạt: 轻伤（剩余 HP 90% 以上）（通用，3/5）
+> 「フ、その程度か?」
+“Humph, đó là tất cả những gì cậu có à?”
+
+@9915 Hayato · ハヤト
+# Kích hoạt: 轻伤（剩余 HP 90% 以上）（通用，4/5）
+> 「ちっ! かすったか!」
+"Tsk! Tôi bị trầy xước!"
+
+@9916 Hayato · ハヤト
+# Kích hoạt: 轻伤（剩余 HP 90% 以上）（通用，5/5）
+> 「この程度のダメージ!」
+"Vết thương nhỏ này không là gì cả!"
+
+@9917 Hayato · ハヤト
+# Kích hoạt: Né tránh（通用，1/2）
+> 「あまいぜ!」
+"Thật ngây thơ!"
+
+@9918 Hayato · ハヤト
+# Kích hoạt: Né tránh（通用，2/2）
+> 「ゲッターのスピードを甘くみるなよ!!」
+"Đừng đánh giá thấp tốc độ xây dựng một tòa tháp!!"
+
+@9919 Hayato · ハヤト
+# Kích hoạt: Tấn công无效（护罩／装甲）（通用，1/2）
+> 「ムダだっ!」
+"Không có ích gì!"
+
+@9920 Hayato · ハヤト
+# Kích hoạt: Tấn công无效（护罩／装甲）（通用，2/2）
+> 「フッ 効かんな!」
+"Hừm, không đau cũng không ngứa!"
+
+@9921 Hayato · ハヤト
+# Kích hoạt: 弹药／EN 不足，无法反击（通用，1/1）
+> 「くっ、だめか!?」
+"Chà, bạn không thể chiến đấu nữa!?"
+
+@9922 Hayato · ハヤト
+# Kích hoạt: 射程外，无法反击（通用，1/2）
+> 「くっ! 距離が遠すぎるのか!」
+"Hmm! Có xa quá không?"
+
+@9923 Hayato · ハヤト
+# Kích hoạt: 射程外，无法反击（通用，2/2）
+> 「くっ! 遠すぎるか!」
+"Hmm! Có xa quá không?"
+
+@15221 Hayato · ハヤト
+# Kích hoạt: 使用〈ゲッターアーム〉
+> 「くらいな!!」
+"Ăn chiêu này đi!!"
+---
+> 「ゲッターアーム!!」
+"Nhận Tháp Cánh Tay!!"
+
+@15222 Hayato · ハヤト
+# Kích hoạt: 使用〈ゲッターアーム〉
+> 「ゲッターアーム!!」
+"Nhận Tháp Cánh Tay!!"
+
+@15223 Hayato · ハヤト
+# Kích hoạt: 使用〈ゲッタードリル〉
+> 「ゲッタードリル!!」
+"Máy khoan tháp cổng!!"
+
+@15224 Hayato · ハヤト
+# Kích hoạt: 使用〈ゲッタードリル〉
+> 「くらいな!!」
+"Ăn chiêu này đi!!"
+---
+> 「ゲッタードリル!!」
+"Máy khoan tháp cổng!!"
+
+@15225 Hayato · ハヤト
+# Kích hoạt: 使用〈ドリルストーム〉
+> 「ドリルストーム!!」
+"Khoan bão!!"
+
+@15226 Hayato · ハヤト
+# Kích hoạt: 使用〈ドリルストーム〉
+> 「くらいな!!」
+"Ăn chiêu này đi!!"
+---
+> 「ドリルストーム!!」
+"Khoan bão!!"
+
+@15227 Hayato · ハヤト
+# Kích hoạt: 使用〈ドリルパンチ〉
+> 「ドリルパンチ!!」
+"Khoan cú đấm bay!!"
+
+@15228 Hayato · ハヤト
+# Kích hoạt: 使用〈ドリルパンチ〉
+> 「俺に任せろ!」
+"Để đó cho tôi! "
+---
+> 「ドリルパンチ!!」
+"Khoan cú đấm bay!!"
+
+@15229 Hayato · ハヤト
+# Kích hoạt: 使用〈ゲッターミサイル〉
+> 「ゲッターミサイル!!」
+"Tên lửa Geta!!"
+
+@15230 Hayato · ハヤト
+# Kích hoạt: 使用〈ゲッターミサイル〉
+> 「俺に任せろ!」
+"Để đó cho tôi! "
+---
+> 「ゲッターミサイル!!」
+"Tên lửa Geta!!"
+
+@15231 Hayato · ハヤト
+# Kích hoạt: 使用〈ドリルアーム〉
+> 「ドリルアーム!!」
+“Cánh tay khoan!!”
+
+@15232 Hayato · ハヤト
+# Kích hoạt: 使用〈ドリルアーム〉
+> 「いくぜっ!」
+"Nào!"
+---
+> 「ドリルアーム!!」
+“Cánh tay khoan!!”
+
+@15233 Hayato · ハヤト
+# Kích hoạt: 使用〈ライガーミサイル〉
+> 「ライガーミサイルっ!!」
+"Tên lửa Liger!!"
+
+@15234 Hayato · ハヤト
+# Kích hoạt: 使用〈ライガーミサイル〉
+> 「いくぜっ!」
+"Nào!"
+---
+> 「ライガーミサイルっ!!」
+"Tên lửa Liger!!"
+
+@15235 Hayato · ハヤト
+# Kích hoạt: 使用〈チェーンアタック〉
+> 「チェーンアタック!!」
+"Tấn công dây chuyền!!"
+
+@15236 Hayato · ハヤト
+# Kích hoạt: 使用〈チェーンアタック〉
+> 「いくぜっ!」
+"Nào!"
+---
+> 「チェーンアタック!!」
+"Tấn công dây chuyền!!"
+
+@15237 Hayato · ハヤト
+# Kích hoạt: 使用〈ミラージュドリル〉
+> 「ミラージュドリル!!」
+"Máy khoan ma quái!!"
+
+@15238 Hayato · ハヤト
+# Kích hoạt: 使用〈ミラージュドリル〉
+> 「俺に任せろ!」
+"Để đó cho tôi! "
+---
+> 「ミラージュドリル!!」
+"Máy khoan ma quái!!"
+
+@15239 Hayato · ハヤト
+# Kích hoạt: 使用〈ドリルテンペスト〉
+> 「ドリルテンペスト!!」
+"Khoan bão!!"
+
+@15240 Hayato · ハヤト
+# Kích hoạt: 使用〈ドリルテンペスト〉
+> 「俺に任せろ!」
+"Để đó cho tôi! "
+---
+> 「ドリルテンペスト!!」
+"Khoan bão!!"
+
+@15241 Hayato · ハヤト
+# Kích hoạt: 分身回避，乘坐〈ゲッター2〉
+> 「ゲッタービジョン!!」
+"Bóng ma Getter!!"
+
+@15242 Hayato · ハヤト
+# Kích hoạt: 分身回避，乘坐〈ゲッターライガー〉
+> 「マッハスペシャル!!」
+"Mach đóng thế!!"
+
+@15243 Hayato · ハヤト
+# Kích hoạt: 分身回避，乘坐〈真・ゲッター2〉
+> 「真・マッハスペシャル!!」
+"Mach thực sự đóng thế!!"

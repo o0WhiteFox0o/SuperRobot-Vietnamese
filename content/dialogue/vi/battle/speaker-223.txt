@@ -1,0 +1,127 @@
+# Bản dịch tiếng Việt Super Robot Wars 64
+# Định dạng và vị trí: docs/guide/dialogue-text.md
+
+@10847 Beanne · ビアン
+# Kích hoạt: Tấn công (Chung，1/5）
+> 「つぶれろ!」
+"Đè bẹp bạn!"
+
+@10848 Beanne · ビアン
+# Kích hoạt: Tấn công (Chung，2/5）
+> 「こいつ!」
+"Anh bạn!"
+
+@10849 Beanne · ビアン
+# Kích hoạt: Tấn công (Chung，3/5）
+> 「文句はいわせん!」
+"Bạn không có gì để nói!"
+
+@10850 Beanne · ビアン
+# Kích hoạt: Tấn công (Chung，4/5）
+> 「こうも簡単にやらせるとはな!」
+"Sao tôi có thể thành công dễ dàng như vậy!"
+
+@10851 Beanne · ビアン
+# Kích hoạt: Tấn công (Chung，5/5）
+> 「これならどうだ!」
+"Còn chiêu này thì sao!"
+
+@10852 Beanne · ビアン
+# Kích hoạt: 被击坠（通用，1/1）
+> 「し、しまったぁぁぁーっ!」
+"Ồ, không, không, không!"
+
+@10853 Beanne · ビアン
+# Kích hoạt: 重伤（剩余 HP 不足 30%）（通用，1/3）
+> 「こ、これではっ!」
+"Cái này, cái này tiếp tục!"
+
+@10854 Beanne · ビアン
+# Kích hoạt: 重伤（剩余 HP 不足 30%）（通用，2/3）
+> 「わぁぁ! こ、このままでは!」
+"Wow! Hãy tiếp tục làm điều này một lần nữa!"
+
+@10855 Beanne · ビアン
+# Kích hoạt: 重伤（剩余 HP 不足 30%）（通用，3/3）
+> 「なに!? ま、負けるだと!?」
+"Cái gì!? T-tôi sẽ thua!?"
+
+@10856 Beanne · ビアン
+# Kích hoạt: 中伤（剩余 HP 30–90%）（通用，1/3）
+> 「な、なんだ!?」
+"C-Cái gì!?"
+
+@10857 Beanne · ビアン
+# Kích hoạt: 中伤（剩余 HP 30–90%）（通用，2/3）
+> 「つ、強い……ならばっ!」
+"Vậy thì, mạnh quá... vậy thì!"
+
+@10858 Beanne · ビアン
+# Kích hoạt: 中伤（剩余 HP 30–90%）（通用，3/3）
+> 「くぅっ! やる! だがこれなら!」
+"Hmm! Phải mất một lúc! Nhưng hãy nhìn vào động thái này!"
+
+@10859 Beanne · ビアン
+# Kích hoạt: 轻伤（剩余 HP 90% 以上）（通用，1/3）
+> 「そんなものか!」
+“Đó là tất cả những gì cậu có à?”
+
+@10860 Beanne · ビアン
+# Kích hoạt: 轻伤（剩余 HP 90% 以上）（通用，2/3）
+> 「この程度ならば!」
+"Ta còn có thể chịu đựng vết thương nhỏ này!"
+
+@10861 Beanne · ビアン
+# Kích hoạt: 轻伤（剩余 HP 90% 以上）（通用，3/3）
+> 「相手にならん!」
+"Không hợp với tôi chút nào!"
+
+@10862 Beanne · ビアン
+# Kích hoạt: Né tránh（通用，1/2）
+> 「こうも簡単によけられるとはな」
+"Trốn thoát thật dễ dàng"
+
+@10863 Beanne · ビアン
+# Kích hoạt: Né tránh（通用，2/2）
+> 「甘いんだよ」
+“太天真了”
+
+@10864 Beanne · ビアン
+# Kích hoạt: Tấn công无效（护罩／装甲）（通用，1/1）
+> 「甘いんだよ」
+“太天真了”
+
+@10865 Beanne · ビアン
+# Kích hoạt: 弹药／EN 不足，无法反击（通用，1/1）
+> 「な、なんだ!? 弾切れ!?」
+"C-Cái gì!? Hết đạn rồi!?"
+
+@10866 Beanne · ビアン
+# Kích hoạt: 射程外，无法反击（通用，1/1）
+> 「くっ! おのれ、なんと卑怯な手を!」
+"Ugh! Chết tiệt, ngươi đã dùng thủ đoạn hèn hạ như vậy!"
+
+@16357 Beanne · ビアン
+# Kích hoạt: 使用〈フィンファンネル〉
+> 「ガザの嵐を味わうがいい!」
+“Hãy nếm thử cơn bão ở Gaza!”
+
+@16358 Pampa · パンパ
+# Kích hoạt: 使用〈ガザストーム〉（对话第 1/4 句）
+> 「ワイム、ビアン、例のやついくぞ!」
+"Đợi đã, Bi'an, thực hiện động tác đó!"
+
+@16359 Wyme · ワイム
+# Kích hoạt: 使用〈ガザストーム〉（对话第 2/4 句）
+> 「ハッ」
+"Vâng!"
+
+@16360 Beanne · ビアン
+# Kích hoạt: 使用〈ガザストーム〉（对话第 3/4 句）
+> 「行けるぞ!」
+"Bạn có thể đến bất cứ lúc nào!"
+
+@16361 Pampa · パンパ
+# Kích hoạt: 使用〈ガザストーム〉（对话第 4/4 句）
+> 「ようし、ガザストームフォーメーション!」
+"Được rồi, Đội hình Bão Gaza!"

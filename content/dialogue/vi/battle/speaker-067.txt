@@ -1,0 +1,173 @@
+# Bản dịch tiếng Việt Super Robot Wars 64
+# Định dạng và vị trí: docs/guide/dialogue-text.md
+
+@10674 Glemy · グレミー
+# Kích hoạt: Tấn công (Chung，1/10）
+> 「はははははっ、当たれ、当たれ!」
+"Hahahahaha, đánh, đánh tôi!"
+
+@10675 Glemy · グレミー
+# Kích hoạt: Tấn công (Chung，2/10）
+> 「逃がすか!」
+"Đừng cố trốn thoát!"
+
+@10676 Glemy · グレミー
+# Kích hoạt: Tấn công (Chung，3/10）
+> 「死ね!」
+"Đi xuống địa ngục đi!"
+
+@10677 Glemy · グレミー
+# Kích hoạt: Tấn công (Chung，4/10）
+> 「邪魔をするな!」
+"Tránh ra!"
+
+@10678 Glemy · グレミー
+# Kích hoạt: Tấn công (Chung，5/10）
+> 「そこか!」
+"Đó!"
+
+@10679 Glemy · グレミー
+# Kích hoạt: Tấn công (Chung，6/10）
+> 「トドメをさしてくれる!」
+"Hãy để tôi kết thúc bạn!"
+
+@10680 Glemy · グレミー
+# Kích hoạt: Tấn công (Chung，7/10）
+> 「いくぞ!」
+"Lên!"
+
+@10681 Glemy · グレミー
+# Kích hoạt: Tấn công (Chung，8/10）
+> 「これで終わりにしてくれる!」
+"Điều này sẽ kết thúc bạn!"
+
+@10682 Glemy · グレミー
+# Kích hoạt: Tấn công (Chung，9/10）
+> 「落ちろ!」
+"Rớt!"
+
+@10683 Glemy · グレミー
+# Kích hoạt: Tấn công (Chung，10/10）
+> 「私の前から去れ!」
+“Biến khỏi tôi đi!”
+
+@10684 Glemy · グレミー
+# Kích hoạt: 被击坠（通用，1/1）
+> 「な、なんだと!? この私が……!?」
+"C-cái gì!? Thực ra tôi...!?"
+
+@10685 Glemy · グレミー
+# Kích hoạt: 重伤（剩余 HP 不足 30%）（通用，1/4）
+> 「こ、この私がやられるというのか!?」
+“C-Tôi sắp bị bắn hạ à!?”
+
+@10686 Glemy · グレミー
+# Kích hoạt: 重伤（剩余 HP 不足 30%）（通用，2/4）
+> 「こんなところで終わるわけには、いかん!」
+"Tôi không bao giờ có thể ngã xuống ở một nơi như thế này!"
+
+@10687 Glemy · グレミー
+# Kích hoạt: 重伤（剩余 HP 不足 30%）（通用，3/4）
+> 「わ、私には大儀があるのだ!」
+"Ta, ta có đại nghĩa!"
+
+@10688 Glemy · グレミー
+# Kích hoạt: 重伤（剩余 HP 不足 30%）（通用，4/4）
+> 「うわぁぁっ! バカなっ!?」
+"Ồ! Không thể nào!?"
+
+@10689 Glemy · グレミー
+# Kích hoạt: 中伤（剩余 HP 30–90%）（通用，1/4）
+> 「くっこの無念は晴らさせてもらう!」
+"Được rồi, tôi phải đòi lại món nợ này!"
+
+@10690 Glemy · グレミー
+# Kích hoạt: 中伤（剩余 HP 30–90%）（通用，2/4）
+> 「くっ、なんと品性のないパイロットだ」
+"Chà, đúng là một phi công không có đẳng cấp."
+
+@10691 Glemy · グレミー
+# Kích hoạt: 中伤（剩余 HP 30–90%）（通用，3/4）
+> 「な、なに!? これではっ!」
+"C-cái gì!? Tiếp tục như thế này không phải là ý hay đâu!"
+
+@10692 Glemy · グレミー
+# Kích hoạt: 中伤（剩余 HP 30–90%）（通用，4/4）
+> 「くっ! このままではっ!」
+"Ugh! Chuyện này không thể tiếp tục như thế này được!"
+
+@10693 Glemy · グレミー
+# Kích hoạt: 轻伤（剩余 HP 90% 以上）（通用，1/3）
+> 「そんな攻撃はきかんよ!」
+“Đòn tấn công đó không có tác dụng với tôi!”
+
+@10694 Glemy · グレミー
+# Kích hoạt: 轻伤（剩余 HP 90% 以上）（通用，2/3）
+> 「くっ!」
+"Hừm! "
+
+@10695 Glemy · グレミー
+# Kích hoạt: 轻伤（剩余 HP 90% 以上）（通用，3/3）
+> 「はははははっ」
+"Hahahahaha."
+
+@10696 Glemy · グレミー
+# Kích hoạt: Né tránh（通用，1/3）
+> 「そうそうあたるものではない!」
+"Thật dễ dàng đánh!"
+
+@10697 Glemy · グレミー
+# Kích hoạt: Né tránh（通用，2/3）
+> 「所詮はこんなものか」
+“Rốt cuộc thì chẳng có gì hơn thế.”
+
+@10698 Glemy · グレミー
+# Kích hoạt: Né tránh（通用，3/3）
+> 「この程度はよけてみせねばな?」
+"Bạn có thể tránh được đòn tấn công này, phải không?"
+
+@10699 Glemy · グレミー
+# Kích hoạt: Tấn công无效（护罩／装甲）（通用，1/1）
+> 「所詮はこんなものか」
+“Rốt cuộc thì chẳng có gì hơn thế.”
+
+@10700 Glemy · グレミー
+# Kích hoạt: 弹药／EN 不足，无法反击（通用，1/1）
+> 「弾切れだと!? バカなっ!」
+"Hết đạn!? Làm sao có thể!"
+
+@10701 Glemy · グレミー
+# Kích hoạt: 射程外，无法反击（通用，1/1）
+> 「なんだと!? あんな距離から……」
+"Cái gì!? Từ rất xa..."
+
+@16329 Glemy · グレミー
+# Kích hoạt: 使用〈ビームサーベル／銃剣付きビームサーベル〉（低优先，可能被通用台词顶掉）
+> 「フッ、ライフルなど使わなくても!」
+"Hừm, không cần súng trường!"
+
+@16330 Glemy · グレミー
+# Kích hoạt: 轻伤（剩余 HP 90% 以上），乘坐〈バウ〉
+> 「このバウをなめてもらってはな!」
+"Đừng đánh giá thấp cái này Bau!"
+
+@16331 Glemy · グレミー
+# Kích hoạt: 对手驾驶员为女性
+> 「おやめなさい、はしたない」
+"Dừng lại đi, thật đáng xấu hổ."
+
+@16332 Glemy · グレミー
+# Kích hoạt: Né tránh，条件 1000
+> 「ははははっ、それはダミーなのだよ!」
+“Hahahaha, đó là mồi nhử!”
+
+@16333 Glemy · グレミー
+# Kích hoạt: Né tránh，条件 1000
+> 「しょせんお前など、その程度でしか
+>  あるまい!」
+"Đây là tất cả những gì bạn có thể làm cho một kẻ như bạn!"
+
+@16334 Glemy · グレミー
+# Kích hoạt: Né tránh，条件 1000
+> 「お前の相手などダミーでじゅうぶんだ」
+"Đối phó ngươi, mồi là đủ."

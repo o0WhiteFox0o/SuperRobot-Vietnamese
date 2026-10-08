@@ -1,0 +1,171 @@
+# Bản dịch tiếng Việt Super Robot Wars 64
+# Định dạng và vị trí: docs/guide/dialogue-text.md
+
+@6712 Treize · トレーズ
+# Kích hoạt: Tấn công (Chung，1/11）
+> 「まいる!」
+"Tôi đang ở trên đó!"
+
+@6713 Treize · トレーズ
+# Kích hoạt: Tấn công (Chung，2/11）
+> 「いざ!」
+"Cố lên!"
+
+@6714 Treize · トレーズ
+# Kích hoạt: Tấn công (Chung，3/11）
+> 「私の攻撃を受けきれるか!」
+"Bạn có thể chịu được đòn tấn công của tôi không?"
+
+@6715 Treize · トレーズ
+# Kích hoạt: Tấn công (Chung，4/11）
+> 「さぁ、君の戦いを見せてくれ!」
+"Nào, để ta xem ngươi chiến đấu!"
+
+@6716 Treize · トレーズ
+# Kích hoạt: Tấn công (Chung，5/11）
+> 「トレーズ・クシュリナーダ、まいる!」
+"Tres Xurinada, vào đi!"
+
+@6717 Treize · トレーズ
+# Kích hoạt: Tấn công (Chung，6/11）
+> 「まかせてくれたまえ」
+"Để đó cho tôi."
+
+@6718 Treize · トレーズ
+# Kích hoạt: Tấn công (Chung，7/11）
+> 「私の勝ちだ」
+"Tôi đã thắng."
+
+@6719 Treize · トレーズ
+# Kích hoạt: Tấn công (Chung，8/11）
+> 「お手合わせ願おう!」
+"Xin hãy khai sáng cho tôi!"
+
+@6720 Treize · トレーズ
+# Kích hoạt: Tấn công (Chung，9/11）
+> 「終わったな」
+"Hết rồi."
+
+@6721 Treize · トレーズ
+# Kích hoạt: Tấn công (Chung，10/11）
+> 「私がお相手いたそう」
+"Tôi sẽ đi cùng bạn."
+
+@6722 Treize · トレーズ
+# Kích hoạt: Tấn công (Chung，11/11）
+> 「手加減はしない」
+"Tôi sẽ không tỏ ra thương xót."
+
+@6723 Treize · トレーズ
+# Kích hoạt: 被击坠（通用，1/2）
+> 「私の負けだな……」
+"Tôi đã thua..."
+
+@6724 Treize · トレーズ
+# Kích hoạt: 被击坠（通用，2/2）
+> 「見事だ……」
+“Tuyệt vời…”
+
+@6725 Treize · トレーズ
+# Kích hoạt: 重伤（剩余 HP 不足 30%）（通用，1/4）
+> 「私は退かない、私は地球を
+>  愛しているのだ」
+"Tôi sẽ không lùi bước vì tôi yêu Trái đất."
+
+@6726 Treize · トレーズ
+# Kích hoạt: 重伤（剩余 HP 不足 30%）（通用，2/4）
+> 「む!? 機体の損傷が
+>  大きすぎるか」
+"Hả!? Cơ thể bị tổn thương quá nhiều."
+
+@6727 Treize · トレーズ
+# Kích hoạt: 重伤（剩余 HP 不足 30%）（通用，3/4）
+> 「これしきのことで落ちるわけにはいかんな」
+"Sao có thể bị bắn hạ chỉ vì một chuyện tầm thường như vậy?"
+
+@6728 Treize · トレーズ
+# Kích hoạt: 重伤（剩余 HP 不足 30%）（通用，4/4）
+> 「人に必要なのは勝利ではなく
+>  戦う意思なのだ」
+"Điều mọi người cần không phải là chiến thắng mà là ý chí chiến đấu."
+
+@6729 Treize · トレーズ
+# Kích hoạt: 中伤（剩余 HP 30–90%）（通用，1/4）
+> 「良い戦いだ」
+"Thật là một trận chiến."
+
+@6730 Treize · トレーズ
+# Kích hoạt: 中伤（剩余 HP 30–90%）（通用，2/4）
+> 「これは楽しみだ」
+"Thật thú vị."
+
+@6731 Treize · トレーズ
+# Kích hoạt: 中伤（剩余 HP 30–90%）（通用，3/4）
+> 「なるほど、手加減の必要は
+>  ないようだな」
+"Ta hiểu rồi, xem ra không cần phải nhân từ."
+
+@6732 Treize · トレーズ
+# Kích hoạt: 中伤（剩余 HP 30–90%）（通用，4/4）
+> 「なかなかやるようだな」
+"Có vẻ như bạn khá có năng lực."
+
+@6733 Treize · トレーズ
+# Kích hoạt: 轻伤（剩余 HP 90% 以上）（通用，1/4）
+> 「なるほど、この程度か……」
+“Tôi hiểu rồi, chỉ vậy thôi…”
+
+@6734 Treize · トレーズ
+# Kích hoạt: 轻伤（剩余 HP 90% 以上）（通用，2/4）
+> 「君では私の相手にならない、
+>  残念だよ」
+"Ngươi không xứng với ta, thật đáng tiếc."
+
+@6735 Treize · トレーズ
+# Kích hoạt: 轻伤（剩余 HP 90% 以上）（通用，3/4）
+> 「この程度か……私を失望させない
+>  でくれ」
+"Chỉ vậy thôi...đừng làm tôi thất vọng."
+
+@6736 Treize · トレーズ
+# Kích hoạt: 轻伤（剩余 HP 90% 以上）（通用，4/4）
+> 「どうした?」
+"Có chuyện gì thế?"
+
+@6737 Treize · トレーズ
+# Kích hoạt: Né tránh（通用，1/4）
+> 「私を失望させないでくれ」
+“Đừng làm tôi thất vọng.”
+
+@6738 Treize · トレーズ
+# Kích hoạt: Né tránh（通用，2/4）
+> 「狙いが甘いぞ。私はここだ!」
+"Mục tiêu của tôi không chính xác. Tôi ở đây!"
+
+@6739 Treize · トレーズ
+# Kích hoạt: Né tránh（通用，3/4）
+> 「あせりすぎたようだな」
+"Có vẻ như bạn quá thiếu kiên nhẫn."
+
+@6740 Treize · トレーズ
+# Kích hoạt: Né tránh（通用，4/4）
+> 「どうしたというのだ? それでは私は
+>  倒せない」
+"Có chuyện gì vậy? Điều đó không thể đánh bại được tôi."
+
+@6741 Treize · トレーズ
+# Kích hoạt: Tấn công无效（护罩／装甲）（通用，1/1）
+> 「残念だが、その攻撃では
+>  無理だな」
+“Thật không may, đòn tấn công này không thể làm gì được tôi.”
+
+@6742 Treize · トレーズ
+# Kích hoạt: 弹药／EN 不足，无法反击（通用，1/1）
+> 「弾がない、か。しかたあるまい」
+"Anh hết đạn rồi à? Không sao đâu."
+
+@6743 Treize · トレーズ
+# Kích hoạt: 射程外，无法反击（通用，1/1）
+> 「射程外から? よい戦法だが、
+>  面白味にかけるな」
+"Chiến đấu từ ngoài phạm vi? Đó là một chiến thuật hay, nhưng nó kém thú vị hơn một chút."

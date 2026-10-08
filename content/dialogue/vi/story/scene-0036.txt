@@ -1,0 +1,1572 @@
+# Bản dịch tiếng Việt Super Robot Wars 64
+# Định dạng và vị trí: docs/guide/dialogue-text.md
+
+@24922 Astonaige · アストナージ
+> 「さてと……残るはボスボロットと
+>  陸戦型のガンダムか……
+"Vậy...những người duy nhất còn lại là Boss Robot và Land CombatGundam...
+---
+>  こりゃ手間がかかりそうだな」
+Bây giờ tôi khá bận rộn. "
+
+@24923 Boss · ボス
+> 「宇宙で戦えるようにするっていうのも
+>  大変だわさ」
+"Thật khó để nó chiến đấu trong vũ trụ."
+
+@24924 Astonaige · アストナージ
+> 「あたり前だろ。今まで俺たちが何を
+>  やってたと思ってるんだ」
+"Không cần phải nói đâu. Bạn nghĩ dạo này chúng ta bận việc gì?"
+
+@24925 Shiro · シロー
+> 「無理そうなんですか?」
+“Có khó xử lý không?”
+
+@24926 Astonaige · アストナージ
+> 「いや……まぁ、なんとかしてみせるさ。
+>  まかせておけよ」
+"Không...ừm, sẽ luôn có cách. Cứ để đó cho tôi."
+
+@24927 Shiro · シロー
+> 「すみません、よろしくお願いします」
+"Xin lỗi, tôi sẽ để nó cho bạn."
+
+@24928 Astonaige · アストナージ
+> 「おう。Ez8の方は何とか見通しも
+>  つくんだが、問題はボスボロットだな…」
+"Được rồi. Ez8 cuối cùng cũng có chút manh mối. Vấn đề là ở chỗ con robot Boss..."
+
+@24929 Boss · ボス
+> 「何が問題なのよ」
+"Có vấn đề gì vậy?"
+
+@24930 Astonaige · アストナージ
+> 「なんせスクラップで、できているんだろ。
+>  動いてる、というだけでも奇跡なんだ
+“Thứ đó được làm từ kim loại phế liệu. Thật là kỳ diệu khi nó còn hoạt động được.
+---
+>  このまま宇宙に出られるはずがない。
+>  どこをどう改造していいものやら
+Không thể đi đến vũ trụ theo cách này. Thay đổi ở đâu và thay đổi như thế nào
+---
+>  さっぱりわからん。最初っから
+>  作り直した方がまだ楽だ」
+Tôi hoàn toàn bối rối. Sẽ dễ dàng hơn để làm lại từ đầu. "
+
+@24931 Boss · ボス
+> 「宇宙には空気がないから、
+>  それだけでも何とかしてくれよ」
+"Không có không khí trong vũ trụ. Ít nhất bạn có thể nghĩ ra giải pháp cho vấn đề này."
+
+@24932 Astonaige · アストナージ
+> 「バカ、それはあたり前だろ」
+"Đồ ngốc, cậu không cần phải nói điều này."
+
+@24933 Boss · ボス
+> 「空気さえあれば大丈夫だぜ。あと
+>  は努力と根性でなんとかするだわよ」
+"Chỉ cần có không khí. Phần còn lại có thể giải quyết được nếu chăm chỉ và kiên trì."
+
+@24934 Bright · ブライト
+> 「どうだ、様子は?」
+"Tình hình thế nào?"
+
+@24935 Astonaige · アストナージ
+> 「ええ、ここでなら大丈夫ですよ。
+>  すべての機体の、宇宙仕様への
+“Được rồi, ở đây cậu có thể yên tâm. Tất cả máy móc đều đã được thay đổi theo thông số vũ trụ.
+---
+>  改装もキッチリできますしね」
+Công việc cũng có thể được thực hiện đúng cách. "
+
+@24936 Bright · ブライト
+> 「そうか……これでようやくだな。頼むぞ」
+"Thật sao...cuối cùng tôi cũng đã sẵn sàng rồi. Làm ơn."
+
+@24937 Bright · ブライト
+> 「ふう……」
+"Hừ..."
+
+@24938 Bright · ブライト
+> 「誰だ?」
+"Ai?"
+
+@24939 Emary · エマリー
+> 「エマリーです」
+"Là tôi đây, Emmary."
+
+@24940 Emary · エマリー
+> 「あっ、お、お着替え中!?」
+"A, ngươi, ngươi đang thay quần áo!?"
+
+@24941 Bright · ブライト
+> 「かまわん、なんだ?」
+"Không sao đâu, có chuyện gì vậy?"
+
+@24942 Emary · エマリー
+> 「ア……アーガマとオーラシップ、
+>  各機体の改装は……
+“À… Chiến hạm Agama và Aura, sự biến đổi của từng cơ thể…
+---
+>  あと5時間ほどで終了します」
+Nó sẽ được thực hiện trong khoảng năm giờ. "
+
+@24943 Bright · ブライト
+> 「こんな短い間に、よくやってくれました
+>  感謝します」
+"Cảm ơn bạn rất nhiều vì đã hoàn thành nó trong một thời gian ngắn như vậy."
+
+@24944 Emary · エマリー
+> 「これ……仕様書です……では……」
+"Đây là...cuốn sách đặc tả...vậy tôi xin phép đi..."
+
+@24945 Bright · ブライト
+> 「エマリー」
+"Emily."
+
+@24946 Emary · エマリー
+> 「な、なにか……?」
+“C-có chuyện gì thế...?”
+
+@24947 Bright · ブライト
+> 「つまり……その……なんだ……これだけの
+>  時間で、よく、ここまで……」
+"Đó... là... nói sao nhỉ... trong thời gian ngắn như vậy, cậu đã có thể làm tốt như vậy..."
+
+@24948 Emary · エマリー
+> 「し、仕事なんです。仕事で……
+>  で、でも私……」
+"Đây, đây là công việc. Đây là công việc...nhưng, nhưng tôi..."
+
+@24949 Bright · ブライト
+> 「……感謝していますよ」
+"...Cảm ơn bạn rất nhiều."
+
+@24950 Emary · エマリー
+> 「それだけですか!?」
+"Chỉ vậy thôi sao!?"
+
+@24951 Bright · ブライト
+> 「え?」
+"Ơ?"
+
+@24952 Emary · エマリー
+> 「ブライト艦長!
+>  自分は、自分は……」
+"Đội trưởng Bright! Tôi, tôi..."
+
+@24953 Bright · ブライト
+> 「ま、待ちたまえエマリーくん、私は
+>  艦長だ、いつも、艦長として……」
+"Đợi đã, chờ một chút, Emmary. Tôi là đội trưởng, và tôi luôn là đội trưởng..."
+
+@24954 Emary · エマリー
+> 「いわないでっ!」
+"Đừng nói nữa!"
+
+@24955 Bright · ブライト
+> 「あっ……」
+"À..."
+
+@24956 Emary · エマリー
+> 「す、すみません。……短い間でしたが、
+>  自分はアーガマにいられて
+"Vâng, tôi xin lỗi. ...Mặc dù không lâu nhưng tôi đã có thể ở lại Agama,
+---
+>  幸せでした……」
+Tôi rất hạnh phúc..."
+
+@24957 Bright · ブライト
+> 「エマリー……」
+"Emily..."
+
+@24958 Emary · エマリー
+> 「さよならっ!」
+"Tạm biệt!"
+
+@24959 Bright · ブライト
+> 「エマリー、エマリー!」
+"Amalie, Amalie!"
+
+@24960 Lady · レディ
+> 「どういうことだ、ツバロフ技師長。
+>  このようなことはトレーズ様の
+“Chuyện gì đang xảy ra thế, Kỹ thuật trưởng Tsibarov? Ông Telles không có bất kỳ
+---
+>  ご指示ではないぞ」
+Những hướng dẫn như vậy đã được đưa ra. "
+
+@24961 Tubarov · ツバロフ
+> 「月面都市と企業についてですか
+>  な? トレーズなど関係ないのです
+"Anh đang nói về thành phố mặt trăng và công ty à? Nó không liên quan gì đến Teles.
+---
+>  これは財団からの直接の指示
+>  なのですから」
+Đây là hướng dẫn được đưa ra trực tiếp bởi tập đoàn. "
+
+@24962 Lady · レディ
+> 「ツバロフ、貴様……」
+"Zibarov, anh bạn..."
+
+@24963 Tubarov · ツバロフ
+> 「これはこれは、バスク特佐」
+"Đây không phải là Basque Terzo sao?"
+
+@24964 Bask · バスク
+> 「レディ・アン特佐、OZはいつから
+>  トレーズの私兵になったのだ」
+"Letty Antezol, OZ trở thành binh nhì của Telles khi nào vậy?"
+
+@24965 Lady · レディ
+> 「なんだと?」
+"Anh đã nói gì thế? "
+
+@24966 Bask · バスク
+> 「OZはロームフェラ財団の一部門
+>  にすぎん。幹部会の決定には
+"OZ chỉ là một bộ phận của Quỹ Romphila. Quyết định của cuộc họp điều hành,
+---
+>  トレーズといえども従わねばならんという
+>  ことだ。それとも財団に対する
+Ngay cả Telles cũng phải tuân theo. Hay tôi nên nói,
+---
+>  反抗の意思でもあるのか?」
+Bạn có muốn chống lại tập đoàn? "
+
+@24967 Lady · レディ
+> 「くっ……バスク……」
+"À... xứ Basque..."
+
+@24968 Bask · バスク
+> 「貴公もOZの将校ならば、何に
+>  対して忠誠をつくすべきかは
+"Vì bạn là sĩ quan của OZ, bạn nên biết
+---
+>  知っておろうな」
+Tôi nên trung thành với điều gì? "
+
+@24969 Tubarov · ツバロフ
+> 「まぁまぁ、もうよいでしょう。
+>  ところでバスク特佐、モビルドールの
+"Được rồi, được rồi, quên đi. Nhắc đến Basquetzo, về những con búp bê di động
+---
+>  生産についてなのですが……」
+Về phần sản xuất..."
+
+@24970 Lady · レディ
+> 「私はレディ・アン……OZの……?
+>  それとも……トレーズ様の?」
+"Tôi là Letty Ann... tôi đến từ xứ OZ...? Hay... Ngài Telles?"
+
+@24971 Quattro · クワトロ
+> 「そうか、OZは月も制圧したか」
+"Thực sự, OZ thậm chí còn giành được mặt trăng."
+
+@24972 Amuro · アムロ
+> 「ああ。帝国軍はアステロイド前線
+>  基地まで撤退した。これで
+"Chà. Quân đội Hoàng gia đã rút lui về căn cứ tiền phương của tiểu hành tinh. Bằng cách này,
+---
+>  地球圏はOZの支配するところと
+>  なる」
+Earth Sphere được cai trị bởi OZ. "
+
+@24973 Sara · 沙羅
+> 「シャピロは……シャピロは、
+>  どうなったんだい」
+"Xabiluo...Xiapiluo, anh ấy thế nào rồi? "
+
+@24974 Amuro · アムロ
+> 「シャピロ・キーツは月を脱出した。
+>  今はアステロイド基地にいるはずだ」
+“Shapiro Kitts đã trốn thoát khỏi mặt trăng. Đáng lẽ bây giờ nó phải ở căn cứ tiểu hành tinh. "
+
+@24975 Shinobu · 忍
+> 「もっともこの調子じゃ、そこもすぐに
+>  OZが制圧するんだろうけどな」
+“Với đà này, có lẽ OZ sẽ sớm chiếm được vị trí đó. "
+
+@24976 Amuro · アムロ
+> 「いや、どうもそうじゃないらしい」
+"Không, nó không có vẻ như thế. "
+
+@24977 Show · ショウ
+> 「どういうことです?」
+"Chuyện gì đang xảy ra vậy?"
+
+@24978 Amuro · アムロ
+> 「そうするつもりなら、すぐにでも
+>  追撃隊をだせたはずだ
+“Nếu là cố ý thì đáng lẽ một đội truy đuổi phải được cử đi ngay lập tức.
+---
+>  だが、月制圧後OZに
+>  動きはない。いや、兵器の生産は
+Nhưng sau khi lấy mặt trăng, không có chuyển động nào từ OZ. Không, tôi nghe nói
+---
+>  活発化しているらしいが……」
+Việc sản xuất vũ khí ngày càng trở nên tích cực hơn..."
+
+@24979 Quattro · クワトロ
+> 「なるほど、帝国軍を追撃する
+>  よりも地球圏を完全に
+"Tôi hiểu rồi, thay vì đuổi theo Quân đội Đế quốc, họ muốn đi vòng quanh Trái đất trước.
+---
+>  制圧することを優先させるか。
+>  連中らしいやり方だ」
+Kiểm soát hoàn toàn trong tay. Rất giống phong cách của những người đó. "
+
+@24980 Sara · 沙羅
+> 「ちょっと待ってよ。じゃ、OZは
+>  アステロイド基地を放っておくつもり
+"Đợi một chút. Sau đó OZ có kế hoạch để lại căn cứ tiểu hành tinh một mình.
+---
+>  だってわけ? 冗談じゃないよ!」
+Thật sao? Thật là một trò đùa! "
+
+@24981 Koji · 甲児
+> 「そうはいってもよ、まさかオレたちがアステ
+>  ロイドまで行くわけにもいかないだろ」
+“Nói như vậy thì chúng ta không thể để mình đi đến một tiểu hành tinh. "
+
+@24982 Sara · 沙羅
+> 「なんでさ? あたしたちはもともと帝国
+>  軍を叩くために戦ってきたんだ
+"Tại sao? Ban đầu chúng tôi chiến đấu để đánh bại Quân đội Đế quốc.
+---
+>  いま行けば奴らをつぶせる。そのチャン
+>  スを、みすみす見逃すってのかい!?」
+Đi ngay và giết chúng. Bạn có muốn để cơ hội này trôi qua một cách vô ích không? ? "
+
+@24983 Ryo · 亮
+> 「落ち着け、沙羅。甲児のいう
+>  ことももっともだ。いま俺たちが動けば
+"Bình tĩnh lại, Sara. Những gì Jia'er nói có lý. Bây giờ hãy di chuyển,
+---
+>  それこそOZが出てくるかもしれん」
+Có lẽ nó sẽ rút OZ ra thay thế. "
+
+@24984 Amuro · アムロ
+> 「沙羅、君は少しシャピロのことを
+>  気にしすぎじゃないか?」
+"Sara, em có quan tâm quá nhiều đến Shapiro không? "
+
+@24985 Sara · 沙羅
+> 「ああ、そうさ! だけどね、あんたたちは
+>  何にもわかっちゃいない。シャピロは
+"Ừ, đúng rồi! Nhưng bạn không hiểu gì cả. Shapiro,
+---
+>  あいつは、ムゲなんて影も形も
+>  みえなかった頃から、いつか銀河を
+Anh chàng đó đã lên kế hoạch trước khi kịp nhìn thấy bóng dáng của Moog.
+---
+>  支配することを考えていたような奴
+>  なんだよ。ムゲがこなけりゃ、あいつが
+Một ngày nào đó anh ta sẽ cai trị thiên hà. Không có Moog,
+---
+>  地球圏をメチャメチャにしてたかも
+>  しれないんだ」
+Có lẽ anh ta là người đã làm xáo trộn Earth Sphere. "
+
+@24986 Ryoma · リョウ
+> 「まさか……そんなことを?」
+"Không thể nào...anh ta thực sự có kế hoạch như vậy sao? "
+
+@24987 Sara · 沙羅
+> 「あたしは……あたしは、ずっとあいつと
+>  一緒にいて……
+"Tôi...tôi đã ở cùng với gã đó...
+---
+>  いつも聞かされてたんだ。
+>  間違いないよ」
+Tôi luôn nghe anh ấy nói vậy. Hoàn toàn đúng. "
+
+@24988 Shinobu · 忍
+> 「沙羅……お前……」
+"Sara... em..."
+
+@24989 Sara · 沙羅
+> 「シャピロは危険な奴なんだ。万が
+>  いちにも、あいつが逃げるなんてことに
+"Shabiro là một kẻ nguy hiểm. Dù chỉ có một cơ hội thứ mười nghìn, hãy để anh ta trốn thoát
+---
+>  なっちゃいけないんだよ。どうしてもって
+>  いうんなら、あたしひとりでも行くよ」
+Điều này cũng tuyệt đối không thể được. Nếu cậu không chịu nói gì thì tôi sẽ đi một mình. "
+
+@24990 Simone · シモーヌ
+> 「ちょっと待ってよ、沙羅」
+"Đợi một chút, Sara. "
+
+@24991 Sara · 沙羅
+> 「あっ」
+"À. "
+
+@24992 Bright · ブライト
+> 「なんだ、どうした?」
+"Sao vậy? Chuyện gì đã xảy ra vậy?"
+
+@24993 Amuro · アムロ
+> 「ブライト、どこに行ってたんだ?」
+“Brett, cậu đã ở đâu thế?”
+
+@24994 Bright · ブライト
+> 「い、いや、ちょっとな。それで、
+>  どうしたんだ、いったい」
+"Không, không có gì đâu, chỉ là chuyện nhỏ thôi. Nhân tiện, chuyện gì đã xảy ra vậy?"
+
+@24995 Bright · ブライト
+> 「なるほど、そういうことか。ロアン、君は
+>  以前ル・カインのもとにいたな
+"Tôi hiểu rồi, chuyện là vậy đó. Roan, trước đây anh từng làm việc cho Ru Kane,
+---
+>  シャピロをどう思う?」
+Bạn nghĩ gì về Shapiro? "
+
+@24996 Roanne · ロアン
+> 「直接は話をしたことがないので
+>  確証はありませんが、確かに
+“Tôi chưa nói chuyện trực tiếp với anh ấy nên tôi không thể nói chắc chắn, nhưng tôi nghĩ,
+---
+>  放っておいてよい人物ではなかったと
+>  思います」
+Anh ấy thực sự không phải là người có thể để yên mọi chuyện. "
+
+@24997 Bright · ブライト
+> 「ふむ……わかった。確かにうかつに動く
+>  のはまずいが、帝国軍とシャピロに
+"Ừm... ta hiểu rồi. Hành động hấp tấp quả thực là không thích hợp, nhưng chúng ta không thể giao nó cho Quân đội Hoàng gia và Shapiro.
+---
+>  時間を与えるのは避けたい。
+>  我々はアステロイド前線基地へ
+Để lại thời gian. Chúng tôi sẽ đi bây giờ
+---
+>  向かう」
+Căn cứ phía trước tiểu hành tinh. "
+
+@24998 Sayaka · さやか
+> 「はい。甲児くん、それでいいわよね」
+"Được rồi. Jia'er, bạn không có ý kiến ​​phản đối nào phải không?"
+
+@24999 Koji · 甲児
+> 「ま、そういう事情じゃ、しょうがねぇな」
+"Chà, vì đã như vậy nên chúng tôi không thể làm gì được."
+
+@25000 Alan · アラン
+> 「ああ。これで最後にするとしよう」
+"Ừ. Hãy để đây là lần cuối cùng."
+
+@25001 Quattro · クワトロ
+> 「艦長、私は先に
+>  スウィートウォーターへ行こうと
+"Đội trưởng, tôi muốn đi Cam Tuyền trước.
+---
+>  思うのだが」
+Một chuyến đi. "
+
+@25002 Bright · ブライト
+> 「まかせる、大尉。我々も
+>  終わり次第スウィートウォーターへ
+"Cứ để đó cho anh, Đội trưởng. Chúng tôi sẽ đến đó ngay khi xong việc ở đây.
+---
+>  向かうことにする」
+Mùa xuân ngọt ngào. "
+
+@25003 Simone · シモーヌ
+> 「沙羅……」
+"Sara..."
+
+@25004 Sara · 沙羅
+> 「変な気はまわさないでよ。あたしは
+>  大丈夫」
+"Đừng tưởng tượng nữa. Tôi ổn mà."
+
+@25005 Shinobu · 忍
+> (沙羅……お前にとっての決着のと
+>  きが近づいているということか。沙羅)
+(Sara... Đã đến lúc em phải nghỉ ngơi rồi. Sara...)
+
+@25006 Beltorchika · ベルトーチカ
+> 「ラビアンローズ、離れていきます」
+"La Vie en Rose, rời cảng."
+
+@25007 Bright · ブライト
+> 「よし、メインエンジン点火。アステロイ
+>  ド前線基地へ向け、出発!」
+"Được rồi, động cơ chính khởi động. Nhắm vào căn cứ phía trước của tiểu hành tinh, xuất phát!"
+
+@25008 Emary · エマリー
+> 「ブライト艦長……ご無事で」
+"Thuyền trưởng Bright...xin hãy bảo trọng bản thân."
+
+@25009 Bright · ブライト
+> 「あとはまかせる。私はしばらく自室で
+>  休む」
+"Tôi sẽ để lại cho bạn sau. Tôi sẽ trở về phòng và nghỉ ngơi một lúc."
+
+@25010 Chan · チェーン
+> 「お疲れさまです、艦長」
+"Cảm ơn vì đã làm việc chăm chỉ, Thuyền trưởng."
+
+@25011 Beltorchika · ベルトーチカ
+> 「はい……ってちょっと、なんであなたが
+>  ここにいるのよ!?」
+"Được rồi...đợi đã, sao cậu lại ở đây!?"
+
+@25012 Chan · チェーン
+> 「私、アムロ大尉とνガンダムの
+>  設計について打ち合わせをするので
+"Tôi muốn thảo luận về thiết kế của νGundam với Đội trưởng Amuro.
+---
+>  しばらく同行することにしました」
+Thế là tôi quyết định đi cùng tàu trong thời gian này. "
+
+@25013 Beltorchika · ベルトーチカ
+> 「しましたって、あなたねぇ。ちょっとアムロ
+>  なんとかいってやってよ」
+"Vẫn đã quyết định rồi. Bạn là người thật. Amuro, xin hãy nói gì đó đi!"
+
+@25014 Amuro · アムロ
+> 「ああ……チェーン、νガンダムのフレーム
+>  設計のことなんだが……」
+"Hmm... Qian'en, về thiết kế khung của νGundam..."
+
+@25015 Beltorchika · ベルトーチカ
+> 「アムロ!!」
+"Amuro!!"
+
+@25016 Bright · ブライト
+> 「エマリー……」
+"Emily..."
+
+@25017 Koji · 甲児
+> 「おい、いま艦長、エマリーって、
+>  いわなかったか?」
+"Này, đội trưởng vừa gọi cho Emmary phải không?"
+
+@25018 Roux · ルー
+> 「艦長も、やもめ暮らしが長いから」
+"Đội trưởng cũng vậy, anh ấy đã góa vợ quá lâu rồi."
+
+@25019 Koji · 甲児
+> 「お前すごいこというな」
+"Những gì bạn nói thực sự táo bạo."
+
+@25020 Roux · ルー
+> 「あら、大人の常識でしょ」
+"Ồ, đây không phải là lẽ thường tình của người lớn sao?"
+
+@25021 Daisaku · 大作
+> 「なにが大人の常識なんですか?」
+“Ý thức chung của người lớn là gì?”
+
+@25022 Naoto · ナオト
+> 「お? なんだなんだ、みんなで
+>  何やってるんだ?」
+"Ồ? Chuyện gì đang xảy ra vậy? Chuyện gì đang xảy ra vậy? Mọi người đang làm gì ở đây thế?"
+
+@25023 Fa · ファ
+> 「ちょっとあなたたち、いいかげんに
+>  しなさいよ」
+"Các bạn, đã đến lúc dừng việc này lại!"
+
+@25024 Koji · 甲児
+> 「いや、でも面白くてさ……」
+"Nhưng, nó rất thú vị..."
+
+@25025 David · デビッド
+> 「なんだ? 面白いことなら俺たちも
+>  混ぜてくれよ」
+"Cái gì? Nếu có chuyện gì thú vị thì chúng ta cùng tham gia nhé."
+
+@25026 Bright · ブライト
+> 「……なにをやっている」
+“…Anh đang làm gì thế?”
+
+@25027 Koji · 甲児
+> 「うわっ、みんな逃げろ!」
+"Ồ, mọi người chạy đi!"
+
+@25028 Specials · スペシャルズ
+> 「レディ・アン特佐、シャトルの
+>  出発準備が整いました」
+"Letty Antezow, tàu con thoi đã sẵn sàng xuất phát."
+
+@25029 Lady · レディ
+> 「コロニー代表会議まではまだ少し
+>  時間があるようですね……」
+"Có vẻ như vẫn còn một khoảng thời gian nữa trước Hội nghị Đại diện Vệ tinh Thuộc địa..."
+
+@25030 Hilde · ヒルデ
+> 「失礼します。先ほど例の
+>  レジスタンスと思われる部隊の
+“Xin lỗi. Đội trinh sát vừa phát hiện ra quân tình nghi của tổ chức kháng chiến.
+---
+>  移動を偵察隊が発見いたしま
+>  した。攻撃部隊の編制を
+đang di chuyển. Vui lòng phê duyệt việc nhóm
+---
+>  お願いします」
+Quân tấn công. "
+
+@25031 Lady · レディ
+> 「そのままにしておきなさい」
+"Cứ để nó yên."
+
+@25032 Hilde · ヒルデ
+> 「はっ? しかし彼らはOZのつくる
+>  平和を乱そうとする敵です
+"Cái gì? Nhưng họ là những kẻ thù muốn phá hủy hòa bình do OZ tạo ra.
+---
+>  せん滅しなければなりません」
+Họ phải bị loại bỏ! "
+
+@25033 Lady · レディ
+> 「だめです……宇宙は平和なの
+>  ですから」
+"Không...bởi vì vũ trụ rất yên bình."
+
+@25034 Amuro · アムロ
+> 「発見はされているはずだが……OZの
+>  追撃はなかったようだな」
+“Đáng lẽ chúng ta đã bị phát hiện…OZ dường như không đuổi theo chúng ta.”
+
+@25035 Bright · ブライト
+> 「ああ……もうすぐ
+>  アステロイド前線基地だ
+“Chà… chúng ta sẽ sớm đến căn cứ tiền phương của tiểu hành tinh.
+---
+>  総員、第一戦闘配置につけ」
+Tất cả thành viên, hãy vào cấu hình chiến đấu đầu tiên! "
+
+@25036 Specials · スペシャルズ
+> 「ひるむな! 相手はたった2機だ。
+>  囲んで叩け!」
+"Đừng rụt rè! Đối thủ chỉ có hai đơn vị. Bao vây và chiến đấu!"
+
+@25037 Duo · デュオ
+> 「ちぇっ、やっぱり月面も甘くは
+>  ないかよ。地上戦用の機体じゃ
+"Chậc, mặt trăng quả thực không dễ gây rối. Hãy sử dụng máy chiến đấu mặt đất.
+---
+>  この程度が限界か……」
+Chỉ có thể đi xa như vậy..."
+
+@25038 Wufei · 五飛
+> 「当然だ。でなければこんな基地など
+>  俺ひとりで破壊できる」
+"Đương nhiên. Bằng không ta có thể một mình phá hủy loại căn cứ này."
+
+@25039 Duo · デュオ
+> 「くっそー、たぶん俺たちいいことしてる
+>  はずなんだけどな。なんでこんなところで
+"Chết tiệt - chúng ta nên làm những điều tốt đẹp. Tại sao chúng ta lại phải ở một nơi như thế này?
+---
+>  死ななきゃならないんだ」
+Đừng mạo hiểm cuộc sống của bạn! "
+
+@25040 Wufei · 五飛
+> 「それは俺たちが正しいからだ。
+>  正しいのだ、俺たちは!」
+"Đó là bởi vì chúng tôi đúng. Vâng, chúng tôi đúng!"
+
+@25041 Hilde · ヒルデ
+> 「そこまでよ。あなたたちはもう逃げられ
+>  ない。おとなしく抵抗はやめなさい」
+"Vậy đó. Cậu không thể trốn thoát được nữa. Đừng chống cự nữa!"
+
+@25042 Duo · デュオ
+> 「その声、ヒルデ・シュバイカーか」
+"Giọng nói này... Hilda Shobaika?"
+
+@25043 Hilde · ヒルデ
+> 「デュオ・マックスウェル……やっぱり
+>  あなただったのね」
+"Dio Maxwell...quả nhiên là anh."
+
+@25044 Wufei · 五飛
+> 「戦場で女と語らうとはな。お前は
+>  もう少しマシな奴だと思っていたが」
+"Anh đang trò chuyện với phụ nữ trên chiến trường. Tôi tưởng anh là một chàng trai đoan trang hơn."
+
+@25045 Duo · デュオ
+> 「ばか、変な誤解するなよ。こいつは
+>  ここにくる前に知りあった
+"Đồ ngốc, đừng hiểu lầm tôi. Tôi đã biết anh chàng này trước khi đến đây.
+---
+>  コロニーからの志願兵なんだ」
+Tình nguyện viên từ các vệ tinh thuộc địa. "
+
+@25046 Hilde · ヒルデ
+> 「なにをごちゃごちゃやってるの。早く投
+>  降なさい。でないと死ぬことになるわ」
+"Ngươi đang lẩm bẩm cái gì? Mau đầu hàng đi. Bằng không, chỉ có cái chết!"
+
+@25047 Wufei · 五飛
+> 「なるほど、今ではOZの兵隊は
+>  コロニーか旧反帝国ゲリラからの
+“Tôi hiểu rồi, binh lính của OZ giờ toàn là những người từ các vệ tinh thuộc địa và những người du kích chống đế quốc cũ.
+---
+>  志願兵がひしめいているというわけか
+>  いいだろう、弱い者と女を
+Những người lính tình nguyện. Chà, những kẻ yếu đuối và phụ nữ
+---
+>  俺は殺さない」
+Tôi sẽ không giết. "
+
+@25048 Duo · デュオ
+> 「そういうわけだ、ヒルデ。投降するぜ」
+"Vậy đó, Hilda. Tôi đầu hàng."
+
+@25049 Hilde · ヒルデ
+> 「ではMSから降りなさい。そのガンダムは
+>  破壊する」
+"Vậy hãy cởi bỏ mobile suit đi. Cái tên đó cần phải bị tiêu diệt."
+
+@25050 Duo · デュオ
+> 「ちょ、ちょっと待ってくれ、こいつは……」
+"Chờ một chút, người này là..."
+
+@25051 Tubarov · ツバロフ
+> 「よくやった特士。パイロットを
+>  捕らえるだけでよい。ガンダムは壊さず
+"Làm tốt lắm, Quân nhân. Chỉ cần bắt được phi công. Đừng làm hỏng Gundunda.
+---
+>  中へ運べ」
+Di chuyển vào trong. "
+
+@25052 Hilde · ヒルデ
+> 「し、しかしツバロフ技師長」
+"Nhưng, nhưng Kỹ thuật viên Chỉ huy Tsibarov..."
+
+@25053 Tubarov · ツバロフ
+> 「志願兵ごときが口答えするな!
+>  このガンダムの技術を得れば、OZの
+"Chỉ là tình nguyện viên thôi, đừng cãi lại! Chỉ cần bạn có được công nghệ của chiếc Gundam này, OZ's
+---
+>  MSはさらに強力になる。いいから
+>  貴様はいわれた通りにすればよいのだ」
+MS sẽ mạnh hơn. Cứ làm như tôi nói đi! "
+
+@25054 Hilde · ヒルデ
+> 「……はい」
+"...Vâng."
+
+@25055 Duo · デュオ
+> 「ふぅ、なんとか助かったようだな」
+"Huh, cuối cùng tôi cũng được cứu rồi."
+
+@25056 Wufei · 五飛
+> 「ああ。ありがとう、おやさしい
+>  技師長どの。ナタク、俺たちは
+"Vâng. Cảm ơn bạn rất nhiều, kỹ thuật viên tốt bụng. Nezha, chúng ta phải
+---
+>  強くならねばならん。ここには工場が
+>  あるそうだ。そこで強くしてもらえるかな
+Trở nên mạnh mẽ hơn. Tôi nghe nói ở đây có một nhà máy. Chúng ta có thể trở nên mạnh mẽ hơn ở đó không?
+---
+>  ククククッ」
+Hehehehe..."
+
+@25057 Shapiro · シャピロ
+> 「なんだと!? もう1度いってみろ、
+>  ルーナ」
+"Em vừa nói gì thế!? Nói lại lần nữa đi, Luna!"
+
+@25058 Luna · ルーナ
+> 「……月前線基地での敗北は
+>  完全にシャピロ、あなたの
+“…Thất bại thảm hại ở căn cứ tiền tuyến trước mặt trăng hoàn toàn là lỗi của anh, Shapiro.
+---
+>  計算違いだった。奴らをみくびり
+>  すぎていたのよ。もっと早く撤退して
+Tính toán sai. Bạn coi thường họ quá nhiều. Giá như tôi có thể rút lui sớm hơn,
+---
+>  この基地の本国からの増援と
+>  合流していれば……」
+Gặp gỡ quân tiếp viện được gửi từ đất nước này đến căn cứ này..."
+
+@25059 Luna · ルーナ
+> 「……いいでしょう、シャピロ。あなたには
+>  参謀は不要ね。あなたには愛も
+"...Được rồi, Shapiro. Anh không cần cố vấn. Có vẻ như anh cũng không cần tình yêu.
+---
+>  必要ないように。シャピロ、あなたには
+>  誰も必要ない、そういうことね」
+Shapiro, anh không cần ai cả, thế thôi. "
+
+@25060 Shapiro · シャピロ
+> 「女よなぁルーナ。だがいずれ神となる
+>  この私に、それ以上の口出しは
+"Dù sao thì tôi cũng là phụ nữ, Luna. Nhưng sớm muộn gì tôi cũng sẽ trở thành thần. Cô không được phép làm gì tôi nữa."
+---
+>  許さん」
+Nói nhiều. "
+
+@25061 Luna · ルーナ
+> 「…………」
+“…………”
+
+@25062 Shapiro · シャピロ
+> 「フフフフフフッ、地球人どもなど、
+>  この私が滅ぼしてやるのだ
+"Hehehehe, tôi sẽ tự tay tiêu diệt đám người Trái đất này.
+---
+>  ハーッハハハハハハッ」
+Ha-hahahahahaha! "
+
+@25063 Gildrome · ギルドローム
+> 「その様子ではルーナ、お前も奴の
+>  あのギラギラとした態度には嫌気が
+"Hãy nhìn bạn, Luna, với thái độ hung hăng của bạn với anh ấy.
+---
+>  さしているようだな。思い出せルーナ。
+>  しょせん、シャピロは地球人なのだ」
+Chắc hẳn bạn đã mệt mỏi với nó rồi. Đừng quên, Luna. Rốt cuộc, Shapiro đến từ Trái đất. "
+
+@25064 Luna · ルーナ
+> 「……どういうこと?」
+“…Ý cậu là sao? "
+
+@25065 Gildrome · ギルドローム
+> 「ククククククッ」
+“Hehehehehe. "
+
+@25066 Shapiro · シャピロ
+> 「なんだ! OZの攻撃隊か!?」
+"Cái gì! Có phải đội tấn công của OZ không? ? "
+
+@25067 Shapiro · シャピロ
+> 「あれは……奴らか! 迎撃隊、
+>  出撃せよ!!」
+"Đó là... chính là họ! Đội tấn công, tấn công! ! "
+
+@25068 Bright · ブライト
+> 「なんだと? まだこれほどの戦力がある
+>  というのか」
+"Cái gì? Họ thực sự vẫn còn nhiều quân như vậy? "
+
+@25069 Sara · 沙羅
+> 「奴らもそれだけ必死だってことさ」
+“Họ cũng đã làm việc chăm chỉ. "
+
+@25070 Shinobu · 忍
+> 「上等だぜ。叩きつぶしてやる!」
+“Chỉ là những gì tôi muốn. Đập chúng thành từng mảnh! "
+
+@25071 Shapiro · シャピロ
+> 「おのれぇ、第2次攻撃隊
+>  出撃の用意を……」
+“Chết tiệt, đợt tấn công thứ hai của đội đã sẵn sàng tấn công…”
+
+@25072 Shapiro · シャピロ
+> 「なに!? 勝手な行動をするな!
+>  この私の命令通りに
+"Cái gì! ? Đừng hành động một mình! làm theo mệnh lệnh của tôi
+---
+>  動けばよいのだ!!」
+Chỉ cần hành động! ! "
+
+@25073 Gildrome · ギルドローム
+> 「勝手な行動で迷惑をこうむった
+>  のはこちらだがな。我々はひとまず
+“Chúng tôi là những người bị ảnh hưởng bởi những hành động trái phép. Hãy để nó bây giờ
+---
+>  ゾルバドス星へ引きあげさせてもらう」
+Rút về Zolbados. "
+
+@25074 Shapiro · シャピロ
+> 「ギルドローム……貴様!」
+"Guildrom...anh bạn! "
+
+@25075 Luna · ルーナ
+> 「ほほほほっ、シャピロ、奴らと
+>  刺し違えて、死になさい
+"Hehehe, Shapiro, đi chết cùng họ đi.
+---
+>  それが、帝王さまのご意志だわ」
+Đây là ý muốn của hoàng đế! "
+
+@25076 Shapiro · シャピロ
+> 「……ルーナ」
+"...Luna. "
+
+@25077 Luna · ルーナ
+> 「『お前もか』。地球の有名な
+>  芝居に出てきたセリフだったかしら
+"'Còn bạn?' Nó có vẻ giống như một câu thoại trong một vở kịch nổi tiếng trên Trái đất.
+---
+>  シャピロ、神をきどったあなたに、
+>  そのセリフはいえないはずよ」
+Shapiro, một vị thần tự xưng như bạn không có tư cách để nói điều này. "
+
+@25078 Shapiro · シャピロ
+> 「おのれ、き、貴様ら……」
+"Chết tiệt, các người..."
+
+@25079 Luna · ルーナ
+> 「シャピロ、あたしが愛すには足りない
+>  男だったわ」
+"Shabiro, anh là người đàn ông không xứng đáng với tình yêu của em. "
+
+@25080 Shapiro · シャピロ
+> 「……いいだろう。だが地球を滅ぼした
+>  あと、次に滅ぼされるのはゾルバドス
+“…Được rồi. Nhưng sau khi hủy diệt trái đất, kẻ bị tiêu diệt tiếp theo chính là Zorbados.
+---
+>  お前たちであることを知るがいい。
+>  この私に、神に向かって
+Là bạn, hãy nhớ điều đó cho tôi. Sao ngươi dám thách thức ta và Chúa,
+---
+>  たてついたことを、宇宙のもくずと
+>  なってから後悔するがいい
+Đừng hối tiếc cho đến khi bạn biến thành cát bụi trong vũ trụ.
+---
+>  ハハハハハハハッ!」
+Hahahahaha! "
+
+@25081 Bright · ブライト
+> 「なんだったんだ、いったい?」
+"Chuyện gì đang xảy ra vậy?"
+
+@25082 Ryoma · リョウ
+> 「なんだろうが関係ない! 敵の
+>  新手ごと叩くだけだ!」
+"Dù hắn là ai đi nữa! Chỉ cần đánh bại quân tiếp viện của kẻ thù là được!"
+
+@25083 Masato · 雅人
+> 「やったーっ!」
+"Tuyệt vời-!"
+
+@25084 Ryo · 亮
+> 「いや、待て」
+"Không, chờ đã!"
+
+@25085 Sara · 沙羅
+> 「あ、あれは……シャピロ!」
+"Đó, đó là... Shapiro!"
+
+@25086 Shinobu · 忍
+> 「なんだと!?」
+"Cái gì!?"
+
+@25087 Sara · 沙羅
+> 「間違いないよ。あれは、シャピロだ!!」
+"Đúng vậy. Đó là Shapiro!!"
+
+@25088 Shapiro · シャピロ
+> 「貴様ら、まず手始めに、貴様ら
+>  から死ぬがいい!!」
+"Các ngươi, để ta đâm các ngươi trước, cút đi!!"
+
+@25089 Shapiro · シャピロ
+> 「おのれ、おのれおのれぇぇーっ!!」
+“Chết tiệt, chết tiệt, chết tiệt, chết tiệt—!!”
+
+@25090 Sara · 沙羅
+> 「くっ、シャピロ、往生ぎわが悪いよ!」
+"Chà, Shapiro, đừng vùng vẫy đến chết nữa!"
+
+@25091 Kamille · カミーユ
+> 「どうなったんだ!?」
+"Mọi chuyện thế nào rồi!?"
+
+@25092 Sara · 沙羅
+> 「あいつ、アステロイドに逃げこみやがった」
+"Tên đó đã trốn thoát vào tiểu hành tinh!"
+
+@25093 Shinobu · 忍
+> 「今はまずい! おもての敵を全部
+>  叩いてからだ、沙羅!」
+"Không phải bây giờ! Trước tiên hãy loại bỏ tất cả kẻ thù bên ngoài, Sharo!"
+
+@25094 Sara · 沙羅
+> 「くっ……わかってるよ」
+"Ừ...tôi biết."
+
+@25095 Shinobu · 忍
+> 「奴め、また逃げるつもりかよ!?」
+"Tên đó, lại muốn chạy trốn sao!?"
+
+@25096 Sara · 沙羅
+> 「冗談じゃないよ! 絶対に逃がす
+>  もんか!」
+"Thật là một trò đùa! Tôi sẽ không bao giờ để anh ta chạy trốn!"
+
+@25097 Masato · 雅人
+> 「わっ! ちょっと、沙羅!」
+"Chà! Đợi đã, Sara!"
+
+@25098 Amuro · アムロ
+> 「沙羅!? 何をするつもりだ!」
+"Sara!? Cô muốn làm gì!"
+
+@25099 Sara · 沙羅
+> 「こいつは、あたしが決着をつけなくちゃ
+>  いけないんだ!!」
+"Chuyện với tên này phải do chính tôi giải quyết!!"
+
+@25100 Shapiro · シャピロ
+> 「沙羅……か」
+"Sara...là bạn."
+
+@25101 Sara · 沙羅
+> 「もうあきらめな、シャピロ。あんたの負け
+>  だよ」
+"Bỏ cuộc đi, Shapiro. Anh thua rồi."
+
+@25102 Shapiro · シャピロ
+> 「クククク、おろかな。私は確かに
+>  あの時、この宇宙の意思に
+“Hehehe, ngu ngốc. Khi đó ý chí của vũ trụ thực sự đã cho tôi thấy
+---
+>  神となるべき道を示された。
+>  私は神となるべき男なのだ」
+Chỉ ra con đường để trở thành một vị thần. Tôi là một người được định sẵn là Chúa. "
+
+@25103 Sara · 沙羅
+> 「それで地球を捨て、ゾルバドスに
+>  ついたっていうんだね」
+“Vậy là cậu đã rời bỏ Trái Đất và đến Zolbados phải không?”
+
+@25104 Shapiro · シャピロ
+> 「地球の敗北は戦う前から見え
+>  ていた。この俺の唯一の誤算は
+"Sự thất bại của Trái đất đã được định đoạt trước khi chiến tranh bắt đầu. Tính toán sai lầm duy nhất của tôi,
+---
+>  ルーナとともにバイストンウェルなどという
+>  世界へ飛ばされたことだ。だが俺は
+Giống như bị ném vào một thế giới giống như Baiston Weir với Luna. nhưng tôi
+---
+>  それさえも乗り越え、再びこの
+>  世界へと帰ってきた
+Anh ta thậm chí còn vượt qua cấp độ này và quay trở lại thế giới này một lần nữa.
+---
+>  宇宙がこの俺を求めているのだ」
+Đó là vũ trụ đang khao khát tôi! "
+
+@25105 Sara · 沙羅
+> 「シャピロ……あんた、どこまで……」
+"Shapiro...anh muốn gì..."
+
+@25106 Shapiro · シャピロ
+> 「死ね、沙羅。お前はもはやこの俺
+>  の前から完全に姿を消すのだ」
+"Biến đi, Sara. Biến mất hoàn toàn khỏi mắt tôi đi!"
+
+@25107 Sara · 沙羅
+> 「お得意の神をきどったセリフかい。
+>  シャピロ、あいにくだけどね
+"Bạn lại nói về bộ đồ lố bịch của mình nữa phải không? Shapiro, tôi xin lỗi,
+---
+>  今のあんたは神というより、ただの
+>  道化さ。そいつがいいとこだ
+Bây giờ bạn giống một chú hề hơn là một vị thần. Nhiều nhất là vậy.
+---
+>  シャピロ、あんたとつきあって、あたしは
+>  ひとつだけ喜びを見つけたよ」
+Shapiro, tôi chỉ tìm thấy một niềm vui khi hẹn hò với bạn. "
+
+@25108 Shapiro · シャピロ
+> 「……?」
+"...? "
+
+@25109 Sara · 沙羅
+> 「あんたを殺すっていうね」
+"Vậy ta sẽ giết ngươi!"
+
+@25110 Shapiro · シャピロ
+> 「……できるのか、お前に」
+"...Bạn có thể làm được không?"
+
+@25111 Sara · 沙羅
+> 「もう話すことは何も残っていない
+>  ようだね」
+"Có vẻ như không còn gì để nói."
+
+@25112 Sara · 沙羅
+> 「きゃぁぁぁーっ!!」
+“Ahhhhhhhhh——!!”
+
+@25113 Shapiro · シャピロ
+> 「おおぉぉーっ!?」
+"Ồhhh-!?"
+
+@25114 Shapiro · シャピロ
+> 「おのれぇぇーっ、こんなところでこの私は
+>  滅びはせん!! よいか宇宙よ!
+"Chết tiệt! Làm sao tôi có thể bị tiêu diệt ở một nơi như thế này!! Hãy nghe đây, vũ trụ!
+---
+>  いまこそ、いまこそ、この神の足下に
+>  その永遠の魂をゆだねるがいい!
+Bây giờ, ngay bây giờ, hãy phó thác linh hồn vĩnh cửu của bạn dưới chân Đức Chúa Trời này!
+---
+>  ふは、ふはははははっ!!」
+Ha ha, ha ha ha ha! ! "
+
+@25115 Sara · 沙羅
+> 「…………」
+“…………”
+
+@25116 Ryo · 亮
+> 「終わったな……」
+"Hết rồi..."
+
+@25117 Sara · 沙羅
+> 「…………シャピロ……ばかね、あんた。
+>  ……シャピロ……ばかだよぉぉっ!!」
+"...Xiapiluo...bạn thật ngu ngốc...Xiapiluo...đồ ngốc!!"
+
+@25118 Shinobu · 忍
+> 「沙羅!?」
+"Sara!?"
+
+@25119 Ryo · 亮
+> 「気を失っているだけだ。張りつめて
+>  いたものが切れたんだろう」
+"Tôi vừa ngất đi. Chắc sợi dây căng đã đứt rồi."
+
+@25120 Bright · ブライト
+> 「これは……いかん、爆発するぞ!
+>  早く退避しろ!」
+"Cái này... tệ quá, nó sắp nổ tung mất! Hãy sơ tán nhanh!"
+
+@25121 Shinobu · 忍
+> 「いくぞ!」
+"Đi thôi!"
+
+@25122 Ryo · 亮
+> 「あんたの気持ち、わからんでもなかった
+>  がな。だが力だけでは、人の心は
+“Không phải là tôi không thể hiểu được cảm xúc của bạn. Nhưng bạn không thể kiểm soát trái tim người khác chỉ bằng sức mạnh.
+---
+>  どうにもできん。あばよ、シャピロ」
+Tạm biệt, Shapiro. "
+
+@25123 Bright · ブライト
+> 「アステロイド前線基地が
+>  消滅したか……」
+"Căn cứ tiền tuyến của tiểu hành tinh vừa biến mất ..."
+
+@25124 Alan · アラン
+> 「ギルドロームはどうなりました?」
+“Tình hình Guildrom thế nào rồi?”
+
+@25125 Bright · ブライト
+> 「消えた。以前から帝国軍は
+>  異次元より侵入したと
+"Biến mất. Một số người luôn nói rằng Quân đội Đế quốc xâm lược từ một chiều không gian khác.
+---
+>  いわれていたが……」
+Nhưng..."
+
+@25126 Shinobu · 忍
+> 「今やつらをぶったたかねぇと
+>  やばいんじゃねぇのか」
+“Nếu không hạ gục bọn chúng bây giờ thì chúng ta sẽ gặp rắc rối phải không? "
+
+@25127 Amuro · アムロ
+> 「しかし、どうやって追うというんだ」
+“Nhưng, làm thế nào để theo đuổi nó? "
+
+@25128 Ryo · 亮
+> 「確かに。忍、俺たちは帝国の
+>  位置すら知らん。ましてや
+"Thật vậy. Shinobi, chúng tôi thậm chí còn không biết vị trí của đế chế. Chưa kể
+---
+>  異次元となるとな」
+Một chiều hướng khác. "
+
+@25129 Shinobu · 忍
+> 「ここまでやっときながら、これ以上は
+>  どうしようもねぇってのかよ!?
+“Anh đã đến mức này rồi, ý anh là anh không thể làm gì tiếp theo à? ?
+---
+>  ええ、亮!?」
+À, ánh sáng! ? "
+
+@25130 Koji · 甲児
+> 「ちくしょう! そんなのありかよ!!」
+"Chết tiệt! Làm sao chuyện như thế có thể xảy ra được! ! "
+
+@25131 Jun · ジュン
+> 「落ち着きなよ、忍も甲児も」
+“Bình tĩnh nào, Ren và Jia'er. "
+
+@25132 Koji · 甲児
+> 「だってよ、奴らまだギルドロームも
+>  デスガイヤーも残ってんだぜ!?
+“Nhưng, những kẻ đó vẫn ở đây cùng Guildrom và Disgaea! ?
+---
+>  どこにあるのか知らねぇが、奴らの
+>  本拠地だって無傷だ
+Dù không biết nó ở đâu nhưng hang ổ của chúng vẫn còn nguyên vẹn.
+---
+>  奴ら、また来るに決まってるぜ!」
+Họ chắc chắn sẽ quay trở lại! "
+
+@25133 Tetsuya · 鉄也
+> 「そうとばかりもいえないだろう。連中の
+>  地球占領軍は壊滅した
+"Không nhất thiết. Lực lượng chiếm đóng Trái đất của họ đã bị tiêu diệt,
+---
+>  これ以上の損害はだしたくない
+>  かもしれない」
+Có lẽ tôi không muốn chịu thêm tổn thất nào lớn hơn. "
+
+@25134 Alan · アラン
+> 「だが……相手は宇宙人だ。
+>  何を考えているのかはわからんよ」
+“Nhưng…đối thủ là một người ngoài hành tinh. Ai biết được họ đang nghĩ gì. "
+
+@25135 Ark · アーク（按段落 3DD1）
+> 「だけどアラン、今はそんなことをいって
+>  いてもしかたがないだろう
+“Nhưng Alan, bây giờ nói về chuyện đó cũng vô ích.
+---
+>  希望的観測かもしれないけど、
+>  俺たちに何かできることがあるのか?」
+Có thể chúng ta đang nghĩ đến điều tốt nhất, nhưng chúng ta có thể làm gì? "
+
+@25136 Selain · セレイン（按段落 3DD2）
+> 「そんなことをいってもしかたあるまい。
+>  アラン、希望的観測というのは
+“Thật vô ích khi nói điều này. Alan, tôi biết thế này là tốt nhất,
+---
+>  わかっているが、少なくとも今の
+>  我々には、なすすべがない」
+Nhưng ít nhất hiện tại chúng tôi không thể làm gì được. "
+
+@25137 Brad · ブラッド（按段落 3DD3）
+> 「だがよ、アラン。とりあえずそうとでも
+>  考えとかなきゃ、やってられねぇぜ
+"Nhưng Alan. Nếu bạn không nghĩ đến nó đầu tiên, bạn sẽ không thể làm được.
+---
+>  それとも何かやれることがあるってのか?」
+Hoặc, bạn có thể làm gì? "
+
+@25138 Manami · マナミ（按段落 3DD4）
+> 「でもアラン、今の私たちにはどうしよう
+>  もないのは確かだわ。放っておいて
+“Nhưng Alan, bây giờ chúng ta thực sự không thể làm gì được. Mặc dù tôi không thể
+---
+>  いいわけはないけど……でもね」
+Cứ để nó yên...nhưng..."
+
+@25139 Alan · アラン
+> 「ああ……君のいう通りだ。我々に
+>  できることは、せめてこの宙域に
+"Ờ... cậu nói đúng. Điều tốt nhất chúng ta có thể làm là ở lại trong không gian này
+---
+>  監視衛星でもおいておくことくらい
+>  だろう」
+Đặt một số vệ tinh giám sát. "
+
+@25140 Bright · ブライト
+> 「……そうだな。どのみち我々には
+>  このまま敵地へ攻めこむだけの
+“…Phải. Dù sao thì chúng tôi cũng không trực tiếp xâm chiếm lãnh thổ của kẻ thù.
+---
+>  余裕はない」
+năng lượng dự phòng. "
+
+@25141 Simone · シモーヌ
+> 「ま、とりあえずゾルバドスはあたしたちの
+>  前からいなくなった。3年前の
+“Dù sao thì, Zorbados đã biến mất khỏi chúng ta trong thời gian này. từ ba năm trước
+---
+>  あの日から望み続けていたことは、
+>  ようやく現実のものとなったんだわ」
+Điều tôi mong chờ từ ngày đó cuối cùng đã trở thành hiện thực. "
+
+@25142 Hayato · ハヤト
+> 「ああ。だが、俺たちの戦いは、まだ
+>  残っているぜ」
+"Ừm. Nhưng cuộc chiến của chúng tôi vẫn chưa kết thúc. "
+
+@25143 Amuro · アムロ
+> 「そうだな……OZのことがある。とりあえず
+>  スウィートウォーターへ行こう」
+“Ừ…còn có vấn đề về OZ nữa. Dù sao thì chúng ta hãy đến Ganquan trước. "
+
+@25144 Shinobu · 忍
+> 「……くっそぉぉぉぉぉーっ!!」
+"...Chết tiệt! ! "
+
+@25145 Shinobu · 忍
+> 「……それで、沙羅は?」
+“…Vậy, Sharo đâu? "
+
+@25146 Sally · サリィ
+> 「あまりよくはないわ。葉月博士に
+>  聞いてみないとなんともいえないけど……
+“Tình hình không ổn chút nào. Cậu phải hỏi bác sĩ Hazuki để chắc chắn...
+---
+>  ダンクーガってどういうシステムなの?」
+Đây là loại hệ thống gì? "
+
+@25147 Ryo · 亮
+> 「やはり精神的なものか。ダンクーガは
+>  俺たち4人の戦闘エネルギーの
+"Thật sự là có vấn đề về tinh thần sao? Tôi nghe nói rằng tôi và Đoàn Không có năng lượng chiến đấu giữa bốn người chúng tôi.
+---
+>  集合体とでもいえるものだと聞いた
+>  あまり使いすぎると相当の
+Cốt liệu nếu sử dụng quá mức sẽ gây tác hại lớn
+---
+>  負荷がかかる」
+gánh nặng. "
+
+@25148 Cath · キャス
+> 「うん、原因は、それね。沙羅の
+>  場合は、ただでさえダンクーガの
+"À, đó là lý do. Sharo ban đầu sẽ phải chịu đựng sự trống rỗng của tôi
+---
+>  システムの負荷がかかるうえに、
+>  シャピロのことがあったから、
+Gánh nặng đè lên hệ thống, cùng với sự cố của Shapiro,
+---
+>  そのダメージと消耗は、
+>  はかりしれないわ」
+Thiệt hại và tiêu hao gây ra là không thể đo lường được. "
+
+@25149 Shinobu · 忍
+> 「じゃあ……」
+"Vậy..."
+
+@25150 Sally · サリィ
+> 「そう、肉体的にはなんの問題も
+>  ないの。ともかく、これ以上は
+"Ừ, cơ thể tôi không có vấn đề gì cả. Dù sao thì phần còn lại
+---
+>  どうしようもないわ」
+Chúng tôi không thể làm gì được. "
+
+@25151 Quattro · クワトロ
+> 「……ここにもどるのは、ひさしぶりか」
+“…Đã lâu rồi tôi không quay lại đây.”
+
+@25152 Kignan · キグナン
+> 「お帰りなさいませ、大佐。アナハイム
+>  のエージェントの方はどうでしたか」
+"Chào mừng trở lại, Đại tá. Mọi chuyện với các đặc vụ ở Anaheim thế nào rồi?"
+
+@25153 Quattro · クワトロ
+> 「キグナンか。問題ないな。
+>  我々の部隊への協力は
+"Đó là Kignan. Không vấn đề gì. Họ hỗ trợ quân đội của chúng tôi,
+---
+>  実戦データ集めにすぎん。
+>  自分たちの得になることなら
+Nó chỉ là để thu thập dữ liệu chiến đấu thực tế. Miễn là nó có ích cho bạn,
+---
+>  なんでもやる連中だ」
+Những kẻ này làm tất cả. "
+
+@25154 Kignan · キグナン
+> 「私には大佐だからこそと思えますが」
+“Theo tôi, chỉ vì anh là đại tá nên mới có thể làm được.”
+
+@25155 Quattro · クワトロ
+> 「キグナン、大佐はよせ。今の私は
+>  クワトロ・バジーナだ。もと大尉のな」
+"Kignan, đừng gọi tôi là Đại tá. Tôi là Kvatro Bagina, cựu Đại úy."
+
+@25156 Kignan · キグナン
+> 「しかし私にとっては、
+>  シャア・アズナブル大佐です」
+“Nhưng với tôi, anh là Đại tá Char Aznable.”
+
+@25157 Quattro · クワトロ
+> 「……まぁいい。何か用があったのだろう」
+"...Quên đi. Nếu cậu có việc gì cần làm, hãy đến gặp tôi."
+
+@25158 Kignan · キグナン
+> 「そうでした。これをご覧ください。
+>  観測データのプリントです
+"Đúng. Nhìn này. Đây là bản in dữ liệu quan sát,
+---
+>  火星の向こうの……」
+Ở phía bên kia của sao Hỏa…”
+
+@25159 Quattro · クワトロ
+> 「……核パルスの光か。いつ頃からだ?」
+“…Ánh sáng xung hạt nhân. Nó bắt đầu khi nào?”
+
+@25160 Kignan · キグナン
+> 「OZのクーデターのあとです」
+"Sau cuộc đảo chính ở OZ."
+
+@25161 Quattro · クワトロ
+> 「ジオンの亡霊が動きだしたか……
+>  ハマーン・カーンは二十歳になったか」
+“Yêu cầu xác sống của Zeon bắt đầu hành động… Harman Kahn cũng hai mươi tuổi.”
+
+@25162 Kignan · キグナン
+> 「はい……」
+"Ừ..."
+
+@25163 Quattro · クワトロ
+> 「なんだ?」
+"Có chuyện gì thế?"
+
+@25164 Staff · 係員
+> 「ポート・サービスです。ご依頼のあった
+>  艦艇の入港を確認しましたので」
+"Đây là văn phòng dịch vụ cảng. Con tàu mà bạn hỏi đã được xác nhận vào cảng."
+
+@25165 Quattro · クワトロ
+> 「わかった。ありがとう」
+"Tôi hiểu rồi. Cảm ơn bạn."
+
+@25166 Quattro · クワトロ
+> 「アーガマが来たようだ。思ったより
+>  早かったな。私は行く
+"Agama có vẻ như đang ở đây. Nhanh hơn dự kiến. Tôi sẽ đến đó.
+---
+>  観測は続けさせてくれ」
+Hãy tiếp tục quan sát. "
+
+@25167 Kignan · キグナン
+> 「わかりました、大佐」
+"Đã hiểu, thưa Đại tá."
+
+@25168 Duo · デュオ
+> 「まったく、なんでOZなんかに
+>  入ったんだ?」
+"Thật sao, tại sao bạn lại muốn gia nhập một tổ chức như OZ?"
+
+@25169 Hilde · ヒルデ
+> 「あなたは捕虜なのよ、口のきき方に
+>  気をつけなさい」
+"Ngươi là tù nhân, nên cẩn thận lời nói."
+
+@25170 Duo · デュオ
+> 「へいへい。でもよ、コロニーのためったって
+>  何も戦争することはないんだぜ」
+"Được, được. Nhưng dù chỉ là vệ tinh thuộc địa cũng không cần phải đánh nhau."
+
+@25171 Hilde · ヒルデ
+> 「批判だけなら誰にだってできるわ。
+>  コロニーの屈辱の歴史を
+“Ai cũng có thể chỉ trích. Để thay đổi lịch sử nhục nhã của vệ tinh thuộc địa,
+---
+>  変えるための戦いを、私たちは恐れ
+>  てはいない。今は行動するときよ
+Chúng tôi không sợ chiến đấu. Bây giờ là lúc để hành động.
+---
+>  OZに入ったのはその手段の1つに
+>  すぎないわ」
+Tham gia OZ chỉ là một trong những phương tiện. "
+
+@25172 Duo · デュオ
+> 「おっかしいなぁ……俺たちだってコロニー
+>  のために戦ってきたはずなんだけどな」
+"Thật kỳ lạ... Rõ ràng là chúng ta đang chiến đấu vì các vệ tinh thuộc địa."
+
+@25173 Hilde · ヒルデ
+> 「なら、今からでもOZに入りなさい。
+>  そうすれば聞いてもあげるわ」
+"Vậy ngươi gia nhập OZ cũng không muộn. Trong trường hợp đó, ta vẫn có thể nghe lời ngươi."
+
+@25174 Duo · デュオ
+> 「ちぇっ、そんなことできるわけないだろ」
+"Tsk, sao tôi có thể làm được điều đó?"
+
+@25175 Fa · ファ
+> 「カベのないところを歩くのもひさしぶりね
+>  カミーユ」
+“Đã lâu rồi tôi không bước đi mà không có tường, Camus.”
+
+@25176 Kamille · カミーユ
+> 「そうだな。このところ、ずっとアーガマか
+>  ラビアンローズだったから」
+"Đúng. Tôi đã ở Agama hoặc La Vie en Rose trong thời gian này."
+
+@25177 Daisaku · 大作
+> 「でも、コロニーって思ってたよりも
+>  広いんですね。びっくりしました」
+"Tuy nhiên, vệ tinh thuộc địa lớn hơn tôi nghĩ rất nhiều. Nó khiến tôi sợ hãi."
+
+@25178 Kamille · カミーユ
+> 「それでもここの半分は最初期の
+>  コロニーなんだ。他のタイプは
+“Một nửa trong số đó ở đây vẫn là những vệ tinh thuộc địa sớm nhất. Các mẫu khác
+---
+>  もっと大きいさ」
+lớn hơn. "
+
+@25179 Rosamia · ロザミア
+> 「……お兄ちゃん?」
+"...anh trai?"
+
+@25180 Kamille · カミーユ
+> 「え?」
+"Hả? "
+
+@25181 Rosamia · ロザミア
+> 「やっぱり、お兄ちゃんだ!」
+"Thật sự là anh trai tôi!"
+
+@25182 Fa · ファ
+> 「誰よあなた。カミーユの知りあい?」
+"Bạn là ai? Người quen của Camus?"
+
+@25183 Rosamia · ロザミア
+> 「あたし、ロザミィ・バダム」
+"Tên tôi là Rosamy Badam."
+
+@25184 Kamille · カミーユ
+> 「知らないよ、あんたなんか」
+"Tôi không biết bạn."
+
+@25185 Rosamia · ロザミア
+> 「うふふふ、変わらないのね。お兄ちゃん
+>  は、いつもそういって、あたしをいじめたわ」
+"Hehehe, nó chẳng thay đổi gì cả. Anh trai tôi luôn nói thế và bắt nạt tôi."
+
+@25186 Daisaku · 大作
+> 「ずいぶん大きい妹さんですね。
+>  なんだかカミーユさんの方が
+“Em gái cậu lớn thật đấy, trông giống anh Camus quá.”
+---
+>  年下に見えますけど……」
+Trẻ hơn..."
+
+@25187 Kamille · カミーユ
+> 「だから、知らない人なんだよ」
+“Tôi đã nói rồi, tôi không hề biết cô ấy.”
+
+@25188 Rosamia · ロザミア
+> 「こんなところで会えるなんて、
+>  うれしいわ。お兄ちゃん」
+"Tôi rất vui được gặp anh ở đây. Anh trai."
+
+@25189 Emperor Muge · ムゲ帝王
+> 「もどったか、デスガイヤー」
+"Bạn đã trở lại, Disgaea."
+
+@25190 Death Gaia · デスガイヤー
+> 「はっ。帝王様、アステロイド前線
+>  基地、消滅いたしました」
+"Vâng. Hoàng đế đại nhân, căn cứ tiền phương của tiểu hành tinh... đã bị phá hủy."
+
+@25191 Emperor Muge · ムゲ帝王
+> 「うむ……我々は奴らをみくびりすぎた
+>  ようだな」
+"Chà...có vẻ như chúng ta đã đánh giá thấp những kẻ đó quá nhiều rồi."
+
+@25192 Death Gaia · デスガイヤー
+> 「はっ」
+"Ừ. "
+
+@25193 Emperor Muge · ムゲ帝王
+> 「まぁよい。ご苦労だった、デスガイヤー
+>  とりあえずは、ゆっくりと休むがよい」
+"Không sao đâu. Cảm ơn vì đã làm việc chăm chỉ, Desgaia. Bây giờ hãy nghỉ ngơi thật tốt nhé."
+
+@25194 Death Gaia · デスガイヤー
+> 「はっ、ありがたきお言葉。
+>  光栄であります」
+"Vâng, cảm ơn vì những lời tốt đẹp của bạn. Thật vinh dự."

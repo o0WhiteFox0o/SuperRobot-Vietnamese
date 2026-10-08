@@ -1,0 +1,139 @@
+# Bản dịch tiếng Việt Super Robot Wars 64
+# Định dạng và vị trí: docs/guide/dialogue-text.md
+
+@8893 Gates · ゲーツ
+# Kích hoạt: Tấn công (Chung，1/7）
+> 「もらったっ!」
+"Đã lấy nó!"
+
+@8894 Gates · ゲーツ
+# Kích hoạt: Tấn công (Chung，2/7）
+> 「やらせん!」
+"Đừng nghĩ tới chuyện đó nữa!"
+
+@8895 Gates · ゲーツ
+# Kích hoạt: Tấn công (Chung，3/7）
+> 「そこかっ!」
+"Đó!"
+
+@8896 Gates · ゲーツ
+# Kích hoạt: Tấn công (Chung，4/7）
+> 「いけっ!」
+"Lên!"
+
+@8897 Gates · ゲーツ
+# Kích hoạt: Tấn công (Chung，5/7）
+> 「消えろっ!」
+"Biến mất!"
+
+@8898 Gates · ゲーツ
+# Kích hoạt: Tấn công (Chung，6/7）
+> 「邪魔だっ!」
+"Trên đường đi!"
+
+@8899 Gates · ゲーツ
+# Kích hoạt: Tấn công (Chung，7/7）
+> 「このっ!」
+"Đồ khốn! "
+
+@8900 Gates · ゲーツ
+# Kích hoạt: 被击坠（通用，1/2）
+> 「な、何!? うおっ!!」
+"C-cái gì!? Wow!!"
+
+@8901 Gates · ゲーツ
+# Kích hoạt: 被击坠（通用，2/2）
+> 「バカな……うあっ!」
+"Không thể nào... ugh!"
+
+@8902 Gates · ゲーツ
+# Kích hoạt: 重伤（剩余 HP 不足 30%）（通用，1/3）
+> 「うっ!! お、押されているだと!?」
+"Ugh!! T-tôi đã bị đàn áp!?"
+
+@8903 Gates · ゲーツ
+# Kích hoạt: 重伤（剩余 HP 不足 30%）（通用，2/3）
+> 「くうっ!! な、なんだ、このパワーは!?」
+"Hmm!! Cái, sức mạnh này là gì vậy!?"
+
+@8904 Gates · ゲーツ
+# Kích hoạt: 重伤（剩余 HP 不足 30%）（通用，3/3）
+> 「むうっ! な、何者だ、こいつ……」
+"Hmm! Anh chàng này là ai vậy..."
+
+@8905 Gates · ゲーツ
+# Kích hoạt: 中伤（剩余 HP 30–90%）（通用，1/4）
+> 「まだだっ! まだやられてはいない!」
+"Vẫn chưa kết thúc! Ta còn chưa bị đánh bại!"
+
+@8906 Gates · ゲーツ
+# Kích hoạt: 中伤（剩余 HP 30–90%）（通用，2/4）
+> 「やるっ! しかしっ!」
+"Hai lần! Nhưng!"
+
+@8907 Gates · ゲーツ
+# Kích hoạt: 中伤（剩余 HP 30–90%）（通用，3/4）
+> 「ちっ! なんの、まだ落ちるものか!」
+"Tsk! Đùa gì vậy, ngươi đánh không lại được ta!"
+
+@8908 Gates · ゲーツ
+# Kích hoạt: 中伤（剩余 HP 30–90%）（通用，4/4）
+> 「くっ! 貴様、いい気になるなっ!」
+"Ugh! Đồ khốn, đừng tự hào!"
+
+@8909 Gates · ゲーツ
+# Kích hoạt: 轻伤（剩余 HP 90% 以上）（通用，1/2）
+> 「ふん、その程度の攻撃!」
+"Hmph, chỉ đòn này thôi!"
+
+@8910 Gates · ゲーツ
+# Kích hoạt: 轻伤（剩余 HP 90% 以上）（通用，2/2）
+> 「効かんな」
+"Nó không đau hay ngứa."
+
+@8911 Gates · ゲーツ
+# Kích hoạt: Né tránh（通用，1/4）
+> 「甘いな!」
+"Thật ngây thơ!"
+
+@8912 Gates · ゲーツ
+# Kích hoạt: Né tránh（通用，2/4）
+> 「そこか!」
+"Đó!"
+
+@8913 Gates · ゲーツ
+# Kích hoạt: Né tránh（通用，3/4）
+> 「当たるか!」
+"Làm sao có thể để cho ngươi đánh!"
+
+@8914 Gates · ゲーツ
+# Kích hoạt: Né tránh（通用，4/4）
+> 「見える……見えるぞ!」
+"Tôi có thể nhìn thấy nó...Tôi có thể nhìn thấy nó!"
+
+@8915 Gates · ゲーツ
+# Kích hoạt: Tấn công无效（护罩／装甲）（通用，1/1）
+> 「そんな攻撃が通用するか!」
+“Đòn tấn công đó không có tác dụng với tôi!”
+
+@8916 Gates · ゲーツ
+# Kích hoạt: 弹药／EN 不足，无法反击（通用，1/1）
+> 「なんだ!? 弾切れか!?」
+"Cái gì!? Hết đạn!?"
+
+@8917 Gates · ゲーツ
+# Kích hoạt: 射程外，无法反击（通用，1/1）
+> 「ちっ……この距離では手出し
+>  できんか……」
+"Tsk...nó xa quá, chúng ta không thể hành động được sao..."
+
+@14667 Gates · ゲーツ
+# Kích hoạt: 使用〈フィンファンネル〉
+> 「フィンファンネルっ!!」
+"Pháo nổi có vây!!"
+
+@14668 Gates · ゲーツ
+# Kích hoạt: 轻伤（剩余 HP 90% 以上），乘坐〈バウンド・ドック〉
+> 「このバウンド・ドッグに、そんな攻撃が
+>  通用すると思っているのか!」
+“Anh có nghĩ kiểu tấn công đó sẽ có tác dụng với con chó săn này không?”

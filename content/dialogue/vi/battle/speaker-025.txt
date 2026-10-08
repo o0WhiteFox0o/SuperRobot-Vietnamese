@@ -1,0 +1,389 @@
+# Bản dịch tiếng Việt Super Robot Wars 64
+# Định dạng và vị trí: docs/guide/dialogue-text.md
+
+@11259 Ark · アーク
+# Kích hoạt: Tấn công (Chung，1/16）
+> 「このぉっ!」
+"Anh bạn!"
+
+@11260 Ark · アーク
+# Kích hoạt: Tấn công (Chung，2/16）
+> 「あたれ!」
+"Đánh!"
+
+@11261 Ark · アーク
+# Kích hoạt: Tấn công (Chung，3/16）
+> 「いけるっ」
+"Nó hoạt động!"
+
+@11262 Ark · アーク
+# Kích hoạt: Tấn công (Chung，4/16）
+> 「やれるのか!?」
+"Tôi có thể làm được việc này không!?"
+
+@11263 Ark · アーク
+# Kích hoạt: Tấn công (Chung，5/16）
+> 「いけるはずだ……」
+"Nó sẽ hoạt động..."
+
+@11264 Ark · アーク
+# Kích hoạt: Tấn công (Chung，6/16）
+> 「俺だってぇ!」
+"Tôi cũng vậy!"
+
+@11265 Ark · アーク
+# Kích hoạt: Tấn công (Chung，7/16）
+> 「やってみせる」
+"Nhìn tôi này"
+
+@11266 Ark · アーク
+# Kích hoạt: Tấn công (Chung，8/16）
+> 「やってみるさ」
+“Cứ thử xem”
+
+@11267 Ark · アーク
+# Kích hoạt: Tấn công (Chung，9/16）
+> 「そこか!」
+"Nó có ở đó không?"
+
+@11268 Ark · アーク
+# Kích hoạt: Tấn công (Chung，10/16）
+> 「そこぉっ!」
+"Đó!"
+
+@11269 Ark · アーク
+# Kích hoạt: Tấn công (Chung，11/16）
+> 「頼む、あたってくれ!」
+"Làm ơn đi, Zhongah!"
+
+@11270 Ark · アーク
+# Kích hoạt: Tấn công (Chung，12/16）
+> 「目をつぶせばっ!」
+"Trước tiên hãy làm mù mắt nó!"
+
+@11271 Ark · アーク
+# Kích hoạt: Tấn công (Chung，13/16）
+> 「やってやる……
+>  俺だって死にたくないんだ!」
+“Tôi đã cố gắng hết sức…Tôi cũng không muốn chết!”
+
+@11272 Ark · アーク
+# Kích hoạt: Tấn công (Chung，14/16）
+> 「やられる前にっ!」
+"Đánh trước là mạnh nhất!"
+
+@11273 Ark · アーク
+# Kích hoạt: Tấn công (Chung，15/16）
+> 「このままいければ……」
+“Nếu đà này tiếp tục…”
+
+@11274 Ark · アーク
+# Kích hoạt: Tấn công (Chung，16/16）
+> 「あたれよ!!」
+"Đánh nó!!"
+
+@11275 Ark · アーク
+# Kích hoạt: 被击坠（通用，1/3）
+> 「お、俺は、こんなところで……!?」
+"L-Sao tôi có thể rơi ở đây...!?"
+
+@11276 Ark · アーク
+# Kích hoạt: 被击坠（通用，2/3）
+> 「ぐぅぅっ、ここまでか!?」
+"Uh-huh, thế là xong rồi à!?"
+
+@11277 Ark · アーク
+# Kích hoạt: 被击坠（通用，3/3）
+> 「うわぁぁぁぁぁぁっ!」
+"Aaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaa!"
+
+@11278 Ark · アーク
+# Kích hoạt: 重伤（剩余 HP 不足 30%）（通用，1/7）
+> 「うわぁっ!! や、やられる!?」
+"Wow!! T-tôi sắp bị giết mất!?"
+
+@11279 Ark · アーク
+# Kích hoạt: 重伤（剩余 HP 不足 30%）（通用，2/7）
+> 「あぁぁ!? し、死ぬのか?」
+"A!? Tôi-tôi sắp chết à?"
+
+@11280 Ark · アーク
+# Kích hoạt: 重伤（剩余 HP 不足 30%）（通用，3/7）
+> 「うっ……き、機体がもたない!?」
+"Ừm...máy, cơ thể không chịu nổi nữa!?"
+
+@11281 Ark · アーク
+# Kích hoạt: 重伤（剩余 HP 不足 30%）（通用，4/7）
+> 「お、俺は、死にたくないっ!」
+“T-tôi không muốn chết!”
+
+@11282 Ark · アーク
+# Kích hoạt: 重伤（剩余 HP 不足 30%）（通用，5/7）
+> 「うぅぅ!! そ、そんな!?」
+"Hmm!! Làm sao, làm sao có thể được!?"
+
+@11283 Ark · アーク
+# Kích hoạt: 重伤（剩余 HP 不足 30%）（通用，6/7）
+> 「くっ、なんて強い……だけどさ!!」
+"Hmm, mạnh quá...nhưng!!"
+
+@11284 Ark · アーク
+# Kích hoạt: 重伤（剩余 HP 不足 30%）（通用，7/7）
+> 「うわっ!? ま、まだだ!
+>  まだもたせてみせる!」
+"Wow!? Vẫn chưa kết thúc đâu! Tôi nhất định có thể cầm cự được!"
+
+@11285 Ark · アーク
+# Kích hoạt: 中伤（剩余 HP 30–90%）（通用，1/8）
+> 「うっ……こ、こんなことでっ!」
+"Ừm... cái này, vết thương này không là gì cả!"
+
+@11286 Ark · アーク
+# Kích hoạt: 中伤（剩余 HP 30–90%）（通用，2/8）
+> 「ぐぅっ、まだ……まだだ……」
+"Chà, chưa...nó vẫn chưa kết thúc mà..."
+
+@11287 Ark · アーク
+# Kích hoạt: 中伤（剩余 HP 30–90%）（通用，3/8）
+> 「くっ、出力があがらない!?」
+"Chà, sức mạnh không thể tăng lên được sao!?"
+
+@11288 Ark · アーク
+# Kích hoạt: 中伤（剩余 HP 30–90%）（通用，4/8）
+> 「あ、あてられた!?」
+"Đã, bị đánh!?"
+
+@11289 Ark · アーク
+# Kích hoạt: 中伤（剩余 HP 30–90%）（通用，5/8）
+> 「うっ……脚部損傷!? くそっ!」
+"Ừm...chân bị thương rồi!? Chết tiệt!"
+
+@11290 Ark · アーク
+# Kích hoạt: 中伤（剩余 HP 30–90%）（通用，6/8）
+> 「こ、このままじゃだめだ……」
+“Chuyện này, không thể tiếp tục như thế này được…”
+
+@11291 Ark · アーク
+# Kích hoạt: 中伤（剩余 HP 30–90%）（通用，7/8）
+> 「ちぃっ! なめるなぁっ!!」
+"Tsk! Đừng đánh giá thấp tôi!!"
+
+@11292 Ark · アーク
+# Kích hoạt: 中伤（剩余 HP 30–90%）（通用，8/8）
+> 「くそっ……やられてたまるかよッ!!」
+"Chết tiệt... sao tôi có thể bị anh giết được!!"
+
+@11293 Ark · アーク
+# Kích hoạt: 轻伤（剩余 HP 90% 以上）（通用，1/5）
+> 「この装甲ならそんな攻撃はっ」
+“Với bộ giáp này, kiểu tấn công đó—“
+
+@11294 Ark · アーク
+# Kích hoạt: 轻伤（剩余 HP 90% 以上）（通用，2/5）
+> 「くっ、かすめたのか!?」
+"Ừm, cậu xoa nó à!?"
+
+@11295 Ark · アーク
+# Kích hoạt: 轻伤（剩余 HP 90% 以上）（通用，3/5）
+> 「各部異常は……なし、か」
+"Mọi phần... đều bình thường."
+
+@11296 Ark · アーク
+# Kích hoạt: 轻伤（剩余 HP 90% 以上）（通用，4/5）
+> 「損傷なし……まだいけるぞ」
+"Không có tổn thương...vẫn có thể chiến đấu"
+
+@11297 Ark · アーク
+# Kích hoạt: 轻伤（剩余 HP 90% 以上）（通用，5/5）
+> 「ぐ……このぉっ、邪魔なんだよ!」
+"Ừm...anh bạn, tránh ra!"
+
+@11298 Ark · アーク
+# Kích hoạt: Né tránh（通用，1/12）
+> 「ふぅ……かわせたか」
+"Hừ... trốn đi"
+
+@11299 Ark · アーク
+# Kích hoạt: Né tránh（通用，2/12）
+> 「そんな攻撃で!」
+“Với kiểu tấn công đó!”
+
+@11300 Ark · アーク
+# Kích hoạt: Né tránh（通用，3/12）
+> 「あたるわけにはいかないんだ!」
+"Tôi không thể bị đánh!"
+
+@11301 Ark · アーク
+# Kích hoạt: Né tránh（通用，4/12）
+> 「これなら!」
+"Điều đó sẽ làm được!"
+
+@11302 Ark · アーク
+# Kích hoạt: Né tránh（通用，5/12）
+> 「ちぃっ!」
+"Chậc!"
+
+@11303 Ark · アーク
+# Kích hoạt: Né tránh（通用，6/12）
+> 「そうそうあたるかよ!」
+"Không dễ đánh như vậy!"
+
+@11304 Ark · アーク
+# Kích hoạt: Né tránh（通用，7/12）
+> 「かわせた……のか……」
+"Anh đã tránh...?"
+
+@11305 Ark · アーク
+# Kích hoạt: Né tránh（通用，8/12）
+> 「まだっ!」
+"Nó vẫn chưa kết thúc!"
+
+@11306 Ark · アーク
+# Kích hoạt: Né tránh（通用，9/12）
+> 「この程度の攻撃でさ!」
+"Chỉ đòn này thôi!"
+
+@11307 Ark · アーク
+# Kích hoạt: Né tránh（通用，10/12）
+> 「読めるぞ、敵の攻撃が!!」
+“Tôi có thể nhìn thấu đòn tấn công của kẻ thù!!”
+
+@11308 Ark · アーク
+# Kích hoạt: Né tránh（通用，11/12）
+> 「俺だってこのくらいはさ!」
+"Tôi cũng có thể làm được điều này!"
+
+@11309 Ark · アーク
+# Kích hoạt: Né tránh（通用，12/12）
+> 「よけてみせる!」
+"Coi chừng tôi chạy đi!"
+
+@11310 Ark · アーク
+# Kích hoạt: Tấn công无效（护罩／装甲）（通用，1/7）
+> 「ビームはムダだ!!」
+“Chùm tia này vô dụng!!”
+
+@11311 Ark · アーク
+# Kích hoạt: Tấn công无效（护罩／装甲）（通用，2/7）
+> 「そんな攻撃が効くかよ!」
+“Làm sao đòn tấn công đó có thể hoạt động được?”
+
+@11312 Ark · アーク
+# Kích hoạt: Tấn công无效（护罩／装甲）（通用，3/7）
+> 「こいつには効かない!」
+"Nó sẽ không có tác dụng với anh chàng này!"
+
+@11313 Ark · アーク
+# Kích hoạt: Tấn công无效（护罩／装甲）（通用，4/7）
+> 「だ、大丈夫……なのか?」
+"A-bạn ổn chứ...?"
+
+@11314 Ark · アーク
+# Kích hoạt: Tấn công无效（护罩／装甲）（通用，5/7）
+> 「ムダなことを」
+"Lãng phí công sức"
+
+@11315 Ark · アーク
+# Kích hoạt: Tấn công无效（护罩／装甲）（通用，6/7）
+> 「よし、いけるぞ」
+"Được, tôi có thể làm được"
+
+@11316 Ark · アーク
+# Kích hoạt: Tấn công无效（护罩／装甲）（通用，7/7）
+> 「そんなビームなんかでさ!」
+"Chỉ với chùm tia đó!"
+
+@11317 Ark · アーク
+# Kích hoạt: 弹药／EN 不足，无法反击（通用，1/2）
+> 「しまった、た、弾がない!?」
+"Rất tiếc, không còn đạn nữa!?"
+
+@11318 Ark · アーク
+# Kích hoạt: 弹药／EN 不足，无法反击（通用，2/2）
+> 「た、弾切れなのか!?」
+"Con trai, hết đạn rồi à!?"
+
+@11319 Ark · アーク
+# Kích hoạt: 射程外，无法反击（通用，1/3）
+> 「くっ、あんな位置じゃ……」
+“Ồ, ở vị trí đó…”
+
+@11320 Ark · アーク
+# Kích hoạt: 射程外，无法反击（通用，2/3）
+> 「と、遠すぎるか……?」
+"Có phải nó quá, quá xa...?"
+
+@11321 Ark · アーク
+# Kích hoạt: 射程外，无法反击（通用，3/3）
+> 「くっ、反撃できないってのかよ!」
+"Được rồi, không có cách nào đánh trả!"
+
+@16414 Ark · アーク
+# Kích hoạt: 对手驾驶员〈エルリッヒ〉
+> 「{PartnerNick}ッ!」
+"{PartnerNick}!"
+
+@16415 Ark · アーク
+# Kích hoạt: 对手驾驶员〈エルリッヒ〉
+> 「頼む、あたってくれ!」
+"Làm ơn đi, Zhongah!"
+
+@16416 Ark · アーク
+# Kích hoạt: 对手驾驶员〈エルリッヒ〉
+> 「あんたはぁぁぁーっ!」
+"Anh bạn-!"
+
+@16417 Ark · アーク
+# Kích hoạt: 对手驾驶员〈エルリッヒ〉
+> 「やってやる……
+>  俺だって死にたくないんだ!」
+“Tôi đã cố gắng hết sức…Tôi cũng không muốn chết!”
+
+@16418 Ark · アーク
+# Kích hoạt: 对手驾驶员〈エルリッヒ〉
+> 「あんたが相手でもッ!!」
+"Ngay cả khi đối thủ là bạn!!"
+
+@16419 Ark · アーク
+# Kích hoạt: 使用〈オービタルミサイル〉（低优先，可能被通用台词顶掉）
+> 「ミサイルでいけるか!?」
+“Có thể sử dụng tên lửa không!?”
+
+@16420 Ark · アーク
+# Kích hoạt: 使用〈オービタルミサイル〉（低优先，可能被通用台词顶掉）
+> 「ミサイルでしのぐ!」
+"Sử dụng tên lửa để vượt qua!"
+
+@16421 Ark · アーク
+# Kích hoạt: 使用〈スプラッシュブレイカー〉
+> 「散れ!」
+"Thổi nó lên!"
+
+@16422 Ark · アーク
+# Kích hoạt: 使用〈スプラッシュブレイカー〉
+> 「飛び散れっ!」
+"Tung tung xung quanh!"
+
+@16423 Ark · アーク
+# Kích hoạt: 使用〈スプラッシュブレイカー〉
+> 「散れ!」
+"Thổi nó lên!"
+---
+> 「スプラッシュブレイカー!」
+"Máy phân tán!"
+
+@16424 Ark · アーク
+# Kích hoạt: 使用〈スプラッシュブレイカー〉
+> 「いっけぇぇぇーっっ!」
+"Đi-!!"
+---
+> 「スプラッシュブレイカー!」
+"Máy phân tán!"
+
+@16425 Ark · アーク
+# Kích hoạt: 使用〈スプラッシュブレイカー〉
+> 「いけるか!?」
+"Có thể làm được không!?"
+---
+> 「スプラッシュブレイカー!」
+"Máy phân tán!"

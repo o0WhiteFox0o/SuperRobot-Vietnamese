@@ -1,0 +1,225 @@
+# Bản dịch tiếng Việt Super Robot Wars 64
+# Định dạng và vị trí: docs/guide/dialogue-text.md
+
+@13094 Chibodee · チボデー
+# Kích hoạt: Tấn công (Chung，1/12）
+> 「いくぜぇっ!」
+"Nào!"
+
+@13095 Chibodee · チボデー
+# Kích hoạt: Tấn công (Chung，2/12）
+> 「うぉぉぉぉぉっ!」
+"Ồhhhhhh!"
+
+@13096 Chibodee · チボデー
+# Kích hoạt: Tấn công (Chung，3/12）
+> 「おらおらおらぁっ!」
+"Ồ la ồ ồ ồ ồ!"
+
+@13097 Chibodee · チボデー
+# Kích hoạt: Tấn công (Chung，4/12）
+> 「うらうらうらうらぁっ!」
+"Uuuuuuuuuuuuuuuuuuuuu"
+
+@13098 Chibodee · チボデー
+# Kích hoạt: Tấn công (Chung，5/12）
+> 「くらいな!」
+"Ăn chiêu của tôi đi!"
+
+@13099 Chibodee · チボデー
+# Kích hoạt: Tấn công (Chung，6/12）
+> 「うおぅりゃぁぁぁぁっ!」
+"Ồhhhhhhhhh!"
+
+@13100 Chibodee · チボデー
+# Kích hoạt: Tấn công (Chung，7/12）
+> 「ちぇぁぁぁぁぁ!!」
+"Này a a a a!!"
+
+@13101 Chibodee · チボデー
+# Kích hoạt: Tấn công (Chung，8/12）
+> 「でぇやぁぁぁ!!」
+"Này a a a!!"
+
+@13102 Chibodee · チボデー
+# Kích hoạt: Tấn công (Chung，9/12）
+> 「とりゃとりゃとりゃとりゃぁぁ!!」
+"Này này này này này này này!!"
+
+@13103 Chibodee · チボデー
+# Kích hoạt: Tấn công (Chung，10/12）
+> 「一発で決めてやるぜ」
+"Ta sẽ giết ngươi chỉ bằng một đòn"
+
+@13104 Chibodee · チボデー
+# Kích hoạt: Tấn công (Chung，11/12）
+> 「おおおぉぉぉぉぉ!」
+"Ồhhhhhh!"
+
+@13105 Chibodee · チボデー
+# Kích hoạt: Tấn công (Chung，12/12）
+> 「覚悟しな! ウィナーは俺たちだぜ!」
+"Hãy chấp nhận số phận của bạn! Chúng ta là người chiến thắng!"
+
+@13106 Chibodee · チボデー
+# Kích hoạt: 被击坠（通用，1/4）
+> 「くっ負けちまったか……」
+"Chà, cậu vẫn thua à..."
+
+@13107 Chibodee · チボデー
+# Kích hoạt: 被击坠（通用，2/4）
+> 「な、なんだとぉ!?」
+"C-Cái gì!?"
+
+@13108 Chibodee · チボデー
+# Kích hoạt: 被击坠（通用，3/4）
+> 「オーマイガァッ!」
+"Ôi chúa ơi!"
+
+@13109 Chibodee · チボデー
+# Kích hoạt: 被击坠（通用，4/4）
+> 「シャリー、バニィ、キャス、ジャネット
+>  ……すまねぇ」
+"Charlie, Barney, Kath, Janet... Tôi xin lỗi."
+
+@13110 Chibodee · チボデー
+# Kích hoạt: 重伤（剩余 HP 不足 30%）（通用，1/5）
+> 「俺は夢! 俺は希望!
+>  負けるわけにはっ!」
+"Tôi là giấc mơ! Tôi là hy vọng! Không bao giờ thất bại!"
+
+@13111 Chibodee · チボデー
+# Kích hoạt: 重伤（剩余 HP 不足 30%）（通用，2/5）
+> 「ぐわぁぁ!?」
+"Guaaah!?"
+
+@13112 Chibodee · チボデー
+# Kích hoạt: 重伤（剩余 HP 不足 30%）（通用，3/5）
+> 「くっそぅ!」
+"Chết tiệt!"
+
+@13113 Chibodee · チボデー
+# Kích hoạt: 重伤（剩余 HP 不足 30%）（通用，4/5）
+> 「ノォゥッ、ノォゥッ!」
+"Không—! Không—!"
+
+@13114 Chibodee · チボデー
+# Kích hoạt: 重伤（剩余 HP 不足 30%）（通用，5/5）
+> 「ぐ、あぁぁぁぁぁ」
+"Gu, à à à à à à"
+
+@13115 Chibodee · チボデー
+# Kích hoạt: 中伤（剩余 HP 30–90%）（通用，1/5）
+> 「やるじゃねぇか」
+"Phải mất một thời gian."
+
+@13116 Chibodee · チボデー
+# Kích hoạt: 中伤（剩余 HP 30–90%）（通用，2/5）
+> 「なにっ!?」
+"Cái gì!?"
+
+@13117 Chibodee · チボデー
+# Kích hoạt: 中伤（剩余 HP 30–90%）（通用，3/5）
+> 「な、なにぃ、力負けしているだとぅ!?」
+"Cái, cái gì, tôi không đủ sức để chiến đấu!?"
+
+@13118 Chibodee · チボデー
+# Kích hoạt: 中伤（剩余 HP 30–90%）（通用，4/5）
+> 「俺は誓ったんだ!
+>  必ず勝つってなぁ!」
+"Tôi thề! Tôi phải thắng!"
+
+@13119 Chibodee · チボデー
+# Kích hoạt: 中伤（剩余 HP 30–90%）（通用，5/5）
+> 「そうこなくっちゃなぁ」
+"Điều này là rất đúng."
+
+@13120 Chibodee · チボデー
+# Kích hoạt: 轻伤（剩余 HP 90% 以上）（通用，1/4）
+> 「その程度で俺を倒そうってのか!」
+"Bạn muốn đánh bại tôi chỉ bằng khả năng này!"
+
+@13121 Chibodee · チボデー
+# Kích hoạt: 轻伤（剩余 HP 90% 以上）（通用，2/4）
+> 「その程度で俺をやろうってのか!」
+"Ngươi muốn giết ta chỉ bằng năng lực này!"
+
+@13122 Chibodee · チボデー
+# Kích hoạt: 轻伤（剩余 HP 90% 以上）（通用，3/4）
+> 「笑わせるぜ!」
+"Thật là buồn cười!"
+
+@13123 Chibodee · チボデー
+# Kích hoạt: 轻伤（剩余 HP 90% 以上）（通用，4/4）
+> 「どうした、この程度かよ!?」
+"Sao vậy? Đây là tất cả những gì cậu có à?"
+
+@13124 Chibodee · チボデー
+# Kích hoạt: Né tránh（通用，1/3）
+> 「はずれちまったようだなぁ」
+"Có vẻ như bạn đã bắn trượt mục tiêu."
+
+@13125 Chibodee · チボデー
+# Kích hoạt: Né tránh（通用，2/3）
+> 「ヘイッ、どうしたどうした?」
+"Này, có chuyện gì thế?"
+
+@13126 Chibodee · チボデー
+# Kích hoạt: Né tránh（通用，3/3）
+> 「へっすげぇすげぇ」
+"Này, điều đó thật tuyệt vời."
+
+@13127 Chibodee · チボデー
+# Kích hoạt: Tấn công无效（护罩／装甲）（通用，1/2）
+> 「きかねぇんだよ!」
+"Nó không có tác dụng gì cả!"
+
+@13128 Chibodee · チボデー
+# Kích hoạt: Tấn công无效（护罩／装甲）（通用，2/2）
+> 「ムダだぜ、ベイビィ」
+“Chờ gì cả, em yêu.”
+
+@13129 Chibodee · チボデー
+# Kích hoạt: 弹药／EN 不足，无法反击（通用，1/1）
+> 「俺もヤキがまわったぜ」
+"Tôi thật vô dụng."
+
+@13130 Chibodee · チボデー
+# Kích hoạt: 射程外，无法反击（通用，1/1）
+> 「くそっ、こっからじゃ届かねぇか」
+"Chết tiệt, từ đây không thể liên lạc được."
+
+@17314 Chibodee · チボデー
+# Kích hoạt: 使用〈ギガンティックマグナム〉
+> 「シューッ!」
+"Kum-!"
+
+@17315 Chibodee · チボデー
+# Kích hoạt: 使用〈ギガンティックマグナム〉
+> 「ギガンテックマグナムゥ、シュート!」
+“Magnum khổng lồ, bắn đi!”
+
+@17316 Chibodee · チボデー
+# Kích hoạt: 使用〈サイクロンパンチ〉（低优先，可能被通用台词顶掉）
+> 「うぉぉぉサイクロンパンチィィィ!」
+"Ooooooh Nắm đấm lốc xoáy——!"
+
+@17317 Chibodee · チボデー
+# Kích hoạt: 使用〈バーニングパンチ〉
+> 「バーニングパンチ!」
+"Cú đấm đốt cháy!"
+
+@17318 Chibodee · チボデー
+# Kích hoạt: 使用〈バーニングパンチ〉
+> 「バーニングパンチ! シュゥトォォ!」
+"Cú đấm đốt cháy! Phóng—!"
+
+@17319 Chibodee · チボデー
+# Kích hoạt: 使用〈豪熱マシンガンパンチ〉
+> 「ゴウネェェツ、マシンガンンパァァンチッ!」
+“Hore, cú đấm súng máy——!”
+
+@17320 Chibodee · チボデー
+# Kích hoạt: 使用〈豪熱マシンガンパンチ〉
+> 「豪熱! マシンガン、パァァァンチィ!」
+"Hore! Súng máy, cú đấm—!"

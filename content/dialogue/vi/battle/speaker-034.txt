@@ -1,0 +1,159 @@
+# Bản dịch tiếng Việt Super Robot Wars 64
+# Định dạng và vị trí: docs/guide/dialogue-text.md
+
+@11768 Avie-Lu · アヴィ＝ルー
+# Kích hoạt: Tấn công (Chung，1/9）
+> 「さァ、アンタたちの力をみせてヨ」
+"Nào, để tôi xem cậu có khả năng gì."
+
+@11769 Avie-Lu · アヴィ＝ルー
+# Kích hoạt: Tấn công (Chung，2/9）
+> 「さァ、みせてごらんヨ、アタシに」
+"Nào, cho tôi xem."
+
+@11770 Avie-Lu · アヴィ＝ルー
+# Kích hoạt: Tấn công (Chung，3/9）
+> 「アンタたち、これが受けられるかイ」
+"Bạn có thể xử lý hành động này không?"
+
+@11771 Avie-Lu · アヴィ＝ルー
+# Kích hoạt: Tấn công (Chung，4/9）
+> 「いくヨ」
+"Lên."
+
+@11772 Avie-Lu · アヴィ＝ルー
+# Kích hoạt: Tấn công (Chung，5/9）
+> 「すぐに終わらせるヨ」
+“Tôi sẽ xử lý cậu ngay.”
+
+@11773 Avie-Lu · アヴィ＝ルー
+# Kích hoạt: Tấn công (Chung，6/9）
+> 「これでおしまいだネ」
+"Đó là nó."
+
+@11774 Avie-Lu · アヴィ＝ルー
+# Kích hoạt: Tấn công (Chung，7/9）
+> 「ほら……どうしたんだイ?」
+"Này... có chuyện gì thế?"
+
+@11775 Avie-Lu · アヴィ＝ルー
+# Kích hoạt: Tấn công (Chung，8/9）
+> 「残念だヨ」
+"Thật xấu hổ."
+
+@11776 Avie-Lu · アヴィ＝ルー
+# Kích hoạt: Tấn công (Chung，9/9）
+> 「クククッ、アタシの攻撃、
+>  受けてごらんヨ」
+“Hehehe, nếm thử đòn tấn công của tôi đi.”
+
+@11777 Avie-Lu · アヴィ＝ルー
+# Kích hoạt: 被击坠（通用，1/2）
+> 「な……なんだって!?」
+"Cái...cái gì! ? "
+
+@11778 Avie-Lu · アヴィ＝ルー
+# Kích hoạt: 被击坠（通用，2/2）
+> 「く……やっぱり、思ったとおりだネ……」
+"Chà...chính xác là những gì tôi mong đợi..."
+
+@11779 Avie-Lu · アヴィ＝ルー
+# Kích hoạt: 重伤（剩余 HP 不足 30%）（通用，1/3）
+> 「まだ……まだ終わりじゃないヨ……
+>  サァ、戦いなヨ!」
+"Không phải... vẫn chưa kết thúc... Cố lên, chiến đấu đi!"
+
+@11780 Avie-Lu · アヴィ＝ルー
+# Kích hoạt: 重伤（剩余 HP 不足 30%）（通用，2/3）
+> 「アウッ……この形態を
+>  維持しながらじゃ、もう無理か……」
+“À... Tôi không thể giữ được hình dạng này nữa…”
+
+@11781 Avie-Lu · アヴィ＝ルー
+# Kích hoạt: 重伤（剩余 HP 不足 30%）（通用，3/3）
+> 「ククククッ、おもしろいネ。
+>  やっぱりおもしろいヨ、アンタたち」
+"Hehehe, thú vị đấy. Các bạn thú vị thật đấy."
+
+@11782 Avie-Lu · アヴィ＝ルー
+# Kích hoạt: 中伤（剩余 HP 30–90%）（通用，1/3）
+> 「そう……そうだヨ。感じるヨ、
+>  お前たちの力……」
+"Đúng...chính là nó. Tôi cảm nhận được sức mạnh của bạn..."
+
+@11783 Avie-Lu · アヴィ＝ルー
+# Kích hoạt: 中伤（剩余 HP 30–90%）（通用，2/3）
+> 「さァ、もっと、もっと、力をだしなヨ。
+>  でないと、みんな死んでしまうヨ?」
+"Nào, sử dụng nhiều hơn, nhiều sức mạnh hơn. Nếu không tất cả các bạn sẽ chết."
+
+@11784 Avie-Lu · アヴィ＝ルー
+# Kích hoạt: 中伤（剩余 HP 30–90%）（通用，3/3）
+> 「く……すごいネ」
+"Hmm...thật tuyệt vời."
+
+@11785 Avie-Lu · アヴィ＝ルー
+# Kích hoạt: 轻伤（剩余 HP 90% 以上）（通用，1/3）
+> 「ククク……まだまだだヨ」
+"Hehehe... chúng ta vẫn còn xa lắm."
+
+@11786 Avie-Lu · アヴィ＝ルー
+# Kích hoạt: 轻伤（剩余 HP 90% 以上）（通用，2/3）
+> 「本気でやらないと……永劫の
+>  闇の中へ、消えてしまうヨ」
+"Nếu bạn không thể hiện kỹ năng thực sự của mình... bạn sẽ biến mất trong bóng tối của tai họa vĩnh viễn."
+
+@11787 Avie-Lu · アヴィ＝ルー
+# Kích hoạt: 轻伤（剩余 HP 90% 以上）（通用，3/3）
+> 「まさか……このまま終わるワケないよネ?」
+"Anh... mọi chuyện sẽ không kết thúc như thế này phải không?"
+
+@11788 Avie-Lu · アヴィ＝ルー
+# Kích hoạt: Né tránh（通用，1/3）
+> 「ホラホラ、どうしたんだイ」
+"Này, có chuyện gì thế?"
+
+@11789 Avie-Lu · アヴィ＝ルー
+# Kích hoạt: Né tránh（通用，2/3）
+> 「それではあたらないヨ」
+“Anh không thể đánh tôi theo cách đó.”
+
+@11790 Avie-Lu · アヴィ＝ルー
+# Kích hoạt: Né tránh（通用，3/3）
+> 「そんなもンじゃないだろう? アンタたちは」
+“Đó không phải là thứ duy nhất cậu có sao?”
+
+@11791 Avie-Lu · アヴィ＝ルー
+# Kích hoạt: Tấn công无效（护罩／装甲）（通用，1/1）
+> 「ばかめ」
+"Ngu ngốc."
+
+@11792 Avie-Lu · アヴィ＝ルー
+# Kích hoạt: 弹药／EN 不足，无法反击（通用，1/2）
+> 「エネルギーが……」
+"Năng lượng..."
+
+@11793 Avie-Lu · アヴィ＝ルー
+# Kích hoạt: 弹药／EN 不足，无法反击（通用，2/2）
+> 「いけない……これ以上、長引けば…」
+"Không...nếu chúng ta trì hoãn thêm nữa..."
+
+@11794 Avie-Lu · アヴィ＝ルー
+# Kích hoạt: 射程外，无法反击（通用，1/2）
+> 「へぇ……少しは考えているんダ」
+"Ồ...bạn phải vận dụng trí óc của mình một chút."
+
+@11795 Avie-Lu · アヴィ＝ルー
+# Kích hoạt: 射程外，无法反击（通用，2/2）
+> 「ククッ、やるじゃなイ」
+“Haha, chỉ mất vài giây thôi.”
+
+@16687 Avie-Lu · アヴィ＝ルー
+# Kích hoạt: 使用〈ギガフレア〉（低优先，可能被通用台词顶掉）
+> 「この炎に、耐えられるかイ」
+"Bạn có thể chịu được ngọn lửa này không?"
+
+@16688 Avie-Lu · アヴィ＝ルー
+# Kích hoạt: 使用〈カオスイリュージョン〉（低优先，可能被通用台词顶掉）
+> 「みせてあげるヨ、混沌の幻を」
+"Hãy để bạn nhìn thấy ảo ảnh của sự hỗn loạn."

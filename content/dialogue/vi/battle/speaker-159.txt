@@ -1,0 +1,133 @@
+# Bản dịch tiếng Việt Super Robot Wars 64
+# Định dạng và vị trí: docs/guide/dialogue-text.md
+
+@7393 Red · レッド
+# Kích hoạt: Tấn công (Chung，1/11）
+> 「ワハハハハハハハッ」
+"Wahahahahahahahaha!"
+
+@7394 Red · レッド
+# Kích hoạt: Tấn công (Chung，2/11）
+> 「ハッハッハッハッ」
+"Hahahaha."
+
+@7395 Red · レッド
+# Kích hoạt: Tấn công (Chung，3/11）
+> 「敵ではないわっ」
+"Không khớp chút nào!"
+
+@7396 Red · レッド
+# Kích hoạt: Tấn công (Chung，4/11）
+> 「踏み砕いてくれるわ」
+"Hãy xem tôi giẫm nát bạn thành từng mảnh."
+
+@7397 Red · レッド
+# Kích hoạt: Tấn công (Chung，5/11）
+> 「今度こそ死ねぇい!」
+"Lần này ta sẽ giết ngươi!"
+
+@7398 Red · レッド
+# Kích hoạt: Tấn công (Chung，6/11）
+> 「ワーッハッハッハッハッ」
+"Wow-hahahahaha!"
+
+@7399 Red · レッド
+# Kích hoạt: Tấn công (Chung，7/11）
+> 「ハッハッハッ、見よ!」
+"Ha ha, xem đi!"
+
+@7400 Red · レッド
+# Kích hoạt: Tấn công (Chung，8/11）
+> 「フッフッフッフッ」
+"Ừm ừm ừm."
+
+@7401 Red · レッド
+# Kích hoạt: Tấn công (Chung，9/11）
+> 「いまのうちだ」
+"Bây giờ."
+
+@7402 Red · レッド
+# Kích hoạt: Tấn công (Chung，10/11）
+> 「ククククククッ!」
+"Kick-kick-kick!"
+
+@7403 Red · レッド
+# Kích hoạt: Tấn công (Chung，11/11）
+> 「押しつぶしてやるわ!」
+"Xem ta đè bẹp ngươi!"
+
+@7404 Red · レッド
+# Kích hoạt: 被击坠（通用，1/1）
+> 「お、おのれぇぇぇっ!」
+"Nhưng, thật đáng ghét!"
+
+@7405 Red · レッド
+# Kích hoạt: 重伤（剩余 HP 不足 30%）（通用，1/3）
+> 「まさかこれほどのものとはっ!」
+"Không ngờ lại có năng lực như vậy!"
+
+@7406 Red · レッド
+# Kích hoạt: 重伤（剩余 HP 不足 30%）（通用，2/3）
+> 「お、おのれぇぇぇっ!」
+"Nhưng, thật đáng ghét!"
+
+@7407 Red · レッド
+# Kích hoạt: 重伤（剩余 HP 不足 30%）（通用，3/3）
+> 「くっ、さすがの十傑集も
+>  こうなってはっ!」
+“Chà, dù có tập hợp mười anh hùng đi chăng nữa thì cũng vẫn như thế này…!”
+
+@7408 Red · レッド
+# Kích hoạt: 中伤（剩余 HP 30–90%）（通用，1/4）
+> 「なぁにぃっ!?」
+"Cái gì!?"
+
+@7409 Red · レッド
+# Kích hoạt: 中伤（剩余 HP 30–90%）（通用，2/4）
+> 「おのれっ!」
+"Chết tiệt!"
+
+@7410 Red · レッド
+# Kích hoạt: 中伤（剩余 HP 30–90%）（通用，3/4）
+> 「なにをこしゃくな」
+"Sao ngươi dám thông minh như vậy."
+
+@7411 Red · レッド
+# Kích hoạt: 中伤（剩余 HP 30–90%）（通用，4/4）
+> 「ええぃ!」
+"Chết tiệt!"
+
+@7412 Red · レッド
+# Kích hoạt: 轻伤（剩余 HP 90% 以上）（通用，1/3）
+> 「クククククッ」
+"Grrrrrrr."
+
+@7413 Red · レッド
+# Kích hoạt: 轻伤（剩余 HP 90% 以上）（通用，2/3）
+> 「ハハハハハハッ」
+"Hahahahaha!"
+
+@7414 Red · レッド
+# Kích hoạt: 轻伤（剩余 HP 90% 以上）（通用，3/3）
+> 「この程度か」
+“Đó là tất cả những gì cậu có thể làm à?”
+
+@7415 Red · レッド
+# Kích hoạt: Né tránh（通用，1/1）
+> 「当たらんよ!」
+"Bạn không thể đánh nó!"
+
+@7416 Red · レッド
+# Kích hoạt: Tấn công无效（护罩／装甲）（通用，1/1）
+> 「お、おのれぇぇぇっ!」
+"Nhưng, thật đáng ghét!"
+
+@7417 Red · レッド
+# Kích hoạt: 弹药／EN 不足，无法反击（通用，1/1）
+> 「お、おのれぇぇぇっ!」
+"Nhưng, thật đáng ghét!"
+
+@7418 Red · レッド
+# Kích hoạt: 射程外，无法反击（通用，1/1）
+> 「おのれ届かぬとはっ!」
+"Chết tiệt, tôi thậm chí còn không thể chạm tới nó!"

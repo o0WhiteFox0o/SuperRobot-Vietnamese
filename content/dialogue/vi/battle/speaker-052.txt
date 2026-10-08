@@ -1,0 +1,324 @@
+# Bản dịch tiếng Việt Super Robot Wars 64
+# Định dạng và vị trí: docs/guide/dialogue-text.md
+
+@5846 Gato · ガトー
+# Kích hoạt: Tấn công (Chung，1/19）
+> 「これでとどめだっ!」
+"Đòn này sẽ kết thúc nó!"
+
+@5847 Gato · ガトー
+# Kích hoạt: Tấn công (Chung，2/19）
+> 「私のじゃまをするなっ!!」
+“Đừng cản đường tôi!!”
+
+@5848 Gato · ガトー
+# Kích hoạt: Tấn công (Chung，3/19）
+> 「私は負けん!!
+>  私は義によって立っているからな!!」
+"Tôi sẽ không thua!! Bởi vì tôi chiến đấu vì công lý!!"
+
+@5849 Gato · ガトー
+# Kích hoạt: Tấn công (Chung，4/19）
+> 「当ててみせる!!」
+"Tôi chắc chắn sẽ đánh nó!!"
+
+@5850 Gato · ガトー
+# Kích hoạt: Tấn công (Chung，5/19）
+> 「あまいなっ!!」
+"Thật ngây thơ!!"
+
+@5851 Gato · ガトー
+# Kích hoạt: Tấn công (Chung，6/19）
+> 「なめるなっ!!」
+"Đừng đánh giá thấp tôi!!"
+
+@5852 Gato · ガトー
+# Kích hoạt: Tấn công (Chung，7/19）
+> 「おそいっ!!」
+"Quá chậm!!"
+
+@5853 Gato · ガトー
+# Kích hoạt: Tấn công (Chung，8/19）
+> 「やらせんっ!!」
+"Đừng nghĩ tới chuyện đó nữa!!"
+
+@5854 Gato · ガトー
+# Kích hoạt: Tấn công (Chung，9/19）
+> 「じゃまだっ!!」
+"Trên đường đi!!"
+
+@5855 Gato · ガトー
+# Kích hoạt: Tấn công (Chung，10/19）
+> 「もらったっ!!」
+"Thành công!!"
+
+@5856 Gato · ガトー
+# Kích hoạt: Tấn công (Chung，11/19）
+> 「そこだっ!!」
+“Chính là nó!!”
+
+@5857 Gato · ガトー
+# Kích hoạt: Tấn công (Chung，12/19）
+> 「手間取るわけにはいかぬ!」
+"Không thể lãng phí thời gian ở đây!"
+
+@5858 Gato · ガトー
+# Kích hoạt: Tấn công (Chung，13/19）
+> 「落ちろっ!!」
+"Thả tôi xuống!!"
+
+@5859 Gato · ガトー
+# Kích hoạt: Tấn công (Chung，14/19）
+> 「しずめぇーっ!!」
+“Chìm xuống—!!”
+
+@5860 Gato · ガトー
+# Kích hoạt: Tấn công (Chung，15/19）
+> 「後退せんのか。よい覚悟だ!」
+"Ngươi không định rút lui sao? Thật dũng cảm!"
+
+@5861 Gato · ガトー
+# Kích hoạt: Tấn công (Chung，16/19）
+> 「このっ!!」
+"Anh bạn!!"
+
+@5862 Gato · ガトー
+# Kích hoạt: Tấn công (Chung，17/19）
+> 「邪魔をするなーっ!!」
+“Đừng cản đường-!!”
+
+@5863 Gato · ガトー
+# Kích hoạt: Tấn công (Chung，18/19）
+> 「どけいっ!!」
+"Tránh xa ra!!"
+
+@5864 Gato · ガトー
+# Kích hoạt: Tấn công (Chung，19/19）
+> 「直撃させるっ!!」
+"Hãy để bạn ăn hết mình!!"
+
+@5865 Gato · ガトー
+# Kích hoạt: 被击坠（通用，1/5）
+> 「くっ! ぬかった!!」
+"Ugh! Tôi đã bất cẩn!!"
+
+@5866 Gato · ガトー
+# Kích hoạt: 被击坠（通用，2/5）
+> 「くっ!! ここまでか!!」
+"Hmm!! Thế là xong rồi à?!"
+
+@5867 Gato · ガトー
+# Kích hoạt: 被击坠（通用，3/5）
+> 「なんだと!?」
+"Cái gì!?"
+
+@5868 Gato · ガトー
+# Kích hoạt: 被击坠（通用，4/5）
+> 「ぐうぅぅっ!!」
+"Ờ-huh!!"
+
+@5869 Gato · ガトー
+# Kích hoạt: 被击坠（通用，5/5）
+> 「南無三!」
+"Trời sẽ giết tôi!"
+
+@5870 Gato · ガトー
+# Kích hoạt: 重伤（剩余 HP 不足 30%）（通用，1/5）
+> 「ちいっ!!
+>  このままでは機体がもたん!」
+"Tsk!! Máy không thể giữ vững như thế này được!"
+
+@5871 Gato · ガトー
+# Kích hoạt: 重伤（剩余 HP 不足 30%）（通用，2/5）
+> 「な、なんと……バカなっ!」
+"C-cái gì...làm sao có thể!"
+
+@5872 Gato · ガトー
+# Kích hoạt: 重伤（剩余 HP 不足 30%）（通用，3/5）
+> 「うおっ! バカな、
+>  この私がおされているだと!?」
+"Ồ! Làm sao có thể là ta bị trấn áp!?"
+
+@5873 Gato · ガトー
+# Kích hoạt: 重伤（剩余 HP 不足 30%）（通用，4/5）
+> 「むうっ!! ダメージを受けすぎたか!?」
+"Ugh!! Có đau quá không!?"
+
+@5874 Gato · ガトー
+# Kích hoạt: 重伤（剩余 HP 不足 30%）（通用，5/5）
+> 「くっ!! しかし、まだやられはせん!」
+"Hmm!! Nhưng tôi vẫn chưa ngã đâu!"
+
+@5875 Gato · ガトー
+# Kích hoạt: 中伤（剩余 HP 30–90%）（通用，1/8）
+> 「むうっ! や、やるな!」
+"Chà! Vâng, có một vài khoảnh khắc!"
+
+@5876 Gato · ガトー
+# Kích hoạt: 中伤（剩余 HP 30–90%）（通用，2/8）
+> 「こんなもので、落ちはしない!」
+"Tôi sẽ không rơi xuống ở cấp độ này!"
+
+@5877 Gato · ガトー
+# Kích hoạt: 中伤（剩余 HP 30–90%）（通用，3/8）
+> 「ぐ!
+>  この私に手傷を負わせるとは……」
+"Ugh! Cậu thực sự có thể khiến tôi bị thương đấy..."
+
+@5878 Gato · ガトー
+# Kích hoạt: 中伤（剩余 HP 30–90%）（通用，4/8）
+> 「うっ! 少しはやるようだな……」
+"Hmm! Có vẻ như cậu vẫn còn chút thời gian..."
+
+@5879 Gato · ガトー
+# Kích hoạt: 中伤（剩余 HP 30–90%）（通用，5/8）
+> 「ぬうっ!! まだまだあっ!!」
+"Hmm!! Vẫn còn sớm mà!!"
+
+@5880 Gato · ガトー
+# Kích hoạt: 中伤（剩余 HP 30–90%）（通用，6/8）
+> 「うおっ!! これしきのことで!!」
+"Ồ!! Vết thương nhỏ này không là gì cả!"
+
+@5881 Gato · ガトー
+# Kích hoạt: 中伤（剩余 HP 30–90%）（通用，7/8）
+> 「くっ!!
+>  だが、この程度ならば!!」
+"Hmm!! Nhưng tôi vẫn có thể chịu đựng được vết thương nhỏ này!!"
+
+@5882 Gato · ガトー
+# Kích hoạt: 中伤（剩余 HP 30–90%）（通用，8/8）
+> 「くっ、情けない! これほどの
+>  損傷を受けるとは!」
+"Chà, thật là xấu hổ! Nó bị thương quá!"
+
+@5883 Gato · ガトー
+# Kích hoạt: 轻伤（剩余 HP 90% 以上）（通用，1/6）
+> 「そんなものか!!」
+“Đó là tất cả những gì cậu có à?”
+
+@5884 Gato · ガトー
+# Kích hoạt: 轻伤（剩余 HP 90% 以上）（通用，2/6）
+> 「たかがかすりキズだ!」
+"Chỉ là một vết xước thôi!"
+
+@5885 Gato · ガトー
+# Kích hoạt: 轻伤（剩余 HP 90% 以上）（通用，3/6）
+> 「効きはせん!!」
+“Nó không có tác dụng gì cả!!”
+
+@5886 Gato · ガトー
+# Kích hoạt: 轻伤（剩余 HP 90% 以上）（通用，4/6）
+> 「貴様の攻撃など、しょせん
+>  蟷螂の斧!」
+“Suy cho cùng, đòn tấn công của ngươi chỉ là một con bọ ngựa đang cố gắng sử dụng cánh tay của nó như một cỗ xe mà thôi!”
+
+@5887 Gato · ガトー
+# Kích hoạt: 轻伤（剩余 HP 90% 以上）（通用，5/6）
+> 「ぬうっ!! まだだ! まだやられはせん!」
+"Ugh!! Vẫn chưa kết thúc đâu! Tôi sẽ không ngã xuống đâu!"
+
+@5888 Gato · ガトー
+# Kích hoạt: 轻伤（剩余 HP 90% 以上）（通用，6/6）
+> 「まだまだだな!!」
+"Bạn vẫn còn ở rất xa!!"
+
+@5889 Gato · ガトー
+# Kích hoạt: Né tránh（通用，1/8）
+> 「ふっ、笑止!」
+"Hừm, thật buồn cười!"
+
+@5890 Gato · ガトー
+# Kích hoạt: Né tránh（通用，2/8）
+> 「そこかっ!」
+"Nó ở đó!"
+
+@5891 Gato · ガトー
+# Kích hoạt: Né tránh（通用，3/8）
+> 「見切った!!」
+"Nhìn thấu!!"
+
+@5892 Gato · ガトー
+# Kích hoạt: Né tránh（通用，4/8）
+> 「その程度の攻撃、
+>  見切れぬ私と思ってかっ!」
+"Bạn có nghĩ rằng tôi không thể nhìn thấu được kiểu tấn công này không?"
+
+@5893 Gato · ガトー
+# Kích hoạt: Né tránh（通用，5/8）
+> 「あまいなっ!」
+"Thật ngây thơ!"
+
+@5894 Gato · ガトー
+# Kích hoạt: Né tránh（通用，6/8）
+> 「間合いがあまいっ!」
+"Tôi không biết rõ khoảng cách!"
+
+@5895 Gato · ガトー
+# Kích hoạt: Né tránh（通用，7/8）
+> 「あたりはせんよ!」
+"Bạn không thể đánh nó!"
+
+@5896 Gato · ガトー
+# Kích hoạt: Né tránh（通用，8/8）
+> 「未熟!」
+"Quá dịu dàng!"
+
+@5897 Gato · ガトー
+# Kích hoạt: Tấn công无效（护罩／装甲）（通用，1/4）
+> 「効かぬわっ!」
+"Nó không có tác dụng gì cả!"
+
+@5898 Gato · ガトー
+# Kích hoạt: Tấn công无效（护罩／装甲）（通用，2/4）
+> 「効かんよ!その程度ではな!」
+"Không có tác dụng! Chỉ cần dựa vào năng lực này!"
+
+@5899 Gato · ガトー
+# Kích hoạt: Tấn công无效（护罩／装甲）（通用，3/4）
+> 「フン、その程度の攻撃!!」
+"Hmph, đây chỉ là một cuộc tấn công thôi!!"
+
+@5900 Gato · ガトー
+# Kích hoạt: Tấn công无效（护罩／装甲）（通用，4/4）
+> 「ビームなど効かん!」
+"Chỉ là một tia sáng thôi, không có tác dụng gì đâu!"
+
+@5901 Gato · ガトー
+# Kích hoạt: 弹药／EN 不足，无法反击（通用，1/2）
+> 「何っ!? 弾切れだというのか!?」
+"Cái gì!? Hết đạn!?"
+
+@5902 Gato · ガトー
+# Kích hoạt: 弹药／EN 不足，无法反击（通用，2/2）
+> 「くっ! だめか!?」
+"Ừm! Không thể được à?"
+
+@5903 Gato · ガトー
+# Kích hoạt: 射程外，无法反击（通用，1/1）
+> 「くっ!
+>  射程距離外からの攻撃とはな」
+"Ugh! Nó đến từ bên ngoài trường bắn."
+
+@14228 Gato · ガトー
+# Kích hoạt: 使用〈ハイメガキャノン〉（低优先，可能被通用台词顶掉）
+> 「エネルギー充填……
+>  ハイメガキャノン発射!」
+"Nạp năng lượng...Mega Cannon năng lượng cao, khai hỏa!"
+
+@14229 Gato · ガトー
+# Kích hoạt: Né tránh，条件 1000
+> 「ダミーごときにかかるとは……未熟!」
+"Ta thậm chí có thể dùng mồi nhử đánh lừa ngươi... Còn trẻ như vậy!"
+
+@14230 Gato · ガトー
+# Kích hoạt: Né tránh，条件 1000
+> 「ときには、このような手も使わせて
+>  もらう!」
+"Thỉnh thoảng bạn phải sử dụng phương pháp này!"
+
+@14231 Gato · ガトー
+# Kích hoạt: Né tránh，条件 1000
+> 「甘いな! それではダミーをつぶす
+>  程度しかできん!」
+"Quá ngây thơ! Như vậy chỉ có thể giết chết mồi!"

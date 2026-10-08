@@ -1,0 +1,95 @@
+# Bản dịch tiếng Việt Super Robot Wars 64
+# Định dạng và vị trí: docs/guide/dialogue-text.md
+
+@10632 Emary · エマリー
+# Kích hoạt: Tấn công (Chung，1/3）
+> 「見ててください、ブライト艦長」
+"Xin hãy xem, Thuyền trưởng Bright."
+
+@10633 Emary · エマリー
+# Kích hoạt: Tấn công (Chung，2/3）
+> 「やらせませんよ!」
+"Tôi sẽ không để bạn thành công!"
+
+@10634 Emary · エマリー
+# Kích hoạt: Tấn công (Chung，3/3）
+> 「ブライト艦長、私、やります!」
+"Đội trưởng Bright, tôi đến đây!"
+
+@10635 Emary · エマリー
+# Kích hoạt: 被击坠（通用，1/1）
+> 「ブライトォォォーッ!」
+“Sáng—!”
+
+@10636 Emary · エマリー
+# Kích hoạt: 重伤（剩余 HP 不足 30%）（通用，1/2）
+> 「あぁぁーっ!?
+>  ブライト艦長、守ってください!」
+"A——!? Đội trưởng Bright, xin hãy bảo vệ tôi!"
+
+@10637 Emary · エマリー
+# Kích hoạt: 重伤（剩余 HP 不足 30%）（通用，2/2）
+> 「きゃあぁぁぁぁぁぁーっ!」
+"Ahhhhhhhhh-!"
+
+@10638 Emary · エマリー
+# Kích hoạt: 中伤（剩余 HP 30–90%）（通用，1/2）
+> 「ど、どうしましょう!?」
+"Cái, tôi nên làm gì đây!?"
+
+@10639 Emary · エマリー
+# Kích hoạt: 中伤（剩余 HP 30–90%）（通用，2/2）
+> 「あうぅっ! ブ、ブライト艦長……」
+"Aw! Đội trưởng B-Bright..."
+
+@10640 Emary · エマリー
+# Kích hoạt: 轻伤（剩余 HP 90% 以上）（通用，1/2）
+> 「あたったの!?」
+"Đánh!?"
+
+@10641 Emary · エマリー
+# Kích hoạt: 轻伤（剩余 HP 90% 以上）（通用，2/2）
+> 「ひ、被害状況は!?」
+“Thiệt hại thế nào?”
+
+@10642 Emary · エマリー
+# Kích hoạt: Né tránh（通用，1/1）
+> 「はずれた!?」
+"Bỏ lỡ!?"
+
+@10643 Emary · エマリー
+# Kích hoạt: Tấn công无效（护罩／装甲）（通用，1/1）
+> 「ど、どうしましょう!?」
+"Cái, tôi nên làm gì đây!?"
+
+@10644 Emary · エマリー
+# Kích hoạt: 弹药／EN 不足，无法反击（通用，1/1）
+> 「ど、どうしましょう!?」
+"Cái, tôi nên làm gì đây!?"
+
+@10645 Emary · エマリー
+# Kích hoạt: 射程外，无法反击（通用，1/1）
+> 「あ、あんな所から攻撃してくるの!?」
+"Gọi từ, từ rất xa!?"
+
+@16324 Emary · エマリー
+# Kích hoạt: 使用〈ビーム砲〉（低优先，可能被通用台词顶掉）
+> 「前方、弾幕うすいぞ!
+>  ……なんてね」
+“Hàng rào phía trước quá mỏng!…Tôi chỉ đùa thôi.”
+
+@16325 Emary · エマリー
+# Kích hoạt: 使用〈対空機関砲／対空砲〉（低优先，可能被通用台词顶掉）
+> 「対空砲火用意!
+>  ダミーだして!」
+"Chuẩn bị hỏa lực phòng không! Thả mồi nhử!"
+
+@16326 Emary · エマリー
+# Kích hoạt: 使用〈対空機関砲／対空砲〉（低优先，可能被通用台词顶掉）
+> 「と、とりあえず対空砲火を!」
+"Dù sao thì trước tiên hãy bắn hỏa lực phòng không!"
+
+@16327 Emary · エマリー
+# Kích hoạt: 使用〈ドッキングアーム〉（低优先，可能被通用台词顶掉）
+> 「アームを切り放して!」
+"Cắt cánh tay đi!"

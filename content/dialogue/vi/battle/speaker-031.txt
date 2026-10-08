@@ -1,0 +1,638 @@
+# Bản dịch tiếng Việt Super Robot Wars 64
+# Định dạng và vị trí: docs/guide/dialogue-text.md
+
+@11567 Kurtz · カーツ
+# Kích hoạt: Tấn công (Chung，1/9）
+> 「目障りだ、消えろ!」
+"Thật chướng mắt, biến đi!"
+
+@11568 Kurtz · カーツ
+# Kích hoạt: Tấn công (Chung，2/9）
+> 「野郎っ!」
+"Đồ khốn!"
+
+@11569 Kurtz · カーツ
+# Kích hoạt: Tấn công (Chung，3/9）
+> 「俺の一撃を受けろっ!」
+"Hãy nhận một đòn từ tôi!"
+
+@11570 Kurtz · カーツ
+# Kích hoạt: Tấn công (Chung，4/9）
+> 「みやがれ!」
+"Xem động tác!"
+
+@11571 Kurtz · カーツ
+# Kích hoạt: Tấn công (Chung，5/9）
+> 「くらいやがれ!」
+"Ăn chiêu của tôi đi!"
+
+@11572 Kurtz · カーツ
+# Kích hoạt: Tấn công (Chung，6/9）
+> 「はぁぁぁーっ!」
+"Haaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaa!"
+
+@11573 Kurtz · カーツ
+# Kích hoạt: Tấn công (Chung，7/9）
+> 「俺の目の前から消え失せろ!」
+"Biến khỏi tầm mắt của tôi!"
+
+@11574 Kurtz · カーツ
+# Kích hoạt: Tấn công (Chung，8/9）
+> 「邪魔だ!」
+"Tránh ra!"
+
+@11575 Kurtz · カーツ
+# Kích hoạt: Tấn công (Chung，9/9）
+> 「貴様にこれが受けきれるか!」
+"Bạn có thể xử lý hành động này không?"
+
+@11576 Kurtz · カーツ
+# Kích hoạt: 被击坠（通用，1/4）
+> 「おおぉぉあぁぉぉーっ!」
+"Ồhhhhhhhhh-!"
+
+@11577 Kurtz · カーツ
+# Kích hoạt: 被击坠（通用，2/4）
+> 「おぉぉぉぉぉぉーっ!?
+>  認めん! 俺は認めんぞぉっ!」
+"Ồ ồ ồ ồ ồ -!? Tôi không thừa nhận! Tôi sẽ không bao giờ thừa nhận!"
+
+@11578 Kurtz · カーツ
+# Kích hoạt: 被击坠（通用，3/4）
+> 「くっそぉぉぉぉーっ!」
+"Chết tiệt!"
+
+@11579 Kurtz · カーツ
+# Kích hoạt: 被击坠（通用，4/4）
+> 「くっ!
+>  俺の修行が足りんというのかぁっ!?」
+"Hmm! Có phải là do tôi luyện tập chưa đủ không!?"
+
+@11580 Kurtz · カーツ
+# Kích hoạt: 重伤（剩余 HP 不足 30%）（通用，1/9）
+> 「き、貴っ様ぁぁーっ!」
+"Anh, anh, ahhhh-!"
+
+@11581 Kurtz · カーツ
+# Kích hoạt: 重伤（剩余 HP 不足 30%）（通用，2/9）
+> 「がはぁっ!」
+"Ờ-huh! "
+
+@11582 Kurtz · カーツ
+# Kích hoạt: 重伤（剩余 HP 不足 30%）（通用，3/9）
+> 「げ、限界だというのか!? だが、この
+>  俺に後退の二文字はないっ!」
+"Khó lắm à, đã đến giới hạn rồi sao!? Nhưng trong từ điển của tôi không có từ"trở lại"!"
+
+@11583 Kurtz · カーツ
+# Kích hoạt: 重伤（剩余 HP 不足 30%）（通用，4/9）
+> 「まだだ! まだ終わってたまるか!」
+"Còn chưa kết thúc! Làm sao có thể kết thúc ở đây!"
+
+@11584 Kurtz · カーツ
+# Kích hoạt: 重伤（剩余 HP 不足 30%）（通用，5/9）
+> 「うおぉぉぉぉっ!?」
+"Uuuuuuuuuuuuuuuuuuuuu!?"
+
+@11585 Kurtz · カーツ
+# Kích hoạt: 重伤（剩余 HP 不足 30%）（通用，6/9）
+> 「ぐぅぅ……
+>  ざけんじゃねぇ、俺は負けんぞ!!」
+"Uh-huh...bạn đùa à, tôi sẽ không thua đâu!!"
+
+@11586 Kurtz · カーツ
+# Kích hoạt: 重伤（剩余 HP 不足 30%）（通用，7/9）
+> 「くっ……
+>  こ、この俺をここまで追い詰める!?」
+"Ừm...cậu thực sự đã ép tôi đến mức này sao!?"
+
+@11587 Kurtz · カーツ
+# Kích hoạt: 重伤（剩余 HP 不足 30%）（通用，8/9）
+> 「うおぉぉーっ!?
+>  退かぬ! 俺は退かぬぞ!」
+"Uuuuuuu——!? Không được rút lui! Tôi sẽ không bao giờ rút lui!"
+
+@11588 Kurtz · カーツ
+# Kích hoạt: 重伤（剩余 HP 不足 30%）（通用，9/9）
+> 「や、やらせはしねぇ……絶対に!」
+"Đừng, đừng nghĩ tới thành công... Tuyệt đối đừng nghĩ tới!"
+
+@11589 Kurtz · カーツ
+# Kích hoạt: 中伤（剩余 HP 30–90%）（通用，1/9）
+> 「ぐ、ふざけろよぉテメェ!」
+"Này, cậu đang đùa tôi à, đồ khốn!"
+
+@11590 Kurtz · カーツ
+# Kích hoạt: 中伤（剩余 HP 30–90%）（通用，2/9）
+> 「やるっ、だがそれだけではっ!」
+"Có đôi lần, nhưng chỉ thế này thôi thì chưa đủ!"
+
+@11591 Kurtz · カーツ
+# Kích hoạt: 中伤（剩余 HP 30–90%）（通用，3/9）
+> 「そうだ! もっと攻めてこいっ!」
+"Đúng vậy! Hãy để ngựa lại tới!"
+
+@11592 Kurtz · カーツ
+# Kích hoạt: 中伤（剩余 HP 30–90%）（通用，4/9）
+> 「野郎っ! このカリは返すぜぇ!」
+"Thằng khốn nạn! Tôi đã ghi lại tài khoản này!"
+
+@11593 Kurtz · カーツ
+# Kích hoạt: 中伤（剩余 HP 30–90%）（通用，5/9）
+> 「おぉ!? くそぉ!」
+"Ồ!? Chết tiệt!"
+
+@11594 Kurtz · カーツ
+# Kích hoạt: 中伤（剩余 HP 30–90%）（通用，6/9）
+> 「なに!? この俺がくらっただと!?」
+"Cái gì!? Tôi bị đánh!?"
+
+@11595 Kurtz · カーツ
+# Kích hoạt: 中伤（剩余 HP 30–90%）（通用，7/9）
+> 「く、なるほど……
+>  この俺が相手をする価値はあるな」
+"Chà, tôi hiểu rồi...bạn xứng đáng với hành động cá nhân của tôi."
+
+@11596 Kurtz · カーツ
+# Kích hoạt: 中伤（剩余 HP 30–90%）（通用，8/9）
+> 「バカな!?
+>  この俺がもろにくらっただと!?」
+"Không thể nào!? Tôi thực sự đã nhận phải một đòn nặng nề!?"
+
+@11597 Kurtz · カーツ
+# Kích hoạt: 中伤（剩余 HP 30–90%）（通用，9/9）
+> 「なに!?
+>  ぐ……動きが読めなかったのか!?」
+"Cái gì!? Ừm...Tôi không nhìn thấu hành động của đối phương!?"
+
+@11598 Kurtz · カーツ
+# Kích hoạt: 轻伤（剩余 HP 90% 以上）（通用，1/10）
+> 「ククク、効かん、効かんぞ!」
+"Ha ha, vô dụng, không có tác dụng!"
+
+@11599 Kurtz · カーツ
+# Kích hoạt: 轻伤（剩余 HP 90% 以上）（通用，2/10）
+> 「そんなことでは俺は倒せん!」
+"Chỉ với khả năng này, bạn thậm chí không thể nghĩ đến việc đánh bại tôi!"
+
+@11600 Kurtz · カーツ
+# Kích hoạt: 轻伤（剩余 HP 90% 以上）（通用，3/10）
+> 「くっ、貴様ごときがっ!
+>  邪魔をするなぁ!!」
+"Chà, nó chỉ là thứ giống như bạn thôi! Đừng cản đường!!"
+
+@11601 Kurtz · カーツ
+# Kích hoạt: 轻伤（剩余 HP 90% 以上）（通用，4/10）
+> 「それがどうしたっ!」
+"Vậy thì sao!"
+
+@11602 Kurtz · カーツ
+# Kích hoạt: 轻伤（剩余 HP 90% 以上）（通用，5/10）
+> 「ハハハハハハハッ!」
+"Hahahahaha!"
+
+@11603 Kurtz · カーツ
+# Kích hoạt: 轻伤（剩余 HP 90% 以上）（通用，6/10）
+> 「どうやら死にたいらしいな!」
+"Xem ra ngươi chán sống rồi!"
+
+@11604 Kurtz · カーツ
+# Kích hoạt: 轻伤（剩余 HP 90% 以上）（通用，7/10）
+> 「フン、貴様のようなザコにどうにか
+>  できるとでも、思ったか」
+"Hừm, ngươi cho rằng ngươi có thể đối phó được với ta ngay cả với một tên khốn như ngươi sao?"
+
+@11605 Kurtz · カーツ
+# Kích hoạt: 轻伤（剩余 HP 90% 以上）（通用，8/10）
+> 「弱い、弱すぎる!
+>  貴様では相手にならん!」
+"Yếu, quá yếu! Ngươi căn bản không xứng làm đối thủ của ta!"
+
+@11606 Kurtz · カーツ
+# Kích hoạt: 轻伤（剩余 HP 90% 以上）（通用，9/10）
+> 「フッ、笑わせてくれる」
+"Hừ, thật buồn cười."
+
+@11607 Kurtz · カーツ
+# Kích hoạt: 轻伤（剩余 HP 90% 以上）（通用，10/10）
+> 「それほど死にたいのなら、望み通りに
+>  してやる!」
+"Đã muốn chết như vậy, vậy thì cứ làm theo ý mình đi!"
+
+@11608 Kurtz · カーツ
+# Kích hoạt: Né tránh（通用，1/8）
+> 「当たらん!」
+"Bỏ lỡ!"
+
+@11609 Kurtz · カーツ
+# Kích hoạt: Né tránh（通用，2/8）
+> 「遅い!」
+"Quá chậm!"
+
+@11610 Kurtz · カーツ
+# Kích hoạt: Né tránh（通用，3/8）
+> 「ハハハッ、どこを狙っている!?」
+"Hahaha, cậu định đánh vào đâu thế!?"
+
+@11611 Kurtz · カーツ
+# Kích hoạt: Né tránh（通用，4/8）
+> 「甘すぎる!」
+"Quá dịu dàng!"
+
+@11612 Kurtz · カーツ
+# Kích hoạt: Né tránh（通用，5/8）
+> 「貴様の技など通じん!」
+"Những bước đi của bạn đối với tôi đều vô dụng!"
+
+@11613 Kurtz · カーツ
+# Kích hoạt: Né tránh（通用，6/8）
+> 「笑止っ!」
+"Nực cười!"
+
+@11614 Kurtz · カーツ
+# Kích hoạt: Né tránh（通用，7/8）
+> 「クズが。貴様ごときは俺に触れる
+>  ことすらできん!」
+"Rác rưởi. Cậu thậm chí không thể chạm vào tôi bằng thứ như cậu!"
+
+@11615 Kurtz · カーツ
+# Kích hoạt: Né tránh（通用，8/8）
+> 「貴様の技、見切ったぞ」
+“Tôi đã nhìn thấu hành động của cậu.”
+
+@11616 Kurtz · カーツ
+# Kích hoạt: Tấn công无效（护罩／装甲）（通用，1/5）
+> 「クククッ、どうやらムダだということが
+>  理解できないようだな」
+"Ha ha, xem ra ngươi còn không hiểu đây là lãng phí công sức."
+
+@11617 Kurtz · カーツ
+# Kích hoạt: Tấn công无效（护罩／装甲）（通用，2/5）
+> 「やるだけムダだな」
+“Dù có cố gắng thế nào đi chăng nữa, tất cả đều vô ích.”
+
+@11618 Kurtz · カーツ
+# Kích hoạt: Tấn công无效（护罩／装甲）（通用，3/5）
+> 「貴様の技など俺には効かぬ!」
+"Những chiêu thức của bạn không có tác dụng với tôi!"
+
+@11619 Kurtz · カーツ
+# Kích hoạt: Tấn công无效（护罩／装甲）（通用，4/5）
+> 「しつこいぞ、貴様」
+"Ngươi thật là kiên trì."
+
+@11620 Kurtz · カーツ
+# Kích hoạt: Tấn công无效（护罩／装甲）（通用，5/5）
+> 「なんの真似だ?」
+“Anh đang giở trò gì thế?”
+
+@11621 Kurtz · カーツ
+# Kích hoạt: 弹药／EN 不足，无法反击（通用，1/2）
+> 「おのれぇ……ぬかったか!」
+"Chết tiệt... cậu bất cẩn phải không?"
+
+@11622 Kurtz · カーツ
+# Kích hoạt: 弹药／EN 不足，无法反击（通用，2/2）
+> 「くっ……ばかな!
+>  反撃できんというのかぁ!!」
+"Ư...không thể nào! Tôi không thể đánh trả được!!"
+
+@11623 Kurtz · カーツ
+# Kích hoạt: 射程外，无法反击（通用，1/3）
+> 「卑怯者め!」
+"Đồ phản diện đáng ghét!"
+
+@11624 Kurtz · カーツ
+# Kích hoạt: 射程外，无法反击（通用，2/3）
+> 「くっ、そんなに俺が恐いのか!?」
+"Hừ, ngươi sợ ta như vậy sao!?"
+
+@11625 Kurtz · カーツ
+# Kích hoạt: 射程外，无法反击（通用，3/3）
+> 「フン、俺に近寄れんのか!?」
+"Hmph, cậu thậm chí còn không thể đến gần tôi!?"
+
+@16513 Kurtz · カーツ
+# Kích hoạt: 对手驾驶员〈ブラッド〉
+> 「くらいやがれ!」
+"Ăn chiêu của tôi đi!"
+
+@16514 Kurtz · カーツ
+# Kích hoạt: 对手驾驶员〈ブラッド〉
+> 「はぁぁぁーっ!」
+"Haaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaa!"
+
+@16515 Kurtz · カーツ
+# Kích hoạt: 对手驾驶员〈ブラッド〉
+> 「{HeroName}!
+>  貴様にこれが受けきれるか!」
+"{HeroName}! Bạn có thể xử lý được chiêu này không!"
+
+@16516 Kurtz · カーツ
+# Kích hoạt: 对手驾驶员〈ブラッド〉
+> 「貴様をここで倒してみせる!」
+“Tôi sẽ hạ gục anh ngay tại đây!”
+
+@16517 Kurtz · カーツ
+# Kích hoạt: 对手驾驶员〈ブラッド〉
+> 「{HeroName}!
+>  俺の技をくらってみろ!!」
+"{HeroName}! Hãy thử chiêu thức của tôi đi!!"
+
+@16518 Kurtz · カーツ
+# Kích hoạt: 对手驾驶员〈ブラッド〉
+> 「フン、動きが甘いぞ、{HeroName}!」
+"Hừm, hành động có quá nhiều sai sót, {HeroName}!"
+
+@16519 Kurtz · カーツ
+# Kích hoạt: 对手驾驶员〈ブラッド〉
+> 「貴様の動きなど、読むまでもない!」
+"Không cần phải bận tâm đến việc nhìn thấu hành động của bạn!"
+
+@16520 Kurtz · カーツ
+# Kích hoạt: 使用〈羅刹刃〉（低优先，可能被通用台词顶掉）
+> 「羅刹刃!」
+"Lưỡi Rakshasa!"
+
+@16521 Kurtz · カーツ
+# Kích hoạt: 使用〈羅刹刃〉（低优先，可能被通用台词顶掉）
+> 「敵を切り裂け!」
+"Xé nát kẻ thù!"
+---
+> 「羅刹刃!」
+"Lưỡi Rakshasa!"
+
+@16522 Kurtz · カーツ
+# Kích hoạt: 使用〈魔槍連脚／爆斧無双断〉（低优先，可能被通用台词顶掉）
+> 「我が連撃は全てを貫く!」
+"Combo của tôi có thể xuyên thủng mọi thứ!"
+---
+> 「魔槍連脚!」
+"Súng ma thuật có chân!"
+
+@16523 Kurtz · カーツ
+# Kích hoạt: 使用〈魔槍連脚／爆斧無双断〉（低优先，可能被通用台词顶掉）
+> 「魔槍連脚!!」
+"Súng ma thuật có chân!!"
+
+@16524 Kurtz · カーツ
+# Kích hoạt: 使用〈魔槍連脚／爆斧無双断〉（低优先，可能被通用台词顶掉）
+> 「止めれるものなら止めてみよ!」
+"Nếu có thể, hãy chặn nó lại và thử xem!"
+---
+> 「魔槍連脚!」
+"Súng ma thuật có chân!"
+
+@16525 Kurtz · カーツ
+# Kích hoạt: 使用〈爆斧無双断〉（低优先，可能被通用台词顶掉）
+> 「おぉぉぉーっ!」
+"Ồhhh-!"
+---
+> 「爆斧無双断!」
+"Đột phá vô song của rìu nổ!"
+
+@16526 Kurtz · カーツ
+# Kích hoạt: 使用〈爆斧無双断〉（低优先，可能被通用台词顶掉）
+> 「くらいやがれっ!」
+"Hãy di chuyển!"
+---
+> 「爆斧無双断!」
+"Đột phá vô song của rìu nổ!"
+
+@16527 Kurtz · カーツ
+# Kích hoạt: 使用〈爆斧無双断〉（低优先，可能被通用台词顶掉）
+> 「一撃必殺、爆斧無双断!」
+"Giết một đòn, dùng rìu nổ vô song!"
+
+@16528 Kurtz · カーツ
+# Kích hoạt: 使用〈爆斧無双断〉（低优先，可能被通用台词顶掉）
+> 「爆斧無双断!」
+"Đột phá vô song của rìu nổ!"
+
+@16529 Kurtz · カーツ
+# Kích hoạt: 使用〈閃剣斬〉（低优先，可能被通用台词顶掉）
+> 「いっくぞぉ! 受けろ、死の刃!」
+"Nào! Hãy di chuyển, Blade of Death!"
+---
+> 「閃・剣・斬!!」
+"Né·Kiếm·Chém!!"
+
+@16530 Kurtz · カーツ
+# Kích hoạt: 使用〈閃剣斬〉（低优先，可能被通用台词顶掉）
+> 「受けろ! 閃剣斬!」
+"Tiến lên! Flash Sword Slash!"
+
+@16531 Kurtz · カーツ
+# Kích hoạt: 使用〈閃剣斬〉（低优先，可能被通用台词顶掉）
+> 「貴様に見切れるか!」
+"Bạn có thể nhìn xuyên qua nó!"
+---
+> 「閃剣斬!」
+"Tia kiếm chém!"
+
+@16532 Kurtz · カーツ
+# Kích hoạt: 使用〈閃剣斬〉（低优先，可能被通用台词顶掉）
+> 「閃剣斬!!!」
+"Tia kiếm chém!!!"
+
+@16533 Kurtz · カーツ
+# Kích hoạt: 使用〈神槍裂脚〉（低优先，可能被通用台词顶掉）
+> 「神槍裂脚!」
+"Súng sắc bén xẻ chân!"
+
+@16534 Kurtz · カーツ
+# Kích hoạt: 使用〈神槍裂脚〉（低优先，可能被通用台词顶掉）
+> 「敵を滅せよ!」
+"Tiêu diệt kẻ thù!"
+---
+> 「神槍裂脚!」
+"Súng sắc bén xẻ chân!"
+
+@16535 Kurtz · カーツ
+# Kích hoạt: 使用〈神槍裂脚〉（低优先，可能被通用台词顶掉）
+> 「我が連撃をもちて突き破れ!」
+"Với combo của mình, tôi có thể vượt qua chỉ trong một đòn!"
+---
+> 「必殺! 神槍裂脚!」
+"Phải giết! Thần thương chém chân!"
+
+@16536 Kurtz · カーツ
+# Kích hoạt: 使用〈神槍裂脚〉（低优先，可能被通用台词顶掉）
+> 「俺の敵となったことを後悔しろ!」
+"Hãy ăn năn vì đã trở thành kẻ thù của tôi!"
+---
+> 「必ぃぃーっ殺! 神槍裂脚!」
+"Nhất định - giết! Dùng thần thương chém đôi chân của ngươi!"
+
+@16537 Kurtz · カーツ
+# Kích hoạt: 使用〈天王捷破斬〉（对话第 1/3 句）
+> 「己が全身全霊をもちて
+>  眼前の敵を葬らんと欲すれば」
+"Nếu bạn muốn dùng toàn bộ cơ thể và tâm hồn của mình để chôn vùi kẻ thù trước mặt bạn"
+
+@16538 Kurtz · カーツ
+# Kích hoạt: 使用〈天王捷破斬〉（对话第 2/3 句）
+> 「我が一撃はすべてを滅する!」
+“Một đòn của tôi sẽ phá hủy tất cả!”
+
+@16539 Kurtz · カーツ
+# Kích hoạt: 使用〈天王捷破斬〉（对话第 3/3 句）
+> 「恐怖を刻めぇぇぇーっ!」
+"Hãy sợ hãi, ahhhhhhhhhhhhhhh!"
+---
+> 「天王捷破斬ッ!」
+"Thiên Vương Jiepazhao!"
+
+@16540 Kurtz · カーツ
+# Kích hoạt: 使用〈天王捷破斬〉（对话第 1/3 句）
+> 「己が全身全霊をもちて
+>  眼前の敵を葬らんと欲すれば」
+"Nếu bạn muốn dùng toàn bộ cơ thể và tâm hồn của mình để chôn vùi kẻ thù trước mặt bạn"
+
+@16541 Kurtz · カーツ
+# Kích hoạt: 使用〈天王捷破斬〉（对话第 2/3 句）
+> 「我が一撃はすべてを滅する!」
+“Một đòn của tôi sẽ phá hủy tất cả!”
+
+@16542 Kurtz · カーツ
+# Kích hoạt: 使用〈天王捷破斬〉（对话第 3/3 句）
+> 「鬼神となりて討ち果たす!
+>  天王捷破斬ッ!」
+"Biến thành quỷ thần, giết hết! Thiên Vương vung kiếm đột phá!"
+
+@16543 Kurtz · カーツ
+# Kích hoạt: 使用〈天王捷破斬〉（对话第 1/3 句）
+> 「己が全身全霊をもちて
+>  眼前の敵を葬らんと欲すれば」
+"Nếu bạn muốn dùng toàn bộ cơ thể và tâm hồn của mình để chôn vùi kẻ thù trước mặt bạn"
+
+@16544 Kurtz · カーツ
+# Kích hoạt: 使用〈天王捷破斬〉（对话第 2/3 句）
+> 「我が一撃はすべてを滅する!
+>  受けてみろ! 必殺奥義ぃぃぃ!」
+"Một đòn của tôi sẽ phá hủy mọi thứ! Hãy di chuyển! Bí mật cuối cùng của cái chết!"
+
+@16545 Kurtz · カーツ
+# Kích hoạt: 使用〈天王捷破斬〉（对话第 3/3 句）
+> 「天・王・捷・破・斬!」
+"Thiên Vương đánh bại, giết chết!"
+
+@16546 Brad · ブラッド
+# Kích hoạt: 使用〈招雷 天竜魔滅陣〉（对话第 1/8 句）
+> 「{PartnerNick}、あれをやるぞ!」
+"{PartnerNick}, sử dụng chiêu đó!"
+
+@16547 Kurtz · カーツ
+# Kích hoạt: 使用〈招雷 天竜魔滅陣〉（对话第 2/8 句）
+> 「あれか。いいだろう」
+"Đó là một bước đi tốt. Ổn thôi."
+
+@16548 Kurtz · カーツ
+# Kích hoạt: 使用〈招雷 天竜魔滅陣〉（对话第 3/8 句）
+> 「いくぞッ!」
+"Nào!"
+---
+> 「うなれ!
+>  この身に満ちる猛き闘気よ!」
+"Gầm lên! Tinh thần chiến đấu mãnh liệt tràn ngập cơ thể tôi!"
+
+@16549 Brad · ブラッド
+# Kích hoạt: 使用〈招雷 天竜魔滅陣〉（对话第 4/8 句）
+> 「天よ竜よ、八部の鬼神よ!
+>  我ら一命を賭して成就せんッ!」
+"Thiên Long, Bát Quỷ Thần! Chúng ta liều mạng thực hiện chiêu này!"
+
+@16550 Kurtz · カーツ
+# Kích hoạt: 使用〈招雷 天竜魔滅陣〉（对话第 5/8 句）
+> 「招雷せよ!
+>  すべてを滅却せんがため!」
+"Mời sấm sét! Để hủy diệt tất cả!"
+
+@16551 Brad · ブラッド
+# Kích hoạt: 使用〈招雷 天竜魔滅陣〉（对话第 6/8 句）
+> 「冥府の鬼に語って聞かせよ!」
+“Hãy đi kể chuyện đó với những hồn ma ở Hades!”
+
+@16552 Kurtz · カーツ
+# Kích hoạt: 使用〈招雷 天竜魔滅陣〉（对话第 7/8 句）
+> 「これが我らの必殺奥義ぃぃーっ!」
+"Đây chính là chúng ta chờ giết bí mật --!"
+
+@16553 Brad · ブラッド
+# Kích hoạt: 使用〈招雷 天竜魔滅陣〉（对话第 8/8 句）
+> 「くらえぇぇーっ!」
+“Tiến lên—!”
+---
+> 「天・竜・魔・滅・陣!!」
+"Thiên, Long, Ma, Diệt Thế trận!!"
+
+@16554 Kurtz · カーツ
+# Kích hoạt: 中伤（剩余 HP 30–90%），对手驾驶员〈ブラッド〉
+> 「うぉっ!?
+>  くっ、腕をあげたな、貴様!」
+"Uh-oh!? Chà, bạn đã trưởng thành rất nhiều rồi!"
+
+@16555 Kurtz · カーツ
+# Kích hoạt: 中伤（剩余 HP 30–90%），对手驾驶员〈ブラッド〉
+> 「バカな!?
+>  この俺がもろにくらっただと!?」
+"Không thể nào!? Tôi thực sự đã nhận phải một đòn nặng nề!?"
+
+@16556 Kurtz · カーツ
+# Kích hoạt: 中伤（剩余 HP 30–90%），对手驾驶员〈ブラッド〉
+> 「なに!?
+>  ぐ……動きが読めなかったのか!?」
+"Cái gì!? Ừm...Tôi không nhìn thấu hành động của đối phương!?"
+
+@16557 Kurtz · カーツ
+# Kích hoạt: 中伤（剩余 HP 30–90%），对手驾驶员〈ブラッド〉
+> 「く……面白い、相手をしてやろう!」
+"Ừ...thật thú vị, tôi tới thi đấu với anh!"
+
+@16558 Kurtz · カーツ
+# Kích hoạt: 中伤（剩余 HP 30–90%），对手驾驶员〈ブラッド〉
+> 「そうだ{HeroName}!
+>  もっと攻めてこいっ!」
+"Đúng vậy, {HeroName}! Hãy quay lại đây lần nữa!"
+
+@16559 Kurtz · カーツ
+# Kích hoạt: 轻伤（剩余 HP 90% 以上），对手驾驶员〈ブラッド〉
+> 「{HeroName}……この俺相手では
+>  本気になれんとでもいうかぁっ!!」
+"{HeroName}...Bạn có nghĩ rằng việc chiến đấu với tôi là không đáng nghiêm túc không!!"
+
+@16560 Kurtz · カーツ
+# Kích hoạt: 轻伤（剩余 HP 90% 以上），对手驾驶员〈ブラッド〉
+> 「くっ……本気を出せ!」
+"Chà... hãy thể hiện kỹ năng thực sự của bạn đi!"
+
+@16561 Kurtz · カーツ
+# Kích hoạt: 轻伤（剩余 HP 90% 以上），对手驾驶员〈ブラッド〉
+> 「くっ……貴様、なめやがって!」
+"Hừ... sao ngươi dám đánh giá thấp ta!"
+
+@16562 Kurtz · カーツ
+# Kích hoạt: 轻伤（剩余 HP 90% 以上），对手驾驶员〈ブラッド〉
+> 「貴っ様ぁぁーっ! ふざるなぁっ!!」
+"Đồ khốn——! Đừng đùa với tôi nữa!!"
+
+@16563 Kurtz · カーツ
+# Kích hoạt: 分身回避，乘坐〈ヴァイローズ〉
+> 「見たか、我が瞬幻足を!」
+"Bạn có nhìn thấy nó không? Đây là bàn chân ảo ngay lập tức của tôi!"
+
+@16564 Kurtz · カーツ
+# Kích hoạt: 分身回避，乘坐〈ヴァイローズ〉
+> 「ぬぅぅぅっ! 瞬幻足!」
+"Uh ồ ồ! Chân ma tức thì!"
+
+@16565 Kurtz · カーツ
+# Kích hoạt: 分身回避，乘坐〈ヴァイローズ〉
+> 「貴様ごときに、見切れはせんぞ!」
+"Với một kẻ như anh, anh thậm chí không thể hy vọng có thể vượt qua được!"
+
+@16566 Kurtz · カーツ
+# Kích hoạt: 分身回避，乘坐〈ヴァイローズ〉
+> 「くっ、俺に瞬幻足を
+>  使わせるとはな」
+“Chà, nó thực sự buộc tôi phải sử dụng Shun Phantasma Foot.”

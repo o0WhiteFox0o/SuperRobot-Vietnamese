@@ -1,0 +1,261 @@
+# Bản dịch tiếng Việt Super Robot Wars 64
+# Định dạng và vị trí: docs/guide/dialogue-text.md
+
+@9392 Sara · 沙羅
+# Kích hoạt: Tấn công (Chung，1/13）
+> 「そこかぁっ!」
+"Chính là nó!"
+
+@9393 Sara · 沙羅
+# Kích hoạt: Tấn công (Chung，2/13）
+> 「くらいなっ!!」
+"Ăn chiêu của tôi đi!!"
+
+@9394 Sara · 沙羅
+# Kích hoạt: Tấn công (Chung，3/13）
+> 「なめんじゃないわよっ!」
+"Đừng đánh giá thấp tôi!"
+
+@9395 Sara · 沙羅
+# Kích hoạt: Tấn công (Chung，4/13）
+> 「ざけんじゃないよ!!」
+"Thật là một trò đùa!!"
+
+@9396 Sara · 沙羅
+# Kích hoạt: Tấn công (Chung，5/13）
+> 「くらいなよ!!」
+"Ăn chiêu của tôi đi!!"
+
+@9397 Sara · 沙羅
+# Kích hoạt: Tấn công (Chung，6/13）
+> 「くらいなっ!!」
+"Ăn chiêu của tôi đi!!"
+
+@9398 Sara · 沙羅
+# Kích hoạt: Tấn công (Chung，7/13）
+> 「このぉ!」
+"Anh bạn!"
+
+@9399 Sara · 沙羅
+# Kích hoạt: Tấn công (Chung，8/13）
+> 「これでどうっ!?」
+“Còn động tác này thì sao!?”
+
+@9400 Sara · 沙羅
+# Kích hoạt: Tấn công (Chung，9/13）
+> 「いくよっ!!」
+"Hiểu rồi!!"
+
+@9401 Sara · 沙羅
+# Kích hoạt: Tấn công (Chung，10/13）
+> 「もらった!」
+"Thành công!"
+
+@9402 Sara · 沙羅
+# Kích hoạt: Tấn công (Chung，11/13）
+> 「これならどうだい!」
+"Cái này thì thế nào!"
+
+@9403 Sara · 沙羅
+# Kích hoạt: Tấn công (Chung，12/13）
+> 「そこっ!」
+"Đó!"
+
+@9404 Sara · 沙羅
+# Kích hoạt: Tấn công (Chung，13/13）
+> 「きっちりとカタをつけてやる!」
+"Điều này sẽ kết thúc bạn một cách rõ ràng!"
+
+@9405 Sara · 沙羅
+# Kích hoạt: 被击坠（通用，1/4）
+> 「きゃあああっ!」
+"Ahhh!"
+
+@9406 Sara · 沙羅
+# Kích hoạt: 被击坠（通用，2/4）
+> 「くっ! やられたっ!」
+"Ugh! Bị giết!"
+
+@9407 Sara · 沙羅
+# Kích hoạt: 被击坠（通用，3/4）
+> 「し、しまった!」
+"Ối! Ôi!"
+
+@9408 Sara · 沙羅
+# Kích hoạt: 被击坠（通用，4/4）
+> 「ああっ!? 忍っ、雅人っ、
+>  亮ーっ!」
+"A!? Shinobu, Masato, Ryo——!"
+
+@9409 Sara · 沙羅
+# Kích hoạt: 重伤（剩余 HP 不足 30%）（通用，1/7）
+> 「くっ! も、もたない!?」
+"Ugh! Không thể nhịn được phải không!?"
+
+@9410 Sara · 沙羅
+# Kích hoạt: 重伤（剩余 HP 不足 30%）（通用，2/7）
+> 「くっ! ダメージが!」
+"Ugh! Đau quá!"
+
+@9411 Sara · 沙羅
+# Kích hoạt: 重伤（剩余 HP 不足 30%）（通用，3/7）
+> 「き、効いたぁ～」
+“Đ-đau quá~”
+
+@9412 Sara · 沙羅
+# Kích hoạt: 重伤（剩余 HP 不足 30%）（通用，4/7）
+> 「うっ! な、なんてパワーだい!?」
+"Hmm! Thế lực mạnh thật đấy!?"
+
+@9413 Sara · 沙羅
+# Kích hoạt: 重伤（剩余 HP 不足 30%）（通用，5/7）
+> 「や、やる! さすがは……」
+"T-tuyệt vời! Đúng như mong đợi..."
+
+@9414 Sara · 沙羅
+# Kích hoạt: 重伤（剩余 HP 不足 30%）（通用，6/7）
+> 「ちっくしょうっ!」
+"Chết tiệt!"
+
+@9415 Sara · 沙羅
+# Kích hoạt: 重伤（剩余 HP 不足 30%）（通用，7/7）
+> 「ああっ!」
+"À!"
+
+@9416 Sara · 沙羅
+# Kích hoạt: 中伤（剩余 HP 30–90%）（通用，1/7）
+> 「くっ! やるじゃないの!」
+"Chà! Chỉ mất vài giây thôi!"
+
+@9417 Sara · 沙羅
+# Kích hoạt: 中伤（剩余 HP 30–90%）（通用，2/7）
+> 「きゃっ! やってくれんじゃないのさ!」
+"A! Ngươi thật dám làm!"
+
+@9418 Sara · 沙羅
+# Kích hoạt: 中伤（剩余 HP 30–90%）（通用，3/7）
+> 「くっ!! やったねっ!!」
+"Ugh!! Bạn có nghiêm túc không vậy!!"
+
+@9419 Sara · 沙羅
+# Kích hoạt: 中伤（剩余 HP 30–90%）（通用，4/7）
+> 「まだまだ! この程度じゃ
+>  やられないよ!!」
+"Vẫn còn sớm! Vết thương này không thể đánh bại được ta!!"
+
+@9420 Sara · 沙羅
+# Kích hoạt: 中伤（剩余 HP 30–90%）（通用，5/7）
+> 「こんなもので、やられるものか!」
+“Làm sao một thứ như vậy có thể đánh bại được tôi?”
+
+@9421 Sara · 沙羅
+# Kích hoạt: 中伤（剩余 HP 30–90%）（通用，6/7）
+> 「うっ!! 何さ、こんな攻撃!!」
+"Hmm!! Cái gì vậy, kiểu tấn công này!!"
+
+@9422 Sara · 沙羅
+# Kích hoạt: 中伤（剩余 HP 30–90%）（通用，7/7）
+> 「なにすんのさ!」
+"Bạn đang làm gì vậy!"
+
+@9423 Sara · 沙羅
+# Kích hoạt: 轻伤（剩余 HP 90% 以上）（通用，1/5）
+> 「この程度のダメージ!!」
+"Tác hại nhỏ này chẳng là gì cả!"
+
+@9424 Sara · 沙羅
+# Kích hoạt: 轻伤（剩余 HP 90% 以上）（通用，2/5）
+> 「きゃっ! やったわねえっ!」
+"Ừ! Sao cậu dám đánh tôi!"
+
+@9425 Sara · 沙羅
+# Kích hoạt: 轻伤（剩余 HP 90% 以上）（通用，3/5）
+> 「効かないね!」
+"Nó không đau hay ngứa chút nào!"
+
+@9426 Sara · 沙羅
+# Kích hoạt: 轻伤（剩余 HP 90% 以上）（通用，4/5）
+> 「そんなものなのかい!?」
+“Đó là tất cả những gì cậu có à?”
+
+@9427 Sara · 沙羅
+# Kích hoạt: 轻伤（剩余 HP 90% 以上）（通用，5/5）
+> 「あ～あ、なっちゃいないね」
+"Ồ, điều đó không hay chút nào."
+
+@9428 Sara · 沙羅
+# Kích hoạt: Né tránh（通用，1/6）
+> 「へたくそっ!」
+"Thật tệ!"
+
+@9429 Sara · 沙羅
+# Kích hoạt: Né tránh（通用，2/6）
+> 「あたんないよ!!」
+"Bạn không thể đánh nó!!"
+
+@9430 Sara · 沙羅
+# Kích hoạt: Né tránh（通用，3/6）
+> 「あたらないよ!!」
+"Bạn không thể đánh nó!!"
+
+@9431 Sara · 沙羅
+# Kích hoạt: Né tránh（通用，4/6）
+> 「どこ狙ってるのさ!」
+"Ngươi nhắm vào đâu!"
+
+@9432 Sara · 沙羅
+# Kích hoạt: Né tránh（通用，5/6）
+> 「あたしに当てようなんて、
+>  10年早いんだよ!」
+"Anh còn quá sớm mười năm để đánh tôi!"
+
+@9433 Sara · 沙羅
+# Kích hoạt: Né tránh（通用，6/6）
+> 「やったね!」
+"Tuyệt vời!"
+
+@9434 Sara · 沙羅
+# Kích hoạt: Tấn công无效（护罩／装甲）（通用，1/3）
+> 「ムダだっていってんじゃん!」
+"Tôi đã nói với bạn rằng đó là một sự lãng phí công sức!"
+
+@9435 Sara · 沙羅
+# Kích hoạt: Tấn công无效（护罩／装甲）（通用，2/3）
+> 「ムダよ!!」
+"Lãng phí công sức!!"
+
+@9436 Sara · 沙羅
+# Kích hoạt: Tấn công无效（护罩／装甲）（通用，3/3）
+> 「無駄な攻撃なんだよ!」
+"Đòn tấn công của bạn là vô ích!"
+
+@9437 Sara · 沙羅
+# Kích hoạt: 弹药／EN 不足，无法反击（通用，1/2）
+> 「しまった!? 残弾がない!!」
+"Rất tiếc!? Không còn đạn dược nữa!!"
+
+@9438 Sara · 沙羅
+# Kích hoạt: 弹药／EN 不足，无法反击（通用，2/2）
+> 「だめ、反撃不可能!」
+"Không, chúng ta không thể đánh trả!"
+
+@9439 Sara · 沙羅
+# Kích hoạt: 射程外，无法反击（通用，1/2）
+> 「どうなってんの!?」
+"Chuyện gì đang xảy ra vậy!?"
+
+@9440 Sara · 沙羅
+# Kích hoạt: 射程外，无法反击（通用，2/2）
+> 「だめ、反撃不可能!」
+"Không, chúng ta không thể đánh trả!"
+
+@14809 Sara · 沙羅
+# Kích hoạt: 使用〈5連ミサイルランチャー〉（低优先，可能被通用台词顶掉）
+> 「ミサイルの投げキッス、受けて
+>  もらおうじゃん」
+"Cứ chấp nhận nụ hôn gió của tên lửa."
+
+@14810 Sara · 沙羅
+# Kích hoạt: 使用〈5連ミサイルランチャー〉（低优先，可能被通用台词顶掉）
+> 「さぁミサイルのプレゼントだよ」
+"Nào, tôi sẽ tặng bạn một món quà là tên lửa."

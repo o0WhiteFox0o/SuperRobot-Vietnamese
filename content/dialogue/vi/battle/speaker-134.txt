@@ -1,0 +1,47 @@
+# Bản dịch tiếng Việt Super Robot Wars 64
+# Định dạng và vị trí: docs/guide/dialogue-text.md
+
+@7220 Naoto · ナオト
+# Kích hoạt: Tấn công (Chung，1/1）
+> 「ばかめ!」
+"Đồ ngốc!"
+
+@7221 Naoto · ナオト
+# Kích hoạt: 被击坠（通用，1/1）
+> 「ばかめ!」
+"Đồ ngốc!"
+
+@7222 Naoto · ナオト
+# Kích hoạt: 重伤（剩余 HP 不足 30%）（通用，1/1）
+> 「ばかめ!」
+"Đồ ngốc!"
+
+@7223 Naoto · ナオト
+# Kích hoạt: 中伤（剩余 HP 30–90%）（通用，1/1）
+> 「ばかめ!」
+"Đồ ngốc!"
+
+@7224 Naoto · ナオト
+# Kích hoạt: 轻伤（剩余 HP 90% 以上）（通用，1/1）
+> 「ばかめ!」
+"Đồ ngốc!"
+
+@7225 Naoto · ナオト
+# Kích hoạt: Né tránh（通用，1/1）
+> 「ばかめ!」
+"Đồ ngốc!"
+
+@7226 Naoto · ナオト
+# Kích hoạt: Tấn công无效（护罩／装甲）（通用，1/1）
+> 「ばかめ!」
+"Đồ ngốc!"
+
+@7227 Naoto · ナオト
+# Kích hoạt: 弹药／EN 不足，无法反击（通用，1/1）
+> 「ばかめ!」
+"Đồ ngốc!"
+
+@7228 Naoto · ナオト
+# Kích hoạt: 射程外，无法反击（通用，1/1）
+> 「ばかめ!」
+"Đồ ngốc!"

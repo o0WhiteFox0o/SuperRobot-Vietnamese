@@ -1,0 +1,192 @@
+# Bản dịch tiếng Việt Super Robot Wars 64
+# Định dạng và vị trí: docs/guide/dialogue-text.md
+
+@14089 Gishin Soldier · ギシン星兵
+# Kích hoạt: Tấn công (Chung，1/10）
+> 「邪魔なんだよ!」
+"Có cái gì đó cản đường!"
+
+@14090 Gishin Soldier · ギシン星兵
+# Kích hoạt: Tấn công (Chung，2/10）
+> 「うおおおおっ!!」
+“Ồ ồ! ! "
+
+@14091 Gishin Soldier · ギシン星兵
+# Kích hoạt: Tấn công (Chung，3/10）
+> 「これでとどめだ!!」
+"Tôi sẽ kết liễu cô ngay bây giờ!!"
+
+@14092 Gishin Soldier · ギシン星兵
+# Kích hoạt: Tấn công (Chung，4/10）
+> 「こいつで決めてやる!」
+"Dùng cái này để kết liễu ngươi!"
+
+@14093 Gishin Soldier · ギシン星兵
+# Kích hoạt: Tấn công (Chung，5/10）
+> 「やらせるかっ!!」
+"Đừng nghĩ tới chuyện đó nữa!!"
+
+@14094 Gishin Soldier · ギシン星兵
+# Kích hoạt: Tấn công (Chung，6/10）
+> 「落ちろっ!!」
+"Thả tôi xuống!!"
+
+@14095 Gishin Soldier · ギシン星兵
+# Kích hoạt: Tấn công (Chung，7/10）
+> 「このっ!!」
+"Anh bạn!!"
+
+@14096 Gishin Soldier · ギシン星兵
+# Kích hoạt: Tấn công (Chung，8/10）
+> 「行くぞっ!!」
+"Nào! ! "
+
+@14097 Gishin Soldier · ギシン星兵
+# Kích hoạt: Tấn công (Chung，9/10）
+> 「そこだっ!」
+"Chính là nó!"
+
+@14098 Gishin Soldier · ギシン星兵
+# Kích hoạt: Tấn công (Chung，10/10）
+> 「もらった!」
+"Đã lấy nó!"
+
+@14099 Gishin Soldier · ギシン星兵
+# Kích hoạt: 被击坠（通用，1/2）
+> 「な、何だと!?」
+"C-Cái gì!?"
+
+@14100 Gishin Soldier · ギシン星兵
+# Kích hoạt: 被击坠（通用，2/2）
+> 「しまった! 直撃か!?」
+"Ối! Bị đánh à!?"
+
+@14101 Gishin Soldier · ギシン星兵
+# Kích hoạt: 重伤（剩余 HP 不足 30%）（通用，1/5）
+> 「ぐうっ、い、いかん、やられる!?」
+"Guwu, không, không, tôi sắp bị giết rồi!?"
+
+@14102 Gishin Soldier · ギシン星兵
+# Kích hoạt: 重伤（剩余 HP 不足 30%）（通用，2/5）
+> 「うおっ!? くっ、こっちが不利か!」
+"Uh-oh!? Chà, tôi đang ở thế bất lợi à!"
+
+@14103 Gishin Soldier · ギシン星兵
+# Kích hoạt: 重伤（剩余 HP 不足 30%）（通用，3/5）
+> 「ぬうううっ! つ、強いっ!」
+"Ouch! Mạnh quá!"
+
+@14104 Gishin Soldier · ギシン星兵
+# Kích hoạt: 重伤（剩余 HP 不足 30%）（通用，4/5）
+> 「やるっ! さすがは!」
+"Phải mất hai! Bạn thực sự là một cao thủ!"
+
+@14105 Gishin Soldier · ギシン星兵
+# Kích hoạt: 重伤（剩余 HP 不足 30%）（通用，5/5）
+> 「ぐうぅっ!! パワーが違いすぎる!!」
+"Goooo!! Sự khác biệt sức mạnh quá lớn!!"
+
+@14106 Gishin Soldier · ギシン星兵
+# Kích hoạt: 中伤（剩余 HP 30–90%）（通用，1/5）
+> 「ちいっ! まだまだっ!」
+"Tsk! Vẫn còn sớm!"
+
+@14107 Gishin Soldier · ギシン星兵
+# Kích hoạt: 中伤（剩余 HP 30–90%）（通用，2/5）
+> 「くっ! 少しはできるな!」
+"Hmm! Bạn khá có năng lực!"
+
+@14108 Gishin Soldier · ギシン星兵
+# Kích hoạt: 中伤（剩余 HP 30–90%）（通用，3/5）
+> 「ぬうっ! そう簡単にやられはせん!!」
+"Hmm! Tôi sẽ không bị đánh bại dễ dàng như vậy đâu!!"
+
+@14109 Gishin Soldier · ギシン星兵
+# Kích hoạt: 中伤（剩余 HP 30–90%）（通用，4/5）
+> 「うっ! やってくれたな!!」
+"Hừ! Sao ngươi dám đánh ta!!"
+
+@14110 Gishin Soldier · ギシン星兵
+# Kích hoạt: 中伤（剩余 HP 30–90%）（通用，5/5）
+> 「まだだっ! まだこれからよ!!」
+"Mọi chuyện vẫn chưa kết thúc! Đây chỉ là sự khởi đầu thôi!!"
+
+@14111 Gishin Soldier · ギシン星兵
+# Kích hoạt: 轻伤（剩余 HP 90% 以上）（通用，1/5）
+> 「非力なんだよ!」
+"Mềm mại!"
+
+@14112 Gishin Soldier · ギシン星兵
+# Kích hoạt: 轻伤（剩余 HP 90% 以上）（通用，2/5）
+> 「パワー不足だな!」
+"Không đủ mạnh!"
+
+@14113 Gishin Soldier · ギシン星兵
+# Kích hoạt: 轻伤（剩余 HP 90% 以上）（通用，3/5）
+> 「その程度か!」
+“Đó là tất cả những gì cậu có à?”
+
+@14114 Gishin Soldier · ギシン星兵
+# Kích hoạt: 轻伤（剩余 HP 90% 以上）（通用，4/5）
+> 「そんな攻撃など効くものかよ!」
+“Làm sao đòn tấn công đó có thể hoạt động được?”
+
+@14115 Gishin Soldier · ギシン星兵
+# Kích hoạt: 轻伤（剩余 HP 90% 以上）（通用，5/5）
+> 「ふん、かすっただけよ!」
+"Hừm, chỉ là một vết xước thôi!"
+
+@14116 Gishin Soldier · ギシン星兵
+# Kích hoạt: Né tránh（通用，1/5）
+> 「当たるものかよ!」
+"Làm sao có thể đánh trúng!"
+
+@14117 Gishin Soldier · ギシン星兵
+# Kích hoạt: Né tránh（通用，2/5）
+> 「踏み込みが足りん!」
+"Bạn sạc chưa đủ mạnh!"
+
+@14118 Gishin Soldier · ギシン星兵
+# Kích hoạt: Né tránh（通用，3/5）
+> 「間合いが遠いわっ!」
+"Nó quá xa!"
+
+@14119 Gishin Soldier · ギシン星兵
+# Kích hoạt: Né tránh（通用，4/5）
+> 「狙いが甘い!」
+"Mục tiêu kém!"
+
+@14120 Gishin Soldier · ギシン星兵
+# Kích hoạt: Né tránh（通用，5/5）
+> 「バカめ。どこを狙っている!」
+"Đồ ngốc. Cậu đang nhắm vào đâu vậy!"
+
+@14121 Gishin Soldier · ギシン星兵
+# Kích hoạt: Tấn công无效（护罩／装甲）（通用，1/2）
+> 「ムダな攻撃をする……」
+"Thật lãng phí sức lực..."
+
+@14122 Gishin Soldier · ギシン星兵
+# Kích hoạt: Tấn công无效（护罩／装甲）（通用，2/2）
+> 「ふ、そんなビームではな!」
+“Hmph, loại tia đó không có tác dụng!”
+
+@14123 Gishin Soldier · ギシン星兵
+# Kích hoạt: 弹药／EN 不足，无法反击（通用，1/2）
+> 「ちっ、弾切れとはな……」
+“Chậc, thực ra không có đạn…”
+
+@14124 Gishin Soldier · ギシン星兵
+# Kích hoạt: 弹药／EN 不足，无法反击（通用，2/2）
+> 「弾切れか……しかたあるまい」
+"Không có đạn...chúng tôi không thể làm gì được"
+
+@14125 Gishin Soldier · ギシン星兵
+# Kích hoạt: 射程外，无法反击（通用，1/2）
+> 「ちっ、遠距離からの攻撃か……」
+"Chậc, cậu đang gọi từ xa à..."
+
+@14126 Gishin Soldier · ギシン星兵
+# Kích hoạt: 射程外，无法反击（通用，2/2）
+> 「む……ここからでは反撃できん」
+"Chà...không có cách nào để đánh trả từ đây."

@@ -1,0 +1,327 @@
+# Bản dịch tiếng Việt Super Robot Wars 64
+# Định dạng và vị trí: docs/guide/dialogue-text.md
+
+@9782 Hell Marshal · 地獄大元帥
+# Kích hoạt: Tấn công (Chung，1/8）
+> 「手並みをみせてもらうぞ!」
+"Hãy cho tôi thấy bạn có khả năng gì!"
+
+@9783 Hell Marshal · 地獄大元帥
+# Kích hoạt: Tấn công (Chung，2/8）
+> 「今こそチャンスだ!」
+"Ngay bây giờ!"
+
+@9784 Hell Marshal · 地獄大元帥
+# Kích hoạt: Tấn công (Chung，3/8）
+> 「勝つ見こみがなければやらぬわ!」
+"Tôi sẽ không hành động nếu không có cơ hội chiến thắng!"
+
+@9785 Hell Marshal · 地獄大元帥
+# Kích hoạt: Tấn công (Chung，4/8）
+> 「戦いは勝てば、よいのだ」
+"Chỉ cần có thể thắng trận chiến là được rồi."
+
+@9786 Hell Marshal · 地獄大元帥
+# Kích hoạt: Tấn công (Chung，5/8）
+> 「今度という今度は必ず勝つ!」
+"Lần này dù thế nào đi nữa tôi cũng sẽ thắng!"
+
+@9787 Hell Marshal · 地獄大元帥
+# Kích hoạt: Tấn công (Chung，6/8）
+> 「呪いをこめて、これから地獄に
+>  送ってやる! てえい!」
+"Đầy rẫy những lời nguyền rủa, ta sẽ tống ngươi xuống địa ngục! Này——!"
+
+@9788 Hell Marshal · 地獄大元帥
+# Kích hoạt: Tấn công (Chung，7/8）
+> 「最期を見とどけてやる!」
+"Ta sẽ tận mắt chứng kiến ngươi chết!"
+
+@9789 Hell Marshal · 地獄大元帥
+# Kích hoạt: Tấn công (Chung，8/8）
+> 「どけーい!」
+"Đi đi-!"
+
+@9790 Hell Marshal · 地獄大元帥
+# Kích hoạt: 被击坠（通用，1/2）
+> 「おのれ、今に見ておれ!!」
+"Chết tiệt, đợi tôi chút!!"
+
+@9791 Hell Marshal · 地獄大元帥
+# Kích hoạt: 被击坠（通用，2/2）
+> 「ぐうぅぅ、信じられん、ワシの作戦が
+>  やぶれるとは」
+“Uh-huh, tôi không thể tin được là kế hoạch của tôi đã thất bại.”
+
+@9792 Hell Marshal · 地獄大元帥
+# Kích hoạt: 重伤（剩余 HP 不足 30%）（通用，1/3）
+> 「ワシは負けん、絶対に負けんぞ!」
+"Tôi sẽ không bao giờ thua, tôi sẽ không bao giờ thua!"
+
+@9793 Hell Marshal · 地獄大元帥
+# Kích hoạt: 重伤（剩余 HP 不足 30%）（通用，2/3）
+> 「おのれ、これしきのことで
+>  やられてなるものか!!」
+"Chết tiệt, vết thương nhỏ này làm sao tôi có thể ngã được!!"
+
+@9794 Hell Marshal · 地獄大元帥
+# Kích hoạt: 重伤（剩余 HP 不足 30%）（通用，3/3）
+> 「おのれ、こしゃくな、ええい、こうなったら
+>  一気にカタをつけてやるぞ!」
+"Mẹ kiếp, không biết trời cao bao nhiêu! Đã như vậy, ta sẽ một đòn giết chết ngươi!"
+
+@9795 Hell Marshal · 地獄大元帥
+# Kích hoạt: 中伤（剩余 HP 30–90%）（通用，1/1）
+> 「どうしたのだ!?」
+"Có chuyện gì thế!?"
+
+@9796 Hell Marshal · 地獄大元帥
+# Kích hoạt: 轻伤（剩余 HP 90% 以上）（通用，1/5）
+> 「負け犬の遠吠えなど聞く耳を
+>  持たぬわ」
+"Tôi quá lười để nghe tiếng than khóc của những vị tướng bại trận của mình."
+
+@9797 Hell Marshal · 地獄大元帥
+# Kích hoạt: 轻伤（剩余 HP 90% 以上）（通用，2/5）
+> 「せいぜい吠えるがいいわ!」
+"Chỉ cần hét lên!"
+
+@9798 Hell Marshal · 地獄大元帥
+# Kích hoạt: 轻伤（剩余 HP 90% 以上）（通用，3/5）
+> 「泣きっツラが目に見えるようだわ、
+>  ヌハハハハハハ」
+"Hình như tôi đã nhìn thấy khuôn mặt đang khóc của bạn, Nuhahahahahaha"
+
+@9799 Hell Marshal · 地獄大元帥
+# Kích hoạt: 轻伤（剩余 HP 90% 以上）（通用，4/5）
+> 「ムダな抵抗はやめろ!」
+"Đừng chống cự một cách vô ích nữa!"
+
+@9800 Hell Marshal · 地獄大元帥
+# Kích hoạt: 轻伤（剩余 HP 90% 以上）（通用，5/5）
+> 「その程度の攻撃では、
+>  びくともせんわ!」
+"Đòn tấn công nhỏ này sẽ không di chuyển một inch!"
+
+@9801 Hell Marshal · 地獄大元帥
+# Kích hoạt: Né tránh（通用，1/3）
+> 「この地獄大元帥の実力を
+>  知ったか!」
+"Bạn đã thấy sức mạnh của Generalissimo of Hell chưa?"
+
+@9802 Hell Marshal · 地獄大元帥
+# Kích hoạt: Né tránh（通用，2/3）
+> 「フハハハハハハハ、見える、見えるぞ!」
+"Hahahahahahaha, tôi đã thấy rồi, tôi đã thấy rồi!"
+
+@9803 Hell Marshal · 地獄大元帥
+# Kích hoạt: Né tránh（通用，3/3）
+> 「ワシは負けん、絶対に負けんぞ!」
+"Tôi sẽ không bao giờ thua, tôi sẽ không bao giờ thua!"
+
+@9804 Hell Marshal · 地獄大元帥
+# Kích hoạt: Tấn công无效（护罩／装甲）（通用，1/2）
+> 「ワシは負けん、絶対に負けんぞ!」
+"Tôi sẽ không bao giờ thua, tôi sẽ không bao giờ thua!"
+
+@9805 Hell Marshal · 地獄大元帥
+# Kích hoạt: Tấn công无效（护罩／装甲）（通用，2/2）
+> 「その程度の攻撃では、びくとも
+>  せんわーっ!」
+“Đòn tấn công nhỏ này, tôi thậm chí sẽ không cử động chút nào——!”
+
+@9806 Hell Marshal · 地獄大元帥
+# Kích hoạt: 弹药／EN 不足，无法反击（通用，1/1）
+> 「くそう! なんとかするのだ!」
+"Chết tiệt! Tìm đường cho tôi!"
+
+@9807 Hell Marshal · 地獄大元帥
+# Kích hoạt: 射程外，无法反击（通用，1/1）
+> 「ぬうう、今に見てろ」
+"Ừm, đợi tôi một chút."
+
+@15082 Hell Marshal · 地獄大元帥
+# Kích hoạt: 使用〈ミサイル／グレネードランチャー／ミサイルポッド／ホーミングミサイル／連装ミサイルランチャー／小型ミサイル／大型ミサイル〉（低优先，可能被通用台词顶掉）
+> 「ミサイルを撃てい!」
+"Phóng tên lửa!"
+
+@15083 Hell Marshal · 地獄大元帥
+# Kích hoạt: 使用〈ミサイル／グレネードランチャー／ミサイルポッド／ホーミングミサイル／連装ミサイルランチャー／小型ミサイル／大型ミサイル〉（低优先，可能被通用台词顶掉）
+> 「ミサイルだ! ミサイルで撃ちおとせい!」
+"Sử dụng tên lửa! Sử dụng tên lửa để hạ gục nó!"
+
+@15084 Hell Marshal · 地獄大元帥
+# Kích hoạt: 使用〈ミサイル／グレネードランチャー／ミサイルポッド／ホーミングミサイル／連装ミサイルランチャー／小型ミサイル／大型ミサイル〉（低优先，可能被通用台词顶掉）
+> 「撃ちおとしてやる! ミサイル発射!」
+"Hãy nhìn tôi hạ gục nó! Tên lửa phóng!"
+
+@15085 Hell Marshal · 地獄大元帥
+# Kích hoạt: 使用〈ミサイル／グレネードランチャー／ミサイルポッド／ホーミングミサイル／連装ミサイルランチャー／小型ミサイル／大型ミサイル〉（低优先，可能被通用台词顶掉）
+> 「今日こそ勝利を手中にしてみせ
+>  るぞ! 撃って撃って撃ちまくれい!」
+"Hôm nay ta nhất định sẽ thắng! Đánh, đánh, đánh thật mạnh!"
+
+@15086 Hell Marshal · 地獄大元帥
+# Kích hoạt: 使用〈ミサイル／グレネードランチャー／ミサイルポッド／ホーミングミサイル／連装ミサイルランチャー／小型ミサイル／大型ミサイル〉（低优先，可能被通用台词顶掉）
+> 「撃滅するのだ!」
+"Tiêu diệt chúng cho tôi!"
+
+@15087 Hell Marshal · 地獄大元帥
+# Kích hoạt: Tấn công，乘坐〈ミケロス〉
+> 「集中攻撃しろ!」
+"Tập trung tấn công!"
+
+@15088 Hell Marshal · 地獄大元帥
+# Kích hoạt: Tấn công，乘坐〈ミケロス〉
+> 「作戦開始!」
+"Bắt đầu tấn công!"
+
+@15089 Hell Marshal · 地獄大元帥
+# Kích hoạt: Tấn công，乘坐〈ミケロス〉
+> 「ようし、叩き落としてやれい!」
+"Được rồi, hạ gục chúng cho tôi!"
+
+@15090 Hell Marshal · 地獄大元帥
+# Kích hoạt: Tấn công，乘坐〈ミケロス〉
+> 「奴らを叩き落とせーっ!」
+“Hạ gục bọn đó—!”
+
+@15091 Hell Marshal · 地獄大元帥
+# Kích hoạt: Tấn công，乘坐〈ミケロス〉
+> 「ええい、奴を片づけろ!」
+"Chết tiệt, đuổi gã đó đi!"
+
+@15092 Hell Marshal · 地獄大元帥
+# Kích hoạt: Tấn công，乘坐〈デモニカ〉
+> 「集中攻撃しろ!」
+"Tập trung tấn công!"
+
+@15093 Hell Marshal · 地獄大元帥
+# Kích hoạt: Tấn công，乘坐〈デモニカ〉
+> 「作戦開始!」
+"Bắt đầu tấn công!"
+
+@15094 Hell Marshal · 地獄大元帥
+# Kích hoạt: Tấn công，乘坐〈デモニカ〉
+> 「ようし、叩き落としてやれい!」
+"Được rồi, hạ gục chúng cho tôi!"
+
+@15095 Hell Marshal · 地獄大元帥
+# Kích hoạt: Tấn công，乘坐〈デモニカ〉
+> 「奴らを叩き落とせーっ!」
+“Hạ gục bọn đó—!”
+
+@15096 Hell Marshal · 地獄大元帥
+# Kích hoạt: Tấn công，乘坐〈デモニカ〉
+> 「ええい、奴を片づけろ!」
+"Chết tiệt, đuổi gã đó đi!"
+
+@15097 Hell Marshal · 地獄大元帥
+# Kích hoạt: 使用〈体当たり〉（低优先，可能被通用台词顶掉）
+> 「ゆけぇ! 接近して、とどめを
+>  さしてやれい!」
+"Nào—! Hãy đến và kết liễu hắn!"
+
+@15098 Hell Marshal · 地獄大元帥
+# Kích hoạt: 被击坠，乘坐〈ミケロス〉
+> 「引きあげろ!」
+"Rút lui!"
+
+@15099 Hell Marshal · 地獄大元帥
+# Kích hoạt: 被击坠，乘坐〈デモニカ〉
+> 「引きあげろ!」
+"Rút lui!"
+
+@15100 Hell Marshal · 地獄大元帥
+# Kích hoạt: 被击坠，乘坐〈ミケロス〉
+> 「涙をのんでここは引きあげろ!」
+"Ta chỉ có thể chịu đựng đau đớn, trước rút lui!"
+
+@15101 Hell Marshal · 地獄大元帥
+# Kích hoạt: 被击坠，乘坐〈デモニカ〉
+> 「涙をのんでここは引きあげろ!」
+"Ta chỉ có thể chịu đựng đau đớn, trước rút lui!"
+
+@15102 Hell Marshal · 地獄大元帥
+# Kích hoạt: 重伤（剩余 HP 不足 30%），乘坐〈ミケロス〉
+> 「ここが正念場だぞぅ、弱音を
+>  吐くな!」
+"Đây là thời khắc mấu chốt, đừng nói những lời khó chịu!"
+
+@15103 Hell Marshal · 地獄大元帥
+# Kích hoạt: 重伤（剩余 HP 不足 30%），乘坐〈ミケロス〉
+> 「修理はまだか!」
+"Đã sửa được chưa?"
+
+@15104 Hell Marshal · 地獄大元帥
+# Kích hoạt: 重伤（剩余 HP 不足 30%），乘坐〈ミケロス〉
+> 「ばかもの!」
+"Đồ ngốc!"
+
+@15105 Hell Marshal · 地獄大元帥
+# Kích hoạt: 重伤（剩余 HP 不足 30%），乘坐〈デモニカ〉
+> 「ここが正念場だぞぅ、弱音を
+>  吐くな!」
+"Đây là thời khắc mấu chốt, đừng nói những lời khó chịu!"
+
+@15106 Hell Marshal · 地獄大元帥
+# Kích hoạt: 重伤（剩余 HP 不足 30%），乘坐〈デモニカ〉
+> 「修理はまだか!」
+"Đã sửa được chưa?"
+
+@15107 Hell Marshal · 地獄大元帥
+# Kích hoạt: 重伤（剩余 HP 不足 30%），乘坐〈デモニカ〉
+> 「ばかもの!」
+"Đồ ngốc!"
+
+@15108 Hell Marshal · 地獄大元帥
+# Kích hoạt: 中伤（剩余 HP 30–90%），乘坐〈ミケロス〉
+> 「しっかりやってくれよ」
+"Chết tiệt thật tốt"
+
+@15109 Hell Marshal · 地獄大元帥
+# Kích hoạt: 中伤（剩余 HP 30–90%），乘坐〈ミケロス〉
+> 「このくらいでひるむな、馬鹿者!」
+"Bạn đang co lại vì vết thương này? Đồ ngốc!"
+
+@15110 Hell Marshal · 地獄大元帥
+# Kích hoạt: 中伤（剩余 HP 30–90%），乘坐〈ミケロス〉
+> 「早く修理しろ!」
+"Sửa nó nhanh lên!"
+
+@15111 Hell Marshal · 地獄大元帥
+# Kích hoạt: 中伤（剩余 HP 30–90%），乘坐〈ミケロス〉
+> 「ええい、何をもたもたしているのだ」
+"Chết tiệt, ngươi còn chờ cái gì?"
+
+@15112 Hell Marshal · 地獄大元帥
+# Kích hoạt: 中伤（剩余 HP 30–90%），乘坐〈デモニカ〉
+> 「しっかりやってくれよ」
+"Chết tiệt thật tốt"
+
+@15113 Hell Marshal · 地獄大元帥
+# Kích hoạt: 中伤（剩余 HP 30–90%），乘坐〈デモニカ〉
+> 「このくらいでひるむな、馬鹿者!」
+"Bạn đang co lại vì vết thương này? Đồ ngốc!"
+
+@15114 Hell Marshal · 地獄大元帥
+# Kích hoạt: 中伤（剩余 HP 30–90%），乘坐〈デモニカ〉
+> 「早く修理しろ!」
+"Sửa nó nhanh lên!"
+
+@15115 Hell Marshal · 地獄大元帥
+# Kích hoạt: 中伤（剩余 HP 30–90%），乘坐〈デモニカ〉
+> 「ええい、何をもたもたしているのだ」
+"Chết tiệt, ngươi còn chờ cái gì?"
+
+@15116 Hell Marshal · 地獄大元帥
+# Kích hoạt: 轻伤（剩余 HP 90% 以上），乘坐〈ミケロス〉
+> 「いかにあがこうと無理な事だ、
+>  ええい皆殺しにしてやれい!」
+"Dù có cố gắng đến mấy cũng vô ích. Mẹ kiếp, giết hết bọn chúng đi!"
+
+@15117 Hell Marshal · 地獄大元帥
+# Kích hoạt: 轻伤（剩余 HP 90% 以上），乘坐〈デモニカ〉
+> 「いかにあがこうと無理な事だ、
+>  ええい皆殺しにしてやれい!」
+"Dù có cố gắng đến mấy cũng vô ích. Mẹ kiếp, giết hết bọn chúng đi!"

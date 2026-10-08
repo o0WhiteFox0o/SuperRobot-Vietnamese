@@ -1,0 +1,193 @@
+# Bản dịch tiếng Việt Super Robot Wars 64
+# Định dạng và vị trí: docs/guide/dialogue-text.md
+
+@11015 Beecha · ビーチャ
+# Kích hoạt: Tấn công (Chung，1/10）
+> 「こンのぉぉぉっ!!」
+"Đồ khốn nạn!"
+
+@11016 Beecha · ビーチャ
+# Kích hoạt: Tấn công (Chung，2/10）
+> 「これ以上好きにさせるかいっ!」
+"Hãy ngừng cố gắng làm bất cứ điều gì bạn muốn!"
+
+@11017 Beecha · ビーチャ
+# Kích hoạt: Tấn công (Chung，3/10）
+> 「俺だって!!」
+"Tôi cũng không phải là người ăn chay!!"
+
+@11018 Beecha · ビーチャ
+# Kích hoạt: Tấn công (Chung，4/10）
+> 「おっまかせ!」
+"Tất cả là tại tôi!"
+
+@11019 Beecha · ビーチャ
+# Kích hoạt: Tấn công (Chung，5/10）
+> 「やらせるかっ!」
+"Đừng nghĩ tới thành công!"
+
+@11020 Beecha · ビーチャ
+# Kích hoạt: Tấn công (Chung，6/10）
+> 「ジュドーばかりにいいカッコさせるかよっ!」
+"Sao chúng ta có thể để Jiedu tự mình hành động ngầu được!"
+
+@11021 Beecha · ビーチャ
+# Kích hoạt: Tấn công (Chung，7/10）
+> 「どりゃあああっ!」
+"Này à à à à!"
+
+@11022 Beecha · ビーチャ
+# Kích hoạt: Tấn công (Chung，8/10）
+> 「エル、見てな! 俺様の活躍を!」
+"Elu, hãy xem! Xem tôi thể hiện kỹ năng của mình!"
+
+@11023 Beecha · ビーチャ
+# Kích hoạt: Tấn công (Chung，9/10）
+> 「落ちろってんだよ!」
+"Rớt nó!"
+
+@11024 Beecha · ビーチャ
+# Kích hoạt: Tấn công (Chung，10/10）
+> 「しつこいぜっ!」
+"Thật là khó chịu!"
+
+@11025 Beecha · ビーチャ
+# Kích hoạt: 被击坠（通用，1/2）
+> 「うああっ!! だ、だめだあっ!」
+"Ôi!! Không, không thể được!"
+
+@11026 Beecha · ビーチャ
+# Kích hoạt: 被击坠（通用，2/2）
+> 「し、しまった! やられちまった!」
+"Ối! Ôi! Anh ấy đã bị đánh gục!"
+
+@11027 Beecha · ビーチャ
+# Kích hoạt: 重伤（剩余 HP 不足 30%）（通用，1/4）
+> 「わあああっ!! ま、まずいぞこりゃあ!」
+"Wow!! Cái này, cái này không ổn!"
+
+@11028 Beecha · ビーチャ
+# Kích hoạt: 重伤（剩余 HP 不足 30%）（通用，2/4）
+> 「ぐわあっ! な、何なんだよ、こいつは!」
+"Wow! T-tên này có lai lịch thế nào?"
+
+@11029 Beecha · ビーチャ
+# Kích hoạt: 重伤（剩余 HP 不足 30%）（通用，3/4）
+> 「だああっ! つ、強いじゃねえかよっ!」
+"Ugh! Cái này, anh chàng này khá mạnh đấy!"
+
+@11030 Beecha · ビーチャ
+# Kích hoạt: 重伤（剩余 HP 不足 30%）（通用，4/4）
+> 「うああっ! や、ヤバいぜっ!!」
+"Ugh! Không, nó không tốt!!"
+
+@11031 Beecha · ビーチャ
+# Kích hoạt: 中伤（剩余 HP 30–90%）（通用，1/4）
+> 「くっ! このお、やったなあっ!」
+"Hừ! Tên khốn này, sao ngươi dám đánh ta!"
+
+@11032 Beecha · ビーチャ
+# Kích hoạt: 中伤（剩余 HP 30–90%）（通用，2/4）
+> 「いってぇ! やってくれんじゃねえの!」
+"Đau quá! Ngươi thật dám đánh ta!"
+
+@11033 Beecha · ビーチャ
+# Kích hoạt: 中伤（剩余 HP 30–90%）（通用，3/4）
+> 「うわっ! こいつうっ!」
+"Ồ! Đồ khốn nạn!"
+
+@11034 Beecha · ビーチャ
+# Kích hoạt: 中伤（剩余 HP 30–90%）（通用，4/4）
+> 「くうっ! このっ! 覚えとけよ!!」
+"Ugh! Đồ khốn! Hãy nhớ điều đó cho tôi!!"
+
+@11035 Beecha · ビーチャ
+# Kích hoạt: 轻伤（剩余 HP 90% 以上）（通用，1/4）
+> 「へっ、そんな攻撃ぐらいで!」
+“Hmph, chỉ với kiểu tấn công này thôi!”
+
+@11036 Beecha · ビーチャ
+# Kích hoạt: 轻伤（剩余 HP 90% 以上）（通用，2/4）
+> 「やられるかよ!」
+"Vết thương nhỏ này không là gì cả!"
+
+@11037 Beecha · ビーチャ
+# Kích hoạt: 轻伤（剩余 HP 90% 以上）（通用，3/4）
+> 「効いてないんだよっ!」
+"Nó không đau hay ngứa chút nào!"
+
+@11038 Beecha · ビーチャ
+# Kích hoạt: 轻伤（剩余 HP 90% 以上）（通用，4/4）
+> 「その程度でっ!」
+"Chính là nó!"
+
+@11039 Beecha · ビーチャ
+# Kích hoạt: Né tránh（通用，1/5）
+> 「当たるかよっ!」
+"Thật kỳ lạ nếu bạn đánh nó!"
+
+@11040 Beecha · ビーチャ
+# Kích hoạt: Né tránh（通用，2/5）
+> 「あ～らよっと!」
+"Này~yo!"
+
+@11041 Beecha · ビーチャ
+# Kích hoạt: Né tránh（通用，3/5）
+> 「当たってたまるかっ!」
+"Làm sao có thể để ngươi đánh ta!"
+
+@11042 Beecha · ビーチャ
+# Kích hoạt: Né tránh（通用，4/5）
+> 「わあっ! あっぶねぇ」
+"Wow! Nguy hiểm quá"
+
+@11043 Beecha · ビーチャ
+# Kích hoạt: Né tránh（通用，5/5）
+> 「ほ～ら、こっち、こっち!」
+"Nhìn ~ đây, đây!"
+
+@11044 Beecha · ビーチャ
+# Kích hoạt: Tấn công无效（护罩／装甲）（通用，1/2）
+> 「そんなもん、効くかよ!」
+"Loại chuyện này không được!"
+
+@11045 Beecha · ビーチャ
+# Kích hoạt: Tấn công无效（护罩／装甲）（通用，2/2）
+> 「ムダな攻撃なんだよ!」
+"Tất cả đều vô ích!"
+
+@11046 Beecha · ビーチャ
+# Kích hoạt: 弹药／EN 不足，无法反击（通用，1/1）
+> 「くそっ! 弾切れかよ!」
+"Chết tiệt! Không còn đạn nữa!"
+
+@11047 Beecha · ビーチャ
+# Kích hoạt: 射程外，无法反击（通用，1/1）
+> 「なんだよ、届かねえのか!?」
+"Cái quái gì vậy, không thể chạm tới được!?"
+
+@16376 Beecha · ビーチャ
+# Kích hoạt: 使用〈ファンネル／マザーファンネル〉
+> 「いくぜっ! ファンネルっ!!」
+"Chúng ta đi đây! Pháo nổi!!"
+
+@16377 Beecha · ビーチャ
+# Kích hoạt: 使用〈ファンネル／マザーファンネル〉
+> 「俺だってファンネルくらいっ!!」
+“Tôi cũng có thể sử dụng pháo nổi!!”
+
+@16378 Beecha · ビーチャ
+# Kích hoạt: 使用〈フィンファンネル〉
+> 「フィンファンネルっ!」
+"Pháo phao vây!"
+
+@16379 Beecha · ビーチャ
+# Kích hoạt: 使用〈ファンネル／マザーファンネル〉
+> 「行けえっ! ファンネルっ!!」
+"Đi! Pháo nổi!!"
+
+@16380 Beecha · ビーチャ
+# Kích hoạt: 使用〈ハイメガキャノン〉（低优先，可能被通用台词顶掉）
+> 「こいつで決めるぜっ!
+>  ハイメガキャノンだっ!!」
+"Sử dụng chiêu thức này để quyết định kết quả! Mega Cannon năng lượng cao!!"

@@ -1,0 +1,411 @@
+# Bản dịch tiếng Việt Super Robot Wars 64
+# Định dạng và vị trí: docs/guide/dialogue-text.md
+
+@7419 Eiji · エイジ
+# Kích hoạt: Tấn công (Chung，1/11）
+> 「はあぁぁぁぁっ!」
+"Haaahhhh!"
+
+@7420 Eiji · エイジ
+# Kích hoạt: Tấn công (Chung，2/11）
+> 「どけぇっ!」
+"Tránh xa!"
+
+@7421 Eiji · エイジ
+# Kích hoạt: Tấn công (Chung，3/11）
+> 「そこだっ!」
+"Đó!"
+
+@7422 Eiji · エイジ
+# Kích hoạt: Tấn công (Chung，4/11）
+> 「いくぞ!」
+"Lên!"
+
+@7423 Eiji · エイジ
+# Kích hoạt: Tấn công (Chung，5/11）
+> 「このぉっ!」
+"Anh bạn!"
+
+@7424 Eiji · エイジ
+# Kích hoạt: Tấn công (Chung，6/11）
+> 「好き勝手にはさせないぞ!!」
+“Đừng cố làm bất cứ điều gì bạn muốn!!”
+
+@7425 Eiji · エイジ
+# Kích hoạt: Tấn công (Chung，7/11）
+> 「邪魔をしないでくれっ!」
+"Đừng cản đường!"
+
+@7426 Eiji · エイジ
+# Kích hoạt: Tấn công (Chung，8/11）
+> 「ターゲット捕捉!」
+"Khóa mục tiêu!"
+
+@7427 Eiji · エイジ
+# Kích hoạt: Tấn công (Chung，9/11）
+> 「はぁぁぁぁーっ!」
+"Haaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaa!"
+
+@7428 Eiji · エイジ
+# Kích hoạt: Tấn công (Chung，10/11）
+> 「ここで食い止めてやる!」
+"Tôi sẽ ngăn bạn ở đây!"
+
+@7429 Eiji · エイジ
+# Kích hoạt: Tấn công (Chung，11/11）
+> 「今だッ!」
+"Bây giờ!"
+
+@7430 Eiji · エイジ
+# Kích hoạt: 被击坠（通用，1/3）
+> 「ぐわぁぁぁぁっ!!」
+“Guaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaah!!”
+
+@7431 Eiji · エイジ
+# Kích hoạt: 被击坠（通用，2/3）
+> 「バカなっ!?」
+"Không thể nào!?"
+
+@7432 Eiji · エイジ
+# Kích hoạt: 被击坠（通用，3/3）
+> 「し、しまった……!」
+"Ối, ôi...!"
+
+@7433 Eiji · エイジ
+# Kích hoạt: 重伤（剩余 HP 不足 30%）（通用，1/3）
+> 「死にはしない……このまま死んで
+>  たまるか!!」
+“Tôi sẽ không chết…Tôi sẽ không chết như thế này!!”
+
+@7434 Eiji · エイジ
+# Kích hoạt: 重伤（剩余 HP 不足 30%）（通用，2/3）
+> 「ぐぅっ……くそぅっ!」
+"Gu...chết tiệt!"
+
+@7435 Eiji · エイジ
+# Kích hoạt: 重伤（剩余 HP 不足 30%）（通用，3/3）
+> 「ば、ばかな!?」
+"Làm sao, làm sao có thể!?"
+
+@7436 Eiji · エイジ
+# Kích hoạt: 中伤（剩余 HP 30–90%）（通用，1/4）
+> 「やられた!?」
+"Đánh!?"
+
+@7437 Eiji · エイジ
+# Kích hoạt: 中伤（剩余 HP 30–90%）（通用，2/4）
+> 「うわぁぁぁっ!!」
+"Ồhhhhhh!!"
+
+@7438 Eiji · エイジ
+# Kích hoạt: 中伤（剩余 HP 30–90%）（通用，3/4）
+> 「う、ううっ!」
+"W-Woo!"
+
+@7439 Eiji · エイジ
+# Kích hoạt: 中伤（剩余 HP 30–90%）（通用，4/4）
+> 「こ、これは……!?」
+"Đây, đây là...!?"
+
+@7440 Eiji · エイジ
+# Kích hoạt: 轻伤（剩余 HP 90% 以上）（通用，1/4）
+> 「うっ! この程度!」
+"Ừm! Vết thương nhỏ này không là gì cả!"
+
+@7441 Eiji · エイジ
+# Kích hoạt: 轻伤（剩余 HP 90% 以上）（通用，2/4）
+> 「やられはしない!!」
+“Tôi sẽ không bị đánh gục đâu!!”
+
+@7442 Eiji · エイジ
+# Kích hoạt: 轻伤（剩余 HP 90% 以上）（通用，3/4）
+> 「うわっ」
+"Ồ!"
+
+@7443 Eiji · エイジ
+# Kích hoạt: 轻伤（剩余 HP 90% 以上）（通用，4/4）
+> 「まだだ!」
+"Nó vẫn chưa kết thúc!"
+
+@7444 Eiji · エイジ
+# Kích hoạt: Né tránh（通用，1/8）
+> 「くっ……何とか回避できたか」
+"Chà... cuối cùng tôi cũng trốn thoát được."
+
+@7445 Eiji · エイジ
+# Kích hoạt: Né tránh（通用，2/8）
+> 「あたるわけにはいかない!」
+"Tôi không thể bị đánh!"
+
+@7446 Eiji · エイジ
+# Kích hoạt: Né tránh（通用，3/8）
+> 「急速回避!」
+"Tránh khẩn cấp!"
+
+@7447 Eiji · エイジ
+# Kích hoạt: Né tránh（通用，4/8）
+> 「ここでやられるわけには!」
+"Tôi không thể bị giết ở đây!"
+
+@7448 Eiji · エイジ
+# Kích hoạt: Né tránh（通用，5/8）
+> 「くっ、かわせたか」
+"Ồ, tôi đã trốn thoát."
+
+@7449 Eiji · エイジ
+# Kích hoạt: Né tránh（通用，6/8）
+> 「この程度ならっ!」
+"Cuộc tấn công này không là gì cả!"
+
+@7450 Eiji · エイジ
+# Kích hoạt: Né tránh（通用，7/8）
+> 「まだまだっ!」
+"Gần cũng không được!"
+
+@7451 Eiji · エイジ
+# Kích hoạt: Né tránh（通用，8/8）
+> 「かわせる!」
+"Tránh xa!"
+
+@7452 Eiji · エイジ
+# Kích hoạt: Tấn công无效（护罩／装甲）（通用，1/3）
+> 「ビームは効かない!」
+"Dầm không có tác dụng với tôi!"
+
+@7453 Eiji · エイジ
+# Kích hoạt: Tấn công无效（护罩／装甲）（通用，2/3）
+> 「その程度の攻撃ならダメージは!」
+"Đòn tấn công này không thể làm tổn thương tôi chút nào!"
+
+@7454 Eiji · エイジ
+# Kích hoạt: Tấn công无效（护罩／装甲）（通用，3/3）
+> 「エルシエンパウダー散布!」
+“Trải bột Elucien!”
+
+@7455 Eiji · エイジ
+# Kích hoạt: 弹药／EN 不足，无法反击（通用，1/1）
+> 「くっ、だめか!?」
+"Chà, không thể được nữa à!?"
+
+@7456 Eiji · エイジ
+# Kích hoạt: 射程外，无法反击（通用，1/1）
+> 「卑怯者!」
+"Đồ phản diện đáng ghét!"
+
+@14479 Eiji · エイジ
+# Kích hoạt: 对手驾驶员〈ゴステロ〉
+> 「こいゴステロ! 勝負だ!」
+"Nào Gostro! Hãy chiến đấu!"
+
+@14480 Eiji · エイジ
+# Kích hoạt: 对手驾驶员〈ゴステロ〉
+> 「こいゴステロ! 勝負だ!」
+"Nào Gostro! Hãy chiến đấu!"
+
+@14481 Eiji · エイジ
+# Kích hoạt: 使用〈ナックルショット〉（低优先，可能被通用台词顶掉）（对话第 1/2 句）
+> 「レイ、ナックルへのエネルギー最大!」
+"Rey, hãy phát huy sức mạnh nắm đấm của mình lên mức tối đa!"
+
+@14482 Rei · レイ
+# Kích hoạt: 使用〈ナックルショット〉（低优先，可能被通用台词顶掉）（对话第 2/2 句）
+> 「レディ」
+"sẵn sàng"
+
+@14483 Eiji · エイジ
+# Kích hoạt: 使用〈V-MAX〉（对话第 1/2 句）
+> 「レイ、V-MAX発動!」
+"Rey, kích hoạt V-MAX!"
+
+@14484 Rei · レイ
+# Kích hoạt: 使用〈V-MAX〉（对话第 2/2 句）
+> 「レディ」
+"sẵn sàng"
+
+@14485 Eiji · エイジ
+# Kích hoạt: 使用〈カーフミサイル〉（低优先，可能被通用台词顶掉）
+> 「カーフミサイル、発射」
+"Chân tên lửa, phóng"
+
+@14486 Rei · レイ
+# Kích hoạt: Tấn công，乘坐〈レイズナー〉（对话第 1/2 句）
+> 「ターゲット捕捉!」
+"Khóa mục tiêu!"
+
+@14487 Eiji · エイジ
+# Kích hoạt: Tấn công，乘坐〈レイズナー〉（对话第 2/2 句）
+> 「いまだっ!」
+"Bây giờ!"
+
+@14488 Rei · レイ
+# Kích hoạt: Tấn công，乘坐〈ニューレイズナー〉（对话第 1/2 句）
+> 「ターゲット捕捉!」
+"Khóa mục tiêu!"
+
+@14489 Eiji · エイジ
+# Kích hoạt: Tấn công，乘坐〈ニューレイズナー〉（对话第 2/2 句）
+> 「いまだっ!」
+"Bây giờ!"
+
+@14490 Rei · レイ
+# Kích hoạt: 重伤（剩余 HP 不足 30%），乘坐〈レイズナー〉（对话第 1/2 句）
+> 「左上腕部駆動回路切断」
+"Mạch dẫn động tay trên bên trái bị cắt"
+
+@14491 Eiji · エイジ
+# Kích hoạt: 重伤（剩余 HP 不足 30%），乘坐〈レイズナー〉（对话第 2/2 句）
+> 「くそぉっ!」
+"Chết tiệt!"
+
+@14492 Rei · レイ
+# Kích hoạt: 重伤（剩余 HP 不足 30%），乘坐〈ニューレイズナー〉（对话第 1/2 句）
+> 「左上腕部駆動回路切断」
+"Mạch dẫn động tay trên bên trái bị cắt"
+
+@14493 Eiji · エイジ
+# Kích hoạt: 重伤（剩余 HP 不足 30%），乘坐〈ニューレイズナー〉（对话第 2/2 句）
+> 「くそぉっ!」
+"Chết tiệt!"
+
+@14494 Rei · レイ
+# Kích hoạt: 重伤（剩余 HP 不足 30%），乘坐〈レイズナー〉（对话第 1/2 句）
+> 「アラーム! 状況好転ノ
+>  見込ミナシ!」
+"Cảnh báo! Tình hình khó có khả năng cải thiện!"
+
+@14495 Eiji · エイジ
+# Kích hoạt: 重伤（剩余 HP 不足 30%），乘坐〈レイズナー〉（对话第 2/2 句）
+> 「まだ……まだだ!!」
+“Không phải…nó vẫn chưa kết thúc đâu!!”
+
+@14496 Rei · レイ
+# Kích hoạt: 重伤（剩余 HP 不足 30%），乘坐〈ニューレイズナー〉（对话第 1/2 句）
+> 「アラーム! 状況好転ノ
+>  見込ミナシ!」
+"Cảnh báo! Tình hình khó có khả năng cải thiện!"
+
+@14497 Eiji · エイジ
+# Kích hoạt: 重伤（剩余 HP 不足 30%），乘坐〈ニューレイズナー〉（对话第 2/2 句）
+> 「まだ……まだだ!!」
+“Không phải…nó vẫn chưa kết thúc đâu!!”
+
+@14498 Rei · レイ
+# Kích hoạt: 重伤（剩余 HP 不足 30%），乘坐〈レイズナー〉（对话第 1/2 句）
+> 「駆動部過大負荷!
+>  現状維持ハ危険!」
+"Bộ phận truyền động quá tải! Duy trì hiện trạng rất nguy hiểm!"
+
+@14499 Eiji · エイジ
+# Kích hoạt: 重伤（剩余 HP 不足 30%），乘坐〈レイズナー〉（对话第 2/2 句）
+> 「しまった!」
+"Ối!"
+
+@14500 Rei · レイ
+# Kích hoạt: 重伤（剩余 HP 不足 30%），乘坐〈ニューレイズナー〉（对话第 1/2 句）
+> 「駆動部過大負荷!
+>  現状維持ハ危険!」
+"Bộ phận truyền động quá tải! Duy trì hiện trạng rất nguy hiểm!"
+
+@14501 Eiji · エイジ
+# Kích hoạt: 重伤（剩余 HP 不足 30%），乘坐〈ニューレイズナー〉（对话第 2/2 句）
+> 「しまった!」
+"Ối!"
+
+@14502 Rei · レイ
+# Kích hoạt: 中伤（剩余 HP 30–90%），乘坐〈レイズナー〉（对话第 1/2 句）
+> 「燃料ポンプニ亀裂」
+"Bơm xăng bị nứt"
+
+@14503 Eiji · エイジ
+# Kích hoạt: 中伤（剩余 HP 30–90%），乘坐〈レイズナー〉（对话第 2/2 句）
+> 「くっそぉーっ!!」
+“Chết tiệt——!!”
+
+@14504 Rei · レイ
+# Kích hoạt: 中伤（剩余 HP 30–90%），乘坐〈ニューレイズナー〉（对话第 1/2 句）
+> 「燃料ポンプニ亀裂」
+"Bơm xăng bị nứt"
+
+@14505 Eiji · エイジ
+# Kích hoạt: 中伤（剩余 HP 30–90%），乘坐〈ニューレイズナー〉（对话第 2/2 句）
+> 「くっそぉーっ!!」
+“Chết tiệt——!!”
+
+@14506 Rei · レイ
+# Kích hoạt: 中伤（剩余 HP 30–90%），乘坐〈レイズナー〉
+> 「関節駆動部、過大負荷!」
+"Bộ truyền động chung, quá tải!"
+
+@14507 Rei · レイ
+# Kích hoạt: 中伤（剩余 HP 30–90%），乘坐〈ニューレイズナー〉
+> 「関節駆動部、過大負荷!」
+"Bộ truyền động chung, quá tải!"
+
+@14508 Eiji · エイジ
+# Kích hoạt: Né tránh，乘坐〈レイズナー〉
+> 「レイ! 急速回避だ!」
+"Rey! Tránh khẩn cấp!"
+
+@14509 Eiji · エイジ
+# Kích hoạt: Né tránh，乘坐〈レイズナー〉（对话第 1/2 句）
+> 「出力最大で回避!」
+"Toàn lực tránh né!"
+
+@14510 Rei · レイ
+# Kích hoạt: Né tránh，乘坐〈レイズナー〉（对话第 2/2 句）
+> 「ターゲット、回避終了!」
+"Mục tiêu, né tránh hoàn thành!"
+
+@14511 Eiji · エイジ
+# Kích hoạt: Né tránh，乘坐〈ニューレイズナー〉（对话第 1/2 句）
+> 「出力最大で回避!」
+"Toàn lực tránh né!"
+
+@14512 Rei · レイ
+# Kích hoạt: Né tránh，乘坐〈ニューレイズナー〉（对话第 2/2 句）
+> 「ターゲット、回避終了!」
+"Mục tiêu, né tránh hoàn thành!"
+
+@14513 Rei · レイ
+# Kích hoạt: 弹药／EN 不足，无法反击，乘坐〈レイズナー〉（对话第 1/2 句）
+> 「アラームメッセージ!
+>  エネルギー残量ゼロ!」
+"Tin nhắn báo động! Năng lượng còn lại bằng không!"
+
+@14514 Eiji · エイジ
+# Kích hoạt: 弹药／EN 不足，无法反击，乘坐〈レイズナー〉（对话第 2/2 句）
+> 「くっ」
+"Ừm"
+
+@14515 Rei · レイ
+# Kích hoạt: 弹药／EN 不足，无法反击，乘坐〈ニューレイズナー〉（对话第 1/2 句）
+> 「アラームメッセージ!
+>  エネルギー残量ゼロ!」
+"Tin nhắn báo động! Năng lượng còn lại bằng không!"
+
+@14516 Eiji · エイジ
+# Kích hoạt: 弹药／EN 不足，无法反击，乘坐〈ニューレイズナー〉（对话第 2/2 句）
+> 「くっ」
+"Ừm"
+
+@14517 Rei · レイ
+# Kích hoạt: 射程外，无法反击，乘坐〈レイズナー〉（对话第 1/2 句）
+> 「アラームメッセージ!
+>  敵対機射程外!」
+"Tin nhắn cảnh báo! Máy bay địch đã ra khỏi tầm bắn!"
+
+@14518 Eiji · エイジ
+# Kích hoạt: 射程外，无法反击，乘坐〈レイズナー〉（对话第 2/2 句）
+> 「卑怯なっ!」
+"Thật đáng khinh!"
+
+@14519 Rei · レイ
+# Kích hoạt: 射程外，无法反击，乘坐〈ニューレイズナー〉（对话第 1/2 句）
+> 「アラームメッセージ!
+>  敵対機射程外!」
+"Tin nhắn cảnh báo! Máy bay địch đã ra khỏi tầm bắn!"
+
+@14520 Eiji · エイジ
+# Kích hoạt: 射程外，无法反击，乘坐〈ニューレイズナー〉（对话第 2/2 句）
+> 「卑怯なっ!」
+"Thật đáng khinh!"

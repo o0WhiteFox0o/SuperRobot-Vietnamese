@@ -1,0 +1,192 @@
+# Bản dịch tiếng Việt Super Robot Wars 64
+# Định dạng và vị trí: docs/guide/dialogue-text.md
+
+@14010 Maganac Soldier · マグアナック兵
+# Kích hoạt: Tấn công (Chung，1/10）
+> 「邪魔なんだよ!」
+"Có cái gì đó cản đường!"
+
+@14011 Maganac Soldier · マグアナック兵
+# Kích hoạt: Tấn công (Chung，2/10）
+> 「うおおおおっ!!」
+“Ồ ồ! ! "
+
+@14012 Maganac Soldier · マグアナック兵
+# Kích hoạt: Tấn công (Chung，3/10）
+> 「これでとどめだ!!」
+“Một đòn này sẽ kết liễu ngươi!!”
+
+@14013 Maganac Soldier · マグアナック兵
+# Kích hoạt: Tấn công (Chung，4/10）
+> 「こいつで決めてやる!」
+“Tôi sẽ dùng cái này để thoát khỏi cậu!”
+
+@14014 Maganac Soldier · マグアナック兵
+# Kích hoạt: Tấn công (Chung，5/10）
+> 「やらせるかっ!!」
+"Đừng nghĩ tới chuyện đó nữa!!"
+
+@14015 Maganac Soldier · マグアナック兵
+# Kích hoạt: Tấn công (Chung，6/10）
+> 「落ちろっ!!」
+"Thả tôi xuống!!"
+
+@14016 Maganac Soldier · マグアナック兵
+# Kích hoạt: Tấn công (Chung，7/10）
+> 「このっ!!」
+"Chết tiệt!!"
+
+@14017 Maganac Soldier · マグアナック兵
+# Kích hoạt: Tấn công (Chung，8/10）
+> 「行くぞっ!!」
+"Hiểu rồi!!"
+
+@14018 Maganac Soldier · マグアナック兵
+# Kích hoạt: Tấn công (Chung，9/10）
+> 「そこだっ!」
+"Chính là nó!"
+
+@14019 Maganac Soldier · マグアナック兵
+# Kích hoạt: Tấn công (Chung，10/10）
+> 「もらった!」
+"Đã lấy nó!"
+
+@14020 Maganac Soldier · マグアナック兵
+# Kích hoạt: 被击坠（通用，1/2）
+> 「な、何だと!?」
+"C-Cái gì!?"
+
+@14021 Maganac Soldier · マグアナック兵
+# Kích hoạt: 被击坠（通用，2/2）
+> 「しまった! 直撃か!?」
+"Ối! Bị đánh à!?"
+
+@14022 Maganac Soldier · マグアナック兵
+# Kích hoạt: 重伤（剩余 HP 不足 30%）（通用，1/5）
+> 「ぐうっ、い、いかん、やられる!?」
+"Ừm, không, không, tôi sẽ bị giết!?"
+
+@14023 Maganac Soldier · マグアナック兵
+# Kích hoạt: 重伤（剩余 HP 不足 30%）（通用，2/5）
+> 「うおっ!? くっ、こっちが不利か!」
+"Uh-oh!? Chà, tôi đang ở thế bất lợi à!"
+
+@14024 Maganac Soldier · マグアナック兵
+# Kích hoạt: 重伤（剩余 HP 不足 30%）（通用，3/5）
+> 「ぬうううっ! つ、強いっ!」
+"Uh ồ ồ! Mạnh quá!"
+
+@14025 Maganac Soldier · マグアナック兵
+# Kích hoạt: 重伤（剩余 HP 不足 30%）（通用，4/5）
+> 「やるっ! さすがは!」
+"Phải mất hai! Bạn thực sự là một cao thủ!"
+
+@14026 Maganac Soldier · マグアナック兵
+# Kích hoạt: 重伤（剩余 HP 不足 30%）（通用，5/5）
+> 「ぐうぅっ!! パワーが違いすぎる!!」
+"Ồ ồ!! Sự chênh lệch sức mạnh quá lớn!!"
+
+@14027 Maganac Soldier · マグアナック兵
+# Kích hoạt: 中伤（剩余 HP 30–90%）（通用，1/5）
+> 「ちいっ! まだまだっ!」
+"Tsk! Vẫn còn sớm!"
+
+@14028 Maganac Soldier · マグアナック兵
+# Kích hoạt: 中伤（剩余 HP 30–90%）（通用，2/5）
+> 「くっ! 少しはできるな!」
+"Hmm! Bạn khá có năng lực!"
+
+@14029 Maganac Soldier · マグアナック兵
+# Kích hoạt: 中伤（剩余 HP 30–90%）（通用，3/5）
+> 「ぬうっ! そう簡単にやられはせん!!」
+"Hmm! Tôi sẽ không bị đánh bại dễ dàng như vậy đâu!!"
+
+@14030 Maganac Soldier · マグアナック兵
+# Kích hoạt: 中伤（剩余 HP 30–90%）（通用，4/5）
+> 「うっ! やってくれたな!!」
+"Hừ! Sao ngươi dám đánh ta!!"
+
+@14031 Maganac Soldier · マグアナック兵
+# Kích hoạt: 中伤（剩余 HP 30–90%）（通用，5/5）
+> 「まだだっ! まだこれからよ!!」
+"Mọi chuyện vẫn chưa kết thúc! Đây chỉ là sự khởi đầu thôi!!"
+
+@14032 Maganac Soldier · マグアナック兵
+# Kích hoạt: 轻伤（剩余 HP 90% 以上）（通用，1/5）
+> 「非力なんだよ!」
+"Mềm mại!"
+
+@14033 Maganac Soldier · マグアナック兵
+# Kích hoạt: 轻伤（剩余 HP 90% 以上）（通用，2/5）
+> 「パワー不足だな!」
+"Không đủ mạnh!"
+
+@14034 Maganac Soldier · マグアナック兵
+# Kích hoạt: 轻伤（剩余 HP 90% 以上）（通用，3/5）
+> 「その程度か!」
+“Đó là tất cả những gì cậu có à?”
+
+@14035 Maganac Soldier · マグアナック兵
+# Kích hoạt: 轻伤（剩余 HP 90% 以上）（通用，4/5）
+> 「そんな攻撃など効くものかよ!」
+“Làm sao đòn tấn công đó có thể hoạt động được?”
+
+@14036 Maganac Soldier · マグアナック兵
+# Kích hoạt: 轻伤（剩余 HP 90% 以上）（通用，5/5）
+> 「ふん、かすっただけよ!」
+"Hừm, chỉ là một vết xước thôi!"
+
+@14037 Maganac Soldier · マグアナック兵
+# Kích hoạt: Né tránh（通用，1/5）
+> 「当たるものかよ!」
+"Làm sao có thể đánh được!"
+
+@14038 Maganac Soldier · マグアナック兵
+# Kích hoạt: Né tránh（通用，2/5）
+> 「踏み込みが足りん!」
+"Bạn sạc chưa đủ mạnh!"
+
+@14039 Maganac Soldier · マグアナック兵
+# Kích hoạt: Né tránh（通用，3/5）
+> 「間合いが遠いわっ!」
+"Nó quá xa!"
+
+@14040 Maganac Soldier · マグアナック兵
+# Kích hoạt: Né tránh（通用，4/5）
+> 「狙いが甘い!」
+"Mục tiêu kém!"
+
+@14041 Maganac Soldier · マグアナック兵
+# Kích hoạt: Né tránh（通用，5/5）
+> 「バカめ。どこを狙っている!」
+"Đồ ngốc. Cậu đang nhắm vào đâu vậy!"
+
+@14042 Maganac Soldier · マグアナック兵
+# Kích hoạt: Tấn công无效（护罩／装甲）（通用，1/2）
+> 「ムダな攻撃をする……」
+"Thật lãng phí sức lực..."
+
+@14043 Maganac Soldier · マグアナック兵
+# Kích hoạt: Tấn công无效（护罩／装甲）（通用，2/2）
+> 「ふ、そんなビームではな!」
+“Hừm, loại chùm tia đó vô dụng thôi!”
+
+@14044 Maganac Soldier · マグアナック兵
+# Kích hoạt: 弹药／EN 不足，无法反击（通用，1/2）
+> 「ちっ、弾切れとはな……」
+“Chậc, thực ra không có đạn…”
+
+@14045 Maganac Soldier · マグアナック兵
+# Kích hoạt: 弹药／EN 不足，无法反击（通用，2/2）
+> 「弾切れか……しかたあるまい」
+"Không có đạn...chúng tôi không thể làm gì được"
+
+@14046 Maganac Soldier · マグアナック兵
+# Kích hoạt: 射程外，无法反击（通用，1/2）
+> 「ちっ、遠距離からの攻撃か……」
+"Chậc, cậu đang gọi từ xa à..."
+
+@14047 Maganac Soldier · マグアナック兵
+# Kích hoạt: 射程外，无法反击（通用，2/2）
+> 「む……ここからでは反撃できん」
+"Chà...không có cách nào để đánh trả từ đây."

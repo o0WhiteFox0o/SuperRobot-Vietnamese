@@ -1,0 +1,227 @@
+# Bản dịch tiếng Việt Super Robot Wars 64
+# Định dạng và vị trí: docs/guide/dialogue-text.md
+
+@13131 Sai Saici · サイ・サイシー
+# Kích hoạt: Tấn công (Chung，1/11）
+> 「はぁぁぁぁ!」
+"Haaahhhh!"
+
+@13132 Sai Saici · サイ・サイシー
+# Kích hoạt: Tấn công (Chung，2/11）
+> 「その首もらったぁ!」
+"Tôi sẽ lấy đầu của bạn!"
+
+@13133 Sai Saici · サイ・サイシー
+# Kích hoạt: Tấn công (Chung，3/11）
+> 「覚悟ぉ!」
+"Đáng chết!"
+
+@13134 Sai Saici · サイ・サイシー
+# Kích hoạt: Tấn công (Chung，4/11）
+> 「お前の負けだ!」
+"Bạn thua!"
+
+@13135 Sai Saici · サイ・サイシー
+# Kích hoạt: Tấn công (Chung，5/11）
+> 「いけぇぇいっ!」
+"Nào——!"
+
+@13136 Sai Saici · サイ・サイシー
+# Kích hoạt: Tấn công (Chung，6/11）
+> 「もらったぁ!」
+"Đã lấy nó!"
+
+@13137 Sai Saici · サイ・サイシー
+# Kích hoạt: Tấn công (Chung，7/11）
+> 「容赦しないぜ!」
+"Tôi sẽ không thể hiện lòng thương xót!"
+
+@13138 Sai Saici · サイ・サイシー
+# Kích hoạt: Tấn công (Chung，8/11）
+> 「くらえぃ!」
+"Hãy di chuyển!"
+
+@13139 Sai Saici · サイ・サイシー
+# Kích hoạt: Tấn công (Chung，9/11）
+> 「とぉどめぇぇ!」
+“Đòn cuối cùng——!”
+
+@13140 Sai Saici · サイ・サイシー
+# Kích hoạt: Tấn công (Chung，10/11）
+> 「トリャァァァァ!」
+"Này a a a a a!"
+
+@13141 Sai Saici · サイ・サイシー
+# Kích hoạt: Tấn công (Chung，11/11）
+> 「こうなりゃ奥の手だ!」
+"Lần này tôi phải sử dụng chiêu cuối của mình!"
+
+@13142 Sai Saici · サイ・サイシー
+# Kích hoạt: 被击坠（通用，1/4）
+> 「オイラの……負けだ」
+"Tôi... thua rồi."
+
+@13143 Sai Saici · サイ・サイシー
+# Kích hoạt: 被击坠（通用，2/4）
+> 「くっそぉぉぉぉぉぉ!」
+"Chết tiệt, ahhh!"
+
+@13144 Sai Saici · サイ・サイシー
+# Kích hoạt: 被击坠（通用，3/4）
+> 「ド、ドモンのアニキ……」
+"Anh Đa Mộng..."
+
+@13145 Sai Saici · サイ・サイシー
+# Kích hoạt: 被击坠（通用，4/4）
+> 「父さん……父さぁぁぁん……」
+"Bố...Bố ah ah ah..."
+
+@13146 Sai Saici · サイ・サイシー
+# Kích hoạt: 重伤（剩余 HP 不足 30%）（通用，1/4）
+> 「負けられないんだぁぁ!」
+"Tôi không thể thua!"
+
+@13147 Sai Saici · サイ・サイシー
+# Kích hoạt: 重伤（剩余 HP 不足 30%）（通用，2/4）
+> 「ぐぅぅ、死んでも負けるわけにはぁ!」
+"Hừm, cho dù có chết, ta cũng không thể thua!"
+
+@13148 Sai Saici · サイ・サイシー
+# Kích hoạt: 重伤（剩余 HP 不足 30%）（通用，3/4）
+> 「うわぁぁぁぁ!」
+"Ồ!"
+
+@13149 Sai Saici · サイ・サイシー
+# Kích hoạt: 重伤（剩余 HP 不足 30%）（通用，4/4）
+> 「うおおぉぉぉぉぉぉーっ!」
+"Ồhhhhhh-!"
+
+@13150 Sai Saici · サイ・サイシー
+# Kích hoạt: 中伤（剩余 HP 30–90%）（通用，1/4）
+> 「こんなものでぇ負けられるかぁぁぁ!」
+"Chỉ vết thương nhỏ này thôi, làm sao có thể thua được!"
+
+@13151 Sai Saici · サイ・サイシー
+# Kích hoạt: 中伤（剩余 HP 30–90%）（通用，2/4）
+> 「まだだっ!」
+"Nó vẫn chưa kết thúc!"
+
+@13152 Sai Saici · サイ・サイシー
+# Kích hoạt: 中伤（剩余 HP 30–90%）（通用，3/4）
+> 「や、やったな!」
+"Ngươi, ngươi thật sự rất dũng cảm!"
+
+@13153 Sai Saici · サイ・サイシー
+# Kích hoạt: 中伤（剩余 HP 30–90%）（通用，4/4）
+> 「こんなに強い奴がいたとは、
+>  うれしいねぇ」
+"Không ngờ lại có một người mạnh mẽ như vậy. Tôi thực sự rất vui mừng."
+
+@13154 Sai Saici · サイ・サイシー
+# Kích hoạt: 轻伤（剩余 HP 90% 以上）（通用，1/3）
+> 「そんなんでオイラを倒そうっての!?」
+“Anh muốn đánh bại tôi bằng thứ đó sao!?”
+
+@13155 Sai Saici · サイ・サイシー
+# Kích hoạt: 轻伤（剩余 HP 90% 以上）（通用，2/3）
+> 「へへっ効いてないぜ」
+“Này, nó không đau hay ngứa chút nào cả.”
+
+@13156 Sai Saici · サイ・サイシー
+# Kích hoạt: 轻伤（剩余 HP 90% 以上）（通用，3/3）
+> 「あまいあまい」
+"Thật ngây thơ, thật ngây thơ."
+
+@13157 Sai Saici · サイ・サイシー
+# Kích hoạt: Né tránh（通用，1/4）
+> 「かわした!」
+"Tránh nó ra!"
+
+@13158 Sai Saici · サイ・サイシー
+# Kích hoạt: Né tránh（通用，2/4）
+> 「そんなもの!」
+"Cái quái gì vậy!"
+
+@13159 Sai Saici · サイ・サイシー
+# Kích hoạt: Né tránh（通用，3/4）
+> 「ははははははっ、オイラはここさ!」
+"Hahahahaha, tôi ở đây!"
+
+@13160 Sai Saici · サイ・サイシー
+# Kích hoạt: Né tránh（通用，4/4）
+> 「ヘヘンッ、オイラの姿が見えるかい!?」
+"Này, bạn có thấy tôi không!?"
+
+@13161 Sai Saici · サイ・サイシー
+# Kích hoạt: Tấn công无效（护罩／装甲）（通用，1/2）
+> 「どうだ! びびって口もきけねぇだろ!」
+"Làm sao vậy! Ngươi sợ đến nói không ra lời!"
+
+@13162 Sai Saici · サイ・サイシー
+# Kích hoạt: Tấn công无效（护罩／装甲）（通用，2/2）
+> 「へへっ効くわけないだろっ!」
+"Này, làm sao nó có thể hoạt động được!"
+
+@13163 Sai Saici · サイ・サイシー
+# Kích hoạt: 弹药／EN 不足，无法反击（通用，1/1）
+> 「オイラとしたことが……」
+"Tôi thực sự sẽ mắc phải một sai lầm như vậy..."
+
+@13164 Sai Saici · サイ・サイシー
+# Kích hoạt: 射程外，无法反击（通用，1/1）
+> 「ちくしょう、卑怯だぞ!」
+"Chết tiệt, thật đáng khinh!"
+
+@17321 Sai Saici · サイ・サイシー
+# Kích hoạt: 使用〈無影脚〉（低优先，可能被通用台词顶掉）
+> 「無影脚ぅぅぅ!」
+“Bàn chân vô bóng——!”
+
+@17322 Sai Saici · サイ・サイシー
+# Kích hoạt: 使用〈フェイロンフラッグ〉（低优先，可能被通用台词顶掉）
+> 「こうなったら決めてやる!
+>  まわれ、フェイロンフラッグ!」
+"Trong trường hợp này, một nước đi sẽ quyết định kết quả! Hãy quay lại đi, Phi Long Cờ!"
+
+@17323 Sai Saici · サイ・サイシー
+# Kích hoạt: 使用〈フェイロンフラッグ〉（低优先，可能被通用台词顶掉）
+> 「フェイロンフラッグ!」
+"Cờ rồng bay!"
+
+@17324 Sai Saici · サイ・サイシー
+# Kích hoạt: 使用〈ドラゴンファイヤー〉（低优先，可能被通用台词顶掉）
+> 「はしれ! パオペイ!」
+"Chạy đi em yêu!"
+
+@17325 Sai Saici · サイ・サイシー
+# Kích hoạt: 使用〈ドラゴンファイヤー〉（低优先，可能被通用台词顶掉）
+> 「ドラゴンファイヤー!」
+"Ngọn lửa rồng!"
+
+@17326 Sai Saici · サイ・サイシー
+# Kích hoạt: 使用〈宝華教典・十絶陣〉（低优先，可能被通用台词顶掉）
+> 「宝華教典…十絶陣!!
+>  たああっ!!」
+"Baohua Canon...Thập Quyết Trận!! Taaaaah!!"
+
+@17327 Sai Saici · サイ・サイシー
+# Kích hoạt: 使用〈真・流星胡蝶剣〉（对话第 1/2 句）
+> 「天に竹林、地に少林寺、
+>  目にもの見せるは最終秘伝!」
+"Trên trời có rừng tre, dưới đất có Thiếu Lâm tự, để ngươi trải nghiệm cực hạn bí mật!"
+
+@17328 Sai Saici · サイ・サイシー
+# Kích hoạt: 使用〈真・流星胡蝶剣〉（对话第 2/2 句）
+> 「真・流星胡蝶剣!」
+"Thiên Thạch Bướm Kiếm chân chính!"
+
+@17329 Sai Saici · サイ・サイシー
+# Kích hoạt: 使用〈真・流星胡蝶剣〉（对话第 1/2 句）
+> 「天に竹林、地に少林寺、
+>  目にもの見せよ最終奥義ぃ!」
+"Trên trời có rừng tre, dưới đất có Thiếu Lâm tự, để ngươi trải nghiệm cực hạn bí mật!"
+
+@17330 Sai Saici · サイ・サイシー
+# Kích hoạt: 使用〈真・流星胡蝶剣〉（对话第 2/2 句）
+> 「いっくぞぉ! 真・流星胡蝶剣」
+"Tiến lên! Thanh kiếm bướm sao băng đích thực"

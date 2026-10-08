@@ -1,0 +1,1261 @@
+# Bản dịch tiếng Việt Super Robot Wars 64
+# Định dạng và vị trí: docs/guide/dialogue-text.md
+
+@18898 David · デビッド
+> 「そういえば、結局ほかのは
+>  どうだったんだ?」
+"Nhân tiện, chuyện gì đã xảy ra với những người khác?"
+
+@18899 Roux · ルー
+> 「どうって……なにが?」
+"Thế còn... cái gì?"
+
+@18900 Aboly · アポリー
+> 「M作戦についてだろう
+"Nó có nghĩa là chiến đấu với M.
+---
+>  地球に降下したのは
+>  6つだったという話だ」
+Người ta nói rằng sáu người trong số họ đã hạ cánh xuống Trái đất. "
+
+@18901 Roux · ルー
+> 「でもそれらしい騒ぎが
+>  確認できたのは5か所で
+“Nhưng chỉ có năm nơi thực sự gây ồn ào.
+---
+>  もう1つは不明だって話よ」
+Tôi nghe nói còn một nơi khác vẫn còn thiếu. "
+
+@18902 David · デビッド
+> 「やっぱり全部あれみたいな
+>  やつだったのか?」
+"Họ có thực sự giống với anh chàng đó không?"
+
+@18903 Roux · ルー
+> 「ちゃんとは確認できてない
+>  みたいだけどね
+“Có vẻ như nó vẫn chưa được xác nhận.
+---
+>  残り4か所は遭遇した部隊が
+>  全滅してるって聞いたわ」
+Nhưng tôi nghe nói ở những nơi khác, tất cả quân đội gặp phải chúng đều bị tiêu diệt. "
+
+@18904 Selain · セレイン（按段落 3DD2）
+> 「ガンダムタイプが5機、か。
+>  もう1つも気になるところだな」
+"Có năm loại Gundun. Loại còn lại cũng đáng lo ngại."
+
+@18905 David · デビッド
+> 「だけどよ、たいしたことはなかったな。
+>  あっさりやられちまったみたいだし」
+"Nhưng, nó không mạnh đến thế. Có vẻ như anh ta đã bị hạ gục ngay lập tức."
+
+@18906 Selain · セレイン（按段落 3DD2）
+> 「あれは相手が悪かったな。
+>  その証拠に他の4か所では
+“Đó là vì đối thủ mà nó gặp phải quá mạnh. Bằng chứng nằm ở bốn nơi còn lại,
+---
+>  遭遇した部隊や襲撃された
+>  基地、すべて全滅だそうだ
+Tất cả quân đội họ chạm trán và các căn cứ họ tấn công đều bị xóa sổ.
+---
+>  どれも単独行動というのが
+>  解せないが」
+Tất cả họ đều hành động một mình, điều này thật khó hiểu. "
+
+@18907 Anna · アンナ
+> 「いったい、どんな人たちなのかしら」
+"Họ là ai?"
+
+@18908 Aboly · アポリー
+> 「やられないかぎりは、
+>  いずれ会うこともあるさ
+“Chỉ cần không bị giết, sớm muộn gì chúng ta cũng sẽ gặp nhau.
+---
+>  それよりもアンナ、
+>  エイジの方は大丈夫なのか?」
+Chúng ta đừng nói về chuyện đó nữa, Anna, Eiji ổn chứ? "
+
+@18909 Anna · アンナ
+> 「……とりあえず、落ち着いては
+>  いるみたいです。でも……」
+"...Có vẻ như bây giờ đã bình tĩnh lại rồi. Nhưng..."
+
+@18910 Aboly · アポリー
+> 「姉の婚約者だったって
+>  話だからな
+“Dù sao thì anh ấy cũng là chồng sắp cưới của em gái anh ấy.
+---
+>  ま、少しくらいはしかたがないか……」
+Chà, buồn bã một thời gian thì chúng ta chẳng thể làm gì được…”
+
+@18911 David · デビッド
+> 「なに、あいつだって、だてに帝国に
+>  戦いを挑んでるわけじゃない
+“Đừng lo lắng, tên đó sẽ không nói đùa nếu hắn dám gây chiến với đế quốc.
+---
+>  大丈夫さ」
+Anh ấy ổn. "
+
+@18912 Heero · ヒイロ
+> 「A級市民の学校か……
+>  ちょうどいい
+“Một ngôi trường dành cho công dân hạng A…đúng rồi.
+---
+>  転入手続き……クリア。
+>  各種入金……クリア
+Thủ tục chuyển nhượng...hoàn tất. Tất cả các khoản thanh toán...đã hoàn tất.
+---
+>  帝国軍の基地データの
+>  アクセスは……」
+Truy cập dữ liệu căn cứ của Quân đội Đế quốc..."
+
+@18913 Teacher · 先生
+> 「今日からみなさんと一緒に
+>  学ぶことになった
+"Người này sẽ học cùng các bạn kể từ hôm nay.
+---
+>  ヒイロ・ユイくんです」
+Bạn cùng lớp Hiro Wei. "
+
+@18914 Heero · ヒイロ
+> 「よろしく」
+"Xin hãy cho tôi thêm lời khuyên."
+
+@18915 Relena · リリーナ
+> (あの子……あのときの……
+>  間違いないわ)
+(Người đó... đến từ lúc đó... đúng rồi...)
+
+@18916 Karla · カルラ
+> 「……ジュリア・アスカ……まさかお前が
+>  くるとはな」
+"...Julia Asuka...Tôi không ngờ là cô sẽ đến."
+
+@18917 Julia · ジュリア
+> 「……………………」
+“………………”
+
+@18918 Karla · カルラ
+> 「お前にブラッディカイザルに乗る
+>  資格などない! ゲイル中尉の
+“Anh không đủ tư cách để lái chiếc Bloody Caesar! Chiếc máy này và của Trung úy Gale
+---
+>  愛機と同型のこの機体には、
+>  中尉の復讐をとげられる者が
+Cỗ máy tình yêu cũng thuộc loại đó và phải được chọn bởi người có thể trả thù cho trung úy.
+---
+>  乗らねばならない。お前にその資格
+>  があるのか!?
+Hãy lái xe đi. Bạn có đủ trình độ đó không? ?
+---
+>  エイジと血のつながっているお前に!」
+Bạn là người có mối liên hệ huyết thống với Eiji! "
+
+@18919 Julia · ジュリア
+> 「……………………」
+“………………”
+
+@18920 Karla · カルラ
+> 「なんとかいったらどうだ。ふん、何もいえ
+>  まい。もともとこのブラッディカイザルは
+"Ngươi nên nói cái gì đó. Hừ, ngươi cái gì cũng không thể nói được. Vốn dĩ cái này Caesar chết tiệt
+---
+>  中尉の信頼と愛を得ていた私
+>  が乗っていて当然なのだ。なのに
+Nó phải được lái bởi tôi, người được trung úy tin tưởng và yêu mến. Nhưng tại sao
+---
+>  どうしてお前のような女が!」
+Đó là một người phụ nữ như bạn! "
+
+@18921 Julia · ジュリア
+> 「愛とはどういう意味です」
+“Anh có ý gì khi nói tình yêu?”
+
+@18922 Karla · カルラ
+> 「……中尉は男、私は女、男と
+>  女の間に何があったかぐらい
+“…Trung uý là nam và tôi là nữ. Chuyện gì đã xảy ra giữa nam và nữ?
+---
+>  想像がつくだろう」
+Bạn sẽ có thể tưởng tượng nó. "
+
+@18923 Julia · ジュリア
+> 「嘘です。あの人とあなたの間に、
+>  上官と部下以外の関係が
+"Anh đang nói dối. Giữa anh ấy và anh không có chuyện gì cả."
+---
+>  存在するはずがありません」
+Các mối quan hệ khác ngoài cấp trên và cấp dưới. "
+
+@18924 Karla · カルラ
+> 「どうしてそんなことがわかる!? 中尉
+>  と私は寝食をともにしながら
+“Sao anh lại nói vậy!? Tôi và trung úy đã sống và ăn cùng nhau.
+---
+>  生活をしてきたのだ。その間のことが
+>  おまえにわかってたまるか!」
+Sống cùng nhau. Làm sao bạn có thể hiểu được chuyện gì đã xảy ra trong khoảng thời gian này! "
+
+@18925 Julia · ジュリア
+> 「いいえ…………」
+"Không..."
+
+@18926 Karla · カルラ
+> 「くっ……なにがおかしい!」
+"Hừm... có gì mà buồn cười thế!"
+
+@18927 Julia · ジュリア
+> 「わかっていないのは、あなたのほうです。
+>  あの人は私の胸で生きています
+“Chính anh không hiểu được, anh ấy sống trong trái tim tôi.
+---
+>  私はあの人との愛を貫くために
+>  家族と決別し、弟のエイジとの
+Để giữ được tình yêu với anh, tôi đã từ biệt gia đình và quyết tâm
+---
+>  戦いをまっとうしようとしているのです。
+>  私の中のあの人はそのことをすべて
+Chiến đấu đến cùng với em trai Eiji. Trong lòng tôi anh ấy quan tâm đến tất cả những điều này
+---
+>  理解しています。あなたのいっている
+>  嘘は彼への侮辱でしかありません」
+Tất cả đều hiểu. Những lời nói dối bạn nói chỉ là xúc phạm anh ấy mà thôi. "
+
+@18928 Karla · カルラ
+> 「なんだと!? くっ……いいだろう、せいぜ
+>  いやってみせるがいい。エイジと
+"Bạn vừa nói gì cơ!? Chà... được rồi, cứ thử đi. Đừng để bị Eiji lừa
+---
+>  地球人どもに、やられてしまわなけれ
+>  ばいいがな」
+Đã giết những người trái đất đó. "
+
+@18929 Julia · ジュリア
+> 「…………」
+“…………”
+
+@18930 Bright · ブライト
+> 「作戦の手順は説明したとおりだ
+>  敵の新型のデータ収集が
+“Các bước chiến đấu như vừa giải thích. Mục đích là thu thập dữ liệu về máy bay mới của địch.
+---
+>  目的だが、可能ならば捕獲
+>  したい。もう1つの目的は
+Tốt nhất là nắm bắt nó nếu có thể. Một mục đích khác là
+---
+>  我々が帝国に対して
+>  積極的に戦う意思と力を
+Hãy để thế giới bên ngoài biết rằng chúng ta có ý chí và sẵn sàng chủ động chống đế quốc.
+---
+>  持っているということを
+>  知らしめることにある。大尉」
+Sức mạnh. Thuyền trưởng. "
+
+@18931 Quattro · クワトロ
+> 「こちらから敵の基地に
+>  奇襲をかけるのは初めてだが
+“Đây là lần đầu tiên chúng ta chủ động tấn công bất ngờ vào căn cứ địch.
+---
+>  試作機のテストをやっていることから
+>  考えても、この基地にはたいした
+Nhưng vì họ đang thử nghiệm nguyên mẫu ở đây nên căn cứ này
+---
+>  戦力はない。しかし、帝国軍の
+>  増援はくる。我々の目的が
+Không nên có bất kỳ sức mạnh chiến đấu tốt nào. Nhưng quân tiếp viện từ Quân đội Đế quốc chắc chắn sẽ đến.
+---
+>  敵基地のせん滅にあるのではない
+>  ことを、忘れるな」
+Đừng quên, mục tiêu của chúng ta không phải là quét sạch căn cứ của kẻ thù. "
+
+@18932 Bright · ブライト
+> 「そういうことだ。みんな頼むぞ。
+>  では、出撃だ」
+"Đó là nó. Mọi người, làm ơn. Tấn công! "
+
+@18933 Fa · ファ
+> 「カミーユ、 待ってよカミーユ」
+"Camus, đợi tôi Camus! "
+
+@18934 Kamille · カミーユ
+> 「いうなよ、
+>  カミーユだってのが俺だって
+“Đừng hét lên nữa rồi mọi người sẽ biết
+---
+>  誰にでもわかってしまうだろ」
+Camus là tôi! "
+
+@18935 Fa · ファ
+> 「みんな知ってるわよ
+"Mọi người đều biết điều đó.
+---
+>  本人だけが承知して
+>  ないんじゃない
+Chỉ là tôi không muốn thừa nhận điều đó.
+---
+>  どこいくのよ」
+Bạn đang đi đâu? "
+
+@18936 Kamille · カミーユ
+> 「どこだっていいだろ」
+“Không quan trọng bạn đi đâu. "
+
+@18937 Kacricon · カクリコン
+> 「ジェリド!」
+“Jelide! "
+
+@18938 Jerid · ジェリド
+> 「カクリコン!
+>  スペシャルズらしくなって
+“Catricon! Cuối cùng nó trông giống như một lực lượng đặc biệt.
+---
+>  よくきてくれた」
+Vâng đến. "
+
+@18939 Kamille · カミーユ
+> 「……スペシャルズか……」
+"...Lực lượng đặc biệt..."
+
+@18940 Fa · ファ
+> 「カミーユ!」
+"Camus! "
+
+@18941 Jerid · ジェリド
+> 「ん?」
+"Hả? "
+
+@18942 Fa · ファ
+> 「カミーユ、待ってよ」
+"Camus, đợi tôi với! "
+
+@18943 Jerid · ジェリド
+> 「女の名前なのに……なんだ男か」
+“Rõ ràng là tên phụ nữ… nhưng hóa ra lại là đàn ông. "
+
+@18944 Kamille · カミーユ
+> 「!!」
+"! ! "
+
+@18945 Fa · ファ
+> 「どうしたの、カミーユ?
+>  ……カミーユ、だめよ、そっちは!」
+"Có chuyện gì vậy, Camus? ...Camus, không, cậu không thể đến đó được! "
+
+@18946 Jerid · ジェリド
+> 「ん?
+>  カクリコン特尉の知り合いか?」
+"Hả? Bạn có biết Trung úy Cacklecon không? "
+
+@18947 Kamille · カミーユ
+> 「なめるなっ!!」
+“Đừng đánh giá thấp mọi người! ! "
+
+@18948 Jerid · ジェリド
+> 「ぐっ!?」
+"Hừm! ? "
+
+@18949 Kacricon · カクリコン
+> 「なんだ貴様!?
+"Ngươi muốn làm gì! ?
+---
+>  俺たちがスペシャルズと知って
+>  ちょっかいを出してきたのか!?
+Biết chúng tôi là lực lượng đặc biệt mà còn dám khiêu khích chúng tôi sao? ?
+---
+>  とり押さえろ!」
+Bắt hắn! "
+
+@18950 Kamille · カミーユ
+> 「くっ、
+>  カミーユが男の名前で
+"Ừ, Camus là tên dành cho đàn ông.
+---
+>  なんで悪いんだ!
+>  俺は男だよ!!」
+Có gì đó không ổn! Tôi là một người đàn ông! ! "
+
+@18951 Kacricon · カクリコン
+> 「こいつ!」
+"Đồ khốn! "
+
+@18952 Kamille · カミーユ
+> 「ぐぅっ」
+"Hừm! "
+
+@18953 Jerid · ジェリド
+> 「なんだ、こいつは」
+"Anh chàng này đang làm gì vậy? "
+
+@18954 Kamille · カミーユ
+> 「く……言っていいことと、
+>  悪いことがある!
+“Chà…có những điều có thể nói, và có những điều không thể nói được!
+---
+>  男に向かって、
+>  なんだはないだろう!」
+Nói với một người đàn ông rằng ‘Thì ra là đàn ông’ có nực cười không? "
+
+@18955 Jerid · ジェリド
+> 「そうか……そういうことか。
+>  なら男らしく扱ってやるよ。そらっ」
+"Thật sao... tôi hiểu rồi. Vậy thì tôi sẽ giải trí cho bạn theo cách của một người đàn ông. Hãy xem chiêu trò này nhé!"
+
+@18956 Kamille · カミーユ
+> 「あぅっ」
+"À ugh!"
+
+@18957 Jerid · ジェリド
+> 「ハハハハハハハッ!」
+"Hahahahaha!"
+
+@18958 Kacricon · カクリコン
+> 「連れていけ!」
+"Mang nó đi!"
+
+@18959 Fa · ファ
+> 「カミーユッ!?」
+“Camus!?”
+
+@18960 Kacricon · カクリコン
+> 「レジスタンスでないものが、
+>  なんでスペシャルズに
+“Nếu không phải người của tổ chức kháng chiến, tại sao lại muốn gia nhập lực lượng đặc biệt?
+---
+>  ケンカをふっかけるんだ!?
+>  ええ? おかしいじゃないか!」
+Rắc rối! ? Hả? Điều này không có ý nghĩa! "
+
+@18961 Kamille · カミーユ
+> 「…………」
+“…………”
+
+@18962 Kacricon · カクリコン
+> 「黙ってちゃわからんだろうが!」
+"Làm sao tôi biết nếu bạn không nói gì?"
+
+@18963 Kacricon · カクリコン
+> 「なんだ!?」
+"Chuyện gì đang xảy ra vậy!?"
+
+@18964 Kacricon · カクリコン
+> 「まさか……
+>  敵の攻撃だってのか!?」
+"Có thể nào là... một cuộc tấn công của kẻ thù!?"
+
+@18965 Kamille · カミーユ
+> 「なにが……起こっているんだ……?」
+"Chuyện quái gì đã xảy ra vậy...?"
+
+@18966 Kacricon · カクリコン
+> 「こんなところに敵がくるのかよ」
+"Kẻ địch sao có thể tới nơi như thế này!"
+
+@18967 Jerid · ジェリド
+> 「レジスタンスだってのか!?
+>  一体何の目的で!」
+"Ý bạn là phản kháng!? Họ muốn làm cái quái gì vậy!"
+
+@18968 Lila · ライラ
+> 「ガンダムmkⅡが目的だと
+>  思いたいけどね
+"Tôi hy vọng mục tiêu của họ là chiếc Gundam Mk-II.
+---
+>  とにかく、対応するんだよ。
+>  来たよ」
+Dù sao thì hãy chiến đấu trước. Đang đến! "
+
+@18969 Quattro · クワトロ
+> 「あれか……黒いMS
+>  ……ガンダムだと!?」
+"Đó có phải là...chiếc MS màu đen...thực ra nó là một chiếc gundam!?"
+
+@18970 Aboly · アポリー
+> 「どうしますか、大尉」
+"Phải làm gì đây, thuyền trưởng?"
+
+@18971 Quattro · クワトロ
+> 「戦闘データをとる
+>  ……全機、続け」
+"Thu thập dữ liệu chiến đấu...tất cả máy bay, theo kịp."
+
+@18972 Kamille · カミーユ
+> 「戻ってこない……なんだっていうんだ。
+>  ……開いている?」
+"Không có ai quay lại... Chuyện gì vậy?...Cửa mở à?"
+
+@18973 Kamille · カミーユ
+> 「誰もいないのか……?」
+"Không có ai sao...?"
+
+@18974 Aboly · アポリー
+> 「大尉、あそこの格納庫に
+>  もう1機いるようです」
+"Đội trưởng, hình như còn có một người khác ở Gnakuli đằng kia."
+
+@18975 Quattro · クワトロ
+> 「出てこないということは……
+>  動けないのか?
+“Bạn không đi ra… Chẳng lẽ là bạn không thể di chuyển?
+---
+>  よし、捕獲するぞ」
+Được rồi, nắm lấy nó! "
+
+@18976 Kamille · カミーユ
+> (あのMS……)
+(MS đó...)
+
+@18977 Emma · エマ
+> 「!? ちょっとあなた、何をするの!
+>  あぶないから、やめなさい!」
+"!? Này, cậu đang làm gì vậy! Nguy hiểm quá, dừng lại đi!"
+
+@18978 Kamille · カミーユ
+> 「……火が入っている」
+"...kích hoạt."
+
+@18979 Emma · エマ
+> 「ちょっとあなた、待ちなさい!」
+"Này, dừng lại!"
+
+@18980 Kamille · カミーユ
+> 「危ないですよ!
+>  下がっていてください!」
+"Nguy hiểm! Xin hãy lùi lại!"
+
+@18981 Emma · エマ
+> 「きゃあっ!! なに、この子……
+>  MSを知っている!?」
+"A! Thằng nhóc này bị sao vậy... Nó thực sự hiểu được MS!?"
+
+@18982 Bask · バスク
+> 「何をしておる!
+>  はやく出させいっ!」
+"Anh đang làm gì vậy! Hãy để anh ấy ra ngoài!"
+
+@18983 Emma · エマ
+> 「バスク特佐! あれに乗って
+>  いるのは、パイロットじゃありません!」
+"Basquetzo! Người lái chiếc đó không phải là phi công!"
+
+@18984 Bask · バスク
+> 「なんだと!?
+"Cái gì!?
+---
+>  パイロットでない者が何故
+>  mkⅡに乗っているか!
+Làm sao một người không phải là phi công có thể vào được Mk-II!
+---
+>  やめさせろ!」
+Làm anh ta dừng lại đi! "
+
+@18985 Aboly · アポリー
+> 「大尉、あれを!」
+"Đội trưởng, nhìn này!"
+
+@18986 Quattro · クワトロ
+> 「なに、動くのか?」
+“Cái gì, cậu có thể di chuyển được không?”
+
+@18987 Lila · ライラ
+> 「遅いぞ、援護しろ!
+>  おい、聞こえているのか!」
+"Chậm quá, che chắn cho tôi! Này, cậu có nghe thấy không?"
+
+@18988 Jerid · ジェリド
+> 「来たか、こっちを援護してくれ!
+>  おい、聞いているのか!?」
+"Anh ấy tới rồi, yểm trợ cho tôi nhanh lên! Này, bạn có nghe thấy tôi không!?"
+
+@18989 Kacricon · カクリコン
+> 「早く援護してくれ!
+>  おい! 早く!」
+"Yểm trợ cho tôi! Này! Nhanh lên!"
+
+@18990 Kamille · カミーユ
+> 「…………」
+“…………”
+
+@18991 Emma · エマ
+> 「3号機に乗っているのは
+>  パイロットじゃないわ。押さえて!」
+"Người đàn ông trên tàu số 3 không phải là phi công. Hãy ngăn anh ta lại!"
+
+@18992 Quattro · クワトロ
+> 「ほう……あの機体には手はだすな、
+>  敵ではないようだ」
+"Ồ... đừng làm gì với cái máy đó. Nó trông không giống kẻ thù chút nào."
+
+@18993 Kamille · カミーユ
+> 「そうだ、僕は敵じゃない。
+>  あなたがたの、味方だ!」
+"Đúng vậy, ta không phải kẻ địch, ta đứng về phía ngươi!"
+
+@18994 Lila · ライラ
+> 「子供だと!?
+>  なぜ子供が乗っているのだ!?」
+"Đứa trẻ!? Tại sao lại là một đứa trẻ lái xe!?"
+
+@18995 Jerid · ジェリド
+> 「なんだと!?
+>  何を言ってるんだ?」
+"Cái gì!? Bạn đang nói về cái gì vậy?"
+
+@18996 Kacricon · カクリコン
+> 「ばかな、なんでパイロットじゃない者が
+>  mkⅡに乗る!?」
+"Không thể nào, tại sao một người không phải phi công lại lái chiếc Mk-II!?"
+
+@18997 Kamille · カミーユ
+> 「証拠を見せてやる!」
+"Tôi sẽ chứng minh cho bạn thấy!"
+
+@18998 Bask · バスク
+> 「レジスタンスどもが
+>  調子に乗りおって
+“Những kẻ từ Tổ chức Kháng chiến quá kiêu ngạo.
+---
+>  これでは正規軍にたいして
+>  示しがつかん
+Không có cách nào để giải thích điều này với quân đội chính quy.
+---
+>  やつらを逃がすな!」
+Đừng để họ trốn thoát! "
+
+@18999 Giura · ギウラ
+> 「苦戦しているようだな。
+>  我々が援護しよう」
+"Có vẻ như bạn đang gặp khó khăn khi chiến đấu. Chúng tôi ở đây để hỗ trợ bạn."
+
+@19000 Bask · バスク
+> 「く……正規軍か……。
+>  貴公らの協力に感謝する」
+"Ừm...quân đội chính quy...cảm ơn sự giúp đỡ của các bạn."
+
+@19001 Giura · ギウラ
+> 「うむ。かかれ!
+>  レジスタンスをせん滅するのだ!」
+"Vâng. Tiến lên! Tiêu diệt tổ chức kháng chiến!"
+
+@19002 Quattro · クワトロ
+> 「新手か……まずいな、
+>  時間をかけすぎたか……」
+“Địch đã tăng viện… không ổn, đã trì hoãn quá lâu…”
+
+@19003 Julia · ジュリア
+> 「…………」
+“…………”
+
+@19004 Eiji · エイジ
+> 「赤いグライムカイザル……
+>  ゲイル先輩が生きていたのか!?」
+"Red Graeme Caesar... Gale tiền bối còn sống không!?"
+
+@19005 Julia · ジュリア
+> 「エイジ……」
+"Eiji..."
+
+@19006 Eiji · エイジ
+> 「まさか……姉さん!?
+>  そんな、どうして姉さんがここに!?」
+"Có thể là... chị!? Làm sao có thể được? Tại sao chị lại ở đây!?"
+
+@19007 Julia · ジュリア
+> 「エイジ、答えなさい
+"Eiji, trả lời tôi đi.
+---
+>  お前たちは本当に
+>  ゲイルを殺したのですか?」
+Cậu thực sự đã giết Gale à? "
+
+@19008 Eiji · エイジ
+> 「ね、姉さん……」
+"Chị, chị..."
+
+@19009 Julia · ジュリア
+> 「どうしたのです?
+>  答えなさい、エイジ」
+"Có chuyện gì vậy? Trả lời tôi đi, Eiji."
+
+@19010 Eiji · エイジ
+> 「……ほ、本当だよ。
+>  だけど姉さん……」
+"...Ừ, đúng vậy. Nhưng chị ơi..."
+
+@19011 Julia · ジュリア
+> 「……ゲイルは私のすべてだった
+“…Gayle là tất cả đối với tôi.
+---
+>  私はお前たちを
+>  許すわけにはいかない」
+Tôi không thể tha thứ cho bạn. "
+
+@19012 Eiji · エイジ
+> 「待ってくれ、姉さん!」
+"Chờ một chút, chị!"
+
+@19013 Julia · ジュリア
+> 「死になさい、エイジ!」
+"Xuống địa ngục đi, Eiji!"
+
+@19014 Gosterro · ゴステロ
+> 「ゲイルの後を追わせてやろうかぁ
+“Tôi sẽ cử bạn đi theo Gale!
+---
+>  えぇっ! たまらないなぁ
+>  人殺しというのはぁ!」
+Hà! Giết người thật là gây nghiện! "
+
+@19015 Gosterro · ゴステロ
+> 「こぞうは、いないようだなぁ、
+>  ええ、ジュリア」
+“Có vẻ như cậu bé không có ở đây phải không Julia?”
+
+@19016 Julia · ジュリア
+> 「エイジ……ゲイルは私のすべてだった
+“Eiji…Gail là tất cả đối với tôi.
+---
+>  私はお前たちを
+>  許すわけにはいかない」
+Tôi không thể tha thứ cho bạn. "
+
+@19017 Gosterro · ゴステロ
+> 「ひゃーはははははぁ。
+>  皆殺しにしてやるぜぇっ!」
+“À hahahahahaha. Giết tất cả các bạn! "
+
+@19018 Gosterro · ゴステロ
+> 「貴様ら、影も形もないように
+>  してやる!!」
+“Các ngươi, ta sẽ cho các ngươi nổ tung đến mức không còn một cái bóng! ! "
+
+@19019 Julia · ジュリア
+> 「あぁぁぁぁぁぁぁぁーっ!!」
+“Ahhhhhhhhh-! ! "
+
+@19020 Eiji · エイジ
+> 「くっ、姉さん……俺は……」
+"Ồ, chị...em..."
+
+@19021 Quattro · クワトロ
+> 「どうやらこの辺りが限界か……
+"Có vẻ như chúng ta chỉ có thể đi xa đến thế...
+---
+>  目的は充分に達成した。
+>  全機撤退するぞ!」
+Mục đích đã đạt được. Toàn bộ cỗ máy rút lui! "
+
+@19022 Emma · エマ
+> 「レジスタンスにあれほど強力な
+>  部隊が編成されているなんて
+“Tôi không ngờ tổ chức kháng chiến lại có quân mạnh như vậy.
+---
+>  それに、あの子……」
+Hơn nữa, đứa trẻ đó..."
+
+@19023 Gosterro · ゴステロ
+> 「くそぉぉっ、貴様ら、貴様らッ
+>  こ、この俺をぉぉぉーっ!!!」
+“Chết tiệt, các người, các người sao dám đánh tôi! ! ! "
+
+@19024 Quattro · クワトロ
+> 「どうやらこの辺りが限界か……
+"Có vẻ như chúng ta chỉ có thể đi xa đến thế...
+---
+>  目的は充分に達成した
+>  全機撤退するぞ!」
+Mục tiêu đã đạt được, toàn bộ máy bay rút lui! "
+
+@19025 Emma · エマ
+> 「レジスタンスにあれほど強力な
+>  部隊が編成されているなんて
+“Tôi không ngờ tổ chức kháng chiến lại có quân mạnh như vậy.
+---
+>  それに、あの子……」
+Hơn nữa, đứa trẻ đó..."
+
+@19026 Kamille · カミーユ
+> 「お前はぁっ!」
+"Là bạn!!"
+
+@19027 Jerid · ジェリド
+> 「この声、カミーユとかって女みたいな
+>  名前の……あんな子供に!」
+"Giọng nói này là của Camus, tên nghe giống như phụ nữ... Ta lại thua loại tiểu tử đó!"
+
+@19028 Lila · ライラ
+> 「くっ、赤い彗星が相手だったと
+>  思いたい……
+"Chà, tôi hy vọng đối thủ của tôi là Red Comet...
+---
+>  でなければ、立場がない……」
+Nếu không thì mặt tôi sẽ để ở đâu…”
+
+@19029 Lila · ライラ
+> 「く、なんだ!? まだ子供なのに、
+>  私の動きについてくる!?」
+"Ừm, chuyện gì đang xảy ra vậy!? Cậu vẫn còn là một đứa trẻ, nhưng cậu có thể làm theo chuyển động của tôi!?"
+
+@19030 Kamille · カミーユ
+> 「子供で悪いか!」
+"Vậy nếu đó là một đứa trẻ thì sao!"
+
+@19031 Julia · ジュリア
+> 「戦いなさい、エイジ!」
+"Chiến đấu đi, Eiji!"
+
+@19032 Eiji · エイジ
+> 「くっ……姉さん!」
+"Ừm...chị ơi!"
+
+@19033 Quattro · クワトロ
+> 「どうやらこの辺りが限界か……
+"Có vẻ như chúng ta chỉ có thể đi xa đến thế...
+---
+>  目的は充分に達成した
+>  全機撤退するぞ!」
+Mục tiêu đã đạt được, toàn bộ máy bay rút lui! "
+
+@19034 Emma · エマ
+> 「レジスタンスにあれほど強力な
+>  部隊が編成されているなんて
+“Tôi không ngờ tổ chức kháng chiến lại có quân mạnh như vậy.
+---
+>  それに、あの子……」
+Hơn nữa, đứa trẻ đó..."
+
+@19035 Kamille · カミーユ
+> (こんなことしちゃって……俺……。
+>  ファは無事なんだろうか……)
+(Mình thực sự đã làm một việc như vậy... Hua sẽ ổn thôi...)
+
+@19036 Quattro · クワトロ
+> 「どうした カミーユ・ビダンくん。
+>  こないのか?」
+"Có chuyện gì thế, Camus Bidan? Anh không đến à?"
+
+@19037 Kamille · カミーユ
+> 「……いえ、いきます。
+>  帝国軍は嫌いですし
+"...Không, tôi sẽ đi. Tôi ghét Quân đội Hoàng gia,
+---
+>  なによりスペシャルズは
+>  もっと嫌いなんです」
+Tôi càng ghét lực lượng đặc biệt hơn. "
+
+@19038 Eiji · エイジ
+> 「くっ……姉さん……」
+"À... chị..."
+
+@19039 Anna · アンナ
+> 「エイジ……」
+"Eiji..."
+
+@19040 David · デビッド
+> 「しばらくそっとしといてやれよ、
+>  アンナ」
+“Hãy để anh ấy yên, Anna. "
+
+@19041 Anna · アンナ
+> 「でも……」
+"Nhưng..."
+
+@19042 David · デビッド
+> 「言っただろ、
+>  あいつはそんなにヤワじゃないさ」
+“Không phải tôi đã nói rằng anh chàng đó không yếu đuối đến thế sao. "
+
+@19043 Anna · アンナ
+> 「だけど、実のお姉さんだったのよ!?
+>  どうして……どうして……」
+“Nhưng đó là em gái ruột của anh ấy! ? Tại sao... tại sao..."
+
+@19044 Quattro · クワトロ
+> 「彼は祖国を捨てて
+>  地球のために戦ってくれている
+“Anh ấy đã rời bỏ đất nước của mình để chiến đấu vì Trái đất.
+---
+>  それは、並大抵の覚悟では
+>  できないことだ
+Nó không thể được thực hiện nếu không có quyết tâm phi thường.
+---
+>  その彼に我々がしてやれる
+>  ことがあるならば
+Nếu chúng ta có thể làm gì cho anh ấy,
+---
+>  それは、彼の志を
+>  無駄にしないことだ」
+Tức là đừng để nỗ lực của anh ấy trở nên vô ích. "
+
+@19045 Anna · アンナ
+> 「でも、
+>  でも戦わずにすむ方法だって……」
+“Nhưng, rõ ràng là có một cách để tránh phải chiến đấu…”
+
+@19046 Quattro · クワトロ
+> 「ないな。
+>  皆が君のように
+"Không. Nếu mọi người đều giống bạn
+---
+>  やさしい心を持っているのならば
+>  可能かもしれんが
+Với một trái tim nhân hậu, điều đó vẫn có thể thực hiện được.
+---
+>  我々にはその方法は
+>  見つけられなかった
+Nhưng chúng tôi không thể tìm ra cách đó.
+---
+>  帝国のことを、もっともよく知って
+>  いるはずのエイジくんの行動も
+Eiji, người hiểu rõ nhất đế chế, sẽ làm điều này,
+---
+>  それを裏づけている」
+Nó chỉ chứng minh điểm này. "
+
+@19047 Anna · アンナ
+> 「だけどそんなの……
+>  悲しすぎるわ……」
+"Nhưng điều đó thì quá... quá buồn..."
+
+@19048 Quattro · クワトロ
+> 「ああ……そうだな……」
+"Ừm...vâng..."
+
+@19049 Roux · ルー
+> 「ブライト中佐、
+>  ブレックス准将からです」
+"Lệnh từ Trung tá Bright, Chuẩn tướng Blakes. "
+
+@19050 Bright · ブライト
+> 「まわしてくれ」
+"Hãy mang nó đi. "
+
+@19051 Blex · ブレックス
+> 「報告は聞いたよ、中佐。
+>  すごいものだな……
+“Tôi đã nghe báo cáo, thưa Trung tá. Thật tuyệt vời…
+---
+>  彼がカミーユくんかね?」
+Anh ấy có phải là Camus không? "
+
+@19052 Bright · ブライト
+> 「はい」
+"Ừ."
+
+@19053 Blex · ブレックス
+> 「よい若者たちが集まってきたと
+>  いうことか」
+"Có vẻ như ở đây có nhiều bạn trẻ xuất sắc. "
+
+@19054 Kamille · カミーユ
+> 「いえ、そんな……」
+"Không, không có cách nào..."
+
+@19055 Blex · ブレックス
+> 「{HeroName}くんや君の協力で
+"Cảm ơn {HeroName} và bạn,
+---
+>  帝国の試作機が2機も
+>  手に入った
+Chúng tôi có hai máy nguyên mẫu Imperial cùng một lúc.
+---
+>  普通ではできないことだ」
+Đây không phải là điều mà người bình thường có thể làm được. "
+
+@19056 Ark · アーク（按段落 3DD1）
+> 「僕も……ですか?」
+"Tôi cũng vậy...có tính không? "
+
+@19057 Kamille · カミーユ
+> 「偶然が重なっただけです」
+“Đó chỉ là một vài sự trùng hợp ngẫu nhiên xảy ra với nhau. "
+
+@19058 Selain · セレイン（按段落 3DD2）
+> 「たまたま結果がそうなっただけに
+>  過ぎません」
+“Đó chỉ là những gì đã xảy ra. "
+
+@19059 Kamille · カミーユ
+> 「僕の場合も、そう思います。
+>  偶然が重なっただけです」
+"Tôi cũng nghĩ vậy. Đó chỉ là một vài sự trùng hợp ngẫu nhiên đến với nhau. "
+
+@19060 Blex · ブレックス
+> 「その偶然も、
+>  人の力があってのものだと
+"Đôi khi, cần phải có sức mạnh của ai đó để thực hiện được mọi việc.
+---
+>  信じたいのだよ。私は」
+I want to believe so. "
+
+@19061 Blex · ブレックス
+> 「私の期待しすぎかな。
+>  彼らをニュータイプと思いたいが」
+"Có lẽ kỳ vọng của tôi quá cao. Tôi thực sự muốn xem họ như những con người mới."
+
+@19062 Bright · ブライト
+> 「……大尉はどう思う?」
+"...Đội trưởng, anh nghĩ thế nào?"
+
+@19063 Quattro · クワトロ
+> 「ニュータイプはエスパーではありません
+“Con người mới không phải là siêu năng lực.
+---
+>  目に見えて違うところは
+>  ありませんが、資質は感じます」
+Mặc dù tôi không thể thấy bất kỳ sự khác biệt rõ ràng nào, nhưng tôi có thể cảm nhận được trình độ. "
+
+@19064 Blex · ブレックス
+> 「そう思う。
+>  大切にしてやってくれ
+"Tôi cũng nghĩ vậy. Hãy chăm sóc họ thật tốt nhé.
+---
+>  3年前の戦争で、
+>  地球圏は中高年者の
+Sau cuộc chiến ba năm trước, những người trung niên và người già ở Vòng Trái Đất
+---
+>  極端に少ない社会構造に
+>  なってしまった
+trở nên cực kỳ hiếm.
+---
+>  生き残った若者たちには、次の
+>  時代をつくってもらわねばならん」
+Kỷ nguyên tiếp theo phải được để lại cho những người trẻ sống sót để tạo ra nó. "
+
+@19065 Quattro · クワトロ
+> 「はい。しかしそれが、帝国の
+>  支配を受け入れた上での
+"Đúng. Nhưng lực lượng đặc biệt phải chấp nhận sự cai trị của đế quốc,
+---
+>  地球再建に向かって
+>  しまったのがスペシャルズです
+Hãy xây dựng lại trái đất một lần nữa.
+---
+>  それは、認めたくはありません」
+Tôi không thể đồng ý với điều này. "
+
+@19066 Blex · ブレックス
+> 「そうだな……」
+"Ừ..."
+
+@19067 Henken · ヘンケン
+> 「状況は好転しつつあると
+>  思いたいですな?」
+"Tôi hy vọng tình hình đang đi theo hướng tốt hơn, phải không?"
+
+@19068 Blex · ブレックス
+> 「そうさせるのだよ。
+>  我々でな
+“Việc làm cho nó tốt hơn là tùy thuộc vào chúng tôi.
+---
+>  ……君は知っているかね、
+>  赤い彗星のことを」
+...Bạn có biết về sao chổi đỏ không? "
+
+@19069 Henken · ヘンケン
+> 「自分はジオンとの
+>  ア・バオア・クー決戦のときは
+“Trong trận chiến quyết định với Zeon ở A. Bawa Ku, tôi
+---
+>  後方の戦艦におりましたので、
+>  直接は見ていません
+Tôi ở trên chiến hạm ở phía sau nên chưa bao giờ tận mắt nhìn thấy.
+---
+>  しかし赤い彗星の力というものは
+>  感じましたし……いまも感じますね」
+Nhưng tôi đã cảm nhận được sức mạnh của Sao chổi Đỏ... và tôi vẫn cảm nhận được nó. "
+
+@19070 Blex · ブレックス
+> 「ほう、誰にだ?」
+"Ồ, vào ai?"
+
+@19071 Henken · ヘンケン
+> 「クワトロ・バジーナ大尉にです」
+"Về thuyền trưởng Kvatro Bagina."
+
+@19072 Blex · ブレックス
+> 「……彼はこの戦いの中で、
+>  ジオン・ダイクンの遺志を
+“…Hắn có thể muốn phá hủy di sản của Zeon Daken trong trận chiến này.
+---
+>  我々に伝えようとしているのかも
+>  しれん」
+truyền đạt cho chúng tôi. "
+
+@19073 Henken · ヘンケン
+> 「すべては強圧的な異星人から
+>  地球を解放した後の話です」
+"Tất cả những điều này phải đợi cho đến khi trái đất được giải phóng khỏi bọn ngoại lai độc tài."
+
+@19074 Blex · ブレックス
+> 「そうだな。
+>  我々は地球圏を
+"Ừ. Chúng ta phải đi vòng quanh Trái đất
+---
+>  再び人類の手に
+>  取り戻さねばならん
+Trở lại bàn tay con người.
+---
+>  かつて地球連邦は腐敗し、
+>  宇宙の民をかえりみなかった
+Trong quá khứ, Liên bang Trái đất đã tham nhũng và thờ ơ với cư dân trong vũ trụ.
+---
+>  そのために起きたのが
+>  ジオン独立戦争だ
+Đây là lý do tại sao Chiến tranh giành độc lập Zeon bắt đầu.
+---
+>  が、今となってはそれすらも、
+>  ムゲゾルバドス帝国と比べれば
+Nhưng bây giờ, chúng ta phải thừa nhận rằng so với Đế quốc Muge Zolbados, ngay cả sự việc đó cũng
+---
+>  取るに足らない問題だったと
+>  認めねばならん」
+Đó chỉ là một vấn đề tầm thường. "
+
+@19075 Henken · ヘンケン
+> 「しかし難を逃れている連中は、
+>  帝国が去れば再び
+“Nhưng những người thoát khỏi thảm họa có thể sẽ lại bị giết một khi đế quốc rời đi.
+---
+>  地球の実権を手にしたがる
+>  でしょう」
+Tôi muốn lấy lại sức mạnh thực sự của trái đất. "
+
+@19076 Blex · ブレックス
+> 「それはさせるわけにはいかんな
+“Điều đó không thể để họ thành công được.
+---
+>  それに、ロームフェラの動きも
+>  気になる
+Hơn nữa, động thái của Romphela cũng đáng lo ngại.
+---
+>  むしろ危険なのは
+>  スペシャルズを創設し
+Có lẽ lực lượng đặc biệt đã được tạo ra,
+---
+>  帝国に食い込む
+>  彼らかもしれんが……
+Họ nguy hiểm hơn khi đột nhập vào đế chế...
+---
+>  今の我々には、現状を打開
+>  することに尽力する以外はないか」
+Nhưng hiện tại, chúng ta chỉ có thể cố gắng hết sức để phá vỡ hiện trạng. "
+
+@19077 Heero · ヒイロ
+> 「………………」
+“…………”
+
+@19078 Relena · リリーナ
+> 「やはり、普通ではないわ。
+>  軍の施設へ入っていくなんて」
+"Quả nhiên không phải người bình thường, hắn cư nhiên tiến vào quân khu."
+
+@19079 Relena · リリーナ
+> 「お待ちなさい」
+"Xin hãy dừng lại."
+
+@19080 Heero · ヒイロ
+> 「お前は……」
+"Bạn là..."
+
+@19081 Relena · リリーナ
+> 「あなた、ヒイロといったわね
+“Tên bạn là Hiro, phải không.
+---
+>  こんな軍の港で何をしているの、
+>  教えて
+Nói cho tôi biết, bạn đang làm gì ở một cảng quân sự như thế này?
+---
+>  そしてあなたは何者?
+>  わたくし知りたいの、あなたのことを
+Bạn là ai? Tôi muốn biết bạn.
+---
+>  なぜパイロットスーツのようなものを
+>  着て、海岸に倒れていたのか
+Tại sao bạn lại nằm trên bãi biển mặc thứ gì đó giống như quần áo lái xe?
+---
+>  話しなさい、ヒイロ」
+Trả lời tôi đi, Anh hùng. "
+
+@19082 Heero · ヒイロ
+> 「リリーナ・ドーリアン……
+>  A級市民だったな
+"Lilina Dorian...công dân hạng A.
+---
+>  深入りしすぎた。
+>  お前を、殺す」
+Bạn biết quá nhiều. Tôi sẽ giết bạn. "
+
+@19083 Relena · リリーナ
+> 「えっ!?」
+"Này! ? "
+
+@19084 Heero · ヒイロ
+> 「く……」
+"Ờ..."
+
+@19085 Duo · デュオ
+> 「こういう場合、どう見たって
+>  お前の方が悪者だろ
+"Những lúc như thế này, dù có thế nào đi nữa thì trông cậu cũng giống một kẻ xấu hơn.
+---
+>  ケガはないかい、お嬢さん?」
+Cô không bị thương chứ, thưa cô? "
+
+@19086 Relena · リリーナ
+> 「大丈夫、ヒイロ? もうやめて。
+>  この人に、なんのうらみがあるんです」
+"Cậu ổn chứ Hiro? Ngừng chiến đấu. Bạn có ác cảm gì với người này? "
+
+@19087 Duo · デュオ
+> 「は……?
+"Hả...?
+---
+>  おいおい、ちょっと待ってくれよ
+Này, đợi một chút.
+---
+>  俺の方が悪者になっちまってる
+>  じゃねぇか」
+Tại sao tôi lại là người xấu? "
+
+@19088 Heero · ヒイロ
+> 「……?」
+"...? "
+
+@19089 Heero · ヒイロ
+> (あれは俺のガンダム……こいつが
+>  海中から引き上げたのか?)
+(Đó là chiếc gundam của tôi...anh chàng này đã câu được nó từ dưới biển phải không?)
+
+@19090 Relena · リリーナ
+> 「え……何……?」
+"Ơ...cái gì...?"
+
+@19091 Duo · デュオ
+> 「おっと、みちゃいけねぇ。お嬢さん、
+>  なんかわけありみたいだけど
+"Ồ, bạn không thể xem cái này được. Cô ơi, hình như cô đang có điều gì đó muốn giấu,
+---
+>  すぐ、こっから立ち去るのが
+>  身のためだ
+Nhưng vì lợi ích của chính bạn, hãy ra khỏi đây.
+---
+>  この時代に立派な身なりの
+>  A級市民とはいえ
+Ngày nay, ngay cả khi bạn là công dân hạng A ăn mặc lịch sự,
+---
+>  お嬢さんを殺すのは、忍びない」
+Tôi không thể giết một cô gái trẻ như cô. "
+
+@19092 Relena · リリーナ
+> 「ヒイロ!?」
+"Hiro!?"
+
+@19093 Duo · デュオ
+> 「まだやんのか!」
+"Lại đến!"
+
+@19094 Relena · リリーナ
+> (なんなの!?
+>  一体なんなの、この人たち!?)
+(Chuyện gì đang xảy ra vậy!? Chuyện gì đang xảy ra với những người này vậy!?)

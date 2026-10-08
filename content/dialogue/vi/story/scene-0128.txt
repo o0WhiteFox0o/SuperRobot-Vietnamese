@@ -1,0 +1,1060 @@
+# Bản dịch tiếng Việt Super Robot Wars 64
+# Định dạng và vị trí: docs/guide/dialogue-text.md
+
+@28025 Bright · ブライト
+> 「降下位置がずれたか……カミーユは
+>  どうした!?」
+“Vị trí hạ cánh lệch rồi… Camus đâu rồi!?”
+
+@28026 Beltorchika · ベルトーチカ
+> 「反応ありません。ジャブローに先行
+>  したと思われます」
+"Không có phản hồi. Chúng ta nên đến Jaburo trước."
+
+@28027 Bright · ブライト
+> 「いかんな……よし、こちらも急ぐぞ」
+"Không ổn...Được rồi, nhanh lên."
+
+@28028 Bright · ブライト
+> 「ジャブローか……何か問題は?」
+"Jabro...có chuyện gì không?"
+
+@28029 Beltorchika · ベルトーチカ
+> 「ありません」
+"Không."
+
+@28030 Bright · ブライト
+> 「よし、ジャブローへ向かう」
+"Được rồi, chúng ta hãy đến Jaburo."
+
+@28031 Kamille · カミーユ
+> 「……先につきすぎたな……」
+"...còn quá sớm..."
+
+@28032 Kamille · カミーユ
+> 「しばらくこのまま待機するか……
+>  うっ、なんだ、これは……」
+“Đợi ở đây một lát…à, đây là cái gì…”
+
+@28033 Kamille · カミーユ
+> 「サイコガンダム!? フォウ……なのか!?
+>  いや……あそこにはいない……
+"Gundam tâm linh!? Có phải Feng...!? Không...cô ấy không có ở đó...
+---
+>  基地の方か?」
+Nó có ở căn cứ không? "
+
+@28034 Kamille · カミーユ
+> 「……フォウだ……間違いない。
+>  フォウがいるんだ」
+"...Là phượng hoàng...đúng rồi. Phượng hoàng ở đó."
+
+@28035 Kamille · カミーユ
+> 「こっちか……」
+"Có phải lối này không..."
+
+@28036 ???
+> 「とまれ、怪しい奴! 動くと撃つ!」
+"Dừng tay, là ai? Nếu dám động, liền bắn!"
+
+@28037 Kamille · カミーユ
+> 「くっ!!」
+"Ờ!!"
+
+@28038 Four · フォウ
+> 「ばぁーんっ! あはっ、あはははははっ!」
+"Bang——! Aha, ahahahahaha!"
+
+@28039 Kamille · カミーユ
+> 「フォウ……」
+"Phong..."
+
+@28040 Four · フォウ
+> 「カミーユ」
+"Camus."
+
+@28041 Kamille · カミーユ
+> 「フォウ!!」
+"Phượng Hoàng! ! "
+
+@28042 Four · フォウ
+> 「カミーユッ!
+"Camus!
+---
+>  必ず会いに来てくれるって、
+>  思ってたよ」
+Tôi luôn tin rằng bạn chắc chắn sẽ đến gặp tôi. "
+
+@28043 Four · フォウ
+> 「ここなら大丈夫だよ」
+"Ở đây sẽ ổn thôi."
+
+@28044 Kamille · カミーユ
+> 「フォウ……本当の名前は
+>  わかったのかい?」
+"Phong... cậu đã tìm ra tên thật của mình chưa?"
+
+@28045 Four · フォウ
+> 「ッ!!」
+"! ! "
+
+@28046 ???
+> (フォウ、記憶が欲しいなら
+>  敵を倒すことです)
+(Feng, nếu bạn muốn lấy lại trí nhớ, hãy đánh bại kẻ thù.)
+
+@28047 Four · フォウ
+> 「……はい、コーラ。おいしいよ」
+"...Đây, Coke. Vị ngon quá."
+
+@28048 Kamille · カミーユ
+> 「フォウ……」
+"Phong..."
+
+@28049 Four · フォウ
+> 「でも変だ。おフロに入るまで、カミーユ
+>  のこと忘れてたんだよ? なんでだろうね」
+"Nhưng thật kỳ lạ. Trước khi tắm, tôi lại quên mất cậu, Camus? Tại sao vậy."
+
+@28050 Kamille · カミーユ
+> 「僕のこと、キライになったんだろう」
+"Chắc chắn là cậu ghét tôi."
+
+@28051 Four · フォウ
+> 「あはははは。ずっと好きよ。でもあたしは
+>  変わってしまうの。サイコガンダムに
+"Ah hahahaha. Tôi đã luôn thích bạn. Nhưng tôi sẽ thay đổi. Ngay khi tôi lên chiếc PsychoGundam,
+---
+>  乗ると。頭がカラッポになって、別の
+>  私が入り込んでくる。だから……」
+Đầu óc tôi trở nên trống rỗng và một cái tôi khác sẽ lẻn vào. Vậy nên…”
+
+@28052 Kamille · カミーユ
+> 「だめだ。フォウは
+>  あのマシーンに乗っちゃいけない」
+"Không. Feng, bạn không thể lái chiếc máy đó."
+
+@28053 Four · フォウ
+> 「うん、カミーユがそうしろっていうんなら、
+>  もう乗らない
+“Ồ, vì cậu đã nói thế rồi, Camus, tôi sẽ không ngồi đâu.
+---
+>  ……ねぇカミーユ……あなた、
+>  あたしの敵じゃないよね?」
+...Tôi đã nói, Camus...bạn không phải là kẻ thù của tôi, phải không? "
+
+@28054 Kamille · カミーユ
+> 「当たり前じゃないか。フォウ、行こう
+>  もうすぐ僕の仲間がくるんだ」
+"Điều đó không cần phải nói. Feng, đi thôi, bạn đồng hành của tôi sẽ đến đây sớm thôi. "
+
+@28055 Four · フォウ
+> 「……うん、カミーユと一緒なら、
+>  どこへでもいくよ」
+“…Chà, miễn là ở bên Camus, tôi có thể đi bất cứ đâu.”
+
+@28056 Specials · スペシャルズ
+> 「……ですから、もうしばらくすれば
+>  ギブスはとれます。ですが……」
+"...Vậy, lớp thạch cao sẽ được gỡ bỏ sau một thời gian. Nhưng..."
+
+@28057 Jerid · ジェリド
+> 「なに……カミーユ・ビダンだと!?
+>  どけっ!!
+"Cái gì... Camus Bidan!? Tránh ra!!
+---
+>  カミーユ、貴様よくもぬけぬけと!!」
+Camus, tên khốn này, sao ngươi dám đến đây một cách kiêu ngạo như vậy! ! "
+
+@28058 Kamille · カミーユ
+> 「くっ、ジェリド特尉か!?
+>  フォウ、急いで」
+"Hmm, có phải là Đội trưởng Gerid không? ? Phong, đi nhanh lên. "
+
+@28059 Jerid · ジェリド
+> 「待てカミーユ!
+>  ……うっ、くそ、足が……」
+"Dừng lại, Camus! ...Chà, chết tiệt, chân tôi..."
+
+@28060 Wong · ウォン
+> 「これはこれは、{HeroMech}の
+>  皆さんがいらっしゃるとは
+"Ôi trời, tôi không ngờ mọi người từ {HeroMech} lại đến đây,
+---
+>  では盛大に歓迎して
+>  差し上げましょう」
+Vậy thì hãy để chúng tôi chào đón bạn nồng nhiệt. "
+
+@28061 Markiroot · マーキロット
+> 「ふふふふ、OZに逆らう愚か者には、
+>  神の手による裁きが必要」
+“Hehehehe, những kẻ ngu ngốc không vâng lời OZ sẽ phải bị chính Chúa trừng phạt. "
+
+@28062 Sijima · シジーマ
+> 「くくくくく、ここがお前たちの
+>  死に場所よ!」
+“Hehehehehe, đây là nơi chôn cất của bạn! "
+
+@28063 Bright · ブライト
+> 「敵も出てきたか……よし、ジャブロー
+>  基地の周辺から敵を
+“Kêu kẻ thù cũng xuất hiện…Được rồi, hãy tiêu diệt kẻ thù xung quanh căn cứ Jaburo.
+---
+>  一掃するんだ。長引くと不利だ
+>  一気に制圧しろ!」
+Quét sạch nó. Trì hoãn lâu không có lợi cho chúng ta nên chúng ta có thể thắng trong một lần! "
+
+@28064 Selain · セレイン（按段落 3DD2）
+> 「大尉、カミーユはやはりいないようだ」
+"Đội trưởng, Camus xác thực không có ở đây."
+
+@28065 Ark · アーク（按段落 3DD1）
+> 「クワトロ大尉、
+>  Zが合流していません」
+"Thuyền trưởng Kvatro, ZGundam vẫn chưa tham gia cùng chúng ta."
+
+@28066 Manami · マナミ（按段落 3DD4）
+> 「大尉、カミーユの姿が見えないわ!」
+"Đội trưởng, tôi không nhìn thấy Camus!"
+
+@28067 Brad · ブラッド（按段落 3DD3）
+> 「ちっ、Zガンダムがいねぇぞ!
+>  カミーユの奴め!」
+"Tsk, Z Gunda không có ở đây! Tên Camus đó!"
+
+@28068 Quattro · クワトロ
+> 「カミーユ、一体何をしているのだ?」
+“Camus đang làm cái quái gì vậy?”
+
+@28069 Four · フォウ
+> 「……密林の中って、すごいんだね……
+>  どこに行くの?」
+"...Trong rừng thật kỳ diệu...Chúng ta đang đi đâu đây?"
+
+@28070 Kamille · カミーユ
+> 「君の記憶を
+>  {HeroMech}で治す」
+"Hãy đến {HeroMech} để chữa bệnh trí nhớ của bạn."
+
+@28071 Four · フォウ
+> 「記憶? あたしの記憶?」
+"Trí nhớ? Trí nhớ của tôi?"
+
+@28072 Kamille · カミーユ
+> 「何を言ってるんだ。
+>  ネオホンコンにいたとき、
+"Bạn đang nói về cái gì vậy? Khi chúng tôi ở New Hong Kong,
+---
+>  あんなに記憶を
+>  欲しがっていたじゃないか」
+Bạn không muốn lấy lại trí nhớ của mình nhiều như vậy sao? "
+
+@28073 ???
+> (記憶を取り戻したければ、
+>  敵を倒さなくてはね……)
+(Nếu muốn lấy lại trí nhớ, bạn phải đánh bại kẻ thù...)
+
+@28074 Four · フォウ
+> 「う……」
+"Ờ..."
+
+@28075 Kamille · カミーユ
+> 「戦闘が……早く戻らなくては」
+"Có chiến tranh... chúng ta phải nhanh chóng quay về."
+
+@28076 Four · フォウ
+> 「あ……うぅぅぅ……」
+"A...Ô ô ô..."
+
+@28077 Kamille · カミーユ
+> 「フォウ、大丈夫か?」
+"Phong, cậu ổn chứ?"
+
+@28078 Four · フォウ
+> 「う、うん、ちょっとめまいがしただけ」
+"Ồ, tôi chỉ hơi chóng mặt một chút thôi."
+
+@28079 Kamille · カミーユ
+> 「薬がいるのか?」
+“Muốn uống thuốc không?”
+
+@28080 Four · フォウ
+> 「大丈夫よ……」
+"Không sao đâu..."
+
+@28081 Four · フォウ
+> 「あくぅぅぅ……ううぅっ……」
+"Ô ô ô... ô ô..."
+
+@28082 Kamille · カミーユ
+> 「フォウ……フォウ!? 君は……」
+"Phong...Phong!? Anh..."
+
+@28083 Four · フォウ
+> 「……お前は……誰だ? ……敵だな?」
+"...Ngươi là ai?...Kẻ thù, phải không?"
+
+@28084 Kamille · カミーユ
+> 「待てよフォウ! 目を覚ますんだ。
+>  俺だ、カミーユだ。わからないのか!?」
+"Đợi đã, Feng! Tỉnh dậy đi. Camus là tôi đây. Cậu không nhận ra sao!?"
+
+@28085 Four · フォウ
+> 「わかる!」
+"Nhận ra nó!"
+
+@28086 Kamille · カミーユ
+> 「わかる……?」
+"Nhận ra...?"
+
+@28087 Four · フォウ
+> 「カミーユ・ビダンは
+>  レジスタンスの戦闘パイロットだ
+"Camus Bidan là một sư đoàn chiến đấu của quân Kháng chiến.
+---
+>  {HeroMech}の中核の
+>  戦士として認知されている」
+{HeroMech} Được coi là chiến binh cốt lõi của _XHEOMECHX_. "
+
+@28088 Kamille · カミーユ
+> 「フォウ……カミーユなんだよ、
+>  俺、カミーユ・ビダンだ!」
+"Phong... là Camus, tôi là Camus Bidan!"
+
+@28089 Kamille · カミーユ
+> 「つっ……フォウ!?」
+"Hmm...Phong!?"
+
+@28090 Kamille · カミーユ
+> 「よせ! あれを呼んじゃいけない!
+>  フォウ!」
+"Dừng lại! Bạn không thể gọi thứ đó ở đây! Feng!"
+
+@28091 Four · フォウ
+> 「…………」
+“…………”
+
+@28092 Kamille · カミーユ
+> 「だめだフォウ! それは悪魔の
+>  マシーンだ。それに乗っちゃいけない!」
+"Không, Feng! Đó là cỗ máy của quỷ dữ. Anh không thể ngồi lên nó!"
+
+@28093 Four · フォウ
+> 「いいかげんにしろ!」
+"Anh xong chưa?"
+
+@28094 Kamille · カミーユ
+> 「フォウ!」
+"Phượng Hoàng!"
+
+@28095 Four · フォウ
+> 「お前たちはあたしをいじめにきた。あたし
+>  の記憶を奪ったのは、お前たちだ!」
+"Ngươi tới đây để ức hiếp ta, chính là ngươi cướp đi ký ức của ta!"
+
+@28096 Amuro · アムロ
+> 「サイコガンダム!?」
+"Gundam tâm linh!?"
+
+@28097 Quattro · クワトロ
+> 「まさか、カミーユは……あそこか!」
+"Chẳng lẽ Camus... ở đó!"
+
+@28098 Wong · ウォン
+> 「クックックッ、それでいいのです。
+>  さぁ、こっちへ戻りなさい、フォウ」
+"Hehehe, đúng rồi. Thôi, quay lại đây đi Feng."
+
+@28099 Four · フォウ
+> 「………………」
+“…………”
+
+@28100 Kamille · カミーユ
+> 「あれは……サイコガンダム!?
+>  乗っているのはフォウなのか?」
+"Đó là... PsychoGundam!? Feng là người lái nó phải không?"
+
+@28101 Amuro · アムロ
+> 「カミーユ、あれは危険だ。
+>  全力で落とす」
+“Camus, thứ đó nguy hiểm lắm. Tôi sẽ bắn hạ nó bằng toàn bộ sức lực của mình.”
+
+@28102 Kamille · カミーユ
+> 「でも、あれはフォウなんですよ!」
+"Nhưng đó là phượng hoàng!"
+
+@28103 Amuro · アムロ
+> 「サイコガンダム!?
+>  ネオホンコンのときと同じ奴か?」
+"Gundam tâm linh!? Nó có giống với cái ở New Hong Kong không?"
+
+@28104 Quattro · クワトロ
+> 「このプレッシャー……乗っているのは
+>  あの時の強化人間だな」
+"Cảm giác áp bức này... người lái nó hẳn là người đã được nâng cấp từ thời điểm đó."
+
+@28105 Kamille · カミーユ
+> 「……なんだ……この感覚……
+>  知っているような気がする……」
+"...Đây là...cảm giác như thế...Hình như tôi đã cảm thấy nó ở đâu đó..."
+
+@28106 Quattro · クワトロ
+> 「カミーユ! 早くZに乗れ!」
+"Camus! Hãy nhanh chóng lên Z Gundam!"
+
+@28107 Kamille · カミーユ
+> 「僕にフォウと戦えっていうんですか!?」
+"Bạn có muốn tôi chiến đấu với Feng không!?"
+
+@28108 Quattro · クワトロ
+> 「そうは言っていない。
+>  だがそうしていても解決はせんぞ
+“Tôi không nói thế. Nhưng cậu sẽ không giải quyết được vấn đề nếu cứ tiếp tục như thế này.
+---
+>  答えは、Zの中で見つけろ。
+>  君にはそれしかあるまい」
+Hãy cùng tìm câu trả lời trong ZGundam. Đây là cách duy nhất bạn có thể đi. "
+
+@28109 Kamille · カミーユ
+> 「くっ…………」
+"Ờ..."
+
+@28110 Kamille · カミーユ
+> 「フォウ! 戦っちゃいけない!」
+"Phong! Bạn không thể chiến đấu!"
+
+@28111 Four · フォウ
+> 「出てきたか、Z」
+"Anh ra ngoài à, ZGunda?"
+
+@28112 Amuro · アムロ
+> 「カミーユ、離れていろ!」
+“Camus, lùi lại!”
+
+@28113 Kamille · カミーユ
+> 「やめてくださいアムロ大尉!
+>  攻撃はしないで」
+"Dừng lại, Đội trưởng Amuro! Xin đừng tấn công!"
+
+@28114 Amuro · アムロ
+> 「どうしろというんだ!?」
+"Vậy ngươi muốn ta làm gì!?"
+
+@28115 Kamille · カミーユ
+> 「フォウ! 俺だ、カミーユだ。
+>  戦いをやめてくれ、フォウ!」
+"Feng! Là tôi đây, Camus. Đừng đánh nữa, Feng!"
+
+@28116 Four · フォウ
+> 「ハエがちょこまかと……
+>  うぅ……頭が……!」
+“Bay xung quanh như ruồi...chà...đầu tôi đau quá...! "
+
+@28117 Kamille · カミーユ
+> 「フォウ、そのマシーンに
+>  乗っていちゃいけないんだ!
+“Feng, bạn không thể ở trong cái máy đó được!
+---
+>  返事をしてくれ、フォウ!」
+Trả lời tôi đi, Phượng Hoàng! "
+
+@28118 Four · フォウ
+> 「うぅっ……カ、カミーユ……あなたなの?」
+"Ừm...K-Camu...là cậu à? "
+
+@28119 Kamille · カミーユ
+> 「フォウ、気づいたのか?
+>  よし、コクピットをあけろ
+"Phong, em tỉnh rồi à? Được rồi, mở buồng lái.
+---
+>  サイコガンダムにいてはいけない。はやく!」
+Đừng ở trong Psycho Gundam. nhanh! "
+
+@28120 Four · フォウ
+> 「あっ!?」
+"A!?"
+
+@28121 Jerid · ジェリド
+> 「死ねぇっ、カミーユゥゥゥーッ!!」
+“Xuống địa ngục đi, Camus—! ! "
+
+@28122 Kamille · カミーユ
+> 「ジェリドか!? させるものか!」
+"Jelide! ? Thậm chí đừng nghĩ về nó! "
+
+@28123 Jerid · ジェリド
+> 「なに!? くそぉっ、奴は後ろにも
+>  目があるとでもいうのか!?」
+"Cái gì! ? Chết tiệt, tên đó cũng có mắt sau lưng à? ? "
+
+@28124 Kamille · カミーユ
+> 「フォウ、いまのうちだ。はやく!
+>  そのマシーンを降りるんだ!」
+“Feng, hãy tận dụng thời điểm này. nhanh! Xuống khỏi cái máy đó đi! "
+
+@28125 Four · フォウ
+> 「カミーユ……で、でもあなたが……」
+"Camus...nhưng, nhưng anh..."
+
+@28126 Kamille · カミーユ
+> 「ここはまかせてくれればいい。
+>  フォウ、急いで!」
+“Cứ để việc này cho tôi. Phong, nhanh lên! "
+
+@28127 Four · フォウ
+> 「わ、わかったわ」
+"Tôi biết, tôi biết."
+
+@28128 Kamille · カミーユ
+> 「なにっ、ジェリドか!?」
+"Cái gì, là Jilead! ? "
+
+@28129 Four · フォウ
+> 「来るなぁっ!」
+“Đừng tới đây! "
+
+@28130 Kamille · カミーユ
+> 「フォウ!?」
+"Phượng Hoàng!?"
+
+@28131 Four · フォウ
+> 「あぁっ!? きゃあぁぁぁぁぁぁーっ!!」
+"À! ? Ahhhhhhhhh-! ! "
+
+@28132 Kamille · カミーユ
+> 「あ…………フォウ……
+>  フォォォォォォゥッ!!」
+"A...Phong...Phong ah ah ah ah! ! "
+
+@28133 Jerid · ジェリド
+> 「しくじったか!? くそっ!
+>  次ははずさんぞ、カミーユ!!」
+"Bạn có bỏ lỡ nó không? ? đáng ghét! Lần sau bạn sẽ không bỏ lỡ đâu, Camus! ! "
+
+@28134 Kamille · カミーユ
+> 「貴様ぁぁぁぁーっ!」
+“Đồ khốn—! ! "
+
+@28135 Wong · ウォン
+> 「ククククク、さぁお行きなさい、
+>  デンジャラス・アレンビー
+“Hehehehe, tiếp tục đi, Danger Alimbi.
+---
+>  この完成された
+>  サブリミナルシステムにより
+Với hệ thống tiềm thức hoàn hảo này,
+---
+>  潜在能力が
+>  120%発揮されるのだ」
+Tiềm năng sẽ được giải phóng tới 120%. "
+
+@28136 Allenby · アレンビー
+> 「うああぁぁぁぁーっ!」
+"Uuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuu!" ! "
+
+@28137 Domon · ドモン
+> 「アレンビー!?」
+"Alembi!?"
+
+@28138 Amuro · アムロ
+> 「ドモン、あの娘を助けたければ、
+>  止めてみせろ!
+“Domeng, nếu bạn muốn cứu cô gái đó, hãy ngăn cô ấy lại!
+---
+>  戦闘を強要するシステムは
+>  ジャブローにあるはずだ
+Hệ thống buộc cô ấy phải chiến đấu lẽ ra phải ở Jaburo.
+---
+>  俺たちが敵を排除できれば、
+>  解除できる」
+Chỉ cần chúng ta loại bỏ được kẻ thù thì nó sẽ được dỡ bỏ. "
+
+@28139 Domon · ドモン
+> 「承知した! アレンビー、
+>  奪われたお前の魂は
+"Hiểu rồi! Alimbi, linh hồn bị đánh cắp của bạn,
+---
+>  この俺の拳で取り戻してやる!」
+Chỉ cần dùng nắm đấm của tôi để lấy lại nó! "
+
+@28140 Wong · ウォン
+> 「ククククク、さぁお行きなさい、
+>  デンジャラス・アレンビー
+“Hehehehe, tiếp tục đi, Danger Alimbi.
+---
+>  この完成された
+>  サブリミナルシステムにより
+Với hệ thống tiềm thức hoàn hảo này,
+---
+>  潜在能力が
+>  120%発揮されるのだ」
+Tiềm năng sẽ được giải phóng tới 120%. "
+
+@28141 Allenby · アレンビー
+> 「うああぁぁぁぁーっ!」
+"Uuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuu!" ! "
+
+@28142 Domon · ドモン
+> 「アレンビー!?」
+"Alembi!?"
+
+@28143 Amuro · アムロ
+> 「ドモン、あの娘を助けたければ、
+>  止めてみせろ!
+“Domeng, nếu bạn muốn cứu cô gái đó, hãy ngăn cô ấy lại!
+---
+>  戦闘を強要するシステムは
+>  ジャブローにあるはずだ
+Hệ thống buộc cô ấy phải chiến đấu lẽ ra phải ở Jaburo.
+---
+>  俺たちが敵を排除できれば、
+>  解除できる」
+Chỉ cần chúng ta loại bỏ được kẻ thù thì nó sẽ được dỡ bỏ. "
+
+@28144 Domon · ドモン
+> 「承知した! アレンビー、
+>  奪われたお前の魂は
+"Hiểu rồi! Alimbi, linh hồn bị đánh cắp của bạn,
+---
+>  この俺の拳で取り戻してやる!」
+Chỉ cần dùng nắm đấm của tôi để lấy lại nó! "
+
+@28145 Domon · ドモン
+> 「アレンビーッ!!」
+"Alembi!!"
+
+@28146 Allenby · アレンビー
+> 「ドモン!? ドモンなの?
+>  さぁ……戦おうよ!
+"Domon!? Có phải Domon không? Hãy đến... chiến đấu!"
+---
+>  戦ってよ! アタシとぉぉーっ!」
+Chiến đấu với tôi! Theo tôi đi ahhhh——! "
+
+@28147 Domon · ドモン
+> 「待てアレンビー、思い出せ!
+>  俺たちはこんな形の戦いを
+"Đợi đã, Alimbi, hãy nhớ! Chúng tôi muốn
+---
+>  望んでいたわけではなかったはずだ!」
+Chưa bao giờ có kiểu đánh nhau như thế này! "
+
+@28148 Allenby · アレンビー
+> 「ううぅぅぅぅっ……ド、ドモン……?」
+"Uuuuuuuuuuuuuuuuuuuuuuuuuuu... Domon...?"
+
+@28149 Domon · ドモン
+> 「アレンビー!? シャッフルの証しよ、
+>  願わくばアレンビーの
+"Allenbi!? Bằng chứng xáo trộn liên minh hãy mang theo Allenbi
+---
+>  魂の拳を、呼び戻してくれ!」
+Nắm đấm của linh hồn, gọi nó trở lại! "
+
+@28150 Allenby · アレンビー
+> 「う……ドモン……アタシ………」
+"Ồ... Domeng... tôi..."
+
+@28151 Domon · ドモン
+> 「ようやく元にもどったな。大丈夫だ
+>  システムは破壊してやる
+"Cuối cùng tôi đã bình phục. Đừng lo lắng, tôi sẽ phá hủy hệ thống.
+---
+>  安心して休んでいろ」
+Hãy yên nghỉ nhé. "
+
+@28152 Allenby · アレンビー
+> 「うん……アタシ、とっても疲れちゃった
+>  ……少し、眠らせて……」
+"Ừm...tôi mệt quá...cho tôi ngủ một lát đi..."
+
+@28153 Four · フォウ
+> 「いやあぁぁぁぁぁぁーっ!!」
+"Không ahhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhh"
+
+@28154 Four · フォウ
+> 「いやあぁぁぁぁぁぁーっ!!」
+"Không ahhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhh"
+
+@28155 Kamille · カミーユ
+> 「くっ……フォォォォォウッ!!」
+"Ừm... Phong a a a a a!!"
+
+@28156 Allenby · アレンビー
+> 「ドモン! ドモンはどこ!?
+>  きゃあぁぁぁーっ!!」
+"Domon! Domon ở đâu!? Ahhhhhhh-!!"
+
+@28157 Domon · ドモン
+> 「アレンビーッッ!」
+"Alembi——!!"
+
+@28158 Wong · ウォン
+> 「ええい、こんなことになるとは……
+>  しかたがない脱出しますか」
+"Chậc, tôi không ngờ mọi chuyện lại thành ra thế này... Tôi không còn cách nào khác ngoài việc rút lui."
+
+@28159 Kamille · カミーユ
+> 「フォウ、フォウ!」
+"Phượng Hoàng, Phượng Hoàng!"
+
+@28160 Four · フォウ
+> (カミーユ……悲しまないで。
+>  これであたしは、いつでもあなたに
+(Camus...đừng buồn. Bằng cách này, anh có thể ở bên em bất cứ lúc nào
+---
+>  会えるわ。本当に……あなたの
+>  中へ入ることができるんだから……)
+Đã gặp. Bởi vì anh thực sự... có thể bước vào trái tim em...)
+
+@28161 Kamille · カミーユ
+> 「フォウ!? しっかりしろ、フォウ!
+>  目をあけろよ! ウソだろ
+"Feng!? Vui lên đi Feng! Mở mắt ra đi! Cậu đang nói dối phải không?
+---
+>  こんなの、ウソだろ!?
+>  フォォォォォーウッ!!」
+Loại chuyện này là nói dối! ? Phượng hoàng à ah ah——! ! "
+
+@28162 Amuro · アムロ
+> 「人は……同じ過ちを繰り返す……
+>  まったく……」
+"Con người... luôn mắc phải những sai lầm tương tự... Đó là sự thật..."
+
+@28163 Quattro · クワトロ
+> 「同じか……」
+"Có giống nhau không..."
+
+@28164 Jerid · ジェリド
+> 「くそぉぉぉーっ!! すまん、ライラ、
+>  カクリコン、マウアー。俺は
+"Chết tiệt! Tôi xin lỗi, Laila, Ca Li Kang, Maya. tôi
+---
+>  俺はいつか必ず奴に
+>  怨念返しをしてみせる! 必ずだ!」
+Một ngày nào đó tôi phải trả thù gã đó! Chắc chắn! "
+
+@28165 Four · フォウ
+> 「カミーユ……カミーユゥッ!」
+"Camus...Camus!"
+
+@28166 Kamille · カミーユ
+> 「フォウ! 無事でよかった……フォウ」
+"Phong! Chỉ cần cậu ổn...Feng."
+
+@28167 Four · フォウ
+> 「カミーユがいてくれたからだよ」
+“Tất cả là vì Camus ở đây.”
+
+@28168 Kamille · カミーユ
+> 「フォウ、君の記憶は
+>  きっと取り戻すよ」
+"Phong, ta nhất định sẽ giúp ngươi lấy lại trí nhớ."
+
+@28169 Four · フォウ
+> 「ううん、もういいの。だって、
+>  これからはずっとカミーユと一緒だもの
+"Không, nó không còn cần thiết nữa. Vì từ nay trở đi tôi sẽ luôn ở bên Camus,
+---
+>  思い出だって、
+>  いくらでも作れるから……」
+Sau này cậu có thể có bao nhiêu kỷ niệm tùy thích..."
+
+@28170 Kamille · カミーユ
+> 「ああ……そうだ、フォウ。そうだよ」
+"Ừm...vâng, Feng. Vâng."
+
+@28171 Quattro · クワトロ
+> 「カミーユ、サイコガンダムは破壊した。
+>  大丈夫だとは思うが
+"Camus, PsychoGundam đã bị phá hủy. Tôi nghĩ nó sẽ ổn thôi.
+---
+>  薬物の問題もある。
+>  ハサン先生にみてもらえ」
+Nhưng vấn đề với thuốc vẫn còn. Hãy để bác sĩ Hassan xem xét. "
+
+@28172 Kamille · カミーユ
+> 「ありがとうございます、大尉。
+>  さぁ、行こう、フォウ」
+"Cảm ơn, thuyền trưởng. Đi thôi Phong.”
+
+@28173 Four · フォウ
+> 「うん、カミーユ」
+“Ừ, Camus.”
+
+@28174 Amuro · アムロ
+> 「俺たちと同じにはならなかったか……
+>  よけいな心配だったようだな」
+"Mọi chuyện không giống chúng ta... có vẻ như tôi đã lo lắng quá nhiều."
+
+@28175 Quattro · クワトロ
+> 「ああ……そうでなくては、人の未来に
+>  期待など持てんよ……」
+"Phải...nếu không, sẽ chẳng có gì đáng mong đợi cho tương lai của nhân loại..."
+
+@28176 Fa · ファ
+> 「……カミーユ……」
+"...Camus..."
+
+@28177 Judau · ジュドー
+> 「あ～あ、ファさんかわいそうに」
+"A~ah, Hoa cô thật đáng thương."
+
+@28178 Ryoma · リョウ
+> 「ほう、来たばかりなのにもう
+>  ファがカミーユを好きなのがわかるのか」
+“Ồ, vừa rồi cậu có thể thấy Hoa thích Camus à?”
+
+@28179 Judau · ジュドー
+> 「そりゃ、わかるに決まってるじゃない」
+"Tất nhiên là bạn có thể thấy điều đó."
+
+@28180 Koji · 甲児
+> 「でも、ファは押しが弱いからなぁ。
+>  カミーユもひどい奴だな」
+"Nhưng Hoa không dám chủ động, Camus thật sự quá đáng."
+
+@28181 Simone · シモーヌ
+> 「あんたもそうならないように
+>  気をつけなさいよ」
+"Cẩn thận, đừng trở nên như vậy."
+
+@28182 Koji · 甲児
+> 「大丈夫大丈夫」
+"Đừng lo lắng, đừng lo lắng."
+
+@28183 Kamille · カミーユ
+> 「フォウ…………」
+"Phong......"
+
+@28184 Quattro · クワトロ
+> 「カミーユ……かわいそうだが、
+>  君はまだ戦うことを
+“Camus…dù anh rất đáng thương nhưng anh vẫn không thể
+---
+>  やめるわけにはいかない身だ。戦士は
+>  生きている限り戦わねばならんのだ」
+Chỉ cần từ bỏ cuộc chiến. Chừng nào người lính còn sống, anh ta còn phải tiếp tục chiến đấu. "
+
+@28185 Kamille · カミーユ
+> 「……大尉……シャア……アズナブル。
+>  あなたは……こんなことが
+"...Thuyền trưởng...Char...Aznable. Anh phải...tạo ra một
+---
+>  もう起きないような世界を
+>  つくらなくちゃいけないんだ」
+Một thế giới nơi điều này không bao giờ xảy ra nữa. "
+
+@28186 Quattro · クワトロ
+> 「……ああ……そうだな、カミーユ……」
+"...Ừ...đúng rồi, Camus..."
+
+@28187 Kamille · カミーユ
+> 「う……うわぁぁぁぁぁぁーーっ!!」
+"Uuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuu"
+
+@28188 Master · マスター
+> 「フフフフ、奴らに手ひどく
+>  やられたようだな」
+"Hehehe, có vẻ như cậu đã bị họ đối xử tệ nhỉ. "
+
+@28189 Wong · ウォン
+> 「……まぁいいでしょう。まだ私には
+>  デビルガンダムとBF団の協力がある」
+"...không sao đâu. Tôi còn có sự hỗ trợ của DevilGundam và BF Group. "
+
+@28190 Master · マスター
+> 「財団とやらの方はよいのか」
+"Tập đoàn không ổn sao? "
+
+@28191 Wong · ウォン
+> 「クククク、しょせん伝統に
+>  しがみついているような連中ですよ
+"Hehehe, những người đó rốt cuộc chỉ là những kẻ bám vào truyền thống mà thôi.
+---
+>  それよりも先生の方はどうですか」
+Anh Đông Phương, tiến độ bên anh thế nào rồi? "
+
+@28192 Master · マスター
+> 「うむ、奴らが再びあらわれたのは
+>  都合がよいわ
+"Chà, đó chính là điều tôi muốn khi chúng xuất hiện trở lại.
+---
+>  これで目的も
+>  達成しやすくなるというものよ」
+Bằng cách này, mục tiêu của tôi sẽ dễ dàng đạt được hơn. "
+
+@28193 Wong · ウォン
+> 「これは頼もしいですな。
+>  期待していますよ、東方先生」
+"Điều này thật đáng tin cậy. Vậy thì tôi sẽ trông cậy vào anh, anh Đông Phương. "
+
+@28194 Dermail · デルマイユ
+> 「諸君、いよいよ我々が
+>  地球圏を正しく導いていく
+"Mọi người, hãy cùng chúng tôi hướng dẫn kỷ nguyên của Trái đất một cách chính xác.
+---
+>  時代が来た。支配すべき
+>  階級である我々は、OZの
+Cuối cùng nó cũng ở đây. Với tư cách là giai cấp thống trị, chúng ta phải tạo ra OZ
+---
+>  強化された戦力を地上、
+>  そしてコロニーへ派遣することにより
+Sức mạnh chiến đấu được tăng cường được gửi tới mặt đất và các vệ tinh thuộc địa,
+---
+>  どれほど強大な力を持っているかを
+>  見せつけることで、世界に秩序を
+Cho thế giới thấy chúng ta mạnh mẽ như thế nào
+---
+>  与えるのである。そして、古き良き
+>  伝統と格式の時代を
+Mang theo trật tự. Sau đó, chúng ta hãy một lần nữa chào đón thời đại của những truyền thống và phong cách cổ xưa và đẹp đẽ,
+---
+>  再び迎え、世界を統治しよう
+>  ではないか、諸君」
+Thống trị thế giới này nhé mọi người. "
+
+@28195 Jamitov · ジャミトフ
+> 「名演説だな、デルマイユ公。
+>  トレーズ、これからもOZを頼むぞ」
+"Thật là một bài phát biểu tuyệt vời, Ngài Dirumayo. Telles, từ giờ trở đi OZ vẫn sẽ trông cậy vào ngài."
+
+@28196 Treize · トレーズ
+> 「デルマイユ公、ジャミトフ閣下、
+>  私はロームフェラ財団の進む道に
+"Dirumayo, Ngài Jamitov, tôi thực sự không thể đồng ý với bạn.
+---
+>  賛同いたしかねます」
+Con đường được thực hiện bởi Quỹ Romfila. "
+
+@28197 Dermail · デルマイユ
+> 「なに?」
+"Cái gì? "
+
+@28198 Treize · トレーズ
+> 「古き良き伝統とは、人間の
+>  奥深い感情が築き上げた
+“Cái gọi là truyền thống xưa đẹp đẽ được xây dựng từ những tình cảm sâu sắc của con người.
+---
+>  いたわりの歴史。私は、戦うことが
+>  時に美しいことと考えるとともに
+Lịch sử của sự chăm sóc. Cả hai tôi đều nghĩ chiến đấu đôi khi thật đẹp,
+---
+>  命が尊いことを訴えて、失われゆく
+>  魂に哀悼の意を表したい」
+Đồng thời, chúng ta cũng nên nói lên phẩm giá của sự sống và bày tỏ lời chia buồn với những tâm hồn đang dần mất đi. "
+
+@28199 Jamitov · ジャミトフ
+> 「トレーズ……
+>  貴公ほどの地位にあるものが
+"Teles... với trạng thái của bạn,
+---
+>  ロームフェラに反抗するつもりか?」
+Bạn thực sự có ý định chống lại Romphela? "
+
+@28200 Treize · トレーズ
+> 「私は、人間に必要なのは
+>  絶対的な勝利ではなく、
+“Tôi nghĩ điều nhân loại cần không phải là chiến thắng tuyệt đối;
+---
+>  戦う姿、その姿勢と考えます。
+>  しかし、ロームフェラの築く時代は
+Đó là thái độ chiến đấu và tinh thần. Tuy nhiên, thời đại được Romphila xây dựng,
+---
+>  後の世に恥ずべきものとなりは
+>  しないでしょうか。今この世界には
+Chẳng phải nó sẽ trở thành một sự ô nhục ở Đời sau sao? Trên thế giới này ngày nay,
+---
+>  私の理想を越えて、未来を
+>  見続ける戦士たちがおります
+Những người lính có lý tưởng vượt xa tôi và luôn hướng tới tương lai.
+---
+>  かつての帝国の支配の時代、
+>  そして今ロームフェラが
+Cho dù đó là thời cai trị của đế quốc hay ngày nay ở Romphela
+---
+>  世界を支配しようという
+>  この時代においても
+Trong thời đại cố gắng thống trị thế giới này,
+---
+>  彼らはまだなおも、理想のために
+>  戦う意志を持ちつづけているのです」
+Họ vẫn có ý chí chiến đấu vì lý tưởng của mình. "
+
+@28201 Treize · トレーズ
+> 「美しく思われた人々の感情は
+>  常に悲しく、重んじた伝統も
+“Tâm tình của những người từng coi là truyền thống đẹp đẽ, trân quý thì luôn buồn bã
+---
+>  いずれは弱者たちの叫びの中へ
+>  消え失せる。戦いにおける勝者は
+Cuối cùng sẽ biến mất trong tiếng kêu của kẻ yếu. người chiến thắng trong trận chiến
+---
+>  歴史の中で衰退という
+>  終止符を打たねばならず
+Chúng ta phải chấm dứt sự suy thoái của chính mình trong lịch sử,
+---
+>  新たな時代の担い手は
+>  敗者の中にこそ生まれいずる」
+Và những người mang lại kỷ nguyên mới được sinh ra trong số những kẻ thua cuộc. "
+
+@28202 Dermail · デルマイユ
+> 「トレーズ、何がいいたい?」
+"Tele, chính xác thì cậu muốn nói gì?"
+
+@28203 Treize · トレーズ
+> 「私は、敗者になりたい」
+"Tôi muốn là kẻ thua cuộc."
+
+@28204 Dermail · デルマイユ
+> 「……本気のようだな。反逆は
+>  本来ならは銃殺だが、
+“…Có vẻ như cậu nghiêm túc đấy. Cuộc nổi dậy đáng lẽ phải bị bắn;
+---
+>  血なまぐさいことは、したくない。
+>  これまでの功績もある
+Nhưng tôi không muốn nhìn thấy máu. Nhớ lại những thành tựu trong quá khứ của bạn,
+---
+>  トレーズ、お前を幽閉する」
+Telles, tôi sẽ quản thúc anh tại gia. "
+
+@28205 Tubarov · ツバロフ
+> 「そうですか、武装解除には
+>  応じませんでしたか
+"Thật sao? Họ từ chối giải giáp vũ khí.
+---
+>  やはりトレーズ特佐の息のかかった
+>  者たちは、一筋縄ではいきませんな」
+Quả nhiên, hậu duệ trực hệ của Trestezo không dễ đối phó như vậy. "
+
+@28206 Dermail · デルマイユ
+> 「トレーズめ、
+>  よけいな仕事を増やしおって」
+"Anh chàng Telles đó chỉ đang gây rắc rối cho tôi thôi. "
+
+@28207 Bask · バスク
+> 「だからトレーズなどに
+>  まかせねばよかったのだ」
+“Vì vậy, lẽ ra chúng ta không nên giao vấn đề này cho những người như Telles từ lâu. "
+
+@28208 Jamitov · ジャミトフ
+> 「バスク、いまさらそれを言っても
+>  しかたあるまい。OZはこのわしが自ら
+“Basque, bây giờ nói điều này cũng vô ích thôi. OZ của riêng tôi
+---
+>  指揮を執ることにした。
+>  トレーズ派の反乱に
+lệnh. Nếu cuộc nổi loạn của Tellesian và
+---
+>  反OZの者どもが
+>  結びつくとやっかいだな、特佐」
+Các lực lượng chống OZ đã thông đồng với nhau, điều này sẽ gây rắc rối cho Tezo. "
+
+@28209 Bask · バスク
+> 「はっ、オペレーション・ノヴァを
+>  実行に移します
+"Đúng, tôi sẽ thực hiện Chiến dịch Nova ngay bây giờ.
+---
+>  トレーズ派もろとも反対勢力を
+>  一掃してご覧にいれましょう」
+Cùng với phe Telles, lực lượng đối lập sẽ bị tiêu diệt. Xin vui lòng chờ xem. "

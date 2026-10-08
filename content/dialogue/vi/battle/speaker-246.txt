@@ -1,0 +1,215 @@
+# Bản dịch tiếng Việt Super Robot Wars 64
+# Định dạng và vị trí: docs/guide/dialogue-text.md
+
+@11223 Chara · キャラ
+# Kích hoạt: Tấn công (Chung，1/13）
+> 「アッハッハッハッハッハッ!」
+"Ahahahahahaha!"
+
+@11224 Chara · キャラ
+# Kích hoạt: Tấn công (Chung，2/13）
+> 「くぅ 敵だ、敵だぁ、もう胸が
+>  張り裂けそう!」
+"Được rồi, kẻ thù là kẻ thù. Ngực tôi sắp nổ tung rồi!"
+
+@11225 Chara · キャラ
+# Kích hoạt: Tấn công (Chung，3/13）
+> 「身体が、身体が熱いのよおっ!」
+"Cơ thể của tôi, cơ thể của tôi nóng quá!"
+
+@11226 Chara · キャラ
+# Kích hoạt: Tấn công (Chung，4/13）
+> 「あははは、もっともっと躍れ!」
+"A ha ha ha, lại nhảy nữa, nhảy vui vẻ hơn!"
+
+@11227 Chara · キャラ
+# Kích hoạt: Tấn công (Chung，5/13）
+> 「いっただき!」
+"Lấy nó!"
+
+@11228 Chara · キャラ
+# Kích hoạt: Tấn công (Chung，6/13）
+> 「ああっ体が熱いっ燃えるっ!」
+"A, thân thể của ta nóng quá, ta sắp bị bỏng mất!"
+
+@11229 Chara · キャラ
+# Kích hoạt: Tấn công (Chung，7/13）
+> 「くぅーっ! あははは! 敵だ、敵だ!
+>  もう胸が張り裂けそう! 快感!」
+"Uh--! Hahahaha! Kẻ thù là kẻ thù! Ngực tôi sắp nổ tung rồi! Hãy cảm nhận sự sảng khoái!"
+
+@11230 Chara · キャラ
+# Kích hoạt: Tấn công (Chung，8/13）
+> 「そーら、そら! 落としちゃうよ!」
+"Nào, nào! Đánh bại ngươi đi!"
+
+@11231 Chara · キャラ
+# Kích hoạt: Tấn công (Chung，9/13）
+> 「さあて、行くよっ!」
+"Được rồi, chúng ta đi đây!"
+
+@11232 Chara · キャラ
+# Kích hoạt: Tấn công (Chung，10/13）
+> 「はははっ! ぞくぞくする! それっ!」
+"Ha ha ha! Toàn thân ta tê dại! Cẩn thận động tác!"
+
+@11233 Chara · キャラ
+# Kích hoạt: Tấn công (Chung，11/13）
+> 「魂よ! 魂の躍動なのよ!
+>  私の魂は、宇宙を駆ける魂!」
+"Linh hồn! Đây là linh hồn nhảy vọt! Linh hồn của ta là linh hồn phi nước đại trong vũ trụ!"
+
+@11234 Chara · キャラ
+# Kích hoạt: Tấn công (Chung，12/13）
+> 「胸が苦しい、もう死ぬ!
+>  死んじゃうぞっ!」
+"Ngực tôi khó chịu quá, tôi sắp chết! Tôi sắp chết!"
+
+@11235 Chara · キャラ
+# Kích hoạt: Tấn công (Chung，13/13）
+> 「そこかいっ!」
+“Nó ở đằng kia phải không?”
+
+@11236 Chara · キャラ
+# Kích hoạt: 被击坠（通用，1/1）
+> 「え! ウソ!? やられちゃったのかい!?」
+"Này! Không thể nào!? Tôi đã bị giết!?"
+
+@11237 Chara · キャラ
+# Kích hoạt: 重伤（剩余 HP 不足 30%）（通用，1/4）
+> 「あうっ! や、やば……壊れちゃいそう」
+"Aww! Rất tiếc...hình như nó bị hỏng rồi."
+
+@11238 Chara · キャラ
+# Kích hoạt: 重伤（剩余 HP 不足 30%）（通用，2/4）
+> 「わわっ! な、何だいこいつは!?」
+"Chà! Anh chàng này là gì vậy!?"
+
+@11239 Chara · キャラ
+# Kích hoạt: 重伤（剩余 HP 不足 30%）（通用，3/4）
+> 「ああっ! す、すごい、なんて強烈……」
+"A! Thật mạnh mẽ, thật mãnh liệt..."
+
+@11240 Chara · キャラ
+# Kích hoạt: 重伤（剩余 HP 不足 30%）（通用，4/4）
+> 「なに!? 化け物かっ!?」
+"Cái gì!? Đó có phải là quái vật không!?"
+
+@11241 Chara · キャラ
+# Kích hoạt: 中伤（剩余 HP 30–90%）（通用，1/4）
+> 「ちっ! やってくれたね!」
+"Tsk! Bạn thực sự giỏi về nó!"
+
+@11242 Chara · キャラ
+# Kích hoạt: 中伤（剩余 HP 30–90%）（通用，2/4）
+> 「このっ! あたしを怒らせるとどうなるか
+>  わかってるんだろうね!!」
+"Anh bạn! Bạn nên biết điều gì sẽ xảy ra nếu bạn làm tôi tức giận!!"
+
+@11243 Chara · キャラ
+# Kích hoạt: 中伤（剩余 HP 30–90%）（通用，3/4）
+> 「くっ! やるじゃないか! おもしろく
+>  なってきたよ!」
+"Chà! Đã lâu rồi! Càng ngày càng thú vị!"
+
+@11244 Chara · キャラ
+# Kích hoạt: 中伤（剩余 HP 30–90%）（通用，4/4）
+> 「うっ! そうかい、やるっていうのかい!」
+"Hmm! Được rồi, cậu muốn đánh nhau phải không?"
+
+@11245 Chara · キャラ
+# Kích hoạt: 轻伤（剩余 HP 90% 以上）（通用，1/5）
+> 「くすぐったいんだよ!」
+"Thật ngứa quá!"
+
+@11246 Chara · キャラ
+# Kích hoạt: 轻伤（剩余 HP 90% 以上）（通用，2/5）
+> 「あはは、かわいいじゃないか」
+"Ahaha, nó khá dễ thương."
+
+@11247 Chara · キャラ
+# Kích hoạt: 轻伤（剩余 HP 90% 以上）（通用，3/5）
+> 「その程度かい? 笑わせてくれるね!」
+"Anh chỉ có thế thôi sao? Buồn cười quá!"
+
+@11248 Chara · キャラ
+# Kích hoạt: 轻伤（剩余 HP 90% 以上）（通用，4/5）
+> 「なんだい、物足りないね!」
+"Cái gì, không thỏa mãn!"
+
+@11249 Chara · キャラ
+# Kích hoạt: 轻伤（剩余 HP 90% 以上）（通用，5/5）
+> 「うるさいな!」
+“Ồn ào quá! "
+
+@11250 Chara · キャラ
+# Kích hoạt: Né tránh（通用，1/5）
+> 「当たらないんだよ!」
+"Bạn không thể đánh nó!"
+
+@11251 Chara · キャラ
+# Kích hoạt: Né tránh（通用，2/5）
+> 「あははは、は～ずれた!」
+"A hahaha, bắn trượt~ trượt!"
+
+@11252 Chara · キャラ
+# Kích hoạt: Né tránh（通用，3/5）
+> 「笑わせんじゃないよ!
+>  甘いんだよ、そんなの!!」
+"Đừng làm tôi cười! Kiểu tấn công này quá dịu dàng!!"
+
+@11253 Chara · キャラ
+# Kích hoạt: Né tránh（通用，4/5）
+> 「甘いね、そんなもの!」
+"Loại chuyện này quá mềm!"
+
+@11254 Chara · キャラ
+# Kích hoạt: Né tránh（通用，5/5）
+> 「どこ狙ってんのさ!」
+"Ngươi nhắm vào đâu!"
+
+@11255 Chara · キャラ
+# Kích hoạt: Tấn công无效（护罩／装甲）（通用，1/2）
+> 「あははは、効かないね!」
+"A ha ha, vô dụng!"
+
+@11256 Chara · キャラ
+# Kích hoạt: Tấn công无效（护罩／装甲）（通用，2/2）
+> 「ムダなんだよ、そんなのは!」
+"Loại chuyện này thật vô dụng!"
+
+@11257 Chara · キャラ
+# Kích hoạt: 弹药／EN 不足，无法反击（通用，1/1）
+> 「弾切れ!? なんでぇ?」
+"Hết đạn!? Chuyện gì đang xảy ra vậy?"
+
+@11258 Chara · キャラ
+# Kích hoạt: 射程外，无法反击（通用，1/1）
+> 「くそっ! 届かないのかい!?」
+"Chết tiệt! Không thể với tới được!?"
+
+@16409 Chara · キャラ
+# Kích hoạt: 使用〈ミサイルポッド／連装ミサイルランチャー〉（低优先，可能被通用台词顶掉）
+> 「邪魔するんなら撃っちゃうからねっ!」
+"Nếu ngươi dám cản đường, ta sẽ bắn!"
+
+@16410 Chara · キャラ
+# Kích hoạt: 使用〈ビームライフル／銃剣付きビームライフル〉（低优先，可能被通用台词顶掉）
+> 「邪魔するんなら撃っちゃうからねっ!」
+"Nếu ngươi dám cản đường, ta sẽ bắn!"
+
+@16411 Chara · キャラ
+# Kích hoạt: 使用〈ファンネル／マザーファンネル〉
+> 「ファンネルっ!」
+"Pháo bay!"
+
+@16412 Chara · キャラ
+# Kích hoạt: 使用〈フィンファンネル〉
+> 「フィンファンルっ!!」
+"Pháo nổi có vây!!"
+
+@16413 Chara · キャラ
+# Kích hoạt: 使用〈ハイメガキャノン〉（低优先，可能被通用台词顶掉）
+> 「エネルギー充填……
+>  いけっ! ハイメガキャノン!!」
+"Nạp năng lượng...cố lên! Mega Cannon năng lượng cao!!"

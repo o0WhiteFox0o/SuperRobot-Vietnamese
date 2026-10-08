@@ -1,0 +1,732 @@
+# Bản dịch tiếng Việt Super Robot Wars 64
+# Định dạng và vị trí: docs/guide/dialogue-text.md
+
+@11504 Brad · ブラッド
+# Kích hoạt: Tấn công (Chung，1/8）
+> 「うおぉぉぉぉっ!」
+"Ồhhhhhh!"
+
+@11505 Brad · ブラッド
+# Kích hoạt: Tấn công (Chung，2/8）
+> 「いっくぜぇ!」
+"Cố lên!"
+
+@11506 Brad · ブラッド
+# Kích hoạt: Tấn công (Chung，3/8）
+> 「せいやあぁぁぁっっ!」
+"Này a a a a a!"
+
+@11507 Brad · ブラッド
+# Kích hoạt: Tấn công (Chung，4/8）
+> 「くらえぇぇーっ!」
+“Ăn trò lừa của tôi——!”
+
+@11508 Brad · ブラッド
+# Kích hoạt: Tấn công (Chung，5/8）
+> 「俺の技を受けてみろ!」
+"Hãy thử động tác của tôi!"
+
+@11509 Brad · ブラッド
+# Kích hoạt: Tấn công (Chung，6/8）
+> 「でりゃぁぁーっ!」
+"Này à à -!"
+
+@11510 Brad · ブラッド
+# Kích hoạt: Tấn công (Chung，7/8）
+> 「まとめて相手をしてやるぜ!」
+"Các ngươi cùng nhau đi!"
+
+@11511 Brad · ブラッド
+# Kích hoạt: Tấn công (Chung，8/8）
+> 「さぁ、覚悟を決めやがれ!!」
+"Nào, chấp nhận số phận của mình đi!!"
+
+@11512 Brad · ブラッド
+# Kích hoạt: 被击坠（通用，1/3）
+> 「うおぉぉっちっくしょーっ!」
+"Ooohhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhh!”
+
+@11513 Brad · ブラッド
+# Kích hoạt: 被击坠（通用，2/3）
+> 「くっそぉぉぉぉぉーっ!」
+"Chết tiệt, ahhhhhhhhh-!"
+
+@11514 Brad · ブラッド
+# Kích hoạt: 被击坠（通用，3/3）
+> 「うわぁぁぁぁーっ!!」
+"Whoaahhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhh!"
+
+@11515 Brad · ブラッド
+# Kích hoạt: 重伤（剩余 HP 不足 30%）（通用，1/10）
+> 「ぐぅっ、やられてたまるかぁっ!」
+"Chà, sao tôi có thể ngã xuống như thế này được!"
+
+@11516 Brad · ブラッド
+# Kích hoạt: 重伤（剩余 HP 不足 30%）（通用，2/10）
+> 「くっそぉっ! まだまだっ!」
+"Chết tiệt! Vẫn chưa kết thúc!"
+
+@11517 Brad · ブラッド
+# Kích hoạt: 重伤（剩余 HP 不足 30%）（通用，3/10）
+> 「こ、こんなことでやられるか!」
+"Đừng nghĩ đến việc đánh bại tôi ở cấp độ này!"
+
+@11518 Brad · ブラッド
+# Kích hoạt: 重伤（剩余 HP 不足 30%）（通用，4/10）
+> 「うれしいぜぇ、
+>  敵がこれだけ強いとよぉッ!」
+"Kẻ thù mạnh như vậy, ta vui mừng cũng chưa muộn!"
+
+@11519 Brad · ブラッド
+# Kích hoạt: 重伤（剩余 HP 不足 30%）（通用，5/10）
+> 「ぐうぅぅーっ!」
+"Ưuuuuuu——!"
+
+@11520 Brad · ブラッド
+# Kích hoạt: 重伤（剩余 HP 不足 30%）（通用，6/10）
+> 「があぁぁぁぁーっ!」
+“Gaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaa-!”
+
+@11521 Brad · ブラッド
+# Kích hoạt: 重伤（剩余 HP 不足 30%）（通用，7/10）
+> 「うおおぉぉぉーっ!」
+"Ồhhhhhh-!"
+
+@11522 Brad · ブラッド
+# Kích hoạt: 重伤（剩余 HP 不足 30%）（通用，8/10）
+> 「うわっ!? や、やらせねぇ!」
+"Wow!? Thật là một ý nghĩ tuyệt vời!"
+
+@11523 Brad · ブラッド
+# Kích hoạt: 重伤（剩余 HP 不足 30%）（通用，9/10）
+> 「なにぃ!? バカな、この俺が!?」
+"Cái gì!? Không thể nào, tôi thực sự có thể làm được!?"
+
+@11524 Brad · ブラッド
+# Kích hoạt: 重伤（剩余 HP 不足 30%）（通用，10/10）
+> 「つ、強い!?
+>  ならば、余計に負けられん!!」
+"Vậy, mạnh quá!? Thế thì tôi không thể thua được!!"
+
+@11525 Brad · ブラッド
+# Kích hoạt: 中伤（剩余 HP 30–90%）（通用，1/12）
+> 「これしきのことでぇっ!」
+“Chỉ là vết thương nhỏ thôi——!”
+
+@11526 Brad · ブラッド
+# Kích hoạt: 中伤（剩余 HP 30–90%）（通用，2/12）
+> 「ちいっ、俺はまだやれるぜぇ!」
+"Tsk, tôi vẫn có thể chiến đấu!"
+
+@11527 Brad · ブラッド
+# Kích hoạt: 中伤（剩余 HP 30–90%）（通用，3/12）
+> 「まだまだぁーっ!」
+“Vẫn còn sớm lắm——!”
+
+@11528 Brad · ブラッド
+# Kích hoạt: 中伤（剩余 HP 30–90%）（通用，4/12）
+> 「おぉぅっ!?」
+"Ồ hả!?"
+
+@11529 Brad · ブラッド
+# Kích hoạt: 中伤（剩余 HP 30–90%）（通用，5/12）
+> 「こいつ、やるっ!?」
+"Anh chàng này có vấn đề à!?"
+
+@11530 Brad · ブラッド
+# Kích hoạt: 中伤（剩余 HP 30–90%）（通用，6/12）
+> 「ク、クククッ、やるじゃないかよ!」
+"Này, này, này, còn một lát nữa!"
+
+@11531 Brad · ブラッド
+# Kích hoạt: 中伤（剩余 HP 30–90%）（通用，7/12）
+> 「くっ……この俺にこうも当てる!?」
+"Ừm...cậu thực sự đã đánh tôi hết cái này đến cái khác sao!?"
+
+@11532 Brad · ブラッド
+# Kích hoạt: 中伤（剩余 HP 30–90%）（通用，8/12）
+> 「やるなぁ……だがっ!」
+"Một lát...nhưng!"
+
+@11533 Brad · ブラッド
+# Kích hoạt: 中伤（剩余 HP 30–90%）（通用，9/12）
+> 「く……そろそろ本気でいくとするか」
+"Chà...đã đến lúc phải nghiêm túc rồi."
+
+@11534 Brad · ブラッド
+# Kích hoạt: 中伤（剩余 HP 30–90%）（通用，10/12）
+> 「面白いッ! この俺と正面から
+>  やりあおうってんだな!」
+"Thú vị quá! Bạn muốn cạnh tranh trực tiếp với tôi phải không?"
+
+@11535 Brad · ブラッド
+# Kích hoạt: 中伤（剩余 HP 30–90%）（通用，11/12）
+> 「くっ……やるな!」
+"Chà... phải mất một lúc!"
+
+@11536 Brad · ブラッド
+# Kích hoạt: 中伤（剩余 HP 30–90%）（通用，12/12）
+> 「くっ……だがこの程度で俺を止めら
+>  れるなどと思うな!」
+"Chà... đừng nghĩ vết thương này có thể ngăn cản được tôi!"
+
+@11537 Brad · ブラッド
+# Kích hoạt: 轻伤（剩余 HP 90% 以上）（通用，1/11）
+> 「そんな攻撃が効くかよ!」
+“Không đời nào kiểu tấn công này có tác dụng được!”
+
+@11538 Brad · ブラッド
+# Kích hoạt: 轻伤（剩余 HP 90% 以上）（通用，2/11）
+> 「ぜんぜん効かねぇぜ!」
+"Nó không đau hay ngứa chút nào!"
+
+@11539 Brad · ブラッド
+# Kích hoạt: 轻伤（剩余 HP 90% 以上）（通用，3/11）
+> 「うっ!? だがムダだ!」
+"Hả!? Thật là lãng phí công sức!"
+
+@11540 Brad · ブラッド
+# Kích hoạt: 轻伤（剩余 HP 90% 以上）（通用，4/11）
+> 「くっそぉ、なめやがって!」
+"Mẹ kiếp, ngươi dám coi thường ta!"
+
+@11541 Brad · ブラッド
+# Kích hoạt: 轻伤（剩余 HP 90% 以上）（通用，5/11）
+> 「フッ、さすが俺だぜ」
+"Humph, đúng như mong đợi ở tôi"
+
+@11542 Brad · ブラッド
+# Kích hoạt: 轻伤（剩余 HP 90% 以上）（通用，6/11）
+> 「ムダなことはやめろってんだよ!」
+"Tôi đã bảo cậu đừng lãng phí công sức của mình mà!"
+
+@11543 Brad · ブラッド
+# Kích hoạt: 轻伤（剩余 HP 90% 以上）（通用，7/11）
+> 「俺に当てるとは、やるな」
+"Thật sự là ngươi đã đánh ta hai lần."
+
+@11544 Brad · ブラッド
+# Kích hoạt: 轻伤（剩余 HP 90% 以上）（通用，8/11）
+> 「チッ、ザコは下がってろ!!」
+"Tsk, loại bỏ bọn lính đi!!"
+
+@11545 Brad · ブラッド
+# Kích hoạt: 轻伤（剩余 HP 90% 以上）（通用，9/11）
+> 「そんな攻撃!
+>  何度やっても効きはしない!」
+"Loại tấn công này! Dù tôi có đến bao nhiêu lần cũng không có tác dụng!"
+
+@11546 Brad · ブラッド
+# Kích hoạt: 轻伤（剩余 HP 90% 以上）（通用，10/11）
+> 「なに!?
+>  この俺もずいぶんとなめられたもんだぜ」
+"Cái gì!? Tôi thực sự đang bị coi thường."
+
+@11547 Brad · ブラッド
+# Kích hoạt: 轻伤（剩余 HP 90% 以上）（通用，11/11）
+> 「貴様など相手にしているヒマはない!」
+"Tôi không có thời gian để đối phó với những thứ như bạn!"
+
+@11548 Brad · ブラッド
+# Kích hoạt: Né tránh（通用，1/8）
+> 「見切ったぁーっ!」
+“Nhìn xuyên qua——!”
+
+@11549 Brad · ブラッド
+# Kích hoạt: Né tránh（通用，2/8）
+> 「見えるぞ、貴様の攻撃が!」
+"Ta có thể thấy rõ ngươi công kích!"
+
+@11550 Brad · ブラッド
+# Kích hoạt: Né tránh（通用，3/8）
+> 「俺に当てるんじゃなかったのか!?」
+"Anh không muốn đánh tôi sao!?"
+
+@11551 Brad · ブラッド
+# Kích hoạt: Né tránh（通用，4/8）
+> 「どうした! ハハハハハッ!」
+"Sao vậy! Hahahahaha!"
+
+@11552 Brad · ブラッド
+# Kích hoạt: Né tránh（通用，5/8）
+> 「フッ……所詮はこの程度か」
+"Hmph... rốt cuộc đây là tất cả những gì cậu có thể làm à?"
+
+@11553 Brad · ブラッド
+# Kích hoạt: Né tránh（通用，6/8）
+> 「遅い! 遅すぎるぜ!!」
+"Chậm quá! Chậm quá!!"
+
+@11554 Brad · ブラッド
+# Kích hoạt: Né tránh（通用，7/8）
+> 「貴様の動き、読み切った!」
+"Tôi đã thấy mọi thứ bạn làm!"
+
+@11555 Brad · ブラッド
+# Kích hoạt: Né tránh（通用，8/8）
+> 「チッ、貴様など相手にならん!」
+"Tsk, trông bạn không đủ tốt trong những việc như thế này!"
+
+@11556 Brad · ブラッド
+# Kích hoạt: Tấn công无效（护罩／装甲）（通用，1/6）
+> 「どうやらムダだったようだな!」
+"Có vẻ như mọi nỗ lực của bạn đều vô ích!"
+
+@11557 Brad · ブラッド
+# Kích hoạt: Tấn công无效（护罩／装甲）（通用，2/6）
+> 「見たかっ!」
+"Thấy nó!"
+
+@11558 Brad · ブラッド
+# Kích hoạt: Tấn công无效（护罩／装甲）（通用，3/6）
+> 「ムダだ!」
+"Tất cả đều vô ích!"
+
+@11559 Brad · ブラッド
+# Kích hoạt: Tấn công无效（护罩／装甲）（通用，4/6）
+> 「貴様ごときにやぶられはしない!」
+"Ngươi thậm chí không thể hy vọng đánh bại được ta với thứ như ngươi!"
+
+@11560 Brad · ブラッド
+# Kích hoạt: Tấn công无效（护罩／装甲）（通用，5/6）
+> 「ハハハハハッ!! ムダだムダだ!」
+"Hahahahahahaha!! Vô dụng, vô dụng!"
+
+@11561 Brad · ブラッド
+# Kích hoạt: Tấn công无效（护罩／装甲）（通用，6/6）
+> 「そんな攻撃など!」
+"Loại tấn công này có ý nghĩa gì?"
+
+@11562 Brad · ブラッド
+# Kích hoạt: 弹药／EN 不足，无法反击（通用，1/2）
+> 「ちぃぃぃっ、エネルギー切れかぁ!」
+"Tsk - năng lượng đã cạn kiệt rồi!"
+
+@11563 Brad · ブラッド
+# Kích hoạt: 弹药／EN 不足，无法反击（通用，2/2）
+> 「なにっ!? やれないってのか!」
+"Cái gì!? Tôi không thể chiến đấu được nữa!"
+
+@11564 Brad · ブラッド
+# Kích hoạt: 射程外，无法反击（通用，1/3）
+> 「くっそぉ! 届かないってのかよ!?」
+"Chết tiệt! Không thể với tới được!?"
+
+@11565 Brad · ブラッド
+# Kích hoạt: 射程外，无法反击（通用，2/3）
+> 「ちっくしょう! 汚ねぇぞ!」
+"Chết tiệt! Thật đáng khinh!"
+
+@11566 Brad · ブラッド
+# Kích hoạt: 射程外，无法反击（通用，3/3）
+> 「くっ……俺と勝負しろ!」
+"Chà... Hãy chiến đấu thôi!"
+
+@16442 Brad · ブラッド
+# Kích hoạt: 对手驾驶员〈カーツ〉
+> 「{PartnerName}!
+>  お前に俺の技が見切れるか!?」
+"{PartnerName}! Bạn có thể nhìn thấu bước đi của tôi không!?"
+
+@16443 Brad · ブラッド
+# Kích hoạt: 对手驾驶员〈カーツ〉
+> 「くらえぇぇーっ!!」
+“Tiến lên——!!”
+
+@16444 Brad · ブラッド
+# Kích hoạt: 对手驾驶员〈カーツ〉
+> 「いくぞ、{PartnerName}!!」
+"Hiểu rồi, {PartnerName}!!"
+
+@16445 Brad · ブラッド
+# Kích hoạt: 对手驾驶员〈カーツ〉
+> 「うおおぉぉぉぉーっ!!」
+“Ooohhhhhh-! ! "
+
+@16446 Brad · ブラッド
+# Kích hoạt: 对手驾驶员〈カーツ〉
+> 「手加減はしないぞ、{PartnerName}!」
+"Tôi sẽ không tỏ ra thương xót, {PartnerName}!"
+
+@16447 Brad · ブラッド
+# Kích hoạt: 对手驾驶员〈カーツ〉
+> 「せいやあぁぁぁーっ!」
+"Này a a a a a -!"
+
+@16448 Brad · ブラッド
+# Kích hoạt: 对手驾驶员〈カーツ〉
+> 「そこかぁっ!!」
+“Chính là nó!!”
+
+@16449 Brad · ブラッド
+# Kích hoạt: 使用〈虎閃掌〉（低优先，可能被通用台词顶掉）
+> 「虎閃掌!」
+"Hổ Flash Chưởng!"
+
+@16450 Brad · ブラッド
+# Kích hoạt: 使用〈虎閃掌〉（低优先，可能被通用台词顶掉）
+> 「虎閃掌だ!」
+"Hổ Flash Chưởng!"
+
+@16451 Brad · ブラッド
+# Kích hoạt: 使用〈虎閃掌〉（低优先，可能被通用台词顶掉）
+> 「いくぜッ! 虎閃掌!!」
+"Tiến lên! Tiger Flash Palm!!"
+
+@16452 Brad · ブラッド
+# Kích hoạt: 使用〈虎閃掌〉（低优先，可能被通用台词顶掉）
+> 「くらえっ、虎閃掌だ!!」
+"Tiến lên, Tiger Flash Palm!!"
+
+@16453 Brad · ブラッド
+# Kích hoạt: 使用〈虎閃掌〉（低优先，可能被通用台词顶掉）
+> 「この閃光が敵を貫く!」
+"Ánh sáng này sẽ xuyên qua kẻ thù!"
+---
+> 「虎閃掌ぉぉぉーっ!!」
+"Tiger Flash Palm ahhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhh"
+
+@16454 Brad · ブラッド
+# Kích hoạt: 使用〈狼牙〉（低优先，可能被通用台词顶掉）
+> 「狼牙っ!」
+"Nanh sói!"
+
+@16455 Brad · ブラッド
+# Kích hoạt: 使用〈狼牙〉（低优先，可能被通用台词顶掉）
+> 「いくぞ、狼牙だ!」
+"Lên đi, Nanh Sói!"
+
+@16456 Brad · ブラッド
+# Kích hoạt: 使用〈狼牙〉（低优先，可能被通用台词顶掉）
+> 「狼牙ぁぁぁぁーっ!!」
+"Nanh sói ahhhhhhhhhhhhhhhhhhhhhhhhhhh"
+
+@16457 Brad · ブラッド
+# Kích hoạt: 使用〈狼牙〉（低优先，可能被通用台词顶掉）
+> 「奴の喉元を喰い破れ!」
+“Cắn đứt cổ tên đó đi!”
+---
+> 「狼牙ァァッ!!」
+"Răng nanh sói!!"
+
+@16458 Brad · ブラッド
+# Kích hoạt: 使用〈餓狼爪撃〉（低优先，可能被通用台词顶掉）
+> 「餓狼爪撃!」
+"Cú vuốt sói đói khát tấn công!"
+
+@16459 Brad · ブラッド
+# Kích hoạt: 使用〈餓狼爪撃〉（低优先，可能被通用台词顶掉）
+> 「くらえっ、餓狼爪撃ッ!」
+"Tiến lên, Vuốt Sói Đói Tấn Công!"
+
+@16460 Brad · ブラッド
+# Kích hoạt: 使用〈餓狼爪撃〉（低优先，可能被通用台词顶掉）
+> 「受けてみやがれ!」
+"Thử cái này đi!"
+---
+> 「餓狼爪撃ッ!」
+"Cú vuốt sói đói khát tấn công!"
+
+@16461 Brad · ブラッド
+# Kích hoạt: 使用〈餓狼爪撃〉（低优先，可能被通用台词顶掉）
+> 「我が手より出でて敵を裂け!」
+"Ra khỏi lòng bàn tay và xé nát kẻ thù!"
+---
+> 「餓狼爪撃ィィィッ!」
+"Móng vuốt sói đói tấn công ahhhhhhhhhhhhhhhhhhhhhhhhhhhhhhh"
+
+@16462 Brad · ブラッド
+# Kích hoạt: 使用〈獅子吼烈破〉（低优先，可能被通用台词顶掉）
+> 「獅子よ吼えろっ!」
+"Sư tử, gầm lên!"
+
+@16463 Brad · ブラッド
+# Kích hoạt: 使用〈獅子吼烈破〉（低优先，可能被通用台词顶掉）
+> 「獅子吼裂破!」
+"Sư tử gầm vỡ!"
+
+@16464 Brad · ブラッド
+# Kích hoạt: 使用〈獅子吼烈破〉（低优先，可能被通用台词顶掉）
+> 「受けてみろ!」
+"Hãy di chuyển!"
+---
+> 「獅子吼裂破ぁぁーっ!」
+"Sư tử gầm vỡ!"
+
+@16465 Brad · ブラッド
+# Kích hoạt: 使用〈獅子吼烈破〉（低优先，可能被通用台词顶掉）
+> 「うおぉぉぉーっ!!」
+“Ồhhhhhh——!!”
+---
+> 「獅子吼裂破だぁぁーっ!!」
+"Tiếng gầm của sư tử vang lên!"
+
+@16466 Brad · ブラッド
+# Kích hoạt: 使用〈竜王双撃〉（低优先，可能被通用台词顶掉）
+> 「こいつで決める!」
+"Một nước đi quyết định kết quả!"
+---
+> 「くらえっ、竜王双撃!」
+"Ra tay, Long Vương nhấp đúp!"
+
+@16467 Brad · ブラッド
+# Kích hoạt: 使用〈竜王双撃〉（低优先，可能被通用台词顶掉）
+> 「見せてやるっ!」
+"Cho anh xem!"
+---
+> 「秘技・竜王双撃ィィィーッ!」
+"Bí thuật · Long Vương chạm hai lần ahhhh——!"
+
+@16468 Brad · ブラッド
+# Kích hoạt: 使用〈竜王双撃〉（低优先，可能被通用台词顶掉）
+> 「秘技、竜・王・双・撃ッ!」
+"Kỹ năng bí mật, Long Vương Song Kích!"
+
+@16469 Brad · ブラッド
+# Kích hoạt: 使用〈竜王双撃〉（低优先，可能被通用台词顶掉）
+> 「一撃で決める!」
+"Một đòn quyết định kết quả!"
+---
+> 「秘技、竜・王・双・撃ッ!」
+"Kỹ năng bí mật, Long Vương Song Kích!"
+
+@16470 Brad · ブラッド
+# Kích hoạt: 使用〈天馬翔覇〉（对话第 1/3 句）
+> 「天を翔けよ! 空を裂け!
+>  我が魂の力、いまこそ見せん!」
+"Bay lên bầu trời! Xé nát bầu trời! Tôi sẽ cho bạn thấy sức mạnh linh hồn của tôi ngay bây giờ!"
+
+@16471 Brad · ブラッド
+# Kích hoạt: 使用〈天馬翔覇〉（对话第 2/3 句）
+> 「いっくぞぉっ、ひぃーっさつ!」
+“Nào, chúng ta phải—giết!”
+
+@16472 Brad · ブラッド
+# Kích hoạt: 使用〈天馬翔覇〉（对话第 3/3 句）
+> 「天・馬・翔・覇ぁぁーっ!!」
+"Tian·Ma·Xiang·Baah——!!"
+
+@16473 Brad · ブラッド
+# Kích hoạt: 使用〈天馬翔覇〉（对话第 1/3 句）
+> 「天を翔けよ! 空を裂け!
+>  全てを滅する光となりて!」
+"Bay lên bầu trời! Xé nát bầu trời! Biến thành ánh sáng hủy diệt mọi thứ!"
+
+@16474 Brad · ブラッド
+# Kích hoạt: 使用〈天馬翔覇〉（对话第 2/3 句）
+> 「我が魂の力、いまこそ見せん!
+>  必殺奥義ぃぃぃーっ!」
+"Sức mạnh linh hồn của ta, ta sẽ cho ngươi xem ngay bây giờ! Bí mật của cái chết! Ahhhhhhhhhhhhhhhhhhhhhhhhh!"
+
+@16475 Brad · ブラッド
+# Kích hoạt: 使用〈天馬翔覇〉（对话第 3/3 句）
+> 「天馬ぁぁっ翔覇ぁぁーっ!」
+“Pegasus, Shoba, à—!”
+
+@16476 Brad · ブラッド
+# Kích hoạt: 使用〈天馬翔覇〉（对话第 1/3 句）
+> 「打ち倒せ! この魂を修羅と化し
+>  我が命のすべてをもって成す!」
+"Đánh bại hắn! Biến linh hồn này thành Shura và cống hiến cả cuộc đời để thực hiện đòn tấn công này!"
+
+@16477 Brad · ブラッド
+# Kích hoạt: 使用〈天馬翔覇〉（对话第 2/3 句）
+> 「うおぉぉぉぉぉぉぉぉぉーーっ!!」
+"Ờ ồ ồ ồ ồ ồ ồ ồ ồ -!!"
+
+@16478 Brad · ブラッド
+# Kích hoạt: 使用〈天馬翔覇〉（对话第 3/3 句）
+> 「必殺ッ!
+>  天馬翔覇ァァァァーーッ!!」
+"Phải giết! Pegasus Shoba ahhhhhh——!!"
+
+@16479 Brad · ブラッド
+# Kích hoạt: 使用〈鳳凰光覇〉（对话第 1/3 句）
+> 「我が身に宿る鬼神が放つ!
+>  この閃光は究極不敗!」
+"Quỷ thần ở trong ta phóng ra tia sáng này! Ánh sáng này cuối cùng là vô địch!"
+
+@16480 Brad · ブラッド
+# Kích hoạt: 使用〈鳳凰光覇〉（对话第 2/3 句）
+> 「その身をもってとくと知れ!
+>  武機覇拳流が最終奥義!」
+"Dùng cơ thể của bạn để học bài! Bí quyết tối thượng của phong cách nắm đấm bậc thầy võ thuật!"
+
+@16481 Brad · ブラッド
+# Kích hoạt: 使用〈鳳凰光覇〉（对话第 3/3 句）
+> 「鳳・凰・光・覇ァァァーっ!」
+"Feng·huang·guang·baahhhh——!"
+
+@16482 Brad · ブラッド
+# Kích hoạt: 使用〈鳳凰光覇〉（对话第 1/3 句）
+> 「我が身に宿る鬼神が放つ!
+>  この閃光は究極不敗ぃぃっ!」
+“Hồn ma và linh hồn trú ngụ trong tôi giải phóng ánh sáng này! Ánh sáng này là thứ tối thượng bất khả chiến bại—!”
+
+@16483 Brad · ブラッド
+# Kích hoạt: 使用〈鳳凰光覇〉（对话第 2/3 句）
+> 「貴様に見せてやる!!
+>  武機覇拳流が最終奥義!」
+"Cho các ngươi xem!! Bí quyết tối thượng của phong cách nắm đấm bậc thầy võ thuật!"
+
+@16484 Brad · ブラッド
+# Kích hoạt: 使用〈鳳凰光覇〉（对话第 3/3 句）
+> 「いっくぞぉぉぉーっ!!
+>  鳳・凰・光・覇ぁぁぁぁぁーっ!」
+"Nào, ahhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhh với tôi!"
+
+@16485 Brad · ブラッド
+# Kích hoạt: 使用〈鳳凰光覇〉（对话第 1/3 句）
+> 「天に舞え鳳凰!
+>  その光翼で敵を無に帰せ!」
+"Hãy nhảy múa trên bầu trời, Phượng hoàng! Hãy sử dụng đôi cánh ánh sáng đó để biến kẻ thù thành hư vô!"
+
+@16486 Brad · ブラッド
+# Kích hoạt: 使用〈鳳凰光覇〉（对话第 2/3 句）
+> 「いまより放つこの一撃は
+>  絶対無敵の不破の技!」
+"Đòn đánh ra vào lúc này là một kỹ thuật tuyệt đối bất khả chiến bại và không thể phá vỡ!"
+
+@16487 Brad · ブラッド
+# Kích hoạt: 使用〈鳳凰光覇〉（对话第 3/3 句）
+> 「“武機覇拳流”神技!
+>  鳳・凰・光・覇ぁぁぁーっ!!」
+"Kỹ năng ma thuật của 'Võ Thuật Đấu Quyền'! Phoenix·Phoenix·Light·Baaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaa)--"
+
+@16488 Brad · ブラッド
+# Kích hoạt: 使用〈招雷 天竜魔滅陣〉（对话第 1/8 句）
+> 「{PartnerNick}、あれをやるぞ!」
+"{PartnerNick}, sử dụng chiêu đó!"
+
+@16489 Kurtz · カーツ
+# Kích hoạt: 使用〈招雷 天竜魔滅陣〉（对话第 2/8 句）
+> 「あれか。いいだろう」
+"Đó là một bước đi tốt. Ổn thôi."
+
+@16490 Kurtz · カーツ
+# Kích hoạt: 使用〈招雷 天竜魔滅陣〉（对话第 3/8 句）
+> 「いくぞッ!」
+"Nào!"
+---
+> 「うなれ!
+>  この身に満ちる猛き闘気よ!」
+"Gầm lên! Tinh thần chiến đấu mãnh liệt tràn ngập cơ thể tôi!"
+
+@16491 Brad · ブラッド
+# Kích hoạt: 使用〈招雷 天竜魔滅陣〉（对话第 4/8 句）
+> 「天よ竜よ、八部の鬼神よ!
+>  我ら一命を賭して成就せんッ!」
+"Thiên Long, Bát Quỷ Thần! Chúng ta liều mạng thực hiện chiêu này!"
+
+@16492 Kurtz · カーツ
+# Kích hoạt: 使用〈招雷 天竜魔滅陣〉（对话第 5/8 句）
+> 「招雷せよ!
+>  すべてを滅却せんがため!」
+"Mời sấm sét! Để hủy diệt tất cả!"
+
+@16493 Brad · ブラッド
+# Kích hoạt: 使用〈招雷 天竜魔滅陣〉（对话第 6/8 句）
+> 「冥府の鬼に語って聞かせよ!」
+“Hãy đi kể chuyện đó với những hồn ma ở Hades!”
+
+@16494 Kurtz · カーツ
+# Kích hoạt: 使用〈招雷 天竜魔滅陣〉（对话第 7/8 句）
+> 「これが我らの必殺奥義ぃぃーっ!」
+"Đây chính là chúng ta chờ giết bí mật --!"
+
+@16495 Brad · ブラッド
+# Kích hoạt: 使用〈招雷 天竜魔滅陣〉（对话第 8/8 句）
+> 「くらえぇぇーっ!」
+“Tiến lên—!”
+---
+> 「天・竜・魔・滅・陣!!」
+"Thiên, Long, Ma, Diệt Thế trận!!"
+
+@16496 Brad · ブラッド
+# Kích hoạt: 重伤（剩余 HP 不足 30%），对手驾驶员〈カーツ〉
+> 「ぐうっ! さすがだな、{PartnerName}!」
+"Hmm! Nó thực sự tuyệt vời, {PartnerName}!"
+
+@16497 Brad · ブラッド
+# Kích hoạt: 重伤（剩余 HP 不足 30%），对手驾驶员〈カーツ〉
+> 「くっ、やはり、強い」
+"Chà, nó thực sự tuyệt vời."
+
+@16498 Brad · ブラッド
+# Kích hoạt: 重伤（剩余 HP 不足 30%），对手驾驶员〈カーツ〉
+> 「ちいっ、腕をあげたな{PartnerName}!」
+"Chậc, bạn đã trưởng thành lên rất nhiều rồi, {PartnerName}!"
+
+@16499 Brad · ブラッド
+# Kích hoạt: 中伤（剩余 HP 30–90%），对手驾驶员〈カーツ〉
+> 「まだまだぁーっ!」
+“Vẫn còn sớm lắm——!”
+
+@16500 Brad · ブラッド
+# Kích hoạt: 中伤（剩余 HP 30–90%），对手驾驶员〈カーツ〉
+> 「やるなぁ……だがっ!」
+"Một lát...nhưng!"
+
+@16501 Brad · ブラッド
+# Kích hoạt: 中伤（剩余 HP 30–90%），对手驾驶员〈カーツ〉
+> 「くっ……やるな!」
+"Chà... phải mất một lúc!"
+
+@16502 Brad · ブラッド
+# Kích hoạt: 中伤（剩余 HP 30–90%），对手驾驶员〈カーツ〉
+> 「さすがだな……だがこの程度で俺を
+>  止められるなどと思うな!」
+"Nó thực sự mạnh mẽ... nhưng đừng nghĩ rằng vết thương nhỏ này có thể ngăn cản được tôi!"
+
+@16503 Brad · ブラッド
+# Kích hoạt: 中伤（剩余 HP 30–90%），对手驾驶员〈カーツ〉
+> 「クッ、やるな{PartnerName}」
+"Chà, có chút thời gian, {PartnerName}."
+
+@16504 Brad · ブラッド
+# Kích hoạt: 轻伤（剩余 HP 90% 以上），对手驾驶员〈カーツ〉
+> 「くっそぉ、なめやがって!」
+"Mẹ kiếp, ngươi dám coi thường ta!"
+
+@16505 Brad · ブラッド
+# Kích hoạt: 轻伤（剩余 HP 90% 以上），对手驾驶员〈カーツ〉
+> 「{PartnerName}……
+>  お前の腕はこの程度か!?」
+"{PartnerName}...Đây là tất cả những gì bạn có à!?"
+
+@16506 Brad · ブラッド
+# Kích hoạt: 轻伤（剩余 HP 90% 以上），对手驾驶员〈カーツ〉
+> 「どうした!?
+>  それがお前の本気の技か!?」
+"Sao vậy!? Đây có phải là khả năng thực sự của bạn không!?"
+
+@16507 Brad · ブラッド
+# Kích hoạt: 轻伤（剩余 HP 90% 以上），对手驾驶员〈カーツ〉
+> 「ムダなことはやめろってんだよ!」
+"Tôi đã bảo cậu đừng lãng phí công sức của mình mà!"
+
+@16508 Brad · ブラッド
+# Kích hoạt: 分身回避，乘坐〈スーパーアースゲイン〉
+> 「瞬幻足っ!」
+"Bàn chân ma hoàng hôn!"
+
+@16509 Brad · ブラッド
+# Kích hoạt: 分身回避，乘坐〈スーパーアースゲイン〉
+> 「これが、瞬幻足だ!」
+"Đây là Shun Phantasma!"
+
+@16510 Brad · ブラッド
+# Kích hoạt: 分身回避，乘坐〈スーパーアースゲイン〉
+> 「みよ、瞬幻足!」
+“Cẩn thận đấy, Shunphanzu!”
+
+@16511 Brad · ブラッド
+# Kích hoạt: 分身回避，乘坐〈スーパーアースゲイン〉
+> 「この瞬幻足は貴様ごときに
+>  破られはしない!」
+"Làm sao kẻ như ngươi có thể bẻ gãy được bàn chân ảo ảnh tức thời này!"
+
+@16512 Brad · ブラッド
+# Kích hoạt: 分身回避，对手驾驶员〈カーツ〉
+> 「読み切ったぞ、{PartnerName}!」
+"Hãy xem qua, {PartnerName}!"

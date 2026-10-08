@@ -1,0 +1,587 @@
+# Bản dịch tiếng Việt Super Robot Wars 64
+# Định dạng và vị trí: docs/guide/dialogue-text.md
+
+@42232 Glemy · グレミー
+> (タイミングが早すぎたか……
+>  しかし、遅らせれば、ハマーンは
+(Có phải quá sớm không... Nhưng nếu hoãn lại, Haman
+---
+>  手をうっていただろう。
+>  ハマーンをやりそこねた以上
+Tôi sẽ thực hiện hành động đầu tiên. Vì tôi đã không giết được Haman,
+---
+>  状況はそれほどよいとは
+>  いえんな……いや)
+Tình thế không thể nói là rất thuận lợi... Không.)
+
+@42233 Glemy · グレミー
+> (味方をあざむくには、味方と
+>  同じ顔をせねばならん
+(Để lừa dối người dân của mình, bạn phải giả vờ giống người dân của mình.
+---
+>  ましてや、1度振りあげた手だ)
+Hơn nữa, nắm đấm đã được giơ lên. )
+
+@42234 Glemy · グレミー
+> 「そのままで聞け、ジオンの兵士たちよ
+>  もはや忍従の時は去った
+“Hãy nghe đây, các chiến binh Zeon! Những ngày nuốt cơn giận của các ngươi đã qua rồi.
+---
+>  諸悪の根源はアクシズを動かし、
+>  ぎまんあふれるジオンを
+Căn nguyên của mọi tội ác nằm ở việc thao túng Axis nhằm kế thừa Zeon lừa dối.
+---
+>  受け継ごうとした、
+>  ハマーン・カーンにある
+Harman Kahn.
+---
+>  真なるジオンを、そして
+>  この地球圏をその手に握るのは
+Người thực sự kiểm soát Zeon và thậm chí toàn bộ Earth Sphere,
+---
+>  ハマーンの首を我が
+>  面前に差しだす諸君らである
+Chính ngươi sẽ là người đưa đầu Haman ra trước mặt ta.
+---
+>  さすれば、地球圏の英雄として
+>  末代までたたえられよう!」
+Bằng cách này, bạn sẽ nổi tiếng qua mọi thời đại với tư cách là những anh hùng của Vòng tròn Trái đất! "
+
+@42235 Rakan · ラカン
+> 「フッ、青二才にしては
+>  うまいことをいう」
+“Hừ, một cậu bé nhưng lại có tài ăn nói.”
+
+@42236 Ple-Two · プルツー
+> 「気にいったよ、グレミー。
+>  こういうの、好きだ」
+"Tôi thích nó, Gremmy. Đó là cách tôi thích nó."
+
+@42237 Glemy · グレミー
+> 「別にお前に喜んでもらうためではない
+>  昨日までハマーンに忠誠を誓って
+"Tôi không cố gắng làm hài lòng bạn. Những người đã thề trung thành với Haman ngày hôm qua,
+---
+>  いた者たちには、地球をくれてやる
+>  くらいのことは、覚悟しないとな」
+Dù có phải thưởng đất cho họ thì tôi cũng phải bằng lòng. "
+
+@42238 Chara · キャラ
+> 「準備はいいようだよ、マシュマー」
+“Có vẻ như em đã sẵn sàng rồi, Mathima.”
+
+@42239 Mashymre · マシュマー
+> 「うむ……では行くとするか」
+"Ừm... đi thôi."
+
+@42240 Mashymre · マシュマー
+> 「聞け、勇者たちよ! 今日この
+>  日を、我らの最良の日としたい
+"Hãy lắng nghe, những người dũng cảm! Hãy biến hôm nay thành ngày vinh quang nhất của chúng ta!
+---
+>  グレミーは反逆者である。
+>  悪い奴だということだ
+Gremi là một kẻ nổi loạn. Là một kẻ xấu.
+---
+>  私のあとに続いて、叩きつぶすのだ!」
+Hãy theo tôi và đập hắn thành từng mảnh! "
+
+@42241 Illia · イリア
+> (ふむ……精神は安定している
+>  ようだな……これならば問題はないか)
+(Hmm... Trạng thái tinh thần của mình có vẻ rất ổn định... Chuyện này chắc sẽ ổn thôi.)
+
+@42242 Haman · ハマーン
+> 「……優劣はつけがたいか……
+>  長い戦いになるかもしれん……」
+"...Rất khó để phân biệt...Tôi e rằng đây sẽ là một trận chiến kéo dài..."
+
+@42243 Kamille · カミーユ
+> 「確かなのか?」
+"Bạn có chắc không?"
+
+@42244 Reika · レイカ
+> 「間違いないわよ」
+"Không thể sai được."
+
+@42245 Amuro · アムロ
+> 「どうしたんだ?」
+"Có chuyện gì thế?"
+
+@42246 Kamille · カミーユ
+> 「サイド3からハマーンの艦隊が
+>  出たそうです」
+“Tôi nghe nói hạm đội của Haman được phái đến từ Bên 3.”
+
+@42247 Amuro · アムロ
+> 「いよいよか。数はわかるか?」
+"Cuối cùng cũng đến rồi. Bạn có biết có bao nhiêu không?"
+
+@42248 Reika · レイカ
+> 「いま月から来た映像を
+>  チェックしてもらってます」
+"Mọi người đang kiểm tra những hình ảnh vừa được gửi từ mặt trăng."
+
+@42249 Amuro · アムロ
+> 「ベルトーチカ?」
+"Beto Tija?"
+
+@42250 Beltorchika · ベルトーチカ
+> 「はっきりとはわからないけど、
+>  サイド3には
+"Tôi không chắc lắm, nhưng tôi nghĩ Mặt 3
+---
+>  ほとんど艦艇を残していないと
+>  思うわ」
+Có rất ít tàu còn lại. "
+
+@42251 Amuro · アムロ
+> 「そうか……確認を続けてくれ」
+"Vậy đó...tiếp tục xác nhận."
+
+@42252 Judau · ジュドー
+> 「結論が出たようじゃないの。
+>  サイド3に
+"Đây không phải là kết luận sao? Mặt 3
+---
+>  戦力を残さないってことは、
+>  ハマーンは本気だ。俺たちも
+Không để lại bất kỳ sức chiến đấu nào, điều đó cho thấy Haman rất nghiêm túc với việc này. Chúng ta cũng nên
+---
+>  グレミーを叩くのを手伝うべきだ。
+>  そのうえでないと、後ろからやられる」
+Giúp đánh bại Gremy. Nếu bạn không làm điều này trước, bạn sẽ bị đâm sau lưng. "
+
+@42253 Alan · アラン
+> 「うむ、その見方は正しいな。艦長」
+"Ồ, đúng vậy, thuyền trưởng."
+
+@42254 Bright · ブライト
+> 「……よし、我々もアクシズへ向かう。
+>  まずはアクシズのグレミーだ
+"...Được rồi, hãy đến Axis nữa. Chiến đấu với Gremy ở Axis trước,
+---
+>  そのうえで、可能ならハマーンもだな」
+Và sau đó, nếu có thể, thậm chí cả Haman. "
+
+@42255 Banjo · 万丈
+> 「ちょっと厳しいが、
+>  しかたがないってところか」
+“Hơi khó xử lý một chút, nhưng đó là tất cả những gì chúng tôi có thể làm.”
+
+@42256 Amuro · アムロ
+> 「ああ。だが苦しい戦いになる。
+>  みんな、覚悟しておいてくれ」
+"Đúng. Nhưng đây sẽ là một trận chiến khó khăn. Mọi người nên chuẩn bị tinh thần."
+
+@42257 Bright · ブライト
+> 「そういうことだ。{HeroMech}は
+>  アクシズへ向けて出発する
+{HeroMech} "Vậy đó. _XEROMECHX_ đã đến Axis.
+---
+>  補給と整備は終わらせておけよ!」
+Tôi sẽ hoàn thành nguồn cung cấp và chuẩn bị sớm nhất có thể! "
+
+@42258 Amuro · アムロ
+> 「整備のほうはどうだ?
+>  調整は終わっているのか?」
+"Việc chuẩn bị ở đó thế nào rồi? Cậu đã điều chỉnh chưa?"
+
+@42259 Rain · レイン
+> 「大丈夫です。これ以上ないという
+>  くらい、キッチリ整備しておきましたよ」
+"Không vấn đề gì. Nó đã ở trong tình trạng hoàn hảo rồi."
+
+@42260 Shirley · シャリー
+> 「そう。こういう状況じゃ、あたしたちに
+>  できるのって、これくらいだものね」
+"Đúng. Trong tình huống này, chúng ta chỉ có thể làm được bấy nhiêu thôi."
+
+@42261 Amuro · アムロ
+> 「助かるよ。チェーン、どうだい?」
+"Thật hữu ích. Thiên Ân, ngươi thế nào?"
+
+@42262 Chan · チェーン
+> 「サイコミュの調整に手間どりました
+>  けど、もう終わりました
+“Phải mất một lúc để điều chỉnh thiết bị cảm ứng tinh thần, nhưng đã xong.
+---
+>  気をつけて、アムロ」
+Hãy cẩn thận, Amuro. "
+
+@42263 Amuro · アムロ
+> 「わかってるさ。だけどここで
+>  グレミーとハマーンを叩いておかなきゃ
+“Tôi biết. Nhưng nếu chúng ta không giết Gremi và Haman ở đây,
+---
+>  俺たちにはもうあとがない」
+Chúng tôi không có lối thoát. "
+
+@42264 Shinobu · 忍
+> 「ひゅ～っ、こいつはごきげんだぜ。
+>  新品より調子いいんじゃないのか?」
+"Ồ~, thứ này ở tình trạng rất tốt. Nó hoạt động tốt hơn cái mới à?"
+
+@42265 Astonaige · アストナージ
+> 「あったり前だ。誰の仕事だと
+>  思ってる。チェックは万全だ
+"Không cần phải nói. Bất kể đó là tay nghề của ai. Việc kiểm tra là hoàn hảo.
+---
+>  すぐに出れるぞ」
+Có thể tấn công bất cứ lúc nào. "
+
+@42266 Judau · ジュドー
+> 「さっすがアストナージさん、
+>  いい仕事してるよ」
+“Đúng như mong đợi từ ông Astornagy, làm tốt lắm.”
+
+@42267 Astonaige · アストナージ
+> 「おせじはいいんだよ!
+>  みんな、今度で決めてくれよ」
+"Đừng tâng bốc nữa! Mọi người, lần này chúng ta phải quyết định người chiến thắng trong một đòn!"
+
+@42268 Bright · ブライト
+> 「戦闘宙域に入った。
+>  パイロット各員はスタンバっておけ!
+"Chúng ta đã tiến vào không gian chiến đấu. Tất cả phi công đều đã sẵn sàng!
+---
+>  いつでも出られるようにしていろよ!」
+Luôn sẵn sàng tấn công! "
+
+@42269 Ryoma · リョウ
+> 「了解。行くぞ、ハヤト、ベンケイ」
+"Đã hiểu. Cố lên, Hayato, Benkei."
+
+@42270 Benkei · ベンケイ
+> 「おうっ!」
+"Được rồi! "
+
+@42271 Glemy · グレミー
+> 「ハマーン、自らやられに出てくるとはな」
+"Haman thực ra đã tự mình đi ra ngoài để chết."
+
+@42272 Ple-Two · プルツー
+> 「……来たぞ、用意はいいな?」
+"...Anh ấy tới rồi, cậu sẵn sàng chưa?"
+
+@42273 Ple Clone · プルクローン
+> 「はっ。グレミー様のために、命にかえて
+>  もハマーンの艦隊を叩いてみせます!」
+"Đúng. Vì Lãnh chúa Gremy, tôi sẽ mạo hiểm mạng sống của mình để đánh bại hạm đội của Haman!"
+
+@42274 Ple-Two · プルツー
+> 「よし、行けッ!」
+"Được rồi, đi thôi! "
+
+@42275 Glemy · グレミー
+> 「なに!? {HeroMech}め、
+>  ハマーンに味方するつもりか!?」
+{HeroMech} "Cái gì!? _XEROMECHX_, bạn định về phe Haman à!?"
+
+@42276 Bright · ブライト
+> 「グレミー・トト!? ハマーンまで
+>  いるのか!? どうする……?」
+"Gremy Toto!? Ngay cả Haman cũng ở đây!? Tôi nên làm gì đây..."
+
+@42277 Glemy · グレミー
+> 「くっ……冗談ではない。
+>  プルツー、来い!」
+"Ừm...bạn đang đùa tôi đấy. Plutz, lại đây!"
+
+@42278 Ple-Two · プルツー
+> 「了解ッ」
+"Đã hiểu!"
+
+@42279 Chara · キャラ
+> 「グレミー!? ハマーン様、ここは
+>  我らに。ハマーン様はグレミーを!」
+"Gremy!? Lãnh chúa Haman, hãy giao việc này cho chúng tôi. Lãnh chúa Haman, hãy đi xử lý Gremy!"
+
+@42280 Haman · ハマーン
+> 「そうさせてもらう」
+"Vậy thì hãy làm điều đó."
+
+@42281 Judau · ジュドー
+> 「ハマーン、待て!」
+"Haman, dừng lại!"
+
+@42282 Haman · ハマーン
+> 「私は今グレミーを倒すことで
+>  手いっぱいだ
+"Tôi không có đủ thời gian để đối phó với Gremi lúc này.
+---
+>  お前たちを相手にしているヒマはない」
+Tôi không có thời gian để làm phiền bạn. "
+
+@42283 Kamille · カミーユ
+> 「それは、こっちで決めさせてもらう!」
+"Điều đó không phụ thuộc vào bạn!"
+
+@42284 Haman · ハマーン
+> 「お前たちにはグレミーが
+>  どれほど危険か、わかっていない」
+"Bạn không biết Gremi nguy hiểm đến thế nào đâu."
+
+@42285 Judau · ジュドー
+> 「わかるよ」
+"Tôi hiểu. "
+
+@42286 Haman · ハマーン
+> 「わかる?」
+"Bạn hiểu không?"
+
+@42287 Judau · ジュドー
+> 「結局は、あなたのやろうと
+>  していることだって同じだってね。
+“Vào cuối ngày, đó cũng chính là điều bạn muốn làm.
+---
+>  同じ結果になる。
+>  それが俺にはわかるんだ」
+Kết quả là như nhau. Tôi có thể thấy điều đó. "
+
+@42288 Haman · ハマーン
+> 「聞いたふうな口をきく」
+“Có vẻ như cậu biết rất rõ.”
+
+@42289 Mashymre · マシュマー
+> 「ハマーン様、お早く!」
+"Ngài Haman, xin hãy nhanh lên!"
+
+@42290 Haman · ハマーン
+> 「時間をつぶすわけにはいかん。
+>  互いに生き残れば
+"Không còn thời gian để lãng phí nữa. Nếu cả hai chúng ta đều sống sót,
+---
+>  少しは話につきあってもやろう」
+Tôi sẽ trò chuyện với bạn vài lời. "
+
+@42291 Kamille · カミーユ
+> 「ハマーンッ!」
+"Haman!"
+
+@42292 Amuro · アムロ
+> 「カミーユ、ジュドー、
+>  ここは最初の計画通り
+"Camus, Jidu, đây là kế hoạch ban đầu,
+---
+>  まずグレミーを叩くことに
+>  専念するんだ」
+Hãy tập trung đánh bại Gremy trước. "
+
+@42293 Mashymre · マシュマー
+> 「ならば我らはまた一時的にでも
+>  同志となるわけだな
+"Vậy là chúng ta lại tạm thời là đồng chí rồi.
+---
+>  よし、グレミーに従う反逆者どもを
+>  今ここで叩きつぶすのだ!
+Được rồi, bây giờ hãy tiêu diệt tất cả những kẻ nổi loạn theo Gremy ở đây!
+---
+>  マシュマー・セロ、まいる!」
+Mathema Cerro, tấn công! "
+
+@42294 Rakan · ラカン
+> 「{HeroMech}め、よけいなことを!
+>  だが、そうそう好きにはさせん!」
+"{HeroMech}, hãy lo việc của mình đi! Nhưng tôi sẽ không để bạn có được thứ bạn muốn!"
+
+@42295 Judau · ジュドー
+> 「マシュマー、死ぬなよ」
+"Maima, đừng chết."
+
+@42296 Mashymre · マシュマー
+> 「いらぬことだ。このマシュマー・セロ、
+>  ハマーン様のためどこまでも戦いぬく!」
+"Bạn không cần phải lo lắng. Tôi, Mathima Sero, sẽ chiến đấu đến cùng vì Chúa Haman!"
+
+@42297 Judau · ジュドー
+> 「死ぬなよ、キャラ」
+"Đừng chết, Jira."
+
+@42298 Chara · キャラ
+> 「ジュドーかい?
+>  あたしを誰だと思ってるんだい
+"Là Jiedu à? Bạn nghĩ tôi là ai?
+---
+>  こんなことでくたばりゃしないよ!」
+Thứ nhỏ bé này không thể giết được tôi! "
+
+@42299 Rakan · ラカン
+> 「なぜだ!? なぜこんなことが……!?」
+"Tại sao!? Tại sao chuyện này lại xảy ra...!?"
+
+@42300 Arius · アリアス
+> 「こ、こんなばかなぁぁぁーっ!」
+"Làm sao, làm sao chuyện này có thể xảy ra được?"
+
+@42301 Mashymre · マシュマー
+> 「私はやられんぞ! このマシュマー・セロ
+>  己の肉が、骨から
+"Tôi sẽ không bị đánh gục! Tôi, Mathima Sero, ngay cả khi máu thịt của tôi rơi ra khỏi xương
+---
+>  そぎ取れるまで戦う!
+>  ハマーン様、バンザァァァーイッ!!」
+Cho dù bị chém cũng phải chiến đấu đến cùng! Vạn tuế Chúa Haman——! ! "
+
+@42302 Bright · ブライト
+> 「な、なんだ? 誰が死んだ!?」
+"C-Cái gì? Ai chết rồi!?"
+
+@42303 Chara · キャラ
+> 「ええいっ、あたしを誰だと思ってる
+>  んだい! あたしはキャラ・スーン……!?」
+"Chết tiệt, bạn nghĩ tôi là ai! Tôi là Jira Sen...!?"
+
+@42304 Bright · ブライト
+> 「片づいたか……」
+“Đã giải quyết được chưa…”
+
+@42305 Reika · レイカ
+> 「敵の新手が来たわ!」
+"Quân tiếp viện của kẻ thù đang đến!"
+
+@42306 Bright · ブライト
+> 「くっ……」
+"Ờ..."
+
+@42307 Mashymre · マシュマー
+> 「なにをやっている、{HeroMech}!
+>  グレミーはアクシズ内部にいるはずだ
+{HeroMech} "Bạn đang làm gì vậy, _XEROMECHX_! Gremy chắc đang ở trong Axis.
+---
+>  ここは我々が引き受ける。
+>  お前たちはアクシズへ行け!」
+Hãy để nó cho chúng tôi ở đây. Bạn đi đến Axis! "
+
+@42308 Bright · ブライト
+> 「なんだと?」
+"Anh đã nói gì thế? "
+
+@42309 Mashymre · マシュマー
+> 「これは我々の戦いである!
+>  ハマーン様の騎士として
+"Đây là trận chiến của chúng ta! Là hiệp sĩ của Lãnh chúa Haman,
+---
+>  しんがりをつとめる義務があるのだ!」
+Chúng ta có nghĩa vụ phải ở lại phía sau! "
+
+@42310 Chara · キャラ
+> 「そうさ。こんなところであんたたちに
+>  死なれちゃ、面白くないからね」
+“Đúng vậy. Sẽ chẳng vui chút nào nếu chết ở một nơi như thế này.”
+
+@42311 Beltorchika · ベルトーチカ
+> 「!? 艦長、あの二人の機体、
+>  被弾しています」
+"!? Cơ trưởng, hai chiếc máy bay đó đã bị bắn."
+
+@42312 Mashymre · マシュマー
+> 「心配は無用だ! お前たちとの
+>  決着も、いずれ必ずつける!
+"Đừng lo lắng! Tài khoản của bạn sớm hay muộn sẽ được giải quyết!
+---
+>  行け!」
+Đi cho nó! "
+
+@42313 Bright · ブライト
+> 「……よし、全機、
+>  アクシズへ突入しろ!」
+“…Được rồi, tất cả máy bay, xông vào Axis!”
+
+@42314 Bright · ブライト
+> 「片づいたか……」
+“Đã giải quyết được chưa…”
+
+@42315 Reika · レイカ
+> 「敵の新手が来たわ!」
+"Quân tiếp viện của kẻ thù đang đến!"
+
+@42316 Mashymre · マシュマー
+> 「グレミーはアクシズ内部だ。
+>  行け{HeroMech}!」
+"Gremy đang ở trong Axis. Đi nào, {HeroMech}!"
+
+@42317 Bright · ブライト
+> 「マシュマー・セロ……?」
+"Toán học...?"
+
+@42318 Beltorchika · ベルトーチカ
+> 「!? 機体がかなり
+>  損傷している模様です」
+"!? Cơ thể hình như bị tổn thương nghiêm trọng."
+
+@42319 Mashymre · マシュマー
+> 「お前たちとの決着もついていないのだ
+>  私もあとから、はせ参じる
+"Tôi còn chưa tính sổ với anh, tôi sẽ nhanh chóng đến đó.
+---
+>  ここは私にまかせて先へ行け!」
+Để việc này cho tôi, cậu đi trước đi! "
+
+@42320 Bright · ブライト
+> 「……よし、全機、
+>  アクシズへ突入しろ!」
+“…Được rồi, tất cả máy bay, xông vào Axis!”
+
+@42321 Mashymre · マシュマー
+> 「私はやられんぞ! このマシュマー・セロ
+>  己の肉が骨から
+"Tôi sẽ không bị đánh gục! Tôi, Mathima Sero, ngay cả khi máu thịt của tôi rơi ra khỏi xương
+---
+>  そぎ取れるまで戦う!
+>  ハマーン様、バンザァァァーイッ!!」
+Cho dù bị chém cũng phải chiến đấu đến cùng! Vạn tuế Chúa Haman——! ! "
+
+@42322 Bright · ブライト
+> 「片づいたか……」
+“Đã giải quyết được chưa…”
+
+@42323 Reika · レイカ
+> 「敵の新手が来たわ!」
+"Quân tiếp viện của kẻ thù đang đến!"
+
+@42324 Chara · キャラ
+> 「なにやってんだい! グレミーは
+>  アクシズ内部だよ。早く行きなよ!」
+"Sao cậu còn đứng đó! Gremy đang ở bên trong Axis. Đi nhanh lên!"
+
+@42325 Bright · ブライト
+> 「キャラ・スーン……?」
+"Jira Sen...?"
+
+@42326 Beltorchika · ベルトーチカ
+> 「!? 機体がかなり
+>  損傷している模様です」
+"!? Cơ thể hình như bị tổn thương nghiêm trọng."
+
+@42327 Chara · キャラ
+> 「この機体じゃアクシズに
+>  入る前につかまっちまうさ
+“Cỗ máy này sẽ bị bắt trước khi nó tiến vào Axis.
+---
+>  行きな! あたしはこんなところじゃ
+>  死にゃしないよ!」
+Đi cho nó! Tôi sẽ không chết ở một nơi như thế này! "
+
+@42328 Bright · ブライト
+> 「……よし、全機、
+>  アクシズへ突入しろ!」
+“…Được rồi, tất cả máy bay, xông vào Axis!”
+
+@42329 Chara · キャラ
+> 「あたしを誰だと思ってるんだい!
+>  あたしは、キャラ・スーンだぞ!
+"Bạn nghĩ tôi là ai! Tôi là Jira Sen!
+---
+>  うおぉぉぉぉぉぉーっ!!」
+Woo ồ ồ ồ ồ ồ——! ! "
+
+@42330 Chara · キャラ
+> 「……いったろうがさ、
+>  あたしはキャラ・スーン…………!?」
+"...Không phải tôi đã nói tôi là Jira Sen sao...!?"
+
+@42331 Bright · ブライト
+> 「片づいたか……よし、
+>  全機、アクシズへ突入しろ!」
+“Đã giải quyết xong chưa...Được rồi, tất cả máy bay, xông vào Axis!”

@@ -1,0 +1,133 @@
+# Bản dịch tiếng Việt Super Robot Wars 64
+# Định dạng và vị trí: docs/guide/dialogue-text.md
+
+@7520 Roanne · ロアン
+# Kích hoạt: Tấn công (Chung，1/7）
+> 「あたれ! あたれ!」
+"Đánh nó! Đánh nó cho tôi!"
+
+@7521 Roanne · ロアン
+# Kích hoạt: Tấn công (Chung，2/7）
+> 「みんなを殺させませんよ!」
+"Tôi sẽ không để bạn giết tất cả mọi người!"
+
+@7522 Roanne · ロアン
+# Kích hoạt: Tấn công (Chung，3/7）
+> 「このっ!このっ!」
+"Chết tiệt! Chết tiệt!"
+
+@7523 Roanne · ロアン
+# Kích hoạt: Tấn công (Chung，4/7）
+> 「どっかへ行けっ!!」
+"Tránh đường cho tôi!!"
+
+@7524 Roanne · ロアン
+# Kích hoạt: Tấn công (Chung，5/7）
+> 「やらせない!!」
+"Tôi sẽ không để bạn thành công!!"
+
+@7525 Roanne · ロアン
+# Kích hoạt: Tấn công (Chung，6/7）
+> 「ここは僕が!」
+"Hãy để việc này cho tôi!"
+
+@7526 Roanne · ロアン
+# Kích hoạt: Tấn công (Chung，7/7）
+> 「やらなければ!」
+"Tôi phải đi!"
+
+@7527 Roanne · ロアン
+# Kích hoạt: 被击坠（通用，1/2）
+> 「うわあああああっ!!」
+"Aaaaaaaaaaaaaaaaaaaaaaaaaaaaaa!!"
+
+@7528 Roanne · ロアン
+# Kích hoạt: 被击坠（通用，2/2）
+> 「や、やられた……!?」
+"T-tôi đã bị giết...!?"
+
+@7529 Roanne · ロアン
+# Kích hoạt: 重伤（剩余 HP 不足 30%）（通用，1/3）
+> 「くっ! これ以上もつのか!?」
+"Hmm! Bạn vẫn có thể giữ được chứ!?"
+
+@7530 Roanne · ロアン
+# Kích hoạt: 重伤（剩余 HP 不足 30%）（通用，2/3）
+> 「くっ! なんというパワーだ……!」
+"Hmm! Thật là một sức mạnh mạnh mẽ...!"
+
+@7531 Roanne · ロアン
+# Kích hoạt: 重伤（剩余 HP 不足 30%）（通用，3/3）
+> 「くっ! 直撃!?」
+"Ừm! Bị đánh à!?"
+
+@7532 Roanne · ロアン
+# Kích hoạt: 中伤（剩余 HP 30–90%）（通用，1/5）
+> 「ちきしょうっ!」
+"Chết tiệt!"
+
+@7533 Roanne · ロアン
+# Kích hoạt: 中伤（剩余 HP 30–90%）（通用，2/5）
+> 「ああっ!!」
+"Ahhh!!"
+
+@7534 Roanne · ロアン
+# Kích hoạt: 中伤（剩余 HP 30–90%）（通用，3/5）
+> 「くっそぉ!!」
+"Chết tiệt!!"
+
+@7535 Roanne · ロアン
+# Kích hoạt: 中伤（剩余 HP 30–90%）（通用，4/5）
+> 「まだ……まだやられるわけには
+>  いかないっ!!」
+"Chưa... chúng ta không thể bị đánh bại như thế này được!!"
+
+@7536 Roanne · ロアン
+# Kích hoạt: 中伤（剩余 HP 30–90%）（通用，5/5）
+> 「しまった!!」
+"Ối!!"
+
+@7537 Roanne · ロアン
+# Kích hoạt: 轻伤（剩余 HP 90% 以上）（通用，1/3）
+> 「あたってしまった!?」
+"Đánh!?"
+
+@7538 Roanne · ロアン
+# Kích hoạt: 轻伤（剩余 HP 90% 以上）（通用，2/3）
+> 「この程度ならまだやれるはず!」
+"Với vết thương nhỏ này, tôi vẫn có thể chiến đấu!"
+
+@7539 Roanne · ロアン
+# Kích hoạt: 轻伤（剩余 HP 90% 以上）（通用，3/3）
+> 「くっ!」
+"Hừm! "
+
+@7540 Roanne · ロアン
+# Kích hoạt: Né tránh（通用，1/2）
+> 「よけれた!」
+"Tránh nó ra!"
+
+@7541 Roanne · ロアン
+# Kích hoạt: Né tránh（通用，2/2）
+> 「ふぅっ……どうにかかわせましたよ」
+"Huh... Cuối cùng tôi cũng trốn thoát được."
+
+@7542 Roanne · ロアン
+# Kích hoạt: Tấn công无效（护罩／装甲）（通用，1/2）
+> 「ビームなんて!」
+"Thật là một tia!"
+
+@7543 Roanne · ロアン
+# Kích hoạt: Tấn công无效（护罩／装甲）（通用，2/2）
+> 「効きませんよ!」
+"Nó không có ích gì cho tôi!"
+
+@7544 Roanne · ロアン
+# Kích hoạt: 弹药／EN 不足，无法反击（通用，1/1）
+> 「エ、エネルギー切れ!?」
+"Có thể, năng lượng đã dùng hết rồi!?"
+
+@7545 Roanne · ロアン
+# Kích hoạt: 射程外，无法反击（通用，1/1）
+> 「くっ、遠すぎる!?」
+"Chà, xa quá à!?"

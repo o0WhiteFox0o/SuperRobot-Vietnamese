@@ -1,0 +1,165 @@
+# Bản dịch tiếng Việt Super Robot Wars 64
+# Định dạng và vị trí: docs/guide/dialogue-text.md
+
+@13029 Wong · ウォン
+# Kích hoạt: Tấn công (Chung，1/8）
+> 「ふふふふふふ」
+"Hehehehehe"
+
+@13030 Wong · ウォン
+# Kích hoạt: Tấn công (Chung，2/8）
+> 「ははははははっ!」
+"Hahahahaha!"
+
+@13031 Wong · ウォン
+# Kích hoạt: Tấn công (Chung，3/8）
+> 「ふはははははっ!」
+"Huhahahahahaha!"
+
+@13032 Wong · ウォン
+# Kích hoạt: Tấn công (Chung，4/8）
+> 「ふふふふふはっははははっ!」
+"Hehehehehahahaha!"
+
+@13033 Wong · ウォン
+# Kích hoạt: Tấn công (Chung，5/8）
+> 「そうだ、感じる、感じるぞ!」
+"Ừ, tôi cảm thấy được, tôi cảm thấy được!"
+
+@13034 Wong · ウォン
+# Kích hoạt: Tấn công (Chung，6/8）
+> 「落ちろ!」
+"Rớt!"
+
+@13035 Wong · ウォン
+# Kích hoạt: Tấn công (Chung，7/8）
+> 「殺してやる、殺してやるぞ!」
+"Giết ngươi, ta muốn giết ngươi!"
+
+@13036 Wong · ウォン
+# Kích hoạt: Tấn công (Chung，8/8）
+> 「落ちろ! 落ちてくだけろぉぉぉ!」
+"Ngã xuống! Nghiền nát tôi thành từng mảnh——!"
+
+@13037 Wong · ウォン
+# Kích hoạt: 被击坠（通用，1/2）
+> 「た、助けてくれぇ!」
+"Cứu, giúp tôi!"
+
+@13038 Wong · ウォン
+# Kích hoạt: 被击坠（通用，2/2）
+> 「どうせお前たちは終わりだぁぁぁ!」
+"Dù sao thì cậu cũng bị hỏng rồi!"
+
+@13039 Wong · ウォン
+# Kích hoạt: 重伤（剩余 HP 不足 30%）（通用，1/4）
+> 「な、なんだと!?」
+"C-Cái gì!?"
+
+@13040 Wong · ウォン
+# Kích hoạt: 重伤（剩余 HP 不足 30%）（通用，2/4）
+> 「や、やめろぉぉぉ!」
+“D-Dừng lại!”
+
+@13041 Wong · ウォン
+# Kích hoạt: 重伤（剩余 HP 不足 30%）（通用，3/4）
+> 「うわぁぁぁぁぁ!」
+"Aaaaaaaaaaaaaaaaaaaaaa!"
+
+@13042 Wong · ウォン
+# Kích hoạt: 重伤（剩余 HP 不足 30%）（通用，4/4）
+> 「き、貴様ごときにぃっ!」
+"Thật ngạc nhiên trước một người như cậu...!"
+
+@13043 Wong · ウォン
+# Kích hoạt: 中伤（剩余 HP 30–90%）（通用，1/4）
+> 「ああぁぁぁ!?」
+"Ahhh!?"
+
+@13044 Wong · ウォン
+# Kích hoạt: 中伤（剩余 HP 30–90%）（通用，2/4）
+> 「うわぁぁ!」
+"Ồ!"
+
+@13045 Wong · ウォン
+# Kích hoạt: 中伤（剩余 HP 30–90%）（通用，3/4）
+> 「お、おのれぇ!」
+"Chết tiệt!"
+
+@13046 Wong · ウォン
+# Kích hoạt: 中伤（剩余 HP 30–90%）（通用，4/4）
+> 「その程度の攻撃などはっ!」
+"Cuộc tấn công nhỏ này có ý nghĩa gì!"
+
+@13047 Wong · ウォン
+# Kích hoạt: 轻伤（剩余 HP 90% 以上）（通用，1/3）
+> 「うるさい!」
+“Ồn ào quá! "
+
+@13048 Wong · ウォン
+# Kích hoạt: 轻伤（剩余 HP 90% 以上）（通用，2/3）
+> 「はははははは」
+"Hahahahahahaha"
+
+@13049 Wong · ウォン
+# Kích hoạt: 轻伤（剩余 HP 90% 以上）（通用，3/3）
+> 「それがどうした」
+"Vậy thì sao"
+
+@13050 Wong · ウォン
+# Kích hoạt: Né tránh（通用，1/2）
+> 「当たらんなぁ!」
+"Tôi không thể đánh nó!"
+
+@13051 Wong · ウォン
+# Kích hoạt: Né tránh（通用，2/2）
+> 「ふははははははっ!」
+"Huhahahahahaha!"
+
+@13052 Wong · ウォン
+# Kích hoạt: Tấn công无效（护罩／装甲）（通用，1/1）
+> 「ははははっ、無駄なことを!」
+"Ha ha ha, lãng phí sức lực!"
+
+@13053 Wong · ウォン
+# Kích hoạt: 弹药／EN 不足，无法反击（通用，1/1）
+> 「な、なんだとぉぉぉぉ!?」
+"C-cái gì ahhh!?"
+
+@13054 Wong · ウォン
+# Kích hoạt: 射程外，无法反击（通用，1/1）
+> 「ば、ばかな、そんな距離から!?」
+"Không, điều đó là không thể. Bạn đang gọi từ rất xa!?"
+
+@17293 Wong · ウォン
+# Kích hoạt: Tấn công，乘坐〈デビルガンダム〉
+> 「今の私はDG細胞の力を得た、
+>  グレートウォンだぁ!」
+"Ta đã thu được sức mạnh của tế bào DG, hiện tại ta là Hoàng vĩ đại!"
+
+@17294 Wong · ウォン
+# Kích hoạt: Tấn công，乘坐〈デビルガンダム〉
+> 「デビルガンダムは私のものだぁ!」
+"Devil Gundam là của tôi!"
+
+@17295 Wong · ウォン
+# Kích hoạt: Tấn công，乘坐〈デビルガンダム〉
+> 「今の私はDG細胞の力を得た、
+>  グレートウォンだぁ!」
+"Ta đã thu được sức mạnh của tế bào DG, hiện tại ta là Hoàng vĩ đại!"
+
+@17296 Wong · ウォン
+# Kích hoạt: Tấn công，乘坐〈デビルガンダム〉
+> 「デビルガンダムは私のものだぁ!」
+"Devil Gundam là của tôi!"
+
+@17297 Wong · ウォン
+# Kích hoạt: Tấn công，乘坐〈デビルガンダム〉
+> 「今の私はDG細胞の力を得た、
+>  グレートウォンだぁ!」
+"Ta đã thu được sức mạnh của tế bào DG, hiện tại ta là Hoàng vĩ đại!"
+
+@17298 Wong · ウォン
+# Kích hoạt: Tấn công，乘坐〈デビルガンダム〉
+> 「デビルガンダムは私のものだぁ!」
+"Devil Gundam là của tôi!"

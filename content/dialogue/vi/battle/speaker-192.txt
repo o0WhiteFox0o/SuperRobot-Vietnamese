@@ -1,0 +1,148 @@
+# Bản dịch tiếng Việt Super Robot Wars 64
+# Định dạng và vị trí: docs/guide/dialogue-text.md
+
+@12486 Fei · フェイ
+# Kích hoạt: Tấn công (Chung，1/8）
+> 「俺が相手をしてやるってんだよ!」
+"Tôi sẽ gặp bạn!"
+
+@12487 Fei · フェイ
+# Kích hoạt: Tấn công (Chung，2/8）
+> 「覚悟しな!」
+"Đáng chết!"
+
+@12488 Fei · フェイ
+# Kích hoạt: Tấn công (Chung，3/8）
+> 「もらったぜ!」
+"Thành công!"
+
+@12489 Fei · フェイ
+# Kích hoạt: Tấn công (Chung，4/8）
+> 「うおぉぉぉぉっ!!」
+"Ồhhhhhh!!"
+
+@12490 Fei · フェイ
+# Kích hoạt: Tấn công (Chung，5/8）
+> 「そこかっ!」
+"Đó!"
+
+@12491 Fei · フェイ
+# Kích hoạt: Tấn công (Chung，6/8）
+> 「これでとどめだ!」
+“Tôi sẽ kết liễu anh ngay bây giờ!”
+
+@12492 Fei · フェイ
+# Kích hoạt: Tấn công (Chung，7/8）
+> 「スキだらけだぜ!」
+"Đều là sai sót!"
+
+@12493 Fei · フェイ
+# Kích hoạt: Tấn công (Chung，8/8）
+> 「どうだ!」
+"Thế nào rồi!"
+
+@12494 Fei · フェイ
+# Kích hoạt: 被击坠（通用，1/2）
+> 「な……なんだと!?」
+"Cái...cái gì! ? "
+
+@12495 Fei · フェイ
+# Kích hoạt: 被击坠（通用，2/2）
+> 「バカな……この俺が、こうも簡単に…」
+"Không thể nào...Tôi thực sự sẽ làm điều đó dễ dàng như vậy..."
+
+@12496 Fei · フェイ
+# Kích hoạt: 重伤（剩余 HP 不足 30%）（通用，1/5）
+> 「ううっ……なんてパワーなんだ」
+"Hmm... Thật là một lực mạnh"
+
+@12497 Fei · フェイ
+# Kích hoạt: 重伤（剩余 HP 不足 30%）（通用，2/5）
+> 「うっ……もうもたないのか?」
+"Chà... cậu không thể giữ nó được nữa à?"
+
+@12498 Fei · フェイ
+# Kích hoạt: 重伤（剩余 HP 不足 30%）（通用，3/5）
+> 「ま、まだだ……このフェイ・チェンカが
+>  そう簡単に!」
+"Vẫn chưa kết thúc... Làm sao tôi, Fei Chenka, có thể dễ dàng ngã xuống như vậy!"
+
+@12499 Fei · フェイ
+# Kích hoạt: 重伤（剩余 HP 不足 30%）（通用，4/5）
+> 「おおおっ、こいつは……」
+"Ồ ồ ồ, đây là..."
+
+@12500 Fei · フェイ
+# Kích hoạt: 重伤（剩余 HP 不足 30%）（通用，5/5）
+> 「うおぉぉ! こいつは!?」
+"Ồ! Chuyện gì đang xảy ra vậy!?"
+
+@12501 Fei · フェイ
+# Kích hoạt: 中伤（剩余 HP 30–90%）（通用，1/5）
+> 「あたった? だがまだまだ!」
+"Đánh? Nhưng vẫn còn rất sớm!"
+
+@12502 Fei · フェイ
+# Kích hoạt: 中伤（剩余 HP 30–90%）（通用，2/5）
+> 「けっ……俺を本気にさせたな」
+"Hmph...bạn thực sự đã khiến tôi phải làm điều đó."
+
+@12503 Fei · フェイ
+# Kích hoạt: 中伤（剩余 HP 30–90%）（通用，3/5）
+> 「くそぉ、まだやられるかよ」
+"Chết tiệt, tôi vẫn chưa ngã xuống!"
+
+@12504 Fei · フェイ
+# Kích hoạt: 中伤（剩余 HP 30–90%）（通用，4/5）
+> 「くっ……思ったよりやるみたいじゃないか」
+"Hmm...có vẻ như cậu có thể chiến đấu tốt hơn tôi nghĩ."
+
+@12505 Fei · フェイ
+# Kích hoạt: 中伤（剩余 HP 30–90%）（通用，5/5）
+> 「ちっ……いい気になるなよ」
+"Chậc...đừng tự hào quá."
+
+@12506 Fei · フェイ
+# Kích hoạt: 轻伤（剩余 HP 90% 以上）（通用，1/4）
+> 「へっ、かすった程度だ」
+"Này, đó chỉ là một vết xước thôi."
+
+@12507 Fei · フェイ
+# Kích hoạt: 轻伤（剩余 HP 90% 以上）（通用，2/4）
+> 「効いてないな、そんな攻撃は」
+“Đòn tấn công đó hoàn toàn vô dụng.”
+
+@12508 Fei · フェイ
+# Kích hoạt: 轻伤（剩余 HP 90% 以上）（通用，3/4）
+> 「そんなものかよ」
+“Đó là tất cả những gì cậu có à?”
+
+@12509 Fei · フェイ
+# Kích hoạt: 轻伤（剩余 HP 90% 以上）（通用，4/4）
+> 「甘いんだよ、お前さんは」
+“Thật ngây thơ, anh bạn.”
+
+@12510 Fei · フェイ
+# Kích hoạt: Né tránh（通用，1/2）
+> 「あたるかよ」
+"Có thể bỏ lỡ"
+
+@12511 Fei · フェイ
+# Kích hoạt: Né tránh（通用，2/2）
+> 「おそいな」
+“Quá chậm”
+
+@12512 Fei · フェイ
+# Kích hoạt: Tấn công无效（护罩／装甲）（通用，1/1）
+> 「ビームが効くかよ!」
+"Làm thế nào một chùm ánh sáng có thể hoạt động được?"
+
+@12513 Fei · フェイ
+# Kích hoạt: 弹药／EN 不足，无法反击（通用，1/1）
+> 「ちっ!……反撃できないか……」
+"Tsk!...Tôi không thể đánh trả được..."
+
+@12514 Fei · フェイ
+# Kích hoạt: 射程外，无法反击（通用，1/1）
+> 「くそぉ……届かないか……」
+"Chết tiệt...tôi không thể với tới nó..."

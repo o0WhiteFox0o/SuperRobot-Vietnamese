@@ -1,0 +1,230 @@
+# Bản dịch tiếng Việt Super Robot Wars 64
+# Định dạng và vị trí: docs/guide/dialogue-text.md
+
+@6617 Milliardo · ミリアルド
+# Kích hoạt: Tấn công (Chung，1/12）
+> 「次で決まりだぁっ!」
+"Đòn tiếp theo sẽ quyết định kết quả!"
+
+@6618 Milliardo · ミリアルド
+# Kích hoạt: Tấn công (Chung，2/12）
+> 「…………」
+“…………”
+
+@6619 Milliardo · ミリアルド
+# Kích hoạt: Tấn công (Chung，3/12）
+> 「これまでだ!」
+"Chính là nó!"
+
+@6620 Milliardo · ミリアルド
+# Kích hoạt: Tấn công (Chung，4/12）
+> 「必要ないのだ……貴様たちは!」
+"Ngươi... căn bản không cần tồn tại!"
+
+@6621 Milliardo · ミリアルド
+# Kích hoạt: Tấn công (Chung，5/12）
+> 「教えてやろう。要は戦い方次第
+>  なのだと」
+"Để ta dạy ngươi. Mấu chốt là chiến đấu như thế nào."
+
+@6622 Milliardo · ミリアルド
+# Kích hoạt: Tấn công (Chung，6/12）
+> 「まずは頭を叩いておきたいのだよ!」
+"Trước tiên giết thủ lĩnh!"
+
+@6623 Milliardo · ミリアルド
+# Kích hoạt: Tấn công (Chung，7/12）
+> 「フォーメーションなど取らせはしない!」
+"Tôi sẽ không để bạn vào đội hình!"
+
+@6624 Milliardo · ミリアルド
+# Kích hoạt: Tấn công (Chung，8/12）
+> 「お遊びにつきあっているヒマはない!」
+"Tôi không có thời gian chơi với anh!"
+
+@6625 Milliardo · ミリアルド
+# Kích hoạt: Tấn công (Chung，9/12）
+> 「悪いが、死んでもらおう!」
+"Xin lỗi, ta phải cầu ngươi chết đi!"
+
+@6626 Milliardo · ミリアルド
+# Kích hoạt: Tấn công (Chung，10/12）
+> 「とどめだっ!!」
+"Kết liễu ngươi đi!!"
+
+@6627 Milliardo · ミリアルド
+# Kích hoạt: Tấn công (Chung，11/12）
+> 「直撃させる!」
+"Trực tiếp đánh ta!"
+
+@6628 Milliardo · ミリアルド
+# Kích hoạt: Tấn công (Chung，12/12）
+> 「決着をつける!」
+"Hãy nghỉ ngơi!"
+
+@6629 Milliardo · ミリアルド
+# Kích hoạt: 被击坠（通用，1/2）
+> 「ぐぅぅっ! 私はどこまでも
+>  生き抜いてみせる!」
+"Uh huh! Tôi phải sống sót bằng mọi giá!"
+
+@6630 Milliardo · ミリアルド
+# Kích hoạt: 被击坠（通用，2/2）
+> 「な……なんだとッ!?」
+"Cái...cái gì! ? "
+
+@6631 Milliardo · ミリアルド
+# Kích hoạt: 重伤（剩余 HP 不足 30%）（通用，1/3）
+> 「ぬぅおあぁぁぁっ!」
+"Ồ-ồhhh!"
+
+@6632 Milliardo · ミリアルド
+# Kích hoạt: 重伤（剩余 HP 不足 30%）（通用，2/3）
+> 「おおぉぉぉぉっ!」
+"Ồhhh!"
+
+@6633 Milliardo · ミリアルド
+# Kích hoạt: 重伤（剩余 HP 不足 30%）（通用，3/3）
+> 「うっ……こうも直撃をくらうとは!」
+"Chà... Tôi thực sự đã nhận được một đòn trực tiếp như vậy!"
+
+@6634 Milliardo · ミリアルド
+# Kích hoạt: 中伤（剩余 HP 30–90%）（通用，1/4）
+> 「くっ、問題は敵よりも
+>  私自身だな……」
+"Ừm, vấn đề không phải ở kẻ địch, mà là ở chính mình..."
+
+@6635 Milliardo · ミリアルド
+# Kích hoạt: 中伤（剩余 HP 30–90%）（通用，2/4）
+> 「やられはせんよ!」
+"Tôi sẽ không bị đánh gục!"
+
+@6636 Milliardo · ミリアルド
+# Kích hoạt: 中伤（剩余 HP 30–90%）（通用，3/4）
+> 「さすがにやるっ!!」
+“Nó thực sự tuyệt vời!!”
+
+@6637 Milliardo · ミリアルド
+# Kích hoạt: 中伤（剩余 HP 30–90%）（通用，4/4）
+> 「ぐぅっっ……!」
+"Ờ ờ...!"
+
+@6638 Milliardo · ミリアルド
+# Kích hoạt: 轻伤（剩余 HP 90% 以上）（通用，1/3）
+> 「その程度で戦おうというのか、
+>  貴様は!?」
+"Dựa vào năng lực của ngươi, ngươi còn muốn đấu với ta sao!?"
+
+@6639 Milliardo · ミリアルド
+# Kích hoạt: 轻伤（剩余 HP 90% 以上）（通用，2/3）
+> 「ええぃっ邪魔だ!」
+"Chết tiệt! Nó đang cản đường!"
+
+@6640 Milliardo · ミリアルド
+# Kích hoạt: 轻伤（剩余 HP 90% 以上）（通用，3/3）
+> 「死なない程度には十分だな」
+"Nó không gây tử vong."
+
+@6641 Milliardo · ミリアルド
+# Kích hoạt: Né tránh（通用，1/4）
+> 「貴様には無理だな」
+"Bạn không thể làm điều đó."
+
+@6642 Milliardo · ミリアルド
+# Kích hoạt: Né tránh（通用，2/4）
+> 「この程度か」
+"Đó là nó."
+
+@6643 Milliardo · ミリアルド
+# Kích hoạt: Né tránh（通用，3/4）
+> 「かわす!」
+"Tránh xa!"
+
+@6644 Milliardo · ミリアルド
+# Kích hoạt: Né tránh（通用，4/4）
+> 「貴様などを相手にしているヒマは
+>  ない!」
+“Tôi không có thời gian dành cho loại người như anh!”
+
+@6645 Milliardo · ミリアルド
+# Kích hoạt: Tấn công无效（护罩／装甲）（通用，1/1）
+> 「貴様などを相手にしているヒマは
+>  ない!」
+“Tôi không có thời gian dành cho loại người như anh!”
+
+@6646 Milliardo · ミリアルド
+# Kích hoạt: 弹药／EN 不足，无法反击（通用，1/1）
+> 「弾切れか!? だがこの程度で!」
+"Hết đạn rồi!? Nhưng chuyện nhỏ này không làm phiền được tôi đâu!"
+
+@6647 Milliardo · ミリアルド
+# Kích hoạt: 射程外，无法反击（通用，1/1）
+> 「むっ……ここからでは届かんか!?」
+"Hmm...không thể với tới nó từ đây được!?"
+
+@14365 Milliardo · ミリアルド
+# Kích hoạt: Tấn công，乘坐〈ガンダムエピオン〉
+> 「いくぞエピオン!」
+"Nào, thế hệ tiếp theo của Gundun!"
+
+@14366 Milliardo · ミリアルド
+# Kích hoạt: Tấn công，乘坐〈ガンダムエピオン(MA)〉
+> 「いくぞエピオン!」
+"Nào, thế hệ tiếp theo của Gundun!"
+
+@14367 Milliardo · ミリアルド
+# Kích hoạt: Tấn công，乘坐〈ウイングゼロ〉
+> 「このウイングゼロで、どれだけ
+>  やれるのか!?」
+“Tôi có thể bay bao xa khi lái chiếc Zero cánh bay này!?”
+
+@14368 Milliardo · ミリアルド
+# Kích hoạt: Tấn công，乘坐〈ウイングゼロ(バード)〉
+> 「このウイングゼロで、どれだけ
+>  やれるのか!?」
+“Tôi có thể bay bao xa khi lái chiếc Zero cánh bay này!?”
+
+@14369 Milliardo · ミリアルド
+# Kích hoạt: Tấn công，乘坐〈ウイングゼロカスタム〉
+> 「このウイングゼロで、どれだけ
+>  やれるのか!?」
+“Tôi có thể bay bao xa khi lái chiếc Zero cánh bay này!?”
+
+@14370 Milliardo · ミリアルド
+# Kích hoạt: Tấn công，乘坐〈ヴァイエイト〉
+> 「所詮命のない人形……
+>  私の敵ではない」
+"Xét cho cùng, chúng là những con búp bê vô hồn... chúng không thể sánh được với tôi."
+
+@14371 Milliardo · ミリアルド
+# Kích hoạt: Tấn công，乘坐〈ビルゴ〉
+> 「所詮命のない人形……
+>  私の敵ではない」
+"Xét cho cùng, chúng là những con búp bê vô hồn... chúng không thể sánh được với tôi."
+
+@14372 Milliardo · ミリアルド
+# Kích hoạt: Tấn công，乘坐〈ビルゴⅡ〉
+> 「所詮命のない人形……
+>  私の敵ではない」
+"Xét cho cùng, chúng là những con búp bê vô hồn... chúng không thể sánh được với tôi."
+
+@14373 Milliardo · ミリアルド
+# Kích hoạt: 重伤（剩余 HP 不足 30%），乘坐〈アルビオン〉
+> 「ぐっ、私はコロニーの革命の意志
+>  を背負っているのだっ!」
+"Chà, tôi gánh vác ý chí của cuộc cách mạng vệ tinh thuộc địa!"
+
+@14374 Milliardo · ミリアルド
+# Kích hoạt: Né tránh，条件 1000
+> 「ダミーにかかったな」
+"Bạn đã mắc bẫy"
+
+@14375 Milliardo · ミリアルド
+# Kích hoạt: Né tránh，条件 1000
+> 「ダミーも使い方しだいなのだ!」
+"Nó cũng phụ thuộc vào cách bạn sử dụng mồi!"
+
+@14376 Milliardo · ミリアルド
+# Kích hoạt: Né tránh，条件 1000
+> 「しょせんはこの程度か」
+“Rốt cuộc không phải chỉ như thế này thôi sao?”

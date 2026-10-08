@@ -1,0 +1,892 @@
+# Bản dịch tiếng Việt Super Robot Wars 64
+# Định dạng và vị trí: docs/guide/dialogue-text.md
+
+@40243 Banjo · 万丈
+> 「ギャリソンが情報を入手した。
+>  例の怪物騒動が起きている
+"Đồn trú đã nhận được thông tin. Hiện trường quái vật
+---
+>  地域を特定できたよ」
+Khu vực này đã được giải tỏa. "
+
+@40244 Hyoma · 豹馬
+> 「ありがてぇ。これであんまり飛びまわら
+>  なくてすみそうだな」
+"Nó giúp ích rất nhiều. Thế thì tôi không phải bay lòng vòng nữa."
+
+@40245 Garrison · ギャリソン
+> 「必要と思われるデータは輸送艇
+>  の方へ転送しておきました
+"Tôi đã truyền dữ liệu cần thiết tới thuyền vận chuyển,
+---
+>  ご確認ください」
+Xin hãy xem. "
+
+@40246 Chizuru · ちずる
+> 「すみません、ギャリソンさん」
+"Xin lỗi, ông Garrison."
+
+@40247 Kosuke · 小介
+> 「あれ? でもガンドールの高速輸送
+>  艇って、誰が動かすんですか?」
+"Hả? Nhưng ai sẽ lái chiếc thuyền vận chuyển cao tốc của Gondor?"
+
+@40248 Juzo · 十三
+> 「ほんまやな。どないするんや」
+"Đúng vậy. Chúng ta nên làm gì đây?"
+
+@40249 Banjo · 万丈
+> 「誰もいないのか? しょうがない、
+>  レイカ、ビューティー、一緒に
+"Không có ai sao? Không có cách nào, Lệ Hương, Bioti, đi cùng ta."
+---
+>  行ってくれないか」
+Tôi có thể đến đó được không? "
+
+@40250 Reika · レイカ
+> 「しかたないわね。いいわよ」
+"Tôi thực sự không thể làm gì được cho bạn. Được rồi."
+
+@40251 Beauty · ビューティ
+> 「あたしもオッケーよ、万丈」
+"Tôi cũng ổn, Vạn Chương."
+
+@40252 Banjo · 万丈
+> 「頼む、2人とも」
+“Vậy thì tùy hai người thôi.”
+
+@40253 Alan · アラン
+> 「それで、結局行くのはコン・バトラー
+>  チームと{HeroNick}だけなのか?」
+"Vậy rốt cuộc, những người duy nhất đi là Team Combatella và {HeroNick}?"
+
+@40254 Koji · 甲児
+> 「いいや、オレたちも行くぜ、アラン」
+"Không, chúng ta cũng đi thôi, Alan."
+
+@40255 Boss · ボス
+> 「そうだわさ。当然、俺さまたちも
+>  行くわよ。なぁ、兜」
+"Vậy đó. Tất nhiên là chúng tôi cũng đi, thưa ngài. Phải không, Kabuto?"
+
+@40256 Maria · マリア
+> 「さっすが、甲児。避難民が襲わ
+>  れてるなんて、放っておけないもんね」
+"Đúng như dự đoán của Jia'er. Những người đang trú ẩn đang bị tấn công, làm sao họ có thể bỏ qua được?"
+
+@40257 Boss · ボス
+> 「あらら? またまた兜だけなの?」
+"Ồ? Bạn lại khoe khoang về tôi nữa à?"
+
+@40258 Sayaka · さやか
+> 「……甲児くん、
+>  まだ全然、準備してないんでしょ
+"...Jia'er, em vẫn chưa sẵn sàng phải không?
+---
+>  さっさと、やってらっしゃいよ」
+Đi chuẩn bị đi. "
+
+@40259 Koji · 甲児
+> 「え? だってさやかさん、さっきは
+>  やってくれるって……」
+"Hả? Nhưng Sayaka, không phải cậu vừa nói sẽ giúp tôi sao..."
+
+@40260 Sayaka · さやか
+> 「気がかわったの!
+>  ほら、さっさと行きなさいよ」
+"Tôi đổi ý rồi! Được rồi, nhanh lên!"
+
+@40261 Koji · 甲児
+> 「……なんだってんだよ……もう」
+"...Anh đang làm gì vậy...Thật sao?"
+
+@40262 Simone · シモーヌ
+> 「……ここの男ってこんなのばっかりねぇ」
+“…Tại sao đàn ông ở đây lại có đạo đức đến vậy?”
+
+@40263 David · デビッド
+> 「俺はお前ひと筋だぜ、シモーヌ」
+"Em là người duy nhất trong trái tim anh, Simone."
+
+@40264 Simone · シモーヌ
+> 「ばかいってんじゃないの」
+“Đừng nói nhảm nữa.”
+
+@40265 Alan · アラン
+> 「……君も行くのか、デューク」
+“…Anh cũng đi à, Công tước?”
+
+@40266 Daisuke · 大介
+> 「ええ、話を聞いて思い当たることが
+>  あったんです」
+"Đúng vậy, sau khi nghe được điều này, tôi đã nghĩ tới một khả năng."
+
+@40267 Hyoma · 豹馬
+> 「デュークは、これが奴らの“人間狩
+>  り”ってやつじゃないかっていうんだ」
+“Duke nghĩ rằng đây có thể là cuộc ‘săn người’ do những kẻ đó thực hiện.”
+
+@40268 Alan · アラン
+> 「人間狩り?」
+“Săn người?”
+
+@40269 Daisuke · 大介
+> 「おそらく間違いはないでしょう」
+"Nó đúng 80%."
+
+@40270 Naida · ナイーダ
+> 「つかまえた人たちの脳を円盤獣に
+>  使おうとしているんだわ……
+"Họ muốn sử dụng bộ não của những người bị bắt trên đĩa quái thú...
+---
+>  あたしの弟のように……」
+Giống như anh trai tôi vậy…”
+
+@40271 Daisuke · 大介
+> 「心配することはないよ、ナイーダ。
+>  もうそんなことはさせない。絶対に……」
+"Đừng lo, Naida. Tôi sẽ không để họ làm thế nữa. Không bao giờ..."
+
+@40272 Naida · ナイーダ
+> 「デューク……」
+"Công tước..."
+
+@40273 Chizuru · ちずる
+> 「ギャリソンさんの情報ではこのあたりに
+>  出没しているそうよ」
+“Tình báo của ông Garrison nói rằng họ đang ở khu vực này.”
+
+@40274 Ark · アーク（按段落 3DD1）
+> 「そうか……手分けして探した方が
+>  よさそうだな」
+“Thật sao… Có vẻ như tốt hơn hết là nên tìm chúng riêng lẻ.”
+
+@40275 Selain · セレイン（按段落 3DD2）
+> 「ふむ……危険性は増すが、
+>  散った方が確実そうだな」
+"Ừ... tuy rằng nguy hiểm hơn, nhưng tản ra đi tìm bọn họ sẽ đáng tin cậy hơn."
+
+@40276 Brad · ブラッド（按段落 3DD3）
+> 「そんじゃ、さっそく行くとするか。
+>  手分けして探そうぜ」
+"Vậy thì hãy nhanh chóng khởi hành. Chúng ta sẽ tìm kiếm riêng từng người."
+
+@40277 Manami · マナミ（按段落 3DD4）
+> 「それじゃ、手分けして探しましょう。
+>  その方が早いわ」
+"Vậy chúng ta đi tìm riêng nhé. Cách này nhanh hơn."
+
+@40278 Reika · レイカ
+> 「その方がいいわね。じゃ、私たちは
+>  ここで待機しているわ。なにかあったら
+"Không sao đâu. Vậy chúng ta sẽ ở đây và đợi. Chuyện gì xảy ra vậy?
+---
+>  連絡してちょうだい」
+Chỉ cần liên hệ với chúng tôi. "
+
+@40279 Warchimedes · ワルキメデス
+> 「ジャネラ様、まだ続けるおつもりですか」
+"Lãnh chúa Ganela, ngài có muốn tiếp tục không?"
+
+@40280 Janera · ジャネラ
+> 「当然じゃ。私が手塩にかけて
+>  育ててきた“超獣”じゃ
+“Tất nhiên rồi. Đây là một ‘siêu thú’ được tôi nuôi dưỡng cẩn thận.
+---
+>  地球にいる間に獲物をとるという
+>  ことをちゃんと教えねばな」
+Bạn phải dạy nó cách săn mồi khi nó ở trên Trái đất. "
+
+@40281 Warchimedes · ワルキメデス
+> 「しかし、まだ地上の制圧が
+>  終わってはおりません」
+"Tuy nhiên, mặt đất vẫn chưa bị áp chế hoàn toàn."
+
+@40282 Janera · ジャネラ
+> 「お黙り! どうせ地球人どもなど
+>  時間の問題であろうが」
+"Im đi! Việc chúng ta đối phó với Người Trái đất chỉ là vấn đề thời gian."
+
+@40283 Warchimedes · ワルキメデス
+> 「しかし戦いは遊びでは……」
+“Nhưng chiến đấu không phải là một trò chơi…”
+
+@40284 Janera · ジャネラ
+> 「遊びなどではないわ! このキバとガロの
+>  親たちは我が帝国の戦力として
+"Đây không phải là một trò chơi! Cha mẹ của Fang và Gallo là lực lượng chiến đấu của đế chế của tôi.
+---
+>  他の星系で存分に暴れておる。
+>  この子たちも早く1人前に
+đang lan tràn ở các thiên hà khác. Hai đứa trẻ này cũng phải chết sớm thôi
+---
+>  なってほしいのじゃ」
+Tôi đang ở một mình. "
+
+@40285 Warchimedes · ワルキメデス
+> 「それはわかりますが、そろそろ本陣に
+>  合流しては……」
+“Tôi hiểu điều này, nhưng không phải đã đến lúc quay lại đội hình chính để hẹn gặp sao…”
+
+@40286 Janera · ジャネラ
+> 「ならぬ! 今日も訓練にでるのじゃ
+>  キバ、ガロ、ついてまいれ」
+"Không! Hôm nay chúng ta sẽ ra ngoài tập luyện như thường lệ. Fang, Gallo, đi với tôi."
+
+@40287 Warchimedes · ワルキメデス
+> 「ジャネラ様にも困ったものだ……」
+"Lãnh chúa Garnera thực sự rất đau đầu..."
+
+@40288 Hyoma · 豹馬
+> 「このあたりも悲惨な状況だな……
+>  ん? なんだ? ライオン……?」
+"Khu vực này thật khủng khiếp...hả? Cái gì? Sư tử...?"
+
+@40289 Hyoma · 豹馬
+> 「人を追いかけてやがるのか!?
+>  いったいなんだって……違う!
+“Nó đang đuổi theo người!? Chuyện gì đang xảy ra vậy… Không đúng!
+---
+>  ただのライオンじゃねぇ。
+>  あれが噂の怪物って奴か!?
+Đó không phải là con sư tử bình thường. Đó có phải là con quái vật được đồn đại không? ?
+---
+>  にしては小さいが……」
+Nhưng nó hơi nhỏ…”
+
+@40290 Hyoma · 豹馬
+> 「やっぱりどう見ても普通じゃねぇや。
+>  それに、避難民が襲われてるんだ
+“Nhìn thế nào thì nó thực sự trông không bình thường chút nào. Hơn nữa, những người đang trú ẩn đang bị tấn công.
+---
+>  ほっとけないぜ。それっ!」
+Tôi không thể chỉ ngồi lại và xem. Này! "
+
+@40291 Hyoma · 豹馬
+> 「なに? 飛んだぁ!? くそっ!!
+>  もう1度だ」
+"Cái gì? Bay!? Chết tiệt!! Làm lại đi!"
+
+@40292 Janera · ジャネラ
+> 「シシリスの調教の邪魔をするのは
+>  何者じゃ!」
+"Ai dám cản trở ta huấn luyện Sisilis!"
+
+@40293 Hyoma · 豹馬
+> 「ちっ、てめぇ異星人、
+>  銀河帝国軍だな!?」
+"Hừm, ngươi là người ngoài hành tinh, ngươi là thành viên của Quân đội Đế quốc Thiên hà sao!?"
+
+@40294 Janera · ジャネラ
+> 「いかにも。銀河帝国はキャンベルの
+>  女帝にして、地球攻撃軍の
+"Chính xác. Tôi là nữ hoàng của Đế chế Thiên hà Campbell, Lực lượng Tấn công Trái đất."
+---
+>  副司令、ジャネラじゃ」
+Phó chỉ huy, Ganiela. "
+
+@40295 Hyoma · 豹馬
+> 「キャンベル星人? 南原博士が
+>  いってた奴らか……」
+"Campbell Planets? Họ có phải là những người mà bác sĩ Nanyuan đã nhắc đến không..."
+
+@40296 Janera · ジャネラ
+> 「ほう? 我らのことを知っておるのか。
+>  お前は地球人じゃな?」
+"Ồ? Bạn thực sự biết về chúng tôi. Bạn đến từ Trái đất phải không?"
+
+@40297 Hyoma · 豹馬
+> 「あったり前だ! 地球人の
+>  葵豹馬だ!!」
+"Không cần phải nói! Ngựa báo Kui của Trái đất!!"
+
+@40298 Janera · ジャネラ
+> 「……葵豹馬か。フフフ、おもしろい。
+>  新しい獲物じゃ。キバよ、ガロよ
+"...Ngựa Báo Kwai. Hahaha, thú vị đấy. Con mồi mới đến rồi. Fang, Gallo,
+---
+>  あやつが次の獲物じゃ。
+>  みごと、狩ってみせい」
+Con mồi tiếp theo chính là anh ta. Săn lùng anh ta một cách sạch sẽ cho tôi. "
+
+@40299 Hyoma · 豹馬
+> 「なに!? 巨大化しやがった!
+>  ……やべぇ」
+"Cái gì!? Nó thực sự đang ngày càng lớn hơn!... Không ổn chút nào."
+
+@40300 Hyoma · 豹馬
+> 「うわぁぁぁぁぁーっ!!」
+“Aiaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaa!” ! "
+
+@40301 Janera · ジャネラ
+> 「フフフ、キバよガロよ、その調子じゃ」
+"Hehehe, Fang, Gallo, thế thôi."
+
+@40302 Hyoma · 豹馬
+> 「うぅ……しまった……体が……」
+"Ư...tệ quá...cơ thể của anh..."
+
+@40303 Janera · ジャネラ
+> 「さぁ、葵豹馬にとどめを、さして
+>  おやり!!」
+"Nào, giáng đòn cuối cùng cho Kui Bao Ma!!"
+
+@40304 Hyoma · 豹馬
+> 「く……みんな……」
+"À... mọi người..."
+
+@40305 Chizuru · ちずる
+> 「豹馬!? しっかりして、豹馬!!」
+"Ngựa Báo!? Vui lên đi, Ngựa Báo!!"
+
+@40306 Hyoma · 豹馬
+> 「ち……ちずるか……?」
+"Chi...Chizuru...?"
+
+@40307 Chizuru · ちずる
+> 「あぁ!? 豹馬、大丈夫!?」
+"A!? Báo Mã, ngươi không sao chứ!?"
+
+@40308 Janera · ジャネラ
+> 「邪魔をするでない! さぁ、キバよ
+>  ガロよ! 早く獲物にとどめを!」
+"Đừng cản đường nữa! Tiến lên, Fang, Gallo! Giết con mồi nhanh chóng!"
+
+@40309 Chizuru · ちずる
+> 「くっ、豹馬がんばって!! 化け物
+>  こっちよ! 私をねらいなさい!」
+"Chà, tiến lên Ngựa Báo!! Quái vật, lối này! Hãy đến với tôi!"
+
+@40310 Janera · ジャネラ
+> 「なにをしておる! 最初にねらった
+>  獲物は、最後のとどめをさすまで
+“Anh đang làm gì vậy! Anh không thể giáng một đòn chí mạng vào con mồi mà anh nhắm tới trước tiên.
+---
+>  追わねばならぬ!
+>  ええい、なにをしておるのじゃ!」
+Đừng bao giờ để nó đi! Chết tiệt, cậu đang lảng vảng cái gì vậy! "
+
+@40311 Chizuru · ちずる
+> 「そうよ、こっちにいらっしゃい!
+>  私が相手をしてあげる!」
+"Đúng vậy, tới đây! Ta sẽ xử lý ngươi!"
+
+@40312 Hyoma · 豹馬
+> 「う……だめだ、ちずる……逃げろ……」
+"Ư... không, Thiên Triết... chạy đi..."
+
+@40313 Chizuru · ちずる
+> 「だめよ、あなたを置いていけない!
+>  連絡したから、みんな、すぐ
+"Không, tôi không thể rời xa bạn! Tôi đã liên lạc với bạn rồi, mọi người sẽ
+---
+>  来てくれるわ。それまでは
+>  私だけでも……!」
+Sẽ đến sớm. Cho đến lúc đó, dù chỉ có mình tôi...! "
+
+@40314 Chizuru · ちずる
+> 「あぁぁぁ!? 豹馬ぁぁぁーっ!!」
+"Ahhh!? Ngựa báo ahhhh-!!"
+
+@40315 Janera · ジャネラ
+> 「ええい、愚か者! 遊んでおるから
+>  そうなるのじゃ! キバよ、
+"Chết tiệt, đồ ngốc! Ai bảo cậu đùa giỡn! Răng nanh,
+---
+>  一度戻るがよい!」
+Hãy quay lại trước! "
+
+@40316 Janera · ジャネラ
+> 「なんと情けない。キバ、ガロ、このまま
+>  終わらせてはならんぞ!
+"Thật sự là vô vọng rồi. Fang, Gallo, chúng ta không thể cứ để như vậy được!
+---
+>  戻ってもう一度やるのじゃ!」
+Hãy quay lại và làm lại! "
+
+@40317 Janera · ジャネラ
+> 「ええい、愚か者! 遊んでおるから
+>  そうなるのじゃ! ガロよ、
+"Chết tiệt, đồ ngốc! Ai bảo cậu ham chơi! Gallo,
+---
+>  一度戻るがよい!」
+Hãy quay lại trước! "
+
+@40318 Janera · ジャネラ
+> 「なんと情けない。キバ、ガロ、このまま
+>  終わらせてはならんぞ!
+"Thật sự là vô vọng rồi. Fang, Gallo, chúng ta không thể cứ để như vậy được!
+---
+>  戻ってもう一度やるのじゃ!」
+Hãy quay lại và làm lại! "
+
+@40319 Janera · ジャネラ
+> 「ええい、なんということじゃ。
+>  撤退する!」
+"Mẹ kiếp, chuyện này sao có thể xảy ra? Rút lui!"
+
+@40320 Janera · ジャネラ
+> 「ええい、なんということじゃ。
+>  撤退する!」
+"Mẹ kiếp, chuyện này sao có thể xảy ra? Rút lui!"
+
+@40321 Janera · ジャネラ
+> 「ええい、キバ、ガロ、なにをしておる。
+>  そやつは、放っておいて早く豹馬を
+"Chết tiệt, Fang, Gallo, các người đang làm gì vậy? Đừng lo lắng cho tên đó, đi nhanh đi."
+---
+>  やるのじゃ!!」
+Giết ngựa báo! ! "
+
+@40322 Janera · ジャネラ
+> 「ええい、ガロ、なにをしておる。
+>  そやつは、放っておいて早く豹馬を
+"Chết tiệt, Gallo, cậu đang làm gì vậy? Đừng lo lắng về tên đó, đi đi."
+---
+>  やるのじゃ!!」
+Giết ngựa báo! ! "
+
+@40323 Janera · ジャネラ
+> 「ええい、キバ、なにをしておる。
+>  そやつは、放っておいて早く豹馬を
+“Chết tiệt, Fangs, cậu đang làm gì vậy. Để gã đó yên và đi nhanh đi
+---
+>  やるのじゃ!!」
+Giết ngựa báo! ! "
+
+@40324 Janera · ジャネラ
+> 「キバ、ガロ、なにをしておる。早く
+>  もう1度豹馬を狩りにいかぬか!」
+"Phương, Gallo, các ngươi đang làm gì vậy? Nhanh đi săn báo mã lần nữa!"
+
+@40325 Chizuru · ちずる
+> 「ああっ……みんな、よく……」
+"À...mọi người, tuyệt quá..."
+
+@40326 Ark · アーク（按段落 3DD1）
+> 「間にあったか……
+>  ちずる、豹馬は大丈夫なのか?」
+“Cuối cùng chúng ta cũng đuổi kịp… Chizuru, ngựa báo có ổn không?”
+
+@40327 Selain · セレイン（按段落 3DD2）
+> 「間にあったようだな」
+“Có vẻ như chúng ta đã bắt kịp rồi.”
+
+@40328 Juzo · 十三
+> 「ああ。ほんま、もうあかんと思たで。
+>  こら豹馬、どうなっとんのや!?」
+"Ừ. Thành thật mà nói, tôi tưởng lần này thế là xong rồi. Này, Ngựa Báo, cậu khỏe không!?"
+
+@40329 Brad · ブラッド（按段落 3DD3）
+> 「どうやら間一髪ってとこだな。
+>  ちずる、豹馬はどうした!?」
+"Có vẻ như đây là thời điểm quan trọng. Chizuru, con ngựa báo thế nào rồi!?"
+
+@40330 Manami · マナミ（按段落 3DD4）
+> 「ふう、どうにか間にあったわね。
+>  ちずる、豹馬は大丈夫?」
+"Phew, cuối cùng chúng ta cũng bắt kịp. Chizuru, Ngựa báo có ổn không?"
+
+@40331 Chizuru · ちずる
+> 「ひどいケガをしているみたいなの。
+>  早く手当てをしないと……」
+"Có vẻ như anh ấy bị thương rất nặng. Chúng ta cần phải nhanh chóng chữa trị cho anh ấy..."
+
+@40332 Reika · レイカ
+> 「それは、こっちにまかせてちょうだい。
+>  あなたたちは敵を叩いて!」
+"Hãy để việc này cho chúng tôi. Hãy đi và đối phó với kẻ thù!"
+
+@40333 Chizuru · ちずる
+> 「レイカ!?
+>  え、ええ、豹馬をお願いっ!」
+"Reika!? Uh-huh, tôi giao việc đó cho cậu, Ngựa Báo!"
+
+@40334 Beauty · ビューティ
+> 「まっかせてぇ!」
+"Quấn nó quanh người tôi!"
+
+@40335 Duke · デューク
+> 「銀河帝国め……許さないぞ!」
+"Đế quốc Thiên hà...Tôi sẽ không bao giờ tha thứ cho bạn!"
+
+@40336 Janera · ジャネラ
+> 「おのれ、こざかしい地球人どもめ。
+>  キバ、ガロ!」
+"Chết tiệt, lũ người trái đất đã đánh giá quá cao khả năng của mình. Fang, Gallo!"
+
+@40337 Koji · 甲児
+> 「な……なんだぁ!?」
+"Cái...cái gì! ? "
+
+@40338 Boss · ボス
+> 「くっついて、ひとつになっちゃっただわさ」
+"Họ gắn bó với nhau và trở thành một."
+
+@40339 Janera · ジャネラ
+> 「フフフフフ、さぁビッグシリウス、
+>  地球人どもをなぎ払ってしまえ!」
+"Hehehehe, tiến lên Sirius, quét sạch toàn bộ loài người trên Trái Đất!"
+
+@40340 Koji · 甲児
+> 「てやんでぇ! 相手はたった1匹じゃ
+>  ねぇか。みんな、とっとと片づけて
+“Sợ cái gì! Đối thủ chỉ có một, mọi người nhanh chóng giải quyết đi.
+---
+>  あのでかぶつも、やっつけちまおうぜ!」
+Giết cả tên to lớn đó nữa! "
+
+@40341 Maria · マリア
+> 「……!? 待って、甲児!」
+"...!? Đợi đã, Giai Nhi!"
+
+@40342 Koji · 甲児
+> 「マリアちゃん!? どうしたんだ?」
+"Maria!? Có chuyện gì thế?"
+
+@40343 Maria · マリア
+> 「敵……くるわ!」
+"Kẻ thù... đang đến!"
+
+@40344 Koji · 甲児
+> 「なんだって!?」
+"Anh vừa nói gì thế!?"
+
+@40345 Warchimedes · ワルキメデス
+> 「ジャネラ様、ここは私めに
+>  おまかせください」
+"Lãnh chúa Ganela, hãy giao việc này cho cấp dưới của ngài."
+
+@40346 Janera · ジャネラ
+> 「ワルキメデスか。よし、やってみせよ」
+"Wakimede. Được rồi, hãy để tôi xem khả năng của bạn."
+
+@40347 Warchimedes · ワルキメデス
+> 「ははっ。全軍、地球人を
+>  攻撃だ!」
+"Vâng. Toàn quân, tấn công người dân trên Trái đất!"
+
+@40348 Koji · 甲児
+> 「な……なんだぁ!?」
+"Cái...cái gì! ? "
+
+@40349 Boss · ボス
+> 「くっついて、ひとつになっちゃっただわさ」
+"Họ gắn bó với nhau và trở thành một."
+
+@40350 Koji · 甲児
+> 「てやんでぇ! 相手はたった1匹じゃ
+>  ねぇか。みんな、とっとと片づけて
+“Sợ cái gì! Đối thủ chỉ có một, mọi người nhanh chóng giải quyết đi.
+---
+>  あのでかぶつも、やっつけちまおうぜ!」
+Giết cả tên to lớn đó nữa! "
+
+@40351 Maria · マリア
+> 「……!? 待って、甲児!」
+"...!? Đợi đã, Giai Nhi!"
+
+@40352 Koji · 甲児
+> 「マリアちゃん!? どうしたんだ?」
+"Maria!? Có chuyện gì thế?"
+
+@40353 Maria · マリア
+> 「敵……くるわ!」
+"Kẻ thù... đang đến!"
+
+@40354 Koji · 甲児
+> 「なんだって!?」
+"Anh vừa nói gì thế!?"
+
+@40355 Warchimedes · ワルキメデス
+> 「ジャネラ様にも困ったものだ。
+>  後始末はいつも私に回って
+"Lãnh chúa Ganniela thực sự rất đau đầu, hậu quả
+---
+>  くるのだからな。全軍、地球人
+>  どもを生かして帰すな!」
+Nó luôn rơi vào tôi. Toàn quân, đừng để những người trái đất này sống sót trở về! "
+
+@40356 Warchimedes · ワルキメデス
+> 「ジャネラ様にも困ったものだ。
+>  後始末はいつも私に回って
+"Lãnh chúa Ganniela thực sự rất đau đầu, hậu quả
+---
+>  くるのだからな。全軍、地球人
+>  どもを生かして帰すな!」
+Nó luôn rơi vào tôi. Toàn quân, đừng để những người trái đất này sống sót trở về! "
+
+@40357 Kosuke · 小介
+> 「これは今の僕たちには、かなり
+>  手ごわい戦力ですよ!」
+"Với thực lực hiện tại của chúng ta, kẻ địch này tương đối khó đối phó!"
+
+@40358 Hyoma · 豹馬
+> 「み、みんな……」
+"Lớn, mọi người..."
+
+@40359 Beauty · ビューティ
+> 「こら、動かないの!」
+"Này, đừng cử động!"
+
+@40360 Daisaku · 大作
+> 「豹馬しゃん、ここは俺たちに
+>  まかしんしゃい!」
+"Ngựa báo, hãy để nơi này cho chúng tôi!"
+
+@40361 Juzo · 十三
+> 「よっしゃ、いっちょやったろやないか」
+"Được rồi, vậy hãy đụ hắn đi!"
+
+@40362 Janera · ジャネラ
+> 「おのれ、シシリス・キバ、ガロの仇は
+>  必ずうってくれようぞ! 覚えておれ!」
+"Chết tiệt, ta nhất định sẽ báo thù cho Sicilius Fang và Gallo! Hãy nhớ lấy điều này!"
+
+@40363 Hyoma · 豹馬
+> 「くっ……みんな、大丈夫か!
+>  俺も戦うぜ!」
+"Ừm...mọi người ổn chứ? Tôi cũng đi cùng!"
+
+@40364 Reika · レイカ
+> 「ちょっと、ホントに大丈夫なの!?」
+"Này, bạn thực sự ổn chứ!?"
+
+@40365 Hyoma · 豹馬
+> 「こんな程度のケガで、寝てるわけには
+>  いかないんだ!!」
+"Làm sao tôi có thể nằm yên với vết thương nhỏ này!!"
+
+@40366 Chizuru · ちずる
+> 「豹馬!? お願いだから無茶しな
+>  いで!! あなたが倒れたら、私……」
+"Ngựa báo!? Làm ơn, đừng lộn xộn!! Nếu cậu ngã, tôi..."
+
+@40367 Hyoma · 豹馬
+> 「ちずる……大丈夫だ、俺は
+>  こんなところで、くたばりはしない
+"Chizuru...đừng lo lắng, tôi sẽ không ngã ở một nơi như thế này đâu.
+---
+>  しばらくなら十分戦える。
+>  一気にケリをつけてやろうぜ」
+Nó kéo dài một thời gian và không có vấn đề gì. Hãy kết thúc nó trong một đòn! "
+
+@40368 Chizuru · ちずる
+> 「え……ええ、豹馬、わかったわ!」
+"Hmm... ừm, Báo Mã, tôi hiểu rồi!"
+
+@40369 Koji · 甲児
+> 「いやぁ、なんとか片づいたな」
+“Ồ, cuối cùng nó cũng được dọn sạch rồi.”
+
+@40370 Sayaka · さやか
+> 「でも豹馬はあぶないところだったわね」
+“Nhưng con ngựa báo vừa rồi thực sự rất nguy hiểm.”
+
+@40371 Juzo · 十三
+> 「まったくや。どうせ豹馬のこっちゃ、
+>  なんや無茶しよったんやろ
+“Đúng rồi. Tên ngựa báo đó chắc lại đang quậy phá nữa.
+---
+>  あいつは、いっつもそうや」
+Đứa trẻ đó luôn như vậy. "
+
+@40372 Daisuke · 大介
+> 「ははっ、みんな無事だったんだから、
+>  いいじゃないか」
+"Haha, thật tuyệt nếu mọi người đều ổn."
+
+@40373 Maria · マリア
+> 「でも本当、たいしたことなくて
+>  よかったわね、ちずる」
+"Nhưng nghiêm túc mà nói, thật tuyệt khi không có chuyện gì xấu xảy ra, Chizuru."
+
+@40374 Chizuru · ちずる
+> 「ええ……」
+"Ờ..."
+
+@40375 Reika · レイカ
+> 「みんな乗ってる?」
+"Mọi người có ở trên tàu không?"
+
+@40376 Koji · 甲児
+> 「乗ってるよ」
+"Lên."
+
+@40377 Reika · レイカ
+> 「じゃ、梁山泊へ向かうわよ」
+"Tốt, chúng ta xuất phát đi Lương Sơn Bác."
+
+@40378 Boss · ボス
+> 「ありゃりゃ!?
+>  おーい、待ってくれぇぇーっ!!」
+"Ối!? Này——, đợi tôi với——!!"
+
+@40379 Beauty · ビューティ
+> 「あら? やだ、ちょっと、
+>  ボスが乗ってなかったじゃないの!」
+"Hả? Đợi đã, Boss vẫn chưa lên máy bay!"
+
+@40380 Boss · ボス
+> 「おいてきぼりなんて、ひどいわよ」
+"Thật quá đáng khi để mọi người một mình."
+
+@40381 Koji · 甲児
+> 「悪い悪い、てっきり乗ってるもんだと
+>  ばっかり思ってさ」
+"Xin lỗi, xin lỗi, tôi tưởng cậu bị lừa rồi."
+
+@40382 Reika · レイカ
+> 「もぅ、しっかりしてよ。今度こそ
+>  大丈夫ね? それじゃ、行くわよ」
+"Thật đấy, xin hãy đáng tin cậy hơn. Lần này tất cả chúng ta đều ở đây phải không? Hãy khởi hành thôi."
+
+@40383 Hyoma · 豹馬
+> 「う……」
+"Ờ..."
+
+@40384 Chizuru · ちずる
+> 「豹馬? 気がついた?」
+"Ngựa Báo? Cậu tỉnh rồi à?"
+
+@40385 Hyoma · 豹馬
+> 「う……ちずる……俺はいったい……」
+"Ừm...Chizuru...cái quái gì vậy..."
+
+@40386 Chizuru · ちずる
+> 「バトルジェットから、降りたとたんに
+>  気を失ったのよ」
+“Anh đã bất tỉnh ngay khi bước xuống máy bay chiến đấu.”
+
+@40387 Hyoma · 豹馬
+> 「そうか……なんか心配かけちまった
+>  みたいだな。悪かったよ」
+"Tôi hiểu rồi... có vẻ như điều đó đã làm bạn lo lắng. Tôi xin lỗi."
+
+@40388 Chizuru · ちずる
+> 「いいのよ……本隊に合流したら、
+>  ハサン先生か、サリィさんに
+“Không sao đâu… Sau khi gặp quân chủ lực, chúng ta phải nhờ bác sĩ Hassan hoặc cô Sally
+---
+>  みてもらわなくちゃね」
+Chỉ cần cho bạn thấy nó. "
+
+@40389 Hyoma · 豹馬
+> 「ああ……早いとこ治さないとな」
+"Chà...nó cần được chữa trị nhanh chóng."
+
+@40390 Koji · 甲児
+> 「おっと、そろそろ梁山泊だぜ」
+"Ồ, chúng ta sắp tới Lương Sơn Bác rồi."
+
+@40391 Sayaka · さやか
+> 「お父さまたちが無事なのかどうか
+>  わかったかしら……」
+"Bố, họ có an toàn không? Không biết có tin tức gì không..."
+
+@40392 Kosuke · 小介
+> 「弓教授でしたね。僕も1度
+>  お会いして、お話をうかがいたいです」
+"Chắc chắn là Cung giáo sư. Tôi cũng muốn gặp ông ấy để xin lời khuyên."
+
+@40393 Sayaka · さやか
+> 「合流できたら、紹介してあげるわよ」
+“Khi nào gặp nhau tôi sẽ giới thiệu anh ấy cho cậu.”
+
+@40394 Koji · 甲児
+> 「大丈夫だよ、さやかさん。
+>  博士たちは、中条長官や
+“Đừng lo, Sayaka. Bác sĩ, họ có Chỉ huy Nakajo và
+---
+>  銀鈴さんの仲間の人たちが
+>  守ってくれてるさ」
+Những người bạn đồng hành của Yin Ling đang bảo vệ anh ấy. "
+
+@40395 Kosuke · 小介
+> 「四谷博士もいてもらえると、
+>  いいんですけどね」
+“Sẽ thật tuyệt nếu bác sĩ Yotsuya ở đây.”
+
+@40396 Juzo · 十三
+> 「なんや小介、博士に用でも
+>  あるんか?」
+"Sao vậy Tiểu Giới, ngươi cùng bác sĩ có quan hệ gì sao?"
+
+@40397 Kosuke · 小介
+> 「ええ……実は、ちょっとコン・バトラーの
+>  強化をいくつか考えているんですよ」
+"Hmm... Thực ra, tôi đang xem xét thực hiện một số cải tiến cho Kombatra V."
+
+@40398 Juzo · 十三
+> 「ほんまか? そりゃ楽しみやなぁ」
+"Thật sao? Điều đó thực sự thú vị!"
+
+@40399 Boss · ボス
+> 「小介、今度ボスボロットにも何か
+>  すげぇパワーアップを考えてくれよ」
+"Xiaojie, lần sau xin hãy nghĩ đến một số cải tiến mạnh mẽ cho Boss Robot."
+
+@40400 Kosuke · 小介
+> 「え? ボスボロットですか?
+>  うーん、そうですねぇ……」
+"Hả? Boss robot? Chà——, đây là..."
+
+@40401 Koji · 甲児
+> 「小介、はっきりいってやった方が
+>  いいぞ。無理だって」
+"Tiểu Giới, ngươi tốt nhất nên nói thẳng với hắn, cứ nói là không thể được."
+
+@40402 Boss · ボス
+> 「なんでだよ、兜。俺さまのボスボロット
+>  をバカにすると許さないわよ」
+"Tại sao vậy, Kabuto. Nếu anh dám đánh giá thấp người máy của ông chủ của tôi, tôi sẽ không tha thứ cho anh!"
+
+@40403 Maria · マリア
+> 「あ、ねぇねぇボス、あたし前から
+>  聞いてみたかったんだけど」
+"À, ý tôi là Sếp, có điều này tôi đã muốn hỏi từ lâu rồi."
+
+@40404 Boss · ボス
+> 「おう、なんでも聞いてちょうだい」
+"Ồ, cứ hỏi đi."
+
+@40405 Maria · マリア
+> 「なんで、あんなガラクタのかたまりが
+>  動くの?」
+“Tại sao đống sắt vụn đó lại di chuyển được?”
+
+@40406 Boss · ボス
+> 「…………」
+“…………”
+
+@40407 Koji · 甲児
+> 「アッハッハッハッ、ガラクタか!
+>  マリアちゃん、いいこというね」
+"Ahahahaha, phế liệu! Maria, bạn nói hay lắm!"
+
+@40408 Sayaka · さやか
+> 「もう甲児くんたら。ボスだって
+>  そのガラクタで、必死に戦ってるのよ
+“Đúng vậy, Jia'er. Boss đang liều mạng chiến đấu với đống rác rưởi đó.
+---
+>  ガラクタで、ここまで戦えるなんて
+>  すごいじゃないの。ねぇ、ボス」
+Thật ngạc nhiên khi bạn vẫn có thể làm được điều này khi đang lái một mảnh kim loại phế liệu phải không? Đúng không, sếp? "
+
+@40409 Boss · ボス
+> 「……さやかぁ、あんまり、ガラクタガラクタ
+>  いわないでくれよぉ」
+"...Sayaka, đừng tiếp tục nói nhảm nữa."
+
+@40410 Sayaka · さやか
+> 「なによ、ほめてあげてるのが
+>  気にくわないっていうの、ボス?」
+"Sao vậy, tôi khen cậu không vui sao, Boss?"
+
+@40411 Beauty · ビューティ
+> 「はーいはい、お取りこみ中ごめんなさい
+>  ガンドールが見えてきたわ
+"Được rồi, được rồi, ngắt lời đi, Gondor đã thấy rồi.
+---
+>  着艦するから、みんな席についててね」
+Chúng ta sắp hạ cánh rồi, mọi người hãy quay lại chỗ ngồi và ổn định chỗ ngồi nhé. "

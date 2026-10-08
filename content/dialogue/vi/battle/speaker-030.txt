@@ -1,0 +1,337 @@
+# Bản dịch tiếng Việt Super Robot Wars 64
+# Định dạng và vị trí: docs/guide/dialogue-text.md
+
+@11444 Rish · リッシュ
+# Kích hoạt: Tấn công (Chung，1/17）
+> 「そこかよ!?」
+"Ở đó!?"
+
+@11445 Rish · リッシュ
+# Kích hoạt: Tấn công (Chung，2/17）
+> 「あたっちまいな!」
+"Hãy bắn của tôi!"
+
+@11446 Rish · リッシュ
+# Kích hoạt: Tấn công (Chung，3/17）
+> 「悪いな」
+"Xin lỗi."
+
+@11447 Rish · リッシュ
+# Kích hoạt: Tấn công (Chung，4/17）
+> 「落ちちまえってんだよ」
+"Thả nó cho tôi."
+
+@11448 Rish · リッシュ
+# Kích hoạt: Tấn công (Chung，5/17）
+> 「運がなかったな、あんた」
+"Bạn thật không may mắn."
+
+@11449 Rish · リッシュ
+# Kích hoạt: Tấn công (Chung，6/17）
+> 「その賢しさが命とりだよ」
+"Sự thông minh nhỏ bé đó của bạn sẽ giết chết bạn."
+
+@11450 Rish · リッシュ
+# Kích hoạt: Tấn công (Chung，7/17）
+> 「そらよ」
+"Xem chuyển động."
+
+@11451 Rish · リッシュ
+# Kích hoạt: Tấn công (Chung，8/17）
+> 「ほらよっ」
+"Đi tiếp!"
+
+@11452 Rish · リッシュ
+# Kích hoạt: Tấn công (Chung，9/17）
+> 「どうしたどうした!?」
+"Có chuyện gì vậy? Có chuyện gì vậy!?"
+
+@11453 Rish · リッシュ
+# Kích hoạt: Tấn công (Chung，10/17）
+> 「落ちなよ」
+"Rơi xuống."
+
+@11454 Rish · リッシュ
+# Kích hoạt: Tấn công (Chung，11/17）
+> 「こいつがかわせるかよ?」
+"Bạn có thể tránh điều này?"
+
+@11455 Rish · リッシュ
+# Kích hoạt: Tấn công (Chung，12/17）
+> 「やってみせな」
+"Ngươi cũng có thể thử xem."
+
+@11456 Rish · リッシュ
+# Kích hoạt: Tấn công (Chung，13/17）
+> 「止めといくかい」
+"Cho ngươi đòn cuối cùng?"
+
+@11457 Rish · リッシュ
+# Kích hoạt: Tấn công (Chung，14/17）
+> 「ここでやっとかねぇとな」
+“Có vẻ như chúng ta phải kết thúc chuyện này ở đây.”
+
+@11458 Rish · リッシュ
+# Kích hoạt: Tấn công (Chung，15/17）
+> 「なかなか素早いが、ね」
+“Kỹ năng của tôi khá nhanh, nhưng chỉ thế thôi.”
+
+@11459 Rish · リッシュ
+# Kích hoạt: Tấn công (Chung，16/17）
+> 「甘いな、甘すぎるぜ」
+"Thật dịu dàng, thật dịu dàng."
+
+@11460 Rish · リッシュ
+# Kích hoạt: Tấn công (Chung，17/17）
+> 「ハハハハハッ! いくぜ!」
+"Hahahaha! Cố lên!"
+
+@11461 Rish · リッシュ
+# Kích hoạt: 被击坠（通用，1/4）
+> 「ちっ……まずったな、こいつぁ」
+"Chậc... Lần này tính nhầm rồi."
+
+@11462 Rish · リッシュ
+# Kích hoạt: 被击坠（通用，2/4）
+> 「ちぃっ、やっちまったか!?」
+"Tsk, cậu làm hỏng chuyện rồi à!?"
+
+@11463 Rish · リッシュ
+# Kích hoạt: 被击坠（通用，3/4）
+> 「ぐっ! マジか、くそっ!!」
+"Ugh! Nó thực sự là giả, chết tiệt!!"
+
+@11464 Rish · リッシュ
+# Kích hoạt: 被击坠（通用，4/4）
+> 「へっ、俺もここで終わりかよ」
+"Này, tôi xong việc ở đây chưa?"
+
+@11465 Rish · リッシュ
+# Kích hoạt: 重伤（剩余 HP 不足 30%）（通用，1/8）
+> 「くっ……マジでやばいな?」
+"Hmm... có chuyện gì đó không ổn phải không?"
+
+@11466 Rish · リッシュ
+# Kích hoạt: 重伤（剩余 HP 不足 30%）（通用，2/8）
+> 「やべぇ! 限界じゃねぇか!?」
+"Rất tiếc! Bạn đã đạt đến giới hạn của mình chưa!?"
+
+@11467 Rish · リッシュ
+# Kích hoạt: 重伤（剩余 HP 不足 30%）（通用，3/8）
+> 「けっ……そろそろ俺も終わりかよ」
+"Tch...sắp đến giờ tôi phải làm xong rồi."
+
+@11468 Rish · リッシュ
+# Kích hoạt: 重伤（剩余 HP 不足 30%）（通用，4/8）
+> 「こいつぁ持たねぇかもな……」
+“Tôi sợ mình sẽ không thể chịu đựng được nữa…”
+
+@11469 Rish · リッシュ
+# Kích hoạt: 重伤（剩余 HP 不足 30%）（通用，5/8）
+> 「な、なんて腕をしてやがる!?」
+“C-chuyện gì đang xảy ra với kỹ năng này thế!?”
+
+@11470 Rish · リッシュ
+# Kích hoạt: 重伤（剩余 HP 不足 30%）（通用，6/8）
+> 「ちいっ! こいつぁマズイぜ……」
+"Tsk! Điều này không ổn..."
+
+@11471 Rish · リッシュ
+# Kích hoạt: 重伤（剩余 HP 不足 30%）（通用，7/8）
+> 「なんだと!?
+>  マズイ所にあたっちまったみてぇだな……」
+"Cái gì!? Có vẻ như tôi đã bị đánh nặng lắm..."
+
+@11472 Rish · リッシュ
+# Kích hoạt: 重伤（剩余 HP 不足 30%）（通用，8/8）
+> 「ぐ!? ヤ、ヤベェなこいつぁ」
+"Huh!? Điều này, điều này thật tệ."
+
+@11473 Rish · リッシュ
+# Kích hoạt: 中伤（剩余 HP 30–90%）（通用，1/7）
+> 「ちっ、この程度でやられてたまるかよ」
+"Tsk, bạn muốn đánh bại tôi ở cấp độ này?"
+
+@11474 Rish · リッシュ
+# Kích hoạt: 中伤（剩余 HP 30–90%）（通用，2/7）
+> 「ふん、直撃をくらったか」
+“Hừm, cậu đã ăn nó ngay rồi.”
+
+@11475 Rish · リッシュ
+# Kích hoạt: 中伤（剩余 HP 30–90%）（通用，3/7）
+> 「直撃!? しくったぜ……」
+“Đánh trực tiếp!? Tr trượt…”
+
+@11476 Rish · リッシュ
+# Kích hoạt: 中伤（剩余 HP 30–90%）（通用，4/7）
+> 「ぐ、やってくれるじゃねぇか」
+"Được rồi, nhóc có thể làm được."
+
+@11477 Rish · リッシュ
+# Kích hoạt: 中伤（剩余 HP 30–90%）（通用，5/7）
+> 「こいつぁ手強いぜぇ……」
+“Người này thật khó hiểu…”
+
+@11478 Rish · リッシュ
+# Kích hoạt: 中伤（剩余 HP 30–90%）（通用，6/7）
+> 「この俺が押されてるってのか!?」
+"Tôi thực sự đã bị đàn áp!?"
+
+@11479 Rish · リッシュ
+# Kích hoạt: 中伤（剩余 HP 30–90%）（通用，7/7）
+> 「ほう……やるじゃねぇか」
+"Ồ... đã lâu rồi."
+
+@11480 Rish · リッシュ
+# Kích hoạt: 轻伤（剩余 HP 90% 以上）（通用，1/6）
+> 「この程度じゃ抜けねぇぜ」
+"Bạn không thể đánh bại tôi ở cấp độ này."
+
+@11481 Rish · リッシュ
+# Kích hoạt: 轻伤（剩余 HP 90% 以上）（通用，2/6）
+> 「なんだよ、俺がでるほどのもんでもねぇな」
+“Cái gì, nó không đáng để tôi bỏ ra.”
+
+@11482 Rish · リッシュ
+# Kích hoạt: 轻伤（剩余 HP 90% 以上）（通用，3/6）
+> 「なんだ、そりゃ!?」
+"Cái quái gì vậy!?"
+
+@11483 Rish · リッシュ
+# Kích hoạt: 轻伤（剩余 HP 90% 以上）（通用，4/6）
+> 「ハハハッ
+>  威力が足りなかったようだな」
+"Hahaha, có vẻ như nó không đủ mạnh."
+
+@11484 Rish · リッシュ
+# Kích hoạt: 轻伤（剩余 HP 90% 以上）（通用，5/6）
+> 「おいおい、マジかよ。
+>  そんなんで俺とやろうってのか!?」
+"Này, cậu nghiêm túc đấy à? Cậu muốn đấu với tôi chỉ vì thứ đó thôi!?"
+
+@11485 Rish · リッシュ
+# Kích hoạt: 轻伤（剩余 HP 90% 以上）（通用，6/6）
+> 「俺に挑む勇気だけは
+>  認めてやるがね」
+"Nếu ngươi dám khiêu chiến ta, ta thừa nhận dũng khí của ngươi."
+
+@11486 Rish · リッシュ
+# Kích hoạt: Né tránh（通用，1/8）
+> 「おっと、危ねぇ」
+"Ồ, nguy hiểm quá."
+
+@11487 Rish · リッシュ
+# Kích hoạt: Né tránh（通用，2/8）
+> 「やべぇとこだったぜ」
+"Nó gần như tệ."
+
+@11488 Rish · リッシュ
+# Kích hoạt: Né tránh（通用，3/8）
+> 「そら、どうだ?」
+"Ồ, mọi chuyện thế nào rồi?"
+
+@11489 Rish · リッシュ
+# Kích hoạt: Né tránh（通用，4/8）
+> 「余裕だな」
+"Nó rất dễ dàng."
+
+@11490 Rish · リッシュ
+# Kích hoạt: Né tránh（通用，5/8）
+> 「あたってやるわけにはいかないんでな」
+“Tôi không thể để anh đánh tôi được.”
+
+@11491 Rish · リッシュ
+# Kích hoạt: Né tránh（通用，6/8）
+> 「クククッ、あたんなかったようだな?」
+"Hehehe, có vẻ như anh ấy đã bỏ lỡ nhỉ?"
+
+@11492 Rish · リッシュ
+# Kích hoạt: Né tránh（通用，7/8）
+> 「フッ、俺の運も捨てたもんじゃねぇな」
+"Ha ha, vận may của ta cũng không tệ."
+
+@11493 Rish · リッシュ
+# Kích hoạt: Né tránh（通用，8/8）
+> 「はん、それじゃあたらんわな」
+“Hừm, cậu không thể đánh nó như thế được.”
+
+@11494 Rish · リッシュ
+# Kích hoạt: Tấn công无效（护罩／装甲）（通用，1/6）
+> 「そんなもんはきかねぇのよ」
+“Những thứ đó không có tác dụng với tôi.”
+
+@11495 Rish · リッシュ
+# Kích hoạt: Tấn công无效（护罩／装甲）（通用，2/6）
+> 「残念だったな」
+"Thật đáng tiếc."
+
+@11496 Rish · リッシュ
+# Kích hoạt: Tấn công无效（护罩／装甲）（通用，3/6）
+> 「ムダだってんだよ」
+"Tất cả đều vô ích."
+
+@11497 Rish · リッシュ
+# Kích hoạt: Tấn công无效（护罩／装甲）（通用，4/6）
+> 「やーれやれだぜ」
+"Ồ - thực sự tôi không thể làm gì được cho bạn."
+
+@11498 Rish · リッシュ
+# Kích hoạt: Tấn công无效（护罩／装甲）（通用，5/6）
+> 「悪いが相手にならねぇ
+>  出直してきな」
+"Xin lỗi, ngươi không đủ tư cách, trở về lại tu luyện đi."
+
+@11499 Rish · リッシュ
+# Kích hoạt: Tấn công无效（护罩／装甲）（通用，6/6）
+> 「おいおい、やめとけよ」
+"Này, quên nó đi."
+
+@11500 Rish · リッシュ
+# Kích hoạt: 弹药／EN 不足，无法反击（通用，1/2）
+> 「お? 弾切れとはな……」
+"Ồ? Hết đạn rồi à..."
+
+@11501 Rish · リッシュ
+# Kích hoạt: 弹药／EN 不足，无法反击（通用，2/2）
+> 「まいったな、弾切れかよ……」
+"Ồ, không còn đạn nữa..."
+
+@11502 Rish · リッシュ
+# Kích hoạt: 射程外，无法反击（通用，1/2）
+> 「おっと、届かねぇのかよ!?」
+"Ouch, không thể với tới được!?"
+
+@11503 Rish · リッシュ
+# Kích hoạt: 射程外，无法反击（通用，2/2）
+> 「ちっ……これじゃやれねぇか」
+"Tsk...chúng ta không thể chiến đấu như thế này được."
+
+@16436 Rish · リッシュ
+# Kích hoạt: 对手驾驶员〈セレイン〉
+> 「わるいな、{HeroNick}ちゃん」
+"Xin lỗi, {HeroNick}."
+
+@16437 Rish · リッシュ
+# Kích hoạt: 对手驾驶员〈セレイン〉
+> 「本当はあんまりやりたかないんだがよ」
+"Thực sự thì tôi không thực sự muốn làm điều này."
+
+@16438 Rish · リッシュ
+# Kích hoạt: 对手驾驶员〈セレイン〉
+> 「しかたねぇな」
+"Thực sự chúng tôi không thể làm gì được."
+
+@16439 Rish · リッシュ
+# Kích hoạt: 对手驾驶员〈セレイン〉
+> 「直撃しちまったら勘弁しろよ」
+“Nếu là đánh trực diện thì đừng trách tôi.”
+
+@16440 Rish · リッシュ
+# Kích hoạt: 对手驾驶员〈セレイン〉
+> 「俺は乗り気じゃないんだが」
+"Tôi không có tâm trạng."
+
+@16441 Rish · リッシュ
+# Kích hoạt: 对手驾驶员〈セレイン〉
+> 「しっかりよけろよ」
+"Bạn phải trốn."

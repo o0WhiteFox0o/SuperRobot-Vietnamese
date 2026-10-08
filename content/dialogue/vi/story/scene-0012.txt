@@ -1,0 +1,980 @@
+# Bản dịch tiếng Việt Super Robot Wars 64
+# Định dạng và vị trí: docs/guide/dialogue-text.md
+
+@18748 Roux · ルー
+> 「コロニーのM作戦、
+>  本当だったんですか?」
+"Chiến dịch M trên vệ tinh thuộc địa có thật không?"
+
+@18749 Quattro · クワトロ
+> 「そのようだ。
+>  宇宙にも我々のように
+"Có vẻ như vậy. Trong vũ trụ cũng có những người giống chúng ta."
+---
+>  抵抗運動をする者たちがいても
+>  不思議ではない
+Không có gì đáng ngạc nhiên đối với những người tham gia phong trào phản kháng.
+---
+>  しかし……」
+Chỉ là..."
+
+@18750 Bright · ブライト
+> 「何か気になることでも?」
+"Bạn có lo lắng về điều gì không?"
+
+@18751 Quattro · クワトロ
+> 「それを実施する組織については
+>  よくわかっていないのだ
+“Chúng tôi vẫn chưa biết tổ chức nào thực hiện hoạt động này.
+---
+>  いくつかのコロニーの過激派だと
+>  いうことだが、どうもな」
+Người ta nói rằng họ là những người cấp tiến từ một số vệ tinh thuộc địa, nhưng có điều gì đó không ổn. "
+
+@18752 Bright · ブライト
+> 「味方につけるのは、むずかしいと?」
+"Ý bạn là, rất khó để chinh phục họ?"
+
+@18753 Quattro · クワトロ
+> 「わからん。が、准将のように
+>  楽観することはできんな」
+"Tôi không biết. Nhưng tôi không thể lạc quan như Chuẩn tướng được."
+
+@18754 Ark · アーク（按段落 3DD1）
+> 「あの、なんです、
+>  そのM作戦というのは?」
+"Chà, Chiến dịch M là gì?"
+
+@18755 Selain · セレイン（按段落 3DD2）
+> 「M作戦……どういうのです?」
+"Chiến dịch M... đó là loại hoạt động gì?"
+
+@18756 Aboly · アポリー
+> 「俺たちも実態はつかんでいない。
+>  わかっているのは
+“Chúng tôi không biết tình hình cụ thể, chúng tôi chỉ biết rằng
+---
+>  流星に偽装した兵器を
+>  地球に落とそうとしているって
+Họ dự định ném vũ khí cải trang thành thiên thạch xuống trái đất.
+---
+>  ことだけだ」
+Thế thôi. "
+
+@18757 Ark · アーク（按段落 3DD1）
+> 「そんなにすごいものが
+>  落ちてくるんですか?」
+“Thứ mạnh mẽ như vậy có thể rơi xuống sao?”
+
+@18758 Selain · セレイン（按段落 3DD2）
+> 「あまり効率的な方法とは
+>  思えませんが
+“Tôi không nghĩ cách tiếp cận này hiệu quả.
+---
+>  どれだけの戦力だと
+>  いうのです?」
+Nó có bao nhiêu sức chiến đấu? "
+
+@18759 Quattro · クワトロ
+> 「それをこれから確認しようと
+>  いうのだ
+“Đó là điều chúng tôi sắp xác nhận.
+---
+>  帝国軍もでてくる。
+>  整備を急げよ」
+Quân đội Đế quốc cũng sẽ được phái đi. Hãy sẵn sàng nhanh chóng. "
+
+@18760 Grados Soldier · グラドス兵
+> 「大気圏に到達すると思われる
+>  質量の移動を確認」
+“Người ta xác nhận rằng một vật thể khối lượng đang chuyển động và dự kiến sẽ chạm tới bầu khí quyển.”
+
+@18761 Grados Soldier · グラドス兵
+> 「1つではないな」
+"Nhiều hơn một."
+
+@18762 Grados Soldier · グラドス兵
+> 「ミノフスキー粒子濃度の
+>  関係ではっきりとはわかりませんが
+“Điều đó không thể được xác nhận hoàn toàn do nồng độ của các hạt Minovsky.
+---
+>  6つほどの金属反応があります」
+Nhưng có khoảng sáu phản ứng kim loại. "
+
+@18763 Grados Soldier · グラドス兵
+> 「捕捉できそうな部隊は
+>  展開しているのか?」
+“Có đội quân nào ở gần đây có thể chặn được chúng không?”
+
+@18764 Grados Soldier · グラドス兵
+> 「待ってください……
+>  あります
+"Xin hãy đợi...có đấy.
+---
+>  スペシャルズの
+>  ゼクス特尉の部隊です」
+Đó là đơn vị của Trung úy Jack Steer của Lực lượng Đặc biệt. "
+
+@18765 Grados Soldier · グラドス兵
+> 「スペシャルズか。まぁいい、
+>  一応ゼクスに知らせておけ
+"Lực lượng đặc biệt. Quên chuyện đó đi, nói với Jacks đi.
+---
+>  どうせ3年前の大戦時の
+>  衛星の破片かなにかだろうがな」
+Dù sao đi nữa, chúng có lẽ là những mảnh vỡ vệ tinh còn sót lại sau cuộc chiến ba năm trước. "
+
+@18766 Specials · スペシャルズ
+> 「ゼクス特尉、監視衛星は
+>  隕石か衛星の破片の落下と
+"Trung úy Jackster, báo cáo vệ tinh giám sát đã nêu,
+---
+>  報告しています」
+Đó là sự rơi của một mảnh thiên thạch hoặc vệ tinh. "
+
+@18767 Zechs · ゼクス
+> 「隕石や衛星が大気圏突入
+>  のウェーブコースを通ると思うか?」
+“Bạn có nghĩ rằng các thiên thạch hoặc vệ tinh sẽ rơi theo cùng một quỹ đạo lượn sóng mà chúng sử dụng để đi vào bầu khí quyển không?”
+
+@18768 Specials · スペシャルズ
+> 「では……」
+"Vậy..."
+
+@18769 Zechs · ゼクス
+> 「うむ、コロニーのM作戦に
+>  間違いないな
+"Chà, chắc hẳn là Chiến dịch M trên vệ tinh thuộc địa.
+---
+>  いくつ、とらえられるか」
+Có thể bắt được bao nhiêu? "
+
+@18770 Specials · スペシャルズ
+> 「北米の大西洋岸に
+>  落下すると思われる、1つだけです」
+"Chỉ có một chiếc được cho là sẽ rơi ở bờ biển Đại Tây Dương của Bắc Mỹ."
+
+@18771 Zechs · ゼクス
+> 「ふむ……1つでも十分とするか
+"Chà... chặn một cái là đủ rồi.
+---
+>  帝国軍にとっては我々も
+>  しょせんは、よそ者だ
+Đối với Quân đội Đế quốc, chúng ta dù sao cũng là người ngoài.
+---
+>  功をあせるものではないな」
+Không cần phải vội vàng để đạt được thành công. "
+
+@18772 Specials · スペシャルズ
+> 「ずいぶん表向きな発言を
+>  なさいますな」
+"Những gì bạn nói thực sự có vẻ cao siêu."
+
+@18773 Zechs · ゼクス
+> 「私は、軍人なのだよ」
+"Tôi là một người lính."
+
+@18774 Roux · ルー
+> 「ブレックス准将より通信です」
+"Ủy ban từ Chuẩn tướng Blakes."
+
+@18775 Bright · ブライト
+> 「つないでくれ。
+>  ……准将、なにか?」
+“Cầm lấy đi.... Chuẩn tướng, có chuyện gì thế?”
+
+@18776 Blex · ブレックス
+> 「たった今、例の作戦が
+>  発動したとの連絡がはいった
+"Tôi vừa nhận được tin chiến dịch đã bắt đầu.
+---
+>  大気圏に突入してくるのは
+>  6つのようだな」
+Dường như có sáu cái lao vào bầu không khí. "
+
+@18777 Quattro · クワトロ
+> 「我々で捕捉できるものは?」
+“Chúng ta có thể bắt được con nào?”
+
+@18778 Blex · ブレックス
+> 「北米の大西洋岸に
+>  落下すると思われるものが
+"Chiếc máy bay dự kiến sẽ rơi trên bờ biển Đại Tây Dương của Bắc Mỹ,
+---
+>  捕捉できるだろう」
+Sẽ có thể bắt được nó. "
+
+@18779 Bright · ブライト
+> 「了解しました
+"Đã hiểu.
+---
+>  では我々はM作戦の
+>  調査に向かいます」
+Vậy hãy đi điều tra Chiến dịch M.”
+
+@18780 Roux · ルー
+> 「先行しているレイズナーより連絡!
+>  スペシャルズの部隊が
+"Rezner, người khởi hành đầu tiên, đã gửi tin tức! Nó nói rằng lực lượng đặc biệt
+---
+>  展開しているそうです!」
+Đội hình đã được thiết lập ở đó rồi! "
+
+@18781 Quattro · クワトロ
+> 「目標の空域に
+>  スペシャルズがいるだと?
+“Có lực lượng đặc biệt trong không phận mục tiêu?
+---
+>  はやいな、間に合わんかもしれん。
+>  すぐに出るぞ」
+Anh đi nhanh quá, em sợ đã muộn rồi. Khởi hành ngay lập tức. "
+
+@18782 Relena · リリーナ
+> 「あら? なにかしら、あれは。
+>  ……流星……?」
+"Rất tiếc? Đó là... sao băng...?"
+
+@18783 Heero · ヒイロ
+> 「……ついに来た……
+>  これが地球なのか」
+"...Cuối cùng ở đây...đây có phải là Trái Đất không?"
+
+@18784 Zechs · ゼクス
+> 「あれか。戦闘機なのか?」
+“Đó có phải là máy bay chiến đấu không?”
+
+@18785 Specials · スペシャルズ
+> 「威嚇しますか?」
+"Bạn có muốn đe dọa tôi trước không?"
+
+@18786 Zechs · ゼクス
+> 「通用するとは思えん。
+>  撃墜しろ
+“Tôi chẳng thấy có tác dụng gì cả. Bắn hạ nó đi.
+---
+>  レジスタンスへの新兵器の
+>  輸送が目的だと思っていたが
+Tôi nghĩ đó là để cung cấp vũ khí mới cho quân kháng chiến,
+---
+>  乗っているのはそれを操縦する
+>  戦闘パイロットだ」
+Không ngờ lại có một phi công ngồi trên đó có thể lái nó. "
+
+@18787 Heero · ヒイロ
+> 「帝国にかぎつけられている
+>  ……当然か」
+"Khó trách đế quốc lại phát hiện ra..."
+
+@18788 Heero · ヒイロ
+> 「……スペシャルズ部隊を迎撃せよ
+>  ……任務変更了解」
+"...để ngăn chặn lực lượng đặc biệt...đã thay đổi nhiệm vụ, đã nhận được."
+
+@18789 Heero · ヒイロ
+> 「左推進システムに異常発生
+>  ……やるな」
+“Có sự bất thường ở hệ thống đẩy bên trái… hai lần.”
+
+@18790 Zechs · ゼクス
+> 「なんだと、あれで落とせんというのか!?」
+"Cái gì, bạn không thể đánh bại nó!?"
+
+@18791 Zechs · ゼクス
+> 「変形をした!?
+>  モビルスーツだったのか!」
+"Biến hình!? Hoá ra là mobile suit!"
+
+@18792 Heero · ヒイロ
+> 「…………」
+“…………”
+
+@18793 Zechs · ゼクス
+> 「!? あの武器……いかん!
+>  退避しろ!!」
+"!? Vũ khí đó...không tốt! Hãy ra ngoài nhanh lên!!"
+
+@18794 Heero · ヒイロ
+> 「フ……ハハハハハハッ」
+"Hừ... hahahahaha!"
+
+@18795 Zechs · ゼクス
+> 「バカな、なんという威力だ。
+>  機体の性能差がありすぎる
+"Không thể nào. Nó quá mạnh mẽ. Khoảng cách hiệu suất giữa các máy là quá lớn.
+---
+>  ……ならばっ!」
+...Trong trường hợp đó! "
+
+@18796 Heero · ヒイロ
+> 「なに!?」
+"Cái gì!?"
+
+@18797 Zechs · ゼクス
+> 「これで動けまい。
+>  特士、脱出する。拾ってくれ」
+"Bây giờ anh không thể di chuyển được. Quân nhân, tôi sẽ phóng ra. Hãy đến đón tôi."
+
+@18798 Aboly · アポリー
+> 「間に合いませんよ、こりゃ」
+"Tôi không thể bắt kịp bây giờ."
+
+@18799 Quattro · クワトロ
+> 「相手にとりついて関節をロック、
+>  そして自分は脱出するとは
+"Quấn đối thủ lại, khóa khớp rồi tự mình thoát ra.
+---
+>  思い切りのよいパイロットだ。
+>  できるな」
+Thật là một phi công quyết đoán. Anh ấy là một bậc thầy. "
+
+@18800 Ark · アーク（按段落 3DD1）
+> 「やられてしまった?」
+“Anh bị đánh gục à?”
+
+@18801 Selain · セレイン（按段落 3DD2）
+> 「あの高度からの落下では、
+>  機体は無事でも
+"Nếu bạn rơi từ độ cao đó, ngay cả khi máy vẫn ổn,
+---
+>  パイロットは助かるまい」
+Phi công cũng sẽ không sống sót. "
+
+@18802 Zechs · ゼクス
+> 「こんなものか……」
+"Chính là nó..."
+
+@18803 Specials · スペシャルズ
+> 「特尉、レジスタンスです」
+"Trung úy đặc biệt, chúng tôi là một tổ chức kháng chiến."
+
+@18804 Zechs · ゼクス
+> 「我々の任務ではない。
+>  報告はまわしておけ
+"Đây không phải là nhiệm vụ của chúng tôi. Chỉ cần chuyển báo cáo đi.
+---
+>  我々は引き上げる」
+Chúng tôi rút lui. "
+
+@18805 Specials · スペシャルズ
+> 「ゼクス特尉、
+>  治安部隊のゲイル中尉から
+"Trung úy Jackster, Trung úy Gale của Lực lượng An ninh
+---
+>  レジスタンスの足止め要請です。
+>  どうしますか」
+Yêu cầu chúng tôi ngăn chặn sự kháng cự. Phải làm gì? "
+
+@18806 Zechs · ゼクス
+> 「ゲイル中尉か……
+"Trung úy Gale...
+---
+>  正規軍の要請では、
+>  従うほかあるまい
+Vì đó là yêu cầu của quân đội chính quy nên chúng tôi không còn cách nào khác ngoài việc tuân theo.
+---
+>  残りの機体をすべて出せ。
+>  私にも1機まわしてくれ」
+Tất cả các máy bay còn lại đã được phái đi. Để lại cho tôi một cái nhé. "
+
+@18807 Ark · アーク（按段落 3DD1）
+> 「どうするんです?」
+"Phải làm gì?"
+
+@18808 Selain · セレイン（按段落 3DD2）
+> 「こちらに来るか……
+>  当然だな」
+"Đi theo hướng này...không có gì lạ."
+
+@18809 Quattro · クワトロ
+> 「やはり見逃してはもらえないようだ。
+>  やむを得ん、迎撃するぞ」
+"Có vẻ như họ thực sự không muốn để chúng tôi đi. Chúng tôi không còn cách nào khác ngoài chiến đấu."
+
+@18810 Gale · ゲイル
+> 「ご苦労だった、ゼクス特尉。
+>  あとは我々にまかせてくれていい」
+"Cảm ơn vì đã làm việc chăm chỉ, Trung úy Jack. Hãy để phần còn lại cho chúng tôi."
+
+@18811 Zechs · ゼクス
+> 「は、では我々は撤収します」
+“Ừ, chúng ta hãy rút tiền trước.”
+
+@18812 Zechs · ゼクス
+> (アーマス・ゲイル……
+>  よい軍人のようだな)
+(Amas Gale...có vẻ là một người lính giỏi.)
+
+@18813 Gale · ゲイル
+> 「スペシャルズのゼクスは
+>  撃墜されてしまったか
+“Có phải Jakes của Lực lượng Đặc biệt đã bị bắn hạ.
+---
+>  が、そのおかげでレジスタンスを
+>  捕捉できた
+Nhưng nhờ có anh ấy mà chúng tôi mới bắt được quân Kháng chiến.
+---
+>  感謝せねばならんな」
+Bạn phải cảm ơn anh ấy. "
+
+@18814 Karla · カルラ
+> 「全機、
+>  レジスタンスを囲い込め!」
+"Tất cả máy bay, bao vây tổ chức kháng chiến!"
+
+@18815 Gale · ゲイル
+> (ジュリア……弟の血にぬれた手で
+>  君を抱くことは許されない
+(Julia...đôi bàn tay nhuốm máu của anh trai tôi không đủ tư cách để ôm em.
+---
+>  ……さようなら)
+...Tạm biệt. )
+
+@18816 Gale · ゲイル
+> 「今度は逃がさんぞ、エイジ」
+“Lần này tôi sẽ không để cậu trốn thoát đâu, Eiji.”
+
+@18817 Eiji · エイジ
+> 「ゲイル先輩!」
+"Gale tiền bối!"
+
+@18818 Gale · ゲイル
+> 「エイジ。もう私はお前を
+>  連れ戻そうとは思わん
+"Eiji. Anh không có ý định đưa em quay lại lần nữa.
+---
+>  敵となるならば撃破するのみ。
+>  だが一つだけ聞かせてくれ
+Vì ngươi là kẻ thù của ta nên ta không còn cách nào khác ngoài việc hạ gục ngươi. Nhưng có một điều tôi muốn hỏi bạn,
+---
+>  なぜそうまでして地球のために
+>  戦おうというのだ」
+Tại sao phải chiến đấu đến mức này, chiến đấu vì trái đất? "
+
+@18819 Eiji · エイジ
+> 「地球人も俺たちと同じ
+>  人間です
+“Người trái đất cũng là con người giống như chúng ta.
+---
+>  彼らはこの惑星に誇りを抱いて
+>  生きている。俺も同じです
+Họ tự hào về hành tinh này và sống ở đây. Tôi cũng vậy.
+---
+>  この地球を、
+>  もう一つの俺の故郷を
+Trái đất này là quê hương khác của tôi,
+---
+>  グラドスと同様、愛しているんです」
+Tôi yêu nó nhiều như tôi yêu Grados. "
+
+@18820 Gale · ゲイル
+> 「そうか……」
+"Chính là nó..."
+
+@18821 Eiji · エイジ
+> 「お願いです、ゲイル先輩
+"Làm ơn, Gale cao cấp,
+---
+>  帝国のやり方は
+>  間違っているんです」
+Những gì Đế quốc đang làm là sai. "
+
+@18822 Gale · ゲイル
+> 「エイジ……覚悟を決めろ!」
+"Eiji... thể hiện quyết tâm của mình đi!"
+
+@18823 Eiji · エイジ
+> 「くっ、ゲイル先輩!!」
+"Ồ, tiền bối Gale!!"
+
+@18824 Gale · ゲイル
+> 「どうしたエイジ!
+"Có chuyện gì thế, Eiji!
+---
+>  この地球の重みを背負って
+>  攻めてこい!」
+Mang theo sức nặng của hành tinh này, hãy tấn công tôi! "
+
+@18825 Gale · ゲイル
+> 「次で終わらせるぞ、エイジッ!!」
+“Tôi sẽ kết liễu anh bằng đòn tiếp theo, Eiji!!”
+
+@18826 Eiji · エイジ
+> 「ゲイル先輩!? うわあぁぁぁーっ!!」
+"Senior Gale!? Ooohhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhh!"
+
+@18827 Gale · ゲイル
+> 「くっ……見事だ。お前の覚悟、
+>  確かに見せてもらった
+"Chà...làm tốt lắm. Tôi chắc chắn có thể thấy được quyết tâm của bạn.
+---
+>  ……強くなったな、エイジ……」
+…Anh đã trở nên mạnh mẽ hơn, Eiji…”
+
+@18828 Eiji · エイジ
+> 「先輩……」
+"Tiền bối..."
+
+@18829 Gale · ゲイル
+> 「さらばだ、エイジ……生きのびろよ」
+"Tạm biệt, Eiji...hãy sống tiếp nhé."
+
+@18830 Eiji · エイジ
+> 「ゲイル先輩ッ!?」
+"Gale tiền bối!?"
+
+@18831 Gale · ゲイル
+> 「…………あぁ……ジュリア……」
+"...A...Julia..."
+
+@18832 Eiji · エイジ
+> 「くっ……先輩……。さようなら……
+>  ゲイル先輩……」
+"Ừ...Tiền bối...Tạm biệt...Gale tiền bối..."
+
+@18833 Karla · カルラ
+> 「ゲイル中尉ッ!?
+>  おのれ、よくも! 許さん!!」
+"Trung úy Gale!? Chết tiệt, sao anh dám! Tôi không tha cho anh đâu!!"
+
+@18834 Gale · ゲイル
+> 「エイジ、これで終わりにするぞ」
+“Eiji, hãy kết thúc chuyện này thôi.”
+
+@18835 Eiji · エイジ
+> 「くっ、ゲイル先輩……」
+“Ồ, Gale tiền bối…”
+
+@18836 Gale · ゲイル
+> 「くっ……ここまでか
+>  ……ジュリア……」
+"Chà...thế đã đủ chưa...Julia..."
+
+@18837 Eiji · エイジ
+> 「ゲイル先輩ッ!? う……
+"Gale tiền bối!? Ugh...
+---
+>  ……さようなら……ゲイル先輩……」
+...Tạm biệt...Gale tiền bối..."
+
+@18838 Karla · カルラ
+> 「ゲイル中尉ッ!?
+>  おのれ、よくも! 許さん!!」
+"Trung úy Gale!? Chết tiệt, sao anh dám! Tôi không tha cho anh đâu!!"
+
+@18839 Ehrlich · エルリッヒ（按段落 3DD1）
+> 「どうやら追いついたようだな
+“Có vẻ như chúng ta đã bắt kịp rồi.
+---
+>  少年、
+>  任務を果たさせてもらうぞ」
+Cậu bé, xin lỗi, tôi phải đi làm nhiệm vụ. "
+
+@18840 Ark · アーク（按段落 3DD1）
+> 「あの機体……あのときのっ!」
+“Cái máy đó…là từ lúc đó!”
+
+@18841 Ehrlich · エルリッヒ（按段落 3DD1）
+> 「少年、なぜレジスタンスにつく。
+>  軍人でない者を殺したくはない
+“Anh bạn trẻ, tại sao anh lại đứng về phía tổ chức kháng chiến? Tôi không muốn giết hại dân thường.
+---
+>  おとなしく、その機体を
+>  渡してほしい」
+Hãy ngoan ngoãn bàn giao thân máy đó. "
+
+@18842 Ark · アーク（按段落 3DD1）
+> 「俺の町を焼いたのはあんたたちだ。
+>  俺がここにいるのは
+"Chính các người đã đốt cháy thị trấn của chúng tôi! Tôi sẽ ở đây,
+---
+>  あんたたちのせいだろうが!」
+Không phải do anh gây ra! "
+
+@18843 Ehrlich · エルリッヒ（按段落 3DD1）
+> 「帝国の無人機にまかせるから
+>  ああなった
+“Chính vì máy bay không người lái được bàn giao cho Đế quốc nên mới thành ra thế này.
+---
+>  だからこそ我々スペシャルズが
+>  代行することによって
+Đó là lý do tại sao lực lượng đặc biệt của chúng tôi chịu trách nhiệm thực hiện vụ hành quyết.
+---
+>  歯止めをかけているのだと、
+>  なぜわからない」
+Để kiểm soát được tình hình. Tại sao bạn không hiểu? "
+
+@18844 Ark · アーク（按段落 3DD1）
+> 「わかるものかよ、そんな詭弁!
+"Ai sẽ tin lời ngụy biện của bạn!
+---
+>  地球人のくせに
+>  異星人に取り入って」
+Rõ ràng chúng tôi đến từ Trái đất, nhưng chúng tôi đang cố gắng lấy lòng người ngoài hành tinh! "
+
+@18845 Ehrlich · エルリッヒ（按段落 3DD1）
+> 「ロームフェラが動かなければ
+>  戦争は続き
+“Nếu Romphila không hành động, chiến tranh sẽ tiếp tục.
+---
+>  地球人の大半は
+>  虐殺されたかもしれんのだ」
+Hầu hết mọi người trên trái đất có thể đã bị thảm sát. "
+
+@18846 Ark · アーク（按段落 3DD1）
+> 「今の状態が、
+>  それとどう違うっていうんだよ!」
+"Có gì khác biệt giữa cái này bây giờ và cái kia!"
+
+@18847 Ehrlich · エルリッヒ（按段落 3DD1）
+> 「いいか少年、
+>  戦争は3年前に終わっている
+"Nghe này cậu bé, chiến tranh đã kết thúc ba năm trước.
+---
+>  今は、帝国の支配下で
+>  あったとしても
+Bây giờ ngay cả dưới sự thống trị của đế quốc,
+---
+>  よりよき形の平和を
+>  志向するべき時代だ
+Đây cũng là lúc để theo đuổi một nền hòa bình tốt hơn.
+---
+>  にもかかわらずレジスタンスは
+>  再び戦争をおこそうとしている
+Nhưng tổ chức kháng chiến lại muốn kích động chiến tranh.
+---
+>  そうなれば、また弱い者たちが
+>  大勢、犠牲になるのだぞ!
+Trong trường hợp đó, một số lượng lớn người yếu đuối sẽ lại chết!
+---
+>  それをわかっているのか、君は!?」
+Bạn có hiểu điều này hay không? ? "
+
+@18848 Ark · アーク（按段落 3DD1）
+> 「な……」
+"Cái gì..."
+
+@18849 Quattro · クワトロ
+> 「なにをしている{HeroName}、
+>  それでは死ぬぞ!」
+"{HeroName}, bạn đang làm gì vậy! Điều này sẽ giết chết bạn!"
+
+@18850 Ehrlich · エルリッヒ（按段落 3DD1）
+> 「これ以上話している余裕はないか
+“Có vẻ như chúng ta không còn thời gian để nói chuyện nữa.
+---
+>  ……やむを得ん」
+...Chúng tôi không thể làm gì được. "
+
+@18851 Rish · リッシュ（按段落 3DD2）
+> 「へっ、ビンゴだ。いやがったぜ」
+"Này, bạn đoán đúng rồi. Nó ở đây."
+
+@18852 Selain · セレイン（按段落 3DD2）
+> 「あれは……ヤツか」
+"Đó là...anh chàng đó à?"
+
+@18853 Rish · リッシュ（按段落 3DD2）
+> 「よぅ{HeroName}、おとなしくそいつを
+>  返しちゃくれねぇか
+"Này, {HeroName}, bạn có thể vui lòng trả lại thứ đó được không?
+---
+>  お前みたいな、いい女を
+>  殺したくないんだ」
+Tôi không muốn giết một người đẹp như cô. "
+
+@18854 Selain · セレイン（按段落 3DD2）
+> 「貴様、なれなれしいぞ!
+"Anh à, đừng lại gần quá!
+---
+>  私は貴様に、この前のカリを
+>  返す!」
+Tôi muốn đòi lại món nợ lần trước của tôi! "
+
+@18855 Rish · リッシュ（按段落 3DD2）
+> 「この前のカリったってお前、
+>  あんときゃこっちが撤退したんだぜ
+"Tài khoản lần trước? Tôi đã nói rồi, lần đó người rút lui là chúng tôi.
+---
+>  おかげで始末書の山と格闘だ
+Tôi đã vật lộn rất lâu với hàng đống lời chứng thực.
+---
+>  俺のほうこそカリがあると思うがな」
+Để giải quyết các tài khoản, bạn nợ tôi, phải không? "
+
+@18856 Selain · セレイン（按段落 3DD2）
+> 「貴様のことなど知ったものか!
+>  こっちは仲間をすべてやられた!」
+"Không phải chuyện của ngươi! Tất cả đồng đội của ta đều bị ngươi giết!"
+
+@18857 Rish · リッシュ（按段落 3DD2）
+> 「俺にも任務ってもんがあるんだ、
+>  しかたないだろ」
+"Ta cũng có nhiệm vụ, không thể giúp được."
+
+@18858 Selain · セレイン（按段落 3DD2）
+> 「貴様は、私が落とす!」
+"Tôi sẽ hạ gục bạn!"
+
+@18859 Rish · リッシュ（按段落 3DD2）
+> 「おい{HeroName}、
+>  ちょっと待てって……。ちっ」
+"Này {HeroName}, đợi một chút... tsk."
+
+@18860 Ehrlich · エルリッヒ（按段落 3DD1）
+> 「くっ、機体の回収に
+>  こだわりすぎたか……」
+"Chà, có phải tôi quá ám ảnh với việc tái chế cơ thể không..."
+
+@18861 Rish · リッシュ（按段落 3DD2）
+> 「ちっ、やられちまったか……。
+>  まったく気の強ぇ女だ
+"Chậc, cậu tiêu rồi...người phụ nữ này thật cứng đầu.
+---
+>  どうやらマジで惚れそうだぜ
+Có vẻ như tôi thực sự sắp phải lòng cô ấy rồi.
+---
+>  じゃあな、また会いに来るぜ、
+>  {HeroName}ちゃん」
+Hẹn gặp lại, tôi sẽ quay lại với cô, cô {HeroName}. "
+
+@18862 Selain · セレイン（按段落 3DD2）
+> 「ふざけた奴だ……」
+"Thật là một kẻ không trung thực..."
+
+@18863 Eiji · エイジ
+> 「ゲイル先輩………」
+"Gale tiền bối..."
+
+@18864 David · デビッド
+> 「エイジ、おいエイジ!
+>  大丈夫か!?」
+"Eiji, này Eiji! Cậu ổn chứ!?"
+
+@18865 Eiji · エイジ
+> 「……あ、ああ、
+"...À, à,
+---
+>  機体が強制冷却に
+>  はいっただけだ」
+Chỉ là cơ thể đã bước vào trạng thái làm mát cưỡng bức. "
+
+@18866 Quattro · クワトロ
+> 「M作戦のパイロット……
+>  あれでは助からんな」
+"Các phi công của Chiến dịch M... Tôi e rằng họ sẽ không thể sống sót."
+
+@18867 Aboly · アポリー
+> 「そう思います。
+>  ひきあげましょう
+"Tôi cũng nghĩ vậy. Hãy rút lui đi.
+---
+>  我々では機体の回収は
+>  無理です」
+Không có cách nào chúng ta có thể phục hồi được cái máy đó. "
+
+@18868 Quattro · クワトロ
+> 「そうだな。ぐずぐずしていると
+>  帝国の回収部隊もでてくる
+“Đúng. Nếu chúng ta tiếp tục trì hoãn, quân phục hồi của đế quốc cũng sẽ xuất hiện.
+---
+>  エイジくん?」
+Eiji? "
+
+@18869 Eiji · エイジ
+> 「……大丈夫です。動きます」
+"...Tôi ổn. Tôi vẫn có thể di chuyển được."
+
+@18870 Quattro · クワトロ
+> 「……これは、戦争だ
+“…Đây là chiến tranh.
+---
+>  君の事情を
+>  知らぬわけでもないが……」
+Không phải là tôi không hiểu hoàn cảnh của bạn, nhưng…”
+
+@18871 Eiji · エイジ
+> 「わかっている……つもりです」
+"Tôi hiểu...ít nhất tôi nghĩ là tôi hiểu."
+
+@18872 Quattro · クワトロ
+> 「そうか……」
+"Chính là nó..."
+
+@18873 Gosterro · ゴステロ
+> 「ひゃーっはっはっはぁ
+“Ừ—hahahaha!
+---
+>  ゲイルのやつが小僧どもに
+>  やられちまったかぁ
+Tên Gale đó thực sự đã bị bọn nhóc giết chết!
+---
+>  そいつは残念だ。
+>  もっともヤツの甘ちゃんぶりでは
+Thật là xấu hổ. Nhưng với sự ngây thơ của mình,
+---
+>  こうなることは、わかっていたがなぁ」
+Mọi chuyện sẽ diễn ra như thế này, tôi đã đoán trước được. "
+
+@18874 Karla · カルラ
+> 「くっ……」
+"Ờ..."
+
+@18875 Karla · カルラ
+> (ゲイル中尉、あなたのためなら
+>  自分は……)
+(Trung úy Gale, miễn là vì anh, tôi...)
+
+@18876 Treize · トレーズ
+> 「聞いたか、ゼクス。
+>  ゲイル中尉が戦死したそうだ」
+"Anh có nghe thấy không, Jax? Trung úy Gale đã bị giết. "
+
+@18877 Zechs · ゼクス
+> 「アーマス・ゲイルが?
+“Amas Gale?
+---
+>  帝国軍にしては
+>  よい士官だっただけに残念です」
+Đáng tiếc hắn lại là một sĩ quan giỏi hiếm có trong quân đội Đế quốc. "
+
+@18878 Treize · トレーズ
+> 「そう思う。しかし、こちらもずいぶんと
+>  損害が出たな。君ほどの男が
+"Tôi cũng nghĩ vậy. Tuy nhiên, tổn thất về phía chúng ta không hề nhỏ. với kỹ năng của bạn
+---
+>  不始末をした。M作戦の1つを
+>  つぶしたことを差し引いても
+Anh ấy cũng sẽ nhớ. Ngay cả khi bao gồm cả công lao cho việc đánh bại trận chiến M,
+---
+>  財団のうるさがたを黙らすのに
+>  ひと苦労だ」
+Cũng cần rất nhiều nỗ lực để bịt miệng những người chỉ trích trong tập đoàn. "
+
+@18879 Zechs · ゼクス
+> 「はい。しかし、やはりM作戦が
+>  レジスタンスと結びつくと
+"Ừ. Tuy nhiên, khi Chiến dịch M gia nhập lực lượng với tổ chức kháng chiến,
+---
+>  かなりの脅威になると推測されます
+Tôi sợ nó sẽ trở thành một mối đe dọa đáng kể.
+---
+>  機体の回収は、いかがいたしますか」
+Bạn nghĩ cơ thể nên được xử lý như thế nào sau khi tái chế? "
+
+@18880 Treize · トレーズ
+> 「帝国軍にまかせておきたまえ
+“Hãy để việc đó cho Quân đội Đế quốc.
+---
+>  わかっているだろうが
+>  今は大事の前だ
+Bạn cũng hiểu rằng những điều lớn lao đang đến.
+---
+>  帝国を刺激するような真似は
+>  したくない」
+Tôi không muốn làm bất cứ điều gì chọc giận đế quốc. "
+
+@18881 Zechs · ゼクス
+> 「了解しております」
+"Tôi hiểu. "
+
+@18882 Treize · トレーズ
+> 「ああそれと、
+>  君のいっていたモビルスーツ
+"À, còn mobile suit mà cậu nhắc tới,
+---
+>  トールギスの件だが
+>  修復作業を急がせている
+Về Dorukis, tôi đã nhờ mọi người sửa chữa nó nhanh chóng.
+---
+>  あれは、たいした機体だよ」
+Đó là một cỗ máy tuyệt vời. "
+
+@18883 Zechs · ゼクス
+> 「ありがとうございます」
+"Cảm ơn bạn. "
+
+@18884 Treize · トレーズ
+> 「なに、“ライトニング・バロン”に
+>  ふさわしい機体を用意できて
+"Cỗ máy phù hợp có thể được chuẩn bị ở đâu cho 'Lightning Baron'?
+---
+>  私もうれしい」
+Tôi cũng hạnh phúc. "
+
+@18885 Quattro · クワトロ
+> 「それで、今度はなんだというのだ?」
+"Vậy lần này chuyện gì xảy ra? "
+
+@18886 Bright · ブライト
+> 「スペシャルズが新型をテスト中らしい
+>  解放戦線としてはそのデータ
+“Các lực lượng đặc biệt dường như đang thử nghiệm máy bay mới. Mặt trận Giải phóng muốn có được dữ liệu đó.
+---
+>  可能ならば機体そのものを
+>  入手したいということのようだ」
+Nếu có thể, hãy lấy cả cái xác. "
+
+@18887 Quattro · クワトロ
+> 「無茶をいう
+“Một lần nữa, nó buộc ai đó phải làm điều gì đó khó khăn.
+---
+>  が、スペシャルズの施設へ
+>  攻撃をしかける、というのは
+Tuy nhiên, tấn công các cơ sở của lực lượng đặc biệt,
+---
+>  それなりに意味のある
+>  行動だということか」
+Có thể coi đây là một hành động đầy ý nghĩa. "
+
+@18888 Bright · ブライト
+> 「そういうことだ
+"Đó là nó.
+---
+>  我々の活動を広く示す
+>  必要もある。来てくれ
+Chúng ta cũng cần để nhiều người hơn nhìn thấy hành động của mình. mang nó lên,
+---
+>  作戦を検討しよう」
+Cùng nhau nghiên cứu kế hoạch tác chiến. "
+
+@18889 Ark · アーク（按段落 3DD1）
+> (俺は……俺は、
+>  なんのために、ここにいるんだろう…)
+(Tôi...sao tôi lại ở đây...)
+
+@18890 Relena · リリーナ
+> 「あんなところに人が……」
+"Thật sự có người ở nơi như vậy..."
+
+@18891 Relena · リリーナ
+> 「パイロットスーツみたいだけど
+>  ……まだ子供!?」
+"Trông giống như bộ đồ lái xe...nhưng cậu ấy vẫn còn là một đứa trẻ! ? "
+
+@18892 Heero · ヒイロ
+> 「う……、お、お前!?」
+“Chà… bạn, chính là bạn! ? "
+
+@18893 Relena · リリーナ
+> 「え!?」
+"Này! ? "
+
+@18894 Heero · ヒイロ
+> 「見たのか!?」
+"Bạn đã nhìn thấy nó! ? "
+
+@18895 Relena · リリーナ
+> 「えっ、なに!?」
+"Này, cái gì thế! ? "
+
+@18896 Heero · ヒイロ
+> 「!? 不発かッ!」
+"! ? Đánh nhầm! "
+
+@18897 Relena · リリーナ
+> 「いってしまった……。わたしは……
+>  わたしはリリーナ・ドーリアン
+“Anh ấy đi rồi… tôi… tôi là Lilina Dorian.
+---
+>  ……あなたは?」
+...còn bạn? "

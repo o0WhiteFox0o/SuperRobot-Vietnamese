@@ -9,7 +9,7 @@ namespace srw64::ui {
 inline std::string& chinese_font_family() { static std::string family; return family; }
 inline std::string& english_font_family() { static std::string family; return family; }
 inline std::string locale_font_css(const std::string& locale) {
-    const auto& family = locale == "zh-Hans" ? chinese_font_family() : locale == "en" ? english_font_family() : std::string();
+    const auto& family = locale == "zh-Hans" ? chinese_font_family() : (locale == "en" || locale == "vi") ? english_font_family() : std::string();
     return family.empty() ? std::string() : "body { font-family: " + family + "; }\n";
 }
 }

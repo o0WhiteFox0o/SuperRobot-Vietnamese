@@ -1,0 +1,2833 @@
+# Bản dịch tiếng Việt Super Robot Wars 64
+# Định dạng và vị trí: docs/guide/dialogue-text.md
+
+@41066 Amuro · アムロ
+> 「“グラドスの刻印”の発動から
+>  3日か……
+“Đã ba ngày kể từ khi ‘Seal of Grados’ được tung ra…
+---
+>  いったいどうなっているんだ……?」
+到底发生了什么……？ "
+
+@41067 Quattro · クワトロ
+> 「ああ……例の勧告のあと、
+>  銀河帝国軍が地上から
+"Chà...sau lời khuyên đó, Đế chế Thiên hà đã hoàn toàn rút lui khỏi mặt đất.
+---
+>  一時的とはいえ全面撤退した
+>  のはいいが、その後の動きが見えんな」
+Dù chỉ là tạm thời nhưng là điều tốt nhưng chưa rõ sau đó sẽ có những hành động gì. "
+
+@41068 Koji · 甲児
+> 「撤退してくれるなんてよ、
+>  “刻印”の発動は
+“他们都撤退了,说明'刻印'
+---
+>  予想以上の効果をあげたんだ。
+>  いいじゃないか」
+Nó hoạt động tốt hơn mong đợi. Điều này không tuyệt vời sao? "
+
+@41069 Roux · ルー
+> 「あーもぅ、おバカね。それがなんでだか
+>  わからないから
+“À – thật đấy, đồ ngốc. Chỉ vì cậu không hiểu tại sao,
+---
+>  不安だっていってんじゃないの」
+Đó chính là điều khiến người ta khó chịu. "
+
+@41070 Hayato · ハヤト
+> 「そうだな。撤退したとはいっても、
+>  連中はもうもどれない
+“Đúng. Dù đã rút lui nhưng những kẻ đó không thể quay lại được.
+---
+>  いつまた攻めてくるか……」
+Tôi có thể gọi lại bất cứ lúc nào..."
+
+@41071 Daisuke · 大介
+> 「できることなら戦いをやめてほしいが……
+>  無理だろうな」
+"Sẽ thật tốt nếu họ sẵn sàng ngừng chiến đấu...nhưng tôi e rằng điều đó là không thể."
+
+@41072 Amuro · アムロ
+> 「アラン、トレーズの方はどうだ?」
+“Alan, mọi chuyện ở Telles thế nào rồi?”
+
+@41073 Alan · アラン
+> 「どうやら宇宙へあがる気らしい。
+>  帝国軍は宇宙でも
+“Có vẻ như anh ta định đi đến vũ trụ. Quân đội Đế quốc cũng ở đó trong vũ trụ.
+---
+>  戦闘を停止しているからな。
+>  OZ宇宙軍の残存部隊を
+Đã có một hiệp định đình chiến.
+---
+>  集結させているようだ」
+Số quân còn lại. "
+
+@41074 Ark · アーク（按段落 3DD1）
+> 「トレーズが宇宙へあがる?
+>  帝国軍を追撃しようというのか…
+"Teleis sắp bay vào vũ trụ? Có phải anh ta đang cố truy đuổi Quân đội Hoàng gia...
+---
+>  まさかホワイトファングと
+>  やるつもりじゃ……」
+难道他想跟白色獠牙开战……”
+
+@41075 Selain · セレイン（按段落 3DD2）
+> 「……トレーズが銀河帝国軍を
+>  追撃するつもりとは思えん
+“…Tôi không nghĩ Teles có ý định truy đuổi Đế chế Thiên hà.
+---
+>  まさかとは思うが……」
+但愿是我想多了……”
+
+@41076 Roux · ルー
+> 「ホワイトファングを
+>  叩くつもりだっていうの!?」
+“你是说他要打白色獠牙!？”
+
+@41077 Brad · ブラッド（按段落 3DD3）
+> 「どういうつもりだ、あいつは? まさかよ、
+>  ゼクスとやるつもりなんじゃないだろうな」
+"Anh chàng đó muốn làm cái quái gì vậy? Anh ta định gây chiến với Jacks à?"
+
+@41078 Manami · マナミ（按段落 3DD4）
+> 「トレーズが宇宙へ……
+>  どういうことかしら」
+"Teles đang đi vào vũ trụ...chuyện gì đang xảy ra vậy."
+
+@41079 Lawrence · ローレンス
+> 「……もしやとは思いますが、
+>  リーブラへ向かうのではありませんかな?」
+“…Xin lỗi vì đã suy đoán, liệu anh ấy có đến Libra không?”
+
+@41080 Amuro · アムロ
+> 「いくらなんでもそんなばかなことは……」
+"Dù thế nào đi nữa, tôi sẽ không làm điều ngu ngốc như vậy..."
+
+@41081 Quattro · クワトロ
+> 「いや、奴ならやりかねんな。
+>  トレーズ・クシュリナーダは
+"Không, anh chàng đó có thể làm được. Anh chàng này Telles Khurinada,
+---
+>  何を考えているのかわからん男だ。
+>  それくらいはやるかもしれん」
+谁也猜不透他在想什么.
+
+@41082 Koji · 甲児
+> 「冗談じゃないぜ。
+>  せっかく銀河帝国軍が
+“开什么玩笑。银河帝国军好不容易
+---
+>  一時的とはいえ戦闘を
+>  停止してるってのに
+才停战, 哪怕只是暂时的,
+---
+>  まぁた地球人同士で
+>  やりあうつもりだってのかよ!?」
+地球人又要自己人打己人吗! ? "
+
+@41083 Show · ショウ
+> 「でも、確かにあの男なら
+>  やるかもしれない」
+"Nhưng quả thật người đàn ông đó có thể làm được."
+
+@41084 Chum · チャム
+> 「どうしてそう思うの、ショウ?」
+"Hương, sao cậu lại nghĩ vậy?"
+
+@41085 Show · ショウ
+> 「……うまくはいえないな。
+>  ただトレーズを見ていると
+"...Tôi không thể nói rõ ràng. Tôi chỉ nhìn Telles,
+---
+>  可能性はあるんじゃないかって
+>  気がするんだ」
+Tôi luôn nghĩ điều đó là có thể. "
+
+@41086 Amuro · アムロ
+> 「トレーズめ……どういうつもりなんだ」
+"Cái gã Telles đó muốn làm cái quái gì vậy?"
+
+@41087 Alan · アラン
+> 「ここでせんさくしていても始まらん。
+>  銀河帝国軍の
+“在这儿瞎猜也没用。银河帝国军的
+---
+>  動向も気になる。
+>  ここは我々も宇宙へあがるか……」
+Các xu hướng cũng thú vị. Chúng ta cũng nên đi đến vũ trụ à..."
+
+@41088 Ryoma · リョウ
+> 「賛成だ。どのみち奴らが
+>  地上から引きあげた以上
+"Tôi đồng ý. Dù sao thì những kẻ đó đã bị loại khỏi mặt đất.
+---
+>  決着は宇宙でつけることに
+>  なるんじゃないのか?」
+Cuối cùng, chúng ta phải đặt dấu chấm hết cho vũ trụ, phải không? "
+
+@41089 Ark · アーク（按段落 3DD1）
+> 「ああ、そう思うな。アムロさん、
+>  俺たちも宇宙へあがりましょう
+"Ừ, tôi cũng nghĩ vậy. Anh Amuro, chúng ta hãy cùng đi vào vũ trụ nhé,
+---
+>  その方が状況に対応できる」
+Tốt hơn là nên thích nghi theo cách đó. "
+
+@41090 Selain · セレイン（按段落 3DD2）
+> 「確かにな。そのほうが
+>  対応もしやすいか」
+"Đúng vậy. Việc đó cũng dễ giải quyết hơn."
+
+@41091 Brad · ブラッド（按段落 3DD3）
+> 「フッ、そいつは正論ってやつだな。
+>  いいぜ、俺たちも
+“哼,这话说得在理。好,那我们也
+---
+>  宇宙へあがろうじゃないか」
+Đi đến vũ trụ. "
+
+@41092 Manami · マナミ（按段落 3DD4）
+> 「そうね……そうかもしれない。
+>  あたしたちも宇宙へあがりましょう」
+"Ừ...đúng rồi. Chúng ta cũng hãy đi vào vũ trụ nhé."
+
+@41093 Amuro · アムロ
+> 「わかった。アラン、ブライトや
+>  他のみんなにも話をしてこよう
+"Được rồi. Alan, tôi sẽ đi nói với Brett và những người khác.
+---
+>  大尉、それでいいか?」
+Đội trưởng, anh nghĩ thế có ổn không? "
+
+@41094 Quattro · クワトロ
+> 「私はかまわんよ」
+"Tôi không có vấn đề gì với điều đó."
+
+@41095 Gorman · ゴーマン
+> 「陛下、報告いたします。
+>  例の地球人どもの通信の
+“Bệ hạ, Rong Chen báo cáo. Những thông tin liên lạc từ người dân trên Trái đất
+---
+>  内容が兵士たちに伝わり、
+>  各部隊内で混乱が
+内容传到了士兵耳中,各部队内部
+---
+>  起きております。一部では
+>  脱走兵と、それを制止
+đã rơi vào hỗn loạn. Người ta báo cáo rằng ở một số nơi, những kẻ đào ngũ và
+---
+>  しようとした士官との間で
+>  戦闘が発生した模様です」
+Những sĩ quan đến ngăn cản anh ta cũng bắt đầu đánh nhau. "
+
+@41096 Wahl · ワール
+> 「……なんということだ。
+>  しかしズール皇帝
+"...Làm sao chuyện này có thể như vậy được? Nhưng Hoàng đế Zulu,
+---
+>  奴らのいっていたことは
+>  真実なのでしょうか? 我々は
+Những điều họ nói có đúng không? chúng tôi
+---
+>  本当に本国への帰還の道を
+>  断たれてしまったのですか!?」
+真的已经回不了本国了吗! ? "
+
+@41097 Blacky · ブラッキー
+> 「そ、それは実証済みです、
+>  ワール司令。試しにいくつかの
+“Điều đó, điều đó đã được xác nhận, Chỉ huy Val. Chúng tôi đã thử nhiều tàu rồi.”
+---
+>  艦艇を本国へワープさせましたが、
+>  いまだ返答がなく……」
+Tàu đã nhảy về quê hương nhưng vẫn chưa có phản hồi…”
+
+@41098 Emperor Zuul · ズール皇帝
+> 「……地球人どもめ……ワール、
+>  貴様たちの作戦の
+"...những người Trái đất đó... Val, tất cả là lỗi của cậu khi chiến đấu.
+---
+>  失敗のせいだということは、
+>  理解しておるだろうな
+失败, 这一点你该明白吧。
+---
+>  ワシがあれほど気にしておったわけが、
+>  これでわかったか」
+Bây giờ bạn đã hiểu tại sao ngay từ đầu tôi lại quan tâm nhiều đến vậy. "
+
+@41099 Wahl · ワール
+> 「皇帝陛下、では我々は……」
+"Hoàng thượng bệ hạ, vậy chúng ta..."
+
+@41100 Emperor Zuul · ズール皇帝
+> 「案ずる必要はない。ワシがおれば
+>  そこが銀河帝国の本拠地
+"Đừng lo lắng. Chỉ cần tôi còn ở đây, đây là căn cứ của Đế chế Thiên Hà.
+---
+>  これからは地球を第2の
+>  ギシン星とすればよいのだ」
+Từ giờ trở đi, hãy coi trái đất là ngôi sao dị chấn thứ hai. "
+
+@41101 Gorman · ゴーマン
+> 「しかし陛下……国へもどれぬとなった
+>  兵士たちの士気はいちじるしく
+“Nhưng thưa bệ hạ…tinh thần của những người lính không thể trở về nhà là…
+---
+>  低下しております
+>  脱走兵、反乱兵は
+Trầm cảm trầm trọng, đào ngũ, nổi loạn
+---
+>  増加していくと予想されますが……」
+Dự kiến sẽ tiếp tục tăng..."
+
+@41102 Emperor Zuul · ズール皇帝
+> 「愚か者どもめ。粛清せよ。
+>  ワシの言葉に従えぬ者には
+"Đồ ngốc. Xóa tất cả chúng. Những ai không vâng lời tôi,
+---
+>  死あるのみだ」
+Chỉ có một cách để chết. "
+
+@41103 Janera · ジャネラ
+> 「お、お待ちください陛下!
+>  それはあまりにも……」
+“Xin, xin hãy đợi đã, Bệ hạ!这未免太…”
+
+@41104 Emperor Zuul · ズール皇帝
+> 「黙れ! くだらぬことでうろたえおって。
+>  お前たちはこのワシのいうとおりにして
+"Im đi! Hoảng sợ vì một điều tầm thường như vậy.
+---
+>  おればよいのだ。これ以上ワシの手を
+>  わずらわすことは許さん。兵士どもが
+去做便是。 Đừng làm phiền tôi những chuyện này nữa. Nếu binh lính nói rằng họ không thể chiến đấu,
+---
+>  戦えぬというのなら、戦えるようにして
+>  やるだけのこと。よいか、兵士どもには
+Cứ để họ chiến đấu đi.
+---
+>  そのちっぽけな命が果てるまで
+>  戦わせるのだ! ワーッハハハハーッ!!」
+Chiến đấu cho đến khi cuộc sống nhỏ bé đó kết thúc! Ôi - hahahaha -! ! "
+
+@41105 Beltorchika · ベルトーチカ
+> 「ピースミリオン確認。
+>  ランデブーは予定通りです」
+“Mir đã được xác nhận. Cuộc hẹn diễn ra đúng như dự định. "
+
+@41106 Bright · ブライト
+> 「よし、接舷用意だ」
+"Được rồi, chuẩn bị đón tàu."
+
+@41107 Howard · ハワード
+> 「ようやく宇宙にもどってきたか。
+>  それにしても“刻印”といったか
+"Cuối cùng đã trở lại vũ trụ. Nhắc mới nhớ, thứ được gọi là 'khắc',
+---
+>  あれが宇宙に出てきた時には
+>  この世の終わりかと思ったわい」
+Khi nó xuất hiện trong vũ trụ, tôi tưởng ngày tận thế sắp đến. "
+
+@41108 Bright · ブライト
+> 「ピースミリオンは無事だったようですね
+>  しかしあの乗員たちはいったい……」
+“Có vẻ như Mir vẫn an toàn. Nhưng những thành viên phi hành đoàn đó là..."
+
+@41109 Howard · ハワード
+> 「破壊されたコロニーからの
+>  脱出者たちのシャトルをひろってな
+“Chúng tôi nhặt được tàu con thoi thoát khỏi vệ tinh thuộc địa bị phá hủy.
+---
+>  放り出すわけにもいかんだろう」
+Bạn không thể để họ một mình. "
+
+@41110 Quatre · カトル
+> 「……あれは、まさか……トロワ!?」
+“…Đó là, có lẽ nào… Trowa! ? "
+
+@41111 Duo · デュオ
+> 「なんだって? あいつが
+>  ピースミリオンにいるのか?」
+"Cái gì? Anh chàng đó ở trên Mir? "
+
+@41112 Hilde · ヒルデ
+> 「その人もデュオの仲間なの?」
+"Người đó cũng là bạn đồng hành của Dio sao? "
+
+@41113 Duo · デュオ
+> 「ああ……まぁ、そんなところだ。しかし
+>  カトル、見間違いじゃないのか?」
+"À... à, đúng rồi. Nhưng Cartel, bạn đọc đúng không? "
+
+@41114 Quatre · カトル
+> 「今のは間違いありません。
+>  トロワ、生きていたんだ……!」
+“Tôi chắc chắn đã đọc nó ngay bây giờ. Troy, bạn vẫn còn sống...! "
+
+@41115 Quatre · カトル
+> 「トロワッ!」
+"Troy!"
+
+@41116 Trowa · トロワ
+> 「……カ……トル……?」
+“...Ka...Điện thoại...? "
+
+@41117 Quatre · カトル
+> 「トロワ、無事だったんだね!
+>  よかった……」
+“Troy, cậu ổn chứ?太好了……”
+
+@41118 Trowa · トロワ
+> 「うっ……」
+"Ờ..."
+
+@41119 Quatre · カトル
+> 「トロワ……?」
+"Troy...?"
+
+@41120 Cathrine · キャスリン
+> 「ちょっとあなたたち、何やってるの!
+>  トロワはまだ調子が
+"Này các bạn, các bạn đang làm gì vậy!
+---
+>  よくなってはいないんだからッ!」
+还没恢复呢! "
+
+@41121 Quatre · カトル
+> 「どういうことなんですか?」
+"Chuyện gì đang xảy ra vậy?"
+
+@41122 Cathrine · キャスリン
+> 「トロワはずっと記憶喪失
+>  だったのよ! あなたたちはトロワの
+“Troy bị mất trí nhớ và vẫn chưa hồi phục! Bạn có thể là bạn đồng hành cũ của anh ấy,
+---
+>  昔の仲間なんでしょうけど、
+>  これ以上トロワを苦しめないで!
+Đừng tra tấn Troy nữa!
+---
+>  この艦に助けられてからだって、
+>  しかたなく戦ってただけなんだから!」
+Sau khi được con tàu này cứu, anh chỉ chiến đấu như một phương sách cuối cùng! "
+
+@41123 Duo · デュオ
+> 「記憶喪失だってぇ!?」
+“失忆! ? "
+
+@41124 Roux · ルー
+> 「どうしてそんなことに
+>  なっちゃってるわけ!?」
+“Sao có thể thành ra thế này được!?”
+
+@41125 Trowa · トロワ
+> 「姉さん……」
+"Chị..."
+
+@41126 Cathrine · キャスリン
+> 「大丈夫よ、トロワ。
+>  さぁ、向こうへいって休みましょう」
+"Không sao đâu Troy. Nào, qua đó nghỉ ngơi đi."
+
+@41127 Quatre · カトル
+> 「そんな、トロワが……僕のせいなんだ……
+>  僕の……」
+"Sao có thể được, Troy...tất cả là lỗi của tôi...là lỗi của tôi..."
+
+@41128 Duo · デュオ
+> 「なんだよ、いったいどうなってるんだ?
+>  おいカトル!?」
+"Cái quái gì vậy, chuyện gì đang xảy ra vậy? Này, cartel!?"
+
+@41129 Heero · ヒイロ
+> 「放っておいてやれ」
+"Hãy để anh ấy yên."
+
+@41130 Roux · ルー
+> 「なによヒイロ、あんた何か知ってるの?」
+"Anh đang làm gì vậy, Hiro, anh có biết gì không?"
+
+@41131 Heero · ヒイロ
+> 「聞いてどうする」
+"Vậy nếu tôi biết thì sao."
+
+@41132 Duo · デュオ
+> 「いや、どうするっていわれても……」
+"Chà, ngay cả khi bạn hỏi tôi muốn gì ..."
+
+@41133 Noin · ノイン
+> 「……トロワは、カトルに撃墜されて、
+>  行方不明になっていたのだ」
+"... Trova đã bị băng đảng bắn hạ và không rõ tung tích của anh ta kể từ đó."
+
+@41134 Duo · デュオ
+> 「あん? 撃墜?」
+"Hả? Bị bắn hạ?"
+
+@41135 Noin · ノイン
+> 「そうだ」
+"Đúng vậy."
+
+@41136 Duo · デュオ
+> 「あんたも知ってたのかよ」
+“Anh cũng đã biết chuyện này rồi à?”
+
+@41137 Noin · ノイン
+> 「私はカトルから聞いただけだ。
+>  ヒイロは当事者だがな
+“Tôi chỉ nghe chuyện này từ băng đảng. Anh hùng có liên quan.
+---
+>  ゼロシステムに取りこまれたカトルは、
+>  すべての存在を敵とみなし
+Cartel đã bị hệ thống Zero nuốt chửng và coi mọi thứ như kẻ thù.
+---
+>  コロニーをも破壊した。
+>  ヒイロとトロワはそれを止めに入り……」
+Ngay cả các vệ tinh thuộc địa cũng bị phá hủy. Anh hùng và thành Troy đã đến ngăn chặn anh ta ..."
+
+@41138 Duo · デュオ
+> 「トロワはやられたってわけだ。
+>  あいつのことだ
+“Cuối cùng Troy đã bị giết. Với tính khí của gã đó,
+---
+>  カトルに攻撃なんて、
+>  できなかっただろうからな」
+Chắc chắn không có cách nào để hành động chống lại các cartel. "
+
+@41139 Roux · ルー
+> 「そんなことがあったなんて……」
+"Đã xảy ra chuyện như vậy..."
+
+@41140 Duo · デュオ
+> 「そうか……カトルがなぁ……」
+"Chính là... cartel..."
+
+@41141 Heero · ヒイロ
+> 「ああ。しかたのないことだ」
+"Ừ. Chúng tôi không thể làm gì được."
+
+@41142 Duo · デュオ
+> 「にしても、わざわざ
+>  ヘビーアームズを改修までして
+“Nói mới nhớ, thực ra tôi đã sửa đổi Heavy Gundunda.
+---
+>  艦の防衛にまわすなんざ、
+>  ハワードのおっさんらしいぜ」
+Dùng để bảo vệ tàu thuyền, rất thích phong cách của chú Howard. "
+
+@41143 Heero · ヒイロ
+> 「あいつが十分に戦えるなら
+>  問題はない」
+“Chỉ cần anh ấy vẫn có thể chơi được thì sẽ ổn thôi.”
+
+@41144 Duo · デュオ
+> 「ま、そりゃそうなんだけどな。
+>  そういえばお前聞いたか、ヒイロ
+"Ừ đúng rồi. Nhân tiện, cậu có nghe nói gì không, Hiro?
+---
+>  リリーナ・ピースクラフトが
+>  リーブラにいるらしいぜ」
+Lilina Peacecraft dường như đang ở Libra. "
+
+@41145 Heero · ヒイロ
+> 「……リリーナが? そうか……」
+"...Lilina? Vậy sao..."
+
+@41146 Ark · アーク（按段落 3DD1）
+> 「ん? いま出ていったのは、ヒイロか?
+>  おいデュオ、何をやってるんだ!?
+"À? Có phải Hiro là người vừa ra ngoài không? Này, Dio, cậu đang làm gì vậy!?
+---
+>  ヒイロはどうした!?」
+Chuyện gì đã xảy ra với Anh hùng! ? "
+
+@41147 Selain · セレイン（按段落 3DD2）
+> 「なんだ、誰が発進する? ヒイロか?
+>  デュオ、あいつはいったい何のつもりだ?」
+"Chuyện gì đang xảy ra vậy? Ai đã tấn công? Anh hùng? Dio, tên đó muốn làm cái quái gì vậy?"
+
+@41148 Brad · ブラッド（按段落 3DD3）
+> 「あん? なんだって今ごろ出てく奴が
+>  いるんだ? っておい、ありゃ……
+"Huh? Tại sao lại có người ra ngoài vào lúc này? Đợi đã, đó không phải là...
+---
+>  ヒイロじゃねぇか。
+>  おいデュオ、どういうことだよ!?」
+Có phải Anh hùng không? Này, Dio, chuyện gì đang xảy ra vậy! ? "
+
+@41149 Lawrence · ローレンス
+> 「おや? お嬢様、どなたか発進
+>  されるようですな」
+"Ồ? Cô ơi, hình như có người đang tấn công."
+
+@41150 Manami · マナミ（按段落 3DD4）
+> 「まさか……ヒイロじゃないの?
+>  ちょっとデュオ、いったいどういうこと?
+“Có lẽ nào...có phải là Hiro không? Này, Dio, chuyện gì đang xảy ra vậy?
+---
+>  ヒイロはどこへいくの!?」
+Anh Hùng đi đâu thế? ? "
+
+@41151 Duo · デュオ
+> 「あのバカ、リーブラに行っちまったぜ。
+>  いっとくけど、
+“Tên ngốc đó đã đến Libra rồi, chúng ta nói chuyện trước nhé.
+---
+>  俺はいちおう止めたからな。まさか
+>  あいつが、あそこまであのお嬢さんに
+Tôi đã ngăn anh ta lại. Tôi thực sự không ngờ rằng anh chàng đó sẽ thực sự đối xử với cô gái trẻ đó
+---
+>  ほれてるとはねぇ……」
+Bị ám ảnh đến mức đó..."
+
+@41152 Ryoma · リョウ
+> 「……博士、少し休まなくて
+>  大丈夫ですか? もう3日も
+“…Bác sĩ, sao ông không nghỉ ngơi? Đã ba ngày rồi.
+---
+>  寝てないでしょう」
+Tôi chưa hề chợp mắt một chút nào. "
+
+@41153 Dr. Saotome · 早乙女博士
+> 「なに、たいしたことはないわ。実験
+>  準備完了まで、もう少しじゃ
+"Không có gì, không có gì cản trở. Chúng ta vẫn còn một chút nữa mới hoàn thành thí nghiệm.
+---
+>  それより演算済みのデータは、
+>  どんどんこっちに送ってくれよ」
+Đừng lo lắng về điều này bây giờ, chỉ cần gửi dữ liệu tính toán cho tôi. "
+
+@41154 Hayato · ハヤト
+> 「……了解」
+“…Hiểu rồi.”
+
+@41155 Ryoma · リョウ
+> 「しかし、ゲッターGと真ゲッターの
+>  増幅炉を直結して、実験を
+"Tuy nhiên, chúng ta có thể kết nối trực tiếp các lò khuếch đại Getter G và True Getter rồi bắt đầu lại thử nghiệm.
+---
+>  再開するとはな……」
+Thật tiếc là bạn đã phát hiện ra điều đó…”
+
+@41156 Tetsuya · 鉄也
+> 「ゲッターのエネルギーを、真ゲッターに
+>  注ぎこむってわけか。しかし、いま
+“Chỉ là đổ năng lượng của Geta vào Geta thật thôi phải không?
+---
+>  何かあったら、ゲッターは使えんぞ」
+Nếu có chuyện gì xảy ra, Gaita sẽ trở nên vô dụng. "
+
+@41157 Ryoma · リョウ
+> 「その時は、みんなにまかせるさ。俺は、
+>  いや俺たちは、なんとか真ゲッターを
+“Khi đó, việc đó sẽ được giao cho tất cả mọi người. Tôi, không, chúng tôi, dù thế nào đi nữa, cũng muốn thực sự xây dựng tòa tháp.”
+---
+>  動かしたいんだ。真ゲッターのパワーが
+>  あれば、戦いをぐっと有利にできる」
+Hãy di chuyển. Chỉ cần chúng ta có được sức mạnh của Zhen Geta, tình thế chiến đấu sẽ có lợi rất lớn cho chúng ta. "
+
+@41158 Dr. Saotome · 早乙女博士
+> 「よし……インプット完了じゃ。
+>  モニターに注意してくれ。危険な
+"Được rồi... nhập liệu đã hoàn thành. Chú ý màn hình. Một khi nguy hiểm."
+---
+>  兆候が見えたら、すぐに接続を
+>  切るんだ。いいな」
+Nếu có bất kỳ dấu hiệu nào hãy cắt kết nối ngay lập tức. Hiểu chưa? "
+
+@41159 Hayato · ハヤト
+> 「了解……」
+"Đã hiểu..."
+
+@41160 Hayato · ハヤト
+> 「うわっ!? こ……こいつはすげえ!
+>  何てぇパワーだ……どんどんゲージが
+"Wow!? Điều này... điều này thực sự không thể tin được! Sức mạnh mạnh mẽ như vậy... Giá trị của máy đo không ngừng tăng lên
+---
+>  上がっていく……」
+Lên đi..."
+
+@41161 Dr. Saotome · 早乙女博士
+> 「よし、いいぞ……
+>  やはり思った通りじゃ!
+“Được rồi, không tệ…đúng như những gì tôi nghĩ!
+---
+>  ハヤト、もういい。接続を落とせ」
+Hayato, thế thôi. Cắt kết nối. "
+
+@41162 Hayato · ハヤト
+> 「了解…………
+"Đã hiểu...
+---
+>  くっ!?」
+Ờ! ? "
+
+@41163 Dr. Saotome · 早乙女博士
+> 「何じゃ、どうした!?」
+"Sao vậy? Chuyện gì đã xảy ra vậy!?"
+
+@41164 Hayato · ハヤト
+> 「博士、接続が切れません!」
+"Bác sĩ, mối liên hệ là vô tận!"
+
+@41165 Dr. Saotome · 早乙女博士
+> 「これは……真ゲッターとゲッターGが、
+>  呼応しあっているのか……!?」
+"Đây có phải... Geta và Geta G thật, đang vang vọng lẫn nhau...!?"
+
+@41166 Hayato · ハヤト
+> 「いかん! 博士、こいつはヤバイ!
+>  制御が、制御がきかねぇ!」
+"Ôi! Bác sĩ, chuyện này không ổn! Kiểm soát, tôi không thể kiểm soát được!"
+
+@41167 Dr. Saotome · 早乙女博士
+> 「何じゃと!? こっちにまわせ!
+>  ……くっ……い、いかん!
+"Cái gì!? Quay sang phía tôi!...Ừm...Không, không!"
+---
+>  みんな、ここから離れるんじゃ!」
+Mọi người, hãy ra khỏi đây! "
+
+@41168 Hayato · ハヤト
+> 「博士も退避してください!」
+"Bác sĩ, xin hãy rút lui nhanh chóng! "
+
+@41169 Dr. Saotome · 早乙女博士
+> 「バカもん! ここで暴走させてみろ、
+>  ガンドールごと大爆発だぞ!
+"Đồ ngốc! Nếu nó nổi điên ở đây, toàn bộ Gondor sẽ nổ tung!
+---
+>  何としても止めんと……!」
+Dù thế nào đi nữa cũng phải dừng lại...! "
+
+@41170 Hayato · ハヤト
+> 「だったら、ここは俺が!」
+"Vậy để tôi làm nhé! "
+
+@41171 Dr. Saotome · 早乙女博士
+> 「バカなことをぬかすな! だ、だめだ!
+>  間に合わん……!」
+"Đừng nói những điều ngu ngốc! Không, không! Đã quá muộn rồi...! "
+
+@41172 Ryoma · リョウ
+> 「ハヤト! 早乙女博士!?」
+"Hayato! Tiến sĩ Saotome! ? "
+
+@41173 Dr. Saotome · 早乙女博士
+> 「……う……、うう……」
+"...Ờ...wuwu..."
+
+@41174 Hayato · ハヤト
+> 「博士! 大丈夫ですか!?」
+"Bác sĩ! Bạn có ổn không? ? "
+
+@41175 Dr. Saotome · 早乙女博士
+> 「むう、し、心配いらん……。
+>  どうやら、助かったらしいな……
+"Chà, không, đừng lo lắng...có vẻ như tôi đã cứu mạng mình rồi...
+---
+>  とんだ事になるところだった、すまん……」
+Nó gần như đã gây ra thảm họa, tôi xin lỗi…”
+
+@41176 Hayato · ハヤト
+> 「とんでもない、無事でよかった……」
+"Bất cứ nơi nào tôi đi, tôi hy vọng bạn được an toàn ..."
+
+@41177 Dr. Saotome · 早乙女博士
+> 「そ、それよりゲッターは……、
+>  ゲッターはどうなったんじゃ……?
+“Trước tiên đừng lo lắng về điều này, Geta… Geta thế nào rồi…?
+---
+>  お……、おお、これは……!!」
+Ồ... ồ ồ, đây là...! ! "
+
+@41178 Ryoma · リョウ
+> 「ゲッターGが……俺たちのゲッターが
+>  大破しちまったのか!?」
+"Geta G... Geta của chúng ta có bị phá hủy hoàn toàn không? ? "
+
+@41179 Benkei · ベンケイ
+> 「いや……リョウ、見ろ!
+>  真ゲッターが……
+"Không... Ryoma, nhìn này! Đúng là Getta...
+---
+>  真ゲッターが起動してるぞ!」
+Getta thật đã được kích hoạt! "
+
+@41180 Hayato · ハヤト
+> 「何だと!?」
+"Cái gì!?"
+
+@41181 Dr. Saotome · 早乙女博士
+> 「まさか……わからん、なぜこんなことが……」
+“Làm sao có thể…Tôi không thể hiểu tại sao điều này lại xảy ra…”
+
+@41182 Hayato · ハヤト
+> 「真ゲッターが……ゲッターGの命を
+>  吸ったのか……」
+"Geta thật... nó đã cướp đi mạng sống của Geta G sao...?"
+
+@41183 Ryoma · リョウ
+> 「真ゲッターが、目覚めた……。
+>  ようし、これで銀河帝国の奴らに
+"Zhen Geta, đã thức tỉnh...Được rồi, bây giờ chúng ta có thể khiến những kẻ đến từ Đế chế Thiên Hà
+---
+>  一泡吹かせてやれるぜ!」
+Thật là một mất mát lớn! "
+
+@41184 Dr. Saotome · 早乙女博士
+> 「な、何じゃと!? い、いかん!
+>  何をバカなことをいっとるんだ!」
+“Cái, cái gì! ? Không, không! Bạn đang nói vớ vẩn gì vậy! "
+
+@41185 Benkei · ベンケイ
+> 「どうしてです? 一時はどうなるかと
+>  思ったが、とにかく真ゲッターが
+"Tại sao? Tôi tưởng vừa rồi mọi chuyện sẽ kết thúc, nhưng dù sao, tôi thực sự đã xây được tòa tháp.
+---
+>  動かせるんだ。良かったじゃないですか」
+Có khả năng di chuyển. Đây không phải là một điều tốt sao? "
+
+@41186 Dr. Saotome · 早乙女博士
+> 「いま目の前で起こったことを、
+>  もう忘れたのか! 動いたとはいえ
+"Vừa rồi chuyện gì xảy ra trước mắt, ngươi nhanh như vậy quên sao? Mặc dù nó đang di chuyển,
+---
+>  真ゲッターの正体は、まだほとんど
+>  わかっておらん。危険すぎる!
+Chúng ta vẫn hầu như không biết gì về True Geta là gì. Quá nguy hiểm!
+---
+>  こいつを使用する許可などできん!」
+Không đời nào tôi lại chấp thuận việc sử dụng anh chàng này! "
+
+@41187 Hayato · ハヤト
+> 「ふ……。しかしまあ、動くには動いたん
+>  だ。戦いにはこれで十分でしょう」
+“Hmph... Nhưng đã đến lúc phải di chuyển rồi. Để chiến đấu, thế là đủ. "
+
+@41188 Dr. Saotome · 早乙女博士
+> 「お、お前までそんなことを……」
+“Anh, ngay cả anh cũng nói những điều như vậy…”
+
+@41189 Ryoma · リョウ
+> 「博士、俺たちには、こいつが必要
+>  なんです」
+"Bác sĩ, chúng tôi cần anh chàng này. "
+
+@41190 Benkei · ベンケイ
+> 「何しろゲッターは、壊れちまったしな」
+"Rốt cuộc thì tòa tháp đã bị hỏng."
+
+@41191 Dr. Saotome · 早乙女博士
+> 「し、しかし……」
+“N-nhưng…”
+
+@41192 Ryoma · リョウ
+> 「大丈夫です、早乙女博士。
+>  俺たちに伝わってくる……
+"Đừng lo lắng, bác sĩ Saotome. Chúng tôi có thể cảm nhận được nó...
+---
+>  真ゲッターが俺たちに乗れといって
+>  いる。やらせてください、博士
+Zhen Geta đang kêu gọi chúng ta lái nó. Xin hãy để chúng tôi thử nó, Bác sĩ.
+---
+>  俺たちだって、昔の俺たちとは
+>  違います!」
+Chúng ta không còn như trước nữa! "
+
+@41193 Dr. Saotome · 早乙女博士
+> 「……わかった、好きにせい! ただし、
+>  扱いには十分気をつけるんじゃ」
+"...Được rồi, tùy cậu! Tuy nhiên, hãy cẩn thận khi vận hành."
+
+@41194 Hayato · ハヤト
+> 「もちろんですよ」
+"Tất nhiên."
+
+@41195 Ryoma · リョウ
+> 「真ゲッターよ、よろしく頼むぜ!」
+"Việc thực sự có được nó là tùy thuộc vào bạn!"
+
+@41196 Ark · アーク（按段落 3DD1）
+> 「銀河帝国軍のいるはずの
+>  宙域に戦闘光が
+"Khu vực không gian nơi Quân đội Đế quốc Thiên hà tọa lạc dường như là
+---
+>  確認されたみたいですね。やっぱり、
+>  帰れなくなったと知った兵士たちの
+Những tia chớp của trận chiến đã được quan sát thấy. Có vẻ như những người lính biết rằng họ không thể trở về nhà,
+---
+>  士気は相当低下していると
+>  考えていいでしょう」
+Tinh thần đã xuống rất thấp rồi. "
+
+@41197 Bright · ブライト
+> 「ふむ……すると連中は
+>  動かなかったのではなく
+“Hmm... Vậy không phải là họ không di chuyển.
+---
+>  動けない状態にあるとも
+>  考えられるな」
+Nhưng anh không thể di chuyển. "
+
+@41198 Ark · アーク（按段落 3DD1）
+> 「そう思いますね。ただ、
+>  混乱が収まるまでの間でしょう
+“Tôi cũng nghĩ vậy. Nhưng, đó là cho đến khi sự hỗn loạn lắng xuống.
+---
+>  どのくらい動かずにいてくれるかは、
+>  わかりませんよ」
+Thật khó để nói họ có thể ở lại được bao lâu. "
+
+@41199 Amuro · アムロ
+> 「ホワイトファングを叩いておけるとしたら
+>  今しかないということか」
+“Nói cách khác, thời điểm duy nhất để đánh bại Nanh Trắng là bây giờ.”
+
+@41200 Kamille · カミーユ
+> 「リーブラの主砲は地球を
+>  直接ねらえるそうじゃないですか
+“Tôi nghe nói súng chính của Libra có thể nhắm thẳng vào trái đất.
+---
+>  彼らがコロニーを攻撃するとは
+>  思えないけど、あとあと脅威と
+Họ không nên tấn công các vệ tinh thuộc địa, nhưng vì chúng chắc chắn sẽ là mối đe dọa trong tương lai,
+---
+>  なるのが間違いないなら、トレーズの
+>  動きにあわせるほうが現実的ですね」
+Sẽ thực tế hơn nếu hợp tác với Teles. "
+
+@41201 Bright · ブライト
+> 「そうだな……やはり我々も
+>  リーブラへ向かうしかないか……」
+"Ừ...có vẻ như chúng ta chỉ có thể đến Libra..."
+
+@41202 Ark · アーク（按段落 3DD1）
+> 「問題はクスコの時と同じように、
+>  またトレーズと協力するべきなのかって
+“Câu hỏi đặt ra là chúng ta có nên hợp lực với Telles như đã làm ở Cusco không?
+---
+>  ことでしょう。それと、ハマーンの動きが
+>  見えないのも、妙なところです」
+Ngoài ra, bên cạnh Haman không hề có động tĩnh gì, điều này cũng rất kỳ lạ. "
+
+@41203 Amuro · アムロ
+> 「確かに……だがトレーズは
+>  すでにOZを動かしている
+"Đúng vậy...nhưng Telles đã huy động OZ.
+---
+>  ホワイトファングにしかけるなら、あとは
+>  状況を見て変えていくしかないな」
+Nếu muốn chiến đấu với Nanh Trắng, bạn sẽ phải thích nghi với hoàn cảnh. "
+
+@41204 Bright · ブライト
+> 「ふむ……それでいくしかないようだな。
+>  {HeroNick}、他の連中を
+"Chà...có vẻ như điều duy nhất chúng ta có thể làm là thế này. {HeroNick}, đặt những người khác
+---
+>  集めておいてくれ。我々は
+>  リーブラへ向かう」
+Triệu tập. Chúng tôi hướng tới Libra. "
+
+@41205 Amuro · アムロ
+> 「どうだった、{HeroNick}?」
+"Thế thì sao, {HeroNick}?"
+
+@41206 Selain · セレイン（按段落 3DD2）
+> 「やはり戦闘光に
+>  間違いないようです」
+"Đó chắc chắn là một trận chiến chớp nhoáng."
+
+@41207 Amuro · アムロ
+> 「銀河帝国軍がいると
+>  考えられる宙域だったな」
+“Miền không gian đó hẳn là nơi quân đội của Đế chế Thiên hà đóng quân.”
+
+@41208 Selain · セレイン（按段落 3DD2）
+> 「ええ。国にもどれなくなったと知った
+>  兵士たちの士気の低下ぶりは
+"Ừ. Có vẻ như những người lính đã biết rằng họ không thể trở về nhà,
+---
+>  我々の予想以上だと
+>  いうことでしょう」
+Tinh thần đã sa sút hơn chúng tôi nghĩ. "
+
+@41209 Bright · ブライト
+> 「ふむ……すると連中は
+>  動かなかったのではなく
+“Hmm... Vậy không phải là họ không di chuyển.
+---
+>  動けない状態にあるものと
+>  考えられるな」
+Nhưng anh không thể di chuyển. "
+
+@41210 Selain · セレイン（按段落 3DD2）
+> 「でしょうね。しかしあれだけのことを
+>  してきた軍勢です
+“Có lẽ vậy. Nhưng đó là một đội quân đã gây ra ồn ào lớn như vậy.
+---
+>  混乱も長くは続かないでしょう。
+>  近いうちに、またしかけてくるはずです」
+Sự hỗn loạn sẽ không kéo dài lâu. Họ chắc chắn sẽ tấn công lần nữa trong thời gian tới. "
+
+@41211 Amuro · アムロ
+> 「……ホワイトファングを叩いて
+>  おけるとしたら、今しかないということか」
+“...Nói cách khác, thời điểm duy nhất để đánh bại Nanh Trắng là bây giờ. "
+
+@41212 Kamille · カミーユ
+> 「リーブラの主砲は地球を
+>  直接ねらえるそうじゃないですか
+“Tôi nghe nói súng chính của Libra có thể nhắm thẳng vào trái đất.
+---
+>  彼らがコロニーを攻撃するとは
+>  思えないけど、あとあと脅威と
+Họ không nên tấn công các vệ tinh thuộc địa, nhưng vì chúng chắc chắn sẽ là mối đe dọa trong tương lai,
+---
+>  なるのが間違いないなら、トレーズの
+>  動きにあわせるほうが現実的ですね」
+Sẽ thực tế hơn nếu hợp tác với Teles. "
+
+@41213 Bright · ブライト
+> 「そうだな……やはり我々も
+>  リーブラへ向かうしかないか……」
+"Ừ...có vẻ như chúng ta chỉ có thể đến Libra..."
+
+@41214 Selain · セレイン（按段落 3DD2）
+> 「ホワイトファングを叩くべきなのは
+>  間違いないでしょうが
+“Đã đến lúc bắn những chiếc răng nanh trắng,
+---
+>  クスコの時と同様に
+>  トレーズと協力すべきなのかについては
+Nhưng bạn có muốn hợp tác với Telles như lần đó ở Cusco không?
+---
+>  別の問題です。ハマーンとアクシズの
+>  動きが見えないのも気にかかります」
+Đó là một câu chuyện khác. Haman và Axis im lặng và không mấy hứng thú. "
+
+@41215 Amuro · アムロ
+> 「確かに……だがトレーズは
+>  すでにOZを動かしている
+"Đúng vậy...nhưng Telles đã huy động OZ.
+---
+>  ホワイトファングにしかけるなら、あとは
+>  状況を見て変えていくしかないな」
+Nếu muốn chiến đấu với Nanh Trắng, bạn sẽ phải thích nghi với hoàn cảnh. "
+
+@41216 Bright · ブライト
+> 「ふむ……それでいくしかないようだな。
+>  {HeroNick}、他の連中を
+"Chà...có vẻ như điều duy nhất chúng ta có thể làm là thế này. {HeroNick}, đặt những người khác
+---
+>  集めておいてくれ。我々は
+>  リーブラへ向かう」
+Triệu tập. Chúng tôi hướng tới Libra. "
+
+@41217 Brad · ブラッド（按段落 3DD3）
+> 「戦闘光が見えたって?」
+“Anh nói anh nhìn thấy ánh chớp của trận chiến? "
+
+@41218 Ryoma · リョウ
+> 「ああ、間違いない。銀河
+>  帝国軍がいると思われる宙域だ」
+"À, đúng rồi. Đây là khu vực không gian đáng lẽ phải có Quân đội Đế quốc Thiên hà. "
+
+@41219 Koji · 甲児
+> 「なんだよ、どういうことだ?
+>  どこかが奴らにしかけてるのか?」
+"Chuyện gì đang xảy ra vậy, chuyện gì đang xảy ra vậy? Có ai tấn công những kẻ đó không? "
+
+@41220 Hayato · ハヤト
+> 「いや……そうじゃないだろうな」
+"Không...có lẽ là không. "
+
+@41221 Sayaka · さやか
+> 「じゃ、帝国軍同士での
+>  戦闘があったってこと?」
+"Sau đó, Quân đội Đế quốc bắt đầu tự mình chiến đấu? "
+
+@41222 Brad · ブラッド（按段落 3DD3）
+> 「なんだって、そんなことになるんだ?」
+"Sao có thể trở nên như vậy? "
+
+@41223 Hayato · ハヤト
+> 「俺たちが何をやったのか忘れたのか?
+>  連中はもう帰れない
+"Anh quên việc chúng ta đã làm rồi à? Những kẻ đó không thể quay lại được nữa.
+---
+>  兵士が戦う気をなくしても
+>  不思議じゃない。武器を持った
+Không có gì đáng ngạc nhiên khi những người lính đã mất đi ý chí chiến đấu. cầm vũ khí
+---
+>  兵士が命令を聞かない場合は
+>  戦闘になっても
+Nếu binh lính không tuân theo mệnh lệnh, họ sẽ bắt đầu chiến đấu.
+---
+>  おかしいことではないだろう」
+Không có gì đáng ngạc nhiên. "
+
+@41224 Brad · ブラッド（按段落 3DD3）
+> 「なるほどな……それで連中の
+>  動きがないってわけか」
+“Tôi hiểu rồi... đó là lý do tại sao họ không di chuyển. "
+
+@41225 Alan · アラン
+> 「戦闘光の確認は
+>  それを裏づけていると思う
+"Tôi nghĩ rằng trận chiến được quan sát đã lóe lên, chỉ cần xác nhận điều này.
+---
+>  ホワイトファングを叩いておけるとしたら
+>  今しかないな」
+Thời điểm duy nhất để đánh bại White Fang là bây giờ. "
+
+@41226 Banjo · 万丈
+> 「ああ。リーブラの主砲は地球をも
+>  直接ねらえるほどだという
+"Ừm. Người ta nói rằng súng chính của Libra thậm chí có thể nhắm thẳng vào Trái đất.
+---
+>  コロニー以外のすべてを排除すると
+>  いっている連中が
+Những kẻ đe dọa sẽ quét sạch mọi thứ ngoại trừ các vệ tinh thuộc địa
+---
+>  それを使えるというのは、脅威だ。
+>  ここはトレーズの動きに
+Giữ một cái gì đó như thế này là một mối đe dọa. Tôi nghĩ bây giờ tôi sẽ hợp tác với hoạt động của Teles.
+---
+>  あわせるのが現実的だと僕は思う」
+Đó là cách tiếp cận thực tế. "
+
+@41227 Koji · 甲児
+> 「ってことはオレたちも
+>  リーブラへ向かうってことか?」
+“Điều đó có nghĩa là chúng ta cũng sẽ đến Libra? "
+
+@41228 Brad · ブラッド（按段落 3DD3）
+> 「銀河帝国軍がもめているうちに、
+>  ホワイトファングをつぶすってわけだな
+"Lợi dụng mâu thuẫn nội bộ trong Đế quốc Thiên hà, giết Nanh Trắng phải không?
+---
+>  俺もそいつに賛成だぜ」
+Tôi cũng đồng ý. "
+
+@41229 Banjo · 万丈
+> 「よし、そうと決まったら
+>  行動あるのみだ。{HeroNick}
+"Được rồi, ngươi đã quyết định rồi, hãy hành động ngay lập tức. {HeroNick},
+---
+>  他のみんなも集めてくれ。
+>  僕たちはホワイトファングを叩く」
+Tập hợp những người khác lại với nhau. Hãy đi chiến đấu với Nanh Trắng. "
+
+@41230 Manami · マナミ（按段落 3DD4）
+> 「ローレンス、戦闘光が
+>  見えたんですって?」
+"Lawrence, tôi nghe nói anh đã nhìn thấy ánh chớp của trận chiến? "
+
+@41231 Lawrence · ローレンス
+> 「はい、間違いございません。
+>  確かに銀河帝国軍が
+"Ừ, chắc chắn rồi. Đó thực sự là nơi đáng lẽ phải có của Quân đội Hoàng gia Thiên hà.
+---
+>  いると思われる宙域に
+>  確認されました」
+Được quan sát trong vũ trụ. "
+
+@41232 Koji · 甲児
+> 「なんだよ、どういうことだ?
+>  どこかが奴らにしかけてるのか?」
+"Chuyện gì đang xảy ra vậy, chuyện gì đang xảy ra vậy? Có ai tấn công những kẻ đó không? "
+
+@41233 Hayato · ハヤト
+> 「いや……そうじゃないだろうな」
+"Không...có lẽ là không. "
+
+@41234 Sayaka · さやか
+> 「じゃ、帝国軍同士での
+>  戦闘があったってこと?」
+"Sau đó, Quân đội Đế quốc bắt đầu tự mình chiến đấu? "
+
+@41235 Manami · マナミ（按段落 3DD4）
+> 「ありえないことじゃないわね。
+>  帰れなくなったとわかって
+“Không phải là không thể, sau khi biết được không thể quay về, sĩ khí của binh lính đã xuống thấp trầm trọng.
+---
+>  いちじるしく士気を低下させた
+>  兵士たちをおさえるためかもしれない」
+Có lẽ để trấn áp họ. "
+
+@41236 Lawrence · ローレンス
+> 「さよう、お嬢様の推測は
+>  おそらく間違ってはおらぬでしょう」
+"Đúng vậy, đại tiểu thư phỏng đoán có lẽ không sai."
+
+@41237 Manami · マナミ（按段落 3DD4）
+> 「ええ。それなら撤退後の
+>  彼らの動きがない理由にもなるわ」
+"Ừ. Trong trường hợp đó, nó cũng có thể giải thích tại sao không có chuyển động nào sau khi họ rút lui."
+
+@41238 Alan · アラン
+> 「そうだな。戦闘光の確認は
+>  それを裏づけていると思う
+"Đúng. Trận chiến được quan sát lóe lên, tôi nghĩ, chỉ cần xác nhận điều này.
+---
+>  ホワイトファングを叩いておけるとしたら
+>  今しかないか」
+Thời điểm duy nhất để đánh bại White Fang là bây giờ. "
+
+@41239 Banjo · 万丈
+> 「ああ。リーブラの主砲は地球をも
+>  直接ねらえるほどだという。コロニー
+"Ừm. Người ta nói rằng súng chính của Libra thậm chí có thể nhắm thẳng vào Trái đất. Những băng đảng này đe dọa sẽ dọn sạch
+---
+>  以外のすべてを排除するといって
+>  いる連中がそれを使えるというのは
+Bất kỳ ai khác ngoài các vệ tinh thuộc địa nắm giữ loại thứ này chỉ là một
+---
+>  脅威だ。ここはトレーズの動きに
+>  あわせるのが現実的だと僕は思う」
+Đe dọa. Tôi nghĩ hợp tác với Chiến dịch Telles là cách tiếp cận thực tế hiện nay. "
+
+@41240 Koji · 甲児
+> 「ってことはオレたちも
+>  リーブラへ向かうってことか?」
+“Điều đó có nghĩa là chúng ta cũng sẽ đến Libra? "
+
+@41241 Manami · マナミ（按段落 3DD4）
+> 「そうね……あたしも賛成だわ。銀河
+>  帝国軍も混乱を収めるのにそう
+"Ừ...tôi cũng đồng ý. Có lẽ sẽ không mất nhiều thời gian để Quân đội Đế chế Thiên hà có thể dập tắt sự hỗn loạn.
+---
+>  時間はかからないでしょう。その前に
+>  リーブラを無力化しておきたいわね」
+Bao nhiêu thời gian. Tôi muốn vô hiệu hóa Libra trước đó. "
+
+@41242 Banjo · 万丈
+> 「よし、そうと決まったら
+>  行動あるのみだ。{HeroNick}
+"Được rồi, ngươi đã quyết định rồi, hãy hành động ngay lập tức. {HeroNick},
+---
+>  他のみんなも集めてくれ。
+>  僕たちはホワイトファングを叩く」
+Tập hợp những người khác lại với nhau. Hãy đi chiến đấu với Nanh Trắng. "
+
+@41243 Dorothy · ドロシー
+> 「あれは……まさかヒイロ・ユイ? すごいわ
+>  さすがはリリーナ様のナイト
+"Đó... có lẽ nào là Hiro Wei? Thật mạnh mẽ, xứng đáng là hiệp sĩ của tiểu thư Lilina,
+---
+>  こんなところまでやってくるなんて。
+>  うふふふ、いいですわ、見逃して
+Anh ấy thực sự đã đến một nơi như thế này. Hahaha, được thôi, tôi sẽ bỏ qua
+---
+>  さしあげます。どうするおつもりなのか、
+>  私とっても興味がありますわ」
+Bạn. Bạn định làm gì? Tôi rất tò mò. "
+
+@41244 Relena · リリーナ
+> 「また来たのですか? 何をいわれても
+>  わたくしはこの艦を離れるつもりは……
+"Anh lại ở đây à? Dù bạn có nói gì đi chăng nữa, tôi cũng không có ý định rời khỏi con tàu này...
+---
+>  ヒイロ!?」
+Anh hùng! ? "
+
+@41245 Heero · ヒイロ
+> 「ここを出る。ついてこい」
+"Ra khỏi đây đi. Hãy theo tôi. "
+
+@41246 Relena · リリーナ
+> 「ヒイロ……あなたが来てくれるなんて……
+>  でも……だめよ、今はだめ」
+"Hiro...anh sẽ đến...nhưng...không, không phải bây giờ. "
+
+@41247 Heero · ヒイロ
+> 「そうはいかない。お前がここにいると
+>  ノインたちの気持ちがにぶる」
+“Điều đó không ổn. Nếu bạn ở lại đây, Nuoyin và những người khác sẽ tàn nhẫn. "
+
+@41248 Relena · リリーナ
+> 「……あいかわらず強引なのですね。
+>  わかりました
+“…Anh vẫn mạnh mẽ như vậy. Tôi hiểu rồi.
+---
+>  もう1度お兄様と話をして、
+>  それでだめならば、あきらめます」
+Tôi sẽ nói chuyện lại với anh trai mình, nếu vẫn không được thì tôi sẽ bỏ cuộc. "
+
+@41249 Heero · ヒイロ
+> 「ゼクスか……いいだろう。早くしろ」
+"Jack... được rồi. nhanh lên. "
+
+@41250 Milliardo · ミリアルド
+> 「ヒイロ・ユイか……君がくるとはな。いい
+>  だろう、リリーナを連れて行ってくれ
+"Hiro Wei...Tôi không ngờ bạn sẽ đến. Được rồi, đưa Lilina đi.
+---
+>  トレーズが部隊を集結させている。
+>  こちらも対応せねばならん」
+Telles đang tập hợp quân đội của mình. Tôi cũng phải giải quyết nó. "
+
+@41251 Relena · リリーナ
+> 「トレーズ・クシュリナーダが?
+>  お兄様、すぐにやめてください
+“Teles Khurinada? Anh em hãy dừng lại ngay.
+---
+>  こんなことは無意味です」
+Loại chuyện này không có ý nghĩa. "
+
+@41252 Milliardo · ミリアルド
+> 「無意味などではない。たとえ
+>  後世に恥じる行為だとしても
+“Nó không hề vô nghĩa chút nào. Ngay cả khi đó là hành vi sẽ bị các thế hệ tương lai gạt bỏ,
+---
+>  十分すぎる意味があるのだ。
+>  これぐらいの戦いをやってみせねば
+Nó cũng có đầy đủ ý nghĩa. Nếu chúng ta không tiến hành một cuộc chiến quy mô như thế này,
+---
+>  自らの滅びを肌で
+>  感じるくらいでなければ
+Đừng để mọi người cảm nhận được sự hủy diệt của chính mình,
+---
+>  人は戦いの愚かさを理解しない」
+Nhân loại sẽ không hiểu chiến tranh ngu ngốc đến mức nào. "
+
+@41253 Heero · ヒイロ
+> 「狂言回しにでもなったつもりか、
+>  ゼクス・マーキス」
+"Anh có định làm phát thanh viên cho chương trình này không, Jax Maggis? "
+
+@41254 Relena · リリーナ
+> 「間違っています。人々はもう
+>  十分に戦いの愚かさをわかって
+“Anh sai rồi. Sự điên rồ của chiến tranh ai cũng hiểu rõ.
+---
+>  います。協調を尊ぶ心こそ、
+>  今の人類に必要なものです」
+Tấm lòng biết cộng tác với nhau là điều con người cần ngày nay. "
+
+@41255 Milliardo · ミリアルド
+> 「それでいい……お前はそれでいいのだ」
+"Không sao đâu... với cậu thì ổn thôi."
+
+@41256 Relena · リリーナ
+> 「お兄さま……?」
+"Anh trai...?"
+
+@41257 Relena · リリーナ
+> 「ヒイロ!?」
+"Hiro!?"
+
+@41258 Milliardo · ミリアルド
+> 「フッ……」
+"Hừm..."
+
+@41259 Heero · ヒイロ
+> 「立体映像か……」
+"Một hình ảnh ba chiều..."
+
+@41260 Relena · リリーナ
+> 「ヒイロ……」
+"Hiro..."
+
+@41261 Heero · ヒイロ
+> 「リーブラは戦いの中心になる。いま
+>  は脱出はできない。機会を待つ
+“Libra sẽ là trung tâm của trận chiến. Giờ không còn lối thoát nữa. Hãy chờ cơ hội.
+---
+>  リリーナ、お前は俺とここにいろ」
+Lilina, cậu và tôi ở lại đây. "
+
+@41262 Relena · リリーナ
+> 「あなたがわたくしを守ってくださるの?」
+"Anh sẽ bảo vệ em phải không?"
+
+@41263 Heero · ヒイロ
+> 「……ああ。俺はゼクスと戦う。
+>  負い目をつくりたくない」
+"...Ừ. Tôi muốn chiến đấu với Jax. Tôi không muốn nợ anh ta bất cứ điều gì."
+
+@41264 Haman · ハマーン
+> 「銀河帝国軍は動かぬか……
+>  お前たちはよくやってくれたよ、シャア
+"Quân đội Đế quốc Thiên hà không có động thái gì à... Anh đã làm rất tốt, Char.
+---
+>  これで私も無駄な手間をかけずに
+>  すむというもの……」
+Điều này giúp tôi tiết kiệm rất nhiều công sức lãng phí..."
+
+@41265 Glemy · グレミー
+> 「失礼いたします。ハマーン様、
+>  OZ宇宙軍の残存兵力の
+"Xin lỗi vì đã làm phiền ngài. Lãnh chúa Harman, lực lượng còn lại của Quân đội Không gian OZ
+---
+>  ほぼすべてがリーブラの宙域に
+>  集結しつつあります」
+Hầu như tất cả bọn họ đều đang tập trung về phía không gian Thiên Bình. "
+
+@41266 Haman · ハマーン
+> 「トレーズはやはりそう動くか。
+>  読みやすい男だ。あの連中には
+"Tellez đã làm chính xác điều đó. Anh ấy là một người đoán giỏi. Những kẻ đó chỉ là
+---
+>  好きにさせておけばよい。
+>  {HeroMech}はどうだ?」
+{HeroMech} Hãy để họ như vậy. _XHEOMECHX_ thế nào? "
+
+@41267 Glemy · グレミー
+> 「やはり、リーブラに向かうものと
+>  思われます」
+"Có vẻ như họ cũng sẽ tới Libra."
+
+@41268 Haman · ハマーン
+> 「フフフフ、なるほどな。
+>  マシュマーとキャラを呼べ」
+"Hehehe, vậy thôi. Gọi Mathema và Jira đi."
+
+@41269 Glemy · グレミー
+> 「は……私はいかがいたしますか?」
+"Ừ... vậy tôi nên hành động thế nào đây?"
+
+@41270 Haman · ハマーン
+> 「アクシズへもどって銀河帝国軍を
+>  監視しておけ。用意を整えてな」
+"Quay trở lại Axis và do thám Quân đội Đế quốc Thiên hà. Hãy chuẩn bị sẵn sàng."
+
+@41271 Glemy · グレミー
+> 「了解です、ハマーン様」
+“Tuân lệnh ngài, thưa ngài Haman.”
+
+@41272 Quinze · カーンズ
+> 「衛星を出撃したOZ軍は
+>  まもなくここへやってくるでしょうな」
+"Quân đội OZ tấn công từ vệ tinh sẽ sớm đến đây."
+
+@41273 Milliardo · ミリアルド
+> 「用意は整っているな?」
+"Bạn đã sẵn sàng chưa?"
+
+@41274 Quinze · カーンズ
+> 「万全です」
+"Không thể ngu ngốc."
+
+@41275 Dorothy · ドロシー
+> 「私もいつでもよろしいですわ、
+>  ミリアルド様
+“Tôi sẵn sàng bất cứ lúc nào, ngài Millialt.
+---
+>  ……いよいよ始まるのですね」
+…Cuối cùng thì nó cũng sắp bắt đầu. "
+
+@41276 Milliardo · ミリアルド
+> 「よし、モビルドールを発進させろ。
+>  トレーズを迎え撃つ」
+“Được rồi, hãy để những con búp bê di động tấn công. Chiến đấu chống lại Teles.”
+
+@41277 Milliardo · ミリアルド
+> 「……来たか、トレーズ」
+"...Anh có ở đây không, Telles?"
+
+@41278 Dorothy · ドロシー
+> 「トレーズ様……?」
+"Chúa tể nói...?"
+
+@41279 Treize · トレーズ
+> 「全機、その場で待機せよ」
+"Mọi người trên máy bay đều đang ở chế độ chờ."
+
+@41280 Quinze · カーンズ
+> 「ばかな、なんのつもりだ!?」
+"Sao có thể được? Anh ta muốn làm cái quái gì vậy!?"
+
+@41281 Milliardo · ミリアルド
+> 「主砲発射用意」
+"Súng chính sẵn sàng khai hỏa."
+
+@41282 Dorothy · ドロシー
+> 「え……ミリアルド様!?」
+"Ơ...Miriart-sama!?"
+
+@41283 Quinze · カーンズ
+> 「はっ」
+"Ừ. "
+
+@41284 Dorothy · ドロシー
+> 「だめよ、おやめなさい!」
+"Không, dừng lại đi!"
+
+@41285 Milliardo · ミリアルド
+> 「構うな。発射態勢を整えろ」
+"Để cô ấy yên. Hãy sẵn sàng phóng đi."
+
+@41286 Quinze · カーンズ
+> 「はっ」
+"Ừ. "
+
+@41287 Milliardo · ミリアルド
+> 「停止せよ。リーブラの主砲は
+>  発射態勢に入っている」
+"Dừng lại. Súng chính của Libra đã chuyển sang chế độ bắn."
+
+@41288 Treize · トレーズ
+> 「私は、ロームフェラ財団代表
+>  にして、OZ総帥の
+"Tôi là đại diện của Quỹ Romfila và là tổng tư lệnh của OZ.
+---
+>  トレーズ・クシュリナーダ。私はここに、
+>  地球圏の存続を危ぶませる
+Teles Khurinada. Tôi ở đây để bày tỏ lòng biết ơn của mình tới những người đe dọa sự tồn vong của quả cầu Trái đất.
+---
+>  ホワイトファングの代表者に対し、
+>  決闘を申しこむ」
+Đại diện của Nanh Trắng đề nghị đấu tay đôi. "
+
+@41289 Milliardo · ミリアルド
+> 「トレーズ……」
+"Điện thoại..."
+
+@41290 Treize · トレーズ
+> 「ミリアルド・ピースクラフト、
+>  返答を聞かせてもらおう」
+"Miriarte Peacecraft, hãy cho tôi nghe câu trả lời của bạn."
+
+@41291 Quinze · カーンズ
+> 「司令……まさかあのような申し出を
+>  受けるのではないでしょうな」
+"Chỉ huy... ngài không nên chấp nhận lời đề nghị đó."
+
+@41292 Treize · トレーズ
+> 「返答を!」
+"Trả lời!"
+
+@41293 Milliardo · ミリアルド
+> 「……決闘は……断る! 私はOZの
+>  兵士ではない。騎士道などという
+"...Đấu tay đôi...Tôi từ chối! Tôi không phải là lính của OZ. Kiểu hiệp sĩ
+---
+>  ものとは、無関係な位置にいる。
+>  私は宇宙の革命の意思を
+Chuyện gì đó không liên quan tới tôi. tôi đang mang
+---
+>  背負っているのだ!」
+Ý chí của cuộc cách mạng vũ trụ! "
+
+@41294 Treize · トレーズ
+> 「なるほど正しい選択だ。ミリアルド、
+>  私もまた地球を背負っている
+“Tôi hiểu rồi, bạn đã lựa chọn đúng. Millialt, tôi cũng đang gánh trái đất trên lưng.
+---
+>  我々は退かない。私は地球が
+>  好きなのだ。たとえここで果てようとも
+Chúng tôi sẽ không nhượng bộ. Tôi thích trái đất. Cho dù tôi có ngã ở đây,
+---
+>  その意思を体現する者たちが
+>  残っている。私は彼らのために
+Vẫn còn những người sẽ thực hiện di chúc này. Tôi muốn nó cho họ,
+---
+>  この地球のために、
+>  私自身の命をかけよう」
+Tôi liều mạng vì trái đất này. "
+
+@41295 Milliardo · ミリアルド
+> (トレーズ……見事な覚悟だ)
+(Teles...thật là một nhận thức xuất sắc.)
+
+@41296 Milliardo · ミリアルド
+> 「了解した、トレーズ。
+>  主砲、発射!」
+"Đã hiểu, Teles. Súng chính, khai hỏa!"
+
+@41297 Dorothy · ドロシー
+> 「ミリアルド様!? おやめください!
+>  ミリアルド様!!」
+"Chúa Millialt!? Xin hãy dừng lại! Ngài Millialt!!"
+
+@41298 Milliardo · ミリアルド
+> 「邪魔をするな!」
+"Tránh ra!"
+
+@41299 Dorothy · ドロシー
+> 「あっ……お願いです、どうか!
+>  ミリアルド様、だめぇっ!!」
+"À...làm ơn, làm ơn! Ngài Millialt, không thể nào!!"
+
+@41300 Milliardo · ミリアルド
+> 「………………」
+“…………”
+
+@41301 Milliardo · ミリアルド
+> 「………………」
+“…………”
+
+@41302 Dorothy · ドロシー
+> 「…………あぁ……」
+"...Ahhh..."
+
+@41303 Treize · トレーズ
+> 「レディ、なぜこんな無茶を?」
+"Tiểu thư, sao ngươi lại hành động liều lĩnh như vậy?"
+
+@41304 Lady · レディ
+> 「トレーズ様、戦いは
+>  戦ってこそ美しいものです」
+"Lãnh chúa Telles, chiến đấu chỉ đẹp nếu chính ngài tự mình chiến đấu."
+
+@41305 Treize · トレーズ
+> 「……わかった。全機に告ぐ。
+>  リーブラを落とせ!」
+"...Tôi hiểu rồi. Toàn bộ máy bay tuân theo mệnh lệnh và bắn hạ Libra!"
+
+@41306 Noin · ノイン
+> (ゼクス……)
+(Jack...)
+
+@41307 Duo · デュオ
+> 「あんたは無理すんなよ。ゼクス
+>  相手に戦うなんて、無理だろ
+“Đừng cố nhịn. Đánh với Jacks thì khó quá.
+---
+>  俺たちにまかせときな」
+Hãy để nó cho chúng tôi. "
+
+@41308 Noin · ノイン
+> 「デュオ……すまん、そうさせてもらおう」
+"Dior...Tôi xin lỗi, tôi sẽ giao việc đó cho anh."
+
+@41309 Judau · ジュドー
+> (……なんだ……この感じ……誰かに
+>  呼ばれたような気がしたけど……)
+(...chuyện gì đang xảy ra vậy...cảm giác này...như thể ai đó đang gọi mình...)
+
+@41310 Bright · ブライト
+> 「さて、どうするか……」
+“Vậy chúng ta nên làm gì đây…”
+
+@41311 Ark · アーク（按段落 3DD1）
+> 「この状況じゃ、考えるまでもない
+>  ですよ。ホワイトファングをつぶしましょう」
+"Không cần thiết phải suy nghĩ về tình huống này. Chỉ cần đánh bại Nanh Trắng."
+
+@41312 Selain · セレイン（按段落 3DD2）
+> 「この状況で双方を相手にしても
+>  いいことはない
+“Không có lợi ích gì khi giải quyết với cả hai bên trong tình huống này.
+---
+>  艦長、まずは全力で
+>  ホワイトファングを叩くべきだ」
+Đội trưởng, trước tiên hãy tập trung toàn lực tấn công Nanh Trắng. "
+
+@41313 Brad · ブラッド（按段落 3DD3）
+> 「考えることなんてないだろう。
+>  ホワイトファングを叩いちまわないと
+“Không có gì phải suy nghĩ cả. Nếu bạn không đánh bật những chiếc răng nanh trắng,
+---
+>  あとが面倒だぜ」
+Sẽ có rắc rối sau này. "
+
+@41314 Manami · マナミ（按段落 3DD4）
+> 「まずはホワイトファングを叩くことに
+>  専念しましょう
+“Trước tiên hãy tập trung đối phó với Nanh Trắng.
+---
+>  そのほうがあとが面倒でなくてすみます」
+Điều này sẽ giúp bạn tránh khỏi rắc rối sau này. "
+
+@41315 Bright · ブライト
+> 「そうだな……よし、
+>  {HeroMech}は全力をあげて
+{HeroMech} "Bạn nói đúng...chà, _XHEOMECHX_ bằng tất cả sức lực của mình
+---
+>  ホワイトファングを叩く。
+>  OZは相手にするな!」
+Đánh Nanh Trắng. Hãy để OZ yên! "
+
+@41316 Lady · レディ
+> 「トレーズ様、{HeroMech}です」
+{HeroMech} "Chúa Telles, đây là _XHEOMECHX_."
+
+@41317 Treize · トレーズ
+> 「わかっている。彼らに礼を
+>  述べたいところだが
+"Tôi biết. Tôi muốn cảm ơn họ,
+---
+>  別に私のために
+>  戦ってくれるわけではないからな」
+Nhưng họ không chiến đấu vì tôi. "
+
+@41318 Milliardo · ミリアルド
+> 「{HeroMech}は
+>  我々だけを敵とみなすか……
+"{HeroMech} chỉ coi chúng tôi là kẻ thù...
+---
+>  当然といえば当然の行動だな」
+Điều này là tự nhiên. "
+
+@41319 Dorothy · ドロシー
+> 「ミリアルド様……どうなさるおつもり
+>  ですの?」
+"Lãnh chúa Millialt...ngươi định làm gì?"
+
+@41320 Quinze · カーンズ
+> 「どうなさるおつもりです?」
+"Bạn định làm gì vậy? "
+
+@41321 Milliardo · ミリアルド
+> 「もちろん、彼らも排除するまでだ。
+>  メリクリウスとヴァイエイトを出す」
+"Tất nhiên là chúng ta phải cùng nhau giải quyết chúng. Hãy phái Mercury và Viette đi."
+
+@41322 Dorothy · ドロシー
+> 「ではわたくしも、モビルドールを動かして
+>  みせますわ」
+“Vậy anh cũng sẽ điều khiển búp bê di động cho em xem.”
+
+@41323 Quinze · カーンズ
+> 「無用のことだ。そんな必要はない」
+"Không cần thiết. Không cần thiết."
+
+@41324 Milliardo · ミリアルド
+> 「いや、やらせろ、カーンズ」
+“Không, hãy để cô ấy làm việc đó, Kansi.”
+
+@41325 Quinze · カーンズ
+> 「は……そうおっしゃるのでしたら」
+"Ừ...vì cậu nói vậy."
+
+@41326 Dorothy · ドロシー
+> 「さぁ、お人形さんたち。すばらしい
+>  戦いのダンスを踊りなさい」
+"Nào, những con rối. Hãy nhảy điệu nhảy chiến đấu tuyệt đẹp nào."
+
+@41327 Lady · レディ
+> 「来たか。リーブラへ攻撃を
+>  集中せよ」
+"Bạn có ở đây không? Tập trung tấn công Libra."
+
+@41328 Jerid · ジェリド
+> 「見つけたぜ、カミーユ!!
+>  このバウンドドッグで
+"Tìm thấy bạn rồi, Camus!! Với con chó săn này,
+---
+>  今度こそ貴様を倒す!」
+Lần này ta nhất định sẽ đánh bại ngươi! "
+
+@41329 Kamille · カミーユ
+> 「ジェリド!? ホワイトファングに
+>  味方するつもりか!?」
+"Jeled!? Bạn có định giúp Nanh Trắng không!?"
+
+@41330 Lady · レディ
+> 「やめろジェリド特尉!
+>  リーブラを落とすのが先だ!」
+"Dừng lại, Đội trưởng Jeled! Hãy bắn hạ Libra trước!"
+
+@41331 Jerid · ジェリド
+> 「カミーユを倒してからなら
+>  そうさせてもらう!」
+"Đợi tôi đánh bại Camus!"
+
+@41332 Kamille · カミーユ
+> 「ジェリドッ!!」
+"Jelide!!"
+
+@41333 Jerid · ジェリド
+> 「俺は、貴様を倒せればそれでいい!」
+"Tôi chỉ cần hạ gục bạn!"
+
+@41334 Kamille · カミーユ
+> 「くっ、ジェリドッ!!」
+"Ư, Jared!!"
+
+@41335 Jerid · ジェリド
+> 「カミーユがいないだと!? くそ、奴め。
+>  なら、{HeroMech}を
+"Camus không có ở đây!? Chết tiệt, tên đó. Thế thì đặt {HeroMech}
+---
+>  叩きつぶすだけだ!」
+Đập tan nó thành từng mảnh! "
+
+@41336 Lady · レディ
+> 「やめろジェリド特尉!
+>  リーブラを落とすのが先だ!」
+"Dừng lại, Đội trưởng Jeled! Hãy bắn hạ Libra trước!"
+
+@41337 Jerid · ジェリド
+> 「奴らを倒してからなら
+>  そうさせてもらうぜ!」
+“Đợi tôi đánh bại bọn chúng đã!”
+
+@41338 Bright · ブライト
+> 「トレーズ!?」
+"Điện thoại!?"
+
+@41339 Treize · トレーズ
+> 「……私はこれまで犠牲になった
+>  人々に哀悼の意を
+“…Tôi có thể làm gì cho những người đã hy sinh cho đến nay
+---
+>  表することしかできない。だが、
+>  君たちもこれだけは知っておいてほしい
+Chỉ có lời chia buồn. Nhưng đây là điều duy nhất tôi hy vọng bạn có thể hiểu được.
+---
+>  彼らは決して無駄死になど
+>  していない。そして、この私もまた」
+Cái chết của họ không hề vô ích. Và tôi cũng vậy. "
+
+@41340 Milliardo · ミリアルド
+> 「…………」
+“…………”
+
+@41341 Treize · トレーズ
+> 「私の戦いはとうに終わっていたのだ。
+>  諸君、人類の未来は
+"Trận chiến của tôi đã kết thúc từ lâu. Mọi người, tương lai của nhân loại
+---
+>  君たちにかかっている。私ではない。
+>  ミリアルド……先にいっているぞ……」
+Tôi để nó cho bạn. Không phải tôi. Millialt...Tôi sẽ thực hiện bước đầu tiên..."
+
+@41342 Dorothy · ドロシー
+> 「トレーズ様!? そ、そんな……」
+"Chúa Telles!? Làm sao, làm sao có thể..."
+
+@41343 Dorothy · ドロシー
+> 「トレーズ様!? そ、そんな……」
+"Chúa Telles!? Làm sao, làm sao có thể..."
+
+@41344 Milliardo · ミリアルド
+> 「トレーズ……」
+"Điện thoại..."
+
+@41345 Milliardo · ミリアルド
+> 「…………」
+“…………”
+
+@41346 Treize · トレーズ
+> 「私の戦いはとうに終わっていたのだ。
+>  諸君、人類の未来は
+"Trận chiến của tôi đã kết thúc từ lâu. Mọi người, tương lai của nhân loại
+---
+>  君たちにかかっている。私ではない。
+>  ミリアルド……先にいっているぞ……」
+Tôi để nó cho bạn. Không phải tôi. Millialt...Tôi sẽ thực hiện bước đầu tiên..."
+
+@41347 Milliardo · ミリアルド
+> 「トレーズ……」
+"Điện thoại..."
+
+@41348 Treize · トレーズ
+> 「私の戦いはとうに終わっていたのだ。
+>  諸君、人類の未来は
+"Trận chiến của tôi đã kết thúc từ lâu. Mọi người, tương lai của nhân loại
+---
+>  君たちにかかっている。私ではない。
+>  さらばだ、諸君。……後は頼む」
+Tôi để nó cho bạn. Không phải tôi. Tạm biệt mọi người. ...Tôi sẽ hỏi bạn sau. "
+
+@41349 Bright · ブライト
+> 「トレーズ……」
+"Điện thoại..."
+
+@41350 Quinze · カーンズ
+> 「司令」
+"Chỉ huy. "
+
+@41351 Milliardo · ミリアルド
+> 「……リーブラを地球へ向けろ」
+“…hướng Thiên Bình về phía Trái Đất. "
+
+@41352 Quinze · カーンズ
+> 「はっ!」
+"Vâng!"
+
+@41353 Milliardo · ミリアルド
+> (すべての人類よ……思い知るがいい
+>  破滅というものの、恐ろしさを)
+(Toàn thể nhân loại...hãy trải nghiệm nó và trải nghiệm nỗi kinh hoàng khi phá hủy thứ này.)
+
+@41354 Howard · ハワード
+> 「リーブラが移動する? いかん、ゼクス
+>  はリーブラを地球に落とすつもりだ」
+“Thiên Bình đang di chuyển? Không, Jax có kế hoạch đập Libra xuống Trái đất. "
+
+@41355 Bright · ブライト
+> 「なんですって!?」
+"Anh vừa nói gì thế!?"
+
+@41356 Howard · ハワード
+> 「たとえ1次被害は数百キロですん
+>  でも、巻き上げられた大量のチリが
+“Ngay cả khi khu vực xảy ra thảm họa trực tiếp chỉ vài trăm km thì lượng bụi lớn bốc lên sẽ
+---
+>  地球全体の寒冷化を引き
+>  起こす。……止めねばならんな」
+Hãy để cả trái đất nguội đi. ...nó phải được dừng lại. "
+
+@41357 Bright · ブライト
+> 「ハワード? 何をするつもりだ!?」
+"Howard? Bạn định làm gì vậy! ? "
+
+@41358 Howard · ハワード
+> 「もうこれしか方法は残っておらん。
+>  ピースミリオンをリーブラへぶつける」
+“Bây giờ đây là cách duy nhất còn lại. Hãy để Mir đâm vào Libra. "
+
+@41359 Bright · ブライト
+> 「なっ……」
+"Cái gì..."
+
+@41360 Quinze · カーンズ
+> 「な、なんだ? 奴らはいったい何を……」
+"Cái gì, có chuyện gì vậy? Mấy người đó định làm cái quái gì vậy…”
+
+@41361 Howard · ハワード
+> 「エンジンが壊れたってかまわん!
+>  限界まで出力を上げろ!」
+“Không có vấn đề gì nếu động cơ bị hỏng! Tăng sản lượng đến giới hạn! "
+
+@41362 Quinze · カーンズ
+> 「な、なんだと!? うわあぁぁぁぁーっ!!」
+“Cái, cái gì! ? Waaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaa! ! "
+
+@41363 Milliardo · ミリアルド
+> 「ヒイロ・ユイか……」
+"Hiro Wei..."
+
+@41364 Heero · ヒイロ
+> 「安心しろ……リリーナは退避させた」
+“Đừng lo lắng…Tôi đã yêu cầu Lilina sơ tán. "
+
+@41365 Milliardo · ミリアルド
+> 「そうか…………では、最後の戦いを
+>  始めるとしよう。大破したリーブラは
+“Thật sao… Vậy hãy bắt đầu trận chiến cuối cùng. Libra bị hư hại nghiêm trọng
+---
+>  いまだ地球へと向かっている。これ
+>  以上の邪魔がなければ、落ちる」
+Vẫn bay về phía trái đất. Nếu không có chướng ngại vật, nó sẽ rơi. "
+
+@41366 Noin · ノイン
+> 「ゼクス……あなたはっ!」
+“Jacks… thực ra là anh! "
+
+@41367 Milliardo · ミリアルド
+> 「ノイン…………」
+"Noyin..."
+
+@41368 Quatre · カトル
+> 「どうして僕たちは、こんな戦いを
+>  しなくちゃならないんだい!?」
+"Tại sao chúng ta phải chiến đấu kiểu chiến đấu này!?"
+
+@41369 Dorothy · ドロシー
+> 「あなたたちには、理解できないこと
+>  ですわ!」
+"Đây là điều mà bạn không thể hiểu được!"
+
+@41370 Kamille · カミーユ
+> 「貴様のような奴がいるから、
+>  こんなことになるんだ! 消えろ!」
+"Chỉ vì kẻ như ngươi mà mới thành ra thế này! Biến mất!"
+
+@41371 Jerid · ジェリド
+> 「俺を戦いに駆りたてたのは
+>  貴様だ!
+"Là ngươi đẩy ta ra chiến trường!
+---
+>  そんなことがいえるのかよ!!」
+Bạn thực sự có thể nói một điều như vậy! ! "
+
+@41372 Jerid · ジェリド
+> 「カミーユ、貴様は俺を……!」
+"Camus, anh đã đưa tôi đi...!"
+
+@41373 Jerid · ジェリド
+> 「なぜだ!? なぜ俺が……!!」
+"Tại sao!? Tại sao lại là tôi...!!"
+
+@41374 Noin · ノイン
+> 「ゼクス!」
+"Jax!"
+
+@41375 Milliardo · ミリアルド
+> 「ノイン、そこをどけ」
+"Noyin, tránh ra."
+
+@41376 Noin · ノイン
+> 「ゼクス、あなたと戦いたくはない。
+>  ですが……」
+"Jax, tôi không muốn đấu với anh. Nhưng..."
+
+@41377 Milliardo · ミリアルド
+> 「ノイン、退くんだ!」
+"Noyin, đứng xuống!"
+
+@41378 Noin · ノイン
+> 「退きません! たとえ……
+>  たとえあなたを倒すことになろうとも!」
+"Tôi sẽ không rút lui! Kể cả... cho dù tôi có phải hạ gục cô!"
+
+@41379 Milliardo · ミリアルド
+> 「ノイン…………くっ!」
+"Noyin............không!"
+
+@41380 Noin · ノイン
+> 「……ゼクス……?」
+"...Jax...?"
+
+@41381 Milliardo · ミリアルド
+> (……なぜだ!?
+>  なぜこうも甘いのだ、私は!)
+(…Tại sao!? Tại sao mình lại mềm lòng đến vậy!)
+
+@41382 Milliardo · ミリアルド
+> 「ヒイロ・ユイ。やはりこうなる
+>  運命のようだな」
+"Hiro Yui. Có vẻ như chúng ta đã được định sẵn để đạt đến điểm này."
+
+@41383 Heero · ヒイロ
+> 「ゼクス……未来は見えているはずだ」
+"Jax...bạn sẽ có thể nhìn thấy tương lai."
+
+@41384 Milliardo · ミリアルド
+> 「見えているとも。地球に
+>  根ざすものは、コロニーに対して常に
+“Tất nhiên là bạn có thể nhìn thấy. Những người bám rễ vào trái đất sẽ luôn phải đối mặt với các vệ tinh thuộc địa.
+---
+>  強者となりうる。それではいつまでも
+>  同じことが繰り返されるだけだ
+Tất cả họ đều có thể mạnh mẽ. Nếu điều này tiếp tục, điều tương tự sẽ chỉ xảy ra lặp đi lặp lại.
+---
+>  それでは人類は本当に
+>  滅びてしまう
+Trong trường hợp đó, nhân loại sẽ thực sự diệt vong,
+---
+>  銀河帝国によらずともな。
+>  それは座視できん!」
+Ngay cả khi không có Đế chế Thiên hà. Tôi không thể ngồi lại và xem cái này! "
+
+@41385 Heero · ヒイロ
+> 「ゼクス! 強者などどこにもいない。
+>  人類すべてが弱者なんだ
+"Jax! Không có người mạnh mẽ nào cả. Tất cả con người đều yếu đuối.
+---
+>  俺も、お前も、弱者なんだ!」
+Tôi cũng vậy, bạn cũng vậy, chúng ta đều yếu đuối! "
+
+@41386 Milliardo · ミリアルド
+> 「私はそれを認めてはいない!」
+"Tôi không thừa nhận điều đó!"
+
+@41387 Milliardo · ミリアルド
+> 「私はどこまでも生きぬいて見せるぞ!
+>  誰よりも厳しく、戦士としてな!」
+"Tôi sẽ sống đến cuối cùng để cho bạn thấy! Là một chiến binh, cuộc sống khắc nghiệt hơn bất kỳ ai khác!"
+
+@41388 Dorothy · ドロシー
+> 「ミリアルド様!? くっ……そんな……」
+"Ngài Millialt!? Hmm...sao có thể..."
+
+@41389 Lady · レディ
+> 「終わった……トレーズ様……」
+"Hết rồi...Ông Telles..."
+
+@41390 Jerid · ジェリド
+> 「くっ、奴らをやらずに
+>  引き下がれるかよ!」
+"Chà, không giết những kẻ này thì làm sao có thể rút lui!"
+
+@41391 Jerid · ジェリド
+> 「くっ、奴らをやらずに
+>  引き下がれるかよ!」
+"Chà, không giết những kẻ này thì làm sao có thể rút lui!"
+
+@41392 Bright · ブライト
+> 「あれは……」
+"Đó là..."
+
+@41393 Quatre · カトル
+> 「五飛!?」
+“Năm chiếc bay!?”
+
+@41394 Duo · デュオ
+> 「五飛だって? あいついったい何の
+>  つもりなんだ……?」
+"Ngô Phi? Tên đó muốn làm cái quái gì vậy...?"
+
+@41395 Treize · トレーズ
+> 「ほう……張五飛か……」
+"Ồ...Trương Vô Phi..."
+
+@41396 Wufei · 五飛
+> 「トレーズ……俺は貴様が憎い!
+>  貴様は人を見下すことしか
+"Teles...Tôi ghét anh! Chỉ có anh mới biết thôi
+---
+>  できない男だ。しょせん、エゴでしか
+>  戦っていない
+Nhìn xuống người khác. Cuối cùng, bạn chỉ đang đấu tranh cho những ham muốn ích kỷ của bản thân mà thôi.
+---
+>  OZがスペシャルズだった時代を
+>  思い出すがいい! 貴様のために
+Hãy suy nghĩ kỹ về thời điểm OZ còn là một đơn vị lực lượng đặc biệt! bạn có nghĩ không
+---
+>  何人の人間が死んだと
+>  思っている!?」
+Bao nhiêu người đã chết vì bạn rồi! ? "
+
+@41397 Treize · トレーズ
+> 「聞きたいかね」
+"Bạn có muốn nghe nó không? "
+
+@41398 Wufei · 五飛
+> 「な……なに!?」
+"Cái...cái gì! ? "
+
+@41399 Treize · トレーズ
+> 「戦いのために犠牲になった人々は
+>  すべて記憶している」
+"Tôi nhớ tất cả những người đã chết trong trận chiến. "
+
+@41400 Wufei · 五飛
+> 「き……貴様ァッ!!」
+"Ngươi...con khốn! ! "
+
+@41401 Treize · トレーズ
+> 「私は……これまで犠牲になった
+>  人々に哀悼の意を表すること
+“Tất cả những gì tôi có thể làm là bày tỏ lòng kính trọng đối với những người đã thiệt mạng cho đến nay.
+---
+>  しかできない。だが! 君たちもこれだけ
+>  は知っておいてほしい。彼らは決して
+Nhưng! Đây là điều duy nhất tôi hy vọng bạn biết. Họ là bất cứ điều gì nhưng
+---
+>  無駄死になどしていない。
+>  ……そして!」
+Anh ta chết một cách vô ích. ……bên cạnh đó! "
+
+@41402 Wufei · 五飛
+> 「トレーズ!? 貴様!!」
+“Điện thoại! ? Anh bạn! ! "
+
+@41403 Treize · トレーズ
+> 「……私の戦いはとうに終わっていた。
+>  諸君、人類の未来は君たちに
+“…Cuộc chiến của tôi đã kết thúc từ lâu rồi. Mọi người ơi, tương lai của nhân loại là
+---
+>  かかっている。私ではない。
+>  ……後はまかせる」
+Nó phụ thuộc vào bạn. Không phải tôi. ...Tôi sẽ để lại cho bạn sau. "
+
+@41404 Lady · レディ
+> 「トレーズ様……」
+“Đại nhân nói…”
+
+@41405 Amuro · アムロ
+> 「トレーズ……」
+"Điện thoại..."
+
+@41406 Wufei · 五飛
+> 「くそぉぉぉぉぉぉーっ!!」
+"Chết tiệt, ahhhhhhhhh-! ! "
+
+@41407 Heero · ヒイロ
+> 「お前の勝ちだ。もうやめろ、五飛」
+"Bạn đã thắng. Dừng lại đi, Wu Fei. "
+
+@41408 Wufei · 五飛
+> 「どこがだ!? いまの戦いのどこが俺の
+>  勝ちだというのだ!? 奴はワザと
+"Thắng ở đâu! ? Tôi đã không thắng trận chiến vừa rồi! ? Thằng đó cố ý đấy
+---
+>  俺の攻撃を受けたのだぞ!! くっ
+>  奴め……最後の最後まで……」
+Người đã bị tôi tấn công! ! Chà, tên khốn đó...cho đến giây phút cuối cùng..."
+
+@41409 Duo · デュオ
+> 「なぁ五飛、まさか俺たちとやるつもり
+>  なわけじゃないんだろ」
+"Này Wufei, bạn sẽ không chiến đấu với chúng tôi phải không? "
+
+@41410 Wufei · 五飛
+> 「……まだ倒さねばならぬ悪が
+>  残っている」
+“…Vẫn còn những tệ nạn cần phải tiêu diệt. "
+
+@41411 Duo · デュオ
+> 「わかってるさ。銀河帝国軍だろ?
+>  なら俺たちと一緒に……」
+"Tôi biết. Đó có phải là Quân đội Đế chế Thiên hà? Vậy thì hãy đi cùng chúng tôi..."
+
+@41412 Wufei · 五飛
+> 「俺は1人でも奴らを倒してみせる!
+>  頭をつぶせばいいだけの話だ!
+"Tôi sẽ đánh bại chúng ngay cả khi tôi chỉ có một mình! Chỉ cần giết thủ lĩnh!
+---
+>  俺は、貴様らが正義だと
+>  認めていない!!」
+Tôi không thừa nhận rằng bạn là người đúng đắn! ! "
+
+@41413 Quatre · カトル
+> 「五飛!? まってください、五飛!」
+"Năm con ruồi! ? Đợi đã, Vô Phi! "
+
+@41414 Quatre · カトル
+> 「五飛……」
+"Năm con ruồi..."
+
+@41415 Beauty · ビューティ
+> 「あら……? ちょっと、あいつ
+>  帰らないわよ!」
+"Ồ...? Này, gã đó sẽ không quay lại đâu! "
+
+@41416 Kamille · カミーユ
+> 「ジェリド!?」
+“Jelide! ? "
+
+@41417 Jerid · ジェリド
+> 「くっ、貴様らをやらずに、このまま
+>  引き下がれるかよ!」
+"Hừ, ta không giết các ngươi, làm sao có thể cứ như vậy rút lui! "
+
+@41418 Beltorchika · ベルトーチカ
+> 「艦長、MSの編隊が
+>  接近しています!」
+"Đội trưởng, đội hình MS đang đến gần! "
+
+@41419 Bright · ブライト
+> 「なんだと!? まだモビルドールが
+>  残っていたのか!?」
+"Cái gì! ? Bạn vẫn chưa dọn dẹp các nhân vật hành động à? ? "
+
+@41420 Haman · ハマーン
+> 「フフフフ、まったくよくやってくれたよ、
+>  お前たちは」
+“Hehehehe, các bạn thực sự đã làm rất tốt. "
+
+@41421 Quattro · クワトロ
+> 「ハマーン・カーン!?
+>  アクシズの軍勢か!」
+“Harman Kahn! ? Có phải quân của Axis không? "
+
+@41422 Haman · ハマーン
+> 「このうえは銀河帝国軍も、この
+>  地球圏も、我々アクシズが
+"Sự việc đã đến nước này, dù là Quân đội Đế quốc Thiên hà hay vòng tròn trái đất này, tất cả đều sẽ do tôi, Axis, điều khiển."
+---
+>  制しよう。ご苦労だった、
+>  {HeroMech}
+để nắm quyền kiểm soát. Làm tốt lắm, {HeroMech}.
+---
+>  ここでお別れとは寂しいかぎりだ。
+>  シャア……こんなところで朽ち果てる
+Thật xấu hổ khi phải nói lời tạm biệt. Char... hãy nguyền rủa chính mình đi
+---
+>  己が身を呪うがいい」
+Số phận bị chôn vùi ở đây. "
+
+@41423 Quattro · クワトロ
+> 「そうかな!?」
+"Không nhất thiết phải như vậy!"
+
+@41424 Haman · ハマーン
+> 「シャア、もしも私のもとへもどる
+>  意思があるのならば……」
+"Hạ Ya, nếu em có ý định quay lại với anh..."
+
+@41425 Quattro · クワトロ
+> 「冗談ではない!」
+"Thật là một trò đùa!"
+
+@41426 Haman · ハマーン
+> 「……話しあいの余地がないとすれば、
+>  ここがお前の死に場所となる」
+“…Vì không còn chỗ để thương lượng nên đây là nơi chôn cất của cậu.”
+
+@41427 Kamille · カミーユ
+> 「ハマーン・カーン!
+>  お前は戦いの意思を生む源だ
+"Harman Kahn! Bạn là nguồn gốc của ý chí chiến đấu,
+---
+>  だとすれば、生かしておくわけには
+>  いかない!」
+Trong trường hợp này, tôi không thể để bạn sống! "
+
+@41428 Haman · ハマーン
+> 「俗物が私に! カミーユ・ビダン、
+>  貴様は確かに優れた資質を
+"Một thứ tầm thường mà dám đối xử với tôi! Camus Bidan, hình như bạn có
+---
+>  持っているらしいが、無礼を許す
+>  わけにはいかんな」
+Trình độ vượt trội, nhưng tôi không thể cho phép bạn thô lỗ như vậy. "
+
+@41429 Mashymre · マシュマー
+> 「なんだ? グレミーのニュータイプか?
+>  なぜこんなところに!?」
+"Cái gì? Đó có phải là con người mới của Gremy không? Tại sao nó lại ở đây!?"
+
+@41430 Ple · プル
+> 「胸がキュンキュンする……でもとっても
+>  気持ちいい……どうしたんだろ?」
+"Ngực tôi đang đập thình thịch...nhưng cảm giác thật dễ chịu...tôi bị sao vậy?"
+
+@41431 Judau · ジュドー
+> 「な……なんだ、この感じ……?
+>  あのMSか……?」
+"Cái này... cái này cảm giác như thế nào...? Có phải đó là MS...?"
+
+@41432 Ple · プル
+> 「わかったぞ、このキュンキュン。
+>  あのパイロットだ!」
+"Tôi biết, cảm giác đập thình thịch này. Là phi công!"
+
+@41433 Judau · ジュドー
+> 「なんだぁ!?」
+"Cái gì!?"
+
+@41434 Ple · プル
+> 「あたしを探してるんでしょ、お兄ちゃん
+>  あたしエルピー・プル。よろしく!」
+"Anh đang tìm em đấy, anh trai. Tôi là Elubi Pru. Xin hãy cho tôi lời khuyên của bạn!"
+
+@41435 Judau · ジュドー
+> 「エルピー……プル……?」
+"Elubi...Pru...?"
+
+@41436 Bright · ブライト
+> 「ジュドー! なにをやっている!!」
+"Jidu! Bạn đang làm gì vậy!!"
+
+@41437 Ple · プル
+> 「マシュマー! グレミーのとこは
+>  退屈だから、出てきちゃった!」
+"Toán học! Ở Gremi chán quá nên tôi chạy ra ngoài!"
+
+@41438 Mashymre · マシュマー
+> 「くっ……このマシュマー・セロ、子供を
+>  戦わせるほど落ちぶれてはおらん!」
+"Chà... Tôi, Masuma Sero, chưa đến mức phải gửi một đứa trẻ ra chiến trường!"
+
+@41439 Ple · プル
+> 「なにいってんの、マシュマー?」
+“Em đang nói gì vậy, Mathima?”
+
+@41440 Haman · ハマーン
+> 「よい、マシュマー。好きにやらせてみろ」
+"Không sao đâu, Mathima. Cứ để cô ấy làm việc đó."
+
+@41441 Mashymre · マシュマー
+> 「はっ、ハマーン様!」
+"Vâng, thưa ngài Haman!"
+
+@41442 Haman · ハマーン
+> 「な、なんだ? 鳥肌がたっている?
+>  なんだというのだ!?」
+“C-cái gì? Tôi nổi da gà? Chuyện quái gì đang xảy ra vậy!?"
+
+@41443 Kamille · カミーユ
+> 「ハマーン・カーン!」
+"Harman Kahn!"
+
+@41444 Haman · ハマーン
+> 「貴様かニュータイプ! この
+>  キュベレイをなめてもらっては困る!」
+"Là cậu à, con người mới! Đừng đánh giá thấp Kabini của tôi!"
+
+@41445 Quattro · クワトロ
+> 「ハマーン……せめて私の手で……」
+"Haman... ít nhất hãy để tôi sử dụng đôi tay của mình..."
+
+@41446 Haman · ハマーン
+> 「シャア……世界の都合というものを
+>  洞察できない男は
+"Char...một người không thể nhìn thấy xu hướng chung của thế giới,
+---
+>  排除せねばならん」
+Phải được loại bỏ. "
+
+@41447 Haman · ハマーン
+> 「これで終わりにするか? 続けるか?
+>  シャア!」
+"Anh định dừng ở đây à? Hay tiếp tục? Char!"
+
+@41448 Quattro · クワトロ
+> 「そんな決定権が、
+>  お前にあるのか!?」
+“Anh có quyền quyết định chuyện như vậy không!?”
+
+@41449 Haman · ハマーン
+> 「口の聞き方に気をつけてもらおう!
+>  いけ、ファンネル!」
+"Hãy cẩn thận khi nói chuyện! Tiến lên, pháo bay!"
+
+@41450 Quattro · クワトロ
+> 「なにッ!?」
+"Cái gì!?"
+
+@41451 Haman · ハマーン
+> 「シャア……私と来てくれれば……
+>  くっ……」
+"Hạ Ya... chỉ cần em đồng ý đi cùng anh... à..."
+
+@41452 Haman · ハマーン
+> 「シャア……私と来てくれれば……
+>  くっ……」
+"Hạ Ya... chỉ cần em đồng ý đi cùng anh... à..."
+
+@41453 Ple · プル
+> 「ジュドー! あたしと遊ぼう!」
+"Jidu! Hãy đến chơi với tôi!"
+
+@41454 Judau · ジュドー
+> 「プルみたいな子が戦争なんてしちゃ
+>  いけない! パイロットなんていけないよ!」
+"Những đứa trẻ như Pru không nên chiến đấu! Và chúng không nên làm phi công!"
+
+@41455 Ple · プル
+> 「何……何をいってるの?」
+"Ngươi... ngươi đang nói cái gì?"
+
+@41456 Judau · ジュドー
+> 「プルみたいな子が人殺しなんて、
+>  しちゃいけない!」
+“Những đứa trẻ như Pru không nên giết người!”
+
+@41457 Ple · プル
+> 「やめてよ! あたしは、ジュドーと
+>  遊びたいだけなのにッ!!」
+"Đừng nói nữa! Tôi chỉ muốn chơi với Jiedu thôi!!"
+
+@41458 Haman · ハマーン
+> 「な……なんだと!?
+>  これ以上は無理ということか
+"Cái...cái gì!? Chúng ta không thể chiến đấu được nữa...
+---
+>  くっ、撤退する!」
+Vâng, rút lui! "
+
+@41459 Quattro · クワトロ
+> 「………………」
+“…………”
+
+@41460 Quattro · クワトロ
+> 「………………」
+“…………”
+
+@41461 Haman · ハマーン
+> 「くっ、好きにやらせすぎたか……
+>  ここで無理はできん。撤退する!」
+"Chà, có phải tôi đã để cô ấy đi quá nhiều không... Chúng ta không thể trụ được ở đây. Rút lui!"
+
+@41462 Quattro · クワトロ
+> 「………………」
+“…………”
+
+@41463 Quattro · クワトロ
+> 「………………」
+“…………”
+
+@41464 Haman · ハマーン
+> 「くっ、敵の戦力を見誤ったか……
+>  まぁよい、ここは撤退してもよかろう
+“Hmm, có phải mình đã đánh giá thấp sức chiến đấu của kẻ địch không nhỉ… Dù sao thì rút lui lần này cũng chẳng có hại gì.
+---
+>  全軍撤退せよ!」
+Toàn quân rút lui! "
+
+@41465 Quattro · クワトロ
+> 「………………」
+“…………”
+
+@41466 Quattro · クワトロ
+> 「………………」
+“…………”
+
+@41467 Quatre · カトル
+> 「いまは、こんな戦いをしている場合
+>  じゃないんだ。銀河帝国軍と
+"Đây không phải là lúc để chiến đấu kiểu chiến tranh này. Điều chúng ta nên giải quyết là
+---
+>  戦わなくっちゃいけないんだよ!」
+Quân đội Đế chế Thiên hà! "
+
+@41468 Dorothy · ドロシー
+> 「いいえ、破壊と殺戮は異星人
+>  を倒せば終わるというものではないわ!
+“Không, sự hủy diệt và giết chóc sẽ không kết thúc chỉ vì người ngoài hành tinh bị đánh bại!
+---
+>  もう1つ倒さなければならない敵が、
+>  私たちの心の中にあるのよ!」
+Có một kẻ thù khác cần phải bị đánh bại, và nó đang ở trong chúng ta! "
+
+@41469 Quatre · カトル
+> 「僕たちの……心の中の敵……?」
+"Kẻ thù...kẻ thù trong trái tim chúng ta...?"
+
+@41470 Dorothy · ドロシー
+> 「そうよ。あなたたちのしていることは、
+>  すべてムダなのよ!
+“Đúng vậy, mọi việc ngươi làm đều vô ích!
+---
+>  他人を思いやった、思いやりすぎた
+>  結果が、いまの地球圏なのよ!」
+Kết quả của việc luôn nghĩ đến người khác và suy nghĩ quá nhiều chính là Vòng tròn Trái đất hiện tại! "
+
+@41471 Quatre · カトル
+> 「そんな、そんなことはない!」
+"Không, không phải vậy!"
+
+@41472 Dorothy · ドロシー
+> 「いいえ、それが地球圏を、人類を
+>  ダメにしてきたのよ。それが、人の心を
+“Không, chính điều này đã hủy diệt trái đất và loài người. Chính điều này đã khiến trái tim con người trở nên
+---
+>  おかしくしたのよ。だから、人類に
+>  見せつけてやるべきなのよ!
+Không bình thường. Vì vậy, con người phải nhìn rõ!
+---
+>  その心の中の闇を! 地球圏に
+>  せまる本当の破滅の恐ろしさを!」
+Nhìn thấy bóng tối trong trái tim bạn! Hãy xem sự hủy diệt thực sự đang đến gần quả cầu Trái đất đáng sợ đến mức nào! "
+
+@41473 Quatre · カトル
+> 「それが……この戦いの意味だと
+>  いうのか?」
+"Đây có phải là...ý nghĩa của trận chiến này?"
+
+@41474 Dorothy · ドロシー
+> 「そうよ! 地球圏を守るためには、
+>  異星人を倒すだけじゃだめなのよ!
+“Đúng vậy! Để bảo vệ vòng tròn Trái đất, việc đánh bại người ngoài hành tinh thôi là chưa đủ!
+---
+>  それをわかる前に異星人に勝て
+>  たって、また人類は同じことを
+Cho đến khi chúng ta hiểu được điều này, ngay cả khi chúng ta đánh bại người ngoài hành tinh, con người vẫn sẽ mắc lại sai lầm tương tự!
+---
+>  繰り返すわ! それをわからせなければ
+>  その心そのものを改革しなければ、
+Đừng để họ hiểu và cải tạo trái tim,
+---
+>  人類は自分自身の手で滅び
+>  を迎えてしまうのよ!
+Nhân loại sẽ mở ra sự hủy diệt của chính mình bằng chính đôi tay của mình!
+---
+>  人類は生き残るのに精いっぱいな
+>  くらいが、ちょうどいいのよ!」
+Con người phải ở thời điểm mà họ phải cố gắng hết sức để tồn tại! "
+
+@41475 Quatre · カトル
+> 「だけど……だけど、やさしさを否定して
+>  はダメだ! すべてを受け入れなければ
+"Nhưng...nhưng, cậu không thể phủ nhận sự dịu dàng! Mọi thứ đều phải được chấp nhận.
+---
+>  いけないんだ。そのやさしさが、人類に
+>  は必要なんだよ。やさしくなければ、
+Sự dịu dàng này là cần thiết cho con người. Nếu bạn không dịu dàng,
+---
+>  人類なんか存在する意味はない
+>  んだよ。そうだろう? 生き残るだけの
+Con người chẳng có ý nghĩa gì cả. Phải? Chỉ để tồn tại
+---
+>  人類なんて、他人を思いやること
+>  もない、動物以下の種族に
+Con người thậm chí không thể quan tâm đến người khác và trở nên tồi tệ hơn cả động vật.
+---
+>  なってしまうよ……」
+Cuộc đua..."
+
+@41476 Dorothy · ドロシー
+> 「………………」
+“…………”
+
+@41477 Hyoma · 豹馬
+> 「なんだよなんだよ、みんなしてしけた
+>  ツラしちまってさ。結局俺たちは
+“Ngươi đang làm cái gì vậy, ngươi đang làm cái gì vậy, mọi người đều vẻ mặt cay đắng. Cuối cùng chúng tôi
+---
+>  勝ったんだぜ? リーブラは落としたし
+>  ホワイトファングもなくなったじゃないか」
+Bạn không thắng sao? Libra cũng đã bị đánh gục, răng nanh trắng cũng không còn nữa phải không? "
+
+@41478 Koji · 甲児
+> 「だけどな……なんだかこう、
+>  すっきりしねぇんだよな」
+"Nhưng... tôi luôn cảm thấy không vui. "
+
+@41479 Ryoma · リョウ
+> 「そうだな……なにしろクワトロ大尉も
+>  行方不明だしな
+“Đúng… dù sao thì tung tích của thuyền trưởng Kwatero cũng không rõ.
+---
+>  銀河帝国軍もアクシズ軍も
+>  まだ残っている」
+Quân đội Đế chế Thiên hà và Quân đội Trục cũng vẫn còn ở đó. "
+
+@41480 Bright · ブライト
+> 「……本当に誰も、大尉を
+>  見ていないのか?」
+“…Có đúng là chưa có ai từng nhìn thấy thuyền trưởng không? "
+
+@41481 Amuro · アムロ
+> 「もう何度も確認したよ、ブライト。
+>  大尉は俺たちのもとから
+“Tôi đã xác nhận điều này nhiều lần rồi, Brett. đội trưởng từ chúng tôi
+---
+>  姿を消した。生死不明でな」
+Đi rồi. Sống chết không biết. "
+
+@41482 Judau · ジュドー
+> 「やだなぁアムロさん、
+>  縁起悪いこといわないでよ
+“Đừng như vậy, anh Amuro, đừng nói những lời xui xẻo như vậy.
+---
+>  あの人のことだ、きっとすぐ
+>  もどってくるって」
+Với khả năng của người đó, chắc chắn anh ta sẽ sớm quay lại. "
+
+@41483 Banjo · 万丈
+> 「だといいがね」
+"Tôi hy vọng vậy."
+
+@41484 Alan · アラン
+> 「万丈、何か知っているのか?」
+"Văn Chương, ngươi biết cái gì sao? "
+
+@41485 Banjo · 万丈
+> 「いや、そういうわけじゃない。
+>  ただ僕が見たところ
+"Không, không hẳn. Theo ý kiến của tôi,
+---
+>  クワトロ大尉はこのところ
+>  ずっとうっ屈しているようだった
+Gần đây thuyền trưởng Cvatero trông có vẻ chán nản.
+---
+>  もしも何か考えがあって僕たちの
+>  前から姿を消したのだとすれば……」
+Nếu anh ta có kế hoạch nào đó biến mất khỏi chúng ta…”
+
+@41486 Garrison · ギャリソン
+> 「……もどっておいでにはならない、
+>  と、そういうことですか」
+“…Điều đó có nghĩa là anh ấy sẽ không quay lại, phải không? "
+
+@41487 Amuro · アムロ
+> 「…………」
+“…………”
+
+@41488 Lady · レディ
+> 「救助していただいて感謝します。
+>  残存したOZ兵士は
+"Cảm ơn sự giúp đỡ của bạn. Những người lính OZ còn lại,
+---
+>  月面へ向かわせました」
+Tôi đã gửi chúng lên mặt trăng. "
+
+@41489 Dr. Hazuki · 葉月博士
+> 「月面?」
+"Mặt trăng? "
+
+@41490 Lady · レディ
+> 「ホワイトファングは月面に
+>  戦力を残しておりませんでした
+"Nanh Trắng không để lại bất kỳ lực lượng chiến đấu nào trên mặt trăng.
+---
+>  ほぼ無傷で月面基地は
+>  奪還しています」
+Căn cứ mặt trăng đã được chiếm lại và gần như còn nguyên vẹn. "
+
+@41491 Chief Chujo · 中条長官
+> 「そうですか……しかしOZももはや
+>  まともな戦力とはいいがたいですな」
+"Thật sự...nhưng thật khó để nói rằng OZ có sức mạnh chiến đấu tốt. "
+
+@41492 Lady · レディ
+> 「その通りです。
+>  トレーズ様を失った今
+"Thật vậy. Bây giờ tôi đã mất Lord Telles,
+---
+>  士気を維持するのも
+>  難しいでしょう」
+Thật khó để duy trì tinh thần. "
+
+@41493 Relena · リリーナ
+> 「…………」
+“…………”
+
+@41494 Lady · レディ
+> 「リリーナ嬢もおられたのですね……
+>  どうぞこれを」
+“Cô Lilina cũng ở đây… xin hãy chấp nhận điều này. "
+
+@41495 Relena · リリーナ
+> 「? 拳銃などでわたくしに
+>  何をしろとおっしゃるのですか?」
+"Bạn muốn tôi làm gì khi bạn đưa cho tôi một khẩu súng lục?"
+
+@41496 Lady · レディ
+> 「見ての通り魂の抜け殻ですが、
+>  どうか父上の……
+"Như bạn thấy đấy, tôi là một cái vỏ trống rỗng, không có linh hồn, nhưng làm ơn...
+---
+>  ドーリアン氏のご無念を
+>  お晴らしください」
+Đối với cha của bạn... Ông Dorian, xin hãy thông cảm cho ông ấy. "
+
+@41497 Julia · ジュリア
+> 「リリーナ……」
+"Lilina..."
+
+@41498 Relena · リリーナ
+> 「ええ、わかっています、ジュリア様。
+>  もう、そういうことは終わりにしましょう
+"Ồ, tôi hiểu rồi, cô Julia. Chúng ta hãy dừng chuyện kiểu này lại đi.
+---
+>  復讐など、何の意味も
+>  ないのですから」
+Trả thù là hoàn toàn vô nghĩa. "
+
+@41499 Lady · レディ
+> 「……はい」
+"...Vâng."
+
+@41500 Julia · ジュリア
+> 「あなたにはまだすることが
+>  残っているはずです
+“Chắc cậu còn có việc chưa làm xong.
+---
+>  いま、あなたまで失えば、残された
+>  兵士たちは
+Nếu bạn không còn ở đây, những người lính còn lại
+---
+>  いったいどうすればよいのでしょう?
+>  それに、OZという組織にも
+Vậy chúng ta nên làm gì? Và tổ chức OZ,
+---
+>  これからやるべきことは、数多く
+>  あるはずなのではないのですか?」
+Chắc chắn sẽ có rất nhiều việc phải làm trong tương lai phải không? "
+
+@41501 Lady · レディ
+> 「……確かにおっしゃる通りです。
+>  トレーズ様の死とともに私の戦いも
+“…Anh nói đúng. Một khi ông Telles chết, trận chiến của tôi sẽ kết thúc.
+---
+>  終わりました。しかし果たすべき
+>  責任はまだ残っているのですね」
+Kết thúc rồi. Nhưng tôi vẫn còn những trách nhiệm chưa hoàn thành. "
+
+@41502 Relena · リリーナ
+> 「ええ。もしもご自分の過ちに気づき
+>  それをつぐなうとおっしゃるのでしたら
+"Đúng. Nếu bạn đã nhận ra lỗi của mình và sẵn sàng bù đắp,
+---
+>  地球圏の平和のために
+>  尽力してください
+Hãy làm hết sức mình vì hòa bình trên toàn cầu.
+---
+>  お父さまもそれを望むはずです」
+Cha chắc hẳn cũng hy vọng như vậy. "
+
+@41503 Lady · レディ
+> 「はい……私も月面基地へ
+>  向かうことにします
+"Được rồi... Tôi cũng quyết định đi đến căn cứ mặt trăng.
+---
+>  OZを立て直し、地上の
+>  難民たちを1人でも多く
+Xây dựng lại OZ và cố gắng hết sức để cứu những người tị nạn trên mặt đất. Tiết kiệm càng nhiều càng tốt.
+---
+>  救うことに努力いたしましょう。
+>  よろしければおふたりもご一緒ください
+Nếu hai người sẵn lòng thì hãy đến với nhau.
+---
+>  {HeroMech}はまだ
+>  戦いをやめるわけにはいかないでしょう」
+{HeroMech} _XHEOMECHX_ Không thể ngừng chiến đấu được. "
+
+@41504 Julia · ジュリア
+> 「……そうですね……
+>  そのほうがよいかもしれません」
+"...Ừ...thế có lẽ tốt hơn."
+
+@41505 Relena · リリーナ
+> 「そう思います。わたくしたちも
+>  ご一緒いたしましょう、ジュリア様」
+"Tôi cũng nghĩ vậy. Chúng ta hãy đi cùng nhau nhé, cô Julia."
+
+@41506 Chief Chujo · 中条長官
+> 「頼みますぞ、レディ・アン特佐」
+“Làm ơn đi, Letty Antezow.”
+
+@41507 Sara · 沙羅
+> 「ここにいたのかい。リリーナは
+>  気色悪いくらいに変わっちまった
+"Bạn đang ở đây. Lilina đã trở nên đau lòng.
+---
+>  レディ・アンと聖女と一緒に、
+>  月へ向かうそうだよ
+Tôi nghe nói cô ấy sẽ lên mặt trăng cùng Letty Ann và Thánh.
+---
+>  それから地上へ降りるってさ」
+Sau đó đi xuống đất. "
+
+@41508 Noin · ノイン
+> 「そうか……地上は
+>  さぞかし大変な状態だろうな……」
+"Thật sự... Tình hình trên mặt đất chắc chắn rất tệ..."
+
+@41509 Sara · 沙羅
+> 「あんたは一緒に
+>  行かなくていいのかい?
+"Không phải cậu phải đi cùng cô ấy sao?
+---
+>  その方がいいんじゃないの?」
+Chẳng phải điều đó sẽ tốt hơn sao? "
+
+@41510 Noin · ノイン
+> 「気づかいは無用だ、沙羅。私は
+>  ……ゼクスが生きていると信じる
+"Đừng lo lắng, Sara. Tôi... tin rằng Jax vẫn còn sống.
+---
+>  だから落ちこみなどはしない……
+>  少なくともこの戦いが終わるまでは」
+Vì thế tôi sẽ không chán nản...ít nhất là cho đến khi cuộc chiến này kết thúc. "
+
+@41511 Sara · 沙羅
+> 「あんたがそういうんなら、それもいいさ。
+>  結局……何も失わずにいられる
+"Vì bạn đã nói như vậy nên không sao cả. Cuối cùng...những người không còn gì để mất,
+---
+>  奴なんて、いやしないのさ。
+>  こんな戦いではね」
+Nó hoàn toàn không tồn tại trong cuộc chiến này. "
+
+@41512 Bright · ブライト
+> 「アムロ、少し休んでおけ。
+>  いつ銀河帝国軍が攻撃を
+“Amuro, xin hãy nghỉ ngơi một lát. Tôi không biết khi nào Quân đội Đế quốc Thiên hà sẽ hoạt động.”
+---
+>  再開するかわからんし、
+>  ハマーンのこともある。あれだけ
+Sẽ có một cuộc tấn công khác và đó là vấn đề của Haman.她那么
+---
+>  自信を持って出てきたんだ。
+>  このままですむとも思えん」
+Hãy tự tin tấn công, tôi không nghĩ mọi chuyện sẽ kết thúc như thế này. "
+
+@41513 Amuro · アムロ
+> 「わかってるよ、ブライト。すぐに休むさ」
+"Tôi biết, Brett. Tôi đi nghỉ đây."
+
+@41514 Bright · ブライト
+> 「……あまり、気にするなよ」
+“…Đừng nghiêm túc quá.”
+
+@41515 Amuro · アムロ
+> 「ああ……」
+"Ờ..."
+
+@41516 Amuro · アムロ
+> 「シャア…………」
+“夏亚……….”

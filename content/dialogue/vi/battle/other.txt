@@ -1,0 +1,198 @@
+# Bản dịch tiếng Việt Super Robot Wars 64
+# Định dạng và vị trí: docs/guide/dialogue-text.md
+
+@7343 Ivan · イワン
+# Kích hoạt: 未被任何选择表引用，原版不会显示
+> 「こちらイワン、これまでです」
+"Đây là Ivan, thế thôi."
+
+@8105 Char · シャア
+# Kích hoạt: 未被任何选择表引用，原版不会显示
+> 「ええーい! こんなことで!」
+"Chết tiệt——! Làm sao chuyện đó có thể xảy ra ở một nơi như thế này!"
+
+@10481 Sayaka · さやか
+# Kích hoạt: 未被任何选择表引用，原版不会显示
+> 「きゃっ! あぶなかった……」
+"A! Nguy hiểm quá..."
+
+@10482 Sayaka · さやか
+# Kích hoạt: 未被任何选择表引用，原版不会显示
+> 「ふう、たすかった」
+"Phù, được cứu rồi"
+
+@10483 Sayaka · さやか
+# Kích hoạt: 未被任何选择表引用，原版不会显示
+> 「ベーだ! あたんないわよ!」
+"Hơi——! Không thể đánh được!"
+
+@10702 NT Soldier · NT兵士
+# Kích hoạt: 未被任何选择表引用，原版不会显示
+> 「グレミー様のために……」
+"Dành cho chủ nhân Gremy..."
+
+@10703 NT Soldier · NT兵士
+# Kích hoạt: 未被任何选择表引用，原版不会显示
+> 「命にかえても……」
+“Cho dù phải trả giá bằng mạng sống của mình…”
+
+@10704 NT Soldier · NT兵士
+# Kích hoạt: 未被任何选择表引用，原版不会显示
+> 「……敵は倒す」
+"...đánh bại kẻ thù."
+
+@10705 NT Soldier · NT兵士
+# Kích hoạt: 未被任何选择表引用，原版不会显示
+> 「…………」
+“…………”
+
+@10706 NT Soldier · NT兵士
+# Kích hoạt: 未被任何选择表引用，原版不会显示
+> 「……」
+"..."
+
+@10707 NT Soldier · NT兵士
+# Kích hoạt: 未被任何选择表引用，原版不会显示
+> 「あぁぁーっ!?」
+"Ahhh——!?"
+
+@10708 NT Soldier · NT兵士
+# Kích hoạt: 未被任何选择表引用，原版不会显示
+> 「うわぁぁぁーっ!」
+"Ooohhhhhhhhh-!"
+
+@10709 NT Soldier · NT兵士
+# Kích hoạt: 未被任何选择表引用，原版不会显示
+> 「くうぅぅっ!!」
+"Uuuuuuuuuuuuuuuuu"
+
+@10710 NT Soldier · NT兵士
+# Kích hoạt: 未被任何选择表引用，原版不会显示
+> 「…………!?」
+“………!?”
+
+@10711 NT Soldier · NT兵士
+# Kích hoạt: 未被任何选择表引用，原版不会显示
+> 「!?」
+"!?"
+
+@10712 NT Soldier · NT兵士
+# Kích hoạt: 未被任何选择表引用，原版不会显示
+> 「うっ……」
+"Ờ..."
+
+@10713 NT Soldier · NT兵士
+# Kích hoạt: 未被任何选择表引用，原版不会显示
+> 「…………」
+“…………”
+
+@10714 NT Soldier · NT兵士
+# Kích hoạt: 未被任何选择表引用，原版不会显示
+> 「……」
+"..."
+
+@10715 NT Soldier · NT兵士
+# Kích hoạt: 未被任何选择表引用，原版不会显示
+> 「くうぅぅっ!!」
+"Uuuuuuuuuuuuuuuuu"
+
+@10716 NT Soldier · NT兵士
+# Kích hoạt: 未被任何选择表引用，原版不会显示
+> 「…………!?」
+“………!?”
+
+@10717 NT Soldier · NT兵士
+# Kích hoạt: 未被任何选择表引用，原版不会显示
+> 「!?」
+"!?"
+
+@10718 NT Soldier · NT兵士
+# Kích hoạt: 未被任何选择表引用，原版不会显示
+> 「うっ……」
+"Ờ..."
+
+@10719 NT Soldier · NT兵士
+# Kích hoạt: 未被任何选择表引用，原版不会显示
+> 「…………」
+“…………”
+
+@10720 NT Soldier · NT兵士
+# Kích hoạt: 未被任何选择表引用，原版不会显示
+> 「……」
+"..."
+
+@10721 NT Soldier · NT兵士
+# Kích hoạt: 未被任何选择表引用，原版不会显示
+> 「くうぅぅっ!!」
+"Uuuuuuuuuuuuuuuuu"
+
+@10722 NT Soldier · NT兵士
+# Kích hoạt: 未被任何选择表引用，原版不会显示
+> 「…………!?」
+“………!?”
+
+@10723 NT Soldier · NT兵士
+# Kích hoạt: 未被任何选择表引用，原版不会显示
+> 「!?」
+"!?"
+
+@10724 NT Soldier · NT兵士
+# Kích hoạt: 未被任何选择表引用，原版不会显示
+> 「うっ……」
+"Ờ..."
+
+@10725 NT Soldier · NT兵士
+# Kích hoạt: 未被任何选择表引用，原版不会显示
+> 「…………」
+“…………”
+
+@10726 NT Soldier · NT兵士
+# Kích hoạt: 未被任何选择表引用，原版不会显示
+> 「……」
+"..."
+
+@10727 NT Soldier · NT兵士
+# Kích hoạt: 未被任何选择表引用，原版不会显示
+> 「フン……」
+"Hừm..."
+
+@10728 NT Soldier · NT兵士
+# Kích hoạt: 未被任何选择表引用，原版不会显示
+> 「…………」
+“…………”
+
+@10729 NT Soldier · NT兵士
+# Kích hoạt: 未被任何选择表引用，原版不会显示
+> 「…………」
+“…………”
+
+@10730 NT Soldier · NT兵士
+# Kích hoạt: 未被任何选择表引用，原版不会显示
+> 「……!」
+"...! "
+
+@10731 NT Soldier · NT兵士
+# Kích hoạt: 未被任何选择表引用，原版不会显示
+> 「……!」
+"...! "
+
+@14527 Le Cain · ル・カイン
+# Kích hoạt: 未被任何选择表引用，原版不会显示
+> 「V-MAXスーパーチャージ、オン!!」
+"V-MAX siêu sạc, bắt đầu!!"
+
+@14528 Le Cain · ル・カイン
+# Kích hoạt: 未被任何选择表引用，原版不会显示
+> 「フン、愚かな」
+"Hừ, ngu ngốc"
+
+@14529 Le Cain · ル・カイン
+# Kích hoạt: 未被任何选择表引用，原版不会显示
+> 「それで私に当てたつもりか?」
+"Ngươi nghĩ có thể đánh ta như vậy sao?"
+
+@14530 Le Cain · ル・カイン
+# Kích hoạt: 未被任何选择表引用，原版不会显示
+> 「フッ、貴様ごときでは、このザカールに
+>  傷一つつけることはできまい」
+"Hừm, với một kẻ như anh, anh thậm chí không thể nghĩ đến việc làm tổn thương Zakaar này."

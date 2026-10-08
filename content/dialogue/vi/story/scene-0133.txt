@@ -1,0 +1,502 @@
+# Bản dịch tiếng Việt Super Robot Wars 64
+# Định dạng và vị trí: docs/guide/dialogue-text.md
+
+@43610 Haman · ハマーン
+> 「やはり来たか、{HeroMech}。
+>  グレミーを倒してくれたようだな
+{HeroMech} "Anh ấy đây rồi, _XEROMECHX_. Có vẻ như bạn đã đánh bại Gremy vì tôi.
+---
+>  礼をいおう」
+Tôi phải nói lời cảm ơn. "
+
+@43611 Kamille · カミーユ
+> 「別にお前のためにやったわけじゃない!」
+"Tôi không chiến đấu chỉ vì bạn!"
+
+@43612 Judau · ジュドー
+> 「もう終わりだハマーン。
+>  お前の足場は崩れ落ちた」
+"Hết rồi, Haman. Nền móng của anh đã sụp đổ rồi."
+
+@43613 Haman · ハマーン
+> 「小ざかしいことを少年がいうのか?
+>  ……フッ、フフフ、いいだろう
+“Sao một đứa trẻ dám nói những lời ngạo mạn?…Hmph, hum, hum, ổn thôi.
+---
+>  ここで決着をつけるとしよう。
+>  お前たちさえいなくなれば
+Hãy kết thúc nó ở đây. Chỉ cần bạn biến mất,
+---
+>  もはや私をはばむ者はない。私は
+>  お前たちを倒したうえで、ゆっくりと
+Không ai có thể ngăn cản tôi nữa. Sau khi đánh bại ngươi, tôi sẽ dành thời gian
+---
+>  地球圏を掌握させてもらう」
+Giữ vòng tròn trái đất trong tay của bạn. "
+
+@43614 Banjo · 万丈
+> 「そう何もかも都合よくいくと
+>  思うなよ、ハマーン!」
+“Đừng nghĩ mọi chuyện sẽ theo ý mình, Haman!”
+
+@43615 Haman · ハマーン
+> 「どういわれようと、己の運命は
+>  自分で切り開くのが私だ!」
+"Mặc kệ người khác nói thế nào, ta, Haman, vẫn luôn là chính mình tạo ra vận mệnh!"
+
+@43616 Bright · ブライト
+> 「パイロット各員は発進急げ!
+>  みんな、健闘を祈る!」
+"Các phi công sẽ tấn công ngay lập tức! Mọi người, chúc các bạn chiến thắng!"
+
+@43617 Haman · ハマーン
+> 「なに!?」
+"Cái gì!?"
+
+@43618 Bright · ブライト
+> 「まだ残っていたのか!? やっかいな!」
+“Còn kẻ địch nào nữa không!? Rắc rối thật!”
+
+@43619 Gato · ガトー
+> 「再びジオンの栄光をかかげるために!
+>  我々はここで負けるわけにはいかん!」
+"Để một lần nữa nâng cao vinh quang của Zeon! Chúng ta không được thua ở đây!"
+
+@43620 Gato · ガトー
+> 「ハマーン殿はおちたか……だが、もはや
+>  後退する場所はない!」
+"Chúa Haman đã thất thủ... Nhưng chúng ta không còn đường rút lui!"
+
+@43621 Kamille · カミーユ
+> 「わかった! お前は生きていては
+>  いけない人間なんだ!
+"Tôi hiểu rồi! Bạn là người không nên sống trên thế giới này!
+---
+>  暗黒の世界へもどれ、ハマーン・
+>  カーン!! ここから、いなくなれッ!!」
+Trở lại thế giới đen tối, Harman Kahn! ! Biến mất khỏi đây! ! "
+
+@43622 Haman · ハマーン
+> 「カミーユ・ビダンか!?
+>  貴様は危険すぎるな、少年!
+"Camus Bidan!? Cậu quá nguy hiểm đấy cậu bé!"
+---
+>  今ここで私が排除する!」
+Tôi sẽ loại bỏ bạn ngay tại đây! "
+
+@43623 Amuro · アムロ
+> 「ハマーン! なぜそう何もかもを
+>  否定する!?
+"Haman! Tại sao lại phủ nhận mọi thứ!?
+---
+>  そういう意思をなくせば、俺たち
+>  だってわかりあえて、シャアだって……」
+Chỉ cần chúng ta buông bỏ suy nghĩ đó, chúng ta có thể hiểu nhau, và Hạ cũng vậy…”
+
+@43624 Haman · ハマーン
+> 「やさしさがニュータイプの力だと
+>  勘違いしている男が!
+“Kẻ nhầm lẫn sự dịu dàng với sức mạnh của nhân loại mới!
+---
+>  女が誰でもそれを受け入れるなどと
+>  思うな、アムロ・レイ!」
+Đừng nghĩ phụ nữ sẽ chấp nhận chuyện đó nhé Amuro Ray! "
+
+@43625 Amuro · アムロ
+> 「なに!?」
+"Cái gì!?"
+
+@43626 Judau · ジュドー
+> 「ハマーン!」
+"Haman!"
+
+@43627 Haman · ハマーン
+> 「なんだ? ……人の想いが、
+>  人の意思が力となっていくのか!?」
+“Cái gì?… Liệu suy nghĩ và ý chí của con người có thể biến thành sức mạnh không!?”
+
+@43628 Judau · ジュドー
+> 「そうだ、あなたにも見えているはずだ。
+>  戦いで無駄死にをした
+"Ừ, cậu cũng có thể nhìn thấy nó. Những người đã chết vô ích trong trận chiến
+---
+>  人の意思が!」
+Sẽ! "
+
+@43629 Haman · ハマーン
+> 「人は生きる限りひとりだよ。人類
+>  そのものもそうだ。人類すべてがそう
+"Người ta cô đơn chừng nào họ còn sống. Điều này cũng đúng với chính con người. Làm thế nào mà tất cả con người có thể
+---
+>  やすやすと変われるものか! その前に
+>  人類は地球を食い尽くすよ!」
+Thay đổi thật dễ dàng! Trước đó, con người sẽ ăn hết trái đất! "
+
+@43630 Judau · ジュドー
+> 「憎しみは憎しみを呼ぶだけだって、
+>  わかれ!」
+"Ghét chỉ sinh ra ghét, bạn hiểu không!"
+
+@43631 Haman · ハマーン
+> 「憎しみがあってこそ、
+>  人は強くなれる!
+"Chính vì hận thù mà con người mới có thể trở nên mạnh mẽ hơn!
+---
+>  私はそうやって地球圏へと
+>  もどってきた!」
+Đây là cách tôi quay trở lại Vòng tròn Trái đất! "
+
+@43632 Judau · ジュドー
+> 「そんなもので地球が救えるか!
+>  憎しみを生むもの
+"Loại vật này có thể cứu được trái đất không? Bỏ những thứ gây ra hận thù,
+---
+>  憎しみを育てる血を、吐き出せ!」
+Nhổ hết máu sinh ra hận thù! "
+
+@43633 Haman · ハマーン
+> 「吐き出すものなど、ないッ!!」
+“Tôi chẳng có gì để nôn cả!!”
+
+@43634 Haman · ハマーン
+> 「くっ……まだやられんといいたいが……
+>  私の負けだな」
+“Chà… tôi thực sự muốn nói rằng tôi chưa thua… nhưng lần này tôi đã thua.”
+
+@43635 Judau · ジュドー
+> 「ハマーン……その力のすべてを
+>  いい方向に使えば
+"Haman...nếu cậu sử dụng toàn bộ sức mạnh của mình theo hướng tốt,
+---
+>  地球だって救えたかもしれないのに!」
+Có lẽ ngay cả trái đất cũng có thể được cứu! "
+
+@43636 Haman · ハマーン
+> 「無駄だよ、ジュドー。
+>  アステロイドベルトまで行った人間が
+“Vô ích thôi Jiedu. Những người đã đến vành đai tiểu hành tinh
+---
+>  もどってくるっていうのはな、人類が
+>  まだ地球という存在に
+quay lại, điều này chỉ cho thấy con người vẫn còn bị ám ảnh bởi sự tồn tại của trái đất
+---
+>  縛りつけられている、証拠だろ」
+Bị mắc kẹt. "
+
+@43637 Judau · ジュドー
+> 「だからって、こんな戦いをしたって
+>  なんにも……」
+“Nhưng dù vậy, chiến đấu kiểu này cũng chẳng có ý nghĩa gì cả…”
+
+@43638 Haman · ハマーン
+> 「そうさ、賢しいお前らのおかげで、
+>  人類が負わされた
+"Đúng vậy, nhờ có những người thông minh như các bạn mà rốt cuộc tôi đã thất bại trong việc thay thế con người.
+---
+>  地球の呪縛を、断ち切って
+>  やることができなかったよ……」
+Phá bỏ lời nguyền của trái đất..."
+
+@43639 Judau · ジュドー
+> 「ハマーン!?」
+"Haman!?"
+
+@43640 Haman · ハマーン
+> (シャア……なぜ私と……)
+(Char... sao cậu lại ở với tôi...)
+
+@43641 Haman · ハマーン
+> 「くっ……シャア……なぜ私と……」
+"Ừm...Char...sao cậu lại ở với tôi..."
+
+@43642 Gato · ガトー
+> 「ハマーン殿!? くっ……だが、もはや
+>  後退する場所はない!」
+"Chúa Haman! ? Chà...nhưng chúng ta đang ở cuối sợi dây rồi! "
+
+@43643 Axis Soldier · アクシズ兵
+> 「ハ、ハマーン様が!? くっ……」
+“Ha-Chúa Haman! ? Ừm..."
+
+@43644 Gato · ガトー
+> 「くっ……情けない、このような所で
+>  終わるとは……」
+"Ư...thật là hèn nhát, lại rơi vào một nơi như thế này..."
+
+@43645 Duo · デュオ
+> 「なぁ、俺たち……勝てたんだよな?」
+"Này, chúng ta...chúng ta đã thắng rồi phải không? "
+
+@43646 Trowa · トロワ
+> 「ああ、そのはずだ」
+"À, lẽ ra phải như vậy. "
+
+@43647 Show · ショウ
+> 「とりあえずは……
+>  これで終わったってことか」
+“Dù sao thì…hãy xem xét lại chuyện đó. "
+
+@43648 Alan · アラン
+> 「だが問題は山積みだぞ。
+>  銀河帝国やアクシズ軍の
+“Nhưng có rất nhiều vấn đề. và Đế chế Thiên hà và Quân đội Trục
+---
+>  残党との小ぜりあいも、
+>  当分は続くだろう」
+Những xung đột quy mô nhỏ giữa các bên còn lại có thể sẽ tiếp tục trong một thời gian. "
+
+@43649 Koji · 甲児
+> 「なんでもいいから、とにかく
+>  今は少し休ませてくれよ
+"Không sao đâu, bây giờ hãy để tôi nghỉ ngơi.
+---
+>  もう、しばらくは何もできそうにないぜ」
+Tôi không thể làm bất cứ điều gì vào lúc này. "
+
+@43650 Bright · ブライト
+> 「そうだな……月へでも向かうか」
+“Ừ… đi lên mặt trăng thôi. "
+
+@43651 Beauty · ビューティ
+> 「でもグラナダの基地にはまだ
+>  アクシズ軍がいるんじゃなかったかしら?」
+“Nhưng không phải có Quân Trục ở căn cứ của Granada sao? "
+
+@43652 Amuro · アムロ
+> 「連中も、これ以上戦っても
+>  無意味だとわかるさ
+“Họ cũng nên hiểu rằng tiếp tục chiến đấu cũng chẳng ích gì.
+---
+>  降伏勧告は出しているんだろう?
+>  とりあえずはフォン・ブラウンにでも
+Lời khuyên đầu hàng đã được gửi đi rồi phải không? Dù sao thì chúng tôi cũng đã đáp xuống Von Braun trước.
+---
+>  降りればいい」
+Thế thôi. "
+
+@43653 Garrison · ギャリソン
+> 「それがよろしいでしょう
+>  このような状態で今後のことを
+"Điều đó tốt nhất. Trong trạng thái này, tôi suy ngẫm về kế hoạch tương lai của mình.
+---
+>  思案してもしかたありますまい。
+>  今は休息をされるのがいちばんですな」
+Đó cũng là một sự lãng phí công sức. Nghỉ ngơi là điều quan trọng nhất lúc này. "
+
+@43654 Bright · ブライト
+> 「よし、月のフォン・ブラウンへ向かおう
+>  みんな、悪いがもうしばらくは
+“Được rồi, hãy đến Von Braun trên mặt trăng. Mọi người, tôi xin lỗi, tôi phải làm lại
+---
+>  我慢してくれ」
+Hãy kiên nhẫn một lúc. "
+
+@43655 Koji · 甲児
+> 「あー、ついたついた。さぁて、
+>  たっぷり寝るとするかぁ」
+"À - nó ở đây. Được rồi, ngủ ngon nhé. "
+
+@43656 Maria · マリア
+> 「甲児、さっきまでずっと
+>  寝てたじゃない」
+"Gia Nhi, vừa rồi ngươi không ngủ sao? "
+
+@43657 Kirika · キリカ
+> 「まだ寝るんですか?」
+"Còn muốn ngủ sao? "
+
+@43658 Sayaka · さやか
+> 「今までずっとがんばってたんだから、
+>  それでもいいのよ
+“Anh ấy luôn làm việc chăm chỉ nên điều đó không thành vấn đề.
+---
+>  さ、行きましょ、甲児くん」
+Đi thôi, Jia'er. "
+
+@43659 Maria · マリア
+> 「あっ、ちょっと待ちなさいよ!」
+"A, chờ một chút!"
+
+@43660 Cecily · セシリー
+> 「こんなふうにゆったりと過ごせる日が
+>  くるなんて、ここ数年考えたことが
+“Có thể sống nhàn nhã như thế này, mấy năm nay tôi cũng chưa từng nghĩ tới.
+---
+>  なかったわ」
+Chưa bao giờ nghĩ về nó. "
+
+@43661 Seabook · シーブック
+> 「ああ。
+>  戦ってばかりの毎日だったものな」
+"Ừ. Đó là một cuộc chiến mỗi ngày. "
+
+@43662 Cecily · セシリー
+> 「本当にそうね……命令を受けて
+>  {HeroMech}と合流してから
+"Thật sự là...kể từ khi nhận được lệnh hẹn gặp {HeroMech},
+---
+>  ずっと戦い続けて……」
+Hãy tiếp tục chiến đấu..."
+
+@43663 Seabook · シーブック
+> 「それも、もうすぐ終わりさ」
+"Những ngày này sắp kết thúc."
+
+@43664 Cecily · セシリー
+> 「……コロニーのみんなは、元気かな」
+"...Mọi người trên vệ tinh thuộc địa, mọi người ổn chứ?"
+
+@43665 Seabook · シーブック
+> 「大丈夫だよ、みんな元気でいるよ
+>  この戦いが終わったら、また会えるさ」
+"Đừng lo lắng, mọi người đều ổn. Một khi trận chiến này kết thúc, chúng ta có thể gặp lại nhau."
+
+@43666 Cecily · セシリー
+> 「ええ。その時はあなたも一緒よ」
+"Ừ. Khi đến lúc cậu cũng phải đi."
+
+@43667 Seabook · シーブック
+> 「ああ……もちろんだ」
+"Ừm...tất nhiên rồi."
+
+@43668 David · デビッド
+> 「まだ問題はあるとはいえ、こんな
+>  楽な気分は何年もなかったぜ
+“Mặc dù vấn đề vẫn còn đó nhưng đã nhiều năm rồi tôi không có tâm trạng thoải mái như vậy.
+---
+>  エイジ、ロアン、アーサー、酒でも
+>  飲んで寝ちまうとしようぜ。おっと
+Eiji, Luo An, Arthur, chúng ta uống chút rượu rồi đi ngủ nhé. Ồ đúng rồi,
+---
+>  エイジはアンナと一緒のほうが
+>  よかったか」
+Sẽ tốt hơn nếu Eiji ở lại với Anna. "
+
+@43669 Anna · アンナ
+> 「デビッド!」
+"David!"
+
+@43670 Roux · ルー
+> 「ばかなこといってないで、
+>  さっさと行きなさいよ」
+“Đừng nói những điều ngu ngốc nữa và nhanh chóng rời đi.”
+
+@43671 Simone · シモーヌ
+> 「まったくねぇ。ほら、あんたたちも」
+"Đó là sự thật. Này, các cậu cũng nên đi đi."
+
+@43672 Tetsuya · 鉄也
+> 「まったく、気楽な連中だぜ。
+>  残党どころか
+“Hừ, một lũ vô tâm. Chưa kể tàn dư,
+---
+>  正体不明の敵だって
+>  残ってるってのによ」
+Ngay cả kẻ thù không rõ nguồn gốc vẫn còn đó. "
+
+@43673 Jun · ジュン
+> 「今くらいはいいじゃない。今まで
+>  ずっと必死にやってきたんだからさ
+"Bây giờ có vấn đề gì nếu bạn thư giãn? Mọi người đã làm việc chăm chỉ cho đến bây giờ,
+---
+>  少しくらい休んだって
+>  バチは当たらないわ」
+Sẽ không có quả báo nếu bạn nghỉ ngơi một chút. "
+
+@43674 Chief Chujo · 中条長官
+> 「そう思うな。ここは我々にまかせて、
+>  ブライト君たちも休んでくれたまえ」
+"Tôi cũng nghĩ vậy. Hãy để việc này cho chúng tôi, Brett, anh cũng có thể đi nghỉ ngơi."
+
+@43675 Prof. Yumi · 弓教授
+> 「ああ、そうしてもらったほうがいいな。
+>  我々は君たちほど
+"Ừ thì tốt nhất. Chúng tôi không giỏi bằng bạn."
+---
+>  疲れてはいないからね」
+Mệt mỏi. "
+
+@43676 Banjo · 万丈
+> 「では、お言葉に甘えるとしましょう。
+>  艦長、僕たちも少し休んでおこう」
+"Vậy thì nên tôn trọng hơn là vâng lời. Đội trưởng, chúng ta hãy nghỉ ngơi một lát đi."
+
+@43677 Bright · ブライト
+> 「そうさせてもらいましょう。
+>  ではあとを頼みます」
+"Vậy thì hãy làm điều đó. Hãy làm điều đó sau đó nhé."
+
+@43678 Dr. Hazuki · 葉月博士
+> 「我々はガンドールにいます。
+>  何かあったら連絡をいれますよ」
+"Chúng tôi đang ở Gondor. Chúng tôi sẽ liên lạc với bạn nếu có chuyện gì xảy ra."
+
+@43679 Sally · サリィ
+> 「え? それ本当なんですか?」
+"Hả? Điều đó có đúng không?"
+
+@43680 Dr. Hazuki · 葉月博士
+> 「うむ。アステロイドに設置した
+>  監視衛星だ
+“Ừ. Đó là một vệ tinh giám sát được thiết lập trên một tiểu hành tinh.
+---
+>  今、ギャリソンに分析して
+>  もらっているが……」
+Bây giờ hãy để Garrison phân tích…”
+
+@43681 Chief Chujo · 中条長官
+> 「……やはり、奴らかね」
+“…Chắc chắn rồi, là những kẻ đó.”
+
+@43682 Dr. Hazuki · 葉月博士
+> 「間違いないでしょう。
+>  やはり連中は“刻印”の
+"Chắc phải rồi. Có vẻ như những kẻ đó không bị 'đánh dấu'
+---
+>  影響を受けないようですな」
+ảnh hưởng. "
+
+@43683 Chief Chujo · 中条長官
+> 「たった数日か……命がけで
+>  戦ってきた彼らには
+“Chỉ mới có vài ngày thôi… Với những người đã chiến đấu bằng mạng sống của mình,
+---
+>  少々短い休暇だったな」
+Kỳ nghỉ này quá ngắn. "
+
+@43684 Sally · サリィ
+> 「なんてこと……ブライト艦長たちに
+>  連絡を……」
+“Sao có thể… nhanh chóng liên lạc với Đội trưởng Bright và những người khác…”
+
+@43685 Dr. Yotsuya · 四谷博士
+> 「待ちなさい。まだしばらくは
+>  余裕がある
+"Chờ một chút, hiện tại vẫn còn thời gian.
+---
+>  彼らにはもうしばらく
+>  休んでいてもらおう
+Hãy để họ nghỉ ngơi một lúc.
+---
+>  今の地球には、彼ら以外に
+>  対応できる者はおらんだろう」
+Không ai trên trái đất ngày nay có thể xử lý được điều đó ngoại trừ họ. "
+
+@43686 Dr. Hazuki · 葉月博士
+> 「ええ。我々はその間に
+>  観測データの収集と分析に
+"Được rồi, chúng ta hãy tận dụng thời gian này để thu thập và phân tích dữ liệu quan sát.
+---
+>  とりかかりましょう。奴らがどこから
+>  くるのか特定しなければなりません」
+Chúng ta phải tìm ra những kẻ đó đến từ đâu. "
+
+@43687 Dr. Saotome · 早乙女博士
+> 「ふむ、それと可能なら、
+>  そこへ我々が行く方法もだな」
+"À, ngoài ra, nếu có thể, chúng ta cần tìm cách để đến được đó."
+
+@43688 Prof. Yumi · 弓教授
+> 「どうやら、我々も
+>  忙しくなりそうですな」
+"Có vẻ như chúng ta cũng sẽ bận rộn."

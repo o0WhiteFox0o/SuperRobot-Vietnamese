@@ -1,0 +1,294 @@
+# Bản dịch tiếng Việt Super Robot Wars 64
+# Định dạng và vị trí: docs/guide/dialogue-text.md
+
+@8060 Char · シャア
+# Kích hoạt: Tấn công (Chung，1/12）
+> 「あたれぃ!」
+"Đưa nó cho tôi!"
+
+@8061 Char · シャア
+# Kích hoạt: Tấn công (Chung，2/12）
+> 「そこかっ!!」
+"Đó!!"
+
+@8062 Char · シャア
+# Kích hoạt: Tấn công (Chung，3/12）
+> 「沈めっ!」
+"Chìm!"
+
+@8063 Char · シャア
+# Kích hoạt: Tấn công (Chung，4/12）
+> 「やってみるさ!」
+"Vậy thì thử xem!"
+
+@8064 Char · シャア
+# Kích hoạt: Tấn công (Chung，5/12）
+> 「いけるかっ!?」
+"Có thể làm được không!?"
+
+@8065 Char · シャア
+# Kích hoạt: Tấn công (Chung，6/12）
+> 「そこだ!」
+"Chính là nó!"
+
+@8066 Char · シャア
+# Kích hoạt: Tấn công (Chung，7/12）
+> 「あたれよ!」
+"Đánh tôi đi!"
+
+@8067 Char · シャア
+# Kích hoạt: Tấn công (Chung，8/12）
+> 「おそいっ!!」
+"Quá chậm!!"
+
+@8068 Char · シャア
+# Kích hoạt: Tấn công (Chung，9/12）
+> 「直撃させる!」
+"Ta sẽ cho ngươi một đòn trực tiếp!"
+
+@8069 Char · シャア
+# Kích hoạt: Tấn công (Chung，10/12）
+> 「やらせんっ!!」
+"Đừng nghĩ tới chuyện đó nữa!!"
+
+@8070 Char · シャア
+# Kích hoạt: Tấn công (Chung，11/12）
+> 「もらった!!」
+"Hiểu rồi!!"
+
+@8071 Char · シャア
+# Kích hoạt: Tấn công (Chung，12/12）
+> 「あまいなっ!!」
+"Thật ngây thơ!!"
+
+@8072 Char · シャア
+# Kích hoạt: 被击坠（通用，1/3）
+> 「し、しまった!!」
+"Ối, ôi!!"
+
+@8073 Char · シャア
+# Kích hoạt: 被击坠（通用，2/3）
+> 「直撃だと!?」
+“Tấn công trực tiếp!?”
+
+@8074 Char · シャア
+# Kích hoạt: 被击坠（通用，3/3）
+> 「やられた!?」
+"Giết chết!?"
+
+@8075 Char · シャア
+# Kích hoạt: 重伤（剩余 HP 不足 30%）（通用，1/6）
+> 「なんだと!?」
+"Cái gì!?"
+
+@8076 Char · シャア
+# Kích hoạt: 重伤（剩余 HP 不足 30%）（通用，2/6）
+> 「くっ、直撃をくらったのか!?」
+“Hmm, cậu ăn đòn trực tiếp à!?”
+
+@8077 Char · シャア
+# Kích hoạt: 重伤（剩余 HP 不足 30%）（通用，3/6）
+> 「まだだ! まだ終わらんよ!」
+"Vẫn chưa kết thúc! Vẫn chưa kết thúc!"
+
+@8078 Char · シャア
+# Kích hoạt: 重伤（剩余 HP 不足 30%）（通用，4/6）
+> 「くっ!! ダメージを受けすぎたか!?」
+"Ugh!! Có đau quá không!?"
+
+@8079 Char · シャア
+# Kích hoạt: 重伤（剩余 HP 不足 30%）（通用，5/6）
+> 「くっ!
+>  パワー負けしているというのか!?」
+"Hừm! Chẳng lẽ thực lực không bằng đối phương sao!?"
+
+@8080 Char · シャア
+# Kích hoạt: 重伤（剩余 HP 不足 30%）（通用，6/6）
+> 「モ、モニターが死ぬ!?」
+"Màn hình hiển thị chuyển sang màu đen!?"
+
+@8081 Char · シャア
+# Kích hoạt: 中伤（剩余 HP 30–90%）（通用，1/10）
+> 「やるな! しかし!!」
+"Phải mất một lúc! Nhưng!!"
+
+@8082 Char · シャア
+# Kích hoạt: 中伤（剩余 HP 30–90%）（通用，2/10）
+> 「なにっ!? こ、こいつっ!!」
+"Cái gì!? Cái này, cái gã này!!"
+
+@8083 Char · シャア
+# Kích hoạt: 中伤（剩余 HP 30–90%）（通用，3/10）
+> 「ちいっ!」
+"Chậc!"
+
+@8084 Char · シャア
+# Kích hoạt: 中伤（剩余 HP 30–90%）（通用，4/10）
+> 「うっ!! やるな!!」
+"Ugh!! Phải mất một lúc đấy!!"
+
+@8085 Char · シャア
+# Kích hoạt: 中伤（剩余 HP 30–90%）（通用，5/10）
+> 「ちぃっ!! まだだっ!」
+"Tsk!! Vẫn chưa kết thúc đâu!"
+
+@8086 Char · シャア
+# Kích hoạt: 中伤（剩余 HP 30–90%）（通用，6/10）
+> 「なんと!」
+"Cái gì!"
+
+@8087 Char · シャア
+# Kích hoạt: 中伤（剩余 HP 30–90%）（通用，7/10）
+> 「やるっ! だが勝負はこれからだ!」
+"Có chút thời gian! Nhưng thắng thua vẫn còn sớm!"
+
+@8088 Char · シャア
+# Kích hoạt: 中伤（剩余 HP 30–90%）（通用，8/10）
+> 「むうっ! 当たっただと!?」
+"Hmm! Nó trúng thật à!?"
+
+@8089 Char · シャア
+# Kích hoạt: 中伤（剩余 HP 30–90%）（通用，9/10）
+> 「まだだ! この程度のダメージで!」
+"Vẫn chưa xong đâu! Vết thương nhỏ này chẳng là gì cả!"
+
+@8090 Char · シャア
+# Kích hoạt: 中伤（剩余 HP 30–90%）（通用，10/10）
+> 「パワーが負けている!?」
+"Sức mạnh không bằng đối phương!?"
+
+@8091 Char · シャア
+# Kích hoạt: 轻伤（剩余 HP 90% 以上）（通用，1/7）
+> 「まだまだだな!!」
+“Thậm chí còn không gần được!!”
+
+@8092 Char · シャア
+# Kích hoạt: 轻伤（剩余 HP 90% 以上）（通用，2/7）
+> 「くっ!! まだだ!!」
+"Ugh!! Vẫn chưa kết thúc đâu!!"
+
+@8093 Char · シャア
+# Kích hoạt: 轻伤（剩余 HP 90% 以上）（通用，3/7）
+> 「その程度では落ちんよ!!」
+"Đòn tấn công này không thể đánh bại tôi!!"
+
+@8094 Char · シャア
+# Kích hoạt: 轻伤（剩余 HP 90% 以上）（通用，4/7）
+> 「まだだ!!」
+"Vẫn chưa kết thúc đâu!!"
+
+@8095 Char · シャア
+# Kích hoạt: 轻伤（剩余 HP 90% 以上）（通用，5/7）
+> 「かすっただけだ!」
+"Chỉ là nhìn thoáng qua mà thôi!"
+
+@8096 Char · シャア
+# Kích hoạt: 轻伤（剩余 HP 90% 以上）（通用，6/7）
+> 「効かんな!」
+"Nó không đau hay ngứa!"
+
+@8097 Char · シャア
+# Kích hoạt: 轻伤（剩余 HP 90% 以上）（通用，7/7）
+> 「ちっ! まだだっ!」
+"Tsk! Vẫn chưa kết thúc đâu!"
+
+@8098 Char · シャア
+# Kích hoạt: Né tránh（通用，1/4）
+> 「あまいなっ!」
+"Thật ngây thơ!"
+
+@8099 Char · シャア
+# Kích hoạt: Né tránh（通用，2/4）
+> 「そうそうあたるものではない!」
+"Không dễ đánh như vậy!"
+
+@8100 Char · シャア
+# Kích hoạt: Né tránh（通用，3/4）
+> 「あたりはせんよ!!」
+"Bạn không thể đánh nó!!"
+
+@8101 Char · シャア
+# Kích hoạt: Né tránh（通用，4/4）
+> 「そこかっ!」
+"Đó!"
+
+@8102 Char · シャア
+# Kích hoạt: Tấn công无效（护罩／装甲）（通用，1/3）
+> 「フッ 効かんよ!」
+"Hừm, không đau cũng không ngứa!"
+
+@8103 Char · シャア
+# Kích hoạt: Tấn công无效（护罩／装甲）（通用，2/3）
+> 「ビームなど効かん!」
+"Dầm và các thứ đều vô dụng!"
+
+@8104 Char · シャア
+# Kích hoạt: Tấn công无效（护罩／装甲）（通用，3/3）
+> 「なんの!」
+"Đó là một trò đùa!"
+
+@8106 Char · シャア
+# Kích hoạt: 弹药／EN 不足，无法反击（通用，1/1）
+> 「ちぃっ、パワーダウンだと!?」
+“Tsk, mất điện rồi à!?”
+
+@8107 Char · シャア
+# Kích hoạt: 射程外，无法反击（通用，1/1）
+> 「くっ! 射程距離外からとはな」
+"Ugh! Nó thực sự đến từ bên ngoài phạm vi."
+
+@14572 Char · シャア
+# Kích hoạt: 使用〈ファンネル／マザーファンネル〉
+> 「ファンネル!!」
+"Pháo nổi!!"
+
+@14573 Char · シャア
+# Kích hoạt: 使用〈ファンネル／マザーファンネル〉
+> 「いけっ! ファンネル!!」
+"Nào! Pháo nổi!!"
+
+@14574 Char · シャア
+# Kích hoạt: 使用〈フィンファンネル〉
+> 「いけっ! フィンファンネル!!」
+"Nào! Pháo nổi hình vây!!"
+
+@14575 Char · シャア
+# Kích hoạt: 使用〈フィンファンネル〉
+> 「フィンファンネル!!」
+"Pháo nổi có vây!!"
+
+@14576 Char · シャア
+# Kích hoạt: 使用〈ハイメガキャノン〉（低优先，可能被通用台词顶掉）
+> 「エネルギー充填……
+>  いけっ! ハイメガキャノン!!」
+"Nạp năng lượng... tiếp tục! Mega Cannon năng lượng cao!!"
+
+@14577 Char · シャア
+# Kích hoạt: Né tránh，条件 1000
+> 「フッ、甘いな」
+“Hừm, ngây thơ quá.”
+
+@14578 Char · シャア
+# Kích hoạt: Né tránh，条件 1000
+> 「ダミーにかかったか」
+"Bạn đã bị lừa bởi một quả bom mồi."
+
+@14579 Char · シャア
+# Kích hoạt: Né tránh，条件 1000
+> 「ダミーも使い方次第なのだよ」
+“Điều đó còn phụ thuộc vào cách bạn sử dụng bom mồi.”
+
+@14580 Char · シャア
+# Kích hoạt: Né tránh，条件 1000
+> 「その程度の攻撃では、やられんよ」
+"Đòn tấn công nhỏ này không thể đánh bại tôi."
+
+@14581 Char · シャア
+# Kích hoạt: Né tránh，条件 1000
+> 「ダミーにいってくれたか……」
+"Có phải bạn đã bắn trúng bom mồi không..."
+
+@14582 Char · シャア
+# Kích hoạt: Né tránh，条件 1000
+> 「フッ、その程度か」
+“Hmph, thế thôi.”

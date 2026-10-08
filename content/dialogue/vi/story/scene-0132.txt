@@ -1,0 +1,479 @@
+# Bản dịch tiếng Việt Super Robot Wars 64
+# Định dạng và vị trí: docs/guide/dialogue-text.md
+
+@43528 Glemy · グレミー
+> 「くっ、まさかハマーンより先に
+>  お前たちがくるとはな
+“Hừ, không ngờ cậu lại đến đây trước Haman.
+---
+>  よかろう、まずはお前たちから
+>  片づけてやる!」
+Được rồi, hãy chăm sóc bạn trước! "
+
+@43529 Ple-Two · プルツー
+> 「くっ……」
+"Ờ..."
+
+@43530 Glemy · グレミー
+> 「どうしたプルツー? 奴らを倒せ!」
+"Chuyện gì đang xảy ra thế, Plutz? Hạ gục bọn chúng!"
+
+@43531 Ple-Two · プルツー
+> 「わかってるッ!」
+"Tôi biết!"
+
+@43532 Ple · プル
+> 「もうやめてプルツー! ジュドーやカミーユ
+>  たちの邪魔をしないで!」
+"Dừng lại đi, Plutz! Đừng can thiệp vào Jiedu và Camus!"
+
+@43533 Ple-Two · プルツー
+> 「くっ……お前か! さっきから私の
+>  頭に中に入りこもうとするのは!」
+"Hmm...là anh à! Vừa rồi chính anh là người đang cố chui vào đầu tôi!"
+
+@43534 Ple · プル
+> 「ジュドーたちは敵じゃない。
+>  ジュドーたちと一緒にいると
+"Jidu và những người khác không phải là kẻ thù. Với họ,
+---
+>  気持ちがいいんだってこと、
+>  なんで気づかないの!?」
+Bạn sẽ cảm thấy rất thoải mái, tại sao bạn lại không hiểu! ? "
+
+@43535 Ple-Two · プルツー
+> 「やめろ!! 私を、
+>  混乱させるなぁっ!!」
+"Im đi!! Đừng làm phiền tôi!!"
+
+@43536 Glemy · グレミー
+> 「あれは……ルーさんがいるのか!?
+>  ルー・ルカ、やめるんだ
+"Có phải...Cô Lu cũng ở đó không!? Lu, Luka, dừng lại,
+---
+>  君はパイロットをやっていては
+>  いけないのだ」
+Bạn không nên làm phi công. "
+
+@43537 Roux · ルー
+> 「もう、何勝手なこといってんのよ!」
+"Thật đấy, cậu đang nói vớ vẩn gì ở đó vậy!"
+
+@43538 Judau · ジュドー
+> 「グレミーの人形になってしまって
+>  いいのか!? プルツー!」
+"Bạn có sẵn sàng trở thành con rối của Gremy không!? Plutz!"
+
+@43539 Ple-Two · プルツー
+> 「ジュドー……」
+"Jidu..."
+
+@43540 Glemy · グレミー
+> 「やめろ! 私には戦わねばならぬ
+>  大義がある!
+"Im đi! Tôi có một lý tưởng chính đáng mà tôi phải đấu tranh!
+---
+>  お前こそ、無意味に戦いを
+>  続けているだけではないか」
+Mặt khác, bạn chỉ đang chiến đấu vô nghĩa! "
+
+@43541 Judau · ジュドー
+> 「な……なに!?」
+"Cái...cái gì! ? "
+
+@43542 Glemy · グレミー
+> 「お前が戦っているのは、状況に
+>  すぎんだろう! しかし私は違う
+"Khi bạn chiến đấu, bạn chỉ bị hoàn cảnh thúc đẩy! Nhưng tôi thì khác.
+---
+>  自ら過酷な生き方を選び、
+>  後悔はしていない。お前には
+Tôi đã tự mình chọn con đường khó khăn này và tôi chưa bao giờ hối hận về điều đó. trong trái tim bạn
+---
+>  内からわきあがる衝動があるまい!
+>  そんなクズは私の前から去れ!」
+Không có sự thúc đẩy nào từ trái tim cả! Biến khỏi đây đi, thứ rác rưởi này! "
+
+@43543 Judau · ジュドー
+> 「何が大義だよ! 大義があれば
+>  何だっていいってのかよ!?」
+"Chính nghĩa là cái gì! Bạn có thể làm bất cứ điều gì bạn muốn nếu bạn có chính nghĩa!?"
+
+@43544 Glemy · グレミー
+> 「私は、ザビ家の血をひく者として、
+>  この地球圏を
+"Là hậu duệ của gia tộc Zabi, tôi phải tạo ra vòng tròn trái đất này
+---
+>  正しく導かねばならんのだ!
+>  貴様にはわかるまい!」
+Hãy đi đúng hướng! Những người như bạn sẽ không hiểu được! "
+
+@43545 Judau · ジュドー
+> 「わかってたまるかよ!
+>  地球はメチャメチャだし
+"Ai muốn hiểu bạn đang làm gì! Trái đất đã hỗn loạn rồi,
+---
+>  コロニーだって半分も残っちゃいない
+>  今はね、人類全体が
+Chưa đến một nửa số vệ tinh thuộc địa còn sót lại. Hiện nay toàn thể nhân loại phải
+---
+>  新しくやりなおさなければいけないんだ。
+>  あんたみたいな小さなことにこだわる
+Bắt đầu lại từ đầu. Một người như bạn dính vào những vấn đề tầm thường,
+---
+>  人間は、倒さなくちゃ地球圏に
+>  未来は見えないんだよ!」
+Nếu tôi không đánh bại bạn, Vòng tròn Trái đất sẽ không có tương lai! "
+
+@43546 Glemy · グレミー
+> 「小さなことだと!? 私の大義を
+>  小さなことだというのか!」
+"Một chuyện tầm thường!? Bạn nói rằng lẽ phải vĩ đại của tôi là một chuyện tầm thường sao!?"
+
+@43547 Judau · ジュドー
+> 「血に縛られたような連中は、
+>  邪魔なんだよ! 人間の
+“Những kẻ có máu mủ sẽ chỉ cản đường mà thôi! Con người
+---
+>  可能性をちっぽけな自己満足
+>  のためにつぶされてたまるか!」
+Làm sao có thể dập tắt được khả năng thỏa mãn bản thân nhỏ bé của bạn! "
+
+@43548 Ple · プル
+> 「プルツー、ジュドーは
+>  やさしいことをいってるんだよ。プルツー」
+"Plutz, Jiedu đang nghĩ về bạn. Prutz."
+
+@43549 Ple-Two · プルツー
+> 「プル……」
+"Pulu..."
+
+@43550 Glemy · グレミー
+> 「何をする気だプルツー。
+>  お前の役目は奴らを倒すことだ
+“Anh muốn gì, Plutz? Công việc của anh là hạ gục bọn đó.
+---
+>  ジュドーを殺せ、プルツー!」
+Giết Jeddu, Plutz! "
+
+@43551 Ple-Two · プルツー
+> 「……ジュドー……私も、
+>  私も連れてって!!」
+"...Jidu...Tôi cũng vậy, hãy đưa tôi đi cùng!!"
+
+@43552 Glemy · グレミー
+> 「ばかなッ!? もどれプルツー!」
+"Sao có thể như vậy được!? Quay lại đi, Plutz!"
+
+@43553 Ple-Two · プルツー
+> 「いやだ! 私はジュドーたちと
+>  一緒に行く!」
+"Không! Tôi muốn đi cùng Jiedu và những người khác!"
+
+@43554 Judau · ジュドー
+> 「よし、こっちだプルツー」
+"Được rồi, lại đây đi, Phổ."
+
+@43555 Glemy · グレミー
+> 「待て! プルツー!!」
+"Dừng lại! Plutz!!"
+
+@43556 Glemy · グレミー
+> 「くっ……おのれプルツー、お前まで
+>  この私を裏切るのか!」
+"Hmm... Chết tiệt, Plutz, cậu định phản bội tôi à?"
+
+@43557 Judau · ジュドー
+> 「あんたと一緒じゃ、プルもプルツーも
+>  不幸になる!」
+"Cả Pru và Pruzi đều sẽ không hài lòng với bạn!"
+
+@43558 Glemy · グレミー
+> 「黙れ! 貴様などにいったい
+>  何がわかるというのだ!!」
+"Im đi! Những người như bạn biết gì?!"
+
+@43559 Judau · ジュドー
+> 「プルツー、グレミーはもういない。
+>  もうやめろ、プルツー!」
+"Plutz, Gremi đi rồi. Dừng lại đi, Prutz!"
+
+@43560 Ple-Two · プルツー
+> 「来るな……来るなぁっ!!」
+"Đừng tới... đừng tới đây!!"
+
+@43561 Judau · ジュドー
+> 「プルツー!?」
+"Plutz!?"
+
+@43562 Ple · プル
+> 「ジュドー……ジュドー……」
+"Jidu...Jidu..."
+
+@43563 Judau · ジュドー
+> 「どうした、プル?」
+“Có chuyện gì thế, Pru?”
+
+@43564 Ple · プル
+> 「もうだめ……ジュドー……プルツーは
+>  助けられないよ……」
+"Không còn có thể...Jiedu...không thể cứu Plutz..."
+
+@43565 Judau · ジュドー
+> 「なんだって!? どういうことだ、
+>  おい、プル!」
+"Cậu vừa nói gì thế!? Có chuyện gì vậy? Này, Pru!"
+
+@43566 Ple · プル
+> 「グレミーの死の波動に……プルツーは
+>  取り込まれちゃったんだ。もう……
+"Plutz đã bị nuốt chửng bởi làn sóng tử thần của Gremi. Đã...
+---
+>  もうどうにもできないよ……」
+Chúng ta không thể làm gì được..."
+
+@43567 Ple-Two · プルツー
+> 「不愉快な奴らめ、消えろ!
+>  私のそばに寄るな!」
+"Đồ phiền phức, biến đi! Đừng đến gần tôi!"
+
+@43568 Judau · ジュドー
+> 「プルツー……」
+"Plutz..."
+
+@43569 Roux · ルー
+> 「私のこと好きだっていうの……
+>  忘れないよ……」
+"Anh nói anh thích em... em sẽ không quên..."
+
+@43570 Glemy · グレミー
+> 「き、君か……ルー・ルカ……
+>  君にやられる!?」
+"Có phải, là anh... Lu Luka... Tôi thực sự sẽ thua anh không!?"
+
+@43571 Glemy · グレミー
+> 「こ……こんなことが……
+>  お前たちなどにぃぃぃーっ!!」
+"Sao... sao chuyện này có thể xảy ra được... Tôi thua các người rồi!!"
+
+@43572 Glemy · グレミー
+> 「こ……こんなことが……
+>  お前たちなどにぃぃぃーっ!!」
+"Sao... sao chuyện này có thể xảy ra được... Tôi thua các người rồi!!"
+
+@43573 Ple-Two · プルツー
+> 「あ……グレミー……? グレミー!?
+"À...Gremy...? Gremy!?
+---
+>  うぁぁぁぁぁぁぁーっ、いや、頭が……」
+Wuaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaa, không, đầu tôi..."
+
+@43574 Ple-Two · プルツー
+> 「うわあぁぁぁぁーっ!!」
+"Aaahhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhh!"
+
+@43575 Glemy · グレミー
+> 「プルツー、どうしたプルツー!?」
+"Plutz, cậu bị sao vậy Prutz!?"
+
+@43576 Glemy · グレミー
+> 「プルツー!? くっ、おのれぇっ!!」
+"Plutz!? Ugh, chết tiệt!!"
+
+@43577 Judau · ジュドー
+> 「あんたはもう終わりなんだよ!」
+"Bạn đã xong rồi!"
+
+@43578 Glemy · グレミー
+> 「道理のわからぬ子供がッ!!」
+"Thằng nhóc ngu dốt!!"
+
+@43579 Judau · ジュドー
+> 「プルツー……かわいそうだけど!」
+"Plutz...mặc dù thật đáng thương, nhưng đây là cách duy nhất có thể!"
+
+@43580 Ple-Two · プルツー
+> 「くっ……お前などにっ!!」
+"Ừ... tùy cậu thôi!!"
+
+@43581 Roux · ルー
+> 「あんた、みっともないよ!」
+"Trông cậu xấu quá!"
+
+@43582 Glemy · グレミー
+> 「ルーさん!?」
+"Cô Lữ!?"
+
+@43583 Ple · プル
+> 「くっ……グレミー!!」
+"Ừm...Gremy!!"
+
+@43584 Glemy · グレミー
+> 「裏切り者め!
+>  私の恩を忘れおって!」
+"Kẻ phản bội! Sao ngươi dám quên lòng tốt của ta đối với ngươi!"
+
+@43585 Ple · プル
+> 「プルツー、止められないのなら、せめて!」
+"Plutz, vì tôi không thể ngăn cậu lại nên ít nhất hãy để tôi...!"
+
+@43586 Ple-Two · プルツー
+> 「お前は不愉快だ!
+>  ここからいなくなれ!!」
+"Bạn thật phiền phức! Hãy ra khỏi đây!!"
+
+@43587 Bright · ブライト
+> 「そうか。グレミーは倒したか……」
+"Thật sao? Gremy đã bị hạ gục..."
+
+@43588 Amuro · アムロ
+> 「ベル、ハマーンの艦隊は
+>  どうなっている?」
+“Bell, hạm đội của Haman thế nào rồi?”
+
+@43589 Beltorchika · ベルトーチカ
+> 「ひどいものよ。例の
+>  キュベレイタイプのMSのせいね
+“Thật là khốn nạn, tất cả đều là do loại MS Kabini đó gây ra.
+---
+>  大打撃を受けているといっていいわ」
+Có thể nói tổn thất rất nặng nề. "
+
+@43590 Judau · ジュドー
+> 「……やろうぜ。ここで一気に
+>  ハマーンをしとめるんだ」
+"...Tiếp tục đi. Giết Haman ngay tại đây trong một lần."
+
+@43591 Domon · ドモン
+> 「そうだな。詰めを誤ると何度でも
+>  出てくる。そいつは経験済みだ」
+"Anh nói đúng, nếu không diệt tận gốc rễ, cô ta sẽ lại nổi lên. Điều này tôi đã học được từ trước rồi."
+
+@43592 Sara · 沙羅
+> 「あたしもその意見には賛成だよ。
+>  こっちもボロボロだけど
+“Tôi cũng đồng ý. Dù phía chúng ta cũng có vết sẹo,
+---
+>  今やっとかないとダメさ。
+>  そいつだけは間違いないよ」
+Nhưng nó sẽ không có tác dụng nếu chúng ta không giải quyết nó ngay bây giờ. Điều này hoàn toàn đúng. "
+
+@43593 Ryoma · リョウ
+> 「ああ。どう考えても俺たちより
+>  ハマーンの方が立て直しが早い
+"Ừ. Dù thế nào đi nữa, Haman đã tổ chức lại nhanh hơn chúng ta.
+---
+>  今を逃せば、これほどのチャンスは
+>  もうこないだろう」
+Nếu bây giờ bỏ lỡ, bạn sẽ không bao giờ có được cơ hội tốt như vậy nữa. "
+
+@43594 Elle · エレ
+> 「そう思います。ここで退いては
+>  あとに問題を残すことになります
+“Ta cũng nghĩ vậy, bây giờ rút lui sẽ chỉ để lại những nguy hiểm tiềm ẩn sau này.
+---
+>  ここが正念場でしょう」
+Đây là thời điểm quan trọng. "
+
+@43595 Ciela · シーラ
+> 「その感じ方は正しいでしょう。
+>  ハマーン・カーンに時間を与えては
+"Bạn có quyền cảm thấy như vậy. Không thể cho Harman Kahn
+---
+>  なりません」
+Thời gian để thở. "
+
+@43596 Bright · ブライト
+> 「しかし……いま戦闘を終えたばかりで
+>  まともに戦えるのか?」
+"Nhưng... chúng ta vừa mới đánh xong một trận, còn có thể chiến đấu bình thường được không?"
+
+@43597 Judau · ジュドー
+> 「そんなこといってる場合じゃない
+>  だろう!? ブライトさん、無茶でも
+“Bây giờ là lúc để nói những điều như vậy!? Anh Bright, ngay cả khi anh buộc mình phải làm vậy
+---
+>  やるんだってのは、あんたの口癖
+>  でしょうに!」
+Thôi nào, đó không phải là câu thần chú của bạn sao? "
+
+@43598 Garrison · ギャリソン
+> 「これはこれは。艦長、
+>  1本とられましたな」
+"Rất tiếc, đội trưởng, bây giờ bạn đã bị một đội quân đánh bại."
+
+@43599 Ark · アーク（按段落 3DD1）
+> 「行きましょう。ハマーンをここで
+>  叩けなけりゃ、ここまで出てきて
+“Đi thôi. Nếu không thể đánh bại Haman ở đây thì chúng ta sẽ chiến đấu đến tận đây.
+---
+>  グレミーをつぶしたってのは、
+>  ハマーンに利するだけです」
+Đánh bại Gremi một lần nữa sẽ chỉ mang lại lợi thế cho Harman một cách vô ích. "
+
+@43600 Selain · セレイン（按段落 3DD2）
+> 「ジュドーのいう通りだ。このまま
+>  もう1度出よう、艦長。直接
+"Jidu nói đúng. Hãy tấn công lại như thế này nhé, Đội trưởng. Trực tiếp.
+---
+>  ハマーンの喉もとに切りこんでやる。
+>  いま出れば、ハマーンの首をとれる」
+Đi đến điểm quan trọng của Haman và giết anh ta. Nếu tấn công bây giờ, bạn có thể lấy được đầu của Haman. "
+
+@43601 Brad · ブラッド（按段落 3DD3）
+> 「行こうぜ、艦長。今さら
+>  考えたってしかたがねぇじゃねぇか
+“Đi thôi, Đội trưởng. Bây giờ nghĩ về điều đó cũng chẳng ích gì.
+---
+>  ここまで来た以上は、
+>  最後までやるしかないぜ」
+Bây giờ chúng ta đã đạt đến điểm này, chúng ta chỉ có thể làm đến cùng. "
+
+@43602 Manami · マナミ（按段落 3DD4）
+> 「みんな、行きましょう。これ以上
+>  戦いが長びくのを許すわけには
+“Mọi người, đi thôi. Chúng ta không thể để trận chiến này kéo dài thêm nữa.
+---
+>  いかないわ。ここで決着をつけましょう
+>  ハマーンを叩くわ」
+Hãy kết thúc chuyện này ở đây và đánh bại Haman. "
+
+@43603 Bright · ブライト
+> 「……みんな、それでいいんだな?」
+“…Mọi người không có ý kiến gì phải không?”
+
+@43604 Amuro · アムロ
+> 「覚悟はできているさ、ブライト」
+“Chúng tôi đã sẵn sàng, Brett.”
+
+@43605 Bright · ブライト
+> 「わかった。ハマーンの位置は
+>  つかめるのか?」
+"Tôi biết. Bạn có thể tìm ra vị trí của Haman không?"
+
+@43606 Garrison · ギャリソン
+> 「おおよその位置は見当がつきます。
+>  そのようなこともあろうかと
+"Tôi có thể suy ra vị trí gần đúng. Tôi đã mong đợi điều này,
+---
+>  ハマーンの所在は
+>  トレースしておりましたので」
+Đã theo dõi nơi ở của Haman. "
+
+@43607 Chum · チャム
+> 「それで十分よ!
+>  近づけばあたしたちだって
+“Đủ rồi! Chỉ cần chúng ta đến gần, chúng ta có thể
+---
+>  ハマーンのオーラ力は感じとれるわ!」
+Cảm nhận sức mạnh của Aura Haman! "
+
+@43608 Banjo · 万丈
+> 「決まったようだね。
+>  では、行くとしようか?」
+"Có vẻ như nó đã được quyết định. Vậy, đi thôi?"
+
+@43609 Bright · ブライト
+> 「よし、全員持ち場にもどれ。
+>  本艦隊はこれよりハマーンを討つ」
+"Được rồi, mọi người trở về vị trí của mình. Hạm đội của chúng ta sẽ xuất phát ngay bây giờ để tấn công Haman."

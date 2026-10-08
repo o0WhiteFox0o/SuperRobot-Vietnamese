@@ -1,0 +1,309 @@
+# Bản dịch tiếng Việt Super Robot Wars 64
+# Định dạng và vị trí: docs/guide/dialogue-text.md
+
+@11322 Ehrlich · エルリッヒ
+# Kích hoạt: Tấn công (Chung，1/14）
+> 「直撃させるよ」
+"Hãy để bạn ăn uống đàng hoàng"
+
+@11323 Ehrlich · エルリッヒ
+# Kích hoạt: Tấn công (Chung，2/14）
+> 「敵は、倒すさ」
+"Kẻ thù phải bị đánh bại"
+
+@11324 Ehrlich · エルリッヒ
+# Kích hoạt: Tấn công (Chung，3/14）
+> 「さぁ、いくぞっ!」
+“来吧,上!”
+
+@11325 Ehrlich · エルリッヒ
+# Kích hoạt: Tấn công (Chung，4/14）
+> 「その程度の動きではな」
+“Chỉ dựa vào loại kỹ năng đó thôi là chưa đủ.”
+
+@11326 Ehrlich · エルリッヒ
+# Kích hoạt: Tấn công (Chung，5/14）
+> 「遅い!」
+"Quá chậm!"
+
+@11327 Ehrlich · エルリッヒ
+# Kích hoạt: Tấn công (Chung，6/14）
+> 「笑わせるな!」
+"Đừng làm tôi cười!"
+
+@11328 Ehrlich · エルリッヒ
+# Kích hoạt: Tấn công (Chung，7/14）
+> 「落としてみせる」
+“看我击落你”
+
+@11329 Ehrlich · エルリッヒ
+# Kích hoạt: Tấn công (Chung，8/14）
+> 「よくも出てくる」
+"Sao cậu dám xuất hiện trước mặt tôi"
+
+@11330 Ehrlich · エルリッヒ
+# Kích hoạt: Tấn công (Chung，9/14）
+> 「私はやってみせねばならん」
+“我必须做到”
+
+@11331 Ehrlich · エルリッヒ
+# Kích hoạt: Tấn công (Chung，10/14）
+> 「悪いが決めさせてもらう」
+“Tôi xin lỗi, chúng ta hãy vượt qua nó thôi.”
+
+@11332 Ehrlich · エルリッヒ
+# Kích hoạt: Tấn công (Chung，11/14）
+> 「そこだな」
+“Chính là nó”
+
+@11333 Ehrlich · エルリッヒ
+# Kích hoạt: Tấn công (Chung，12/14）
+> 「この体勢ならば、いけるな」
+"Tư thế này có thể có tác dụng."
+
+@11334 Ehrlich · エルリッヒ
+# Kích hoạt: Tấn công (Chung，13/14）
+> 「私の前に出てきたことを
+>  後悔させてやろう!」
+"Tôi sẽ khiến cậu phải hối hận khi xuất hiện trước mặt tôi!"
+
+@11335 Ehrlich · エルリッヒ
+# Kích hoạt: Tấn công (Chung，14/14）
+> 「ターゲット捕捉……落ちろ!」
+"Khóa mục tiêu...ngã!"
+
+@11336 Ehrlich · エルリッヒ
+# Kích hoạt: 被击坠（通用，1/4）
+> 「う、うおぉぉぉぉぉ!?」
+"Uuuuuuuuuuuuuuuuuuuuu!?"
+
+@11337 Ehrlich · エルリッヒ
+# Kích hoạt: 被击坠（通用，2/4）
+> 「くっ、や、やられた……のか」
+"Chà, có phải bạn, bạn đã bị giết...?"
+
+@11338 Ehrlich · エルリッヒ
+# Kích hoạt: 被击坠（通用，3/4）
+> 「い、いかん!?」
+"Không, không tốt!?"
+
+@11339 Ehrlich · エルリッヒ
+# Kích hoạt: 被击坠（通用，4/4）
+> 「なにっ! げ、限界か!?」
+"Cái gì! Bạn đã đạt đến giới hạn của mình chưa!?"
+
+@11340 Ehrlich · エルリッヒ
+# Kích hoạt: 重伤（剩余 HP 不足 30%）（通用，1/7）
+> 「ぐうぅぅっ……
+>  この私が、直撃をくらう!?」
+"Uh-huh...thực ra tôi đã bị đánh trực diện!?"
+
+@11341 Ehrlich · エルリッヒ
+# Kích hoạt: 重伤（剩余 HP 不足 30%）（通用，2/7）
+> 「な、なにっ!? これほどのものとは!」
+"C-cái gì!? Nó mạnh quá!"
+
+@11342 Ehrlich · エルリッヒ
+# Kích hoạt: 重伤（剩余 HP 不足 30%）（通用，3/7）
+> 「くっ……ぬかったな、私も……」
+"Chà...tôi cũng bất cẩn..."
+
+@11343 Ehrlich · エルリッヒ
+# Kích hoạt: 重伤（剩余 HP 不足 30%）（通用，4/7）
+> 「そう簡単に退くわけには!」
+"Sao ngươi có thể rút lui dễ dàng như vậy!"
+
+@11344 Ehrlich · エルリッヒ
+# Kích hoạt: 重伤（剩余 HP 不足 30%）（通用，5/7）
+> 「つ、強い……だがっ!」
+"Thật mạnh mẽ...nhưng!"
+
+@11345 Ehrlich · エルリッヒ
+# Kích hoạt: 重伤（剩余 HP 不足 30%）（通用，6/7）
+> 「くぅっ、出力があがらんとは!」
+"Ừ, sức mạnh không thể tăng lên được!"
+
+@11346 Ehrlich · エルリッヒ
+# Kích hoạt: 重伤（剩余 HP 不足 30%）（通用，7/7）
+> 「や、やられるのか……私が!?」
+“Tôi-tôi sắp bị giết…tôi à!?”
+
+@11347 Ehrlich · エルリッヒ
+# Kích hoạt: 中伤（剩余 HP 30–90%）（通用，1/9）
+> 「できる敵だ……手強い!」
+"Kẻ thù này có vài mánh khóe...nó thực sự rất phức tạp!"
+
+@11348 Ehrlich · エルリッヒ
+# Kích hoạt: 中伤（剩余 HP 30–90%）（通用，2/9）
+> 「さ、さすがにやるな!」
+"Chắc chắn, nó chắc chắn có tác dụng!"
+
+@11349 Ehrlich · エルリッヒ
+# Kích hoạt: 中伤（剩余 HP 30–90%）（通用，3/9）
+> 「で、できる!? こいつ!」
+"Cái này, tên này mạnh quá!?"
+
+@11350 Ehrlich · エルリッヒ
+# Kích hoạt: 中伤（剩余 HP 30–90%）（通用，4/9）
+> 「くっ、やらせはせんよ!」
+"Được rồi, đừng nghĩ tới chuyện đó nữa!"
+
+@11351 Ehrlich · エルリッヒ
+# Kích hoạt: 中伤（剩余 HP 30–90%）（通用，5/9）
+> 「これ以上やってもらっては!」
+"Ta không thể để ngươi thành công lần nữa!"
+
+@11352 Ehrlich · エルリッヒ
+# Kích hoạt: 中伤（剩余 HP 30–90%）（通用，6/9）
+> 「ぬぅっ、私をここまで
+>  本気にさせるとはなっ!」
+"Hừ, ngươi cư nhiên có thể ép ta nghiêm túc như vậy!"
+
+@11353 Ehrlich · エルリッヒ
+# Kích hoạt: 中伤（剩余 HP 30–90%）（通用，7/9）
+> 「少しはできるようだな……」
+"Xem ra ta vẫn còn có chút năng lực..."
+
+@11354 Ehrlich · エルリッヒ
+# Kích hoạt: 中伤（剩余 HP 30–90%）（通用，8/9）
+> 「こ、これほどのパワーとは!」
+"Cái này, thật là một sức mạnh to lớn!"
+
+@11355 Ehrlich · エルリッヒ
+# Kích hoạt: 中伤（剩余 HP 30–90%）（通用，9/9）
+> 「私が押されている!?」
+"Tôi thực sự đã bị đàn áp!?"
+
+@11356 Ehrlich · エルリッヒ
+# Kích hoạt: 轻伤（剩余 HP 90% 以上）（通用，1/6）
+> 「その程度で止められると思われては
+>  困るな」
+"Nếu bạn nghĩ rằng bạn có thể ngăn chặn tôi ở cấp độ này, bạn đã nhầm."
+
+@11357 Ehrlich · エルリッヒ
+# Kích hoạt: 轻伤（剩余 HP 90% 以上）（通用，2/6）
+> 「敵をなめると痛い目にあうということ
+>  を、教えてやろう!」
+"Chỉ cho bạn biết, bạn sẽ phải gánh chịu hậu quả nếu đánh giá thấp kẻ thù của mình!"
+
+@11358 Ehrlich · エルリッヒ
+# Kích hoạt: 轻伤（剩余 HP 90% 以上）（通用，3/6）
+> 「ふん、この程度か」
+“Humph, đó là tất cả những gì cậu có à?”
+
+@11359 Ehrlich · エルリッヒ
+# Kích hoạt: 轻伤（剩余 HP 90% 以上）（通用，4/6）
+> 「甘いな」
+“太天真了”
+
+@11360 Ehrlich · エルリッヒ
+# Kích hoạt: 轻伤（剩余 HP 90% 以上）（通用，5/6）
+> 「効かぬよ、そんな攻撃は」
+“Đòn tấn công đó vô dụng với tôi.”
+
+@11361 Ehrlich · エルリッヒ
+# Kích hoạt: 轻伤（剩余 HP 90% 以上）（通用，6/6）
+> 「なめてもらっては困る!」
+“可别小看我!”
+
+@11362 Ehrlich · エルリッヒ
+# Kích hoạt: Né tránh（通用，1/8）
+> 「それが本気だというのなら、
+>  私には勝てん!」
+"Nếu đó là toàn bộ sức mạnh của bạn, bạn không thể đánh bại tôi!"
+
+@11363 Ehrlich · エルリッヒ
+# Kích hoạt: Né tránh（通用，2/8）
+> 「やはりその程度か」
+"Quả nhiên, ta chỉ có năng lực này."
+
+@11364 Ehrlich · エルリッヒ
+# Kích hoạt: Né tránh（通用，3/8）
+> 「見え見えだな」
+“看得一清二楚”
+
+@11365 Ehrlich · エルリッヒ
+# Kích hoạt: Né tránh（通用，4/8）
+> 「それで終わりか!?」
+"Đây là kết thúc sao!?"
+
+@11366 Ehrlich · エルリッヒ
+# Kích hoạt: Né tránh（通用，5/8）
+> 「うかつだな」
+“太疏忽了”
+
+@11367 Ehrlich · エルリッヒ
+# Kích hoạt: Né tránh（通用，6/8）
+> 「甘すぎる」
+“太嫩了”
+
+@11368 Ehrlich · エルリッヒ
+# Kích hoạt: Né tránh（通用，7/8）
+> 「その程度ではな」
+“Chỉ dựa vào khả năng nhỏ bé đó thôi là chưa đủ.”
+
+@11369 Ehrlich · エルリッヒ
+# Kích hoạt: Né tránh（通用，8/8）
+> 「狙いが甘いのだよ」
+“瞄准太马虎了”
+
+@11370 Ehrlich · エルリッヒ
+# Kích hoạt: Tấn công无效（护罩／装甲）（通用，1/4）
+> 「ムダなのだがな!」
+"Chỉ là lãng phí công sức mà thôi!"
+
+@11371 Ehrlich · エルリッヒ
+# Kích hoạt: Tấn công无效（护罩／装甲）（通用，2/4）
+> 「この機体にはきかんな!」
+"Nó sẽ không hoạt động trên máy này!"
+
+@11372 Ehrlich · エルリッヒ
+# Kích hoạt: Tấn công无效（护罩／装甲）（通用，3/4）
+> 「フッ、この程度なら!」
+"Hừ, đòn tấn công nhỏ này chẳng là gì cả!"
+
+@11373 Ehrlich · エルリッヒ
+# Kích hoạt: Tấn công无效（护罩／装甲）（通用，4/4）
+> 「ビームなど効きはせんよ」
+"Chùm tia không hoạt động chút nào"
+
+@11374 Ehrlich · エルリッヒ
+# Kích hoạt: 弹药／EN 不足，无法反击（通用，1/2）
+> 「ちいっ、こんなときに!」
+"Tsk, đã đến lúc rồi!"
+
+@11375 Ehrlich · エルリッヒ
+# Kích hoạt: 弹药／EN 不足，无法反击（通用，2/2）
+> 「弾切れ!? うかつだったか」
+"Anh đốt nó à!? Tôi đã bất cẩn."
+
+@11376 Ehrlich · エルリッヒ
+# Kích hoạt: 射程外，无法反击（通用，1/2）
+> 「ええい、これでは届かん!」
+"Chết tiệt, cậu không thể với tới nó như thế này được!"
+
+@11377 Ehrlich · エルリッヒ
+# Kích hoạt: 射程外，无法反击（通用，2/2）
+> 「敵の射程距離がこれほどとは!」
+"Tầm bắn của kẻ thù rất xa!"
+
+@16426 Ehrlich · エルリッヒ
+# Kích hoạt: 对手驾驶员〈アーク〉
+> 「なぜ君はそうも戦える!?」
+"Tại sao bạn vẫn có thể chiến đấu như thế này!?"
+
+@16427 Ehrlich · エルリッヒ
+# Kích hoạt: 对手驾驶员〈アーク〉
+> 「悪いが、落とさせてもらう!」
+"Xin lỗi, tôi sẽ đánh gục cậu!"
+
+@16428 Ehrlich · エルリッヒ
+# Kích hoạt: 对手驾驶员〈アーク〉
+> 「いくぞ!」
+"Lên!"
+
+@16429 Ehrlich · エルリッヒ
+# Kích hoạt: 对手驾驶员〈アーク〉
+> 「戦いに出るのなら……
+>  覚悟を決めろ!」
+"Vì bạn sắp ra chiến trường... nên hãy chuẩn bị cho tôi!"

@@ -1,0 +1,320 @@
+# Bản dịch tiếng Việt Super Robot Wars 64
+# Định dạng và vị trí: docs/guide/dialogue-text.md
+
+@50621 主角
+> 「確かこの辺りだったな……」
+"Nó phải ở quanh đây..."
+
+@50622 主角
+> 「あそこか……。MSがいる?
+"Có... có MS không?
+---
+>  ……やってみるさ」
+...thì hãy thử xem. "
+
+@50623 主角
+> 「情報では確かあの区画の建物
+>  のはずだ……」
+“Theo thông tin thì có lẽ là tòa nhà ở khu vực đó…”
+
+@50624 Specials · スペシャルズ
+> 「なんだ……? て、敵だ! 敵襲!!
+>  迎撃しろ!!」
+"Cái gì...? Đó là kẻ thù! Kẻ thù tấn công!! Tấn công!!"
+
+@50625 主角
+> 「見つかったか……やっぱり、MSを倒さ
+>  なければだめってことか……」
+“Bọn họ đã bị phát hiện sao… Xem ra chúng ta vẫn phải giết MS trước…”
+
+@50626 Ark · アーク（按段落 3DD1）
+> 「……他に警備のMSはいないか……」
+"...Không có MS bảo mật nào khác ở gần đây..."
+
+@50627 Ark · アーク（按段落 3DD1）
+> 「ここか……どの部屋だ……?」
+"Đây là...phòng nào...?"
+
+@50628 Ark · アーク（按段落 3DD1）
+> 「女だ……薬で眠らされている?
+>  間違いない、この人だ。ひどいことを」
+"Là một người phụ nữ... bị đánh thuốc mê bất tỉnh sao? Đúng, chính là người đó, quá đáng rồi."
+
+@50629 Bask · バスク
+> 「なんだ、警備隊はどうしたか!
+>  あそこにおるのは{HeroMech}の
+"Chuyện gì đang xảy ra vậy? Lính canh đang làm gì vậy? Người đằng kia, không phải là từ {HeroMech}
+---
+>  奴ではないか!」
+Anh chàng đó! "
+
+@50630 Ehrlich · エルリッヒ（按段落 3DD1）
+> (あれは……ソルデファーだと!? バカな、
+>  なぜあの少年が……)
+(Đó là...Soldifa!? Không thể nào, tại sao cậu bé đó...)
+
+@50631 Specials · スペシャルズ
+> 「バスク特佐、警備隊は全滅の
+>  模様です!」
+"Basque Tezo, người bảo vệ dường như đã bị tiêu diệt hoàn toàn!"
+
+@50632 Bask · バスク
+> 「ふざけおって! MS隊発進させろ!
+>  奴を逃すな!!」
+"Thằng khốn nạn! Hãy để đội MS tấn công! Đừng để tên đó trốn thoát!!"
+
+@50633 Ark · アーク（按段落 3DD1）
+> 「しまった、敵の新手か! バスクの
+>  部隊か!? ……あいつもいる!?」
+“Ồ không, kẻ địch đã đến tiếp viện! Là quân Basque!?…Tên đó cũng ở đây à!?”
+
+@50634 Bask · バスク
+> 「もっと出せんのか!? 奴を完全に
+>  包囲させろ!」
+"Ngươi không thể phái thêm người sao!? Bao vây hắn hoàn toàn!"
+
+@50635 Specials · スペシャルズ
+> 「現在、機体の整備中でありま
+>  したので、動かせるのはこれだけです」
+"Thân máy hiện đang được chuẩn bị, đây là thứ duy nhất có thể di chuyển."
+
+@50636 Bask · バスク
+> 「ええい、バカどもが! {PartnerSurname}、
+>  貴様がしとめてみせろ!」
+"Chết tiệt, đúng là một lũ rác rưởi! {PartnerSurname}, giết hắn đi!"
+
+@50637 Ehrlich · エルリッヒ（按段落 3DD1）
+> 「……了解」
+“…Hiểu rồi.”
+
+@50638 Ark · アーク（按段落 3DD1）
+> 「{PartnerFull}!
+>  あんたはここがどういう場所か、
+"{PartnerFull}! Bạn biết nơi này
+---
+>  知っているのか!?」
+Đó là nơi nào! ? "
+
+@50639 Ehrlich · エルリッヒ（按段落 3DD1）
+> 「なに? どういうことだ、少年」
+"Cái gì? Ý cậu là sao, cậu bé?"
+
+@50640 Ark · アーク（按段落 3DD1）
+> 「ここは、あんたの恋人が軟禁されて
+>  いる場所なんだぞ! あんたの女は
+“Đây là nơi người yêu của anh bị quản thúc tại gia! Người phụ nữ của anh
+---
+>  薬で眠らされてた。それをやらせている
+>  のは、バスクだろ!? あんたは、そんな
+Anh ta bị đánh thuốc mê và bất tỉnh. Người chủ mưu chắc chắn là người Basque! ? Bạn có muốn giữ những thứ như thế này không?
+---
+>  場所を守るために、それをやった奴
+>  の命令を聞くのか!?」
+đi, đi nghe lệnh của kẻ đã làm chuyện như vậy! ? "
+
+@50641 Ehrlich · エルリッヒ（按段落 3DD1）
+> 「な……んだと……?」
+“Cái…cái gì…? "
+
+@50642 Bask · バスク
+> 「ええい、なにをやっておるか!」
+"Chết tiệt, ngươi đang làm cái gì vậy!"
+
+@50643 Ehrlich · エルリッヒ（按段落 3DD1）
+> 「……特佐、いまの話は事実ですか」
+"...Tezo, điều cậu vừa nói có đúng không?"
+
+@50644 Bask · バスク
+> 「黙れ! 貴様は黙って命令を
+>  聞いておればよい! 従えぬというなら
+"Im đi! Hãy im lặng và tuân theo mệnh lệnh! Nếu bạn dám không vâng lời,
+---
+>  貴様も女も、あ奴と同様ここで
+>  死んでもらうぞ!」
+Anh và người phụ nữ đó cứ chết ở đây như anh ấy đi! "
+
+@50645 Ehrlich · エルリッヒ（按段落 3DD1）
+> 「くっ……アリンディーネ……」
+"Ừ...Alindine..."
+
+@50646 Ark · アーク（按段落 3DD1）
+> 「惑わされるんじゃない! わかるか、いま
+>  ここを確保しているのは、俺だ!
+“Đừng để hắn dắt mũi! Ngươi có hiểu không, hiện tại nơi này là ta quản lý!
+---
+>  連中をここに近づけなければ、
+>  あんたの恋人は助けられる!」
+Chỉ cần bạn không để bọn đó đến gần thì người yêu của bạn sẽ được cứu! "
+
+@50647 Ehrlich · エルリッヒ（按段落 3DD1）
+> 「君は……まさかそのために……?」
+"Anh... Đây chỉ là vì chuyện này sao...? "
+
+@50648 Ark · アーク（按段落 3DD1）
+> 「いいのか、いつまでもそんな奴のいいなり
+>  で!? いずれはあんたも女も、そいつに
+"Bạn có sẵn sàng tiếp tục vâng lời loại người đó không? ? Sớm muộn gì bạn và người phụ nữ của bạn cũng sẽ bị anh ta đánh đập
+---
+>  殺されるぞ!」
+Giết! "
+
+@50649 Bask · バスク
+> 「小僧が、好き放題いいおって!
+>  早く奴を黙らせい!」
+"Đồ khốn nạn, sao ngươi dám nói bậy bạ! Dừng cái miệng của anh ta lại! "
+
+@50650 Ark · アーク（按段落 3DD1）
+> 「こういう奴は許せないんだって、あんた
+>  だってわかるはずだ! だったら
+"Loại người này không thể tha thứ, trong lòng ngươi cũng biết điều đó! Sau đó
+---
+>  自分の女を守って見せろよ!」
+Sử dụng kỹ năng của bạn để bảo vệ người phụ nữ của riêng bạn! "
+
+@50651 Bask · バスク
+> 「よぉし、そのままやってしまえ!」
+"Được rồi, cứ giết hắn như vậy đi! "
+
+@50652 Ark · アーク（按段落 3DD1）
+> 「くっ……」
+"Ờ..."
+
+@50653 Ehrlich · エルリッヒ（按段落 3DD1）
+> 「……君のいう通りだ、少年。私は
+>  また、過ちを重ねるところだった」
+“…Cậu nói đúng đấy chàng trai trẻ. Tôi gần như đã mắc lại sai lầm tương tự một lần nữa. "
+
+@50654 Bask · バスク
+> 「なんだと貴様ぁ! ええい、かまわん!
+>  奴ごとやってしまえ!
+"Mày nói gì thế, đồ khốn kiếp! Chết tiệt, đừng bận tâm! Giết hắn luôn đi!
+---
+>  生かしてかえすな! 女も殺せ!」
+Đừng để anh ta sống sót trở về! Giết cả người phụ nữ đó nữa! "
+
+@50655 Ark · アーク（按段落 3DD1）
+> 「敵を近づけたらあんたの女が殺され
+>  る。わかってるな!?」
+“Nếu để kẻ địch đến gần, người phụ nữ của bạn sẽ chết. Nhận nó! ? "
+
+@50656 Ehrlich · エルリッヒ（按段落 3DD1）
+> 「了解している!」
+"Đã hiểu!"
+
+@50657 主角
+> 「く……しまった……」
+"Chà...tệ quá..."
+
+@50658 主角
+> 「く……しまった……」
+"Chà...tệ quá..."
+
+@50659 主角
+> 「ふぅ……どうにか終わったか……」
+"Huh...cuối cùng cũng xong rồi..."
+
+@50660 对手
+> 「待たせたな」
+“Bắt bạn phải chờ đợi. "
+
+@50661 主角
+> 「……あの人はどうしたんです?」
+“…Người đó thế nào rồi? "
+
+@50662 对手
+> 「別の町へ身を隠させた。バスクに
+>  見つかることはあるまい
+“Tôi bảo cô ấy trốn ở một thị trấn khác. Basque lẽ ra không thể tìm thấy cô ấy.
+---
+>  大きな借りができたな、少年」
+Tôi nợ cậu một ân huệ lớn, cậu bé. "
+
+@50663 主角
+> 「{HeroFull}です。
+>  名乗るのが遅れて悪かったけど
+"Tên tôi là {HeroFull}. Xin lỗi vì đã cho biết tên tôi muộn thế này.
+---
+>  その少年ってのはやめてもらいたいな」
+Tuy nhiên, nên tránh thuật ngữ 'người trẻ'. "
+
+@50664 对手
+> 「すまん。しかし……まさか君がこのような
+>  行動をとるとはな」
+"Xin lỗi. Nhưng... tôi không ngờ bạn sẽ làm điều này. "
+
+@50665 主角
+> 「いいたいことはわかりますよ。前のあなた
+>  は信用できなかった。でも、恋人の
+“Tôi hiểu bạn muốn nói gì. Tôi đã không thể tin tưởng bạn trong quá khứ. Tuy nhiên tôi sẵn sàng làm điều đó vì người yêu của mình
+---
+>  ために死んでみせようとするあなたなら、
+>  信用できそうな気がしただけです」
+Tôi nghĩ bạn có thể được tin cậy nếu bạn mạo hiểm mạng sống của mình. "
+
+@50666 对手
+> 「そうか……君はあの町で……。
+>  すまん、私は……」
+"Thật sao...bạn đã ở thị trấn đó...Xin lỗi, tôi..."
+
+@50667 主角
+> 「……恨みは忘れるといいました。それに
+>  あれがあなたのせいじゃなかったってことは
+“…Tôi đã nói là tôi sẽ quên đi hận thù của mình. Và đó không phải lỗi của bạn,
+---
+>  いまは、よくわかっているつもりです」
+Điều này bây giờ đã rõ ràng với tôi. "
+
+@50668 对手
+> 「{HeroName}くん……」
+"{HeroName}..."
+
+@50669 主角
+> 「それで、どうするんです、これから」
+"Vậy tiếp theo cậu định làm gì? "
+
+@50670 对手
+> 「…………{HeroMech}に
+>  行くというのも、よいかもしれんな
+"...có lẽ sẽ tốt hơn nếu truy cập {HeroMech}.
+---
+>  君がよければ、だが。君も長い間、
+>  部隊を離れていてはまずいだろう」
+Miễn là bạn sẵn lòng. Thật không tốt khi bạn phải xa quân đội quá lâu. "
+
+@50671 主角
+> 「いいんですか、それで。俺はそういうつも
+>  りで来たわけじゃ……」
+"Điều này có thực sự tốt không? Tôi không đến đây với ý định như thế này…”
+
+@50672 对手
+> 「いまさら、他にどうしようがある?
+>  まさかこの状況で、戦うことをやめる
+"Chúng ta có thể làm gì khác bây giờ? Trong tình huống này, không thể nào."
+---
+>  選択などできまい。ならば、道は1つ
+>  だと思えるがね。もっとも、
+Chọn không chiến đấu. Trong trường hợp này, tôi nghĩ chỉ có một cách. Tuy nhiên,
+---
+>  {HeroMech}が私のような者を
+>  受け入れてくれるかどうかは
+{HeroMech} _XHEOMECHX_Bạn có muốn chấp nhận những người như tôi không?
+---
+>  わからないが」
+Điều đó thật khó để nói. "
+
+@50673 主角
+> 「それは、大丈夫でしょう。エマさん
+>  だってそうだし、うちにはそういう人は
+"Điều đó sẽ không thành vấn đề. Cô Emma cũng như vậy, bên kia chúng ta có những người như thế này."
+---
+>  たくさんいますから」
+Rất nhiều. "
+
+@50674 对手
+> 「ならば、やはり共にいかせてもらおう。
+>  かまわないのだろう?」
+"Vậy hãy để tôi đi cùng bạn. Được chứ?"
+
+@50675 主角
+> 「わかりました、いいでしょう。急ぎますよ」
+"Tôi biết, được rồi. Chúng ta phải nhanh lên."

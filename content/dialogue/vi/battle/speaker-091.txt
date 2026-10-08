@@ -1,0 +1,361 @@
+# Bản dịch tiếng Việt Super Robot Wars 64
+# Định dạng và vị trí: docs/guide/dialogue-text.md
+
+@6147 Wufei · 五飛
+# Kích hoạt: Tấn công (Chung，1/23）
+> 「邪悪な意思を持つ者は、すべて
+>  この俺が消し去る!」
+"Tôi sẽ tiêu diệt tất cả những kẻ có ý định xấu xa!"
+
+@6148 Wufei · 五飛
+# Kích hoạt: Tấn công (Chung，2/23）
+> 「貴様らが正しいのであれば、俺を
+>  倒せるはずだ!」
+"Nếu bạn là người chính nghĩa, bạn sẽ có thể đánh bại tôi!"
+
+@6149 Wufei · 五飛
+# Kích hoạt: Tấn công (Chung，3/23）
+> 「警戒があますぎる。自業自得だ」
+"Thủ hộ quá lỏng lẻo, là lỗi của chính ngươi."
+
+@6150 Wufei · 五飛
+# Kích hoạt: Tấn công (Chung，4/23）
+> 「さぁお前たちの力をみせろ!」
+"Nào, cho ta xem sức mạnh của ngươi!"
+
+@6151 Wufei · 五飛
+# Kích hoạt: Tấn công (Chung，5/23）
+> 「俺は逃げも隠れもしない!」
+"Tôi không chạy cũng không trốn!"
+
+@6152 Wufei · 五飛
+# Kích hoạt: Tấn công (Chung，6/23）
+> 「この戦い、すぐにケリをつける!」
+"Tôi sẽ chiến đấu trận chiến này một cách nhanh chóng!"
+
+@6153 Wufei · 五飛
+# Kích hoạt: Tấn công (Chung，7/23）
+> 「貴様ぁーっ!」
+"Anh bạn-!"
+
+@6154 Wufei · 五飛
+# Kích hoạt: Tấn công (Chung，8/23）
+> 「問答無用っ!」
+"Không cần phải nói thêm nữa!"
+
+@6155 Wufei · 五飛
+# Kích hoạt: Tấn công (Chung，9/23）
+> 「俺は俺の道をいく!」
+"Tôi đi theo cách riêng của tôi!"
+
+@6156 Wufei · 五飛
+# Kích hoạt: Tấn công (Chung，10/23）
+> 「……誰にも俺を止める事はできん!」
+"...Không ai có thể ngăn cản tôi!"
+
+@6157 Wufei · 五飛
+# Kích hoạt: Tấn công (Chung，11/23）
+> 「酔うな、おのれの戦いに!」
+“Đừng để bị lạc trong trận chiến của chính mình!”
+
+@6158 Wufei · 五飛
+# Kích hoạt: Tấn công (Chung，12/23）
+> 「力のないものが、ウロウロするなあっ!!」
+“Đồ yếu đuối, đừng có lảng vảng quanh đây!!”
+
+@6159 Wufei · 五飛
+# Kích hoạt: Tấn công (Chung，13/23）
+> 「正義は俺が決めるっ!!」
+"Công lý thuộc về tôi!!"
+
+@6160 Wufei · 五飛
+# Kích hoạt: Tấn công (Chung，14/23）
+> 「これで決着をつける!!」
+"Chỉ cần sử dụng thủ thuật này để kết thúc nó!!"
+
+@6161 Wufei · 五飛
+# Kích hoạt: Tấn công (Chung，15/23）
+> 「うおおおっ!!」
+"Ồồồ!!"
+
+@6162 Wufei · 五飛
+# Kích hoạt: Tấn công (Chung，16/23）
+> 「どけえぇぇぇっ!!」
+“Đi đi——!!”
+
+@6163 Wufei · 五飛
+# Kích hoạt: Tấn công (Chung，17/23）
+> 「戦いをみくびるな!!」
+“Đừng đánh giá thấp việc chiến đấu!!”
+
+@6164 Wufei · 五飛
+# Kích hoạt: Tấn công (Chung，18/23）
+> 「これでどうだっ!!」
+"Động thái này thế nào!!"
+
+@6165 Wufei · 五飛
+# Kích hoạt: Tấn công (Chung，19/23）
+> 「はあぁぁぁっ!!」
+"Haaaaaaaaaaaaa!!"
+
+@6166 Wufei · 五飛
+# Kích hoạt: Tấn công (Chung，20/23）
+> 「俺の進む道は正しいのだ!」
+“Con đường tôi đang đi là đúng đắn!”
+
+@6167 Wufei · 五飛
+# Kích hoạt: Tấn công (Chung，21/23）
+> 「どけっ!!」
+"Tránh xa ra!!"
+
+@6168 Wufei · 五飛
+# Kích hoạt: Tấn công (Chung，22/23）
+> 「ここで仕留めてやる!!」
+"Ta sẽ xử lý ngươi ngay tại đây!!"
+
+@6169 Wufei · 五飛
+# Kích hoạt: Tấn công (Chung，23/23）
+> 「弱いものが戦ったりするな!」
+"Người yếu không tới đánh!"
+
+@6170 Wufei · 五飛
+# Kích hoạt: 被击坠（通用，1/1）
+> 「なにっ! しまった!!」
+"Cái gì! Ôi không!"
+
+@6171 Wufei · 五飛
+# Kích hoạt: 重伤（剩余 HP 不足 30%）（通用，1/7）
+> 「むうっ、こい! この俺を倒すなら、
+>  今をおいてないぞ!」
+"Thôi nào! Nếu bạn muốn đánh bại tôi, hãy làm ngay bây giờ!"
+
+@6172 Wufei · 五飛
+# Kích hoạt: 重伤（剩余 HP 不足 30%）（通用，2/7）
+> 「ぬうっ! こんな事で、俺は負ける
+>  わけにはいかん!!」
+"Ugh! Tôi không bao giờ có thể thua vì chuyện như thế này được!!"
+
+@6173 Wufei · 五飛
+# Kích hoạt: 重伤（剩余 HP 不足 30%）（通用，3/7）
+> 「くっ! 思ったよりはやるようだな
+>  ……だがっ!」
+"Hmm! Nó mạnh hơn tôi nghĩ...nhưng!"
+
+@6174 Wufei · 五飛
+# Kích hoạt: 重伤（剩余 HP 不足 30%）（通用，4/7）
+> 「うっ! 貴様ごときにっ!!」
+"Ugh! Thực ra là một kẻ như anh đấy!!"
+
+@6175 Wufei · 五飛
+# Kích hoạt: 重伤（剩余 HP 不足 30%）（通用，5/7）
+> 「うおおっ! ま、まだだっ!
+>  まだ決着はついていないっ!」
+"Ồ! Vẫn chưa kết thúc! Người chiến thắng vẫn chưa được quyết định!"
+
+@6176 Wufei · 五飛
+# Kích hoạt: 重伤（剩余 HP 不足 30%）（通用，6/7）
+> 「ぬぅぅぅっ! 望むところだ!」
+"Hmmmm! Đúng thứ tôi muốn!"
+
+@6177 Wufei · 五飛
+# Kích hoạt: 重伤（剩余 HP 不足 30%）（通用，7/7）
+> 「くっ……推進システム異常、
+>  レフトアーム作動不能だと!?」
+“Hmm… Hệ thống đẩy không bình thường và cánh tay trái không thể hoạt động được!?”
+
+@6178 Wufei · 五飛
+# Kích hoạt: 中伤（剩余 HP 30–90%）（通用，1/7）
+> 「ちいっ! 俺はやられはしないっ!!」
+"Tsk! Tôi sẽ không bị đánh gục đâu!!"
+
+@6179 Wufei · 五飛
+# Kích hoạt: 中伤（剩余 HP 30–90%）（通用，2/7）
+> 「まだだ! この程度でやられはせんっ!」
+"Còn chưa kết thúc! Vết thương này không thể đánh bại được ta!"
+
+@6180 Wufei · 五飛
+# Kích hoạt: 中伤（剩余 HP 30–90%）（通用，3/7）
+> 「やるっ! だが、まだ!!」
+"Hai lần! Nhưng vẫn chưa kết thúc!!"
+
+@6181 Wufei · 五飛
+# Kích hoạt: 中伤（剩余 HP 30–90%）（通用，4/7）
+> 「俺は負けん!」
+"Tôi sẽ không thua!"
+
+@6182 Wufei · 五飛
+# Kích hoạt: 中伤（剩余 HP 30–90%）（通用，5/7）
+> 「くっ! この程度で俺を倒せると
+>  思うなっ!!」
+"Hừm! Đừng tưởng vết thương nhỏ này có thể đánh bại được ta!!"
+
+@6183 Wufei · 五飛
+# Kích hoạt: 中伤（剩余 HP 30–90%）（通用，6/7）
+> 「むうっ! 上等だ、相手に
+>  なってやる!」
+"Ồ! Thật tuyệt. Tôi sẽ ở bên bạn cho đến cuối cùng!"
+
+@6184 Wufei · 五飛
+# Kích hoạt: 中伤（剩余 HP 30–90%）（通用，7/7）
+> 「構わん!」
+"Nó không quan trọng!"
+
+@6185 Wufei · 五飛
+# Kích hoạt: 轻伤（剩余 HP 90% 以上）（通用，1/8）
+> 「弱いものが、戦いに出て来るなっ!」
+"Người yếu không nên ra chiến trường!"
+
+@6186 Wufei · 五飛
+# Kích hoạt: 轻伤（剩余 HP 90% 以上）（通用，2/8）
+> 「その程度の力で……」
+“Với sức mạnh nhỏ bé này…”
+
+@6187 Wufei · 五飛
+# Kích hoạt: 轻伤（剩余 HP 90% 以上）（通用，3/8）
+> 「敵が弱いと、戦った後
+>  むなしくなるんだ……くそぉっ!」
+"Kẻ thù quá yếu, chiến đấu xong sẽ chỉ cảm thấy trống rỗng... Chết tiệt!"
+
+@6188 Wufei · 五飛
+# Kích hoạt: 轻伤（剩余 HP 90% 以上）（通用，4/8）
+> 「この程度か……とうてい俺には
+>  及ばんぞ!」
+"Với khả năng này... bạn không thể sánh được với tôi!"
+
+@6189 Wufei · 五飛
+# Kích hoạt: 轻伤（剩余 HP 90% 以上）（通用，5/8）
+> 「それで本気か!? 情けないやつだ…」
+“Đây là tất cả những gì cậu có thể làm sao!? Cậu thực sự vô vọng rồi…”
+
+@6190 Wufei · 五飛
+# Kích hoạt: 轻伤（剩余 HP 90% 以上）（通用，6/8）
+> 「どけ! もういいだろう、お前では
+>  俺に勝てない!!」
+"Tránh ra! Đủ rồi, ngươi không thể đánh bại ta!!"
+
+@6191 Wufei · 五飛
+# Kích hoạt: 轻伤（剩余 HP 90% 以上）（通用，7/8）
+> 「なぜ戦う!? 勝てもしない
+>  相手に対して」
+"Tại sao bạn lại chiến đấu!? Bạn biết bạn không thể đánh bại tôi."
+
+@6192 Wufei · 五飛
+# Kích hoạt: 轻伤（剩余 HP 90% 以上）（通用，8/8）
+> 「こんなものではないだろう、お前たちの力
+>  は。お前たちは汚らしく強いはずだ!」
+"Sức mạnh của bạn còn hơn thế nữa. Bạn được cho là vừa đáng khinh vừa mạnh mẽ!"
+
+@6193 Wufei · 五飛
+# Kích hoạt: Né tránh（通用，1/6）
+> 「当たらん!!」
+"Bỏ lỡ!!"
+
+@6194 Wufei · 五飛
+# Kích hoạt: Né tránh（通用，2/6）
+> 「それで狙っているつもりか!!」
+"Bạn có gọi đó là nhắm mục tiêu không?!"
+
+@6195 Wufei · 五飛
+# Kích hoạt: Né tránh（通用，3/6）
+> 「甘いぞっ!!」
+"Thật ngây thơ!!"
+
+@6196 Wufei · 五飛
+# Kích hoạt: Né tránh（通用，4/6）
+> 「貴様らには俺を倒せん!」
+"Ngươi không thể đánh bại ta!"
+
+@6197 Wufei · 五飛
+# Kích hoạt: Né tránh（通用，5/6）
+> 「そこかっ!」
+"Đó!"
+
+@6198 Wufei · 五飛
+# Kích hoạt: Né tránh（通用，6/6）
+> 「フン、なにをやっている!!」
+"Hmph, cậu đang làm gì vậy!!"
+
+@6199 Wufei · 五飛
+# Kích hoạt: Tấn công无效（护罩／装甲）（通用，1/1）
+> 「この俺にビームが通用すると
+>  思っているのか?」
+"Bạn có nghĩ chùm tia sẽ có tác dụng với tôi không?"
+
+@6200 Wufei · 五飛
+# Kích hoạt: 弹药／EN 不足，无法反击（通用，1/1）
+> 「弾切れだと……こんな時に!」
+"Hết đạn... Đúng vào lúc này!"
+
+@6201 Wufei · 五飛
+# Kích hoạt: 射程外，无法反击（通用，1/1）
+> 「臆病者め……正々堂々と
+>  勝負しろ!」
+"Những kẻ hèn nhát... Hãy thể hiện một cách công khai và trung thực!"
+
+@14259 Wufei · 五飛
+# Kích hoạt: Tấn công，乘坐〈シェンロンガンダム〉
+> 「目標捕捉、いくぞナタク!!」
+"Khóa mục tiêu và tấn công nó, Nezha!!"
+
+@14260 Wufei · 五飛
+# Kích hoạt: Tấn công，乘坐〈シェンロンガンダム〉
+> 「ナタクをなめるなあっ!!」
+“Đừng đánh giá thấp Nezha——!!”
+
+@14261 Wufei · 五飛
+# Kích hoạt: Tấn công，乘坐〈アルトロンガンダム〉
+> 「目標捕捉、いくぞナタク!!」
+"Khóa mục tiêu và tấn công nó, Nezha!!"
+
+@14262 Wufei · 五飛
+# Kích hoạt: Tấn công，乘坐〈アルトロンガンダム〉
+> 「ナタクをなめるなあっ!!」
+“Đừng đánh giá thấp Nezha——!!”
+
+@14263 Wufei · 五飛
+# Kích hoạt: Tấn công，乘坐〈アルトロンカスタム〉
+> 「目標捕捉、いくぞナタク!!」
+"Khóa mục tiêu và tấn công nó, Nezha!!"
+
+@14264 Wufei · 五飛
+# Kích hoạt: Tấn công，乘坐〈アルトロンカスタム〉
+> 「ナタクをなめるなあっ!!」
+“Đừng đánh giá thấp Nezha——!!”
+
+@14265 Wufei · 五飛
+# Kích hoạt: 对手驾驶员为女性
+> 「女か、だから甘い」
+"Nàng là nữ nhân, khó trách lại ngây thơ như vậy."
+
+@14266 Wufei · 五飛
+# Kích hoạt: 被击坠，乘坐〈シェンロンガンダム〉
+> 「くっ! すまん、ナタク!」
+"Ừm! Xin lỗi, Nezha!"
+
+@14267 Wufei · 五飛
+# Kích hoạt: 被击坠，乘坐〈アルトロンガンダム〉
+> 「くっ! すまん、ナタク!」
+"Ừm! Xin lỗi, Nezha!"
+
+@14268 Wufei · 五飛
+# Kích hoạt: 被击坠，乘坐〈アルトロンカスタム〉
+> 「くっ! すまん、ナタク!」
+"Ừm! Xin lỗi, Nezha!"
+
+@14269 Wufei · 五飛
+# Kích hoạt: 重伤（剩余 HP 不足 30%），乘坐〈シェンロンガンダム〉
+> 「くっ……ナタク、俺たちはまだ
+>  死ぬわけにはいかないんだ……」
+"Chà... Nezha, chúng ta chưa thể chết được..."
+
+@14270 Wufei · 五飛
+# Kích hoạt: 重伤（剩余 HP 不足 30%），乘坐〈アルトロンガンダム〉
+> 「くっ……ナタク、俺たちはまだ
+>  死ぬわけにはいかないんだ……」
+"Chà... Nezha, chúng ta chưa thể chết được..."
+
+@14271 Wufei · 五飛
+# Kích hoạt: 重伤（剩余 HP 不足 30%），乘坐〈アルトロンカスタム〉
+> 「くっ……ナタク、俺たちはまだ
+>  死ぬわけにはいかないんだ……」
+"Chà... Nezha, chúng ta chưa thể chết được..."

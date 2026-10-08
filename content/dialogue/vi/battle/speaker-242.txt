@@ -1,0 +1,124 @@
+# Bản dịch tiếng Việt Super Robot Wars 64
+# Định dạng và vị trí: docs/guide/dialogue-text.md
+
+@12028 Dungele · ダンゲル
+# Kích hoạt: Tấn công (Chung，1/8）
+> 「腕がなるわ!」
+"Tay tôi ngứa quá!"
+
+@12029 Dungele · ダンゲル
+# Kích hoạt: Tấn công (Chung，2/8）
+> 「俺の力を見せてやる!」
+"Cho ngươi xem sức mạnh của ta!"
+
+@12030 Dungele · ダンゲル
+# Kích hoạt: Tấn công (Chung，3/8）
+> 「ウッハッハッハッハッ!!」
+"Ưuhahahahahaha!!"
+
+@12031 Dungele · ダンゲル
+# Kích hoạt: Tấn công (Chung，4/8）
+> 「ご覧ください、ジャネラ様!」
+“Xin hãy nhìn xem, quý cô Ganniela!”
+
+@12032 Dungele · ダンゲル
+# Kích hoạt: Tấn công (Chung，5/8）
+> 「グハハハハハッ!」
+"Guhahahahahaha!"
+
+@12033 Dungele · ダンゲル
+# Kích hoạt: Tấn công (Chung，6/8）
+> 「息の根をとめてくれる!」
+"Ta muốn mạng của ngươi!"
+
+@12034 Dungele · ダンゲル
+# Kích hoạt: Tấn công (Chung，7/8）
+> 「これでもくらえ!」
+"Ăn chiêu của tôi đi!"
+
+@12035 Dungele · ダンゲル
+# Kích hoạt: Tấn công (Chung，8/8）
+> 「目にもの見せてくれるわ!」
+"Tôi sẽ cho bạn thấy điều gì tuyệt vời!"
+
+@12036 Dungele · ダンゲル
+# Kích hoạt: 被击坠（通用，1/2）
+> 「ジャ、ジャネラ様、申しわけ
+>  ございません!」
+"Chúa Ganella, tôi rất xin lỗi!"
+
+@12037 Dungele · ダンゲル
+# Kích hoạt: 被击坠（通用，2/2）
+> 「うおぉぉぉぉぉぉーっ!?」
+"Uuuuuuuuuuuuuuuuuuuuuuuuuuuuuuu——!?"
+
+@12038 Dungele · ダンゲル
+# Kích hoạt: 重伤（剩余 HP 不足 30%）（通用，1/3）
+> 「しまった!? エネルギーパイプが!!」
+"Ối!? Ống năng lượng!!"
+
+@12039 Dungele · ダンゲル
+# Kích hoạt: 重伤（剩余 HP 不足 30%）（通用，2/3）
+> 「ジャ、ジャネラ様!!」
+"Chúa-Chúa Ganella!!"
+
+@12040 Dungele · ダンゲル
+# Kích hoạt: 重伤（剩余 HP 不足 30%）（通用，3/3）
+> 「ぐわっ……しまったぁぁぁっ!!」
+"Guwa...thật kinh khủng!!"
+
+@12041 Dungele · ダンゲル
+# Kích hoạt: 中伤（剩余 HP 30–90%）（通用，1/3）
+> 「ぐっ、しまった……補助動力は
+>  どこだ!?」
+“Trời ạ, chết tiệt…nguồn phụ đâu rồi!?”
+
+@12042 Dungele · ダンゲル
+# Kích hoạt: 中伤（剩余 HP 30–90%）（通用，2/3）
+> 「な……なんと!?」
+"Cái...cái gì! ? "
+
+@12043 Dungele · ダンゲル
+# Kích hoạt: 中伤（剩余 HP 30–90%）（通用，3/3）
+> 「ぐっ……こ、こんなばかなぁ!!」
+"Gu...làm sao, làm sao có thể được!!"
+
+@12044 Dungele · ダンゲル
+# Kích hoạt: 轻伤（剩余 HP 90% 以上）（通用，1/3）
+> 「そんなものではびくともせんわい!」
+"Cuộc tấn công này không thể làm gì được tôi!"
+
+@12045 Dungele · ダンゲル
+# Kích hoạt: 轻伤（剩余 HP 90% 以上）（通用，2/3）
+> 「ウワハハハッ、ばかめ!」
+"Uuhahahaha, đồ ngốc!"
+
+@12046 Dungele · ダンゲル
+# Kích hoạt: 轻伤（剩余 HP 90% 以上）（通用，3/3）
+> 「効かぬわ! ハーッハッハッハッ!」
+"Nó không đau hay ngứa! Ha-hahahaha!"
+
+@12047 Dungele · ダンゲル
+# Kích hoạt: Né tránh（通用，1/2）
+> 「ワーハハハハハハッ!」
+"Wahahahahahaha!"
+
+@12048 Dungele · ダンゲル
+# Kích hoạt: Né tránh（通用，2/2）
+> 「あたらぬわ!」
+"Bỏ lỡ!"
+
+@12049 Dungele · ダンゲル
+# Kích hoạt: Tấn công无效（护罩／装甲）（通用，1/1）
+> 「そんなものは通用せぬわ!」
+"Đòn tấn công này hoàn toàn không có tác dụng!"
+
+@12050 Dungele · ダンゲル
+# Kích hoạt: 弹药／EN 不足，无法反击（通用，1/1）
+> 「しまった! 補給をせねば……」
+"Rất tiếc! Chúng tôi cần nguồn cung cấp..."
+
+@12051 Dungele · ダンゲル
+# Kích hoạt: 射程外，无法反击（通用，1/1）
+> 「どこだ! どこからの攻撃だ!?」
+"Nó ở đâu! Cuộc tấn công đến từ đâu!?"

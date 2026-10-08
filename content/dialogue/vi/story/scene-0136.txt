@@ -1,0 +1,947 @@
+# Bản dịch tiếng Việt Super Robot Wars 64
+# Định dạng và vị trí: docs/guide/dialogue-text.md
+
+@31631 Dungele · ダンゲル
+> 「ガンダル司令、{HeroMech}の
+>  奴らが見えましたぞ」
+"Chỉ huy Gandar, băng đảng {HeroMech} đã xuất hiện!"
+
+@31632 Gandal · ガンダル
+> 「うむ。今回こそは、何としても
+>  マーズの奴めを血祭りにあげるのだ
+“Ừ. Lần này dù thế nào đi nữa tôi cũng phải giết tên Mars đó để tế cờ.
+---
+>  ロゼよ、わかっておろうな」
+Rosé, em hiểu mà. "
+
+@31633 Rose · ロゼ
+> 「はっ! おまかせを!」
+"Ừ! Để đó cho tôi!"
+
+@31634 Gandal · ガンダル
+> 「皆の者、出撃!
+>  地球人どもを皆殺しにせよ!」
+"Tấn công tất cả mọi người! Giết tất cả mọi người trên Trái đất!"
+
+@31635 Beltorchika · ベルトーチカ
+> 「敵部隊、来ます!」
+"Quân địch đang tấn công!"
+
+@31636 Bright · ブライト
+> 「弾幕を張れ! ……くそっ、
+>  リーブラ攻撃隊はまだか!」
+“Mở pháo!… Mẹ kiếp, đội tấn công Libra vẫn chưa đến!”
+
+@31637 Ginrei · 銀鈴
+> 「ブライト艦長! あれは……!」
+"Đội trưởng Bright! Đó là...!"
+
+@31638 Ark · アーク（按段落 3DD1）
+> 「遅くなってすまない!
+>  間に合ったようだな!」
+"Xin lỗi vì đến muộn! Có vẻ như tôi đã bắt kịp rồi!"
+
+@31639 Selain · セレイン（按段落 3DD2）
+> 「遅くなった!
+>  どうやら、間に合ったようだな!」
+"Tôi đến muộn! Xem ra tôi đã đuổi kịp rồi!"
+
+@31640 Brad · ブラッド（按段落 3DD3）
+> 「遅くなってすまん!
+>  間に合ったようだな!」
+"Xin lỗi vì đến muộn! Có vẻ như tôi đã bắt kịp rồi!"
+
+@31641 Manami · マナミ（按段落 3DD4）
+> 「遅くなってごめんなさい!
+>  間に合ったようですね!」
+"Xin lỗi vì đến muộn! Có vẻ như tôi đã đến kịp rồi!"
+
+@31642 Beauty · ビューティ
+> 「{HeroNick}!
+>  ヒイロやノインも……!
+"{HeroNick}! Anh hùng và Noyin cũng vậy...!
+---
+>  もう、ハラハラさせないでよね!」
+Thực sự, đừng làm mọi người sợ hãi! "
+
+@31643 Bright · ブライト
+> 「来たか! よし、反撃開始だ!」
+"Chúng ta đến rồi! Được rồi, bắt đầu phản công!"
+
+@31644 Rose · ロゼ
+> 「マーグ隊長、あれがマーズです」
+"Thuyền trưởng Maggu, đó là sao Hỏa."
+
+@31645 Marg · マーグ
+> 「そうか。聞こえるか、裏切り者
+>  マーズ、ズール皇帝の命により
+"Có phải anh ta không? Kẻ phản bội Mars, hãy nghe đây! Theo lệnh của Hoàng đế Zulu,
+---
+>  このマーグが、貴様を抹殺する!」
+Tôi, Magu, sẽ quét sạch bạn! "
+
+@31646 Takeru · タケル
+> 「マーグ……兄さん!? いったい
+>  どうしたっていうんだ、マーグ!
+"Magu...anh trai!? Anh bị sao vậy, Magu!
+---
+>  俺の兄は、そんな男じゃなかった」
+Anh trai tôi thì không như vậy. "
+
+@31647 Marg · マーグ
+> 「兄だって!? ハハハハハッ、俺は
+>  ひとりだ。弟をもった覚えはない」
+"Anh ơi! ? Hahahaha, tôi luôn ở một mình, nhưng tôi không nhớ mình có em trai nào cả. "
+
+@31648 Takeru · タケル
+> 「マーグッ!!」
+“Pháp sư! ! "
+
+@31649 Marg · マーグ
+> 「問答無用。覚悟しろ、マーズ!」
+"Nói chuyện cũng chẳng ích gì. Chết đi, Mars!"
+
+@31650 Marg · マーグ
+> 「ロゼ、マーズはどこだ」
+"Rose, sao Hỏa ở đâu? "
+
+@31651 Rose · ロゼ
+> 「どうやらマーズは
+>  出撃していないようです」
+“Có vẻ như Mars không hề tấn công.”
+
+@31652 Marg · マーグ
+> 「そうか……ならば、
+>  奴らを全滅させるだけのことだ」
+"Thật sao... Vậy thì cứ tiêu diệt hết bọn chúng đi. "
+
+@31653 Takeru · タケル
+> 「あれは……まさかマーグ……兄さん!?」
+"Đó... là Magu...anh trai!?"
+
+@31654 Marg · マーグ
+> 「ほう……お前がマーズだな。
+>  裏切り者マーズ
+"Ồ...bạn chắc hẳn là sao Hỏa. Kẻ phản bội sao Hỏa,
+---
+>  ズール皇帝の命により、
+>  このマーグが貴様を抹殺する!」
+Theo lệnh của Hoàng đế Zulu, tôi, Magu, sẽ tiêu diệt bạn! "
+
+@31655 Takeru · タケル
+> 「いったいどうしたっていうんだ、マーグ!?
+>  俺の兄はそんな男じゃなかった」
+"Anh bị sao vậy, Magu!? Anh trai tôi không như vậy."
+
+@31656 Marg · マーグ
+> 「兄だって!? ハハハハハッ、俺は
+>  ひとりだ。弟をもった覚えはない」
+"Anh ơi! ? Hahahaha, tôi luôn ở một mình, nhưng tôi không nhớ mình có em trai nào cả. "
+
+@31657 Takeru · タケル
+> 「マーグッ!!」
+“Pháp sư! ! "
+
+@31658 Marg · マーグ
+> 「問答無用。覚悟しろ、マーズ!」
+"Nói chuyện cũng chẳng ích gì. Chết đi, Mars!"
+
+@31659 Takeru · タケル
+> 「マーグ、お前は本当にマーグなのか?
+>  俺の兄なのか!?」
+“Magu, bạn có thực sự là Magu không? Anh có thật sự là anh trai của em không? ? "
+
+@31660 Marg · マーグ
+> 「俺はマーグだ。だがお前の兄ではない」
+“Tôi là Magu, nhưng không phải anh trai của bạn. "
+
+@31661 Takeru · タケル
+> 「マーグ!」
+“Pháp sư! "
+
+@31662 Marg · マーグ
+> 「貴様のような奴はズール皇帝の
+>  名のもとに処分してくれる!」
+"Tôi sẽ đối phó với những người như bạn nhân danh Hoàng đế Zulu!"
+
+@31663 Takeru · タケル
+> 「マーグ、やめろぉぉーっ!」
+"Magu, dừng lại!" "
+
+@31664 Takeru · タケル
+> 「くっ……マーグ!」
+“Hmm… Magu! "
+
+@31665 Marg · マーグ
+> 「死ね、マーズ!
+>  ズール皇帝のために!」
+"Xuống địa ngục đi, sao Hỏa! Vì Hoàng đế Zulu! "
+
+@31666 Gandal · ガンダル
+> 「あれは……マーズか!
+>  ズール皇帝陛下にその命
+"Đó là...Sao Hỏa! Hãy lấy mạng ngươi đi,
+---
+>  ささげてみせる!」
+Hãy cống hiến nó cho Hoàng đế Zulu! "
+
+@31667 Gandal · ガンダル
+> 「デュークフリードめ……!
+>  なんとしても奴らをせん滅せねば!」
+“Tên Công tước Freed đó…! Chúng ta phải tiêu diệt chúng bằng mọi giá!”
+
+@31668 Emary · エマリー
+> 「きゃぁぁぁぁーっ!
+>  ブライト艦長ーっ!!」
+"Ahhhhhh——! Đội trưởng Bright——!!"
+
+@31669 Bright · ブライト
+> 「エ、エマリーッ!!」
+"A-Emily!!"
+
+@31670 Marg · マーグ
+> 「ロゼ、あのマーズというのは何者
+>  なんだ? なぜ俺を兄という」
+"Rose, người đàn ông tên Mars là ai? Tại sao bạn gọi tôi là anh trai? "
+
+@31671 Rose · ロゼ
+> 「隊長をまどわせようとしているのです。
+>  なぜそのようなことを気になさるのですか」
+"Hắn muốn làm cho đội trưởng bối rối. Tại sao ngươi lại quan tâm đến chuyện như vậy."
+
+@31672 Marg · マーグ
+> 「わからない……なぜかあいつの
+>  ことが気になる。マーズのことが
+“Tôi không thể giải thích…Tôi không biết tại sao, nhưng tôi chỉ không thể buông tay anh chàng đó. Tôi không thể buông bỏ Mars.
+---
+>  俺とそっくりの顔。しかも俺のことを
+>  兄と呼ぶ……」
+Một khuôn mặt giống hệt tôi. Và anh ấy gọi tôi là anh trai…”
+
+@31673 Rose · ロゼ
+> (いけない……洗脳が弱まって
+>  いる……?)
+(Không ổn...tác dụng tẩy não đang yếu đi...?)
+
+@31674 Rose · ロゼ
+> 「マーグ隊長、私の目をみてください」
+“Đội trưởng Magu, xin hãy nhìn vào mắt tôi. "
+
+@31675 Marg · マーグ
+> 「目……?」
+"Mắt...? "
+
+@31676 Marg · マーグ
+> 「う……」
+"Ờ..."
+
+@31677 Rose · ロゼ
+> 「マーズはあなたの敵、銀河帝国の
+>  敵。マーズを倒すのがあなたの使命
+"Sao Hỏa là kẻ thù của bạn, kẻ thù của Đế chế Thiên hà. Nhiệm vụ của bạn là đánh bại Sao Hỏa.
+---
+>  マーズを倒すのよ」
+Đánh bại sao Hỏa. "
+
+@31678 Marg · マーグ
+> 「……マーズ……マーズは俺が倒す!
+>  マーズ!!」
+"... Sao Hỏa... Tôi sẽ đánh bại Sao Hỏa! Sao Hỏa! ! "
+
+@31679 Emperor Zuul · ズール皇帝
+> 「ワール、その後の経過はどうだ」
+“Val, trận chiến thế nào rồi?”
+
+@31680 Wahl · ワール
+> 「はっ、先遣艦隊は苦戦している
+>  模様です。マーズもいまだ
+“Đúng vậy, hạm đội tiên phong dường như đang trong một trận chiến khó khăn. Sao Hỏa cũng vẫn còn
+---
+>  健在であります」
+Còn sống. "
+
+@31681 Emperor Zuul · ズール皇帝
+> 「たかが辺境の一惑星ごときに、
+>  これほど手間取るとはな。ガンダルめ
+“Chỉ là một hành tinh nhỏ ở biên giới mà đã bị trì hoãn lâu như vậy. Anh chàng Gandar đó,
+---
+>  あるいはわしが買いかぶっておったか」
+Có lẽ là tôi đã đánh giá anh ấy quá cao? "
+
+@31682 Wahl · ワール
+> 「地球にはマーズのみならず
+>  フリード星のデュークフリードも
+"Người ta nói rằng trên trái đất không chỉ có Sao Hỏa mà còn có Sao Chiên.
+---
+>  存在するとか。ガンダル司令には
+>  荷が重すぎたのやも知れませぬ
+Công tước Fried. Gánh nặng này có thể quá nặng nề đối với Chỉ huy Gandar.
+---
+>  いかがいたしましょうか、陛下」
+Thưa bệ hạ, ngài nghĩ nên làm gì? "
+
+@31683 Emperor Zuul · ズール皇帝
+> 「ガンダルが苦戦しておるというのも地
+>  球がいかに危険であるかの証拠
+"Trận chiến khốc liệt của Gandar chứng tỏ trái đất nguy hiểm đến mức nào.
+---
+>  ワール、艦隊の用意をせい。ワシ
+>  みずから地球とやらへ向かうとしよう」
+Val, chuẩn bị hạm đội. Tôi muốn tự mình đến Trái đất. "
+
+@31684 Wahl · ワール
+> 「はっ、かしこまりました、陛下」
+"Vâng, theo lệnh, thưa bệ hạ. "
+
+@31685 Emperor Zuul · ズール皇帝
+> 「指揮はお前にまかせる。副官と
+>  してジャネラを連れて行くがよい」
+“指挥就交给你了。让加涅拉做副官随你同去。"
+
+@31686 Pagan · パーガン
+> 「リリーナ様、どうしても
+>  お行きになるのですか?
+“莉莉娜大人,您当真要去吗？
+---
+>  宇宙は今、戦乱の
+>  まっただ中だといいますのに……」
+据说宇宙如今正处在战乱之中……”
+
+@31687 Relena · リリーナ
+> 「パーガン、わたくしの決意は
+>  わかっているはずですよ。兄ミリアルドを
+“帕甘, 你应该明白我的决心。能阻止哥哥米利亚尔特的,
+---
+>  とめられるのは、わたくししかいません。
+>  いいえ、たとえ説得できなくても……
+Chỉ có tôi thôi.
+---
+>  わたくしには、このままじっと戦争を
+>  ながめていることなど、できないのです」
+我也无法就这样袖手旁观这场战争".
+
+@31688 Pagan · パーガン
+> 「リリーナ様……」
+"Tiểu thư Lilina..."
+
+@31689 Relena · リリーナ
+> 「ジュリア様、行ってまいります。
+>  地上のことは
+“朱莉娅大人，我出发了。 những thứ trên mặt đất,
+---
+>  どうかよろしくお願いします」
+Tùy thuộc vào bạn. "
+
+@31690 Julia · ジュリア
+> 「わかりました。あなたのその決意は、
+>  尊いと思います
+“我明白了。你的这份决心很可贵。
+---
+>  行ってらっしゃい、リリーナさん。
+>  だけど、これだけは聞いておいて」
+Tiếp đi, cô Lilina. Tuy nhiên, bạn phải nhớ câu này. "
+
+@31691 Relena · リリーナ
+> 「何でしょう?」
+"Có chuyện gì thế?"
+
+@31692 Julia · ジュリア
+> 「決して死んではだめ。あなたは、
+>  これからの地球に必要な人なのよ
+"Bạn không được chết. Trái đất sẽ cần bạn trong tương lai.
+---
+>  必ず無事で帰っていらして……」
+一定要平安回来……”
+
+@31693 Relena · リリーナ
+> 「ジュリア様……。わかりました、
+>  必ず生きてもどると約束いたします
+"Ngài Julia...Tôi hiểu rồi, tôi hứa sẽ sống sót trở về.
+---
+>  どうか心配なさらないで下さい。
+>  それでは……行ってまいります」
+Xin đừng lo lắng.那么……我出发了。"
+
+@31694 Treize · トレーズ
+> 「歴史はやはり我々人類に過
+>  酷な方向へと流れているようだね」
+“Có vẻ như lịch sử đang đi theo hướng tàn khốc đối với con người chúng ta.”
+
+@31695 Lady · レディ
+> 「はい、トレーズ様の予想
+>  された通りです。また
+“Đúng, đúng như Lord Telles mong đợi. Ngoài ra,
+---
+>  デルマイユ公・ジャミトフ閣下の
+>  ご両名がお亡くなりになったことを
+Trước thực tế là cả Công tước Dirumayu và Ngài Jamitov đều đã qua đời,
+---
+>  受け、財団の最高幹部会は
+>  満場一致でトレーズ様への
+Hội nghị lãnh đạo cao nhất của tập đoàn đã thống nhất quyết định yêu cầu ông Telles
+---
+>  復帰要請を決議したとのこと
+>  です。OZそして財団の代表として」
+复出, 担任OZ以及财团的代表。 "
+
+@31696 Treize · トレーズ
+> 「そうだろうね。事態がここまで
+>  推移すれば、指導者のいない
+"Chắc chắn là như vậy. Tình hình đã phát triển đến thời điểm này mà không có người lãnh đạo.
+---
+>  ロームフェラ財団など烏合の衆に
+>  すぎない。協議制では、めまぐるしく
+Hiệp hội Romphila không gì khác hơn là một nhóm người nghèo khổ. Chúng tôi không thể đối phó với nó bằng cách dựa vào hệ thống tư vấn.
+---
+>  移り行く事態に対応できまい」
+Một tình huống thay đổi nhanh chóng. "
+
+@31697 Lady · レディ
+> 「では、やはりお受けになるのですね?」
+"Vậy ngươi thật sự muốn tiếp nhận sao? "
+
+@31698 Treize · トレーズ
+> 「無論だよ、レディ。地球圏の、
+>  いや人類の未来を決する
+"Tất nhiên rồi, Letty. Điều gì quyết định phạm vi toàn cầu, không, quyết định tương lai của nhân loại
+---
+>  大舞台の役者はそろった。
+>  残された時間はあまり多くない」
+Không còn nhiều thời gian nữa đâu. "
+
+@31699 Lady · レディ
+> 「はい、トレーズ様」
+“Vâng, thưa ngài Telles.”
+
+@31700 Treize · トレーズ
+> 「……諸君、この戦いは、
+>  ムゲゾルバドス帝国の時とは違う
+“…Mọi người, trận chiến này khác với thời của Đế chế Muge Zorbados.
+---
+>  この地球そのものの未来を、
+>  我々の、人類の存亡をかけた
+Đây là về tương lai của chính trái đất và sự sống còn của loài người chúng ta.
+---
+>  戦いとなる。銀河帝国との
+>  戦いに敗れれば、我々
+Chiến đấu. Nếu chúng ta thua trận chiến với Đế chế Thiên hà, chúng ta
+---
+>  地球人類は、滅亡するのだ。
+>  今ここにおいてこそOZを再編し
+Nhân loại trên trái đất sẽ bị diệt vong
+---
+>  諸君らの意志と行動を
+>  このトレーズに預けてもらいたい……」
+Tôi hy vọng cậu sẽ giao phó ý chí và hành động của mình cho tôi, Teles…”
+
+@31701 Henken · ヘンケン
+> 「ホワイトファングの連中が
+>  馬鹿なことをしでかしたおかげで
+“白色獠牙那帮家伙干了蠢事,
+---
+>  宇宙は大混乱だ」
+Vũ trụ đang hỗn loạn. "
+
+@31702 Chan · チェーン
+> 「起こったことをあれこれいっても
+>  しょうがありません。今、重要なのは
+“事已至此,再说什么也没用。现在重要的是,
+---
+>  そのおかげでネェルアーガマを
+>  ラビアンローズまで
+Vì điều này, chúng ta có thể đặt Agama mới
+---
+>  持って行けるってことです」
+开到玫瑰人生号去。 "
+
+@31703 Henken · ヘンケン
+> 「まあ俺が月までこれたのもそうだがな。
+>  他の補給はどうだ?」
+“我能到月球来也是沾了这个光。其他补给怎么样？”
+
+@31704 Chan · チェーン
+> 「ZZガンダムとアシュクリーフは
+>  問題ありませんね」
+“ZZ高达和阿修克里夫没问题。”
+
+@31705 Henken · ヘンケン
+> 「アシュクリーフ? それもアナハイムで
+>  つくったMSか?」
+"Ashcliffe? Đó có phải là mobile suit do Anaheim sản xuất không?"
+
+@31706 Chan · チェーン
+> 「違いますよ。ゾルバドス帝国が
+>  いた頃、フレモントインダストリーが
+“不是。那是佐尔巴多斯帝国还在时,弗雷蒙特工业
+---
+>  帝国用として開発していた機
+>  体です。ほら、{HeroMech}に
+Một cỗ máy được phát triển cho Đế quốc.您看，{HeroMech}不是有台
+---
+>  ソルデファーという試作機が
+>  あるじゃないですか
+Nó có được gọi là nguyên mẫu của Soltifa không?
+---
+>  ASSAULT-DRAGOONっていい
+>  ましたっけ。あれの後継機ですよ
+叫ASSAULT-DRAGON来着。 Đó là người kế nhiệm của nó.
+---
+>  バランスも性能も申し分ない
+>  機体です
+平衡性和性能都无可挑剔。
+---
+>  D.P.S.って操縦システムは
+>  少し恐いところもありますけど」
+只是那个叫D.P.S.
+
+@31707 Henken · ヘンケン
+> 「それがなぜ我々の手に入ったんだ?」
+"Làm sao thứ đó lại rơi vào tay chúng ta?"
+
+@31708 Chan · チェーン
+> 「月面制圧時にOZが入手した
+>  そうです。ただ適応できるパイロットが
+“据说是OZ压制月面时弄到手的。可一直找不到能驾驭它的机师,
+---
+>  見つからなくて、未完成機として
+>  放置されていたところを、アナハイムが
+就当成未完成机搁在那里,后来阿纳海姆
+---
+>  買い取ったらしいですよ。
+>  そうですよね、オクトバーさん」
+Đã mua nó. Đúng vậy, ông Octoba. "
+
+@31709 October · オクトバー
+> 「ええ。我々は{HeroMech}の
+>  戦闘データをもらっています
+{HeroMech} "Đúng. Chúng tôi đã nhận được dữ liệu chiến đấu của _XEROMECHX_.
+---
+>  ソルデファーのパイロットなら、
+>  アシュクリーフも使えるはずですからね
+既然能驾驶索尔迪法,阿修克里夫也应该能用。
+---
+>  もっとも上の判断では、新しい
+>  技術のテストデータをほしいと
+不过上头的意思,大概是想拿到
+---
+>  いうところでしょう」
+新技术的测试数据吧。 "
+
+@31710 Chan · チェーン
+> 「ZZガンダムは問題ありませんね」
+"ZZGundam ổn mà. "
+
+@31711 Henken · ヘンケン
+> 「それだけか。状況はかなり厳しいな」
+"Chỉ vậy thôi sao? Tình hình khá nghiêm trọng. "
+
+@31712 Chan · チェーン
+> 「ZZガンダムは問題ありませんね」
+"ZZGundam ổn mà. "
+
+@31713 Henken · ヘンケン
+> 「それだけか。状況はかなり厳しいな」
+"Chỉ vậy thôi sao? Tình hình khá nghiêm trọng. "
+
+@31714 Chan · チェーン
+> 「オクトバーさん、νガンダムの調整は
+>  どうなっているんです?」
+"Oktoba-san, việc điều chỉnh νGundam diễn ra thế nào rồi?"
+
+@31715 October · オクトバー
+> 「まだ時間がかかります。兵装も
+>  一部が取りつけられていません
+“Vẫn cần một chút thời gian. Một số vũ khí chưa được cài đặt,
+---
+>  実戦に出すのは無理ですね」
+Chưa sẵn sàng cho trận chiến thực sự. "
+
+@31716 Chan · チェーン
+> 「そんな、いま渡せなかったら次は
+>  いつになるかわからないんですよ!?」
+"Sao lại thế này? Nếu bây giờ không giao được thì không biết lần sau là khi nào!?"
+
+@31717 October · オクトバー
+> 「無理なものは無理ですよ」
+"Không, nó sẽ không hoạt động."
+
+@31718 Chan · チェーン
+> 「わかりました。調整は
+>  ネェルアーガマでやります
+"Đã hiểu.调整就在新阿伽玛号上做,
+---
+>  残りのデータ、まわしといてください」
+Vui lòng chuyển dữ liệu còn lại. "
+
+@31719 October · オクトバー
+> 「やめてください。未完成のまま
+>  持ち出すつもりですか」
+“请别这样。你想就这么把没完成的机体带走吗？”
+
+@31720 Chan · チェーン
+> 「アムロ……大尉が待ってるんです!
+>  あとは私と彼で完成させるわ」
+“Amuro…đội trưởng đang đợi! Anh ấy và tôi sẽ cùng nhau làm phần còn lại. "
+
+@31721 October · オクトバー
+> 「どうなっても知りませんよ」
+“Tôi không quan tâm chuyện gì xảy ra. "
+
+@31722 Chan · チェーン
+> 「大丈夫です! ヘンケン中佐、
+>  ネェルアーガマの発進準備
+“没问题!汉肯中校,请赶紧让新阿伽玛号做好出航准备,
+---
+>  急いでもらってください。私はνを
+>  搬入させます」
+Tôi sẽ sắp xếp để ν chuyển đến ở."
+
+@31723 Henken · ヘンケン
+> 「あ、ああ」
+"À, được rồi. "
+
+@31724 Chan · チェーン
+> 「いいですね、オクトバーさん」
+“Việc đó đã được giải quyết, ông Octoba. "
+
+@31725 October · オクトバー
+> 「しかたないですね。わかりました、データは
+>  整理して、ラビアンローズに
+“真拿你没办法。好吧, 我把数据整理好,
+---
+>  送っておきますよ。そのかわり、実戦
+>  データは逐次こちらへ送ってください」
+"
+
+@31726 Chan · チェーン
+> 「はい。ありがとうございますッ!」
+“是。多谢您了!”
+
+@31727 Henken · ヘンケン
+> 「……なんだ、ありゃ」
+“…Có chuyện gì với cô ấy vậy? "
+
+@31728 Selain · セレイン（按段落 3DD2）
+> 「ん? なんだ、
+>  見たことのない機体があるな
+“嗯？怎么回事,有台没见过的机体。
+---
+>  私の機体に似ているようだが……?」
+好像和我的机体很像……？ "
+
+@31729 Rish · リッシュ（按段落 3DD2）
+> 「どれ…………おいおい、
+>  ありゃ“TYPE33”じゃねぇのか?」
+"Cái... Này, đó không phải là 'TYPE33' sao?"
+
+@31730 Selain · セレイン（按段落 3DD2）
+> 「……TYPE33? おい言え、
+>  なんだそれは」
+"...TYPE33? Này, nói rõ cho tôi biết, đó là gì."
+
+@31731 Rish · リッシュ（按段落 3DD2）
+> 「まだ帝国がいた頃に、
+>  月のZ&R社で開発していた
+“帝国还在的时候,月球的Z&R公司开发的
+---
+>  ヴァルキュリア・シリーズの新型だ」
+Mẫu mới của dòng Valkyrie. "
+
+@31732 Selain · セレイン（按段落 3DD2）
+> 「新型のヴァルキュリア……」
+“Một loại Valkyrie mới…”
+
+@31733 Rish · リッシュ（按段落 3DD2）
+> 「ああ、お前のが3機だけ作られた
+>  試作型の“TYPE27”
+"Đúng, của bạn là mẫu thử nghiệm 'TYPE27', chỉ có ba chiếc được sản xuất.
+---
+>  俺のがその正式型の
+>  “TYPE28”
+Của tôi là loại chính thức 'TYPE28'.
+---
+>  “TYPE33”は
+>  “TYPE28”の再設計型を
+‘TYPE33’ là phiên bản được thiết kế lại của ‘TYPE28’
+---
+>  ベースにした重装機だ。
+>  だが“TYPE29”以降は
+Là một trình cài đặt lại cơ bản. Có sẵn cho các mẫu sau 'TYPE29',
+---
+>  設計段階でOZのクーデターが
+>  起きちまったから
+Chúng tôi gặp phải cuộc đảo chính của OZ khi vẫn đang trong giai đoạn thiết kế.
+---
+>  作られてないはずなんだが」
+Có lẽ chúng thậm chí còn chưa được tạo ra. "
+
+@31734 Alan · アラン
+> 「その通り。あれは我々で製作した
+>  いわば“TYPE33改”とでも
+“没错。那台算是我们自己造的,叫它'TYPE33改'
+---
+>  いうべきものだ」
+Đó không phải là một sự cường điệu. "
+
+@31735 Selain · セレイン（按段落 3DD2）
+> 「アラン、どういうことだ」
+"Alan, có chuyện gì thế?"
+
+@31736 Alan · アラン
+> 「解放戦線もカラバも、組織と
+>  しての形は無くしてしまったが
+“Cả Mặt trận Giải phóng và Calabar với tư cách là các tổ chức đều không còn tồn tại;
+---
+>  それぞれの技術者集団は逆に
+>  合流することでより強化されている
+但双方的技术团队汇合到一起,反而更强了,
+---
+>  万丈とロス・イゴールの
+>  尽力のおかげでな
+Điều này có được là nhờ sự điều hành của Wan Zhang và Ross Eagle.
+---
+>  ゴッドとライジングも
+>  そこから持ってきたのだよ」
+GodGundam và FlashGundam cũng được lấy từ đó. "
+
+@31737 Selain · セレイン（按段落 3DD2）
+> 「それでは帝国の機体が存在する
+>  理由になっていない」
+“Điều đó vẫn không giải thích được tại sao lại có máy Imperial.”
+
+@31738 Alan · アラン
+> 「それは簡単だ。OZが月面を
+>  制圧したとき、OZに反対する
+“这很简单。OZ压制月面时,反对OZ的
+---
+>  Z&Rの技術者が設計データ
+>  ごと我々のもとへやってきたのだ」
+Kỹ thuật viên của Z&R đến gặp chúng tôi với dữ liệu thiết kế. "
+
+@31739 Selain · セレイン（按段落 3DD2）
+> 「なるほどな。それで合点がいった。
+>  で、あれのパイロットはどこだ?」
+"Đó là nó. Điều đó có ý nghĩa. Vậy phi công của nó ở đâu? "
+
+@31740 Alan · アラン
+> 「パイロットは君だ、{HeroName}」
+"Phi công là bạn, {HeroName}."
+
+@31741 Selain · セレイン（按段落 3DD2）
+> 「私はスヴァンヒルドを
+>  降りるつもりはない
+“Tôi không có ý định rời Svanhilde.
+---
+>  あれには私の癖が記録されている。
+>  いまさら他の機体になど移れない」
+Nó ghi lại thói quen hoạt động của tôi. Lúc này mình không thể đổi sang máy khác được. "
+
+@31742 Astonaige · アストナージ
+> 「だからこそ、あれには
+>  お前が乗ってくれないと困るんだよ」
+"Đó là lý do tại sao bạn phải lái chiếc máy đó."
+
+@31743 Selain · セレイン（按段落 3DD2）
+> 「アストナージ?」
+"Kinh ngạc?"
+
+@31744 Astonaige · アストナージ
+> 「アランが改良型だといっただろう。
+>  あれは、お前の操縦データをもとに
+“Không phải Alan đã nói đó là một loại cải tiến sao? Nó dựa trên dữ liệu thao tác của bạn.
+---
+>  シミュレーションして開発されたんだ。
+>  お前の癖は全部知っているし
+Được phát triển thông qua mô phỏng. Nó biết mọi thói quen của bạn,
+---
+>  お前でなければ使いこなせないんだよ」
+Không ai có thể kiểm soát nó ngoài bạn. "
+
+@31745 Selain · セレイン（按段落 3DD2）
+> 「いつの間にそんなことを……アストナージ
+>  私に黙って、データをコピーしたな」
+"Anh làm điều đó khi nào...Atornaji, anh sao chép dữ liệu sau lưng tôi."
+
+@31746 Alan · アラン
+> 「ははっ、まぁいいじゃないか。
+>  それより、せっかく持ってきたんだ
+"Ha ha, chuyện này có liên quan gì tới chuyện này? Tạm thời đừng nói nữa, tốn rất nhiều công sức mới mang được tới đây.
+---
+>  乗ってくれるだろうな?」
+Bạn nên mở nó ra, phải không? "
+
+@31747 Selain · セレイン（按段落 3DD2）
+> 「いいだろう。使わせてもらうとしよう。
+>  しかしスヴァンヒルドはどうなるのだ?」
+"Được rồi. Thế thì tôi sẽ chấp nhận. Nhưng còn Svanhilde thì sao?"
+
+@31748 Rish · リッシュ（按段落 3DD2）
+> 「俺の機体の予備パーツだな」
+"Hãy đưa cho tôi chiếc máy đó như một phụ tùng thay thế."
+
+@31749 Selain · セレイン（按段落 3DD2）
+> 「お前は黙ってろ! ……といいたい
+>  ところだが、それが常道か」
+“你给我闭嘴!……我是很想这么说,不过按常理也只能这样吧。”
+
+@31750 Alan · アラン
+> 「その辺はまかせる」
+"Tôi để lại những thứ này cho bạn."
+
+@31751 Selain · セレイン（按段落 3DD2）
+> 「ああ。で、あれの名前は?」
+"Được rồi. Vậy tên nó là gì?"
+
+@31752 Alan · アラン
+> 「“TYPE33改”
+>  ラーズグリーズだ」
+"'Đã sửa đổi TYPE33' Razgriz."
+
+@31753 Selain · セレイン（按段落 3DD2）
+> 「ん? なんだ、見たことのない
+>  機体があるな。ジャネット
+"Hả? Chuyện gì đang xảy ra vậy? Có một chiếc máy tôi chưa từng thấy trước đây. Janet,
+---
+>  私の機体に似ているようだが、
+>  あれは何だ?」
+Nó trông rất giống cơ thể của tôi, nó là gì? "
+
+@31754 Janet · ジャネット
+> 「え? ああ、あれ?
+>  アランさんが持ってきたみたいよ
+“咦？啊,那个啊？好像是阿兰先生带来的,
+---
+>  新型のヴァルキュリアだって。
+>  スヴァンヒルドの後継機ね」
+Nó được cho là một loại Valkyrie mới, người kế thừa của Svanhilde. "
+
+@31755 Selain · セレイン（按段落 3DD2）
+> 「スヴァンヒルドの……」
+"Svanhilde..."
+
+@31756 Alan · アラン
+> 「その通り。あれは我々で製作した
+>  ヴァルキュリア
+“Đúng vậy. Đó là Valkyrie chúng tôi đã tạo ra.
+---
+>  “TYPE33改”ラーズグリーズだ」
+'Đã sửa đổi TYPE33' Razgriz. "
+
+@31757 Selain · セレイン（按段落 3DD2）
+> 「“TYPE33改”?
+>  アラン、どういうことだ」
+"'Thay đổi TYPE33'? Alan, chuyện gì đang xảy ra vậy?"
+
+@31758 Alan · アラン
+> 「“TYPE33”というのは、
+>  もともと帝国がZ&R社で
+"'TYPE33' ban đầu được Đế quốc giao cho Công ty Z&R
+---
+>  地球環境用に設計させていた
+>  重装機だ。君のスヴァンヒルドは
+Một máy xúc hạng nặng được thiết kế và sản xuất cho môi trường trái đất. svanhilde của bạn là
+---
+>  試作型の“TYPE27”だから
+>  その直系といっていい
+Nó là phiên bản dùng thử của 'TYPE27' nên có thể coi là hậu duệ trực tiếp của nó.
+---
+>  OZの月面制圧後、
+>  OZに反抗するZ&Rの
+Sau khi OZ đàn áp mặt trăng, Z&R chống lại OZ
+---
+>  技術者が、設計データごと
+>  我々のもとへやってきた
+Các kỹ thuật viên đến với chúng tôi với dữ liệu thiết kế.
+---
+>  そのデータをもとに開発したのが、
+>  あの“TYPE33改”だ」
+The one developed based on those data is the 'TYPE33 modification'. "
+
+@31759 Selain · セレイン（按段落 3DD2）
+> 「しかし、よくそんな余裕が
+>  あったものだな」
+"Bất quá, ngươi kỳ thật còn sót lại loại năng lượng này."
+
+@31760 Alan · アラン
+> 「解放戦線もカラバも、組織と
+>  しての形は無くしてしまったが
+“Cả Mặt trận Giải phóng và Calabar với tư cách là các tổ chức đều không còn tồn tại;
+---
+>  それぞれの技術者集団は逆に
+>  合流することでより強化されている
+但双方的技术团队汇合到一起,反而更强了,
+---
+>  万丈とロス・イゴールの
+>  尽力のおかげでな
+Điều này có được là nhờ sự điều hành của Wan Zhang và Ross Eagle.
+---
+>  ゴッドとライジングも
+>  そこから持ってきたのだよ」
+GodGundam và FlashGundam cũng được lấy từ đó. "
+
+@31761 Selain · セレイン（按段落 3DD2）
+> 「なるほどな。それで合点がいった。
+>  で、あれのパイロットはどこだ?」
+"Đó là nó. Điều đó có ý nghĩa. Vậy phi công của nó ở đâu? "
+
+@31762 Alan · アラン
+> 「パイロットは君だ、{HeroName}」
+"Phi công là bạn, {HeroName}."
+
+@31763 Selain · セレイン（按段落 3DD2）
+> 「私はスヴァンヒルドを
+>  降りるつもりはない
+“Tôi không có ý định rời Svanhilde.
+---
+>  あれには私の癖が記録されている。
+>  いまさら他の機体になど移れない」
+Nó ghi lại thói quen hoạt động của tôi. Lúc này mình không thể đổi sang máy khác được. "
+
+@31764 Astonaige · アストナージ
+> 「だからこそ、あれには
+>  お前が乗ってくれないと困るんだよ」
+"Đó là lý do tại sao bạn phải lái chiếc máy đó."
+
+@31765 Selain · セレイン（按段落 3DD2）
+> 「アストナージ?」
+"Kinh ngạc?"
+
+@31766 Astonaige · アストナージ
+> 「アランが改良型だといっただろう。
+>  あれは、お前の操縦データをもとに
+“Không phải Alan đã nói đó là một loại cải tiến sao? Nó dựa trên dữ liệu thao tác của bạn.
+---
+>  シミュレーションして開発されたんだ
+>  お前の癖は全部知っているし
+Được phát triển thông qua mô phỏng. Nó biết mọi thói quen của bạn,
+---
+>  お前でなければ使いこなせないんだよ」
+Không ai có thể kiểm soát nó ngoài bạn. "
+
+@31767 Selain · セレイン（按段落 3DD2）
+> 「いつの間にそんなことを……アストナージ
+>  私に黙って、データをコピーしたな」
+"Anh làm điều đó khi nào...Atornaji, anh sao chép dữ liệu sau lưng tôi."
+
+@31768 Alan · アラン
+> 「ははっ、まぁいいじゃないか。
+>  それより、せっかく持ってきたんだ
+"Ha ha, chuyện này có liên quan gì tới chuyện này? Tạm thời đừng nói nữa, tốn rất nhiều công sức mới mang được tới đây.
+---
+>  乗ってくれるだろうな?」
+Bạn nên mở nó ra, phải không? "
+
+@31769 Selain · セレイン（按段落 3DD2）
+> 「いいだろう。使わせてもらうとしよう。
+>  しかしスヴァンヒルドはどうなるのだ?」
+"Được rồi. Thế thì tôi sẽ chấp nhận. Nhưng còn Svanhilde thì sao?"
+
+@31770 Astonaige · アストナージ
+> 「予備パーツにまわすさ。
+>  どうせ必要になる」
+"Chỉ cần sử dụng nó như một phụ tùng thay thế. Dù sao thì sớm hay muộn nó cũng sẽ được sử dụng. "
+
+@31771 Selain · セレイン（按段落 3DD2）
+> 「そうか……おしい気もするが、
+>  それが常道か。わかった、まかせる」
+“It’s like this…it’s a bit of a pity, but it can only be like this according to common sense. Hiểu rồi, để lại cho bạn. "

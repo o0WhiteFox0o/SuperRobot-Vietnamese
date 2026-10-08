@@ -1,0 +1,590 @@
+# Bản dịch tiếng Việt Super Robot Wars 64
+# Định dạng và vị trí: docs/guide/dialogue-text.md
+
+@17887 Banjo · 万丈
+> 「そういえば ローレンス、
+>  前に言っていたスイームルグの
+“Nhắc mới nhớ, Laurence, trước đây cậu đã đề cập đến chuyện Svemluger
+---
+>  背面に取りつけるはずだった
+>  ものの設計図っていうのは
+Ban đầu có một bộ phận được lắp đặt ở mặt sau và bản vẽ thiết kế của nó
+---
+>  どうなったんだい?
+Điều gì đã xảy ra tiếp theo?
+---
+>  ウチの技術者はブースターだろうと
+>  いっていたが」
+Kỹ thuật viên của chúng tôi nói rằng đó phải là bộ đẩy. "
+
+@17888 主角
+> 「あら、そういえばあたしも聞いたこと
+>  なかったわ。どうなの?」
+"Ồ, tôi chưa bao giờ nghe đến nó. Nó là gì vậy?"
+
+@17889 Lawrence · ローレンス
+> 「はい、確かわたくしの記憶では、
+>  単体で活動可能な
+“Đúng vậy, theo trí nhớ của tôi, nó là một cơ thể có thể di chuyển độc lập.
+---
+>  飛行ブースターであったと
+>  記憶しております」
+Máy đẩy chuyến bay. "
+
+@17890 主角
+> 「じゃあ、戦闘機のようにもなるのね」
+“Vậy nó có thể bay như máy bay chiến đấu à?”
+
+@17891 Lawrence · ローレンス
+> 「はい。先々代は、そのような機構
+>  に、大変興味をお持ちでしたので
+"Đúng. Lão già khi còn sống rất hứng thú với loại tổ chức này.
+---
+>  しかし、わたくしがお預かりしたのは
+>  スイームルグの設計図のみでしたので
+Tuy nhiên, thứ duy nhất tôi được giao phó là thiết kế của Svemluger.
+---
+>  それがどうなったかについては
+>  存じ上げません」
+Chuyện gì xảy ra sau đó, tôi không biết. "
+
+@17892 主角
+> 「残念ね。それがあればスイームルグも
+>  飛べたのでしょうに」
+“Thật đáng tiếc. Nếu có thứ đó, Swaimlug sẽ có thể bay được.”
+
+@17893 Koji · 甲児
+> 「おっいたいた。みんな、
+>  なんかギャリソンさんが
+"Ồ, tìm thấy rồi, tìm thấy rồi. Mọi người, ông Garrison
+---
+>  来てくれっていってるぜ」
+Hãy gọi cho chúng tôi. "
+
+@17894 Banjo · 万丈
+> 「わかった、すぐいこう」
+“Tôi biết rồi, tôi sẽ đi ngay.”
+
+@17895 Garrison · ギャリソン
+> 「南方の山中に設置した
+>  監視カメラが
+“Đây là camera giám sát được lắp đặt ở vùng núi phía Nam
+---
+>  とらえた映像です」
+hình ảnh đã chụp. "
+
+@17896 Banjo · 万丈
+> 「これは……スペシャルズか?
+>  たいした数じゃないな」
+"Đây là... lực lượng đặc biệt sao? Bọn họ không có nhiều."
+
+@17897 主角
+> 「スペシャルズですって!?」
+"Lực lượng đặc biệt!?"
+
+@17898 Garrison · ギャリソン
+> 「左様で。しかし、ちと妙なところが
+>  ありましてな」
+"Chính xác. Tuy nhiên, có điều gì đó khá kỳ lạ."
+
+@17899 Simone · シモーヌ
+> 「っていうと?」
+"Nói thế nào?"
+
+@17900 Garrison · ギャリソン
+> 「はい、ローレンス殿の
+>  ご協力により
+"Vâng, cảm ơn ông Lawrence,
+---
+>  私の情報網でも、ロームフェラや
+>  スペシャルズの動きならば
+Dựa trên mạng lưới tình báo của tôi, động thái của Romphela và lực lượng đặc biệt
+---
+>  ある程度把握できる
+>  はずなのです
+Bạn sẽ có thể nắm bắt được nó một cách đại khái.
+---
+>  が、それによれば現在この地域で
+>  活動しているスペシャルズの
+Nhưng theo tôi biết thì hiện tại chưa có
+---
+>  正規部隊はないようなのですよ」
+Các đơn vị thường xuyên của lực lượng đặc biệt đang hoạt động. "
+
+@17901 Banjo · 万丈
+> 「……正規部隊ではない
+>  スペシャルズか……
+“…một lực lượng đặc biệt không phải là lực lượng chính quy…
+---
+>  確かに気になるな
+Nó thực sự khiến mọi người quan tâm.
+---
+>  帝国は僕たちがここにいるのは
+>  すでにわかっているはずだから
+Đế quốc đáng lẽ phải biết chúng ta ở đây,
+---
+>  この施設を攻撃するには
+>  少なすぎる戦力だ
+Nhưng để tấn công cơ sở này, số quân này quá ít.
+---
+>  彼らの目的がわからないうちは、
+>  うかつに動けないか」
+Đừng hành động hấp tấp cho đến khi bạn biết mục đích của họ. "
+
+@17902 Koji · 甲児
+> 「いいじゃねぇか、そんなの
+>  とっつかまえて聞けば
+"Sao cũng được, chỉ cần bắt một cái và hỏi thôi.
+---
+>  オレが、ちょっと行ってきてやるぜ」
+Tôi sẽ quay lại ngay khi tôi đi. "
+
+@17903 Simone · シモーヌ
+> 「だめよ甲児。敵の出方を待つっ
+>  ていうのも、戦い方のうちよ」
+"Không, Gia Nhi. Chờ địch tấn công trước cũng là một chiến lược. "
+
+@17904 Beauty · ビューティ
+> 「万丈、敵がこのエリアに
+>  侵入したわよ」
+"Vạn Chương, kẻ địch đã tiến vào khu vực này! "
+
+@17905 Banjo · 万丈
+> 「来たか……さて、どうなるかな。
+>  映像出せるかい?」
+"Anh có ở đây không...Được rồi, hãy xem chuyện gì sẽ xảy ra. Tôi có thể gọi hình ảnh lên được không? "
+
+@17906 Koji · 甲児
+> 「なんでぇ、ほんとにこれっぽっちかよ。
+>  どっかにまだ隠れてんじゃないの?」
+“Cái gì, thực ra chỉ có thế thôi. Nó vẫn còn ẩn ở đâu đó? "
+
+@17907 Simone · シモーヌ
+> 「可能性は低いわね」
+"Không thể nào. "
+
+@17908 Lawrence · ローレンス
+> (む……あれは……もしや……)
+(Hmm...cái đó...có lẽ nào...)
+
+@17909 Banjo · 万丈
+> 「とりあえず、僕たちも出よう」
+“Dù sao thì hãy tấn công thôi. "
+
+@17910 Lawrence · ローレンス
+> 「……やはり間違いない。
+>  お嬢様」
+“…Đó là sự thật. Cô ơi. "
+
+@17911 主角
+> 「なに?」
+"Cái gì? "
+
+@17912 Lawrence · ローレンス
+> 「あの戦闘機が
+>  お見えになりますか」
+“Bạn có thấy chiếc máy bay chiến đấu đó không? "
+
+@17913 Lawrence · ローレンス
+> 「あれはエルブルス。スイームルグとともに
+>  設計された機体です」
+“Đó là Elbrus. Nó là một đơn vị được thiết kế cùng với Swaimluger. "
+
+@17914 主角
+> 「本当なの、ローレンス!?」
+"Thật sao, Lawrence? ? "
+
+@17915 Lawrence · ローレンス
+> 「わたくしの目に狂いはございません。
+>  あれは間違いなくエルブルスです」
+“Tôi không bao giờ có thể sai được. Đó chắc chắn là Elbrus. "
+
+@17916 主角
+> 「そんな……おじいさまの残して
+>  くださったものを一体誰が……?」
+"Làm sao có thể... ông nội tôi đã bỏ rơi tôi là ai...? "
+
+@17917 ???
+> 「やはりここにいらしたのね、
+>  {HeroName}さん
+"Quả thực bạn đang ở đây, cô {HeroName}.
+---
+>  ずいぶんと探しましたわよ」
+Tôi đã tìm kiếm bạn trong một thời gian dài. "
+
+@17918 主角
+> 「誰!?」
+"Ai! ? "
+
+@17919 ???
+> 「わたくしの声をお忘れになったの
+>  かしら? 3年ぶりですものね」
+"Anh quên giọng nói của tôi rồi à? Rốt cuộc, chúng tôi đã không gặp nhau trong ba năm. "
+
+@17920 主角
+> 「3年ぶり……?
+>  まさか……{PartnerName}なの!?」
+"Chúng ta đã không gặp nhau ba năm rồi...? Có lẽ nào... đó là {PartnerName}! ? "
+
+@17921 对手
+> 「思い出していただけたようですわね」
+"Có vẻ như cuối cùng cậu cũng nhớ ra. "
+
+@17922 Koji · 甲児
+> 「じいさん、あれ誰だい?
+>  あんたも知ってるんだろ?」
+"Lão già, đó là ai vậy? Bạn cũng biết anh ấy phải không? "
+
+@17923 Lawrence · ローレンス
+> 「……{PartnerSurname}子爵家の、
+>  {PartnerName}お嬢様です
+{PartnerName} {PartnerSurname} “…Bà ấy là trưởng nữ của gia đình Tử tước XPARTNERSURNAMEX.
+---
+>  {HeroName}お嬢様の
+>  いとこにあたる方です
+Là anh cả của {HeroName}.
+---
+>  なるほど、エルブルスの設計図は
+>  {PartnerSurname}家にあったと
+Hóa ra thiết kế của Elbrus là ở nhà của {PartnerSurname}.
+---
+>  いうわけですな」
+Vì vậy, đó là những gì đã xảy ra. "
+
+@17924 Simone · シモーヌ
+> 「ああ、そういえば{HeroSurname}家と、
+>  {PartnerSurname}家は、血縁だったわね
+"À, nhắc mới nhớ, họ {HeroSurname} và họ {PartnerSurname} có liên quan với nhau.
+---
+>  じゃあ、あの娘も仲間になってくれる
+>  のかしら」
+Cô gái đó cũng sẽ tham gia cùng chúng ta chứ? "
+
+@17925 Banjo · 万丈
+> 「いや、どうやらそんな雰囲気
+>  じゃないようだ
+“Không, có vẻ như bầu không khí không ổn.
+---
+>  それに、あれはスペシャルズで
+>  建造されたものに違いない」
+Hơn nữa, nó hẳn phải được xây dựng bởi lực lượng đặc biệt. "
+
+@17926 主角
+> 「{PartnerName}、
+>  あなた一体……どうして?」
+"{PartnerName}, tại sao...tại sao?"
+
+@17927 对手
+> 「どうしてですって!?
+>  申し上げたはずよ
+"Ngươi hỏi tại sao!? Trước đây không phải ta đã nói rồi sao?
+---
+>  アナタを探していたのですわ」
+Tôi đã tìm kiếm bạn. "
+
+@17928 主角
+> 「では、なぜスペシャルズと一緒なの!?
+“Vậy tại sao cậu lại ở trong lực lượng đặc biệt!?
+---
+>  同じ地球人を平然と狩り立
+>  てる、裏切り者のスペシャルズと!?」
+Và những lực lượng đặc biệt phản bội săn lùng đồng bào của họ như thể không có chuyện gì xảy ra! ? "
+
+@17929 对手
+> 「裏切り者ですって? それをアナタに
+>  言われるのは心外ですわ
+"Kẻ phản bội? Tôi không bị thuyết phục khi những lời này thoát ra khỏi miệng anh.
+---
+>  アナタがそうやってレジスタンスと
+>  一緒になって邪魔をするから、
+Chỉ vì bạn đang cản trở việc đi chơi với phe phản kháng,
+---
+>  {PartnerSurname}の家までもあらぬ疑いを
+>  かけられるはめになったのです!」
+Ngay cả gia đình {PartnerSurname} cũng bị nghi ngờ không chính đáng! "
+
+@17930 对手
+> 「お戻りなさい、{HeroName}さん
+>  今ならばまだ、わたくしが
+"Quay lại đi cô {HeroName}. Bây giờ tôi có thể
+---
+>  とりなして差し上げるわ」
+Hãy thay mặt bạn can thiệp. "
+
+@17931 主角
+> 「待って{PartnerName}!
+>  あなたは間違っているわ
+"Đợi đã, {PartnerName}! Bạn nhầm rồi.
+---
+>  ロームフェラは……」
+Romphela là..."
+
+@17932 对手
+> 「お黙りなさい! もしもアナタに
+>  戻る気がないとおっしゃるのなら
+"Im đi! Nếu cậu nhất quyết không quay lại,
+---
+>  わたくしは{PartnerSurname}の名誉のため
+>  にアナタを倒させていただくわ!」
+Vậy thì đích thân tôi sẽ đánh bại bạn vì danh tiếng của {PartnerSurname}! "
+
+@17933 主角
+> 「なぜ!? なぜいまこの時に地球人
+>  同士で争わなければならないの!?
+"Tại sao!? Tại sao con người trên trái đất lại giết nhau vào thời điểm này!?
+---
+>  敵はムゲゾルバドス帝国の
+>  はずでしょう!?」
+Kẻ thù chắc chắn là Đế chế Muge Zorbados, phải không? ? "
+
+@17934 对手
+> 「ロームフェラの導く、
+>  新たな時代のためですわ!」
+"Vì kỷ nguyên mới do Romphela lãnh đạo!"
+
+@17935 主角
+> 「{PartnerNick}!」
+"{PartnerNick}!"
+
+@17936 对手
+> 「問答は無用です!」
+"Không cần phải nói thêm nữa!"
+
+@17937 对手
+> 「くっ、なんてこと、このわたくしが……
+>  撤退します!
+"Chà, sao vậy, tôi thực sự... rút lui!
+---
+>  {HeroName}さん、わたくしは必ず
+>  アナタを倒してご覧にいれますわ!」
+Cô {HeroName}, tôi nhất định sẽ đánh bại cô bằng chính đôi tay của mình! "
+
+@17938 主角
+> 「待って{PartnerName}!
+>  あたしは……」
+"Đợi đã, {PartnerName}! Tôi..."
+
+@17939 对手
+> 「くっ、ア、アナタ、本気でわたくしを
+>  亡き者にしようというのね!?
+"Hừ, ngươi thật sự muốn giết ta sao!?
+---
+>  もう許しませんわ! 覚えておきなさい
+>  わたくしは、必ずアナタを倒して
+Tôi sẽ không bao giờ tha thứ! Hãy nhớ điều đó, tôi chắc chắn sẽ làm điều đó bằng chính đôi tay của mình
+---
+>  ご覧にいれますわ!」
+Xuống với bạn! "
+
+@17940 主角
+> 「{PartnerName}……」
+“{PartnerName}…”
+
+@17941 对手
+> 「くっ……こ、このわたくしが……。
+>  覚えておきなさい、{HeroName}さん
+"Chà... tôi, thực ra tôi... nhớ rồi, cô {HeroName}.
+---
+>  いずれ必ず、アナタを
+>  倒してご覧にいれますわ」
+Một ngày nào đó, ta nhất định sẽ đánh bại ngươi bằng chính đôi tay của mình! "
+
+@17942 主角
+> 「{PartnerName}!」
+"{PartnerName}!"
+
+@17943 对手
+> 「戻らぬというのなら、
+>  今ここでわたくしに
+"Vì em không muốn quay lại nên hãy để anh
+---
+>  倒されてしまいなさい!
+>  それがアナタのためですわ!」
+Đập nó xuống! Đây cũng là vì lợi ích của riêng bạn! "
+
+@17944 Banjo · 万丈
+> 「{HeroNick}は僕たちの
+>  大切な仲間だ
+"{HeroNick} là người bạn đồng hành quan trọng của chúng tôi.
+---
+>  悪いが、君に連れていかせる
+>  わけにはいかない」
+Xin lỗi, tôi không thể để anh đưa cô ấy đi được. "
+
+@17945 对手
+> 「破嵐万丈……反帝国組織
+>  カラバをつくった一人ですわね
+"Bi Lan Wan Zhang... một trong những người sáng lập tổ chức chống đế quốc Karaba.
+---
+>  わたくしを止められるというのなら、
+>  やってごらんなさい!」
+Nếu bạn nghĩ rằng bạn có thể ngăn chặn tôi, thì hãy thử xem! "
+
+@17946 Simone · シモーヌ
+> 「悪いけど、あたしも{HeroName}も、
+>  家だとかメンツなんてものに
+"Xin lỗi, cả {HeroName} và tôi đều không có thời gian
+---
+>  こだわってはいられないのよ!」
+Để lo lắng về gia đình và khuôn mặt! "
+
+@17947 对手
+> 「ルフラン公爵家のシモーヌ・ルフラン
+>  ……貴女まで一緒だったのですね
+"Simone Levland của nhà Công tước Levland...ngay cả anh cũng đi cùng cô ấy.
+---
+>  わたくしの邪魔をするというのなら、
+>  容赦いたしません!」
+Vì bạn muốn cản trở tôi, tôi sẽ không tỏ ra thương xót! "
+
+@17948 Koji · 甲児
+> 「やいやいやい!
+>  お家だか財団だか知らないが
+"Này, này, này! Tôi không quan tâm đến bất kỳ gia đình hay tập đoàn nào.
+---
+>  勝手なことばっかり言うな!
+Đừng chỉ nói về bản thân bạn!
+---
+>  いくら顔がよくったって、
+>  こっちだって黙っちゃいないぜ!」
+Dù bạn có xinh đẹp đến đâu, chúng tôi cũng sẽ không im lặng! "
+
+@17949 对手
+> 「お黙りなさいッ!
+>  それ以上の暴言は許しませんわ!」
+"Im đi! Nếu ngươi còn dám ăn nói thô lỗ, ta sẽ không bao giờ tha thứ cho ngươi!"
+
+@17950 主角
+> 「…………{PartnerName}……どうして……」
+"......{PartnerName}...Tại sao..."
+
+@17951 Lawrence · ローレンス
+> 「お嬢様……」
+"Cô..."
+
+@17952 Koji · 甲児
+> 「しっかし女ってのは怖いねぇ」
+"Nhưng một lần nữa, phụ nữ thực sự đáng sợ."
+
+@17953 Reika · レイカ
+> 「あら、もっと怖い思いを
+>  させてあげてもいいのよ?」
+"Ồ, bạn có muốn xem thứ gì đáng sợ hơn không?"
+
+@17954 Sayaka · さやか
+> 「甲児くん、不謹慎よ」
+"Gia Nhi, ngươi nói như vậy thật không thích hợp."
+
+@17955 主角
+> 「…………」
+“…………”
+
+@17956 Koji · 甲児
+> 「あ、わりぃ、そういうつもりじゃ……」
+"A, xin lỗi, tôi không có ý đó..."
+
+@17957 主角
+> 「いいのよ、別に。気をつかって
+>  いただく必要はないわ」
+"Thật sự không sao đâu. Đừng làm phiền tôi."
+
+@17958 Sayaka · さやか
+> 「でも……いとこなんでしょ、あの人?
+>  きっとわかってもらえるわよ」
+"Nhưng... người đó là em họ của cậu phải không? Cô ấy nhất định sẽ hiểu cậu."
+
+@17959 主角
+> 「ええ……あたしもそう思いたいけれど……」
+"Hmm...tôi cũng muốn tin điều đó, nhưng..."
+
+@17960 Lawrence · ローレンス
+> 「お嬢様、
+>  ジャスミンティーが入りました
+“Cô ơi, trà hoa nhài đã sẵn sàng rồi.
+---
+>  少し、お気を落ち着かせなさいませ」
+Xin hãy bình tĩnh trước. "
+
+@17961 主角
+> 「……ありがとう、ローレンス」
+“…Cảm ơn, Lawrence.”
+
+@17962 Banjo · 万丈
+> 「シモーヌ、どう思う?」
+"Simona, bạn nghĩ thế nào?"
+
+@17963 Simone · シモーヌ
+> 「{PartnerName}のこと? パーティーで
+>  何度かみかけたことがあるだけだから、
+"Ý bạn là {PartnerName}? Tôi chỉ gặp cô ấy vài lần trong các bữa tiệc,
+---
+>  なんともいえないけど……何か
+>  価値観を一新させるような
+Thật khó để nói bất cứ điều gì...trừ khi có điều gì đó xảy ra khiến cô ấy có giá trị
+---
+>  出来事でもないかぎり、何度でも
+>  来るわね」
+Một sự thay đổi hoàn toàn, nếu không cô ấy sẽ đến nhiều lần. "
+
+@17964 Banjo · 万丈
+> 「そうか。しかしいくら素敵なお嬢さん
+>  でも、スペシャルズの一員として
+"Thật sao? Tuy nhiên, dù là con gái có giỏi đến mấy, miễn là là thành viên của lực lượng đặc biệt
+---
+>  来る以上は、こちらも手段を
+>  選ぶわけにはいかないな」
+Khi họ đến trước cửa nhà chúng tôi, chúng tôi không còn quan tâm nhiều đến điều đó nữa. "
+
+@17965 Simone · シモーヌ
+> 「それはそうなんだけどね。ただ{HeroNick}
+>  に相手をさせるのは、やめた方が
+"Đó là những gì nó nói. Tuy nhiên tốt nhất không nên để {HeroNick}
+---
+>  いいかもしれないわ。あの娘みたいな
+>  タイプって、後に引けなくなってくると
+Hãy chiến đấu với cô ấy. Kiểu con gái đó, một khi cô ấy gặp khó khăn,
+---
+>  何をするかわからないもの」
+Không biết điều gì sẽ xảy ra. "
+
+@17966 Garrison · ギャリソン
+> 「万丈様」
+"Văn Chương đại nhân. "
+
+@17967 Banjo · 万丈
+> 「なんだい?」
+"Có chuyện gì thế?"
+
+@17968 Garrison · ギャリソン
+> 「それが、
+>  地球解放戦線機構の
+“Đúng vậy, tổ chức Mặt trận Giải phóng Trái đất
+---
+>  イゴール将軍よりの電文で
+>  親書を持ったスタッフを1人
+Tướng Eagle gửi điện báo có một nhân viên được gửi kèm thư cá nhân
+---
+>  こちらに向かわせたとの事です」
+Đang tiến về phía chúng tôi. "
+
+@17969 Banjo · 万丈
+> 「イゴール将軍が? そうか、
+>  アランのことは知らないのだったな
+“Tướng Đại Bàng? Nhân tiện, anh ấy vẫn chưa biết về Alan.
+---
+>  しかし、この時期に僕たちに
+>  接触してくるとは……
+Tuy nhiên, đây chính là thời điểm để liên hệ với chúng tôi...
+---
+>  で、いつごろここへ着くと?」
+Vậy khi nào anh ấy sẽ đến? "
+
+@17970 Garrison · ギャリソン
+> 「おそらく数日は、かかるものと
+>  思われますが」
+“Tôi e rằng sẽ mất thêm vài ngày nữa. "
+
+@17971 Banjo · 万丈
+> 「しかたないな。ではもうしばらく
+>  ここにとどまるとしようか」
+"Không thể nào. Vậy hãy ở lại đây một lúc nhé."

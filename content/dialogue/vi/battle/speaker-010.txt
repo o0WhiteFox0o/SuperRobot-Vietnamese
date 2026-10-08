@@ -1,0 +1,189 @@
+# Bản dịch tiếng Việt Super Robot Wars 64
+# Định dạng và vị trí: docs/guide/dialogue-text.md
+
+@12974 Kyral · キラル
+# Kích hoạt: Tấn công (Chung，1/11）
+> 「いざ!」
+"Cố lên!"
+
+@12975 Kyral · キラル
+# Kích hoạt: Tấn công (Chung，2/11）
+> 「これはどうだ!?」
+“Còn động tác này thì sao!?”
+
+@12976 Kyral · キラル
+# Kích hoạt: Tấn công (Chung，3/11）
+> 「ふははははは!」
+"Huhahahahahaha!"
+
+@12977 Kyral · キラル
+# Kích hoạt: Tấn công (Chung，4/11）
+> 「ばかめが!」
+"Đồ ngốc!"
+
+@12978 Kyral · キラル
+# Kích hoạt: Tấn công (Chung，5/11）
+> 「死ねぃ!」
+"Đi xuống địa ngục đi!"
+
+@12979 Kyral · キラル
+# Kích hoạt: Tấn công (Chung，6/11）
+> 「いくぞぉっ!」
+"Nào!"
+
+@12980 Kyral · キラル
+# Kích hoạt: Tấn công (Chung，7/11）
+> 「狙った獲物は必ず倒す!」
+"Đừng bao giờ buông con mồi mà bạn nhắm tới!"
+
+@12981 Kyral · キラル
+# Kích hoạt: Tấn công (Chung，8/11）
+> 「まとめてあの世に送ってくれるわ!」
+"Đưa các ngươi cùng nhau đi về phía Tây!"
+
+@12982 Kyral · キラル
+# Kích hoạt: Tấn công (Chung，9/11）
+> 「逃がしはせん!」
+"Đừng nghĩ tới việc trốn thoát!"
+
+@12983 Kyral · キラル
+# Kích hoạt: Tấn công (Chung，10/11）
+> 「貴様にも見せてやる、この世の
+>  闇をな!」
+"Tôi cũng muốn bạn nhìn thấy bóng tối trong thế giới này!"
+
+@12984 Kyral · キラル
+# Kích hoạt: Tấn công (Chung，11/11）
+> 「貴様に今こそ教えてやるわっ!」
+"Hãy cho bạn biết ngay bây giờ!"
+---
+> 「この私のうらみを!」
+"Trong lòng oán hận!"
+
+@12985 Kyral · キラル
+# Kích hoạt: 被击坠（通用，1/3）
+> 「ばかなぁぁぁぁぁ!」
+"Không thể nào!"
+
+@12986 Kyral · キラル
+# Kích hoạt: 被击坠（通用，2/3）
+> 「見事だ。貴様のようなやつと
+>  再び戦うことができようとは……」
+"Làm tốt lắm. Không ngờ lại có thể đấu lại một kẻ như anh..."
+
+@12987 Kyral · キラル
+# Kích hoạt: 被击坠（通用，3/3）
+> 「楽しい戦いだったぞ……うぉっ」
+"Trận chiến này thú vị quá... oooh."
+
+@12988 Kyral · キラル
+# Kích hoạt: 重伤（剩余 HP 不足 30%）（通用，1/3）
+> 「ぐおぉぉぉぉぉぉ!」
+"Goooooooo!"
+
+@12989 Kyral · キラル
+# Kích hoạt: 重伤（剩余 HP 不足 30%）（通用，2/3）
+> 「ぐぅぅ決着をつけようというのか」
+"Hmm, bạn có muốn kết thúc nó với tôi không?"
+
+@12990 Kyral · キラル
+# Kích hoạt: 重伤（剩余 HP 不足 30%）（通用，3/3）
+> 「バ、バカなぁ!」
+"Không, điều đó là không thể!"
+
+@12991 Kyral · キラル
+# Kích hoạt: 中伤（剩余 HP 30–90%）（通用，1/4）
+> 「なにぃ!?」
+"Cái gì!?"
+
+@12992 Kyral · キラル
+# Kích hoạt: 中伤（剩余 HP 30–90%）（通用，2/4）
+> 「おぉぉぉ!?」
+"Ồ!?"
+
+@12993 Kyral · キラル
+# Kích hoạt: 中伤（剩余 HP 30–90%）（通用，3/4）
+> 「なんのこれしき!」
+"Cái gì thế này!"
+
+@12994 Kyral · キラル
+# Kích hoạt: 中伤（剩余 HP 30–90%）（通用，4/4）
+> 「おおっ!?」
+"Ồ!?"
+
+@12995 Kyral · キラル
+# Kích hoạt: 轻伤（剩余 HP 90% 以上）（通用，1/3）
+> 「この程度の攻撃など」
+"Cuộc tấn công nhỏ này chẳng là gì cả."
+
+@12996 Kyral · キラル
+# Kích hoạt: 轻伤（剩余 HP 90% 以上）（通用，2/3）
+> 「なるほど」
+"Đó là nó."
+
+@12997 Kyral · キラル
+# Kích hoạt: 轻伤（剩余 HP 90% 以上）（通用，3/3）
+> 「効きはせん!」
+"Nó chẳng có tác dụng gì cả!"
+
+@12998 Kyral · キラル
+# Kích hoạt: Né tránh（通用，1/2）
+> 「ははははっ! 見たか!」
+"Hahahaha! Bạn đã nhìn thấy nó!"
+
+@12999 Kyral · キラル
+# Kích hoạt: Né tránh（通用，2/2）
+> 「なんの!」
+"Cái gì thế này!"
+
+@13000 Kyral · キラル
+# Kích hoạt: Tấn công无效（护罩／装甲）（通用，1/2）
+> 「ばかめが」
+"Đồ ngốc."
+
+@13001 Kyral · キラル
+# Kích hoạt: Tấn công无效（护罩／装甲）（通用，2/2）
+> 「どうした、手も足もでないか?」
+"Cái gì, cậu hết trí rồi à?"
+
+@13002 Kyral · キラル
+# Kích hoạt: 弹药／EN 不足，无法反击（通用，1/1）
+> 「ぬぅ攻撃できんとは」
+“Chà, tôi thậm chí còn không thể chiến đấu được…”
+
+@13003 Kyral · キラル
+# Kích hoạt: 射程外，无法反击（通用，1/1）
+> 「く、とどかぬか……」
+"Chà, bạn không thể với tới nó à..."
+
+@17275 Kyral · キラル
+# Kích hoạt: 使用〈アイアンネット〉（低优先，可能被通用台词顶掉）
+> 「このまま焼け死ね!」
+"Đốt chết hắn đi!"
+
+@17276 Kyral · キラル
+# Kích hoạt: 使用〈アイアンネット〉（低优先，可能被通用台词顶掉）
+> 「これはどうだ! 煉獄熱波ぁっ!」
+“Còn chiêu này thì sao! Sóng nhiệt luyện ngục——!”
+
+@17277 Kyral · キラル
+# Kích hoạt: 使用〈地獄曼陀羅〉（低优先，可能被通用台词顶掉）
+> 「キラル殺法……地獄曼陀羅!」
+"Kỹ thuật giết chết Kilar...Mạn đà la địa ngục!"
+
+@17278 Kyral · キラル
+# Kích hoạt: 使用〈曼陀羅円陣・極楽往生〉（对话第 1/3 句）
+> 「全員構えぃ!
+>  最大出力、仕掛けるぞぉ!」
+"Mọi người đã sẵn sàng! Sức mạnh tối đa, hãy hành động!"
+
+@17279 Kyral · キラル
+# Kích hoạt: 使用〈曼陀羅円陣・極楽往生〉（对话第 2/3 句）
+> 「キラル殺法、曼陀羅円陣!
+>  極楽往生ぅぅぅ!」
+"Kỹ thuật giết chết Kilar, Đội hình vòng tròn Mandala! Tái sinh trong Cực lạc——!"
+
+@17280 Kyral · キラル
+# Kích hoạt: 使用〈曼陀羅円陣・極楽往生〉（对话第 3/3 句）
+> 「南無阿弥陀仏」
+"Nam Mô A Di Đà."

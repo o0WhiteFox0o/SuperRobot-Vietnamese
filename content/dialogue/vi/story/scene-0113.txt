@@ -1,0 +1,140 @@
+# Bản dịch tiếng Việt Super Robot Wars 64
+# Định dạng và vị trí: docs/guide/dialogue-text.md
+
+@50829 Kappei · 勝平
+> 「あーあ、めんどくせぇよなぁ」
+"A -- thật sự là phiền phức."
+
+@50830 Keiko · 恵子
+> 「ちょっと勝平、いきなり何いってん
+>  のよ」
+"Này, Thịnh Bình, ngươi đột nhiên nói cái gì?"
+
+@50831 Uchuta · 宇宙太
+> 「そうだぜ、いったいどうしたってんだよ」
+"Đúng vậy, có chuyện gì vậy?"
+
+@50832 Kappei · 勝平
+> 「レジスタンス部隊っていうんだっけ、
+>  いつまで探すんだよ」
+"Gọi quân kháng chiến đến? Khi nào chúng ta mới tìm được họ?"
+
+@50833 Keiko · 恵子
+> 「もう少しのがまんよ。レーダーの反応
+>  が、だんだん近くなってきてるんだから」
+"Chỉ cần chờ thêm chút nữa thôi. Tín hiệu trên radar đang đến gần hơn."
+
+@50834 Kappei · 勝平
+> 「もう、帰ろうぜ。これじゃ、とうちゃんと
+>  一緒に漁に出た方がまだマシさ」
+"Quên đi, chúng ta trở về đi. Tốt nhất là cùng cha đi câu cá."
+
+@50835 Keiko · 恵子
+> 「なーに、いってんのよ。
+>  思い出してよ、勝平
+"Ngươi đang nói cái gì? Nghĩ kỹ đi, Thịnh Bình.
+---
+>  おじいさんがいってたでしょ。地球を
+>  守るためにレジスタンス部隊に
+Không phải ông nội đã nói rằng để bảo vệ trái đất thì chúng ta phải hỗ trợ tổ chức kháng chiến sao?
+---
+>  協力して敵と戦えって」
+Chiến đấu với kẻ thù. "
+
+@50836 Uchuta · 宇宙太
+> 「第2の故郷であるこの地球を
+>  ビアル星のように滅亡させちゃ
+"Không phải tôi đã nói rằng chúng ta không thể để trái đất quê hương thứ hai của mình...
+---
+>  ならないっていってたろう」
+Nó sẽ diệt vong như ngôi sao Bialu. "
+
+@50837 Kappei · 勝平
+> 「いくら、じっちゃんの頼みでもなぁ……」
+“Ngay cả khi đó là yêu cầu của ông nội, vẫn…”
+
+@50838 Keiko · 恵子
+> 「レーダーに反応があったわ!
+>  だんだん強くなる!」
+"Rađa đang phản hồi! Nó ngày càng mạnh hơn!"
+
+@50839 Uchuta · 宇宙太
+> 「これはレジスタンス部隊……じゃない!
+>  敵だ! 敵部隊にぶつかった!」
+"Đây là tổ chức kháng chiến... Không! Là kẻ địch! Chúng ta đụng phải quân địch!"
+
+@50840 Kappei · 勝平
+> 「おいでなすったか。退屈しのぎだ!
+>  いっちょもんでやりますか」
+"Chúng ta đến đây. Đây đúng là thời điểm thích hợp để chúng ta giải tỏa nỗi buồn chán! Cùng vui vẻ một chút nhé!"
+
+@50841 Kappei · 勝平
+> 「ザンボットコンビネーション!」
+"Zambo hợp nhất!"
+
+@50842 Chiyonishiki · 千代錦
+> 「ワン!」
+"Gâu! "
+
+@50843 Uchuta · 宇宙太
+> 「ツー!」
+"Hai!"
+
+@50844 Keiko · 恵子
+> 「スリー!」
+"Ba!"
+
+@50845 Kappei · 勝平
+> 「そんなバカな……
+>  クソッ、負けるのかよぉ」
+"Sao có thể... Chết tiệt, cậu sắp thua à?"
+
+@50846 Keiko · 恵子
+> 「きゃあぁぁぁーっ!!」
+“Ahhhhhhhhh——!!”
+
+@50847 Uchuta · 宇宙太
+> 「うわあぁぁっ!」
+“Ồ! "
+
+@50848 Kappei · 勝平
+> 「へへーん、ざまぁみろ」
+"Hehe - bạn xứng đáng với điều đó."
+
+@50849 Kappei · 勝平
+> 「はん、チョロいチョロい。
+>  軽ーくひねってやったぜ」
+"Hừ, là một miếng bánh ngọt. Là một miếng bánh ngọt, rất dễ dàng dọn dẹp."
+
+@50850 Keiko · 恵子
+> 「勝平! 油断してると、いつか
+>  大変な目にあうわよ」
+"Khengping! Nếu ngươi coi nhẹ sự việc như vậy, sớm muộn gì ngươi cũng sẽ phải chịu tổn thất lớn."
+
+@50851 Kappei · 勝平
+> 「へーん、そんなヘマはしませんですよーだ」
+“Hmph – Tôi sẽ không tự biến mình thành trò ngốc như thế đâu-“
+
+@50852 Keiko · 恵子
+> 「なんですって! こらっ、勝平!
+>  ちょっと待ちなさい!」
+"Ngươi nói cái gì! Này, Thịnh Bình! Dừng lại!"
+
+@50853 Uchuta · 宇宙太
+> 「2人とも静かにしろ!
+>  ……レジスタンス部隊を見つけた」
+“Hai người im lặng! ...Quân kháng chiến đã được tìm thấy.”
+
+@50854 Kappei · 勝平
+> 「お、どうやら今度のは本物らしいね」
+"Ồ, có vẻ như lần này là sự thật."
+
+@50855 Uchuta · 宇宙太
+> 「恵子、部隊に通信をいれてくれ
+>  そちらと協力して戦いたいって」
+“Keiko, liên lạc với đội quân đó và nói với họ rằng chúng ta muốn chiến đấu với họ.”
+
+@50856 Keiko · 恵子
+> 「わかったわ。……こちら、ザンボット3、
+>  こちら、ザンボット3……」
+"Tôi hiểu rồi. ...Đây là Zanbo 3, đây là Zanbo 3..."

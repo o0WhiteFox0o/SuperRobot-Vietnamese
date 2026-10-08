@@ -2,7 +2,10 @@
 """Open the native keyboard build with a separate, persistent playtest history."""
 from __future__ import annotations
 
-import fcntl
+try:
+    import fcntl
+except ImportError:
+    fcntl = None
 import argparse
 import json
 import shlex
@@ -62,8 +65,12 @@ def main() -> int:
     directory.mkdir(parents=True, exist_ok=True)
     with (directory / "active.lock").open("a") as lock:
         try:
-            fcntl.flock(lock, fcntl.LOCK_EX | fcntl.LOCK_NB)
-        except BlockingIOError:
+            if fcntl is not None:
+                fcntl.flock(lock, fcntl.LOCK_EX | fcntl.LOCK_NB)
+            elif os.name == "nt":
+                import msvcrt
+                msvcrt.locking(lock.fileno(), msvcrt.LK_NBLCK, 1)
+        except (BlockingIOError, OSError):
             print("已有试玩窗口正在运行，请先关闭那个窗口。", file=sys.stderr)
             return 1
         sessions.mkdir(exist_ok=True)

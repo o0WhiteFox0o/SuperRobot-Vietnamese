@@ -1,0 +1,98 @@
+# Bản dịch tiếng Việt Super Robot Wars 64
+# Định dạng và vị trí: docs/guide/dialogue-text.md
+
+@6923 Rasid · ラシード
+# Kích hoạt: Tấn công (Chung，1/5）
+> 「ばかものぉ!」
+"Đồ ngốc!"
+
+@6924 Rasid · ラシード
+# Kích hoạt: Tấn công (Chung，2/5）
+> 「カトル様のために!」
+"Vì Master Cartel!"
+
+@6925 Rasid · ラシード
+# Kích hoạt: Tấn công (Chung，3/5）
+> 「我々マグアナック隊をなめるな!」
+"Đừng đánh giá thấp đội Magnak của chúng tôi!"
+
+@6926 Rasid · ラシード
+# Kích hoạt: Tấn công (Chung，4/5）
+> 「弾幕を絶やすな!」
+"Đừng dừng lại cuộc tấn công!"
+
+@6927 Rasid · ラシード
+# Kích hoạt: Tấn công (Chung，5/5）
+> 「見つけたぞ」
+"Tìm thấy bạn"
+
+@6928 Rasid · ラシード
+# Kích hoạt: 被击坠（通用，1/2）
+> 「カ、カトル様ぁぁーっ!」
+"K-Master Cartel, ahhhh-!"
+
+@6929 Rasid · ラシード
+# Kích hoạt: 被击坠（通用，2/2）
+> 「うおぉぉぉぉっ!」
+"Ồhhhhhh!"
+
+@6930 Rasid · ラシード
+# Kích hoạt: 重伤（剩余 HP 不足 30%）（通用，1/2）
+> 「くっ、これではマグアナックの名が
+>  泣く!」
+"Chà, nếu cứ tiếp tục như vậy, tên tuổi của Magnak sẽ bị ô nhục!"
+
+@6931 Rasid · ラシード
+# Kích hoạt: 重伤（剩余 HP 不足 30%）（通用，2/2）
+> 「マグアナックの意地を見せてやる!」
+"Cho ngươi xem xương sống của Magnak!"
+
+@6932 Rasid · ラシード
+# Kích hoạt: 中伤（剩余 HP 30–90%）（通用，1/2）
+> 「くっ、もう少し力があればっ!」
+"Chà, sẽ thật tuyệt nếu nó mạnh hơn!"
+
+@6933 Rasid · ラシード
+# Kích hoạt: 中伤（剩余 HP 30–90%）（通用，2/2）
+> 「周到な攻撃方法だな」
+"Thật là một cuộc tấn công triệt để."
+
+@6934 Rasid · ラシード
+# Kích hoạt: 轻伤（剩余 HP 90% 以上）（通用，1/2）
+> 「これならばいけるな!」
+"Nó hoạt động ngay bây giờ!"
+
+@6935 Rasid · ラシード
+# Kích hoạt: 轻伤（剩余 HP 90% 以上）（通用，2/2）
+> 「たいしたダメージはないな」
+“Không thiệt hại nhiều”
+
+@6936 Rasid · ラシード
+# Kích hoạt: Né tránh（通用，1/2）
+> 「かわしてみせるさ」
+"Ẩn khỏi bạn"
+
+@6937 Rasid · ラシード
+# Kích hoạt: Né tránh（通用，2/2）
+> 「かわせましたぜ、カトル様」
+"Tránh xa ra, Master Cartel"
+
+@6938 Rasid · ラシード
+# Kích hoạt: Tấn công无效（护罩／装甲）（通用，1/1）
+> 「かわしてみせるさ」
+"Ẩn khỏi bạn"
+
+@6939 Rasid · ラシード
+# Kích hoạt: 弹药／EN 不足，无法反击（通用，1/1）
+> 「弾切れか……うかつだったな」
+"Hết đạn rồi à? Cậu quá bất cẩn."
+
+@6940 Rasid · ラシード
+# Kích hoạt: 射程外，无法反击（通用，1/1）
+> 「レーダー反応がないだと!?」
+"Rađa không phản hồi!?"
+
+@14398 Rasid · ラシード
+# Kích hoạt: 使用〈ビームライフル／銃剣付きビームライフル〉（低优先，可能被通用台词顶掉）
+> 「撃ちつづけろ!」
+"Tiếp tục bắn!"

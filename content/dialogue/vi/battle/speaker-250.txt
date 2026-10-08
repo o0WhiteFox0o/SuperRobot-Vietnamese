@@ -1,0 +1,88 @@
+# Bản dịch tiếng Việt Super Robot Wars 64
+# Định dạng và vị trí: docs/guide/dialogue-text.md
+
+@6941 Howard · ハワード
+# Kích hoạt: Tấn công (Chung，1/2）
+> 「さて、どうするか」
+"Vậy chúng ta nên làm gì?"
+
+@6942 Howard · ハワード
+# Kích hoạt: Tấn công (Chung，2/2）
+> 「仕方あるまい」
+“Không thể làm gì được”
+
+@6943 Howard · ハワード
+# Kích hoạt: 被击坠（通用，1/1）
+> 「くっ、総員退避だ!」
+"Được rồi, mọi người rút lui đi!"
+
+@6944 Howard · ハワード
+# Kích hoạt: 重伤（剩余 HP 不足 30%）（通用，1/3）
+> 「エンジンが壊れたって構わん!」
+"Không thành vấn đề nếu động cơ bị hỏng!"
+
+@6945 Howard · ハワード
+# Kích hoạt: 重伤（剩余 HP 不足 30%）（通用，2/3）
+> 「左舷2番エンジンが
+>  爆発じゃと!?」
+“Động cơ cảng số 2 phát nổ!?”
+
+@6946 Howard · ハワード
+# Kích hoạt: 重伤（剩余 HP 不足 30%）（通用，3/3）
+> 「第1、第3エンジンまでも
+>  大破か!?」
+“Ngay cả động cơ số 1 và số 3 cũng bị hư hỏng nặng!?”
+
+@6947 Howard · ハワード
+# Kích hoạt: 中伤（剩余 HP 30–90%）（通用，1/3）
+> 「被害報告など後でいい!
+>  燃料タンク周辺の消火いそげ!」
+"Báo cáo thiệt hại sẽ được thực hiện sau! Hãy đi dập lửa xung quanh bình xăng!"
+
+@6948 Howard · ハワード
+# Kích hoạt: 中伤（剩余 HP 30–90%）（通用，2/3）
+> 「くっ、この船の質量では
+>  機敏には動けん」
+"Chà, con tàu này quá nặng để có thể linh hoạt được."
+
+@6949 Howard · ハワード
+# Kích hoạt: 中伤（剩余 HP 30–90%）（通用，3/3）
+> 「し、姿勢制御いそげ!」
+"Tư thế, khống chế tư thế, nhanh!"
+
+@6950 Howard · ハワード
+# Kích hoạt: 轻伤（剩余 HP 90% 以上）（通用，1/2）
+> 「なに!?」
+"Cái gì!?"
+
+@6951 Howard · ハワード
+# Kích hoạt: 轻伤（剩余 HP 90% 以上）（通用，2/2）
+> 「各部損害を報告しろ」
+"Báo cáo thiệt hại cho các bộ phận khác nhau"
+
+@6952 Howard · ハワード
+# Kích hoạt: Né tránh（通用，1/1）
+> 「射線をはずしたか……」
+"Bạn đã tránh được tia sáng chưa..."
+
+@6953 Howard · ハワード
+# Kích hoạt: Tấn công无效（护罩／装甲）（通用，1/1）
+> 「射線をはずしたか……」
+"Bạn đã tránh được tia sáng chưa..."
+
+@6954 Howard · ハワード
+# Kích hoạt: 弹药／EN 不足，无法反击（通用，1/1）
+> 「なんとエネルギー切れとは、
+>  ワシもヤキがまわったわい」
+"Năng lượng đã cạn kiệt, và tôi trở nên bối rối."
+
+@6955 Howard · ハワード
+# Kích hoạt: 射程外，无法反击（通用，1/1）
+> 「この船では、あの距離の敵には
+>  攻撃できんな……」
+“Với con tàu này, chúng ta không thể tấn công kẻ thù ở khoảng cách xa như vậy…”
+
+@14399 Howard · ハワード
+# Kích hoạt: 使用〈対空機関砲／対空砲〉（低优先，可能被通用台词顶掉）
+> 「威嚇射撃をするぞ」
+"Một loạt phát súng cảnh cáo."

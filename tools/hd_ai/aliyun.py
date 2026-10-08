@@ -10,7 +10,10 @@ from __future__ import annotations
 
 import argparse
 import base64
-import fcntl
+try:
+    import fcntl
+except ImportError:
+    fcntl = None
 import hashlib
 import io
 import json
@@ -71,7 +74,11 @@ def run_one(out: Path, sample: dict, model: str, candidate: int, config: dict) -
         temporary.replace(report_path)
     # Serialize only the spending reservation across processes, not inference.
     with (out/'.budget.lock').open('a') as guard:
-        fcntl.flock(guard,fcntl.LOCK_EX)
+        if fcntl is not None:
+            fcntl.flock(guard,fcntl.LOCK_EX)
+        elif os.name == 'nt':
+            import msvcrt
+            msvcrt.locking(guard.fileno(), msvcrt.LK_LOCK, 1)
         if report_path.exists(): return json.loads(report_path.read_text())
         reserved=sum(json.loads(f.read_text())["reserved_cny"] for f in (out/'runs').glob('*/request.json'))
         if reserved+price>18.12+1e-8:

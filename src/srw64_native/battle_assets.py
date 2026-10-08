@@ -20,7 +20,7 @@ from .original_images import decode_indexed, png_bytes
 def prepare_battle_assets(root: Path, rom: bytes, output: Path, hd_portrait=None, hd_unit=None) -> dict:
     """`hd_portrait(image, palette)` names the whole HD portrait for a pilot, if any;
     `hd_unit(scene, atlas, palette)` the whole HD pose for a unit (8x, with alpha)."""
-    spec = json.loads((root / 'config/data/original-jp-v1.json').read_text())['images']['actors']
+    spec = json.loads((root / 'config/data/original-jp-v1.json').read_text(encoding='utf-8'))['images']['actors']
     bindings = rom[spec['rom_offset']:spec['rom_offset'] + spec['count'] * spec['stride']]
     if sha(bindings) != spec['sha256']:
         raise ValueError('Battle portrait bindings changed')

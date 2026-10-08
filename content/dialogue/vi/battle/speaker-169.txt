@@ -1,0 +1,147 @@
+# Bản dịch tiếng Việt Super Robot Wars 64
+# Định dạng và vị trí: docs/guide/dialogue-text.md
+
+@9441 Ryo · 亮
+# Kích hoạt: Tấn công (Chung，1/8）
+> 「ふっ……」
+"Hừm..."
+
+@9442 Ryo · 亮
+# Kích hoạt: Tấn công (Chung，2/8）
+> 「くらえっ!!」
+"Ăn chiêu của tôi đi!!"
+
+@9443 Ryo · 亮
+# Kích hoạt: Tấn công (Chung，3/8）
+> 「おそいっ!!」
+"Quá chậm!!"
+
+@9444 Ryo · 亮
+# Kích hoạt: Tấn công (Chung，4/8）
+> 「そこだっ!!」
+“Chính là nó!!”
+
+@9445 Ryo · 亮
+# Kích hoạt: Tấn công (Chung，5/8）
+> 「やらせんっ!!」
+"Đừng nghĩ tới chuyện đó nữa!!"
+
+@9446 Ryo · 亮
+# Kích hoạt: Tấn công (Chung，6/8）
+> 「こいつでどうだ!」
+"Thử cái này xem nào!"
+
+@9447 Ryo · 亮
+# Kích hoạt: Tấn công (Chung，7/8）
+> 「どけどけぃ!」
+"Đi đi, đi đi!"
+
+@9448 Ryo · 亮
+# Kích hoạt: Tấn công (Chung，8/8）
+> 「敵をなめていると、命を落とすぜ」
+"Nếu bạn đánh giá thấp kẻ thù, bạn sẽ mất mạng."
+
+@9449 Ryo · 亮
+# Kích hoạt: 被击坠（通用，1/3）
+> 「くっ!! ここまでか!!」
+"Hmm!! Thế là xong rồi à?!"
+
+@9450 Ryo · 亮
+# Kích hoạt: 被击坠（通用，2/3）
+> 「ちっ! ドジったぜ!」
+"Tsk! Tôi đã bỏ lỡ nó!"
+
+@9451 Ryo · 亮
+# Kích hoạt: 被击坠（通用，3/3）
+> 「ちいっ!」
+"Chậc!"
+
+@9452 Ryo · 亮
+# Kích hoạt: 重伤（剩余 HP 不足 30%）（通用，1/4）
+> 「くっ!! ヤバイな……」
+"Ugh!! Điều đó không tốt..."
+
+@9453 Ryo · 亮
+# Kích hoạt: 重伤（剩余 HP 不足 30%）（通用，2/4）
+> 「くっ!! ダメージを受けすぎたか!?」
+"Ugh!! Có đau quá không!?"
+
+@9454 Ryo · 亮
+# Kích hoạt: 重伤（剩余 HP 不足 30%）（通用，3/4）
+> 「ちっ! てごわい!」
+"Chậc! Khó quá!"
+
+@9455 Ryo · 亮
+# Kích hoạt: 重伤（剩余 HP 不足 30%）（通用，4/4）
+> 「ばけもんかこいつ!?」
+"Anh chàng này có phải là quái vật không!?"
+
+@9456 Ryo · 亮
+# Kích hoạt: 中伤（剩余 HP 30–90%）（通用，1/5）
+> 「うぬっ! やる!!」
+"Ừm! Một lát thôi!!"
+
+@9457 Ryo · 亮
+# Kích hoạt: 中伤（剩余 HP 30–90%）（通用，2/5）
+> 「くっ! やるな! だが、まだ!!」
+"Chà! Phải mất một lúc! Nhưng vẫn chưa kết thúc!!"
+
+@9458 Ryo · 亮
+# Kích hoạt: 中伤（剩余 HP 30–90%）（通用，3/5）
+> 「なんのっ! まだだ!」
+"Cái gì thế này! Nó vẫn chưa kết thúc mà!"
+
+@9459 Ryo · 亮
+# Kích hoạt: 中伤（剩余 HP 30–90%）（通用，4/5）
+> 「しまった!?」
+"Ối!?"
+
+@9460 Ryo · 亮
+# Kích hoạt: 中伤（剩余 HP 30–90%）（通用，5/5）
+> 「くっ、オレとしたことが」
+"Ồ, tôi thực sự đã bỏ lỡ nó."
+
+@9461 Ryo · 亮
+# Kích hoạt: 轻伤（剩余 HP 90% 以上）（通用，1/3）
+> 「ちっ! かすったか!」
+"Tsk! Bạn đã chà nó à?"
+
+@9462 Ryo · 亮
+# Kích hoạt: 轻伤（剩余 HP 90% 以上）（通用，2/3）
+> 「あまいなっ!」
+"Thật ngây thơ!"
+
+@9463 Ryo · 亮
+# Kích hoạt: 轻伤（剩余 HP 90% 以上）（通用，3/3）
+> 「まだまだ!」
+"Vẫn còn sớm!"
+
+@9464 Ryo · 亮
+# Kích hoạt: Né tránh（通用，1/2）
+> 「まだまだだな」
+“Thậm chí không gần”
+
+@9465 Ryo · 亮
+# Kích hoạt: Né tránh（通用，2/2）
+> 「間合いがあまいっ!」
+"Tôi không chắc chắn về khoảng cách!"
+
+@9466 Ryo · 亮
+# Kích hoạt: Tấn công无效（护罩／装甲）（通用，1/2）
+> 「ムダだっ!!」
+"Lãng phí công sức!!"
+
+@9467 Ryo · 亮
+# Kích hoạt: Tấn công无效（护罩／装甲）（通用，2/2）
+> 「フッ 効かんよ!」
+"Hừ, vô dụng!"
+
+@9468 Ryo · 亮
+# Kích hoạt: 弹药／EN 不足，无法反击（通用，1/1）
+> 「くっ、だめか!?」
+"Chà, bạn không thể chiến đấu nữa!?"
+
+@9469 Ryo · 亮
+# Kích hoạt: 射程外，无法反击（通用，1/1）
+> 「くっ! 遠すぎるか!」
+"Hmm! Có xa quá không?"

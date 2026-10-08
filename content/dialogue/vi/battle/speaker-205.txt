@@ -1,0 +1,207 @@
+# Bản dịch tiếng Việt Super Robot Wars 64
+# Định dạng và vị trí: docs/guide/dialogue-text.md
+
+@7457 David · デビッド
+# Kích hoạt: Tấn công (Chung，1/12）
+> 「こんのぉぉぉーっ!」
+"Chết tiệt!" "
+
+@7458 David · デビッド
+# Kích hoạt: Tấn công (Chung，2/12）
+> 「ちぃえあぁぁぁっ!」
+"Uống a a a a!"
+
+@7459 David · デビッド
+# Kích hoạt: Tấn công (Chung，3/12）
+> 「でぇぃやぁぁぁっ!!」
+"Này a a a a!!"
+
+@7460 David · デビッド
+# Kích hoạt: Tấn công (Chung，4/12）
+> 「いいかげんにやられろ!!」
+“Thả tôi xuống nhanh lên!!”
+
+@7461 David · デビッド
+# Kích hoạt: Tấn công (Chung，5/12）
+> 「やろうっ!」
+"Đồ khốn!"
+
+@7462 David · デビッド
+# Kích hoạt: Tấn công (Chung，6/12）
+> 「くそったれっ!!」
+"Chết tiệt!!"
+
+@7463 David · デビッド
+# Kích hoạt: Tấn công (Chung，7/12）
+> 「でやぁぁぁぁっ!!」
+"Này a a a a!!"
+
+@7464 David · デビッド
+# Kích hoạt: Tấn công (Chung，8/12）
+> 「おちろ、おちろっ!!」
+"Thả, rơi cho ta!!"
+
+@7465 David · デビッド
+# Kích hoạt: Tấn công (Chung，9/12）
+> 「俺だってやれるんだっ!!」
+"Tôi cũng có thể làm được!!"
+
+@7466 David · デビッド
+# Kích hoạt: Tấn công (Chung，10/12）
+> 「あれか!」
+"Là anh chàng đó!"
+
+@7467 David · デビッド
+# Kích hoạt: Tấn công (Chung，11/12）
+> 「きやがったな!」
+"Cuối cùng thì cậu cũng đã ở đây!"
+
+@7468 David · デビッド
+# Kích hoạt: Tấn công (Chung，12/12）
+> 「意地を見せてやる!」
+"Cho ngươi xem xương sống của ta!"
+
+@7469 David · デビッド
+# Kích hoạt: 被击坠（通用，1/3）
+> 「しまったぁぁぁー」
+"Ồ ồ ồ ồ ồ -"
+
+@7470 David · デビッド
+# Kích hoạt: 被击坠（通用，2/3）
+> 「うわあぁぁぁぁっ!!」
+"Ồhhhhhhhhh!!"
+
+@7471 David · デビッド
+# Kích hoạt: 被击坠（通用，3/3）
+> 「シモーヌゥゥゥッ!!」
+"Simona ahhhh!!"
+
+@7472 David · デビッド
+# Kích hoạt: 重伤（剩余 HP 不足 30%）（通用，1/4）
+> 「ぐぅっ、そんなバカなっ!?」
+"Gu, sao có thể như vậy được!?"
+
+@7473 David · デビッド
+# Kích hoạt: 重伤（剩余 HP 不足 30%）（通用，2/4）
+> 「うぅっ、くそぉっ!!」
+"Hừ, chết tiệt!!"
+
+@7474 David · デビッド
+# Kích hoạt: 重伤（剩余 HP 不足 30%）（通用，3/4）
+> 「ぐわぁぁぁっ!!」
+"Guaaaaaaaaaaaaaaaaaaaaaaaaaaaa!!"
+
+@7475 David · デビッド
+# Kích hoạt: 重伤（剩余 HP 不足 30%）（通用，4/4）
+> 「うおぅぁぁぁーっ!」
+"Ồhhhhhh-!"
+
+@7476 David · デビッド
+# Kích hoạt: 中伤（剩余 HP 30–90%）（通用，1/4）
+> 「ううっ!」
+"Ồ!"
+
+@7477 David · デビッド
+# Kích hoạt: 中伤（剩余 HP 30–90%）（通用，2/4）
+> 「ちきしょうっ!!」
+"Chết tiệt!!"
+
+@7478 David · デビッド
+# Kích hoạt: 中伤（剩余 HP 30–90%）（通用，3/4）
+> 「くそぅっ!!」
+"Chết tiệt!!"
+
+@7479 David · デビッド
+# Kích hoạt: 中伤（剩余 HP 30–90%）（通用，4/4）
+> 「ぬあぁぁっ!」
+"Uhhhh!"
+
+@7480 David · デビッド
+# Kích hoạt: 轻伤（剩余 HP 90% 以上）（通用，1/3）
+> 「まだまだぁ!」
+"Vẫn còn sớm lắm!"
+
+@7481 David · デビッド
+# Kích hoạt: 轻伤（剩余 HP 90% 以上）（通用，2/3）
+> 「うわっ!!」
+"Ồ!!"
+
+@7482 David · デビッド
+# Kích hoạt: 轻伤（剩余 HP 90% 以上）（通用，3/3）
+> 「この程度でぇっ!」
+"Vết thương nhỏ này không là gì cả!"
+
+@7483 David · デビッド
+# Kích hoạt: Né tránh（通用，1/8）
+> 「来たなッ!」
+"Nó đang đến!"
+
+@7484 David · デビッド
+# Kích hoạt: Né tránh（通用，2/8）
+> 「どうだぁっ!」
+"Thế nào rồi!"
+
+@7485 David · デビッド
+# Kích hoạt: Né tránh（通用，3/8）
+> 「俺だってこのくらいはいけるぜ!」
+"Tôi cũng có khả năng này!"
+
+@7486 David · デビッド
+# Kích hoạt: Né tránh（通用，4/8）
+> 「ちいっ!」
+"Chậc!"
+
+@7487 David · デビッド
+# Kích hoạt: Né tránh（通用，5/8）
+> 「あたってたまるかよ!」
+"Anh muốn đánh tôi à? Không thể nào!"
+
+@7488 David · デビッド
+# Kích hoạt: Né tránh（通用，6/8）
+> 「くそっ、かわせたか」
+"Chết tiệt, cuối cùng tôi cũng trốn thoát được."
+
+@7489 David · デビッド
+# Kích hoạt: Né tránh（通用，7/8）
+> 「危ねぇ危ねぇ」
+“Rủi ro tốt, rủi ro tốt”
+
+@7490 David · デビッド
+# Kích hoạt: Né tránh（通用，8/8）
+> 「やられてたまるか!」
+"Ta sao có thể bị ngươi giết!"
+
+@7491 David · デビッド
+# Kích hoạt: Tấn công无效（护罩／装甲）（通用，1/3）
+> 「ビームなんて効かねえぜっ!!」
+“Chùm tia không hoạt động chút nào!!”
+
+@7492 David · デビッド
+# Kích hoạt: Tấn công无效（护罩／装甲）（通用，2/3）
+> 「効かねぇっていってんだよ!」
+“Tôi đã bảo là nó không có tác dụng mà!”
+
+@7493 David · デビッド
+# Kích hoạt: Tấn công无效（护罩／装甲）（通用，3/3）
+> 「そんなもんはっ!」
+"Loại chuyện đó!"
+
+@7494 David · デビッド
+# Kích hoạt: 弹药／EN 不足，无法反击（通用，1/1）
+> 「くっ、だめか!?」
+"Chà, không thể được nữa à!?"
+
+@7495 David · デビッド
+# Kích hoạt: 射程外，无法反击（通用，1/1）
+> 「くっそぉ、射程外だとぉ!?」
+"Chết tiệt, nó nằm ngoài tầm với!?"
+
+@14521 David · デビッド
+# Kích hoạt: 对手驾驶员〈ゴステロ〉
+> 「ゴステロ! 俺が相手だ!」
+"Gostro! Đối thủ của bạn là tôi!"
+
+@14522 David · デビッド
+# Kích hoạt: 对手驾驶员〈ゴステロ〉
+> 「ゴステロ! 俺が相手だ!」
+"Gostro! Đối thủ của bạn là tôi!"

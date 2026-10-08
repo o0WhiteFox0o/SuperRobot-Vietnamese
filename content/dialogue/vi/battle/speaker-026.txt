@@ -1,0 +1,370 @@
+# Bản dịch tiếng Việt Super Robot Wars 64
+# Định dạng và vị trí: docs/guide/dialogue-text.md
+
+@11378 Selain · セレイン
+# Kích hoạt: Tấn công (Chung，1/19）
+> 「一機でも多く敵を倒す!」
+"Thêm một trận nữa cũng đáng!"
+
+@11379 Selain · セレイン
+# Kích hoạt: Tấn công (Chung，2/19）
+> 「私が落とす!」
+"Tôi sẽ bắn hạ nó!"
+
+@11380 Selain · セレイン
+# Kích hoạt: Tấn công (Chung，3/19）
+> 「当ててみせる!」
+"Phải đánh!"
+
+@11381 Selain · セレイン
+# Kích hoạt: Tấn công (Chung，4/19）
+> 「そこか!」
+"Tìm thấy bạn!"
+
+@11382 Selain · セレイン
+# Kích hoạt: Tấn công (Chung，5/19）
+> 「貴様らのような奴がっ!」
+"Những người như bạn!"
+
+@11383 Selain · セレイン
+# Kích hoạt: Tấn công (Chung，6/19）
+> 「貴様は、ここで終わりだ!」
+"Đó là nó cho bạn!"
+
+@11384 Selain · セレイン
+# Kích hoạt: Tấn công (Chung，7/19）
+> 「やらせない!」
+"Tôi sẽ không để bạn thành công!"
+
+@11385 Selain · セレイン
+# Kích hoạt: Tấn công (Chung，8/19）
+> 「そんな動きでは!」
+"Với loại kỹ năng này!"
+
+@11386 Selain · セレイン
+# Kích hoạt: Tấn công (Chung，9/19）
+> 「これで!」
+"Chỉ cần sử dụng thủ thuật này!"
+
+@11387 Selain · セレイン
+# Kích hoạt: Tấn công (Chung，10/19）
+> 「ええい、落ちろ!」
+"Chết tiệt, để tôi ngã xuống!"
+
+@11388 Selain · セレイン
+# Kích hoạt: Tấn công (Chung，11/19）
+> 「落としてみせる!」
+"Ta nhất định sẽ đánh ngã ngươi!"
+
+@11389 Selain · セレイン
+# Kích hoạt: Tấn công (Chung，12/19）
+> 「そこ!」
+"Chính là nó!"
+
+@11390 Selain · セレイン
+# Kích hoạt: Tấn công (Chung，13/19）
+> 「ここは私が!」
+"Hãy để việc này cho tôi!"
+
+@11391 Selain · セレイン
+# Kích hoạt: Tấn công (Chung，14/19）
+> 「つぎは……」
+"Tiếp theo là..."
+
+@11392 Selain · セレイン
+# Kích hoạt: Tấn công (Chung，15/19）
+> 「邪魔をするな!」
+"Tránh ra!"
+
+@11393 Selain · セレイン
+# Kích hoạt: Tấn công (Chung，16/19）
+> 「やってみせる!」
+"Nhìn tôi này!"
+
+@11394 Selain · セレイン
+# Kích hoạt: Tấn công (Chung，17/19）
+> 「あまい!」
+"Thật ngây thơ!"
+
+@11395 Selain · セレイン
+# Kích hoạt: Tấn công (Chung，18/19）
+> 「これなら!」
+"Lần này sẽ thành công!"
+
+@11396 Selain · セレイン
+# Kích hoạt: Tấn công (Chung，19/19）
+> 「もらった!」
+"Đã lấy nó!"
+
+@11397 Selain · セレイン
+# Kích hoạt: 被击坠（通用，1/4）
+> 「あっ!? あぁぁーっ!!」
+"A!? Ahhhh——!!"
+
+@11398 Selain · セレイン
+# Kích hoạt: 被击坠（通用，2/4）
+> 「わ、私もこの程度か……!」
+"Tôi, đó là tất cả những gì tôi có thể làm...!"
+
+@11399 Selain · セレイン
+# Kích hoạt: 被击坠（通用，3/4）
+> 「きゃあぁぁぁぁーーっ!」
+"Ahhhhhhhhh-!!"
+
+@11400 Selain · セレイン
+# Kích hoạt: 被击坠（通用，4/4）
+> 「なんだとっ!?」
+"Cái gì!?"
+
+@11401 Selain · セレイン
+# Kích hoạt: 重伤（剩余 HP 不足 30%）（通用，1/7）
+> 「くっ、機体がもう限界かっ!」
+"Chà, cơ thể đã đạt đến giới hạn chưa?"
+
+@11402 Selain · セレイン
+# Kích hoạt: 重伤（剩余 HP 不足 30%）（通用，2/7）
+> 「あぅっ! も、もたない!?」
+"A! Cậu không thể nhịn được nữa à!?"
+
+@11403 Selain · セレイン
+# Kích hoạt: 重伤（剩余 HP 不足 30%）（通用，3/7）
+> 「だ、だめか!?」
+"Không, không thể làm được!?"
+
+@11404 Selain · セレイン
+# Kích hoạt: 重伤（剩余 HP 不足 30%）（通用，4/7）
+> 「あぁ!! こ、これ以上は!」
+"Ahhh!! Tiếp tục như thế này là không ổn đâu!"
+
+@11405 Selain · セレイン
+# Kích hoạt: 重伤（剩余 HP 不足 30%）（通用，5/7）
+> 「くうぅぅぅーっ!」
+"Uuuuuuuuuuuuuuuuuuuuuuu!"
+
+@11406 Selain · セレイン
+# Kích hoạt: 重伤（剩余 HP 不足 30%）（通用，6/7）
+> 「くぅっ……パ、パワーダウン!?」
+"Hmm...chuyển động, sức mạnh đã giảm!?"
+
+@11407 Selain · セレイン
+# Kích hoạt: 重伤（剩余 HP 不足 30%）（通用，7/7）
+> 「し、しまった!?
+>  出力が上がらないとは……」
+"Rất tiếc! Rất tiếc!? Nguồn điện không tăng lên..."
+
+@11408 Selain · セレイン
+# Kích hoạt: 中伤（剩余 HP 30–90%）（通用，1/7）
+> 「ぐ……ダメージが大きすぎるか!?」
+"Hmm...thiệt hại có lớn quá không!?"
+
+@11409 Selain · セレイン
+# Kích hoạt: 中伤（剩余 HP 30–90%）（通用，2/7）
+> 「ううっ、直撃をくらってしまった!?」
+"Chà, đó là một đòn trực tiếp à!?"
+
+@11410 Selain · セレイン
+# Kích hoạt: 中伤（剩余 HP 30–90%）（通用，3/7）
+> 「ま、まだ、まだやれる!」
+"Còn có thể chiến đấu!"
+
+@11411 Selain · セレイン
+# Kích hoạt: 中伤（剩余 HP 30–90%）（通用，4/7）
+> 「あぁぁーっ!」
+"Ahhh——!"
+
+@11412 Selain · セレイン
+# Kích hoạt: 中伤（剩余 HP 30–90%）（通用，5/7）
+> 「くぅっ、この程度のダメージでっ!」
+"Ừ, vết thương nhỏ này không là gì cả!"
+
+@11413 Selain · セレイン
+# Kích hoạt: 中伤（剩余 HP 30–90%）（通用，6/7）
+> 「なに!? あたったのか!?」
+"Cái gì!? Bị đánh!?"
+
+@11414 Selain · セレイン
+# Kích hoạt: 中伤（剩余 HP 30–90%）（通用，7/7）
+> 「くっ……油断があったということか」
+"Hmm...tôi bất cẩn phải không?"
+
+@11415 Selain · セレイン
+# Kích hoạt: 轻伤（剩余 HP 90% 以上）（通用，1/7）
+> 「多少装甲が削られたくらいっ」
+“Chỉ là bộ giáp đã bị cạo đi một chút thôi.”
+
+@11416 Selain · セレイン
+# Kích hoạt: 轻伤（剩余 HP 90% 以上）（通用，2/7）
+> 「この程度なら、いけるな」
+"Tôi vẫn có thể chịu đựng được vết thương nhỏ này."
+
+@11417 Selain · セレイン
+# Kích hoạt: 轻伤（剩余 HP 90% 以上）（通用，3/7）
+> 「こんなもので……」
+“Chỉ vì điều này…”
+
+@11418 Selain · セレイン
+# Kích hoạt: 轻伤（剩余 HP 90% 以上）（通用，4/7）
+> 「くっ、損傷はほとんどないな」
+"Ừm, gần như không có thiệt hại gì."
+
+@11419 Selain · セレイン
+# Kích hoạt: 轻伤（剩余 HP 90% 以上）（通用，5/7）
+> 「そんな攻撃でやれるものか」
+"Đòn tấn công này cũng muốn đánh gục tôi."
+
+@11420 Selain · セレイン
+# Kích hoạt: 轻伤（剩余 HP 90% 以上）（通用，6/7）
+> 「敵のパワー不足に救われたか……」
+"Nhờ kẻ địch thiếu hỏa lực..."
+
+@11421 Selain · セレイン
+# Kích hoạt: 轻伤（剩余 HP 90% 以上）（通用，7/7）
+> 「バカにしているのか!?」
+"Anh đang coi thường tôi đấy à!?"
+
+@11422 Selain · セレイン
+# Kích hoạt: Né tránh（通用，1/13）
+> 「やらせはしない!」
+"Tôi sẽ không để bạn thành công!"
+
+@11423 Selain · セレイン
+# Kích hoạt: Né tránh（通用，2/13）
+> 「そこか!」
+"Đó!"
+
+@11424 Selain · セレイン
+# Kích hoạt: Né tránh（通用，3/13）
+> 「まだまだ!」
+"Vẫn còn sớm!"
+
+@11425 Selain · セレイン
+# Kích hoạt: Né tránh（通用，4/13）
+> 「かわせる!」
+"Tránh xa!"
+
+@11426 Selain · セレイン
+# Kích hoạt: Né tránh（通用，5/13）
+> 「甘いッ!」
+"Quá dịu dàng!"
+
+@11427 Selain · セレイン
+# Kích hoạt: Né tránh（通用，6/13）
+> 「見えた!」
+"Thấy rồi!"
+
+@11428 Selain · セレイン
+# Kích hoạt: Né tránh（通用，7/13）
+> 「私にもこの程度の技量は!」
+"Tôi cũng có khả năng này!"
+
+@11429 Selain · セレイン
+# Kích hoạt: Né tránh（通用，8/13）
+> 「くうっ……」
+"Ờ..."
+
+@11430 Selain · セレイン
+# Kích hoạt: Né tránh（通用，9/13）
+> 「単純な攻撃パターンだ。
+>  読みきれる」
+"Thủ tục tấn công quá đơn giản và có thể nhìn thấu được."
+
+@11431 Selain · セレイン
+# Kích hoạt: Né tránh（通用，10/13）
+> 「この程度で私をやろうなどと!」
+"Bạn muốn đánh bại tôi ngay cả với kỹ năng nhỏ này!"
+
+@11432 Selain · セレイン
+# Kích hoạt: Né tránh（通用，11/13）
+> 「私だって、伊達に
+>  戦い続けてはいない!」
+"Tôi chưa từng đánh nhiều trận như vậy một cách vô ích!"
+
+@11433 Selain · セレイン
+# Kích hoạt: Né tránh（通用，12/13）
+> 「このパターンなら、かわせる」
+"Bạn có thể tránh được kiểu lừa này"
+
+@11434 Selain · セレイン
+# Kích hoạt: Né tránh（通用，13/13）
+> 「そんな攻撃で」
+"Chỉ là kiểu tấn công đó thôi"
+
+@11435 Selain · セレイン
+# Kích hoạt: Tấn công无效（护罩／装甲）（通用，1/5）
+> 「ビーム攻撃はムダだ」
+"Tấn công bằng chùm tia là vô ích"
+
+@11436 Selain · セレイン
+# Kích hoạt: Tấn công无效（护罩／装甲）（通用，2/5）
+> 「効きはしない」
+“Không có tác dụng gì cả”
+
+@11437 Selain · セレイン
+# Kích hoạt: Tấn công无效（护罩／装甲）（通用，3/5）
+> 「そんなものなら!」
+"Chỉ là loại chuyện đó thôi!"
+
+@11438 Selain · セレイン
+# Kích hoạt: Tấn công无效（护罩／装甲）（通用，4/5）
+> 「くっ、性能に助けられたか……」
+“À, nhờ vào hiệu suất của máy…”
+
+@11439 Selain · セレイン
+# Kích hoạt: Tấn công无效（护罩／装甲）（通用，5/5）
+> 「よくもそんな攻撃をしかけてくる」
+"Sao ngươi dám sử dụng đòn tấn công như vậy"
+
+@11440 Selain · セレイン
+# Kích hoạt: 弹药／EN 不足，无法反击（通用，1/2）
+> 「……弾切れか……」
+"...Anh hết đạn rồi à..."
+
+@11441 Selain · セレイン
+# Kích hoạt: 弹药／EN 不足，无法反击（通用，2/2）
+> 「これ以上は撃てないか……」
+"Anh không thể chiến đấu à...?"
+
+@11442 Selain · セレイン
+# Kích hoạt: 射程外，无法反击（通用，1/2）
+> 「射程距離外? よくやる」
+"Ngoài phạm vi? Thật là một thủ thuật."
+
+@11443 Selain · セレイン
+# Kích hoạt: 射程外，无法反击（通用，2/2）
+> 「無駄弾は撃てないな……」
+"Chúng ta không thể lãng phí đạn dược..."
+
+@16430 Selain · セレイン
+# Kích hoạt: 对手驾驶员〈リッシュ〉
+> 「貴様ぁーっ!」
+“Đồ khốn—!”
+
+@16431 Selain · セレイン
+# Kích hoạt: 对手驾驶员〈リッシュ〉
+> 「貴様のような奴は!」
+"Anh đúng là một chàng trai!"
+
+@16432 Selain · セレイン
+# Kích hoạt: 对手驾驶员〈リッシュ〉
+> 「{PartnerFull}……
+>  落ちろ」
+"{PartnerFull}...Ngã."
+
+@16433 Selain · セレイン
+# Kích hoạt: 对手驾驶员〈リッシュ〉
+> 「私の前に出るならば、落とす」
+"Nếu ngươi dám cản đường ta, ta sẽ đánh ngã ngươi."
+
+@16434 Selain · セレイン
+# Kích hoạt: 使用〈集束荷電粒子砲MAP〉（低优先，可能被通用台词顶掉）
+> 「集束荷電粒子砲で
+>  なぎ払ってやる!」
+"Sử dụng cụm pháo hạt tích điện để quét sạch bạn!"
+
+@16435 Selain · セレイン
+# Kích hoạt: 使用〈集束荷電粒子砲MAP〉（低优先，可能被通用台词顶掉）
+> 「集束荷電粒子砲、スタンバイ」
+"Pháo hạt tích điện, sẵn sàng"
+---
+> 「シュート!!」
+"Khởi động!!"

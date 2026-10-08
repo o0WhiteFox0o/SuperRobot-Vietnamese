@@ -1,0 +1,197 @@
+# Bản dịch tiếng Việt Super Robot Wars 64
+# Định dạng và vị trí: docs/guide/dialogue-text.md
+
+@10099 Emperor Burai · ブライ大帝
+# Kích hoạt: Tấn công (Chung，1/7）
+> 「手段は選ばぬ!」
+"Bất cứ điều gì cần thiết!"
+
+@10100 Emperor Burai · ブライ大帝
+# Kích hoạt: Tấn công (Chung，2/7）
+> 「そこをどけぇっ!」
+"Tránh đường cho tôi!"
+
+@10101 Emperor Burai · ブライ大帝
+# Kích hoạt: Tấn công (Chung，3/7）
+> 「だまれぇい!」
+"Im đi!"
+
+@10102 Emperor Burai · ブライ大帝
+# Kích hoạt: Tấn công (Chung，4/7）
+> 「我々、百鬼一族が世界を
+>  征服する時が来たのだ!」
+"Đã đến lúc chúng ta, Trăm Quỷ, chinh phục thế giới!"
+
+@10103 Emperor Burai · ブライ大帝
+# Kích hoạt: Tấn công (Chung，5/7）
+> 「全世界をワシのものにするのだぁ!」
+"Tôi muốn chiếm cả thế giới cho riêng mình!"
+
+@10104 Emperor Burai · ブライ大帝
+# Kích hoạt: Tấn công (Chung，6/7）
+> 「一気に片づけてやる!」
+"Ta sẽ kết liễu ngươi trong một đòn!"
+
+@10105 Emperor Burai · ブライ大帝
+# Kích hoạt: Tấn công (Chung，7/7）
+> 「何としてもこやつらを倒し、ゲッター
+>  線増幅装置を奪いとるのだ!」
+"Dù thế nào đi nữa, chúng ta phải đánh bại bọn này và chiếm lấy Thiết bị khuếch đại Getta Ray!"
+
+@10106 Emperor Burai · ブライ大帝
+# Kích hoạt: 被击坠（通用，1/2）
+> 「おのれぇ、この恨みは死ぬまで
+>  忘れんぞっ!」
+"Chết tiệt, cho đến chết tôi cũng sẽ không bao giờ quên mối hận này!"
+
+@10107 Emperor Burai · ブライ大帝
+# Kích hoạt: 被击坠（通用，2/2）
+> 「これで勝ったと思うなよ!」
+"Đừng nghĩ rằng bạn sẽ thắng như thế này!"
+
+@10108 Emperor Burai · ブライ大帝
+# Kích hoạt: 重伤（剩余 HP 不足 30%）（通用，1/4）
+> 「貴様もこのままでは、すまんぞぉ!」
+"Đừng nghĩ đến việc trốn thoát mà không bị tổn hại!"
+
+@10109 Emperor Burai · ブライ大帝
+# Kích hoạt: 重伤（剩余 HP 不足 30%）（通用，2/4）
+> 「あきらめるな!」
+"Đừng bỏ cuộc!"
+
+@10110 Emperor Burai · ブライ大帝
+# Kích hoạt: 重伤（剩余 HP 不足 30%）（通用，3/4）
+> 「な、なんたることだ!」
+"Làm sao, làm sao chuyện như vậy có thể xảy ra!"
+
+@10111 Emperor Burai · ブライ大帝
+# Kích hoạt: 重伤（剩余 HP 不足 30%）（通用，4/4）
+> 「我ら百鬼一族を侮りおって……
+>  あとで後悔するなよ」
+"Sao ngươi dám đánh giá thấp Bách Quỷ Tộc của ta... Nhìn lại đừng hối hận."
+
+@10112 Emperor Burai · ブライ大帝
+# Kích hoạt: 中伤（剩余 HP 30–90%）（通用，1/6）
+> 「ぬうっ、思ったより手ごわい相手だ」
+"Chà, đối thủ này khó hơn dự kiến."
+
+@10113 Emperor Burai · ブライ大帝
+# Kích hoạt: 中伤（剩余 HP 30–90%）（通用，2/6）
+> 「ええい、手をぬいてはならんっ!」
+"Chết tiệt, không được lười biếng!"
+
+@10114 Emperor Burai · ブライ大帝
+# Kích hoạt: 中伤（剩余 HP 30–90%）（通用，3/6）
+> 「何をもたもたしておる!」
+"Ngươi còn đang lảng vảng cái gì!"
+
+@10115 Emperor Burai · ブライ大帝
+# Kích hoạt: 中伤（剩余 HP 30–90%）（通用，4/6）
+> 「なんたるヘマを!」
+"Bạn đã phạm một sai lầm lớn như vậy!"
+
+@10116 Emperor Burai · ブライ大帝
+# Kích hoạt: 中伤（剩余 HP 30–90%）（通用，5/6）
+> 「んっ、何ごとだっ!」
+"Chà, chuyện gì đang xảy ra vậy!"
+
+@10117 Emperor Burai · ブライ大帝
+# Kích hoạt: 中伤（剩余 HP 30–90%）（通用，6/6）
+> 「フッフフフ……敵ながらなかなかやるのう」
+"Hehehe... Dù chúng ta là kẻ thù nhưng chúng ta vẫn có một số khả năng."
+
+@10118 Emperor Burai · ブライ大帝
+# Kích hoạt: 轻伤（剩余 HP 90% 以上）（通用，1/4）
+> 「見ておったかぁ!」
+"Bạn có thấy nó không?"
+
+@10119 Emperor Burai · ブライ大帝
+# Kích hoạt: 轻伤（剩余 HP 90% 以上）（通用，2/4）
+> 「ハハハッ、どんな攻撃を受けようとも
+>  びくともせんわ!」
+"Hahaha, cho dù bạn có tấn công thế nào, tôi cũng sẽ không di chuyển chút nào!"
+
+@10120 Emperor Burai · ブライ大帝
+# Kích hoạt: 轻伤（剩余 HP 90% 以上）（通用，3/4）
+> 「ワーッハハハッ!
+>  もはや勝ったも同じだ!」
+"Wahahahaha! Chiến thắng đã được xác định!"
+
+@10121 Emperor Burai · ブライ大帝
+# Kích hoạt: 轻伤（剩余 HP 90% 以上）（通用，4/4）
+> 「これでは、歯ごたえがなさすぎるわ」
+"Điều này quá vô lý"
+
+@10122 Emperor Burai · ブライ大帝
+# Kích hoạt: Né tránh（通用，1/3）
+> 「お前ごときに指1本ふれさせるかぁ」
+“Với một kẻ như anh, anh thậm chí không thể chạm vào một ngón tay của tôi.”
+
+@10123 Emperor Burai · ブライ大帝
+# Kích hoạt: Né tránh（通用，2/3）
+> 「でかしたぞ!」
+"Làm tốt lắm!"
+
+@10124 Emperor Burai · ブライ大帝
+# Kích hoạt: Né tránh（通用，3/3）
+> 「まだわからんのか!」
+“Cậu vẫn chưa hiểu à?”
+
+@10125 Emperor Burai · ブライ大帝
+# Kích hoạt: Tấn công无效（护罩／装甲）（通用，1/1）
+> 「まだわからんのかぁ!」
+“Cậu vẫn chưa hiểu à?”
+
+@10126 Emperor Burai · ブライ大帝
+# Kích hoạt: 弹药／EN 不足，无法反击（通用，1/2）
+> 「ええい、なんというまぬけだ!」
+"Chết tiệt, thật ngu ngốc!"
+
+@10127 Emperor Burai · ブライ大帝
+# Kích hoạt: 弹药／EN 不足，无法反击（通用，2/2）
+> 「どうしたのだ!?」
+"Chuyện gì đang xảy ra vậy!?"
+
+@10128 Emperor Burai · ブライ大帝
+# Kích hoạt: 射程外，无法反击（通用，1/2）
+> 「なんだと!?」
+"Cái gì!?"
+
+@10129 Emperor Burai · ブライ大帝
+# Kích hoạt: 射程外，无法反击（通用，2/2）
+> 「ばかなっ! 今こそ絶好のチャンス
+>  ではないか!」
+"Đồ ngốc! Đây không phải là thời điểm tuyệt vời sao?"
+
+@15294 Emperor Burai · ブライ大帝
+# Kích hoạt: 使用〈爆雷〉（低优先，可能被通用台词顶掉）
+> 「砲門を開け! 撃沈するのだ!」
+"Mở cửa súng! Đánh chìm nó!"
+
+@15295 Emperor Burai · ブライ大帝
+# Kích hoạt: 使用〈ミサイル／グレネードランチャー／ミサイルポッド／ホーミングミサイル／連装ミサイルランチャー／小型ミサイル／大型ミサイル〉（低优先，可能被通用台词顶掉）
+> 「砲門を開け! 撃沈するのだ!」
+"Mở cửa súng! Đánh chìm nó!"
+
+@15296 Emperor Burai · ブライ大帝
+# Kích hoạt: 使用〈破壊光線〉（低优先，可能被通用台词顶掉）
+> 「砲門を開け! 撃沈するのだ!」
+"Mở cửa súng! Đánh chìm nó!"
+
+@15297 Emperor Burai · ブライ大帝
+# Kích hoạt: 使用〈爆雷〉（低优先，可能被通用台词顶掉）
+> 「ええいっ、撃って撃って
+>  撃ちまくれぇーっ!」
+"Chết tiệt! Lửa, lửa, đánh mạnh vào tôi -!"
+
+@15298 Emperor Burai · ブライ大帝
+# Kích hoạt: 使用〈ミサイル／グレネードランチャー／ミサイルポッド／ホーミングミサイル／連装ミサイルランチャー／小型ミサイル／大型ミサイル〉（低优先，可能被通用台词顶掉）
+> 「ええいっ、撃って撃って
+>  撃ちまくれぇーっ!」
+"Chết tiệt! Lửa, lửa, đánh mạnh vào tôi -!"
+
+@15299 Emperor Burai · ブライ大帝
+# Kích hoạt: 使用〈破壊光線〉（低优先，可能被通用台词顶掉）
+> 「ええいっ、撃って撃って
+>  撃ちまくれぇーっ!」
+"Chết tiệt! Lửa, lửa, đánh mạnh vào tôi -!"

@@ -33,7 +33,7 @@ class DocsTests(unittest.TestCase):
     def test_relative_links_resolve(self):
         broken = []
         for doc in MARKDOWN:
-            for target in LINK.findall(doc.read_text()):
+            for target in LINK.findall(doc.read_text(encoding="utf-8")):
                 if re.match(r"[a-z]+:", target):
                     continue
                 path = Path(os.path.normpath(doc.parent / target))
@@ -44,7 +44,7 @@ class DocsTests(unittest.TestCase):
     def test_named_repository_paths_exist(self):
         missing = []
         for doc in MARKDOWN:
-            for name in REPO_PATH.findall(doc.read_text()):
+            for name in REPO_PATH.findall(doc.read_text(encoding="utf-8")):
                 name = name.rstrip("/.,:;").split(":")[0]
                 if name in ELSEWHERE or (ROOT / name).exists() or any(ROOT.glob(name)):
                     continue
@@ -54,9 +54,9 @@ class DocsTests(unittest.TestCase):
     def test_docs_live_in_topic_folders(self):
         loose = [p.name for p in (ROOT / "docs").glob("*.md") if p.name != "README.md"]
         self.assertEqual(loose, [], "put new docs in a topic folder and list them in docs/README.md")
-        index = (ROOT / "docs/README.md").read_text()
-        unlisted = [str(p.relative_to(ROOT / "docs")) for p in (ROOT / "docs").glob("*/*.md")
-                    if p not in LOCAL_ONLY and f"({p.relative_to(ROOT / 'docs')})" not in index]
+        index = (ROOT / "docs/README.md").read_text(encoding="utf-8")
+        unlisted = [p.relative_to(ROOT / "docs").as_posix() for p in (ROOT / "docs").glob("*/*.md")
+                    if p not in LOCAL_ONLY and f"({p.relative_to(ROOT / 'docs').as_posix()})" not in index]
         self.assertEqual(unlisted, [])
 
 

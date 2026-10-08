@@ -1,0 +1,148 @@
+# Bản dịch tiếng Việt Super Robot Wars 64
+# Định dạng và vị trí: docs/guide/dialogue-text.md
+
+@9206 Bask · バスク
+# Kích hoạt: Tấn công (Chung，1/5）
+> 「撃てぃ! 撃ち落とせぇ!」
+"Bắn! Đập nó đi!"
+
+@9207 Bask · バスク
+# Kích hoạt: Tấn công (Chung，2/5）
+> 「全砲門開け! 一斉掃射」
+"Mở tất cả cửa súng! Cùng bắn!"
+
+@9208 Bask · バスク
+# Kích hoạt: Tấn công (Chung，3/5）
+> 「生かして帰すなっ!」
+"Đừng để hắn sống sót trở về!"
+
+@9209 Bask · バスク
+# Kích hoạt: Tấn công (Chung，4/5）
+> 「蹴散らせぇ!」
+"Giải tán chúng!"
+
+@9210 Bask · バスク
+# Kích hoạt: Tấn công (Chung，5/5）
+> 「撃てぃ!」
+"Cháy!"
+
+@9211 Bask · バスク
+# Kích hoạt: 被击坠（通用，1/2）
+> 「バッ、バカな……」
+“Không, không thể nào…”
+
+@9212 Bask · バスク
+# Kích hoạt: 被击坠（通用，2/2）
+> 「ぬぅぅぅっ……おのれぇ、よくもよくも!」
+"Ừm... Khốn kiếp, sao ngươi dám, sao ngươi dám!"
+
+@9213 Bask · バスク
+# Kích hoạt: 重伤（剩余 HP 不足 30%）（通用，1/4）
+> 「ぬあっ……出力が落ちているぞ!
+>  どうしたかっ!?」
+"Hmm...sức mạnh đang giảm dần! Chuyện gì đang xảy ra vậy!?"
+
+@9214 Bask · バスク
+# Kích hoạt: 重伤（剩余 HP 不足 30%）（通用，2/4）
+> 「うぉ!? ……直撃なのか!?」
+"Uh-oh!?...Có phải là một đòn trực tiếp không!?"
+
+@9215 Bask · バスク
+# Kích hoạt: 重伤（剩余 HP 不足 30%）（通用，3/4）
+> 「ぬうぉっ……な、何だこの力は!?」
+"Ờ ồ...sức mạnh này là gì vậy!?"
+
+@9216 Bask · バスク
+# Kích hoạt: 重伤（剩余 HP 不足 30%）（通用，4/4）
+> 「ぬうううっ! おのれっ!
+>  よくも、よくもっ!!」
+"Uh-huh! Chết tiệt! Sao ngươi dám, sao ngươi dám!!"
+
+@9217 Bask · バスク
+# Kích hoạt: 中伤（剩余 HP 30–90%）（通用，1/4）
+> 「ええいっ! 何をしておる!
+>  撃ち落とせっ!!」
+"Chết tiệt! Cậu đang làm gì vậy! Đánh gục nó đi!!"
+
+@9218 Bask · バスク
+# Kích hoạt: 中伤（剩余 HP 30–90%）（通用，2/4）
+> 「ぐぅぅっ!? 対空防御!
+>  しっかりやらんかっ!」
+"Hmm!? Phòng không! Cố lên!"
+
+@9219 Bask · バスク
+# Kích hoạt: 中伤（剩余 HP 30–90%）（通用，3/4）
+> 「ぬうぉっ……やらせるわけにはいかん!」
+"Ồ...Tôi sẽ không để cậu thành công!"
+
+@9220 Bask · バスク
+# Kích hoạt: 中伤（剩余 HP 30–90%）（通用，4/4）
+> 「おのれ、よくもやりおったなっ!」
+"Chết tiệt, ngươi thật dũng cảm!"
+
+@9221 Bask · バスク
+# Kích hoạt: 轻伤（剩余 HP 90% 以上）（通用，1/4）
+> 「ふん、効きはせんわ」
+"Hừm, không đau cũng không ngứa."
+
+@9222 Bask · バスク
+# Kích hoạt: 轻伤（剩余 HP 90% 以上）（通用，2/4）
+> 「ふん、悪あがきよ」
+"Hừm, đấu tranh hấp hối."
+
+@9223 Bask · バスク
+# Kích hoạt: 轻伤（剩余 HP 90% 以上）（通用，3/4）
+> 「ふん……蚊トンボが」
+“Hừm...chỉ là một con côn trùng bay nhỏ thôi.”
+
+@9224 Bask · バスク
+# Kích hoạt: 轻伤（剩余 HP 90% 以上）（通用，4/4）
+> 「この装甲は並ではないぞ」
+"Bộ giáp này thật phi thường."
+
+@9225 Bask · バスク
+# Kích hoạt: Né tránh（通用，1/3）
+> 「急速回頭!」
+"Quay mạnh!"
+
+@9226 Bask · バスク
+# Kích hoạt: Né tránh（通用，2/3）
+> 「回避運動急げ! あたるなっ!!」
+"Tránh nhanh lên! Đừng để bị trúng đòn!!"
+
+@9227 Bask · バスク
+# Kích hoạt: Né tránh（通用，3/3）
+> 「かわせっ!」
+"Tránh xa!"
+
+@9228 Bask · バスク
+# Kích hoạt: Tấn công无效（护罩／装甲）（通用，1/1）
+> 「ふはははははっ、無駄だ無駄だ
+>  ふははは!!」
+"Huhahahahahaha, vô dụng, vô dụng, Huhahaha!!"
+
+@9229 Bask · バスク
+# Kích hoạt: 弹药／EN 不足，无法反击（通用，1/1）
+> 「弾切れだと……ええぃ
+>  何をやっておるか!!」
+“Hết đạn rồi… Mẹ kiếp, cậu đang làm gì vậy!!”
+
+@9230 Bask · バスク
+# Kích hoạt: 射程外，无法反击（通用，1/1）
+> 「おのれぇっ、遠距離からの攻撃か」
+"Chết tiệt, tôi đã đánh bạn từ xa."
+
+@14701 Bask · バスク
+# Kích hoạt: 使用〈ハイメガ粒子砲〉（低优先，可能被通用台词顶掉）
+> 「主砲、一斉発射っ!」
+"Súng chính, loạt đạn!"
+
+@14702 Bask · バスク
+# Kích hoạt: 使用〈ハイメガ粒子砲〉（低优先，可能被通用台词顶掉）
+> 「メガ粒子砲 撃てぃ!」
+"Pháo hạt Miga, khai hỏa!"
+
+@14703 Bask · バスク
+# Kích hoạt: Tấn công无效（护罩／装甲），乘坐〈ドゴス・ギア〉
+> 「ドゴスギアの装甲は並ではないわっ!」
+"Áo giáp của Dogos Kea không ăn chay!"

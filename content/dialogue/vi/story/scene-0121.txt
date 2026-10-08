@@ -1,0 +1,199 @@
+# Bản dịch tiếng Việt Super Robot Wars 64
+# Định dạng và vị trí: docs/guide/dialogue-text.md
+
+@50939 Cecily · セシリー
+> 「……それじゃあなたたちも
+>  レジスタンス部隊に合流するの?」
+"Vậy ngươi cũng muốn tham gia kháng chiến?"
+
+@50940 Kappei · 勝平
+> 「そうなんだよね。俺は乗り気じゃ
+>  ないんだけど、じっちゃんのいいつけでね」
+"Ừ. Thực ra tôi có chút miễn cưỡng, nhưng đây là mệnh lệnh của ông nội."
+
+@50941 Keiko · 恵子
+> 「地球を救うために、
+>  レジスタンス部隊と協力して
+"Ông nội yêu cầu chúng tôi hợp tác với lực lượng kháng chiến để cứu trái đất.
+---
+>  敵と戦えっていわれたんです」
+Chiến đấu với kẻ thù. "
+
+@50942 Remy · レミー
+> 「私たちもレジスタンス部隊に
+>  聞きたいことがあるのよ
+“Chúng tôi cũng có chuyện muốn hỏi lực lượng kháng chiến.
+---
+>  ……私たちはドクーガっていう組織を
+>  追っているんだけど、帝国軍と
+...Chúng tôi đang theo dõi một tổ chức tên là Poison Fang. Có thông tin tình báo rằng họ
+---
+>  共同で何らかの行動を
+>  起こすっていう情報があったのよ
+Họ đang lên kế hoạch hành động gì cùng với Quân đội Hoàng gia?
+---
+>  レジスタンス部隊だったら
+>  何か知っていることが
+Nếu họ là thành viên của tổ chức kháng chiến, họ có thể biết điều gì đó.
+---
+>  あるんじゃないかって……」
+Vì thế chúng ta chỉ..."
+
+@50943 Cecily · セシリー
+> 「私たちもレジスタンス部隊と
+>  合流しろという命令を受けて
+“Chúng tôi cũng nhận được lệnh hội quân với lực lượng kháng chiến.
+---
+>  動いていたんです」
+Đây là cách tôi đến tất cả các cách. "
+
+@50944 Kappei · 勝平
+> 「でもホント、助かったよ。
+>  こっちのレーダーは故障しちまって
+“Nhưng nó thực sự hữu ích. Radar của chúng tôi ở đây bị hỏng.
+---
+>  部隊を探すの、
+>  あきらめようかって時だったから」
+Tôi đang suy nghĩ liệu đã đến lúc từ bỏ việc tìm kiếm quân đội hay chưa. "
+
+@50945 Shingo · 真吾
+> 「俺たちもそうだ。なかなか部隊が
+>  見つからないんでどうしようかってな」
+“Chúng ta cũng vậy, lúc nào cũng không tìm được quân đội, lại lo lắng không biết phải làm sao.”
+
+@50946 Seabook · シーブック
+> 「僕たちはあらかじめ
+>  部隊に連絡して
+"Chúng tôi đã liên lạc trước với quân đội.
+---
+>  合流地点を決めていましたからね」
+Địa điểm gặp mặt đã được quyết định. "
+
+@50947 Killy · キリー
+> 「ま、でもそのおかげでこーんなかわいい
+>  お嬢さんたちに出会えたからね
+"Nhưng nhờ đó mà tôi đã gặp được những quý cô đáng yêu như vậy.
+---
+>  俺の運もまだまだ捨てたもんじゃない」
+Có vẻ như vận may của tôi vẫn chưa hết. "
+
+@50948 Remy · レミー
+> 「キリー、いいかげんにしなさいよ。
+>  ……もうそろそろ合流地点よ」
+“Kili, làm ơn dừng lại. ...Chúng ta sắp đến điểm hẹn rồi.”
+
+@50949 Shingo · 真吾
+> 「あれじゃないか?
+>  レジスタンス部隊ってのは……」
+“Đó là thế à? Cái gọi là lực lượng tổ chức kháng chiến…”
+
+@50950 Seabook · シーブック
+> 「……違うぞ! あれは敵だ!」
+“…Không! Đó là kẻ thù!”
+
+@50951 Killy · キリー
+> 「どうもヤバイみたいよ。敵さん、
+>  俺たちのことに気づいたみたい!」
+"Tình hình có vẻ không ổn, kẻ địch hình như đã phát hiện ra chúng ta!"
+
+@50952 Seabook · シーブック
+> 「迎撃しましょう!
+>  セシリー、準備はいいかい」
+"Nào! Cecily, em sẵn sàng chưa?"
+
+@50953 Cecily · セシリー
+> 「ビギナ・ギナで出るわ」
+"Tôi sẽ tấn công trong bộ bikini."
+
+@50954 Shingo · 真吾
+> 「俺たちもいきましょうか!
+>  グッドサンダーチーム
+"Chúng ta cũng đi thôi! Đội Thunder,
+---
+>  出撃ってことで!」
+Tấn công! "
+
+@50955 Kappei · 勝平
+> 「俺も燃えてきたぜ!
+>  宇宙太、恵子、出撃だ!」
+"Tôi cũng đang phấn khích đây! Cosmos Tai, Keiko, tấn công!"
+
+@50956 Seabook · シーブック
+> 「敵部隊を全滅させる!」
+"Tiêu diệt tất cả kẻ thù!"
+
+@50957 Shingo · 真吾
+> 「ゴーショーグン、ゴー!」
+"Tướng Hảo, ĐI!"
+
+@50958 Kappei · 勝平
+> 「ザンボットコンビネーション!」
+"Zambo hợp nhất!"
+
+@50959 Chiyonishiki · 千代錦
+> 「ワン!」
+"Gâu! "
+
+@50960 Uchuta · 宇宙太
+> 「ツー!」
+"Hai!"
+
+@50961 Keiko · 恵子
+> 「スリー!」
+"Ba!"
+
+@50962 Seabook · シーブック
+> 「な、なんでだよ!」
+"Làm sao, làm sao chuyện này có thể xảy ra!"
+
+@50963 Cecily · セシリー
+> 「あぁぁ!? シ、シーブック!」
+"À! ? S-Sibuk! "
+
+@50964 Kappei · 勝平
+> 「そんなバカな……
+>  クソッ、負けるのかよぉ」
+"Sao có thể... Chết tiệt, cậu sắp thua à?"
+
+@50965 Keiko · 恵子
+> 「きゃあぁぁぁーっ!!」
+“Ahhhhhhhhh——!!”
+
+@50966 Uchuta · 宇宙太
+> 「うわあぁぁっ!」
+“Ồhhhhhh! "
+
+@50967 Killy · キリー
+> 「まだ『ブロンクスの狼』が
+>  書きあがってないのにね」
+“Tôi vẫn chưa viết xong The Wolf of the Bronx.”
+
+@50968 Kappei · 勝平
+> 「へへーん、ざまぁみろ」
+"Ha ha, ngươi xứng đáng!"
+
+@50969 Cecily · セシリー
+> 「……なんとか終わったようね」
+“…Cuối cùng cũng kết thúc.”
+
+@50970 Seabook · シーブック
+> 「ああ。……でも戦いは、まだまだ続くさ」
+"Chà...nhưng trận chiến còn lâu mới kết thúc."
+
+@50971 Remy · レミー
+> 「見て、真吾。
+>  あれ、レジスタンス部隊じゃないかしら」
+“Nhìn này, Shingo. Phải chăng đó là lực cản? "
+
+@50972 Shingo · 真吾
+> 「……あれがレジスタンス部隊かい?」
+“…Đó có phải là lực lượng kháng cự không? "
+
+@50973 Seabook · シーブック
+> 「……どうやらそうみたいです。
+>  合流しましょう」
+"...có vẻ như vậy. Chúng ta hãy đi gặp nhau nhé. "
+
+@50974 Kappei · 勝平
+> 「へへん、いっちょ暴れてやりますか」
+"Này, chúng ta đi làm một cảnh đi."

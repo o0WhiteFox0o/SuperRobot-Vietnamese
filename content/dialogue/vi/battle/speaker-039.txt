@@ -1,0 +1,250 @@
+# Bản dịch tiếng Việt Super Robot Wars 64
+# Định dạng và vị trí: docs/guide/dialogue-text.md
+
+@9084 Quattro · クワトロ
+# Kích hoạt: Tấn công (Chung，1/15）
+> 「いけるかっ!?」
+"Có thể làm được không!?"
+
+@9085 Quattro · クワトロ
+# Kích hoạt: Tấn công (Chung，2/15）
+> 「あたれよ!」
+"Đánh tôi đi!"
+
+@9086 Quattro · クワトロ
+# Kích hoạt: Tấn công (Chung，3/15）
+> 「やらせるかっ!」
+"Đừng nghĩ tới chuyện đó nữa!"
+
+@9087 Quattro · クワトロ
+# Kích hoạt: Tấn công (Chung，4/15）
+> 「おそいっ!!」
+"Quá chậm!!"
+
+@9088 Quattro · クワトロ
+# Kích hoạt: Tấn công (Chung，5/15）
+> 「そこだっ!!」
+“Chính là nó!!”
+
+@9089 Quattro · クワトロ
+# Kích hoạt: Tấn công (Chung，6/15）
+> 「そこかっ!!」
+“Hóa ra là ở đó!!”
+
+@9090 Quattro · クワトロ
+# Kích hoạt: Tấn công (Chung，7/15）
+> 「沈めっ!!」
+“Chìm xuống!!”
+
+@9091 Quattro · クワトロ
+# Kích hoạt: Tấn công (Chung，8/15）
+> 「遅いな」
+"Quá chậm."
+
+@9092 Quattro · クワトロ
+# Kích hoạt: Tấn công (Chung，9/15）
+> 「そこだ」
+"Đó là nó."
+
+@9093 Quattro · クワトロ
+# Kích hoạt: Tấn công (Chung，10/15）
+> 「やらせはせんよ」
+“Tôi sẽ không để cậu thành công.”
+
+@9094 Quattro · クワトロ
+# Kích hoạt: Tấn công (Chung，11/15）
+> 「甘いな!」
+"Thật ngây thơ!"
+
+@9095 Quattro · クワトロ
+# Kích hoạt: Tấn công (Chung，12/15）
+> 「邪魔をするな!」
+"Tránh ra!"
+
+@9096 Quattro · クワトロ
+# Kích hoạt: Tấn công (Chung，13/15）
+> 「直撃させるっ!!」
+"Hãy để bạn ăn hết mình!!"
+
+@9097 Quattro · クワトロ
+# Kích hoạt: Tấn công (Chung，14/15）
+> 「これ以上はやらせん!」
+"Ta sẽ không để ngươi thành công lần nữa!"
+
+@9098 Quattro · クワトロ
+# Kích hoạt: Tấn công (Chung，15/15）
+> 「やってみるさ!」
+"Thử đi!"
+
+@9099 Quattro · クワトロ
+# Kích hoạt: 被击坠（通用，1/3）
+> 「ちいっ!」
+"Chậc!"
+
+@9100 Quattro · クワトロ
+# Kích hoạt: 被击坠（通用，2/3）
+> 「くうっ! やる!!」
+"Ừm! Một lát thôi!!"
+
+@9101 Quattro · クワトロ
+# Kích hoạt: 被击坠（通用，3/3）
+> 「し、しまった!!」
+"Ối, ôi!!"
+
+@9102 Quattro · クワトロ
+# Kích hoạt: 重伤（剩余 HP 不足 30%）（通用，1/4）
+> 「直撃!?」
+“Đánh trực tiếp!?”
+
+@9103 Quattro · クワトロ
+# Kích hoạt: 重伤（剩余 HP 不足 30%）（通用，2/4）
+> 「まだだ! まだ終わらんよ!」
+"Vẫn chưa kết thúc! Vẫn chưa kết thúc!"
+
+@9104 Quattro · クワトロ
+# Kích hoạt: 重伤（剩余 HP 不足 30%）（通用，3/4）
+> 「くっ!! ダメージを受けすぎたか!?」
+"Ugh!! Có đau quá không!?"
+
+@9105 Quattro · クワトロ
+# Kích hoạt: 重伤（剩余 HP 不足 30%）（通用，4/4）
+> 「ええい! あたり所が悪いと
+>  こんなものか!?」
+"Chết tiệt! Đây là cảm giác bị đánh vào bộ phận quan trọng sao!?"
+
+@9106 Quattro · クワトロ
+# Kích hoạt: 中伤（剩余 HP 30–90%）（通用，1/5）
+> 「ッ!? まだだ!!」
+"!? Vẫn chưa kết thúc đâu!!"
+
+@9107 Quattro · クワトロ
+# Kích hoạt: 中伤（剩余 HP 30–90%）（通用，2/5）
+> 「うっ!! やるな!!」
+"Ugh!! Phải mất một lúc đấy!!"
+
+@9108 Quattro · クワトロ
+# Kích hoạt: 中伤（剩余 HP 30–90%）（通用，3/5）
+> 「ちっ!! まだだっ!!」
+"Tsk!! Vẫn chưa kết thúc đâu!!"
+
+@9109 Quattro · クワトロ
+# Kích hoạt: 中伤（剩余 HP 30–90%）（通用，4/5）
+> 「く、この程度で!」
+"Ừ, vết thương nhỏ này không là gì cả!"
+
+@9110 Quattro · クワトロ
+# Kích hoạt: 中伤（剩余 HP 30–90%）（通用，5/5）
+> 「くっ、まだこんなものでは!」
+"Được rồi, vết thương nhỏ này không thể đánh bại được ta!"
+
+@9111 Quattro · クワトロ
+# Kích hoạt: 轻伤（剩余 HP 90% 以上）（通用，1/3）
+> 「その程度では落ちんよ!!」
+"Bạn không thể đánh bại tôi ở cấp độ này!!"
+
+@9112 Quattro · クワトロ
+# Kích hoạt: 轻伤（剩余 HP 90% 以上）（通用，2/3）
+> 「効かんよ」
+"Nó không hoạt động."
+
+@9113 Quattro · クワトロ
+# Kích hoạt: 轻伤（剩余 HP 90% 以上）（通用，3/3）
+> 「ムダなことを……」
+"Thật lãng phí sức lực..."
+
+@9114 Quattro · クワトロ
+# Kích hoạt: Né tránh（通用，1/5）
+> 「あまいなっ!」
+"Thật ngây thơ!"
+
+@9115 Quattro · クワトロ
+# Kích hoạt: Né tránh（通用，2/5）
+> 「ちいっ!」
+"Chậc!"
+
+@9116 Quattro · クワトロ
+# Kích hoạt: Né tránh（通用，3/5）
+> 「そうそうあたるものではない!」
+"Không dễ đánh như vậy!"
+
+@9117 Quattro · クワトロ
+# Kích hoạt: Né tránh（通用，4/5）
+> 「あたりはせんよ!」
+"Bạn không thể đánh nó!"
+
+@9118 Quattro · クワトロ
+# Kích hoạt: Né tránh（通用，5/5）
+> 「遅いな」
+"Quá chậm."
+
+@9119 Quattro · クワトロ
+# Kích hoạt: Tấn công无效（护罩／装甲）（通用，1/5）
+> 「効かんよ!」
+"Nó không hoạt động!"
+
+@9120 Quattro · クワトロ
+# Kích hoạt: Tấn công无效（护罩／装甲）（通用，2/5）
+> 「ビームなどで!」
+"Chỉ là một tia!"
+
+@9121 Quattro · クワトロ
+# Kích hoạt: Tấn công无效（护罩／装甲）（通用，3/5）
+> 「この程度ならばっ!」
+"Ở trình độ này tôi có thể chịu đựng được!"
+
+@9122 Quattro · クワトロ
+# Kích hoạt: Tấn công无效（护罩／装甲）（通用，4/5）
+> 「ビームなど効かん!」
+"Chỉ là tia sáng thôi, không có tác dụng!"
+
+@9123 Quattro · クワトロ
+# Kích hoạt: Tấn công无效（护罩／装甲）（通用，5/5）
+> 「フッ、効かんよ」
+"Hmph, nó không hoạt động."
+
+@9124 Quattro · クワトロ
+# Kích hoạt: 弹药／EN 不足，无法反击（通用，1/2）
+> 「ええい! こんなことで!」
+"Chết tiệt! Bạn sẽ rơi vào tình trạng này!"
+
+@9125 Quattro · クワトロ
+# Kích hoạt: 弹药／EN 不足，无法反击（通用，2/2）
+> 「くっ、だめか!?」
+"Chà, không thể được nữa à!?"
+
+@9126 Quattro · クワトロ
+# Kích hoạt: 射程外，无法反击（通用，1/1）
+> 「くっ! 射程距離外からの
+>  攻撃とはな」
+"Ugh! Nó đến từ bên ngoài trường bắn."
+
+@14687 Quattro · クワトロ
+# Kích hoạt: 使用〈ファンネル／マザーファンネル〉
+> 「いけっ!ファンネル!!」
+"Đi! Pháo nổi!!"
+
+@14688 Quattro · クワトロ
+# Kích hoạt: 使用〈ファンネル／マザーファンネル〉
+> 「ファンネル!!」
+"Pháo nổi!!"
+
+@14689 Quattro · クワトロ
+# Kích hoạt: 使用〈フィンファンネル〉
+> 「いけっ!! フィンファンネル!!」
+"Tiến lên!! Pháo nổi có vây!!"
+
+@14690 Quattro · クワトロ
+# Kích hoạt: 使用〈フィンファンネル〉
+> 「フィンファンネル!!」
+"Pháo nổi có vây!!"
+
+@14691 Quattro · クワトロ
+# Kích hoạt: 使用〈ヴェスバー〉（低优先，可能被通用台词顶掉）
+> 「ヴェスバー!!」
+"VSBR!!"
+
+@14692 Quattro · クワトロ
+# Kích hoạt: 使用〈ハイメガキャノン〉（低优先，可能被通用台词顶掉）
+> 「エネルギー充填……
+>  いけっ! ハイメガキャノン!!」
+"Sạc năng lượng...bắn! Mega Cannon năng lượng cao!!"

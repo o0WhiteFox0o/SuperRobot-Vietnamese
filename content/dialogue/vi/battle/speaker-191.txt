@@ -1,0 +1,188 @@
+# Bản dịch tiếng Việt Super Robot Wars 64
+# Định dạng và vị trí: docs/guide/dialogue-text.md
+
+@12449 Bern · バーン
+# Kích hoạt: Tấn công (Chung，1/10）
+> 「勝負だ!」
+"Một cuộc thách đấu!"
+
+@12450 Bern · バーン
+# Kích hoạt: Tấn công (Chung，2/10）
+> 「死ね!」
+"Đi xuống địa ngục đi!"
+
+@12451 Bern · バーン
+# Kích hoạt: Tấn công (Chung，3/10）
+> 「そこか!」
+"Đó!"
+
+@12452 Bern · バーン
+# Kích hoạt: Tấn công (Chung，4/10）
+> 「やらせん!」
+"Đừng nghĩ tới chuyện đó nữa!"
+
+@12453 Bern · バーン
+# Kích hoạt: Tấn công (Chung，5/10）
+> 「これでとどめだ!」
+"Một đòn này sẽ kết liễu ngươi!"
+
+@12454 Bern · バーン
+# Kích hoạt: Tấn công (Chung，6/10）
+> 「ゆくぞ!」
+"Lên!"
+
+@12455 Bern · バーン
+# Kích hoạt: Tấn công (Chung，7/10）
+> 「これでどうだ!」
+"Động tác này thế nào!"
+
+@12456 Bern · バーン
+# Kích hoạt: Tấn công (Chung，8/10）
+> 「なめるな!」
+"Đừng đánh giá thấp tôi!"
+
+@12457 Bern · バーン
+# Kích hoạt: Tấn công (Chung，9/10）
+> 「終わりだな!」
+"Chính là nó!"
+
+@12458 Bern · バーン
+# Kích hoạt: Tấn công (Chung，10/10）
+> 「フフフフフ」
+"Hehehehe."
+
+@12459 Bern · バーン
+# Kích hoạt: 被击坠（通用，1/4）
+> 「な、なんだと!?」
+"C-Cái gì!?"
+
+@12460 Bern · バーン
+# Kích hoạt: 被击坠（通用，2/4）
+> 「なっ……なんだと!?」
+"Cái...cái gì! ? "
+
+@12461 Bern · バーン
+# Kích hoạt: 被击坠（通用，3/4）
+> 「ばかな、このわたしが……」
+"Không thể nào, tôi thực sự..."
+
+@12462 Bern · バーン
+# Kích hoạt: 被击坠（通用，4/4）
+> 「やられたというのか……」
+"Có thật là tôi... đã bị đánh bại...?"
+
+@12463 Bern · バーン
+# Kích hoạt: 重伤（剩余 HP 不足 30%）（通用，1/6）
+> 「な、なぜだ!?」
+"T-tại sao!?"
+
+@12464 Bern · バーン
+# Kích hoạt: 重伤（剩余 HP 不足 30%）（通用，2/6）
+> 「なっ……なぜだ!」
+"Cái gì... tại sao!"
+
+@12465 Bern · バーン
+# Kích hoạt: 重伤（剩余 HP 不足 30%）（通用，3/6）
+> 「うっ! なんというパワーだ!」
+"Hmm! Thật là một lực lượng mạnh mẽ!"
+
+@12466 Bern · バーン
+# Kích hoạt: 重伤（剩余 HP 不足 30%）（通用，4/6）
+> 「うっ……こんなことでやられるわけには
+>  いかぬ!」
+"Chà...làm sao tôi có thể rơi vào một nơi như thế này!"
+
+@12467 Bern · バーン
+# Kích hoạt: 重伤（剩余 HP 不足 30%）（通用，5/6）
+> 「ぐぅ……お、おのれ!」
+"Ư...Chết tiệt!"
+
+@12468 Bern · バーン
+# Kích hoạt: 重伤（剩余 HP 不足 30%）（通用，6/6）
+> 「ぐぅ……おっ、おのれ!」
+"Ư...Chết tiệt!"
+
+@12469 Bern · バーン
+# Kích hoạt: 中伤（剩余 HP 30–90%）（通用，1/4）
+> 「おされている……この私が!?」
+"Tôi đã... bị đàn áp!?"
+
+@12470 Bern · バーン
+# Kích hoạt: 中伤（剩余 HP 30–90%）（通用，2/4）
+> 「まだだ! まだやられはせんよ!」
+"Vẫn chưa kết thúc! Tôi sẽ không ngã xuống đâu!"
+
+@12471 Bern · バーン
+# Kích hoạt: 中伤（剩余 HP 30–90%）（通用，3/4）
+> 「ぐぅ……きさまぁ!!」
+"Ờ...anh bạn!!"
+
+@12472 Bern · バーン
+# Kích hoạt: 中伤（剩余 HP 30–90%）（通用，4/4）
+> 「うっ 意外と……」
+“Ồ, thật không ngờ…”
+
+@12473 Bern · バーン
+# Kích hoạt: 轻伤（剩余 HP 90% 以上）（通用，1/8）
+> 「なに!? あたった……」
+"Cái gì!? Đánh..."
+
+@12474 Bern · バーン
+# Kích hoạt: 轻伤（剩余 HP 90% 以上）（通用，2/8）
+> 「うっ……この程度でいい気になるな」
+"Ừ...chỉ là vết thương nhỏ thôi, đừng quá khích."
+
+@12475 Bern · バーン
+# Kích hoạt: 轻伤（剩余 HP 90% 以上）（通用，3/8）
+> 「ちっ……やるな」
+"Tsk...mất một lúc đấy."
+
+@12476 Bern · バーン
+# Kích hoạt: 轻伤（剩余 HP 90% 以上）（通用，4/8）
+> 「効かんな」
+"Nó không đau hay ngứa."
+
+@12477 Bern · バーン
+# Kích hoạt: 轻伤（剩余 HP 90% 以上）（通用，5/8）
+> 「その程度か」
+“Đó là tất cả những gì cậu có à?”
+
+@12478 Bern · バーン
+# Kích hoạt: 轻伤（剩余 HP 90% 以上）（通用，6/8）
+> 「ふっ……なめるな」
+"Hmph...đừng đánh giá thấp tôi."
+
+@12479 Bern · バーン
+# Kích hoạt: 轻伤（剩余 HP 90% 以上）（通用，7/8）
+> 「ハハハハッ、効かぬ!」
+"Hahahaha, không đau cũng không ngứa!"
+
+@12480 Bern · バーン
+# Kích hoạt: 轻伤（剩余 HP 90% 以上）（通用，8/8）
+> 「あまいな!」
+"Thật ngây thơ!"
+
+@12481 Bern · バーン
+# Kích hoạt: Né tránh（通用，1/2）
+> 「見切った!」
+"Xem qua đi!"
+
+@12482 Bern · バーン
+# Kích hoạt: Né tránh（通用，2/2）
+> 「あたらん!」
+"Bỏ lỡ!"
+
+@12483 Bern · バーン
+# Kích hoạt: Tấn công无效（护罩／装甲）（通用，1/1）
+> 「そんなものが通用するか!」
+“Làm sao một thứ như thế có thể hoạt động được?”
+
+@12484 Bern · バーン
+# Kích hoạt: 弹药／EN 不足，无法反击（通用，1/1）
+> 「しまった!? 反撃できん!」
+"Ối!? Không thể đánh trả được!"
+
+@12485 Bern · バーン
+# Kích hoạt: 射程外，无法反击（通用，1/1）
+> 「なに!? 射程外からだと!?」
+"Cái gì!? Được gọi từ ngoài phạm vi!?"

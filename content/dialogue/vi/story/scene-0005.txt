@@ -1,0 +1,681 @@
+# Bản dịch tiếng Việt Super Robot Wars 64
+# Định dạng và vị trí: docs/guide/dialogue-text.md
+
+@17788 Guerrilla · ゲリラ
+> 「ご苦労様です
+"Cảm ơn bạn.
+---
+>  機体はすべて倉庫の方へまわして
+>  ください。そこで整備しますので」
+Vui lòng lái tất cả khung máy bay đến nhà kho và chúng tôi sẽ cải tạo chúng ở đó. "
+
+@17789 Banjo · 万丈
+> 「すまない。アランの方は順調なのか?」
+"Xin lỗi. Mọi chuyện với Alan có ổn không?"
+
+@17790 Guerrilla · ゲリラ
+> 「そう聞いています
+“Tôi nghe nói là như vậy.
+---
+>  各プロジェクトは急ピッチで
+>  進んでいるようです」
+Tất cả các dự án dường như đang tiến về phía trước. "
+
+@17791 Banjo · 万丈
+> 「そうか。では、こちらはしばらく
+>  様子見となるかな……
+"Thật sao? Vậy chúng ta hãy chờ xem một lát...
+---
+>  君たち、ここはカラバの施設だ。
+>  あまりきれいとはいえないが
+Mọi người, đây là cơ sở Calabar. Chỗ đó không tốt lắm,
+---
+>  少し休んでくれ」
+Các cậu nên nghỉ ngơi trước đã. "
+
+@17792 Brad · ブラッド（按段落 3DD3）
+> 「そうさせてもらう。あーっ、そこのお前!
+>  アースゲインを勝手に動かすな!
+"Vậy không có gì. Ah - cái đằng kia! Đừng chạm vào Asgain!
+---
+>  俺がやる!」
+Tôi đang đến đây! "
+
+@17793 Koji · 甲児
+> 「なんだよ、こんな狭いところに
+>  入れるのか!?
+“Bạn đang làm gì vậy, bạn có muốn đậu xe ở một nơi chật hẹp như vậy không!?
+---
+>  ……うわーっ!!」
+...Chà--! ! "
+
+@17794 Reika · レイカ
+> 「きゃっ! ちょっと、
+>  あぶないじゃないのっ!!」
+"Ừ! Này, nguy hiểm quá!!"
+
+@17795 Koji · 甲児
+> 「あいててて……悪い悪い
+"Đau quá...Tôi xin lỗi.
+---
+>  くっそぉ、
+>  なんでまっすぐ歩かないんだ……」
+Chết tiệt, tại sao tôi không thể đi thẳng được…”
+
+@17796 Guerrilla · ゲリラ
+> 「…………」
+“…………”
+
+@17797 Banjo · 万丈
+> 「はははっ、すまない。彼らは、あまり
+>  こういうのになれてないんだ」
+"Hahaha, xin lỗi. Họ không quen với những việc như thế này."
+
+@17798 Guerrilla · ゲリラ
+> 「いえ、いいですよ。
+>  彼らの活躍は聞いています
+“Không, không thành vấn đề. Chúng tôi đã nghe về việc làm của họ.
+---
+>  私らにはできないことです」
+Chúng tôi không thể làm khác được. "
+
+@17799 Manami · マナミ（按段落 3DD4）
+> 「ええ、そうさせてもらうわ。
+>  シャワー、借りられるかしら?」
+"Được rồi, vậy thì tôn trọng hơn là vâng lời. Cho tôi mượn vòi hoa sen được không?"
+
+@17800 Guerrilla · ゲリラ
+> 「もちろんです。
+>  ご案内しましょう」
+"Tất nhiên rồi. Tôi sẽ dẫn đường."
+
+@17801 Manami · マナミ（按段落 3DD4）
+> 「ありがとう、助かるわ」
+"Cảm ơn bạn, đó là một sự giúp đỡ lớn."
+
+@17802 Simone · シモーヌ
+> 「あ、ちょっと、
+>  アタシも一緒にいくわ」
+"A, chờ đã, tôi cũng đi."
+
+@17803 Lawrence · ローレンス
+> 「ふむ、ではわたくしは、お茶の
+>  用意でもするといたしましょう」
+“Được rồi, vậy tôi sẽ chuẩn bị một ít trà.”
+
+@17804 Banjo · 万丈
+> 「僕たちの分も頼めるかな?」
+"Bạn có thể chuẩn bị cho chúng tôi một cái được không?"
+
+@17805 Lawrence · ローレンス
+> 「もちろんでございますよ」
+"Tất nhiên."
+
+@17806 Beauty · ビューティ
+> 「うふ、よろしくね
+"Haha, làm ơn.
+---
+>  じゃあ、私はお茶菓子の
+>  用意をしようかしら」
+Vậy tôi sẽ đi chuẩn bị đồ uống. "
+
+@17807 Garrison · ギャリソン
+> 「私は整備の方を
+>  手伝ってまいります」
+“Tôi sẽ giúp chuẩn bị.”
+
+@17808 Garrison · ギャリソン
+> 「……ああ、これ、そこの整備士、
+>  そのようなもので扱っては
+“…Ồ, người bảo trì đằng kia, làm ơn đừng chạm vào thứ đó,
+---
+>  キズがついて……」
+Sẽ để lại vết xước..."
+
+@17809 Dark General · 暗黒大将軍
+> 「奴らの潜伏場所がわかった。
+>  今度は俺が行かせてもらう
+“Chúng ta đã tìm được nơi ẩn náu của những kẻ đó. Lần này hãy để tôi đi.
+---
+>  我らミケーネが帝国の軍門に
+>  くだったのも
+Sở dĩ Mycenae của chúng ta bị quân đế quốc khuất phục là vì
+---
+>  いずれはこの地球を
+>  支配せんがため
+Cũng để một ngày thống trị trái đất này.
+---
+>  これ以上の屈辱など、そうそう
+>  ありえんわ」
+Không có sự sỉ nhục nào lớn hơn thế này. "
+
+@17810 Dr. Gura · グラー博士
+> 「ブライ大帝さま、
+>  ミケーネの動きをつかみました」
+“Bệ hạ, Hoàng đế Bly, chúng ta có quyền kiểm soát chuyển động của Mycenae.”
+
+@17811 Emperor Burai · ブライ大帝
+> 「ほう、申せ」
+"Ồ, kể cho tôi nghe đi."
+
+@17812 Dr. Gura · グラー博士
+> 「はっ、帝国に反抗する
+>  人間どもの組織“カラバ”の
+"Đúng vậy, có vẻ như họ đang tấn công tổ chức con người 'Calaba' chống lại đế quốc.
+---
+>  基地を襲撃する様子で
+>  ございます」
+cơ sở. "
+
+@17813 Emperor Burai · ブライ大帝
+> 「なに、カラバをか。ふむ……
+"Cái gì, Karaba? Ừm...
+---
+>  例のエネルギー源に関しては
+>  どうなっておるか」
+Chuyện gì đã xảy ra với cái nguồn năng lượng đó vậy? "
+
+@17814 Dr. Gura · グラー博士
+> 「はっ、やはり人間どもが
+>  研究していた“ゲッター線”が
+“Đúng vậy, đó quả thực là 'Getta Ray' được con người nghiên cứu.
+---
+>  最適であると思われます」
+phù hợp nhất. "
+
+@17815 Emperor Burai · ブライ大帝
+> 「光子力とやらは、どうなった?」
+“Còn cái gọi là lực photon thì sao?”
+
+@17816 Dr. Gura · グラー博士
+> 「有用ではありますが
+"Mặc dù nó có công dụng của nó,
+---
+>  ゲッター線の方が我々の
+>  目的にはあっております」
+Nhưng tia getter phù hợp hơn cho mục đích của chúng tôi. "
+
+@17817 Emperor Burai · ブライ大帝
+> 「なるほどな」
+"Đó là nó."
+
+@17818 Dr. Gura · グラー博士
+> 「しかし帝国軍が侵攻してきた
+>  おかげで
+"Tuy nhiên, do cuộc xâm lược của Quân đội Đế quốc,
+---
+>  人間の研究者どもは
+>  行方を、くらましております
+Các nhà nghiên cứu con người đã biến mất.
+---
+>  帝国軍に潜り込ませた
+>  鬼兵士の報告では
+Theo báo cáo từ những người lính ma thâm nhập vào Quân đội Hoàng gia,
+---
+>  カラバに保護されている
+>  可能性が高いと」
+Có lẽ họ đã được Kalaba bảo vệ. "
+
+@17819 Emperor Burai · ブライ大帝
+> 「ふむ、人間どもめ、
+>  なかなかやるのう
+“Chà, những con người này khá có khả năng.
+---
+>  だが、それを手に入れねば、我らの
+>  もくろみは達成できぬのであろう」
+Nhưng nếu không đạt được thì kế hoạch lớn của chúng ta sẽ không thể thực hiện được. "
+
+@17820 Dr. Gura · グラー博士
+> 「はい。すでに帝国軍の中にも、
+>  密かに改造手術で
+"Đúng. Một số người trong Quân đội Đế quốc đã được chúng tôi bí mật tiến hành phẫu thuật chuyển hóa.
+---
+>  百鬼兵士にしたてあげた者が
+>  おりますが、月に一度はエネルギーを
+Trở thành Trăm Quỷ Binh, nhưng họ phải bổ sung năng lượng mỗi tháng một lần.
+---
+>  補充しなければならないため、
+>  これ以上は増やせません。もしも
+Vậy là không còn nữa. Nếu
+---
+>  無理をして1度でも失敗すれば
+>  我らは帝国に滅ぼされましょう」
+Nếu chúng ta hành động miễn cưỡng, nếu chúng ta thất bại dù chỉ một lần, chúng ta sẽ bị Đế quốc xóa sổ. "
+
+@17821 Emperor Burai · ブライ大帝
+> 「わかっておる。我ら百鬼一族を
+>  あなどりおって、帝国め
+"Ta biết. Những tên đế quốc này dám đánh giá thấp Bách Quỷ Tộc của ta.
+---
+>  グラー博士、その装置に
+>  関するものが、ミケーネが向かう
+Tiến sĩ Guerra, thứ gì đó liên quan đến thiết bị đó cũng có thể có ở Mycenae.
+---
+>  人間の基地にある可能性も
+>  捨てきれぬ
+Trong cơ sở con người.
+---
+>  増援と称して調査に向かえ」
+Bạn đi điều tra dưới danh nghĩa quân tiếp viện. "
+
+@17822 Dr. Gura · グラー博士
+> 「はっ!」
+"Vâng!"
+
+@17823 Emperor Burai · ブライ大帝
+> 「エネルギー源さえ確保できれば、
+>  全宇宙でもっとも有能な
+“Chỉ cần có được nguồn năng lượng thì thứ tốt nhất trong vũ trụ sẽ
+---
+>  我が百鬼一族が
+>  帝国を排除し
+Gia tộc hàng trăm con ma của tôi có thể tiêu diệt đế chế.
+---
+>  無能な人間どもにかわって
+>  世界を支配できるのだ
+Để thay thế những con người bất tài và thống trị thế giới.
+---
+>  なんとしても手に入れねば
+>  ならん……」
+Tôi phải có được nó bằng mọi giá..."
+
+@17824 Koji · 甲児
+> 「なんだって!? 君が、オレに
+>  操縦を教えにきたっていうのか?」
+"Cái gì!? Bạn đến đây để dạy tôi lái xe à?"
+
+@17825 Sayaka · さやか
+> 「そうよ、お父さまにいわれて
+>  しかたなく来たんだから
+"Ừ, bố bảo tôi đến, tôi chẳng thể làm gì được.
+---
+>  ちゃんと覚えてちょうだい」
+Hãy học hỏi từ tôi. "
+
+@17826 Koji · 甲児
+> 「冗談じゃないぜ、
+>  女になんか教われるかってんだ」
+"Bạn đang đùa tôi à? Tôi không muốn một người phụ nữ dạy tôi!"
+
+@17827 Sayaka · さやか
+> 「まぁっ、なによそれ!
+"Ồ, cậu đang nói cái gì vậy!
+---
+>  ろくに操縦もできないのに
+>  よく言うわね
+Bạn thậm chí không thể lái xe tốt nhưng bạn lại nói chuyện gay gắt như vậy.
+---
+>  いっときますけど、
+>  あのタイプのロボットの操縦は
+Hãy để tôi nói rõ trước, kiểu robot lái xe đó,
+---
+>  あたしの方がずっと上手なのよ」
+Tôi giỏi hơn bạn nhiều. "
+
+@17828 Koji · 甲児
+> 「そんなもんすぐに慣れてみせるさ。
+>  オレはすでに1回、戦ってるんだぜ?
+“Tôi có thể bắt đầu với những thứ đó ngay lập tức. Tôi đã từng chiến đấu rồi, bạn biết không?
+---
+>  君に教わる必要なんて
+>  ぜ～んぜんないね」
+Tôi không cần bạn phải dạy tôi chút nào. "
+
+@17829 Sayaka · さやか
+> 「甲児くんが慣れるまで待ってる
+>  余裕がないから、あたしが
+“Chỉ là vì tôi không có thời gian đợi Giai Nhi làm quen với em nên tôi mới
+---
+>  来たんじゃない。ぐずぐずいってないで、
+>  ついてらっしゃい。それから、あたしは
+Hãy đến. Đừng lan man nữa và đi theo tôi. Ngoài ra,
+---
+>  さやかっていう名前が、ちゃんと
+>  あるんですからね」
+Tôi có một cái tên, Sayaka. "
+
+@17830 Koji · 甲児
+> 「ちぇっ」
+"Tch."
+
+@17831 Koji · 甲児
+> (かわいくないなぁ
+(Nó không dễ thương chút nào.
+---
+>  あのお姉さんたちの爪の垢でも
+>  せんじて飲ませてやりたいぜ)
+Cô ấy thực sự nên học hỏi từ những người chị lớn đó. )
+
+@17832 Sayaka · さやか
+> 「なに? 何か言った?」
+"Cái gì? Bạn đã nói gì?"
+
+@17833 Koji · 甲児
+> 「い～や、なんにも言ってないぜ」
+"Không, không, tôi có nói gì đâu."
+
+@17834 Sayaka · さやか
+> 「そうそう、だいぶ上手に
+>  なってきたじゃない」
+"Ừ, đúng rồi. Đó không phải là một cải tiến nhỏ đâu."
+
+@17835 Koji · 甲児
+> 「…………」
+“…………”
+
+@17836 Koji · 甲児
+> (みてろよぉ、そのうち絶対
+>  鼻をあかしてやるんだからな)
+(Cứ chờ xem, sớm hay muộn tôi cũng sẽ làm bạn ngạc nhiên.)
+
+@17837 Sayaka · さやか
+> 「なーにぶつくさ言ってるのよ。
+>  ほら、あと3回。走って走って!」
+"Cậu đang lẩm bẩm cái gì vậy? Cố lên, còn ba vòng nữa. Chạy, chạy!"
+
+@17838 Banjo · 万丈
+> 「どうした!?」
+"Có chuyện gì thế!?"
+
+@17839 Garrison · ギャリソン
+> 「帝国軍が接近しておる
+>  ようですな
+“Quân đội Hoàng gia dường như đang đến gần.
+---
+>  進行ルートを考えましても、ここが
+>  目的であると思われます」
+Đánh giá từ lộ trình di chuyển, mục tiêu của họ chắc chắn là ở đây. "
+
+@17840 Brad · ブラッド（按段落 3DD3）
+> 「見つかったのか!?」
+"Phát hiện!?"
+
+@17841 Banjo · 万丈
+> 「どうやらそうらしい
+"Có vẻ như vậy.
+---
+>  帝国軍も甘くはなくなって
+>  きているようだね」
+Quân đội Đế quốc dường như không còn dễ dàng đối phó nữa. "
+
+@17842 Brad · ブラッド（按段落 3DD3）
+> 「ふん、だがまた返り討ちにして
+>  やるだけだ!」
+“Hmph, đánh trả chúng đi! "
+
+@17843 Manami · マナミ（按段落 3DD4）
+> 「見つかってしまったの!?」
+"Phát hiện!?"
+
+@17844 Simone · シモーヌ
+> 「どうやらそのようね。
+>  帝国軍がゲリラ狩りに
+"Có vẻ như vậy. Họ nói Quân đội Đế quốc đang bắt đầu hành động.
+---
+>  本腰を入れ始めたっていうの、
+>  やっぱり本当ね
+Việc bao vây và trấn áp du kích dường như là có thật.
+---
+>  以前だったらここまで追っては
+>  こなかったわ」
+Trước đây họ sẽ không đến đây. "
+
+@17845 Banjo · 万丈
+> 「こうなった以上は
+>  隠れていてもムダだ
+“Sự việc đã đến mức này rồi, trốn tránh cũng chẳng ích gì.
+---
+>  迎撃しよう」
+Hãy đến và tấn công. "
+
+@17846 Manami · マナミ（按段落 3DD4）
+> 「わかったわ。ローレンス!
+"Hiểu rồi. Lawrence!
+---
+>  お茶の片付けなんて
+>  後でいいから、急いで」
+Chúng ta sẽ nói về việc đóng gói bộ ấm trà và các thứ sau, nhanh lên. "
+
+@17847 Lawrence · ローレンス
+> 「はい、ただいま まいります」
+"Ừ, tôi sẽ tới ngay. "
+
+@17848 Banjo · 万丈
+> 「レイカ、外の2人にも
+>  伝えてくれ
+"Lê Hương, ngươi cũng đi thông báo cho hai người bên ngoài.
+---
+>  敵を迎え撃つ」
+Chúng ta phải gặp kẻ thù. "
+
+@17849 Reika · レイカ
+> 「了解」
+"Đã hiểu."
+
+@17850 Koji · 甲児
+> 「さやかさん、聞いたか?
+>  帝国軍がくる
+"Sayaka, cậu có nghe thấy không? Quân đội Đế quốc đang đến.
+---
+>  さやかさんは中へ入っていてくれ」
+Sayaka, vào trong đi. "
+
+@17851 Sayaka · さやか
+> 「いやよ。アフロダイAだって十分
+>  役にたつんだから!」
+“Đừng. Cupid A cũng có thể hữu ích! "
+
+@17852 Koji · 甲児
+> 「勝手にしろ!
+>  助けてなんか、やらないからな」
+"Bất cứ điều gì bạn muốn! Tôi sẽ không cứu bạn. "
+
+@17853 Sayaka · さやか
+> 「結構です! あたしだってカラバの
+>  一員なんですからね!」
+"Ngươi không cần cứu ta! Tôi cũng là thành viên của Calabar! "
+
+@17854 Koji · 甲児
+> 「もう来やがったのか
+“Nó đến quá nhanh.
+---
+>  さぁどっからでも、かかって
+>  こいってんだ!」
+Thôi nào, đến từ bất cứ đâu, tôi sẽ lấy nó! "
+
+@17855 Brad · ブラッド（按段落 3DD3）
+> 「甲児、意気込むのはいいが、
+>  俺たちがいるのも忘れんなよ」
+"Gia nhi, có động lực là chuyện tốt, nhưng đừng quên chúng ta còn ở đây. "
+
+@17856 Manami · マナミ（按段落 3DD4）
+> 「甲児、ひとりで無茶しないで。
+>  みんなで戦うのよ」
+"Gia Nhi, đừng lộn xộn một mình. Chúng tôi muốn mọi người cùng nhau chiến đấu. "
+
+@17857 Dark General · 暗黒大将軍
+> 「でてきおったな、レジスタンスどもめが
+>  まとめて片付けてやるわ!」
+“Cuối cùng thì các bạn cũng đã ra ngoài, những người trong tổ chức kháng chiến, tôi sẽ bắt tất cả các bạn! "
+
+@17858 Dark General · 暗黒大将軍
+> 「うぬぅ、これはいかん! 出直しだ!」
+“Chà, điều đó sẽ không hiệu quả đâu! Tôi sẽ quay lại vào một ngày khác! "
+
+@17859 Dark General · 暗黒大将軍
+> 「おのれ、ぬかったわ。次を見ておれよ!」
+"Chết tiệt, tôi đã bất cẩn. Hãy đợi tôi nhé! "
+
+@17860 Dr. Gura · グラー博士
+> 「暗黒大将軍め、
+>  意外にふがいない……
+"Hắc ám tướng quân, không ngờ hắn lại vô dụng như vậy..."
+---
+>  ゲッター線のロボットは、
+>  ないようだな
+Có vẻ như không có robot Getter Ray nào ở đây.
+---
+>  生意気な人間どもを倒し、
+>  あそこを調べるとするか」
+Trước tiên hãy đánh bại những con người kiêu ngạo này, sau đó đi điều tra ở đó. "
+
+@17861 Dark General · 暗黒大将軍
+> 「ぬう、百鬼一族が何の用で
+>  来おった?」
+“Ồ, Bách Quỷ ở đây có việc gì vậy?”
+
+@17862 Dr. Gura · グラー博士
+> 「なに、同じ帝国に属する者
+>  同士ではないか
+"Ở đâu, không phải tất cả chúng ta đều thuộc cùng một đế chế sao?
+---
+>  レジスタンスどもを排除するのは
+>  我らが帝国から負った
+Tiêu diệt tổ chức kháng chiến là việc đế quốc đã giao phó cho chúng ta.
+---
+>  使命であろう」
+Nhiệm vụ. "
+
+@17863 Dark General · 暗黒大将軍
+> 「何をたくらんでおるのか知らんが、
+>  まぁよい
+“Tôi không biết bạn đang dự định gì, nhưng đừng bận tâm.
+---
+>  だが、俺が要請したのではない
+>  ことだけは、肝に命じておけ」
+Nhưng xin hãy nhớ rõ, tôi không mời bạn đến đây. "
+
+@17864 Dr. Gura · グラー博士
+> 「心得ておる」
+"Tôi hiểu điều đó. "
+
+@17865 Reika · レイカ
+> 「新手が来たわ!
+>  みんな、気をつけて!!」
+"Một kẻ thù khác đang đến! Mọi người hãy cẩn thận! ! "
+
+@17866 Brad · ブラッド（按段落 3DD3）
+> 「新手かっ!?
+>  ふん、いくらでも来るがいい!」
+"Anh lại ở đây à? ? Hừm, bạn muốn bao nhiêu cũng được! "
+
+@17867 Reika · レイカ
+> 「新手が来たわ!
+>  みんな、気をつけて!!」
+"Một kẻ thù khác đang đến! Mọi người hãy cẩn thận! ! "
+
+@17868 Manami · マナミ（按段落 3DD4）
+> 「新手!?
+>  いいわ、いくらでも来なさい!」
+"Lại nữa rồi! ? Được rồi, tôi sẽ đi cùng bạn bao nhiêu tùy ý! "
+
+@17869 Dr. Gura · グラー博士
+> 「くっ、いかん、
+>  これ以上は危険すぎる」
+“Chà, không, tiếp tục như thế này thì quá nguy hiểm. "
+
+@17870 Dr. Gura · グラー博士
+> 「ええい、カラバの施設の調査も
+>  できんとは!」
+“Chết tiệt, tôi thậm chí còn không thể điều tra được các cơ sở ở Calabar! "
+
+@17871 Koji · 甲児
+> 「へへーん、どうだ見たか さやかさん。
+>  ざっとこんなもんだぜ」
+"Này, cậu thế nào rồi? Bạn đã thấy nó, Sayaka. Thật đơn giản. "
+
+@17872 Sayaka · さやか
+> 「あたしの教え方が、よかったのね」
+"Tôi đã dạy cậu rất tốt. "
+
+@17873 Koji · 甲児
+> 「…………」
+“…………”
+
+@17874 Brad · ブラッド（按段落 3DD3）
+> 「よお、どうすんだ?
+>  またすぐ移動するのか?」
+"Này, tôi nên làm gì đây? Bạn có muốn chuyển lại ngay lập tức không? "
+
+@17875 Banjo · 万丈
+> 「いや、もうしばらくここにいる。
+>  敵もすぐにはこないはずだ」
+"Không, ở lại đây một lát. Kẻ thù không nên đến ngay lập tức. "
+
+@17876 Brad · ブラッド（按段落 3DD3）
+> 「わかった、まかせるぜ」
+Được rồi, tùy bạn. "
+
+@17877 Garrison · ギャリソン
+> 「万丈様」
+"Văn Chương đại nhân. "
+
+@17878 Banjo · 万丈
+> 「なんだい?」
+"Có chuyện gì thế?"
+
+@17879 Garrison · ギャリソン
+> 「それが、
+>  地球解放戦線機構の
+“Đúng vậy, tổ chức Mặt trận Giải phóng Trái đất
+---
+>  イゴール将軍よりの電文で
+Tướng Eagle gửi điện tín nói
+---
+>  親書を持ったスタッフを1人
+>  こちらに向かわせたとの事です」
+Một nhân viên đã được gửi đến cho chúng tôi với một lá thư viết tay. "
+
+@17880 Banjo · 万丈
+> 「イゴール将軍が? そうか、
+>  アランのことは知らないのだったな
+“Tướng Đại Bàng? Nhân tiện, anh ấy vẫn chưa biết về Alan.
+---
+>  しかし、この時期に僕たちに
+>  接触してくるとは……
+Tuy nhiên, đây chính là thời điểm để liên hệ với chúng tôi...
+---
+>  で、いつごろここへ来ると?」
+Vậy khi nào anh ấy sẽ đến? "
+
+@17881 Garrison · ギャリソン
+> 「おそらく数日は、かかるものと
+>  思われますが」
+“Tôi e rằng sẽ mất thêm vài ngày nữa. "
+
+@17882 Banjo · 万丈
+> 「数日か。どうせしばらく
+>  留まるつもりだったんだ
+"Sẽ mất bao nhiêu ngày? Dù sao thì chúng tôi cũng đã có kế hoạch ở lại một thời gian,
+---
+>  ちょうどいい。
+>  それまで待つとしようか」
+Vừa phải. Sau đó đợi anh tới. "
+
+@17883 Simone · シモーヌ
+> 「どうするの、万丈。
+>  また移動?」
+"Phải làm sao đây Vạn Chương. Bạn muốn chuyển lại? "
+
+@17884 Banjo · 万丈
+> 「いや、もうしばらくここにいよう
+"Không, ở lại đây một lát.
+---
+>  いま、ギャリソンたちに状況を
+>  確認してもらっている
+Bây giờ Garrison và những người khác đang xác nhận tình hình,
+---
+>  動くのは、それからにしたほうがいい」
+Tốt hơn là đợi cho đến khi nó được xác nhận trước khi hành động. "
+
+@17885 Manami · マナミ（按段落 3DD4）
+> 「そうですわね
+"Đúng vậy.
+---
+>  ロームフェラとスペシャルズのことも
+>  気にかかりますし」
+Vấn đề của Romphela và lực lượng đặc biệt cũng đáng lo ngại. "
+
+@17886 Banjo · 万丈
+> 「そういうことだ」
+"Đó là nó."

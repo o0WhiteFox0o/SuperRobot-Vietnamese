@@ -1,0 +1,119 @@
+# Bản dịch tiếng Việt Super Robot Wars 64
+# Định dạng và vị trí: docs/guide/dialogue-text.md
+
+@7117 Wahl · ワール
+# Kích hoạt: Tấn công (Chung，1/9）
+> 「それ!」
+"Xem động tác!"
+
+@7118 Wahl · ワール
+# Kích hoạt: Tấn công (Chung，2/9）
+> 「どうだ!」
+"Thế nào rồi!"
+
+@7119 Wahl · ワール
+# Kích hoạt: Tấn công (Chung，3/9）
+> 「さあ!」
+"Cố lên!"
+
+@7120 Wahl · ワール
+# Kích hoạt: Tấn công (Chung，4/9）
+> 「やれ!」
+"Lên!"
+
+@7121 Wahl · ワール
+# Kích hoạt: Tấn công (Chung，5/9）
+> 「ようし、撃て!」
+"Được rồi, bắn!"
+
+@7122 Wahl · ワール
+# Kích hoạt: Tấn công (Chung，6/9）
+> 「攻撃開始!」
+"Bắt đầu tấn công!"
+
+@7123 Wahl · ワール
+# Kích hoạt: Tấn công (Chung，7/9）
+> 「やつを集中攻撃だ!」
+"Tập trung vào anh chàng đó!"
+
+@7124 Wahl · ワール
+# Kích hoạt: Tấn công (Chung，8/9）
+> 「一斉射撃!」
+"Cứu!"
+
+@7125 Wahl · ワール
+# Kích hoạt: Tấn công (Chung，9/9）
+> 「ねらい撃て!」
+"Nhắm và đánh!"
+
+@7126 Wahl · ワール
+# Kích hoạt: 被击坠（通用，1/1）
+> 「うお!? わあぁぁぁぁっ!」
+"Uh-ồ!? Waaaaaaaaaaaaaaaa!"
+
+@7127 Wahl · ワール
+# Kích hoạt: 重伤（剩余 HP 不足 30%）（通用，1/3）
+> 「おぉぅっ! や、やつらの力が
+>  これほどとは!?」
+"Ồ! Thế thì những kẻ đó mạnh quá à!?"
+
+@7128 Wahl · ワール
+# Kích hoạt: 重伤（剩余 HP 不足 30%）（通用，2/3）
+> 「ガァァッ!? こんなところで!」
+"Gah!? Tôi sắp ngã xuống đây mất!"
+
+@7129 Wahl · ワール
+# Kích hoạt: 重伤（剩余 HP 不足 30%）（通用，3/3）
+> 「こ、これでは私まで死んでしまうっ!」
+"Cái này, cái này cũng sẽ giết chết ta!"
+
+@7130 Wahl · ワール
+# Kích hoạt: 中伤（剩余 HP 30–90%）（通用，1/3）
+> 「うぉっ、お、おのれ!」
+"Ồ, ồ, chết tiệt!"
+
+@7131 Wahl · ワール
+# Kích hoạt: 中伤（剩余 HP 30–90%）（通用，2/3）
+> 「くっ、こんなばかな!?」
+"Ừm, sao có thể như vậy được!?"
+
+@7132 Wahl · ワール
+# Kích hoạt: 中伤（剩余 HP 30–90%）（通用，3/3）
+> 「こ、これでは……!」
+"Cái này, nếu chuyện này tiếp tục...!"
+
+@7133 Wahl · ワール
+# Kích hoạt: 轻伤（剩余 HP 90% 以上）（通用，1/2）
+> 「うっ、だがかまわん!」
+"Ừm, nhưng sao cũng được!"
+
+@7134 Wahl · ワール
+# Kích hoạt: 轻伤（剩余 HP 90% 以上）（通用，2/2）
+> 「そんな攻撃でやられはせん」
+"Cuộc tấn công này không thể làm tổn thương tôi"
+
+@7135 Wahl · ワール
+# Kích hoạt: Né tránh（通用，1/2）
+> 「はずれたか」
+“Anh có bắn trượt mục tiêu không?”
+
+@7136 Wahl · ワール
+# Kích hoạt: Né tránh（通用，2/2）
+> 「あたらなかったようだな」
+"Có vẻ như tôi đã bỏ lỡ nó."
+
+@7137 Wahl · ワール
+# Kích hoạt: Tấn công无效（护罩／装甲）（通用，1/1）
+> 「そんな攻撃でやられはせん」
+"Cuộc tấn công này không thể làm tổn thương tôi"
+
+@7138 Wahl · ワール
+# Kích hoạt: 弹药／EN 不足，无法反击（通用，1/1）
+> 「エネルギー切れだと!? ええぃ何を
+>  やっている!」
+"Năng lượng cạn kiệt!? Chết tiệt, bạn đang làm gì vậy!"
+
+@7139 Wahl · ワール
+# Kích hoạt: 射程外，无法反击（通用，1/1）
+> 「なに、届かないだと!?」
+"Cái gì, không thể với tới nó!?"

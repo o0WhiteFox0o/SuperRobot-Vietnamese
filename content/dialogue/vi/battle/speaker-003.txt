@@ -1,0 +1,264 @@
+# Bản dịch tiếng Việt Super Robot Wars 64
+# Định dạng và vị trí: docs/guide/dialogue-text.md
+
+@12772 Schwarz · シュバルツ
+# Kích hoạt: Tấn công (Chung，1/14）
+> 「どうした! どうした! どうしたっ!」
+"Sao thế! Sao thế! Sao vậy!"
+
+@12773 Schwarz · シュバルツ
+# Kích hoạt: Tấn công (Chung，2/14）
+> 「ここらで引導を渡してくれるわ!!」
+“Tôi sẽ đưa cậu lên đường ngay đây!!”
+
+@12774 Schwarz · シュバルツ
+# Kích hoạt: Tấn công (Chung，3/14）
+> 「はああああっ!!」
+"Haaaaaaaaaaaaa!!"
+
+@12775 Schwarz · シュバルツ
+# Kích hoạt: Tấn công (Chung，4/14）
+> 「いくぞっ!! うりゃぁぁぁぁぁぁっ!!」
+"Hiểu rồi!! Nàyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyy!!"
+
+@12776 Schwarz · シュバルツ
+# Kích hoạt: Tấn công (Chung，5/14）
+> 「とりゃぁぁぁっ!!」
+"Này a a a!!"
+
+@12777 Schwarz · シュバルツ
+# Kích hoạt: Tấn công (Chung，6/14）
+> 「そこだっ!!」
+“Chính là nó!!”
+
+@12778 Schwarz · シュバルツ
+# Kích hoạt: Tấn công (Chung，7/14）
+> 「これまでだっ!!」
+“Chính là nó!!”
+
+@12779 Schwarz · シュバルツ
+# Kích hoạt: Tấn công (Chung，8/14）
+> 「おららららららっ!!」
+“Ồ la la la la!!”
+
+@12780 Schwarz · シュバルツ
+# Kích hoạt: Tấn công (Chung，9/14）
+> 「それ! それ! それ! それっ!!」
+"Cẩn thận di chuyển! Cẩn thận di chuyển! Cẩn thận di chuyển! Cẩn thận di chuyển!!"
+
+@12781 Schwarz · シュバルツ
+# Kích hoạt: Tấn công (Chung，10/14）
+> 「バカ者ぉぉぉっ!!」
+"Đồ ngốc ahhhh!!"
+
+@12782 Schwarz · シュバルツ
+# Kích hoạt: Tấn công (Chung，11/14）
+> 「貴様の思う様にはさせんぞ!!」
+"Tôi không muốn bạn thành công!!"
+
+@12783 Schwarz · シュバルツ
+# Kích hoạt: Tấn công (Chung，12/14）
+> 「愚か者!!」
+"Người ngu ngốc!!"
+
+@12784 Schwarz · シュバルツ
+# Kích hoạt: Tấn công (Chung，13/14）
+> 「バカ者っ!!」
+"Đồ ngốc!!"
+
+@12785 Schwarz · シュバルツ
+# Kích hoạt: Tấn công (Chung，14/14）
+> 「くらえっ!」
+"Hãy di chuyển!"
+
+@12786 Schwarz · シュバルツ
+# Kích hoạt: 被击坠（通用，1/5）
+> 「あまかったか……!?」
+"Tôi có quá ngây thơ không...!?"
+
+@12787 Schwarz · シュバルツ
+# Kích hoạt: 被击坠（通用，2/5）
+> 「し、しまったっ!!」
+"Ối, ôi!!"
+
+@12788 Schwarz · シュバルツ
+# Kích hoạt: 被击坠（通用，3/5）
+> 「くっ! しまったっ!!」
+"Ugh! Rất tiếc!!"
+
+@12789 Schwarz · シュバルツ
+# Kích hoạt: 被击坠（通用，4/5）
+> 「くっ! ぬかった!」
+"Ugh! Tôi đã bất cẩn!"
+
+@12790 Schwarz · シュバルツ
+# Kích hoạt: 被击坠（通用，5/5）
+> 「むうっ! 私も修行が足りんな」
+"Hừm! Có vẻ như tôi vẫn chưa luyện tập đủ."
+
+@12791 Schwarz · シュバルツ
+# Kích hoạt: 重伤（剩余 HP 不足 30%）（通用，1/5）
+> 「バカな?」
+"Làm sao có thể?"
+
+@12792 Schwarz · シュバルツ
+# Kích hoạt: 重伤（剩余 HP 不足 30%）（通用，2/5）
+> 「くくっ……! この凄まじいパワー、
+>  ただ者ではないな!?」
+"Haha...! Sức mạnh kinh khủng như vậy, tên này không đơn giản chút nào!?"
+
+@12793 Schwarz · シュバルツ
+# Kích hoạt: 重伤（剩余 HP 不足 30%）（通用，3/5）
+> 「くっ!
+>  だが、この程度ならまだいける!!」
+"Hmm! Nhưng, tôi vẫn có thể giữ được mức độ này!!"
+
+@12794 Schwarz · シュバルツ
+# Kích hoạt: 重伤（剩余 HP 不足 30%）（通用，4/5）
+> 「むうっ! やる!」
+"Ừm! Phải mất một lúc!"
+
+@12795 Schwarz · シュバルツ
+# Kích hoạt: 重伤（剩余 HP 不足 30%）（通用，5/5）
+> 「つっ! このままでは機体がもたんか!」
+"Ugh! Nếu cứ tiếp tục như thế này thì cái máy sẽ không thể trụ được nữa!"
+
+@12796 Schwarz · シュバルツ
+# Kích hoạt: 中伤（剩余 HP 30–90%）（通用，1/10）
+> 「その程度では私は、やられん!!」
+"Bạn không thể đánh bại tôi ở cấp độ này!!"
+
+@12797 Schwarz · シュバルツ
+# Kích hoạt: 中伤（剩余 HP 30–90%）（通用，2/10）
+> 「くっ! くらったか!?」
+"Hmm! Bạn có bị đánh không!?"
+
+@12798 Schwarz · シュバルツ
+# Kích hoạt: 中伤（剩余 HP 30–90%）（通用，3/10）
+> 「くっ! まだだ! まだやられはせん!!」
+"Chà! Vẫn chưa kết thúc! Tôi sẽ không ngã đâu!!"
+
+@12799 Schwarz · シュバルツ
+# Kích hoạt: 中伤（剩余 HP 30–90%）（通用，4/10）
+> 「くっ! ま、まだいける!」
+"Chà! Tôi vẫn có thể giữ được!"
+
+@12800 Schwarz · シュバルツ
+# Kích hoạt: 中伤（剩余 HP 30–90%）（通用，5/10）
+> 「このくらい!」
+"Vết thương nhỏ này không là gì cả!"
+
+@12801 Schwarz · シュバルツ
+# Kích hoạt: 中伤（剩余 HP 30–90%）（通用，6/10）
+> 「いい腕だ! だが、ツメがあまいぞっ!!」
+"Kỹ năng tốt! Tuy nhiên, khâu hoàn thiện vẫn còn hơi thiếu sót!!"
+
+@12802 Schwarz · シュバルツ
+# Kích hoạt: 中伤（剩余 HP 30–90%）（通用，7/10）
+> 「むっ! 少しは出来るな!」
+"Hmm! Anh ấy khá có năng lực!"
+
+@12803 Schwarz · シュバルツ
+# Kích hoạt: 中伤（剩余 HP 30–90%）（通用，8/10）
+> 「よくぞ、この私に当てた!」
+"Thật tốt vì đã đánh tôi!"
+
+@12804 Schwarz · シュバルツ
+# Kích hoạt: 中伤（剩余 HP 30–90%）（通用，9/10）
+> 「うっ!! 当たったか……」
+"Hmm!! Bạn bị lừa à..."
+
+@12805 Schwarz · シュバルツ
+# Kích hoạt: 中伤（剩余 HP 30–90%）（通用，10/10）
+> 「ぬっ! だが、まだ落ちはせんぞ!」
+"Hmm! Nhưng tôi vẫn chưa ngã đâu!"
+
+@12806 Schwarz · シュバルツ
+# Kích hoạt: 轻伤（剩余 HP 90% 以上）（通用，1/7）
+> 「なんのっ!!」
+"Cái gì thế này!!"
+
+@12807 Schwarz · シュバルツ
+# Kích hoạt: 轻伤（剩余 HP 90% 以上）（通用，2/7）
+> 「その程度では私は、倒せんぞ!!」
+"Bạn không thể đánh bại tôi ở cấp độ này!!"
+
+@12808 Schwarz · シュバルツ
+# Kích hoạt: 轻伤（剩余 HP 90% 以上）（通用，3/7）
+> 「ムダだっ!!」
+"Thật vô dụng!!"
+
+@12809 Schwarz · シュバルツ
+# Kích hoạt: 轻伤（剩余 HP 90% 以上）（通用，4/7）
+> 「どうした、そんなものか!」
+“Sao vậy, đó là tất cả những gì cậu có à?”
+
+@12810 Schwarz · シュバルツ
+# Kích hoạt: 轻伤（剩余 HP 90% 以上）（通用，5/7）
+> 「その程度とはな!」
+"Vậy đó là tất cả những gì bạn có thể làm!"
+
+@12811 Schwarz · シュバルツ
+# Kích hoạt: 轻伤（剩余 HP 90% 以上）（通用，6/7）
+> 「笑止っ!」
+"Nực cười!"
+
+@12812 Schwarz · シュバルツ
+# Kích hoạt: 轻伤（剩余 HP 90% 以上）（通用，7/7）
+> 「本気で来いっ!!」
+"Hãy thể hiện kỹ năng thực sự của bạn!!"
+
+@12813 Schwarz · シュバルツ
+# Kích hoạt: Né tránh（通用，1/5）
+> 「あまいぞっ!!」
+"Thật ngây thơ!!"
+
+@12814 Schwarz · シュバルツ
+# Kích hoạt: Né tránh（通用，2/5）
+> 「あまいなっ!私はここだっ!!」
+"Thật ngây thơ! Tôi ở đây!!"
+
+@12815 Schwarz · シュバルツ
+# Kích hoạt: Né tránh（通用，3/5）
+> 「あきらめが悪いぞ!」
+"Ngươi thật sự không muốn từ bỏ!"
+
+@12816 Schwarz · シュバルツ
+# Kích hoạt: Né tránh（通用，4/5）
+> 「未熟、未熟ゥゥゥゥッ!!」
+"Quá mềm, quá mềm--!!"
+
+@12817 Schwarz · シュバルツ
+# Kích hoạt: Né tránh（通用，5/5）
+> 「あまい、あまいぞっ!!」
+"Ngây thơ quá, ngây thơ quá!!"
+
+@12818 Schwarz · シュバルツ
+# Kích hoạt: Tấn công无效（护罩／装甲）（通用，1/2）
+> 「ビームは、効きはせん!」
+"Dầm không có tác dụng với tôi!"
+
+@12819 Schwarz · シュバルツ
+# Kích hoạt: Tấn công无效（护罩／装甲）（通用，2/2）
+> 「無駄無駄無駄ぁぁぁぁっ!!」
+"Vô dụng, vô dụng, vô dụng!!"
+
+@12820 Schwarz · シュバルツ
+# Kích hoạt: 弹药／EN 不足，无法反击（通用，1/2）
+> 「くっ、だめか!?」
+"Chà, không thể được nữa à!?"
+
+@12821 Schwarz · シュバルツ
+# Kích hoạt: 弹药／EN 不足，无法反击（通用，2/2）
+> 「不覚……」
+"Lạc đường..."
+
+@12822 Schwarz · シュバルツ
+# Kích hoạt: 射程外，无法反击（通用，1/1）
+> 「むっ!届かん!」
+"Ugh! Tôi không thể với tới nó!"
+
+@17197 Schwarz · シュバルツ
+# Kích hoạt: 使用〈シュツルムウントドランク〉
+> 「シュトゥルム! ウント! ドランクゥッ!」
+"Bão tố! Và! Thầy say rượu!"

@@ -1,0 +1,287 @@
+# Bản dịch tiếng Việt Super Robot Wars 64
+# Định dạng và vị trí: docs/guide/dialogue-text.md
+
+@12706 Allenby · アレンビー
+# Kích hoạt: Tấn công (Chung，1/7）
+> 「そこっ!」
+"Xem động tác!"
+
+@12707 Allenby · アレンビー
+# Kích hoạt: Tấn công (Chung，2/7）
+> 「そこだっ!!」
+“Chính là nó!!”
+
+@12708 Allenby · アレンビー
+# Kích hoạt: Tấn công (Chung，3/7）
+> 「いくよっ!!」
+"Nào!!"
+
+@12709 Allenby · アレンビー
+# Kích hoạt: Tấn công (Chung，4/7）
+> 「はああああっ!!」
+"Haaaaaaaaaaaaa!!"
+
+@12710 Allenby · アレンビー
+# Kích hoạt: Tấn công (Chung，5/7）
+> 「はぁぁぁっ……はっ!!」
+"Haaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaa!!"
+
+@12711 Allenby · アレンビー
+# Kích hoạt: Tấn công (Chung，6/7）
+> 「でぇぇぇやぁぁぁぁっ!!」
+"Này a a a a!!"
+
+@12712 Allenby · アレンビー
+# Kích hoạt: Tấn công (Chung，7/7）
+> 「えいっ!」
+"Này!"
+
+@12713 Allenby · アレンビー
+# Kích hoạt: 被击坠（通用，1/2）
+> 「くうっ!! ド、ドモン!!」
+"Ugh!! Do-Domon!!"
+
+@12714 Allenby · アレンビー
+# Kích hoạt: 被击坠（通用，2/2）
+> 「きゃあああああっ!!」
+"Ahhhhhhhhh!!"
+
+@12715 Allenby · アレンビー
+# Kích hoạt: 重伤（剩余 HP 不足 30%）（通用，1/7）
+> 「だ、ダメ、もうもたないっ!!」
+"Không, không, tôi không thể chịu đựng được nữa!!"
+
+@12716 Allenby · アレンビー
+# Kích hoạt: 重伤（剩余 HP 不足 30%）（通用，2/7）
+> 「うあっ!! や、やっばいなあ……」
+"Ugh!! Ối, ôi..."
+
+@12717 Allenby · アレンビー
+# Kích hoạt: 重伤（剩余 HP 不足 30%）（通用，3/7）
+> 「くうっ! ピ、ピンチ!!」
+"Ừm! Không, không ổn!!"
+
+@12718 Allenby · アレンビー
+# Kích hoạt: 重伤（剩余 HP 不足 30%）（通用，4/7）
+> 「きゃあっ! 何、これ!? 強いっ!!」
+"A! Cái, cái gì thế này!? Mạnh quá!!"
+
+@12719 Allenby · アレンビー
+# Kích hoạt: 重伤（剩余 HP 不足 30%）（通用，5/7）
+> 「うわぁっ!!」
+"Ồ!!"
+
+@12720 Allenby · アレンビー
+# Kích hoạt: 重伤（剩余 HP 不足 30%）（通用，6/7）
+> 「やめてぇぇぇっ!!」
+"Dừng lại đi!!"
+
+@12721 Allenby · アレンビー
+# Kích hoạt: 重伤（剩余 HP 不足 30%）（通用，7/7）
+> 「くっ! や、やばぁ!」
+"Ugh! Rất tiếc! Rất tiếc!"
+
+@12722 Allenby · アレンビー
+# Kích hoạt: 中伤（剩余 HP 30–90%）（通用，1/8）
+> 「あいたたた……やったねぇ!!」
+"Đau quá...làm tốt lắm!!"
+
+@12723 Allenby · アレンビー
+# Kích hoạt: 中伤（剩余 HP 30–90%）（通用，2/8）
+> 「こ、この程度でっ!!」
+"Cái này, cấp độ này không là gì cả!!"
+
+@12724 Allenby · アレンビー
+# Kích hoạt: 中伤（剩余 HP 30–90%）（通用，3/8）
+> 「やるじゃない! 楽しくなってきた!」
+"Đã lâu rồi! Càng ngày càng thú vị!"
+
+@12725 Allenby · アレンビー
+# Kích hoạt: 中伤（剩余 HP 30–90%）（通用，4/8）
+> 「あいったぁ～……さすがだね!」
+"Đau quá~...nó thực sự rất mạnh!"
+
+@12726 Allenby · アレンビー
+# Kích hoạt: 中伤（剩余 HP 30–90%）（通用，5/8）
+> 「あうっ!
+>  い、いい攻撃だよ! さすがだね!」
+"A! Cái này, đòn tấn công này không tệ! Nó thực sự mạnh mẽ!"
+
+@12727 Allenby · アレンビー
+# Kích hoạt: 中伤（剩余 HP 30–90%）（通用，6/8）
+> 「うわぁぁぁぁっ!!」
+"Aaaaaaaaaaaaa!!"
+
+@12728 Allenby · アレンビー
+# Kích hoạt: 中伤（剩余 HP 30–90%）（通用，7/8）
+> 「ちっ! こんなのってあり!?」
+"Chậc! Thế này được không!?"
+
+@12729 Allenby · アレンビー
+# Kích hoạt: 中伤（剩余 HP 30–90%）（通用，8/8）
+> 「くっ!」
+"Hừm! "
+
+@12730 Allenby · アレンビー
+# Kích hoạt: 轻伤（剩余 HP 90% 以上）（通用，1/6）
+> 「やだ、当たっちゃった!?」
+"Ghét, bị đánh!?"
+
+@12731 Allenby · アレンビー
+# Kích hoạt: 轻伤（剩余 HP 90% 以上）（通用，2/6）
+> 「なに、その攻撃。
+>  全然効いてないよ」
+"Cái gì, kiểu tấn công này à? Nó không đau chút nào cả."
+
+@12732 Allenby · アレンビー
+# Kích hoạt: 轻伤（剩余 HP 90% 以上）（通用，3/6）
+> 「ちょっと、本気でやってる!?」
+"Này, bạn có thực sự nghiêm túc về việc chiến đấu không!?"
+
+@12733 Allenby · アレンビー
+# Kích hoạt: 轻伤（剩余 HP 90% 以上）（通用，4/6）
+> 「うそっ!?」
+"Không thể nào!?"
+
+@12734 Allenby · アレンビー
+# Kích hoạt: 轻伤（剩余 HP 90% 以上）（通用，5/6）
+> 「まだいける!」
+"Còn có thể chiến đấu!"
+
+@12735 Allenby · アレンビー
+# Kích hoạt: 轻伤（剩余 HP 90% 以上）（通用，6/6）
+> 「効かないよ!」
+"Thật vô ích!"
+
+@12736 Allenby · アレンビー
+# Kích hoạt: Né tránh（通用，1/7）
+> 「なんのっ!!」
+"Cái gì thế này!!"
+
+@12737 Allenby · アレンビー
+# Kích hoạt: Né tránh（通用，2/7）
+> 「見切った!」
+"Xem qua đi!"
+
+@12738 Allenby · アレンビー
+# Kích hoạt: Né tránh（通用，3/7）
+> 「当たるもんか!!」
+"Sao có thể đánh trúng được!!"
+
+@12739 Allenby · アレンビー
+# Kích hoạt: Né tránh（通用，4/7）
+> 「ほらほら、どうしたの!?」
+"Thôi nào, thôi nào, có chuyện gì thế!?"
+
+@12740 Allenby · アレンビー
+# Kích hoạt: Né tránh（通用，5/7）
+> 「へへ、どんなもんよ!」
+"Này, mọi chuyện thế nào rồi?"
+
+@12741 Allenby · アレンビー
+# Kích hoạt: Né tránh（通用，6/7）
+> 「おそいよ!」
+"Quá chậm!"
+
+@12742 Allenby · アレンビー
+# Kích hoạt: Né tránh（通用，7/7）
+> 「あまい!」
+"Thật ngây thơ!"
+
+@12743 Allenby · アレンビー
+# Kích hoạt: Tấn công无效（护罩／装甲）（通用，1/2）
+> 「そんなビームじゃ、傷ひとつつかないよ!」
+“Loại chùm tia đó thậm chí không thể để lại một vết thương nào!”
+
+@12744 Allenby · アレンビー
+# Kích hoạt: Tấn công无效（护罩／装甲）（通用，2/2）
+> 「全然効かないよ!」
+"Nó hoàn toàn vô dụng!"
+
+@12745 Allenby · アレンビー
+# Kích hoạt: 弹药／EN 不足，无法反击（通用，1/3）
+> 「ウソっ!? 弾切れぇ!?」
+"Không thể nào!? Không có đạn!?"
+
+@12746 Allenby · アレンビー
+# Kích hoạt: 弹药／EN 不足，无法反击（通用，2/3）
+> 「ダメ! 弾切れ?」
+"Không! Không còn đạn nữa à?"
+
+@12747 Allenby · アレンビー
+# Kích hoạt: 弹药／EN 不足，无法反击（通用，3/3）
+> 「ダメ! エネルギーがなくなっちゃた!」
+"Không! Năng lượng đã biến mất!"
+
+@12748 Allenby · アレンビー
+# Kích hoạt: 射程外，无法反击（通用，1/2）
+> 「やだ、届かないじゃん!!」
+"Thật khó chịu, nó ngoài tầm với!!"
+
+@12749 Allenby · アレンビー
+# Kích hoạt: 射程外，无法反击（通用，2/2）
+> 「遠くて攻撃できない!」
+"Quá xa để đánh trúng!"
+
+@17185 Allenby · アレンビー
+# Kích hoạt: 使用〈バーサーカーフープ〉（低优先，可能被通用台词顶掉）
+> 「ノーベェェルフラフゥゥゥプ!!」
+"Vòng Hula Nobel-!!"
+
+@17186 Allenby · アレンビー
+# Kích hoạt: 使用〈バーサーカーフープ〉（低优先，可能被通用台词顶掉）
+> 「ノーベルフラフゥゥゥプ!!」
+"Vòng Hula Nobel-!!"
+
+@17187 Domon · ドモン
+# Kích hoạt: 使用〈ダブルゴッドフィンガー〉（对话第 1/10 句）
+> 「アレンビーッ!」
+“Alembi! "
+
+@17188 Allenby · アレンビー
+# Kích hoạt: 使用〈ダブルゴッドフィンガー〉（对话第 2/10 句）
+> 「いくよぉ、ドモンッ!」
+"Nào, Domon!"
+
+@17189 Domon · ドモン
+# Kích hoạt: 使用〈ダブルゴッドフィンガー〉（对话第 3/10 句）
+> 「ああ、決めにするぞ!」
+"Được rồi, một chiêu sẽ quyết định kết quả!"
+
+@17190 Domon · ドモン
+# Kích hoạt: 使用〈ダブルゴッドフィンガー〉（对话第 4/10 句）
+> 「俺のこの手が真っ赤に燃えるッ!」
+"Tay tôi đang đỏ bừng!"
+
+@17191 Allenby · アレンビー
+# Kích hoạt: 使用〈ダブルゴッドフィンガー〉（对话第 5/10 句）
+> 「勝利をつかめと!」
+"Nắm chắc chiến thắng!"
+
+@17192 Domon · ドモン
+# Kích hoạt: 使用〈ダブルゴッドフィンガー〉（对话第 6/10 句）
+> 「轟き叫ぶ!」
+"Nó gầm to quá!"
+---
+> 「ばぁぁぁくねつ!」
+"Nóng quá!"
+
+@17193 Allenby · アレンビー
+# Kích hoạt: 使用〈ダブルゴッドフィンガー〉（对话第 7/10 句）
+> 「ダブルッ!」
+"Gấp đôi!"
+
+@17194 Domon · ドモン
+# Kích hoạt: 使用〈ダブルゴッドフィンガー〉（对话第 8/10 句）
+> 「ゴッド・フィンガァァァーッ!!」
+“Ngón tay của Chúa——!!”
+
+@17195 Domon · ドモン
+# Kích hoạt: 使用〈ダブルゴッドフィンガー〉（对话第 9/10 句）
+> 「ヒィィィィトッ!」
+"Máu nóng!"
+
+@17196 Allenby · アレンビー
+# Kích hoạt: 使用〈ダブルゴッドフィンガー〉（对话第 10/10 句）
+> 「エンドォォッ!」
+"Kết thúc!"

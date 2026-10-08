@@ -1,0 +1,166 @@
+# Bản dịch tiếng Việt Super Robot Wars 64
+# Định dạng và vị trí: docs/guide/dialogue-text.md
+
+@7331 Ivan · イワン
+# Kích hoạt: Tấn công (Chung，1/12）
+> 「貴様らがどんな小細工をしようと
+>  我々の敵ではない」
+"Cho dù ngươi có giở trò gì đi nữa, ngươi cũng không phải đối thủ của chúng ta."
+
+@7332 Ivan · イワン
+# Kích hoạt: Tấn công (Chung，2/12）
+> 「さぁ死んでもらおうか」
+“Vậy thì xin hãy chết đi.”
+
+@7333 Ivan · イワン
+# Kích hoạt: Tấn công (Chung，3/12）
+> 「そこまでにしていただきたいですな」
+"Xin hãy dừng lại ở đây."
+
+@7334 Ivan · イワン
+# Kích hoạt: Tấn công (Chung，4/12）
+> 「ふふふふっ、アーッハッハッハッ」
+"Hehehehe, à-hahahaha"
+
+@7335 Ivan · イワン
+# Kích hoạt: Tấn công (Chung，5/12）
+> 「ははははっ、今日こそBF団の
+>  勝利だ」
+"Hahahaha, hôm nay nhất định sẽ là chiến thắng của đội BF"
+
+@7336 Ivan · イワン
+# Kích hoạt: Tấn công (Chung，6/12）
+> 「いくぞぉっ!」
+"Lên!"
+
+@7337 Ivan · イワン
+# Kích hoạt: Tấn công (Chung，7/12）
+> 「ほらほらお前もだよ!」
+"Này, còn có cậu nữa!"
+
+@7338 Ivan · イワン
+# Kích hoạt: Tấn công (Chung，8/12）
+> 「さぁ急がせてもらうぞ」
+"Vậy thì xin lỗi, tôi phải đưa ra quyết định nhanh chóng."
+
+@7339 Ivan · イワン
+# Kích hoạt: Tấn công (Chung，9/12）
+> 「つぶせ、ウラエヌス!」
+"Đè bẹp nó đi, Ouranos!"
+
+@7340 Ivan · イワン
+# Kích hoạt: Tấn công (Chung，10/12）
+> 「やれっ、ウラエヌス!」
+"Giết nó đi, Ouranos!"
+
+@7341 Ivan · イワン
+# Kích hoạt: Tấn công (Chung，11/12）
+> 「いけ、ウラエヌス!」
+"Đi nào, Ouranos!"
+
+@7342 Ivan · イワン
+# Kích hoạt: Tấn công (Chung，12/12）
+> 「ウラエヌスゥ!」
+"Sao Thiên Vương!"
+
+@7344 Ivan · イワン
+# Kích hoạt: 被击坠（通用，1/1）
+> 「ビッグファイアーのために! 後は
+>  頼みます!」
+"Vì LỬA LỚN! Hãy theo tôi sau!"
+
+@7345 Ivan · イワン
+# Kích hoạt: 重伤（剩余 HP 不足 30%）（通用，1/4）
+> 「ああっ、私のウラエヌスが!?」
+"À, Ouranos của tôi!?"
+
+@7346 Ivan · イワン
+# Kích hoạt: 重伤（剩余 HP 不足 30%）（通用，2/4）
+> 「があぁぁぁぁっ!」
+"Gahhhhhh!"
+
+@7347 Ivan · イワン
+# Kích hoạt: 重伤（剩余 HP 不足 30%）（通用，3/4）
+> 「うぅっなぜだ!? なぜだっ!?」
+"Ugh, tại sao!? Tại sao!?"
+
+@7348 Ivan · イワン
+# Kích hoạt: 重伤（剩余 HP 不足 30%）（通用，4/4）
+> 「しまったぁっ!」
+"Ối!"
+
+@7349 Ivan · イワン
+# Kích hoạt: 中伤（剩余 HP 30–90%）（通用，1/5）
+> 「なめてくれたな、だがそこまでだ」
+"Sao ngươi dám đánh giá thấp ta, nhưng tạm thời chỉ thế thôi"
+
+@7350 Ivan · イワン
+# Kích hoạt: 中伤（剩余 HP 30–90%）（通用，2/5）
+> 「ぐぅっ、なんというパワーだ」
+"Ồ, thật là một thế lực mạnh mẽ."
+
+@7351 Ivan · イワン
+# Kích hoạt: 中伤（剩余 HP 30–90%）（通用，3/5）
+> 「よけいなことをしてくれた」
+"Anh thật là tọc mạch"
+
+@7352 Ivan · イワン
+# Kích hoạt: 中伤（剩余 HP 30–90%）（通用，4/5）
+> 「どうした、ウラエヌス!?」
+“Có chuyện gì thế, Ouranos!?”
+
+@7353 Ivan · イワン
+# Kích hoạt: 中伤（剩余 HP 30–90%）（通用，5/5）
+> 「うわぁっ!?」
+"Ồ!?"
+
+@7354 Ivan · イワン
+# Kích hoạt: 轻伤（剩余 HP 90% 以上）（通用，1/3）
+> 「カカカカカカッ!」
+"Crack, click, click, click!"
+
+@7355 Ivan · イワン
+# Kích hoạt: 轻伤（剩余 HP 90% 以上）（通用，2/3）
+> 「このウラエヌスをなめてもらっては」
+"Đừng đánh giá thấp sao Thiên Vương này."
+
+@7356 Ivan · イワン
+# Kích hoạt: 轻伤（剩余 HP 90% 以上）（通用，3/3）
+> 「うっ!?」
+"Ờ!?"
+
+@7357 Ivan · イワン
+# Kích hoạt: Né tránh（通用，1/2）
+> 「かわせっ! ウラエヌスッ!」
+"Tránh xa! Ouranos!"
+
+@7358 Ivan · イワン
+# Kích hoạt: Né tránh（通用，2/2）
+> 「ははははっ、あたりはせんよ」
+"Ha ha ha, đánh không được."
+
+@7359 Ivan · イワン
+# Kích hoạt: Tấn công无效（护罩／装甲）（通用，1/2）
+> 「そう簡単にこの特殊バリアは
+>  やぶられはせんよ」
+"Cái khiên đặc biệt này không dễ bị phá vỡ như vậy."
+
+@7360 Ivan · イワン
+# Kích hoạt: Tấn công无效（护罩／装甲）（通用，2/2）
+> 「まぁせいぜい頑張りたまえ」
+"Cứ cố gắng hết sức để chiến đấu."
+
+@7361 Ivan · イワン
+# Kích hoạt: 弹药／EN 不足，无法反击（通用，1/1）
+> 「なんだと!? 弾切れだというのか」
+"Cái gì!? Bạn hết đạn rồi à?"
+
+@7362 Ivan · イワン
+# Kích hoạt: 射程外，无法反击（通用，1/2）
+> 「くっ、とどかないというのか!?」
+"Chà, không thể liên lạc được!?"
+
+@7363 Ivan · イワン
+# Kích hoạt: 射程外，无法反击（通用，2/2）
+> 「や、やつらは!?」
+“Vậy, những kẻ đó đi đâu rồi!?”

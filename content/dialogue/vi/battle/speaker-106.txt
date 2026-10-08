@@ -1,0 +1,91 @@
+# Bản dịch tiếng Việt Super Robot Wars 64
+# Định dạng và vị trí: docs/guide/dialogue-text.md
+
+@6906 Walker · ワーカー
+# Kích hoạt: Tấn công (Chung，1/5）
+> 「いくぞ!」
+"Nào!"
+
+@6907 Walker · ワーカー
+# Kích hoạt: Tấn công (Chung，2/5）
+> 「ただちに攻撃にでる!」
+"Tấn công ngay lập tức!"
+
+@6908 Walker · ワーカー
+# Kích hoạt: Tấn công (Chung，3/5）
+> 「動きが速いが……かまわん!」
+"Nó nhanh...nhưng không thành vấn đề!"
+
+@6909 Walker · ワーカー
+# Kích hoạt: Tấn công (Chung，4/5）
+> 「ここでミスをおかすわけには!」
+"Chúng ta không thể phạm sai lầm ở đây!"
+
+@6910 Walker · ワーカー
+# Kích hoạt: Tấn công (Chung，5/5）
+> 「こい!」
+"Cố lên!"
+
+@6911 Walker · ワーカー
+# Kích hoạt: 被击坠（通用，1/2）
+> 「うおおぉぉぉっ!?」
+"Uuuuuuuuuuuuuuuuuuuuu!?"
+
+@6912 Walker · ワーカー
+# Kích hoạt: 被击坠（通用，2/2）
+> 「くっ……だがデータは取ることが
+>  できたか……」
+"Hmm...nhưng dữ liệu lẽ ra đã được thu thập rồi..."
+
+@6913 Walker · ワーカー
+# Kích hoạt: 重伤（剩余 HP 不足 30%）（通用，1/2）
+> 「ぐ、この武器の力も見て
+>  おきたかった……」
+“Ừ, ban đầu tôi muốn xem sức mạnh của vũ khí này…”
+
+@6914 Walker · ワーカー
+# Kích hoạt: 重伤（剩余 HP 不足 30%）（通用，2/2）
+> 「おおぉぉぉぉぉーっ!」
+"Ồhhhhhh!"
+
+@6915 Walker · ワーカー
+# Kích hoạt: 中伤（剩余 HP 30–90%）（通用，1/2）
+> 「ぐぅ、記録班! データは取って
+>  いるか!?」
+"Hmm, đội ghi âm! Các bạn đã ghi lại hết dữ liệu chưa!?"
+
+@6916 Walker · ワーカー
+# Kích hoạt: 中伤（剩余 HP 30–90%）（通用，2/2）
+> 「さ、さすがに……」
+"Cái này, cái này có chút..."
+
+@6917 Walker · ワーカー
+# Kích hoạt: 轻伤（剩余 HP 90% 以上）（通用，1/2）
+> 「本当にこの程度なら楽だが……」
+"Nếu ngươi thực sự chỉ có năng lực này thì sẽ dễ dàng..."
+
+@6918 Walker · ワーカー
+# Kích hoạt: 轻伤（剩余 HP 90% 以上）（通用，2/2）
+> 「おかしい、こんなものではないはずだ……」
+“Thật kỳ lạ, đây không phải là khả năng duy nhất…”
+
+@6919 Walker · ワーカー
+# Kích hoạt: Né tránh（通用，1/1）
+> 「か、かわせたのか!?」
+"Trốn, cậu trốn à!?"
+
+@6920 Walker · ワーカー
+# Kích hoạt: Tấn công无效（护罩／装甲）（通用，1/1）
+> 「か、かわせたのか!?」
+"Trốn, cậu trốn à!?"
+
+@6921 Walker · ワーカー
+# Kích hoạt: 弹药／EN 不足，无法反击（通用，1/1）
+> 「くっ、こんなときに弾切れとは!」
+"Ồ, lúc này tôi hết đạn rồi!"
+
+@6922 Walker · ワーカー
+# Kích hoạt: 射程外，无法反击（通用，1/1）
+> 「くっ、この射程距離……
+>  他の武器は……!?」
+"Chà, ở khoảng cách này...những vũ khí khác ở đâu...!?"

@@ -1,0 +1,183 @@
+# Bản dịch tiếng Việt Super Robot Wars 64
+# Định dạng và vị trí: docs/guide/dialogue-text.md
+
+@11048 Iino · イーノ
+# Kích hoạt: Tấn công (Chung，1/7）
+> 「あ、当たっても知らないよ!」
+"Đừng đổ lỗi cho tôi nếu bạn đánh tôi!"
+
+@11049 Iino · イーノ
+# Kích hoạt: Tấn công (Chung，2/7）
+> 「落とすよっ!」
+"Đánh nó xuống!"
+
+@11050 Iino · イーノ
+# Kích hoạt: Tấn công (Chung，3/7）
+> 「このっ!」
+"Anh bạn!"
+
+@11051 Iino · イーノ
+# Kích hoạt: Tấn công (Chung，4/7）
+> 「やらせるもんかっ!」
+"Tôi sẽ không để bạn thành công!"
+
+@11052 Iino · イーノ
+# Kích hoạt: Tấn công (Chung，5/7）
+> 「もらうよっ!」
+"Đã lấy nó!"
+
+@11053 Iino · イーノ
+# Kích hoạt: Tấn công (Chung，6/7）
+> 「僕だって!」
+"Tôi cũng vậy!"
+
+@11054 Iino · イーノ
+# Kích hoạt: Tấn công (Chung，7/7）
+> 「そんな所にいるからっ!」
+“Ai bảo cậu ở lại đó?”
+
+@11055 Iino · イーノ
+# Kích hoạt: 被击坠（通用，1/2）
+> 「わあああっ!! だ、ダメだあ～」
+"Wow!! Không, không thể được ~"
+
+@11056 Iino · イーノ
+# Kích hoạt: 被击坠（通用，2/2）
+> 「や、やられたっ!!」
+"Bị, bị giết!!"
+
+@11057 Iino · イーノ
+# Kích hoạt: 重伤（剩余 HP 不足 30%）（通用，1/4）
+> 「うわああっ! や、やっぱりやめときゃ
+>  よかった……」
+"Chà! Chắc chắn rồi, lẽ ra tôi không nên hành động..."
+
+@11058 Iino · イーノ
+# Kích hoạt: 重伤（剩余 HP 不足 30%）（通用，2/4）
+> 「わああぁっ! だ、ダメだ、助けてっ!」
+"Ồ! Không, tôi không thể, giúp với!"
+
+@11059 Iino · イーノ
+# Kích hoạt: 重伤（剩余 HP 不足 30%）（通用，3/4）
+> 「だ、ダメだ! もうもたないよっ!」
+"Không, tôi không thể! Tôi không thể chịu đựng được nữa!"
+
+@11060 Iino · イーノ
+# Kích hoạt: 重伤（剩余 HP 不足 30%）（通用，4/4）
+> 「うわわっ! つ、強いぞ、こいつ!」
+"Wow! Tên này mạnh quá!"
+
+@11061 Iino · イーノ
+# Kích hoạt: 中伤（剩余 HP 30–90%）（通用，1/4）
+> 「うわっ! やったな、このっ!」
+"Wow! Sao mày dám đánh tao hả, đồ khốn!"
+
+@11062 Iino · イーノ
+# Kích hoạt: 中伤（剩余 HP 30–90%）（通用，2/4）
+> 「くっ! こんなことでっ!」
+"Hmm! Mình sẽ không ở một nơi như thế này đâu!"
+
+@11063 Iino · イーノ
+# Kích hoạt: 中伤（剩余 HP 30–90%）（通用，3/4）
+> 「ま、まだだっ! まだやられてないぞっ!」
+"Vẫn chưa kết thúc! Ta còn chưa bị đánh bại!"
+
+@11064 Iino · イーノ
+# Kích hoạt: 中伤（剩余 HP 30–90%）（通用，4/4）
+> 「くうっ! こんな事でやられてたまるか!」
+"Ugh! Làm sao tôi có thể bị đánh bại như thế được!"
+
+@11065 Iino · イーノ
+# Kích hoạt: 轻伤（剩余 HP 90% 以上）（通用，1/3）
+> 「こ、この程度なら大丈夫っ!」
+"Cái này, vết thương nhỏ này không sao đâu!"
+
+@11066 Iino · イーノ
+# Kích hoạt: 轻伤（剩余 HP 90% 以上）（通用，2/3）
+> 「当たっただけっ!」
+"Chỉ là lau thôi mà!"
+
+@11067 Iino · イーノ
+# Kích hoạt: 轻伤（剩余 HP 90% 以上）（通用，3/3）
+> 「うわっ!? あ、あれ、何ともないや」
+"Ồ!? Này, chẳng có chuyện gì xảy ra cả"
+
+@11068 Iino · イーノ
+# Kích hoạt: Né tránh（通用，1/6）
+> 「来るな、来るなぁっ!」
+"Đừng tới đây, đừng tới đây!"
+
+@11069 Iino · イーノ
+# Kích hoạt: Né tránh（通用，2/6）
+> 「当たりませんようにっ!」
+"Đừng đánh tôi!"
+
+@11070 Iino · イーノ
+# Kích hoạt: Né tránh（通用，3/6）
+> 「よ、よかった、かわせた……」
+"Quá tốt, ta tránh được..."
+
+@11071 Iino · イーノ
+# Kích hoạt: Né tránh（通用，4/6）
+> 「ラッキー! 外れてくれた!」
+"Thật may mắn! Bỏ lỡ!"
+
+@11072 Iino · イーノ
+# Kích hoạt: Né tránh（通用，5/6）
+> 「うわっ! あ、危なかった……」
+"Wow! Nguy hiểm quá..."
+
+@11073 Iino · イーノ
+# Kích hoạt: Né tránh（通用，6/6）
+> 「来る……そこ!?」
+"Tới... chỗ đó!?"
+
+@11074 Iino · イーノ
+# Kích hoạt: Tấn công无效（护罩／装甲）（通用，1/2）
+> 「ムダだよっ!」
+"Tất cả đều vô ích!"
+
+@11075 Iino · イーノ
+# Kích hoạt: Tấn công无效（护罩／装甲）（通用，2/2）
+> 「効くもんかっ!」
+"Làm sao nó có thể hoạt động được!"
+
+@11076 Iino · イーノ
+# Kích hoạt: 弹药／EN 不足，无法反击（通用，1/1）
+> 「だめだぁ、弾切れだ!」
+"Không thể nào, không còn đạn nữa!"
+
+@11077 Iino · イーノ
+# Kích hoạt: 射程外，无法反击（通用，1/1）
+> 「ダメだ、届かない!」
+"Không, nó ngoài tầm với!"
+
+@16381 Iino · イーノ
+# Kích hoạt: 使用〈ビームライフル／銃剣付きビームライフル〉（低优先，可能被通用台词顶掉）
+> 「当たれぇっ!!」
+"Đánh tôi đi!!"
+
+@16382 Iino · イーノ
+# Kích hoạt: 使用〈ビームライフル／銃剣付きビームライフル〉（低优先，可能被通用台词顶掉）
+> 「撃つよ!」
+"Tôi đang bắn!"
+
+@16383 Iino · イーノ
+# Kích hoạt: 使用〈ファンネル／マザーファンネル〉
+> 「ファンネル、行けっ!!」
+"Pháo nổi, bắn đi!!"
+
+@16384 Iino · イーノ
+# Kích hoạt: 使用〈ファンネル／マザーファンネル〉
+> 「使えるかな……ファンネル!」
+“Tôi có thể sử dụng…khẩu pháo bay được không!”
+
+@16385 Iino · イーノ
+# Kích hoạt: 使用〈フィンファンネル〉
+> 「たのんだよ、フィンファンネル!!」
+“Làm ơn, pháo nổi vây!!”
+
+@16386 Iino · イーノ
+# Kích hoạt: 使用〈ハイメガキャノン〉（低优先，可能被通用台词顶掉）
+> 「やっちゃうからね! ハイメガキャノン!!」
+“Tôi sẽ làm điều đó! Mega Cannon công suất cao!!”

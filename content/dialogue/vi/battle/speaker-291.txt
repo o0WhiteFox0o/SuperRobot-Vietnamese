@@ -1,0 +1,208 @@
+# Bản dịch tiếng Việt Super Robot Wars 64
+# Định dạng và vị trí: docs/guide/dialogue-text.md
+
+@14048 Byston Well Soldier · バイストンウェル兵
+# Kích hoạt: Tấn công (Chung，1/11）
+> 「このおぉぉぉっ!!」
+"Xem các động tác!!"
+
+@14049 Byston Well Soldier · バイストンウェル兵
+# Kích hoạt: Tấn công (Chung，2/11）
+> 「覚悟!」
+"Đáng chết!"
+
+@14050 Byston Well Soldier · バイストンウェル兵
+# Kích hoạt: Tấn công (Chung，3/11）
+> 「くらえっ!!」
+"Ăn chiêu của tôi đi!!"
+
+@14051 Byston Well Soldier · バイストンウェル兵
+# Kích hoạt: Tấn công (Chung，4/11）
+> 「うけてみろっ!!」
+"Tiến lên!!"
+
+@14052 Byston Well Soldier · バイストンウェル兵
+# Kích hoạt: Tấn công (Chung，5/11）
+> 「いけっ!」
+"Lên!"
+
+@14053 Byston Well Soldier · バイストンウェル兵
+# Kích hoạt: Tấn công (Chung，6/11）
+> 「させるかっ!」
+"Đừng nghĩ tới chuyện đó nữa!"
+
+@14054 Byston Well Soldier · バイストンウェル兵
+# Kích hoạt: Tấn công (Chung，7/11）
+> 「うおおっ!」
+"Ồ ồ!"
+
+@14055 Byston Well Soldier · バイストンウェル兵
+# Kích hoạt: Tấn công (Chung，8/11）
+> 「そこだっ!」
+"Chính là nó!"
+
+@14056 Byston Well Soldier · バイストンウェル兵
+# Kích hoạt: Tấn công (Chung，9/11）
+> 「当たれっ!」
+"Đánh!"
+
+@14057 Byston Well Soldier · バイストンウェル兵
+# Kích hoạt: Tấn công (Chung，10/11）
+> 「とどめっ!!」
+"Xem tôi kết liễu cậu nhé!!"
+
+@14058 Byston Well Soldier · バイストンウェル兵
+# Kích hoạt: Tấn công (Chung，11/11）
+> 「こいつでどうだっ!」
+"Còn chiêu này thì sao!"
+
+@14059 Byston Well Soldier · バイストンウェル兵
+# Kích hoạt: 被击坠（通用，1/2）
+> 「うわっ! や、やられたっ!」
+"Wow! Bị, bị giết!"
+
+@14060 Byston Well Soldier · バイストンウェル兵
+# Kích hoạt: 被击坠（通用，2/2）
+> 「ぐうっ! しまった!」
+"Ugh! Ồ không!"
+
+@14061 Byston Well Soldier · バイストンウェル兵
+# Kích hoạt: 重伤（剩余 HP 不足 30%）（通用，1/5）
+> 「うおおっ! く、なんてパワーなんだ!?」
+"Oooh! Cái gì, đây là loại sức mạnh gì vậy!?"
+
+@14062 Byston Well Soldier · バイストンウェル兵
+# Kích hoạt: 重伤（剩余 HP 不足 30%）（通用，2/5）
+> 「ぐあっ! こ、こいつ、強いぞ!」
+"A! Cái này, tên này thật mạnh!"
+
+@14063 Byston Well Soldier · バイストンウェル兵
+# Kích hoạt: 重伤（剩余 HP 不足 30%）（通用，3/5）
+> 「な、何っ!? バカな!?」
+"C-cái gì!? Không thể nào!?"
+
+@14064 Byston Well Soldier · バイストンウェル兵
+# Kích hoạt: 重伤（剩余 HP 不足 30%）（通用，4/5）
+> 「うぐっ! い、いかん、やられる!?」
+"Ugh! Không, không, tôi sẽ bị giết mất!?"
+
+@14065 Byston Well Soldier · バイストンウェル兵
+# Kích hoạt: 重伤（剩余 HP 不足 30%）（通用，5/5）
+> 「あうっ! ま、まずい、このままでは……」
+"A! Không, không ổn. Nếu cứ tiếp tục như vậy..."
+
+@14066 Byston Well Soldier · バイストンウェル兵
+# Kích hoạt: 中伤（剩余 HP 30–90%）（通用，1/5）
+> 「ちっ、さすがにできるな!」
+"Tsk, nó thực sự đã xảy ra hai lần!"
+
+@14067 Byston Well Soldier · バイストンウェル兵
+# Kích hoạt: 中伤（剩余 HP 30–90%）（通用，2/5）
+> 「ぐっ! だが、この程度ならまだっ!」
+"Hmm! Nhưng tôi vẫn có thể chịu đựng được vết thương này!"
+
+@14068 Byston Well Soldier · バイストンウェル兵
+# Kích hoạt: 中伤（剩余 HP 30–90%）（通用，3/5）
+> 「くっ! まだまだ勝負はこれからよ!」
+"Tốt! Thắng bại vừa mới bắt đầu!"
+
+@14069 Byston Well Soldier · バイストンウェル兵
+# Kích hoạt: 中伤（剩余 HP 30–90%）（通用，4/5）
+> 「うっ! やるな!!」
+"Ừm! Một lát thôi!!"
+
+@14070 Byston Well Soldier · バイストンウェル兵
+# Kích hoạt: 中伤（剩余 HP 30–90%）（通用，5/5）
+> 「くぅっ! やってくれたな!!」
+"Hừ! Sao ngươi dám làm tổn thương ta!!"
+
+@14071 Byston Well Soldier · バイストンウェル兵
+# Kích hoạt: 轻伤（剩余 HP 90% 以上）（通用，1/5）
+> 「ふん、かすった程度のものよ!」
+"Hừm, chỉ là một vết xước thôi!"
+
+@14072 Byston Well Soldier · バイストンウェル兵
+# Kích hoạt: 轻伤（剩余 HP 90% 以上）（通用，2/5）
+> 「こそばゆいぜ!」
+"Cù lét?"
+
+@14073 Byston Well Soldier · バイストンウェル兵
+# Kích hoạt: 轻伤（剩余 HP 90% 以上）（通用，3/5）
+> 「ちっ、あたっちまった!」
+"Chậc, tôi bị trúng đòn rồi!"
+
+@14074 Byston Well Soldier · バイストンウェル兵
+# Kích hoạt: 轻伤（剩余 HP 90% 以上）（通用，4/5）
+> 「この程度のダメージなど!!」
+"Vết thương nhỏ này không là gì cả!"
+
+@14075 Byston Well Soldier · バイストンウェル兵
+# Kích hoạt: 轻伤（剩余 HP 90% 以上）（通用，5/5）
+> 「当たっただけだ!」
+"Chỉ là một cái tát thôi!"
+
+@14076 Byston Well Soldier · バイストンウェル兵
+# Kích hoạt: Né tránh（通用，1/7）
+> 「甘いっ!」
+"Thật ngây thơ!"
+
+@14077 Byston Well Soldier · バイストンウェル兵
+# Kích hoạt: Né tránh（通用，2/7）
+> 「そこかっ!」
+"Đó!"
+
+@14078 Byston Well Soldier · バイストンウェル兵
+# Kích hoạt: Né tránh（通用，3/7）
+> 「かわせたっ!」
+"Tránh nó ra!"
+
+@14079 Byston Well Soldier · バイストンウェル兵
+# Kích hoạt: Né tránh（通用，4/7）
+> 「当たるか!」
+"Bạn không thể đánh nó!"
+
+@14080 Byston Well Soldier · バイストンウェル兵
+# Kích hoạt: Né tránh（通用，5/7）
+> 「なんの!」
+"Cái gì thế này!"
+
+@14081 Byston Well Soldier · バイストンウェル兵
+# Kích hoạt: Né tránh（通用，6/7）
+> 「かわしてみせる!!」
+"Trốn khỏi bạn!!"
+
+@14082 Byston Well Soldier · バイストンウェル兵
+# Kích hoạt: Né tránh（通用，7/7）
+> 「残念だったな!」
+"Thật đáng tiếc!"
+
+@14083 Byston Well Soldier · バイストンウェル兵
+# Kích hoạt: Tấn công无效（护罩／装甲）（通用，1/2）
+> 「そんなビームなど!」
+“Đó là loại tia gì vậy?”
+
+@14084 Byston Well Soldier · バイストンウェル兵
+# Kích hoạt: Tấn công无效（护罩／装甲）（通用，2/2）
+> 「ふん、ムダなことをする!」
+"Hừ, lãng phí sức lực!"
+
+@14085 Byston Well Soldier · バイストンウェル兵
+# Kích hoạt: 弹药／EN 不足，无法反击（通用，1/2）
+> 「ちっ、しまった! 弾切れか!」
+"Tsk, không may mắn! Không còn đạn nữa!"
+
+@14086 Byston Well Soldier · バイストンウェル兵
+# Kích hoạt: 弹药／EN 不足，无法反击（通用，2/2）
+> 「くそっ! 弾切れかよ!」
+"Chết tiệt! Không còn đạn nữa!"
+
+@14087 Byston Well Soldier · バイストンウェル兵
+# Kích hoạt: 射程外，无法反击（通用，1/2）
+> 「くっ! ここからでは
+>  反撃は無理か……」
+"Hmm! Chúng ta không thể đánh trả từ đây sao..."
+
+@14088 Byston Well Soldier · バイストンウェル兵
+# Kích hoạt: 射程外，无法反击（通用，2/2）
+> 「あんな遠くから攻撃してくるのか!?」
+"Gọi từ rất xa!?"

@@ -1,0 +1,343 @@
+# Bản dịch tiếng Việt Super Robot Wars 64
+# Định dạng và vị trí: docs/guide/dialogue-text.md
+
+@12280 Elle · エレ
+# Kích hoạt: Tấn công (Chung，1/2）
+> 「悪意に満ちたオーラ力よ、さがれ!」
+"Sức mạnh độc hại của Aura, hãy rút lui!"
+
+@12281 Elle · エレ
+# Kích hoạt: Tấn công (Chung，2/2）
+> 「これ以上やらせてはなりません!」
+"Tôi không thể để anh làm bất cứ điều gì anh muốn nữa!"
+
+@12282 Elle · エレ
+# Kích hoạt: 被击坠（通用，1/1）
+> 「そんな……ゴラオンが……」
+"Làm sao có thể...Golaon thực ra..."
+
+@12283 Elle · エレ
+# Kích hoạt: 重伤（剩余 HP 不足 30%）（通用，1/5）
+> 「きゃあああっ!!」
+"Ahhhhhh!!"
+
+@12284 Elle · エレ
+# Kích hoạt: 重伤（剩余 HP 不足 30%）（通用，2/5）
+> 「だ、大丈夫です。まだもちます」
+"Không, không sao đâu. Tôi vẫn có thể cầm cự được."
+
+@12285 Elle · エレ
+# Kích hoạt: 重伤（剩余 HP 不足 30%）（通用，3/5）
+> 「あああっ!? ま、まだ落ちては
+>  なりません!」
+"Ahhh!? Vẫn chưa ngã được!"
+
+@12286 Elle · エレ
+# Kích hoạt: 重伤（剩余 HP 不足 30%）（通用，4/5）
+> 「あうっ! どこをやられたのです!?」
+"A! Nó bị đánh ở đâu vậy!?"
+
+@12287 Elle · エレ
+# Kích hoạt: 重伤（剩余 HP 不足 30%）（通用，5/5）
+> 「くうっ! このままでは、いくらゴラオンと
+>  いえど……」
+"Hmm! Nếu chuyện này tiếp tục, ngay cả Golawon cũng sẽ..."
+
+@12288 Elle · エレ
+# Kích hoạt: 中伤（剩余 HP 30–90%）（通用，1/4）
+> 「うっ! 破損箇所は!?」
+"Hmm! Thiệt hại ở đâu!?"
+
+@12289 Elle · エレ
+# Kích hoạt: 中伤（剩余 HP 30–90%）（通用，2/4）
+> 「あうっ! 対空防御!」
+"A! Phòng không!"
+
+@12290 Elle · エレ
+# Kích hoạt: 中伤（剩余 HP 30–90%）（通用，3/4）
+> 「くっ! これ以上やらせては
+>  なりません!」
+"Chà! Tôi không thể để bạn làm bất cứ điều gì bạn muốn nữa!"
+
+@12291 Elle · エレ
+# Kích hoạt: 中伤（剩余 HP 30–90%）（通用，4/4）
+> 「うっ! 対空砲火、どうしたか!?」
+"Hmm! Hỏa lực phòng không đang làm gì vậy!?"
+
+@12292 Elle · エレ
+# Kích hoạt: 轻伤（剩余 HP 90% 以上）（通用，1/4）
+> 「大した被害はありませんね」
+“Không thiệt hại nhiều”
+
+@12293 Elle · エレ
+# Kích hoạt: 轻伤（剩余 HP 90% 以上）（通用，2/4）
+> 「まだです! まだいけます!」
+"Chưa xong đâu! Vẫn còn có thể làm được!"
+
+@12294 Elle · エレ
+# Kích hoạt: 轻伤（剩余 HP 90% 以上）（通用，3/4）
+> 「くっ、被害情況は!?」
+"Ồ, thiệt hại thế nào?"
+
+@12295 Elle · エレ
+# Kích hoạt: 轻伤（剩余 HP 90% 以上）（通用，4/4）
+> 「この程度で落ちるゴラオンでは
+>  ありません」
+"Golaon sẽ không bị đánh bại bởi cuộc tấn công này."
+
+@12296 Elle · エレ
+# Kích hoạt: Né tránh（通用，1/4）
+> 「回避運動急げ!」
+"Tránh khẩn cấp!"
+
+@12297 Elle · エレ
+# Kích hoạt: Né tránh（通用，2/4）
+> 「右です! 急いで!!」
+"Đúng! Nhanh lên!!"
+
+@12298 Elle · エレ
+# Kích hoạt: Né tránh（通用，3/4）
+> 「来ます! 回避を!」
+"Chúng tôi tới đây! Tránh ra!"
+
+@12299 Elle · エレ
+# Kích hoạt: Né tránh（通用，4/4）
+> 「ゴラオン、急速回頭!」
+"Golaon, quay nhanh!"
+
+@12300 Elle · エレ
+# Kích hoạt: Tấn công无效（护罩／装甲）（通用，1/2）
+> 「大丈夫です。我々のよき
+>  オーラ力を信じるのです」
+"Không sao đâu. Chúng ta phải tin vào sức mạnh của Aura của chúng ta"
+
+@12301 Elle · エレ
+# Kích hoạt: Tấn công无效（护罩／装甲）（通用，2/2）
+> 「ゴラオンのオーラバリアならば、
+>  この程度の攻撃は!」
+“Với rào chắn Aura của Golawon ở đây, đòn tấn công này chẳng là gì cả!”
+
+@12302 Elle · エレ
+# Kích hoạt: 弹药／EN 不足，无法反击（通用，1/1）
+> 「弾切れ? 弾薬が底を
+>  ついたのですか?」
+"Hết đạn? Đạn đã hết chưa?"
+
+@12303 Elle · エレ
+# Kích hoạt: 射程外，无法反击（通用，1/1）
+> 「こちらの射程外から攻撃を
+>  仕掛けてきたようですね……」
+“Có vẻ như kẻ thù đã phát động một cuộc tấn công ngoài phạm vi của chúng ta…”
+
+@16910 Elle · エレ
+# Kích hoạt: 使用〈フレイボム〉
+> 「悪意に満ちたオーラ力よ、さがれ!」
+"Sức mạnh độc hại của Aura, hãy rút lui!"
+
+@16911 Elle · エレ
+# Kích hoạt: 使用〈フレイボム〉
+> 「これ以上やらせてはなりません!」
+"Tôi không thể để anh làm bất cứ điều gì anh muốn nữa!"
+
+@16912 Elle · エレ
+# Kích hoạt: 使用〈オーラバルカン〉（低优先，可能被通用台词顶掉）
+> 「前方の敵に攻撃を集中せよ!」
+"Tập trung tấn công vào kẻ thù phía trước!"
+
+@16913 Elle · エレ
+# Kích hoạt: 使用〈オーラバルカン〉（低优先，可能被通用台词顶掉）
+> 「各砲座、撃て!」
+"Mỗi tháp pháo, khai hỏa!"
+
+@16914 Elle · エレ
+# Kích hoạt: 使用〈オーラバルカン〉（低优先，可能被通用台词顶掉）
+> 「全砲門、一斉射撃!」
+"Tất cả súng, loạt!"
+
+@16915 Elle · エレ
+# Kích hoạt: 使用〈ハイパーオーラキャノン〉
+> 「落ちなさいっ!」
+"Rớt!"
+
+@16916 Elle · エレ
+# Kích hoạt: 使用〈ハイパーオーラキャノン〉
+> 「主砲、発射!」
+"Súng chính, khai hỏa!"
+
+@16917 Elle · エレ
+# Kích hoạt: 使用〈ハイパーオーラキャノン〉
+> 「撃てっ!」
+"Cháy!"
+
+@16918 Elle · エレ
+# Kích hoạt: 副驾驶〈チャム〉，使用〈ハイパーオーラキャノン〉（对话第 1/2 句）
+> 「主砲、発射!」
+"Súng chính, khai hỏa!"
+
+@16919 Chum · チャム
+# Kích hoạt: 副驾驶〈チャム〉，使用〈ハイパーオーラキャノン〉（对话第 2/2 句）
+> 「いっけぇぇーっ!」
+"Nào——!"
+
+@16920 Chum · チャム
+# Kích hoạt: 副驾驶〈チャム〉，使用〈ハイパーオーラキャノン〉（对话第 1/2 句）
+> 「エレさま、来る!」
+"Ai Lôi đại nhân, chúng ta tới!"
+
+@16921 Elle · エレ
+# Kích hoạt: 副驾驶〈チャム〉，使用〈ハイパーオーラキャノン〉（对话第 2/2 句）
+> 「主砲、発射!」
+"Súng chính, khai hỏa!"
+
+@16922 Elle · エレ
+# Kích hoạt: 副驾驶〈チャム〉，使用〈オーラバルカン〉（对话第 1/2 句）
+> 「各砲座、撃て!」
+"Mỗi tháp pháo, khai hỏa!"
+
+@16923 Chum · チャム
+# Kích hoạt: 副驾驶〈チャム〉，使用〈オーラバルカン〉（对话第 2/2 句）
+> 「やっちゃえーっ!」
+"Nào——!"
+
+@16924 Elle · エレ
+# Kích hoạt: 副驾驶〈チャム〉，使用〈フレイボム〉（对话第 1/2 句）
+> 「落ちなさいっ!」
+"Rớt!"
+
+@16925 Chum · チャム
+# Kích hoạt: 副驾驶〈チャム〉，使用〈フレイボム〉（对话第 2/2 句）
+> 「落ちちゃえーっ!」
+“Rơi xuống——!”
+
+@16926 Elle · エレ
+# Kích hoạt: 副驾驶〈チャム〉，使用〈フレイボム〉（对话第 1/2 句）
+> 「これ以上やらせてはなりません!」
+"Tôi không thể để anh làm bất cứ điều gì anh muốn nữa!"
+
+@16927 Chum · チャム
+# Kích hoạt: 副驾驶〈チャム〉，使用〈フレイボム〉（对话第 2/2 句）
+> 「やらせちゃだめっ!」
+"Chúng ta không thể để họ thành công!"
+
+@16928 Chum · チャム
+# Kích hoạt: 副驾驶〈チャム〉，使用〈ハイパーオーラキャノン〉（对话第 1/2 句）
+> 「エレさま、来る!」
+"Ai Lôi đại nhân, chúng ta tới!"
+
+@16929 Elle · エレ
+# Kích hoạt: 副驾驶〈チャム〉，使用〈ハイパーオーラキャノン〉（对话第 2/2 句）
+> 「前方の敵に攻撃を集中せよ!」
+"Tập trung tấn công vào kẻ thù phía trước!"
+
+@16930 Elle · エレ
+# Kích hoạt: 重伤（剩余 HP 不足 30%），副驾驶〈チャム〉（对话第 1/2 句）
+> 「きゃあぁぁーっ!!」
+“Ahhhhhh——!!”
+
+@16931 Chum · チャム
+# Kích hoạt: 重伤（剩余 HP 不足 30%），副驾驶〈チャム〉（对话第 2/2 句）
+> 「エレさまっ!?」
+"Chúa Airei!?"
+
+@16932 Chum · チャム
+# Kích hoạt: 重伤（剩余 HP 不足 30%），副驾驶〈チャム〉（对话第 1/2 句）
+> 「きゃあぁぁーっ!」
+"Ahhhhhh-!"
+
+@16933 Elle · エレ
+# Kích hoạt: 重伤（剩余 HP 不足 30%），副驾驶〈チャム〉（对话第 2/2 句）
+> 「だ、大丈夫です、まだもちます!」
+"Không, không sao đâu, tôi vẫn có thể nhịn được!"
+
+@16934 Elle · エレ
+# Kích hoạt: 中伤（剩余 HP 30–90%），副驾驶〈チャム〉（对话第 1/2 句）
+> 「うっ!? 対空砲火、どうしたか!」
+"Hả!? Hỏa lực phòng không đang làm gì vậy!"
+
+@16935 Chum · チャム
+# Kích hoạt: 中伤（剩余 HP 30–90%），副驾驶〈チャム〉（对话第 2/2 句）
+> 「はやくぅーっ!」
+“Nhanh lên—!”
+
+@16936 Chum · チャム
+# Kích hoạt: 中伤（剩余 HP 30–90%），副驾驶〈チャム〉（对话第 1/2 句）
+> 「エレさまぁぁーっ!!」
+"Chúa Airei——!!"
+
+@16937 Elle · エレ
+# Kích hoạt: 中伤（剩余 HP 30–90%），副驾驶〈チャム〉（对话第 2/2 句）
+> 「大丈夫です。チャム、
+>  落ち着きなさい!」
+"Không sao đâu. Cam, bình tĩnh đi!"
+
+@16938 Elle · エレ
+# Kích hoạt: 轻伤（剩余 HP 90% 以上），副驾驶〈チャム〉（对话第 1/2 句）
+> 「たいした被害ではありませんね」
+“Thiệt hại không nghiêm trọng”
+
+@16939 Chum · チャム
+# Kích hoạt: 轻伤（剩余 HP 90% 以上），副驾驶〈チャム〉（对话第 2/2 句）
+> 「ぜーんぜん大丈夫よ!」
+"Nó hoàn toàn ổn!"
+
+@16940 Elle · エレ
+# Kích hoạt: 轻伤（剩余 HP 90% 以上），副驾驶〈チャム〉（对话第 1/2 句）
+> 「このゴラオンはこの程度の
+>  攻撃では!」
+“Đây chỉ là một cuộc tấn công nhỏ thôi, Goravan——”
+
+@16941 Chum · チャム
+# Kích hoạt: 轻伤（剩余 HP 90% 以上），副驾驶〈チャム〉（对话第 2/2 句）
+> 「落ちないんだから!」
+"Không thể nào đánh bại được nó!"
+
+@16942 Elle · エレ
+# Kích hoạt: Né tránh，副驾驶〈チャム〉（对话第 1/2 句）
+> 「ゴラオン、急速回頭!」
+"Golaon, quay nhanh!"
+
+@16943 Chum · チャム
+# Kích hoạt: Né tránh，副驾驶〈チャム〉（对话第 2/2 句）
+> 「やったぁーっ!」
+"Tuyệt vời-!"
+
+@16944 Elle · エレ
+# Kích hoạt: Né tránh，副驾驶〈チャム〉（对话第 1/2 句）
+> 「右です! 急いで!!」
+"Đúng! Nhanh lên!!"
+
+@16945 Chum · チャム
+# Kích hoạt: Né tránh，副驾驶〈チャム〉（对话第 2/2 句）
+> 「はやくぅーっ!」
+“Nhanh lên—!”
+
+@16946 Elle · エレ
+# Kích hoạt: Tấn công无效（护罩／装甲），副驾驶〈チャム〉（对话第 1/2 句）
+> 「ゴラオンのオーラバリアなら
+>  この程度は!」
+“Với rào chắn Aura của Goraon ở đây, đòn tấn công này——”
+
+@16947 Chum · チャム
+# Kích hoạt: Tấn công无效（护罩／装甲），副驾驶〈チャム〉（对话第 2/2 句）
+> 「すごーい!」
+"Thật tuyệt vời!"
+
+@16948 Chum · チャム
+# Kích hoạt: Tấn công无效（护罩／装甲），副驾驶〈チャム〉（对话第 1/2 句）
+> 「エレさまぁっ!」
+"Chúa Airei!"
+
+@16949 Elle · エレ
+# Kích hoạt: Tấn công无效（护罩／装甲），副驾驶〈チャム〉（对话第 2/2 句）
+> 「我々のよきオーラ力を信じましょう」
+"Hãy tin vào sức mạnh của hào quang tốt bụng của chúng ta"
+
+@16950 Elle · エレ
+# Kích hoạt: Tấn công无效（护罩／装甲），副驾驶〈チャム〉（对话第 1/2 句）
+> 「この程度なら問題ありません」
+"Cuộc tấn công này không thành vấn đề"
+
+@16951 Chum · チャム
+# Kích hoạt: Tấn công无效（护罩／装甲），副驾驶〈チャム〉（对话第 2/2 句）
+> 「大丈夫なんだからっ!」
+"Mọi người đều nói không sao cả!"

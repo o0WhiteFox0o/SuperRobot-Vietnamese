@@ -1,0 +1,291 @@
+# Bản dịch tiếng Việt Super Robot Wars 64
+# Định dạng và vị trí: docs/guide/dialogue-text.md
+
+@6744 Quatre · カトル
+# Kích hoạt: Tấn công (Chung，1/12）
+> 「今日は話していられない。
+>  僕の方が不利だから」
+"Hôm nay tôi không có thời gian để nói chuyện, tôi đang ở thế bất lợi."
+
+@6745 Quatre · カトル
+# Kích hoạt: Tấn công (Chung，2/12）
+> 「一気にいきます!」
+"Giải quyết nó trong một lần!"
+
+@6746 Quatre · カトル
+# Kích hoạt: Tấn công (Chung，3/12）
+> 「やらせない!」
+"Tôi sẽ không để bạn thành công!"
+
+@6747 Quatre · カトル
+# Kích hoạt: Tấn công (Chung，4/12）
+> 「出てくるから!」
+"Tôi sẽ hành động!"
+
+@6748 Quatre · カトル
+# Kích hoạt: Tấn công (Chung，5/12）
+> 「うかつなっ!」
+"Quá bất cẩn!"
+
+@6749 Quatre · カトル
+# Kích hoạt: Tấn công (Chung，6/12）
+> 「このぉっ」
+"Anh bạn!"
+
+@6750 Quatre · カトル
+# Kích hoạt: Tấn công (Chung，7/12）
+> 「邪魔をしないで!」
+"Tránh ra!"
+
+@6751 Quatre · カトル
+# Kích hoạt: Tấn công (Chung，8/12）
+> 「これで!」
+"Chỉ cần sử dụng thủ thuật này!"
+
+@6752 Quatre · カトル
+# Kích hoạt: Tấn công (Chung，9/12）
+> 「いくよ!」
+"Lên!"
+
+@6753 Quatre · カトル
+# Kích hoạt: Tấn công (Chung，10/12）
+> 「やらせるもんかぁぁっ!」
+“Tôi sẽ không để cậu thành công——!”
+
+@6754 Quatre · カトル
+# Kích hoạt: Tấn công (Chung，11/12）
+> 「容赦はしない!」
+"Không bao giờ tha thứ!"
+
+@6755 Quatre · カトル
+# Kích hoạt: Tấn công (Chung，12/12）
+> 「必要なことなんだ!」
+"Việc này phải được thực hiện!"
+
+@6756 Quatre · カトル
+# Kích hoạt: 被击坠（通用，1/2）
+> 「うわぁぁぁぁーっ!」
+"Aaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaa!"
+
+@6757 Quatre · カトル
+# Kích hoạt: 被击坠（通用，2/2）
+> 「こ、こんなところでっ!?」
+"Tôi-tôi thực sự ở đây...!?"
+
+@6758 Quatre · カトル
+# Kích hoạt: 重伤（剩余 HP 不足 30%）（通用，1/4）
+> 「あう! つ、強い……」
+"A! Mạnh quá..."
+
+@6759 Quatre · カトル
+# Kích hoạt: 重伤（剩余 HP 不足 30%）（通用，2/4）
+> 「や、やられるわけにはいかないんだ!」
+“T-tôi không thể bị đánh gục được!”
+
+@6760 Quatre · カトル
+# Kích hoạt: 重伤（剩余 HP 不足 30%）（通用，3/4）
+> 「くぅぅっ、こ、このままじゃ……!」
+"Uh-huh, nếu chuyện này tiếp tục...!"
+
+@6761 Quatre · カトル
+# Kích hoạt: 重伤（剩余 HP 不足 30%）（通用，4/4）
+> 「こ、これは、この力は!?」
+“Đây, sức mạnh này là!?”
+
+@6762 Quatre · カトル
+# Kích hoạt: 中伤（剩余 HP 30–90%）（通用，1/6）
+> 「む、無茶でもいいんだ!」
+"Chỉ là, cho dù ngươi có lộn xộn cũng không sao cả!"
+
+@6763 Quatre · カトル
+# Kích hoạt: 中伤（剩余 HP 30–90%）（通用，2/6）
+> 「ぐぅぅっ、もうそんなに持たない!?」
+"Hmm, tôi không thể chịu đựng được lâu hơn nữa!?"
+
+@6764 Quatre · カトル
+# Kích hoạt: 中伤（剩余 HP 30–90%）（通用，3/6）
+> 「こ、このままじゃねらい撃ちされてしまう」
+“Chuyện này, nếu chuyện này tiếp tục, tôi sẽ bị dùng làm mục tiêu.”
+
+@6765 Quatre · カトル
+# Kích hoạt: 中伤（剩余 HP 30–90%）（通用，4/6）
+> 「わぁぁぁーっ!」
+"Aaaaaaaaaaaaaaaaaaaaaa!"
+
+@6766 Quatre · カトル
+# Kích hoạt: 中伤（剩余 HP 30–90%）（通用，5/6）
+> 「あぁぁ!?」
+"A!?"
+
+@6767 Quatre · カトル
+# Kích hoạt: 中伤（剩余 HP 30–90%）（通用，6/6）
+> 「こ、このままじゃ……」
+“Chuyện này, nếu chuyện này tiếp tục…”
+
+@6768 Quatre · カトル
+# Kích hoạt: 轻伤（剩余 HP 90% 以上）（通用，1/3）
+> 「うわっ」
+"Ồ! "
+
+@6769 Quatre · カトル
+# Kích hoạt: 轻伤（剩余 HP 90% 以上）（通用，2/3）
+> 「やはりそうか……」
+“Đúng như mong đợi…”
+
+@6770 Quatre · カトル
+# Kích hoạt: 轻伤（剩余 HP 90% 以上）（通用，3/3）
+> 「効かないよ、そんな攻撃は」
+“Đòn tấn công đó là vô ích.”
+
+@6771 Quatre · カトル
+# Kích hoạt: Né tránh（通用，1/6）
+> 「くっ!」
+"Hừm! "
+
+@6772 Quatre · カトル
+# Kích hoạt: Né tránh（通用，2/6）
+> 「いける!」
+"Nó hoạt động!"
+
+@6773 Quatre · カトル
+# Kích hoạt: Né tránh（通用，3/6）
+> 「これなら!」
+"Điều đó sẽ làm được!"
+
+@6774 Quatre · カトル
+# Kích hoạt: Né tránh（通用，4/6）
+> 「この程度の攻撃、よけてみせるよ!」
+"Tôi có thể né đòn tấn công này!"
+
+@6775 Quatre · カトル
+# Kích hoạt: Né tránh（通用，5/6）
+> 「あたりはしないよ!」
+"Bạn không thể đánh nó!"
+
+@6776 Quatre · カトル
+# Kích hoạt: Né tránh（通用，6/6）
+> 「あたらない!」
+"Bỏ lỡ!"
+
+@6777 Quatre · カトル
+# Kích hoạt: Tấn công无效（护罩／装甲）（通用，1/2）
+> 「残念だけど、効かないんだ」
+"Xin lỗi, nó vô dụng."
+
+@6778 Quatre · カトル
+# Kích hoạt: Tấn công无效（护罩／装甲）（通用，2/2）
+> 「ビームは効かないよ」
+"Chùm tia này vô dụng."
+
+@6779 Quatre · カトル
+# Kích hoạt: 弹药／EN 不足，无法反击（通用，1/1）
+> 「弾切れ!? そんな!」
+"Hết đạn!? Làm sao có thể!"
+
+@6780 Quatre · カトル
+# Kích hoạt: 射程外，无法反击（通用，1/1）
+> 「くっ、届かないなんてっ!」
+"Chà, nó không thể đạt được!"
+
+@14377 Quatre · カトル
+# Kích hoạt: 使用〈バルカン砲／60mmバルカン砲／バルカンポッド／80mmバルカン砲／30mmバルカン砲〉（低优先，可能被通用台词顶掉）
+> 「撃つよ!」
+"Cháy!"
+
+@14378 Quatre · カトル
+# Kích hoạt: 使用〈ミサイル／グレネードランチャー／ミサイルポッド／ホーミングミサイル／連装ミサイルランチャー／小型ミサイル／大型ミサイル〉（低优先，可能被通用台词顶掉）
+> 「撃つよ!」
+"Cháy!"
+
+@14379 Quatre · カトル
+# Kích hoạt: 使用〈クロスクラッシャー〉（低优先，可能被通用台词顶掉）
+> 「撃つよ!」
+"Cháy!"
+
+@14380 Quatre · カトル
+# Kích hoạt: 使用〈バルカン砲／60mmバルカン砲／バルカンポッド／80mmバルカン砲／30mmバルカン砲〉（低优先，可能被通用台词顶掉）
+> 「撃つよ!」
+"Cháy!"
+
+@14381 Quatre · カトル
+# Kích hoạt: 使用〈バルカン砲／60mmバルカン砲／バルカンポッド／80mmバルカン砲／30mmバルカン砲〉（低优先，可能被通用台词顶掉）
+> 「撃つよ!」
+"Cháy!"
+
+@14382 Quatre · カトル
+# Kích hoạt: 使用〈ミサイル／グレネードランチャー／ミサイルポッド／ホーミングミサイル／連装ミサイルランチャー／小型ミサイル／大型ミサイル〉（低优先，可能被通用台词顶掉）
+> 「撃つよ!」
+"Cháy!"
+
+@14383 Quatre · カトル
+# Kích hoạt: 使用〈ビームマシンガン〉（低优先，可能被通用台词顶掉）
+> 「撃つよ!」
+"Cháy!"
+
+@14384 Quatre · カトル
+# Kích hoạt: Tấn công，乘坐〈ガンダムサンドロック〉
+> 「いくよ、サンドロック」
+"Tiến lên, Desert Gun"
+
+@14385 Quatre · カトル
+# Kích hoạt: Tấn công，乘坐〈サンドロックカスタム〉
+> 「いくよ、サンドロック」
+"Tiến lên, Desert Gun"
+
+@14386 Quatre · カトル
+# Kích hoạt: Tấn công，乘坐〈ガンダムサンドロック改〉
+> 「いくよ、サンドロック」
+"Tiến lên, Desert Gun"
+
+@14387 Quatre · カトル
+# Kích hoạt: 被击坠，乘坐〈ガンダムサンドロック〉
+> 「うぁぁっ、ごめんサンドロック……」
+"A, xin lỗi, Desert Gun..."
+
+@14388 Quatre · カトル
+# Kích hoạt: 被击坠，乘坐〈サンドロックカスタム〉
+> 「うぁぁっ、ごめんサンドロック……」
+"A, xin lỗi, Desert Gun..."
+
+@14389 Quatre · カトル
+# Kích hoạt: 被击坠，乘坐〈ガンダムサンドロック改〉
+> 「うぁぁっ、ごめんサンドロック……」
+"A, xin lỗi, Desert Gun..."
+
+@14390 Quatre · カトル
+# Kích hoạt: 重伤（剩余 HP 不足 30%），乘坐〈ガンダムサンドロック〉
+> 「くぅ、にぶい!? サンドロック!」
+"Hmm, phản ứng chậm quá!? Desert Tsunade!"
+
+@14391 Quatre · カトル
+# Kích hoạt: 重伤（剩余 HP 不足 30%），乘坐〈サンドロックカスタム〉
+> 「くぅ、にぶい!? サンドロック!」
+"Hmm, phản ứng chậm quá!? Desert Tsunade!"
+
+@14392 Quatre · カトル
+# Kích hoạt: 重伤（剩余 HP 不足 30%），乘坐〈ガンダムサンドロック改〉
+> 「くぅ、にぶい!? サンドロック!」
+"Hmm, phản ứng chậm quá!? Desert Tsunade!"
+
+@14393 Quatre · カトル
+# Kích hoạt: 重伤（剩余 HP 不足 30%），乘坐〈ガンダムサンドロック〉
+> 「くっ! 立ってサンドロック!
+>  まだやられるわけにはいかないんだ!」
+"Hmm! Đứng dậy đi, Desert Gun! Bạn chưa thể bị hạ gục!"
+
+@14394 Quatre · カトル
+# Kích hoạt: 重伤（剩余 HP 不足 30%），乘坐〈サンドロックカスタム〉
+> 「くっ! 立ってサンドロック!
+>  まだやられるわけにはいかないんだ!」
+"Hmm! Đứng dậy đi, Desert Gun! Bạn chưa thể bị hạ gục!"
+
+@14395 Quatre · カトル
+# Kích hoạt: 重伤（剩余 HP 不足 30%），乘坐〈ガンダムサンドロック改〉
+> 「くっ! 立ってサンドロック!
+>  まだやられるわけにはいかないんだ!」
+"Hmm! Đứng dậy đi, Desert Gun! Bạn chưa thể bị hạ gục!"
+
+@14396 Quatre · カトル
+# Kích hoạt: Né tránh，乘坐〈ガンダムサンドロック改〉
+> 「よし、サンドロック」
+"Được rồi, Desert Gun"

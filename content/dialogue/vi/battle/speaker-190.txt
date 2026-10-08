@@ -1,0 +1,160 @@
+# Bản dịch tiếng Việt Super Robot Wars 64
+# Định dạng và vị trí: docs/guide/dialogue-text.md
+
+@12178 Drake · ドレイク
+# Kích hoạt: Tấn công (Chung，1/6）
+> 「撃てっ! 撃ち落とせ!!」
+"Bắn! Đập nó đi!!"
+
+@12179 Drake · ドレイク
+# Kích hoạt: Tấn công (Chung，2/6）
+> 「しゃらくさいっ!」
+"Đừng thể hiện!"
+
+@12180 Drake · ドレイク
+# Kích hoạt: Tấn công (Chung，3/6）
+> 「叩き落とせ!!」
+"Giết tôi đi!!"
+
+@12181 Drake · ドレイク
+# Kích hoạt: Tấn công (Chung，4/6）
+> 「前方に火力を集中せよ!」
+"Tập trung hỏa lực vào phía trước!"
+
+@12182 Drake · ドレイク
+# Kích hoạt: Tấn công (Chung，5/6）
+> 「落として見せい!」
+"Giết tôi đi!"
+
+@12183 Drake · ドレイク
+# Kích hoạt: Tấn công (Chung，6/6）
+> 「やらせん!」
+"Đừng nghĩ tới chuyện đó nữa!"
+
+@12184 Drake · ドレイク
+# Kích hoạt: 被击坠（通用，1/2）
+> 「う、うおおおっ!?」
+"Uuuuuuuuuuuuuuuuuuuuu!?"
+
+@12185 Drake · ドレイク
+# Kích hoạt: 被击坠（通用，2/2）
+> 「バカな……ウィル・ウィプスが
+>  落ちるだと……」
+“Không thể nào… Will Wips thực sự có thể ngã…”
+
+@12186 Drake · ドレイク
+# Kích hoạt: 重伤（剩余 HP 不足 30%）（通用，1/3）
+> 「むう! オーラコンバーターに
+>  直撃だと……」
+"Ugh! Bộ chuyển đổi Aura bị trúng trực tiếp..."
+
+@12187 Drake · ドレイク
+# Kích hoạt: 重伤（剩余 HP 不足 30%）（通用，2/3）
+> 「ぬううっ! な、何だこの力は……」
+"Uh-ồ! Cái, sức mạnh này là gì vậy..."
+
+@12188 Drake · ドレイク
+# Kích hoạt: 重伤（剩余 HP 不足 30%）（通用，3/3）
+> 「ぐっ! これ以上やられては、
+>  ウィル・ウィプスといえど……」
+"Ugh! Nếu cậu tiếp tục bị đánh như thế này, ngay cả Will Wips cũng sẽ..."
+
+@12189 Drake · ドレイク
+# Kích hoạt: 中伤（剩余 HP 30–90%）（通用，1/4）
+> 「むっ!? 何をしておる!
+>  対空砲火!」
+"Hả!? Cậu đang làm gì vậy! Hỏa lực phòng không!"
+
+@12190 Drake · ドレイク
+# Kích hoạt: 中伤（剩余 HP 30–90%）（通用，2/4）
+> 「ちいっ! 小賢しいマネを……」
+"Tsk! Thật là một thủ thuật thông minh..."
+
+@12191 Drake · ドレイク
+# Kích hoạt: 中伤（剩余 HP 30–90%）（通用，3/4）
+> 「くっ! ええい、ちょこまかと……」
+"Ugh! Chết tiệt, họ đang chạy vòng quanh..."
+
+@12192 Drake · ドレイク
+# Kích hoạt: 中伤（剩余 HP 30–90%）（通用，4/4）
+> 「ぬうっ! どうした! ウィル・ウィプスの
+>  動きが鈍いぞ!」
+"Hmm! Chuyện gì đang xảy ra vậy! Cử động của Will Wips trở nên chậm chạp rồi!"
+
+@12193 Drake · ドレイク
+# Kích hoạt: 轻伤（剩余 HP 90% 以上）（通用，1/5）
+> 「小賢しいな」
+“Bạn thực sự thông minh và thông minh”
+
+@12194 Drake · ドレイク
+# Kích hoạt: 轻伤（剩余 HP 90% 以上）（通用，2/5）
+> 「ふ……落ちはせんよ」
+"Hmph...tôi sẽ không ngã đâu"
+
+@12195 Drake · ドレイク
+# Kích hoạt: 轻伤（剩余 HP 90% 以上）（通用，3/5）
+> 「ふん、なめられたものだな」
+"Hừ, ngươi dám coi thường ta sao?"
+
+@12196 Drake · ドレイク
+# Kích hoạt: 轻伤（剩余 HP 90% 以上）（通用，4/5）
+> 「その程度の攻撃では、
+>  ウィル・ウィプスは落ちんよ」
+“Với đòn tấn công này, bạn không thể đánh bại Will Wips.”
+
+@12197 Drake · ドレイク
+# Kích hoạt: 轻伤（剩余 HP 90% 以上）（通用，5/5）
+> 「ハハハハ、数で来なければこの
+>  ウィル・ウィプスは落ちはせん」
+“Hahahaha, nếu không dựa vào số lượng lớn thì chúng ta không bao giờ có thể đánh bại Will Wips.”
+
+@12198 Drake · ドレイク
+# Kích hoạt: Né tránh（通用，1/4）
+> 「急速回避!」
+"Nhanh tránh ra!"
+
+@12199 Drake · ドレイク
+# Kích hoạt: Né tránh（通用，2/4）
+> 「当たるな!」
+"Đừng để bị đánh!"
+
+@12200 Drake · ドレイク
+# Kích hoạt: Né tránh（通用，3/4）
+> 「回避運動急げ!」
+"Thực hiện động tác né tránh nhanh lên!"
+
+@12201 Drake · ドレイク
+# Kích hoạt: Né tránh（通用，4/4）
+> 「かわして見せい!」
+"Tránh đường cho tôi!"
+
+@12202 Drake · ドレイク
+# Kích hoạt: Tấn công无效（护罩／装甲）（通用，1/2）
+> 「オーラバリアがその程度で」
+"Làm sao rào chắn hào quang có thể bị phá vỡ bởi đòn tấn công này?"
+
+@12203 Drake · ドレイク
+# Kích hoạt: Tấn công无效（护罩／装甲）（通用，2/2）
+> 「ふん、ウィル・ウィプスのオーラバリアが
+>  その程度で」
+“Hừm, đòn tấn công này làm sao có thể phá vỡ kết giới hào quang của Will Wips?”
+
+@12204 Drake · ドレイク
+# Kích hoạt: 弹药／EN 不足，无法反击（通用，1/1）
+> 「弾切れだと!? どういう事か!」
+"Hết đạn!? Chuyện gì đang xảy ra vậy!"
+
+@12205 Drake · ドレイク
+# Kích hoạt: 射程外，无法反击（通用，1/1）
+> 「遠距離からの攻撃か……よくやる」
+"Chiến đấu từ xa...nhưng tôi có một bàn tay"
+
+@16837 Drake · ドレイク
+# Kích hoạt: 使用〈ハイパーオーラキャノン〉（低优先，可能被通用台词顶掉）
+> 「主砲、一斉発射!」
+"Súng chính, loạt đạn!"
+
+@16838 Drake · ドレイク
+# Kích hoạt: 使用〈オーラバルカン〉（低优先，可能被通用台词顶掉）
+> 「全砲門開け!一斉射撃!」
+"Mở tất cả các cổng súng! Bắn loạt!"

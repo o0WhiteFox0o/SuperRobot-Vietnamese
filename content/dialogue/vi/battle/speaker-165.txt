@@ -1,0 +1,325 @@
+# Bản dịch tiếng Việt Super Robot Wars 64
+# Định dạng và vị trí: docs/guide/dialogue-text.md
+
+@9231 Banjo · 万丈
+# Kích hoạt: Tấn công (Chung，1/6）
+> 「そこだっ!!」
+“Chính là nó!!”
+
+@9232 Banjo · 万丈
+# Kích hoạt: Tấn công (Chung，2/6）
+> 「行くぞっ!!」
+"Nào! ! "
+
+@9233 Banjo · 万丈
+# Kích hoạt: Tấn công (Chung，3/6）
+> 「そらよっ!」
+"Hãy di chuyển!"
+
+@9234 Banjo · 万丈
+# Kích hoạt: Tấn công (Chung，4/6）
+> 「さて、ではいきますか!」
+"Được rồi, chúng ta bắt đầu thôi!"
+
+@9235 Banjo · 万丈
+# Kích hoạt: Tấn công (Chung，5/6）
+> 「これで、どうだっ!!」
+"Động thái này thế nào!!"
+
+@9236 Banjo · 万丈
+# Kích hoạt: Tấn công (Chung，6/6）
+> 「もらったっ!」
+"Thành công!"
+
+@9237 Banjo · 万丈
+# Kích hoạt: 被击坠（通用，1/3）
+> 「なんだってぇ!?」
+"Làm sao chuyện đó có thể xảy ra được!?"
+
+@9238 Banjo · 万丈
+# Kích hoạt: 被击坠（通用，2/3）
+> 「な、なんとおーっ!?」
+"C-cái gì-!?"
+
+@9239 Banjo · 万丈
+# Kích hoạt: 被击坠（通用，3/3）
+> 「くっ! やられたっ!」
+"Ugh! Bị giết!"
+
+@9240 Banjo · 万丈
+# Kích hoạt: 重伤（剩余 HP 不足 30%）（通用，1/6）
+> 「しまった! ダメージを受けすぎたか!?」
+"Ối! Vết thương có nghiêm trọng lắm không!?"
+
+@9241 Banjo · 万丈
+# Kích hoạt: 重伤（剩余 HP 不足 30%）（通用，2/6）
+> 「くっ、こうダメージをうけては……」
+"A, ta bị thương rất nặng..."
+
+@9242 Banjo · 万丈
+# Kích hoạt: 重伤（剩余 HP 不足 30%）（通用，3/6）
+> 「ぐっ! い、いくらダイターンでも、
+>  このままでは……」
+"Chà! Chỉ là, ngay cả khi bạn là Titan, nếu điều này tiếp tục..."
+
+@9243 Banjo · 万丈
+# Kích hoạt: 重伤（剩余 HP 不足 30%）（通用，4/6）
+> 「うっ! うわっ!!」
+"Ồ! Ồ!!"
+
+@9244 Banjo · 万丈
+# Kích hoạt: 重伤（剩余 HP 不足 30%）（通用，5/6）
+> 「ぐっ!! まずい! このままでは!!」
+"Ugh!! Không ổn! Tiếp tục làm thế này đi!!"
+
+@9245 Banjo · 万丈
+# Kích hoạt: 重伤（剩余 HP 不足 30%）（通用，6/6）
+> 「くっ! このままじゃ……」
+"Chà! Nếu chuyện này tiếp tục..."
+
+@9246 Banjo · 万丈
+# Kích hoạt: 中伤（剩余 HP 30–90%）（通用，1/7）
+> 「その程度で、ダイターンは落ちんよ!」
+"Chỉ dựa vào điểm này, Titan không thể thất bại!"
+
+@9247 Banjo · 万丈
+# Kích hoạt: 中伤（剩余 HP 30–90%）（通用，2/7）
+> 「まだまだっ!」
+"Vẫn còn sớm!"
+
+@9248 Banjo · 万丈
+# Kích hoạt: 中伤（剩余 HP 30–90%）（通用，3/7）
+> 「うっ!! やってくれちゃって!」
+"Wow!! Bạn thực sự dám làm điều đó!"
+
+@9249 Banjo · 万丈
+# Kích hoạt: 中伤（剩余 HP 30–90%）（通用，4/7）
+> 「うっ! 今のはちょっと効いたかな」
+"Hmm! Vừa rồi có hơi đau một chút."
+
+@9250 Banjo · 万丈
+# Kích hoạt: 中伤（剩余 HP 30–90%）（通用，5/7）
+> 「あいたた……ちょっと油断したかな?」
+"Ồ...bạn có hơi bất cẩn không?"
+
+@9251 Banjo · 万丈
+# Kích hoạt: 中伤（剩余 HP 30–90%）（通用，6/7）
+> 「へえ、やるじゃないの」
+"Này, tôi có chút thời gian."
+
+@9252 Banjo · 万丈
+# Kích hoạt: 中伤（剩余 HP 30–90%）（通用，7/7）
+> 「なんの、まだまだっ!」
+"Điều này có nghĩa là gì? Vẫn còn sớm!"
+
+@9253 Banjo · 万丈
+# Kích hoạt: 轻伤（剩余 HP 90% 以上）（通用，1/6）
+> 「ふん、軽い軽い」
+"Hừm, chuyện nhỏ thôi."
+
+@9254 Banjo · 万丈
+# Kích hoạt: 轻伤（剩余 HP 90% 以上）（通用，2/6）
+> 「その程度かい?」
+"Đây là tất cả những gì bạn có thể làm?"
+
+@9255 Banjo · 万丈
+# Kích hoạt: 轻伤（剩余 HP 90% 以上）（通用，3/6）
+> 「そんな攻撃では、ダイターンを
+>  倒す事などできんよ!」
+“Đòn tấn công đó không thể đánh bại được Titan!”
+
+@9256 Banjo · 万丈
+# Kích hoạt: 轻伤（剩余 HP 90% 以上）（通用，4/6）
+> 「効かんよ! その程度ではな!」
+"Vô dụng! Chỉ cần dựa vào năng lực này!"
+
+@9257 Banjo · 万丈
+# Kích hoạt: 轻伤（剩余 HP 90% 以上）（通用，5/6）
+> 「このダイターンをなめてもらっては困るな」
+"Đừng đánh giá thấp Titan này."
+
+@9258 Banjo · 万丈
+# Kích hoạt: 轻伤（剩余 HP 90% 以上）（通用，6/6）
+> 「なんのっ!!」
+"Cái gì thế này!!"
+
+@9259 Banjo · 万丈
+# Kích hoạt: Né tránh（通用，1/6）
+> 「ほらほら、どこ狙ってんの」
+"Nào, cậu đang nhắm vào đâu?"
+
+@9260 Banjo · 万丈
+# Kích hoạt: Né tránh（通用，2/6）
+> 「よっと! 軽い軽い」
+"Này! Dễ thôi, dễ thôi."
+
+@9261 Banjo · 万丈
+# Kích hoạt: Né tránh（通用，3/6）
+> 「ほらほら、こっちだこっち」
+"Đi, lối này."
+
+@9262 Banjo · 万丈
+# Kích hoạt: Né tránh（通用，4/6）
+> 「おっと!」
+"Ồ ồ!"
+
+@9263 Banjo · 万丈
+# Kích hoạt: Né tránh（通用，5/6）
+> 「なんとっ!!」
+"Ối!!"
+
+@9264 Banjo · 万丈
+# Kích hoạt: Né tránh（通用，6/6）
+> 「あまいなっ!」
+"Thật ngây thơ!"
+
+@9265 Banjo · 万丈
+# Kích hoạt: Tấn công无效（护罩／装甲）（通用，1/3）
+> 「そういうムダなことは、やめたほうがいいと
+>  思うな」
+"Tôi nghĩ tốt hơn hết là đừng lãng phí công sức như vậy."
+
+@9266 Banjo · 万丈
+# Kích hoạt: Tấn công无效（护罩／装甲）（通用，2/3）
+> 「ムダなことを……」
+"Thật lãng phí sức lực..."
+
+@9267 Banjo · 万丈
+# Kích hoạt: Tấn công无效（护罩／装甲）（通用，3/3）
+> 「ビームは効かないっていってる!!」
+"Tôi đã nói với bạn rằng chùm tia là vô dụng!!"
+
+@9268 Banjo · 万丈
+# Kích hoạt: 弹药／EN 不足，无法反击（通用，1/1）
+> 「何と、弾切れか!?
+>  僕とした事が……」
+"Cái gì, tôi hết đạn rồi!? Thực ra tôi có thể..."
+
+@9269 Banjo · 万丈
+# Kích hoạt: 射程外，无法反击（通用，1/2）
+> 「ちっ、この距離では届きそうもないな」
+"Tsk, khoảng cách này có vẻ ngoài tầm với rồi."
+
+@9270 Banjo · 万丈
+# Kích hoạt: 射程外，无法反击（通用，2/2）
+> 「くっ、だめか!?」
+"Chà, bạn có thể không!?"
+
+@14704 Banjo · 万丈
+# Kích hoạt: 使用〈ダイターンザンバー〉（低优先，可能被通用台词顶掉）
+> 「ダイターンザンバー!!」
+"Titan Saber!!"
+
+@14705 Banjo · 万丈
+# Kích hoạt: 使用〈ダイターンハンマー〉
+> 「ダイターンハンマー!!」
+"Búa Titan!!"
+
+@14706 Banjo · 万丈
+# Kích hoạt: 使用〈ダイターンウェッブ〉
+> 「ダイターンウェッブ!!」
+"Mạng lưới Titan!!"
+
+@14707 Banjo · 万丈
+# Kích hoạt: 使用〈ビッグウェッブ〉（低优先，可能被通用台词顶掉）
+> 「ビッグウェッブ!!」
+"Mạng khổng lồ!!"
+
+@14708 Banjo · 万丈
+# Kích hoạt: 使用〈ダイターンミサイル〉（低优先，可能被通用台词顶掉）
+> 「ダイターンミサイル!!」
+"Tên lửa Titan!!"
+
+@14709 Banjo · 万丈
+# Kích hoạt: 使用〈ダイターンキャノン〉（低优先，可能被通用台词顶掉）
+> 「ダイターンキャノン!!」
+"Pháo Titan!!"
+
+@14710 Banjo · 万丈
+# Kích hoạt: 使用〈サンレーザー〉（低优先，可能被通用台词顶掉）
+> 「サンレーザー!!」
+"Laser năng lượng mặt trời!!"
+
+@14711 Banjo · 万丈
+# Kích hoạt: 使用〈アイアンネット〉（低优先，可能被通用台词顶掉）
+> 「ダイターンファン!!」
+"Quạt Titan!!"
+
+@14712 Banjo · 万丈
+# Kích hoạt: 使用〈アイアンネット〉（低优先，可能被通用台词顶掉）
+> 「ダイターンジャベリン、のびろっ!!」
+"Titan lao, kéo dài nó ra!!"
+
+@14713 Banjo · 万丈
+# Kích hoạt: 使用〈アイアンネット〉（低优先，可能被通用台词顶掉）
+> 「ダイターンファン、出ろっ!!」
+"Titan Fan, ra đây!!"
+
+@14714 Banjo · 万丈
+# Kích hoạt: 使用〈サンアタック〉（对话第 1/2 句）
+> 「日輪の力を借りて、今、
+>  必殺の! サン・アタァァァァック!!」
+"Với sức mạnh của đĩa mặt trời, vào lúc này, một đòn chí mạng! Mặt trời - tấn công -!!"
+
+@14715 Banjo · 万丈
+# Kích hoạt: 使用〈サンアタック〉（对话第 2/2 句）
+> 「ダイタァァァン・クラァァァッシュ!!」
+"Titan-đập-!!"
+
+@14716 Banjo · 万丈
+# Kích hoạt: 使用〈爆弾〉（低优先，可能被通用台词顶掉）
+> 「爆雷投下!」
+"Thả mìn sâu!"
+
+@14717 Banjo · 万丈
+# Kích hoạt: 使用〈スペースコンビネーションアタック〉（对话第 1/10 句）
+> 「用意はいいかい、君たち?」
+"Các bạn đã sẵn sàng chưa, các bạn?"
+
+@14718 Kappei · 勝平
+# Kích hoạt: 使用〈スペースコンビネーションアタック〉（对话第 2/10 句）
+> 「おう!」
+"Được rồi!"
+
+@14719 Kappei · 勝平
+# Kích hoạt: 使用〈スペースコンビネーションアタック〉（对话第 3/10 句）
+> 「いつでも大丈夫だぜ!」
+"Bất cứ lúc nào, không có vấn đề!"
+
+@14720 Banjo · 万丈
+# Kích hoạt: 使用〈スペースコンビネーションアタック〉（对话第 4/10 句）
+> 「よし! ではいくぞ!」
+"Được rồi! Đi thôi!
+---
+> 「日輪の力を借りて、今、必殺の!」
+Với sức mạnh của mặt trời, vào lúc này, kẻ phải bị giết——! "
+
+@14721 Kappei · 勝平
+# Kích hoạt: 使用〈スペースコンビネーションアタック〉（对话第 5/10 句）
+> 「ザンボットォォォッ!!」
+"Zanbo——!!"
+
+@14722 Banjo · 万丈
+# Kích hoạt: 使用〈スペースコンビネーションアタック〉（对话第 6/10 句）
+> 「サン!」
+"Mặt trời!"
+
+@14723 Kappei · 勝平
+# Kích hoạt: 使用〈スペースコンビネーションアタック〉（对话第 7/10 句）
+> 「ムーン!」
+"Mặt trăng!"
+
+@14724 Banjo · 万丈
+# Kích hoạt: 使用〈スペースコンビネーションアタック〉（对话第 8/10 句）
+> 「アタァァァァァーック!!」
+"Tấn công-tấn công-!!"
+
+@14725 Banjo · 万丈
+# Kích hoạt: 使用〈スペースコンビネーションアタック〉（对话第 9/10 句）
+> 「コンビネーション!!」
+“Sự kết hợp——!!”
+
+@14726 Kappei · 勝平
+# Kích hoạt: 使用〈スペースコンビネーションアタック〉（对话第 10/10 句）
+> 「クラァァァッシュ!!」
+"Đè bẹp——!!"

@@ -1,0 +1,245 @@
+# Bản dịch tiếng Việt Super Robot Wars 64
+# Định dạng và vị trí: docs/guide/dialogue-text.md
+
+@10348 Blacky · ブラッキー
+# Kích hoạt: Tấn công (Chung，1/13）
+> 「このブラッキー様が地獄へ
+>  送りこんでやるぞ、ありがたく思え」
+"Tôi, ông Brachi, sẽ tống ông xuống địa ngục, nên hãy biết ơn."
+
+@10349 Blacky · ブラッキー
+# Kích hoạt: Tấn công (Chung，2/13）
+> 「よし、ゆけ!」
+"Được rồi, đi thôi!"
+
+@10350 Blacky · ブラッキー
+# Kích hoạt: Tấn công (Chung，3/13）
+> 「木っ端みじんだ!」
+"Thổi bay ngươi thành từng mảnh!"
+
+@10351 Blacky · ブラッキー
+# Kích hoạt: Tấn công (Chung，4/13）
+> 「地獄の底へ葬り去るのだ!」
+"Chôn ngươi xuống vực sâu địa ngục!"
+
+@10352 Blacky · ブラッキー
+# Kích hoạt: Tấn công (Chung，5/13）
+> 「フフフフフフ、地獄のダンスを
+>  踊らせてやるぞ」
+"Hehehehe, tôi sẽ cho cậu nhảy một điệu nhảy địa ngục."
+
+@10353 Blacky · ブラッキー
+# Kích hoạt: Tấn công (Chung，6/13）
+> 「徹底的に壊せ、そして燃やすのだ」
+"Sự hủy diệt hoàn toàn và sau đó cháy rụi."
+
+@10354 Blacky · ブラッキー
+# Kích hoạt: Tấn công (Chung，7/13）
+> 「爆破してしまえ!」
+"Thổi thành từng mảnh!"
+
+@10355 Blacky · ブラッキー
+# Kích hoạt: Tấn công (Chung，8/13）
+> 「総攻撃開始ーっ!」
+“Toàn quân tấn công——!”
+
+@10356 Blacky · ブラッキー
+# Kích hoạt: Tấn công (Chung，9/13）
+> 「せめて、せめて、せめまくれー!」
+“Tấn công, tấn công, tấn công tôi—!”
+
+@10357 Blacky · ブラッキー
+# Kích hoạt: Tấn công (Chung，10/13）
+> 「地球最後の日を見るがいい!」
+"Chỉ cần xem tận cùng trái đất!"
+
+@10358 Blacky · ブラッキー
+# Kích hoạt: Tấn công (Chung，11/13）
+> 「貴様たちもとうとう年貢の
+>  収め時がきたようだなぁ」
+"Cái chết của bạn cuối cùng đã đến."
+
+@10359 Blacky · ブラッキー
+# Kích hoạt: Tấn công (Chung，12/13）
+> 「とどめをさしてやるぞ!!」
+"Hãy để tôi kết thúc bạn!!"
+
+@10360 Blacky · ブラッキー
+# Kích hoạt: Tấn công (Chung，13/13）
+> 「殺してやる!」
+"Giết ngươi!"
+
+@10361 Blacky · ブラッキー
+# Kích hoạt: 被击坠（通用，1/3）
+> 「ぎゃあぁぁぁぁぁぁーっ!」
+"Ahhhhhhhhh-!"
+
+@10362 Blacky · ブラッキー
+# Kích hoạt: 被击坠（通用，2/3）
+> 「ぐあぁっ、この恨みは必ず、必ず、今度
+>  こそ!」
+"Ồ, ta nhất định, nhất định sẽ báo thù chuyện này, lần sau nhất định sẽ báo thù!"
+
+@10363 Blacky · ブラッキー
+# Kích hoạt: 被击坠（通用，3/3）
+> 「ぐわあぁぁぁぁぁぁーっ!」
+"Uwaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaa!"
+
+@10364 Blacky · ブラッキー
+# Kích hoạt: 重伤（剩余 HP 不足 30%）（通用，1/4）
+> 「ぐわぁぁっ! おぼえておれ、この次は
+>  きっとバラバラにしてやる!」
+"Ugh! Hãy nhớ rằng, lần sau tôi sẽ cắt bạn thành từng mảnh!"
+
+@10365 Blacky · ブラッキー
+# Kích hoạt: 重伤（剩余 HP 不足 30%）（通用，2/4）
+> 「おおぉぉぉーっ、おのれぃ!」
+“Ồ ồ ồ—đáng ghét!”
+
+@10366 Blacky · ブラッキー
+# Kích hoạt: 重伤（剩余 HP 不足 30%）（通用，3/4）
+> 「おぉぉっ!? おのれ、この借りは必ず
+>  返してやるぞ!」
+"Ồ!? Chết tiệt, món nợ này tôi nhất định sẽ trả lại!"
+
+@10367 Blacky · ブラッキー
+# Kích hoạt: 重伤（剩余 HP 不足 30%）（通用，4/4）
+> 「うわぁぁっ!? て、撤退準備を
+>  始めろ! 急げ!」
+"Ồ!? Sẵn sàng rút lui! Nhanh lên!"
+
+@10368 Blacky · ブラッキー
+# Kích hoạt: 中伤（剩余 HP 30–90%）（通用，1/7）
+> 「くそうっ! やられたか!!」
+"Chết tiệt! Bạn có bị đánh không?!"
+
+@10369 Blacky · ブラッキー
+# Kích hoạt: 中伤（剩余 HP 30–90%）（通用，2/7）
+> 「なに!? ええい、まだ直らぬか!」
+"Cái gì!? Chết tiệt, nó vẫn chưa được sửa!"
+
+@10370 Blacky · ブラッキー
+# Kích hoạt: 中伤（剩余 HP 30–90%）（通用，3/7）
+> 「なんだと!? くっ、うろたえるな!」
+"Cái gì!? Đừng hoảng sợ!"
+
+@10371 Blacky · ブラッキー
+# Kích hoạt: 中伤（剩余 HP 30–90%）（通用，4/7）
+> 「まっ、まさか!? こんなパワーがあるのか!
+>  ?」
+"Có thể không!? Có sức mạnh như vậy sao!?"
+
+@10372 Blacky · ブラッキー
+# Kích hoạt: 中伤（剩余 HP 30–90%）（通用，5/7）
+> 「ハハハハッ、ムダだムダだ!」
+"Ha ha ha, vô ích!"
+
+@10373 Blacky · ブラッキー
+# Kích hoạt: 中伤（剩余 HP 30–90%）（通用，6/7）
+> 「ワハハハハハッ、なにをやっている!」
+"Wahahahahahaha, bạn đang làm gì vậy!"
+
+@10374 Blacky · ブラッキー
+# Kích hoạt: 中伤（剩余 HP 30–90%）（通用，7/7）
+> 「ぐっ、おのれよくもやってくれおったな!」
+"Hừ, đáng ghét, sao ngươi dám làm như vậy với ta!"
+
+@10375 Blacky · ブラッキー
+# Kích hoạt: 轻伤（剩余 HP 90% 以上）（通用，1/6）
+> 「誘いに乗ってきよったな、フフ」
+"Bạn đã cắn câu rồi, haha."
+
+@10376 Blacky · ブラッキー
+# Kích hoạt: 轻伤（剩余 HP 90% 以上）（通用，2/6）
+> 「ゆるさん!」
+"Tôi không thể tha cho bạn!"
+
+@10377 Blacky · ブラッキー
+# Kích hoạt: 轻伤（剩余 HP 90% 以上）（通用，3/6）
+> 「この期に及んで強がりなど
+>  通用せんぞ」
+“Bây giờ cố tỏ ra dũng cảm cũng chẳng ích gì.”
+
+@10378 Blacky · ブラッキー
+# Kích hoạt: 轻伤（剩余 HP 90% 以上）（通用，4/6）
+> 「しまった!」
+"Ối!"
+
+@10379 Blacky · ブラッキー
+# Kích hoạt: 轻伤（剩余 HP 90% 以上）（通用，5/6）
+> 「こやつ!」
+"Anh chàng này!"
+
+@10380 Blacky · ブラッキー
+# Kích hoạt: 轻伤（剩余 HP 90% 以上）（通用，6/6）
+> 「ハハハ、身の程知らずめ」
+"Ha ha, ngươi thật là ngu ngốc."
+
+@10381 Blacky · ブラッキー
+# Kích hoạt: Né tránh（通用，1/3）
+> 「勝てる、勝てるぞ」
+"Chúng ta nhất định sẽ thắng, nhất định sẽ thắng!"
+
+@10382 Blacky · ブラッキー
+# Kích hoạt: Né tránh（通用，2/3）
+> 「うまくいったぞ!」
+"Làm tốt lắm!"
+
+@10383 Blacky · ブラッキー
+# Kích hoạt: Né tránh（通用，3/3）
+> 「俺の勝ちだな!」
+"Tôi đã thắng!"
+
+@10384 Blacky · ブラッキー
+# Kích hoạt: Tấn công无效（护罩／装甲）（通用，1/1）
+> 「よくやった!」
+"Làm tốt lắm!"
+
+@10385 Blacky · ブラッキー
+# Kích hoạt: 弹药／EN 不足，无法反击（通用，1/2）
+> 「な、何ごとだ! エネルギー切れだと!?」
+"Cái, cái gì đang xảy ra vậy! Năng lượng đã cạn kiệt rồi!?"
+
+@10386 Blacky · ブラッキー
+# Kích hoạt: 弹药／EN 不足，无法反击（通用，2/2）
+> 「いったいどうなってんだ、くそう」
+"Cái quái gì đã xảy ra vậy, chết tiệt!"
+
+@10387 Blacky · ブラッキー
+# Kích hoạt: 射程外，无法反击（通用，1/2）
+> 「ええーい、何をモタモタしている
+>  ここまで追いつめながら」
+"Mẹ kiếp, ngươi đã bị ép làm như vậy, sao còn lảng vảng!"
+
+@10388 Blacky · ブラッキー
+# Kích hoạt: 射程外，无法反击（通用，2/2）
+> 「ええい、もう少しのところを」
+"Chết tiệt, nó chỉ gần một chút thôi!"
+
+@15800 Blacky · ブラッキー
+# Kích hoạt: 对手驾驶员〈デューク〉
+> 「デューク・フリード、地獄の旅にグレ
+>  ンダイザーを棺おけがわりにつけてやるぜ」
+"Công tước Freed, ta sẽ tống ngươi xuống địa ngục và để Gulentesa làm quan tài cho ngươi!"
+
+@15801 Blacky · ブラッキー
+# Kích hoạt: 对手驾驶员〈デューク〉
+> 「今度こそなんとしても
+>  デューク・フリードを倒さねばならぬ!」
+“Chúng ta sẽ đánh bại Công tước Freed bất kể thế nào vào lúc này!”
+
+@15802 Blacky · ブラッキー
+# Kích hoạt: 对手驾驶员〈デューク〉
+> 「デューク・フリードはこの俺が倒すのだ!」
+“Công tước Freed sẽ bị chính tôi đánh bại!”
+
+@15803 Blacky · ブラッキー
+# Kích hoạt: 对手驾驶员〈デューク〉
+> 「グレンダイザーめ、覚悟!」
+"Gulienentesha, chịu chết đi!"
+
+@15804 Blacky · ブラッキー
+# Kích hoạt: 对手驾驶员〈デューク〉
+> 「デューク・フリード、
+>  今日こそ決着をつけてやる!」
+“Công tước Freed, hãy kết thúc chuyện này ngay hôm nay!”

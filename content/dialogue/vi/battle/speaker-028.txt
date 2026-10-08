@@ -1,0 +1,860 @@
+# Bản dịch tiếng Việt Super Robot Wars 64
+# Định dạng và vị trí: docs/guide/dialogue-text.md
+
+@11626 Manami · マナミ
+# Kích hoạt: Tấn công (Chung，1/15）
+> 「許さない!」
+"Không thể tha thứ!"
+
+@11627 Manami · マナミ
+# Kích hoạt: Tấn công (Chung，2/15）
+> 「絶対許さないわ!」
+"Tuyệt đối không thể tha thứ!"
+
+@11628 Manami · マナミ
+# Kích hoạt: Tấn công (Chung，3/15）
+> 「当たりなさい!」
+"Đánh tôi đi!"
+
+@11629 Manami · マナミ
+# Kích hoạt: Tấn công (Chung，4/15）
+> 「これでどう!?」
+“Còn động tác này thì sao!?”
+
+@11630 Manami · マナミ
+# Kích hoạt: Tấn công (Chung，5/15）
+> 「これならいけるわ!」
+"Lần này sẽ thành công!"
+
+@11631 Manami · マナミ
+# Kích hoạt: Tấn công (Chung，6/15）
+> 「あたしがやってみせるわ!」
+"Tùy tôi thôi!"
+
+@11632 Manami · マナミ
+# Kích hoạt: Tấn công (Chung，7/15）
+> 「落ちて!」
+"Rớt nó!"
+
+@11633 Manami · マナミ
+# Kích hoạt: Tấn công (Chung，8/15）
+> 「いくわよ!」
+"Tôi đang ở trên đó!"
+
+@11634 Manami · マナミ
+# Kích hoạt: Tấn công (Chung，9/15）
+> 「さぁ、受けてみなさい!」
+"Nào, hành động đi!"
+
+@11635 Manami · マナミ
+# Kích hoạt: Tấn công (Chung，10/15）
+> 「あなたたち、許さないわ!」
+"Các người không thể tha thứ được!"
+
+@11636 Manami · マナミ
+# Kích hoạt: Tấn công (Chung，11/15）
+> 「許せるものでは!」
+"Không bao giờ tha thứ!"
+
+@11637 Manami · マナミ
+# Kích hoạt: Tấn công (Chung，12/15）
+> 「やらせないわ!」
+"Tôi sẽ không để bạn thành công!"
+
+@11638 Manami · マナミ
+# Kích hoạt: Tấn công (Chung，13/15）
+> 「さぁ、観念しなさい!」
+"Được rồi, chấp nhận số phận của mình đi!"
+
+@11639 Manami · マナミ
+# Kích hoạt: Tấn công (Chung，14/15）
+> 「もうあきらめなさい!」
+"Hãy từ bỏ đi!"
+
+@11640 Manami · マナミ
+# Kích hoạt: Tấn công (Chung，15/15）
+> 「まかせて!」
+"Để đó cho tôi! "
+
+@11641 Manami · マナミ
+# Kích hoạt: 被击坠（通用，1/4）
+> 「きゃあぁぁぁーっ!」
+"Ahhhhhh-!"
+
+@11642 Manami · マナミ
+# Kích hoạt: 被击坠（通用，2/4）
+> 「そ、そんな、やられちゃったの!?」
+"Làm sao, làm sao có thể, ta bị đánh gục!?"
+
+@11643 Manami · マナミ
+# Kích hoạt: 被击坠（通用，3/4）
+> 「そ、そんなっ!?」
+"Làm sao, làm sao có thể!?"
+
+@11644 Manami · マナミ
+# Kích hoạt: 被击坠（通用，4/4）
+> 「いやぁぁぁぁーっ!」
+"Không a a a -!"
+
+@11645 Manami · マナミ
+# Kích hoạt: 重伤（剩余 HP 不足 30%）（通用，1/10）
+> 「あうぅぅ……こ、これ以上は……」
+"A wu wu... nếu, nếu chuyện này tiếp tục..."
+
+@11646 Manami · マナミ
+# Kích hoạt: 重伤（剩余 HP 不足 30%）（通用，2/10）
+> 「きゃぁぁっ、こ、ここまでなの!?」
+"A a a, vậy... thế là xong rồi à!?"
+
+@11647 Manami · マナミ
+# Kích hoạt: 重伤（剩余 HP 不足 30%）（通用，3/10）
+> 「ま、まだ、やられないわ!」
+"Vẫn chưa xong đâu, tôi sẽ không ngã đâu!"
+
+@11648 Manami · マナミ
+# Kích hoạt: 重伤（剩余 HP 不足 30%）（通用，4/10）
+> 「はじめから無理は承知なんだから!」
+"Ngay từ đầu tôi đã biết việc này sẽ không dễ dàng!"
+
+@11649 Manami · マナミ
+# Kích hoạt: 重伤（剩余 HP 不足 30%）（通用，5/10）
+> 「だ、だめっ!」
+"Không, không!"
+
+@11650 Manami · マナミ
+# Kích hoạt: 重伤（剩余 HP 不足 30%）（通用，6/10）
+> 「ああぁっ! そ、そんな……
+>  スイームルグが……!?」
+"Ahhh! Làm sao, làm sao... Swaimlug thực sự có thể...!?"
+
+@11651 Manami · マナミ
+# Kích hoạt: 重伤（剩余 HP 不足 30%）（通用，7/10）
+> 「あうっ……許さない!
+>  絶対に許さないわ!」
+"A ô... không thể tha thứ! Ta sẽ không bao giờ tha thứ cho ngươi!"
+
+@11652 Manami · マナミ
+# Kích hoạt: 重伤（剩余 HP 不足 30%）（通用，8/10）
+> 「く、機体はもう限界……でもね!」
+“Cỗ máy, cơ thể đã đạt đến giới hạn…nhưng!”
+
+@11653 Manami · マナミ
+# Kích hoạt: 重伤（剩余 HP 不足 30%）（通用，9/10）
+> 「きゃぁぁぁぁーっ!
+>  こ、これじゃやられてしまう!?」
+"Ahhhhhhhhh——! M-mình sẽ bị đánh gục nếu cứ tiếp tục thế này sao!?"
+
+@11654 Manami · マナミ
+# Kích hoạt: 重伤（剩余 HP 不足 30%）（通用，10/10）
+> 「あぅっ! な、なんて強い!
+>  勝てないの? あたしじゃ!?」
+"A! Mạnh quá! Tôi không thắng được sao!?"
+
+@11655 Manami · マナミ
+# Kích hoạt: 中伤（剩余 HP 30–90%）（通用，1/7）
+> 「や、やってくれるわね!」
+"Ngươi, ngươi thật dũng cảm!"
+
+@11656 Manami · マナミ
+# Kích hoạt: 中伤（剩余 HP 30–90%）（通用，2/7）
+> 「こ、これくらいでっ!」
+"Cái này, vết thương nhỏ này không là gì cả!"
+
+@11657 Manami · マナミ
+# Kích hoạt: 中伤（剩余 HP 30–90%）（通用，3/7）
+> 「くっ、許さないわよ!」
+"Hừ, ta không thể tha cho ngươi!"
+
+@11658 Manami · マナミ
+# Kích hoạt: 中伤（剩余 HP 30–90%）（通用，4/7）
+> 「あうっ! よくもやったわね!」
+"A! Sao ngươi dám làm thế!"
+
+@11659 Manami · マナミ
+# Kích hoạt: 中伤（剩余 HP 30–90%）（通用，5/7）
+> 「まだ! 勝負はこれからよっ!!」
+"Vẫn chưa kết thúc! Người chiến thắng vẫn chưa được quyết định!!"
+
+@11660 Manami · マナミ
+# Kích hoạt: 中伤（剩余 HP 30–90%）（通用，6/7）
+> 「くっ……すこしはできるようね!」
+"Chà...có vẻ như bạn có một số kỹ năng!"
+
+@11661 Manami · マナミ
+# Kích hoạt: 中伤（剩余 HP 30–90%）（通用，7/7）
+> 「くぅっ! このくらいでやられるわけには!」
+"Ugh! Vết thương này làm sao tôi có thể bị đánh bại!"
+
+@11662 Manami · マナミ
+# Kích hoạt: 轻伤（剩余 HP 90% 以上）（通用，1/9）
+> 「つっ! このくらい、なんでもないわ!」
+"Tsk! Vết thương nhỏ này chẳng là gì cả!"
+
+@11663 Manami · マナミ
+# Kích hoạt: 轻伤（剩余 HP 90% 以上）（通用，2/9）
+> 「そんな攻撃ではスイームルグに
+>  傷をつけることもできないわよ」
+“Đòn tấn công đó thậm chí còn không để lại một vết xước nào trên Swailug.”
+
+@11664 Manami · マナミ
+# Kích hoạt: 轻伤（剩余 HP 90% 以上）（通用，3/9）
+> 「ムダな抵抗はおやめなさい!」
+"Đừng chống cự một cách vô ích nữa!"
+
+@11665 Manami · マナミ
+# Kích hoạt: 轻伤（剩余 HP 90% 以上）（通用，4/9）
+> 「ふふっ、そんな攻撃は効かないのよ」
+“Haha, kiểu tấn công đó không có tác dụng gì cả.”
+
+@11666 Manami · マナミ
+# Kích hoạt: 轻伤（剩余 HP 90% 以上）（通用，5/9）
+> 「そんな攻撃はムダです」
+“Đòn tấn công đó thật lãng phí công sức.”
+
+@11667 Manami · マナミ
+# Kích hoạt: 轻伤（剩余 HP 90% 以上）（通用，6/9）
+> 「このスイームルグをあなどってもらっては
+>  困るわ!」
+“Đừng đánh giá thấp tên Svemluger này!”
+
+@11668 Manami · マナミ
+# Kích hoạt: 轻伤（剩余 HP 90% 以上）（通用，7/9）
+> 「やめたほうがよいのではなくって?」
+“Tốt nhất là cậu nên dừng lại, được chứ?”
+
+@11669 Manami · マナミ
+# Kích hoạt: 轻伤（剩余 HP 90% 以上）（通用，8/9）
+> 「ぜ～んぜん、効かないわよ」
+"Nó không hoạt động chút nào."
+
+@11670 Manami · マナミ
+# Kích hoạt: 轻伤（剩余 HP 90% 以上）（通用，9/9）
+> 「ふふっ
+>  このスイームルグを甘くみたわね!」
+"Haha, bạn đã đánh giá thấp Svemluger này!"
+
+@11671 Manami · マナミ
+# Kích hoạt: Né tránh（通用，1/9）
+> 「スイームルグは伊達ではないのよ!」
+"Danh tiếng của Svemlug không phải là vô ích!"
+
+@11672 Manami · マナミ
+# Kích hoạt: Né tránh（通用，2/9）
+> 「このくらいなら!」
+"Thật là một điều tầm thường!"
+
+@11673 Manami · マナミ
+# Kích hoạt: Né tránh（通用，3/9）
+> 「ふふっ、だめよ、それでは」
+"Ha ha, cái này không được."
+
+@11674 Manami · マナミ
+# Kích hoạt: Né tránh（通用，4/9）
+> 「それで狙っているつもりなの?」
+"Ngươi nghĩ có thể nhắm vào ta như vậy sao?"
+
+@11675 Manami · マナミ
+# Kích hoạt: Né tránh（通用，5/9）
+> 「か、かわせたわ」
+"Ẩn đi, trốn đi."
+
+@11676 Manami · マナミ
+# Kích hoạt: Né tránh（通用，6/9）
+> 「下手ねぇ。それとも、
+>  あたしがすごいのかしら?」
+"Nó thực sự tệ. Hay tôi quá tuyệt vời?"
+
+@11677 Manami · マナミ
+# Kích hoạt: Né tránh（通用，7/9）
+> 「あたらないわよ」
+"Bạn không thể đánh nó."
+
+@11678 Manami · マナミ
+# Kích hoạt: Né tránh（通用，8/9）
+> 「読めるわ、あたしにも!」
+"Tôi cũng có thể nhìn thấu nó!"
+
+@11679 Manami · マナミ
+# Kích hoạt: Né tránh（通用，9/9）
+> 「どう、スイームルグのスピードは?」
+“Còn tốc độ của Swailug thì sao?”
+
+@11680 Manami · マナミ
+# Kích hoạt: Tấn công无效（护罩／装甲）（通用，1/6）
+> 「そんな攻撃は効かないわ!」
+“Đòn tấn công đó hoàn toàn không có tác dụng!”
+
+@11681 Manami · マナミ
+# Kích hoạt: Tấn công无效（护罩／装甲）（通用，2/6）
+> 「ビームなんてムダなのよ!」
+"Chùm tia này vô dụng!"
+
+@11682 Manami · マナミ
+# Kích hoạt: Tấn công无效（护罩／装甲）（通用，3/6）
+> 「ビームは無効化するのよ」
+"Chùm tia không thể làm tổn thương nó."
+
+@11683 Manami · マナミ
+# Kích hoạt: Tấn công无效（护罩／装甲）（通用，4/6）
+> 「だめよ、そんな攻撃では」
+“Đòn tấn công đó sẽ không hiệu quả.”
+
+@11684 Manami · マナミ
+# Kích hoạt: Tấn công无效（护罩／装甲）（通用，5/6）
+> 「スイームルグを甘くみないで!」
+“Đừng đánh giá thấp Swailug!”
+
+@11685 Manami · マナミ
+# Kích hoạt: Tấn công无效（护罩／装甲）（通用，6/6）
+> 「フフフッ、効かないのよ、
+>  このスイームルグには!」
+"Hehehe, Swailug không có tác dụng đâu!"
+
+@11686 Manami · マナミ
+# Kích hoạt: 弹药／EN 不足，无法反击（通用，1/1）
+> 「えっ!? エネルギーがないの!?」
+"Ể!? Chúng ta hết năng lượng rồi!?"
+
+@11687 Manami · マナミ
+# Kích hoạt: 射程外，无法反击（通用，1/2）
+> 「くっ、届かないなんてっ!」
+"Chà, tôi thậm chí không thể đạt được nó!"
+
+@11688 Manami · マナミ
+# Kích hoạt: 射程外，无法反击（通用，2/2）
+> 「そんなところからなんて、汚いわ!」
+“Thật đáng khinh khi phải chiến đấu ở một nơi như thế!”
+
+@16567 Manami · マナミ
+# Kích hoạt: 使用〈ライトニングソード〉（低优先，可能被通用台词顶掉）
+> 「ライトニングソォォード!」
+"Kiếm sét!"
+
+@16568 Manami · マナミ
+# Kích hoạt: 使用〈ライトニングソード〉（低优先，可能被通用台词顶掉）
+> 「いくわよ! ライトニングソォォード!」
+"Tiến lên! Lôi Kiếm!"
+
+@16569 Manami · マナミ
+# Kích hoạt: 使用〈ライトニングソード〉（低优先，可能被通用台词顶掉）
+> 「一刀両断!」
+"Cắt nó làm đôi!
+---
+> 「ライトニングソォォード!」
+Kiếm sét! "
+
+@16570 Manami · マナミ
+# Kích hoạt: 使用〈ダブルライトニングソード〉（低优先，可能被通用台词顶掉）
+> 「ダブルライトニングソォォォード!」
+"Song kiếm sét!"
+
+@16571 Manami · マナミ
+# Kích hoạt: 使用〈ダブルライトニングソード〉（低优先，可能被通用台词顶掉）
+> 「受けてみなさい!」
+“Hãy di chuyển!
+---
+> 「ダブルライトニングソォォォード!」
+Đôi kiếm sét! "
+
+@16572 Manami · マナミ
+# Kích hoạt: 使用〈アッシャークルー〉（低优先，可能被通用台词顶掉）
+> 「いって! アッシャークルー!」
+"Đi! Thiên thần Nimbus!"
+
+@16573 Manami · マナミ
+# Kích hoạt: 使用〈アッシャークルー〉（低优先，可能被通用台词顶掉）
+> 「アッシャークルー!」
+"Thiên thần Nimbus!"
+
+@16574 Manami · マナミ
+# Kích hoạt: 使用〈アッシャークルー〉（低优先，可能被通用台词顶掉）
+> 「やってみせる!」
+"Nhìn tôi này!
+---
+> 「アッシャークルー!」
+Thiên thần Nimbus! "
+
+@16575 Manami · マナミ
+# Kích hoạt: 使用〈アッシャークルー〉（低优先，可能被通用台词顶掉）
+> 「さぁ、行くわよ!」
+"Được rồi, đi thôi!
+---
+> 「アッシャークルー!」
+Thiên thần Nimbus! "
+
+@16576 Manami · マナミ
+# Kích hoạt: 使用〈アッシャークルー〉（低优先，可能被通用台词顶掉）
+> 「アッシャークルー……シュート!」
+"Bánh xe ánh sáng thiên thần... phóng! "
+
+@16577 Manami · マナミ
+# Kích hoạt: 使用〈デストラクションブーメラン〉
+> 「デストラクション・ブーメラン!」
+"Boomerang của sự hủy diệt! "
+
+@16578 Manami · マナミ
+# Kích hoạt: 使用〈デストラクションブーメラン〉
+> 「観念しなさい!」
+"Bỏ cuộc đi!
+---
+> 「デストラクション・ブーメラン!」
+Boomerang của sự hủy diệt! "
+
+@16579 Manami · マナミ
+# Kích hoạt: 使用〈デストラクションブーメラン〉
+> 「逃がさないわ!」
+“Đừng cố trốn thoát!
+---
+> 「デストラクション・ブーメラン!」
+Boomerang của sự hủy diệt! "
+
+@16580 Manami · マナミ
+# Kích hoạt: 使用〈デストラクションブーメラン〉
+> 「これで終わりにするわ!」
+“Chính là nó!
+---
+> 「デストラクションッブーメランッ!」
+Boomerang của sự hủy diệt! "
+
+@16581 Manami · マナミ
+# Kích hoạt: 使用〈ブラッディハウリング〉
+> 「いくわ、必殺!」
+"Nào, giết đi!
+---
+> 「ブラッディィィハウリングッ!」
+Tiếng gầm đẫm máu! "
+
+@16582 Manami · マナミ
+# Kích hoạt: 使用〈ブラッディハウリング〉
+> 「ブラッディィィーッハウリングッ!」
+"Tiếng gầm đẫm máu——! "
+
+@16583 Manami · マナミ
+# Kích hoạt: 使用〈ブラッディハウリング〉
+> 「とどめよ!」
+"Một đòn chí mạng!
+---
+> 「ブラッディハウリング!」
+Tiếng gầm đẫm máu! "
+
+@16584 Manami · マナミ
+# Kích hoạt: 使用〈アルティメットビーム〉（低优先，可能被通用台词顶掉）
+> 「アルティメットォォーッビームッ!」
+“Tia sáng tối thượng——!”
+
+@16585 Manami · マナミ
+# Kích hoạt: 使用〈アルティメットビーム〉（低优先，可能被通用台词顶掉）
+> 「とどめよ!」
+"Một đòn chí mạng!
+---
+> 「アルティメットビーム!」
+Tia cuối cùng! "
+
+@16586 Manami · マナミ
+# Kích hoạt: 使用〈アルティメットビーム〉（低优先，可能被通用台词顶掉）
+> 「これを受けてみなさい!」
+"Hãy thử động thái này của tôi!
+---
+> 「アルティメット・ビームッ!」
+Tia cuối cùng! "
+
+@16587 Manami · マナミ
+# Kích hoạt: 副驾驶〈ローレンス〉，使用〈ライトニングソード〉（对话第 1/2 句）
+> 「いくわよ、ローレンス」
+"Nào, Lawrence. "
+
+@16588 Lawrence · ローレンス
+# Kích hoạt: 副驾驶〈ローレンス〉，使用〈ライトニングソード〉（对话第 2/2 句）
+> 「はいお嬢様」
+"Vâng, thưa cô."
+
+@16589 Manami · マナミ
+# Kích hoạt: 副驾驶〈ローレンス〉，使用〈アルティメットビーム〉（对话第 1/2 句）
+> 「ローレンス、照準セット!」
+"Lawrence, khóa mục tiêu lại! "
+
+@16590 Lawrence · ローレンス
+# Kích hoạt: 副驾驶〈ローレンス〉，使用〈アルティメットビーム〉（对话第 2/2 句）
+> 「しかとあわせてございます」
+“Căn chỉnh chính xác cho bạn. "
+
+@16591 Manami · マナミ
+# Kích hoạt: 副驾驶〈ローレンス〉，使用〈ブラッディハウリング〉（对话第 1/2 句）
+> 「ローレンス、あれを出すわ!」
+“Lawrence, tôi sẽ dùng thủ thuật đó! "
+
+@16592 Lawrence · ローレンス
+# Kích hoạt: 副驾驶〈ローレンス〉，使用〈ブラッディハウリング〉（对话第 2/2 句）
+> 「準備万端ととのってございます」
+“Mọi thứ đã sẵn sàng. "
+
+@16593 Manami · マナミ
+# Kích hoạt: 副驾驶〈ローレンス〉，使用〈アッシャークルー〉（对话第 1/2 句）
+> 「武器選定、アッシャークルー」
+"Vũ khí đã được chọn, Thiên thần Nimbus. "
+
+@16594 Lawrence · ローレンス
+# Kích hoạt: 副驾驶〈ローレンス〉，使用〈アッシャークルー〉（对话第 2/2 句）
+> 「設定終了でございます、お嬢様」
+"Cài đặt đã hoàn tất, thưa cô."
+
+@16595 Manami · マナミ
+# Kích hoạt: 副驾驶〈アイシャ〉，使用〈デストラクションブーメラン〉（对话第 1/2 句）
+> 「{PartnerNick}!」
+"{PartnerNick}!"
+
+@16596 Aisha · アイシャ
+# Kích hoạt: 副驾驶〈アイシャ〉，使用〈デストラクションブーメラン〉（对话第 2/2 句）
+> 「わかっていますわ!」
+"Không cần ngươi nói cho ta biết! "
+
+@16597 Manami · マナミ
+# Kích hoạt: 副驾驶〈アイシャ〉，使用〈アッシャークルー〉（对话第 1/2 句）
+> 「いくわよ、{PartnerNick}!」
+"Nào, {PartnerNick}!"
+
+@16598 Aisha · アイシャ
+# Kích hoạt: 副驾驶〈アイシャ〉，使用〈アッシャークルー〉（对话第 2/2 句）
+> 「発射はまかせていただくわ!」
+"Để việc phóng cho tôi!"
+
+@16599 Manami · マナミ
+# Kích hoạt: 副驾驶〈アイシャ〉，使用〈デストラクションブーメラン〉（对话第 1/2 句）
+> 「{PartnerNick}、照準はそっちへ」
+"{PartnerNick}, nhắm tới đó."
+
+@16600 Aisha · アイシャ
+# Kích hoạt: 副驾驶〈アイシャ〉，使用〈デストラクションブーメラン〉（对话第 2/2 句）
+> 「セット! 発射よろしくてよ」
+"Cài đặt đã hoàn tất! Việc khởi chạy là tùy thuộc vào bạn."
+
+@16601 Manami · マナミ
+# Kích hoạt: 副驾驶〈アイシャ〉，使用〈ブラッディハウリング〉（对话第 1/2 句）
+> 「{PartnerNick}、出力最大よ!」
+"{PartnerNick}, bật nguồn lên mức tối đa!"
+
+@16602 Aisha · アイシャ
+# Kích hoạt: 副驾驶〈アイシャ〉，使用〈ブラッディハウリング〉（对话第 2/2 句）
+> 「MAXレベル到達、いけますわよ!」
+"Nó đã đạt đến mức MAX và sẵn sàng hoạt động!"
+
+@16603 Manami · マナミ
+# Kích hoạt: 副驾驶〈アイシャ〉，使用〈ブラッディハウリング〉（对话第 1/2 句）
+> 「{PartnerNick}、いけるわ!」
+"{PartnerNick}, nó hoạt động được!"
+
+@16604 Aisha · アイシャ
+# Kích hoạt: 副驾驶〈アイシャ〉，使用〈ブラッディハウリング〉（对话第 2/2 句）
+> 「ブラッディハウリング発射!」
+"Tiếng gầm đẫm máu, phóng!"
+
+@16605 Manami · マナミ
+# Kích hoạt: 对手驾驶员〈アイシャ〉
+> 「いくわよ、{PartnerNick}!」
+"Nào, {PartnerNick}!"
+
+@16606 Manami · マナミ
+# Kích hoạt: 对手驾驶员〈アイシャ〉
+> 「邪魔はさせないわ!」
+"Đừng nghĩ tới việc cản đường!"
+
+@16607 Manami · マナミ
+# Kích hoạt: 对手驾驶员〈アイシャ〉
+> 「あたしは、貴女に負けるわけには
+>  いかないのよ!」
+"Ta không thể thua ngươi!"
+
+@16608 Manami · マナミ
+# Kích hoạt: 对手驾驶员〈アイシャ〉
+> 「負けられないの、あたしは!」
+"Tôi không thể thua, tuyệt đối không!"
+
+@16609 Manami · マナミ
+# Kích hoạt: 对手驾驶员〈アイシャ〉
+> 「見せてあげるわ、{PartnerNick}!」
+"Cho bạn xem, {PartnerNick}!"
+
+@16610 Manami · マナミ
+# Kích hoạt: 对手驾驶员〈アイシャ〉
+> 「{PartnerNick}、これ以上邪魔は
+>  させない!」
+"{PartnerNick}, ngươi không được phép cản đường nữa!"
+
+@16611 Manami · マナミ
+# Kích hoạt: 对手驾驶员〈アイシャ〉
+> 「{PartnerNick}……どうしてもやめないと
+>  いうのなら……」
+"{PartnerNick}...Vì bạn nhất quyết không bỏ cuộc..."
+
+@16612 Lawrence · ローレンス
+# Kích hoạt: 被击坠，副驾驶〈ローレンス〉
+> 「お、お嬢様ぁぁーっ!」
+"C-Cô ơi, ahhhh--!"
+
+@16613 Lawrence · ローレンス
+# Kích hoạt: 被击坠，副驾驶〈ローレンス〉
+> 「お嬢様っ、おはやく!」
+"Tiểu thư, xin hãy chạy đi!"
+
+@16614 Manami · マナミ
+# Kích hoạt: 重伤（剩余 HP 不足 30%），副驾驶〈ローレンス〉（对话第 1/2 句）
+> 「だ、だめっ!」
+"Không, không!"
+
+@16615 Lawrence · ローレンス
+# Kích hoạt: 重伤（剩余 HP 不足 30%），副驾驶〈ローレンス〉（对话第 2/2 句）
+> 「お、お嬢様、緊急退避をっ!」
+"Tiểu thư, xin hãy sơ tán ngay lập tức!"
+
+@16616 Lawrence · ローレンス
+# Kích hoạt: 重伤（剩余 HP 不足 30%），副驾驶〈ローレンス〉
+> 「くっ、私がついていながら!」
+"Chà, rõ ràng là tôi ở bên bạn!"
+
+@16617 Lawrence · ローレンス
+# Kích hoạt: 重伤（剩余 HP 不足 30%），副驾驶〈ローレンス〉
+> 「くっ、私の腕も落ちたものですな……」
+“Chà, kỹ năng của tôi cũng đã giảm sút…”
+
+@16618 Aisha · アイシャ
+# Kích hoạt: 重伤（剩余 HP 不足 30%），副驾驶〈アイシャ〉
+> 「も、もう危ないのではなくって!?」
+“Cái này, cái này đã nguy hiểm rồi phải không!?”
+
+@16619 Aisha · アイシャ
+# Kích hoạt: 重伤（剩余 HP 不足 30%），副驾驶〈アイシャ〉
+> 「キャァ! は、はやく逃げて!」
+"Ừ! Nhanh lên, chạy đi!"
+
+@16620 Aisha · アイシャ
+# Kích hoạt: 重伤（剩余 HP 不足 30%），副驾驶〈アイシャ〉
+> 「あぅぅ!?
+>  こんなにパワーが違うなんて!」
+"Ahhh!? Sức mạnh khác biệt quá!"
+
+@16621 Lawrence · ローレンス
+# Kích hoạt: 重伤（剩余 HP 不足 30%），对手驾驶员〈アイシャ〉
+> 「くっ、{PartnerName}お嬢様……
+>  なんとお強い……」
+"Chà, cô {PartnerName} thật tuyệt vời..."
+
+@16622 Manami · マナミ
+# Kích hoạt: 中伤（剩余 HP 30–90%），副驾驶〈ローレンス〉（对话第 1/2 句）
+> 「あぁぁぁぁ!?」
+"Ahhh!?"
+
+@16623 Lawrence · ローレンス
+# Kích hoạt: 中伤（剩余 HP 30–90%），副驾驶〈ローレンス〉（对话第 2/2 句）
+> 「お嬢様、危険でございます」
+"Tiểu thư, tình huống rất nguy hiểm."
+
+@16624 Lawrence · ローレンス
+# Kích hoạt: 中伤（剩余 HP 30–90%），副驾驶〈ローレンス〉
+> 「むぅ! こ、このままではまずいですぞ!」
+"Ugh! Cứ tiếp tục như thế này là không tốt đâu!"
+
+@16625 Lawrence · ローレンス
+# Kích hoạt: 中伤（剩余 HP 30–90%），副驾驶〈ローレンス〉
+> 「ぬぅ……私も甘くなりましたな」
+"Chà...tôi cũng không còn khỏe như trước nữa."
+
+@16626 Aisha · アイシャ
+# Kích hoạt: 中伤（剩余 HP 30–90%），副驾驶〈アイシャ〉（对话第 1/2 句）
+> 「なにをやってらっしゃるの!?」
+“Anh đang làm cái quái gì vậy!?”
+
+@16627 Manami · マナミ
+# Kích hoạt: 中伤（剩余 HP 30–90%），副驾驶〈アイシャ〉（对话第 2/2 句）
+> 「ごめんね、{PartnerNick}」
+"Xin lỗi, {PartnerNick}."
+
+@16628 Aisha · アイシャ
+# Kích hoạt: 中伤（剩余 HP 30–90%），副驾驶〈アイシャ〉
+> 「うぅぅっ、ま、まだ、まだよ!」
+"Ư...vẫn chưa kết thúc, chưa kết thúc!"
+
+@16629 Aisha · アイシャ
+# Kích hoạt: 中伤（剩余 HP 30–90%），副驾驶〈アイシャ〉
+> 「つっ、そうこなくてはウソですわね」
+"Ồ, điều đó có ý nghĩa."
+
+@16630 Manami · マナミ
+# Kích hoạt: 中伤（剩余 HP 30–90%），对手驾驶员〈アイシャ〉
+> 「こ、これくらいでっ!」
+"Cái này, vết thương nhỏ này không là gì cả!"
+
+@16631 Manami · マナミ
+# Kích hoạt: 中伤（剩余 HP 30–90%），对手驾驶员〈アイシャ〉
+> 「まだ! 勝負はこれからよっ!!」
+"Vẫn chưa kết thúc! Người chiến thắng vẫn chưa được quyết định!!"
+
+@16632 Manami · マナミ
+# Kích hoạt: 中伤（剩余 HP 30–90%），对手驾驶员〈アイシャ〉
+> 「くぅっ! このくらいでやられるわけには!」
+"Ugh! Vết thương này làm sao tôi có thể bị đánh bại!"
+
+@16633 Manami · マナミ
+# Kích hoạt: 中伤（剩余 HP 30–90%），对手驾驶员〈アイシャ〉
+> 「くうっ……{PartnerNick}!」
+"Hmm...{PartnerNick}!"
+
+@16634 Manami · マナミ
+# Kích hoạt: 中伤（剩余 HP 30–90%），对手驾驶员〈アイシャ〉（对话第 1/2 句）
+> 「あぁぁぁぁ!?」
+"Ahhh!?"
+
+@16635 Lawrence · ローレンス
+# Kích hoạt: 中伤（剩余 HP 30–90%），对手驾驶员〈アイシャ〉（对话第 2/2 句）
+> 「お嬢様、危険でございます」
+"Tiểu thư, tình huống rất nguy hiểm."
+
+@16636 Lawrence · ローレンス
+# Kích hoạt: 中伤（剩余 HP 30–90%），对手驾驶员〈アイシャ〉
+> 「むぅ! こ、このままではまずいですぞ!」
+"Ugh! Cứ tiếp tục như thế này là không tốt đâu!"
+
+@16637 Manami · マナミ
+# Kích hoạt: 轻伤（剩余 HP 90% 以上），副驾驶〈ローレンス〉（对话第 1/2 句）
+> 「ローレンス?」
+"Lawrence?"
+
+@16638 Lawrence · ローレンス
+# Kích hoạt: 轻伤（剩余 HP 90% 以上），副驾驶〈ローレンス〉（对话第 2/2 句）
+> 「損傷軽微、問題ございません」
+"Thiệt hại không đáng kể và không có vấn đề gì."
+
+@16639 Lawrence · ローレンス
+# Kích hoạt: 轻伤（剩余 HP 90% 以上），副驾驶〈ローレンス〉（对话第 1/2 句）
+> 「この程度なら問題ございませんぞ」
+"Ở mức độ này, nó không phải là một vấn đề lớn."
+
+@16640 Manami · マナミ
+# Kích hoạt: 轻伤（剩余 HP 90% 以上），副驾驶〈ローレンス〉（对话第 2/2 句）
+> 「そうね、ローレンス」
+"Vâng, Lawrence."
+
+@16641 Aisha · アイシャ
+# Kích hoạt: 轻伤（剩余 HP 90% 以上），副驾驶〈アイシャ〉（对话第 1/2 句）
+> 「フフフ
+>  この程度なら大丈夫ですわね」
+"Ha ha, vết thương nhỏ này không sao đâu."
+
+@16642 Manami · マナミ
+# Kích hoạt: 轻伤（剩余 HP 90% 以上），副驾驶〈アイシャ〉（对话第 2/2 句）
+> 「もちろんだわ、{PartnerNick}」
+"Tất nhiên rồi, {PartnerNick}."
+
+@16643 Aisha · アイシャ
+# Kích hoạt: 轻伤（剩余 HP 90% 以上），副驾驶〈アイシャ〉
+> 「ウフ、何かなさったのかしら?」
+"Ha ha, ngươi vừa mới làm cái gì?"
+
+@16644 Aisha · アイシャ
+# Kích hoạt: 轻伤（剩余 HP 90% 以上），副驾驶〈アイシャ〉
+> 「あらあら、それで精一杯ですの?」
+“Ôi trời, đó là tất cả những gì cậu có à?”
+
+@16645 Aisha · アイシャ
+# Kích hoạt: 轻伤（剩余 HP 90% 以上），副驾驶〈アイシャ〉
+> 「もう、やめたほうがよいのではなくて?」
+“Thật đấy, tốt hơn hết là nên dừng lại, được chứ?”
+
+@16646 Manami · マナミ
+# Kích hoạt: Né tránh，副驾驶〈ローレンス〉（对话第 1/2 句）
+> 「余裕すぎるわね」
+"Thật dễ dàng."
+
+@16647 Lawrence · ローレンス
+# Kích hoạt: Né tránh，副驾驶〈ローレンス〉（对话第 2/2 句）
+> 「油断は禁物ですぞ!」
+"Đừng xem nhẹ nó!"
+
+@16648 Lawrence · ローレンス
+# Kích hoạt: Né tránh，副驾驶〈ローレンス〉（对话第 1/2 句）
+> 「回避成功ですぞ、お嬢様」
+“Né tránh thành công rồi thưa cô.”
+
+@16649 Manami · マナミ
+# Kích hoạt: Né tránh，副驾驶〈ローレンス〉（对话第 2/2 句）
+> 「当然だわ」
+"Tất nhiên."
+
+@16650 Lawrence · ローレンス
+# Kích hoạt: Né tránh，副驾驶〈ローレンス〉
+> 「無事回避できたようでございますな」
+"Xem ra Bình An đã trốn thoát."
+
+@16651 Aisha · アイシャ
+# Kích hoạt: Né tránh，副驾驶〈アイシャ〉
+> 「フフフ、どこを狙ってらっしゃるの?」
+“Hehehe, cậu đánh vào đâu thế?”
+
+@16652 Aisha · アイシャ
+# Kích hoạt: Né tránh，副驾驶〈アイシャ〉
+> 「そのような攻撃では、だめですわ」
+“Đòn tấn công đó không có tác dụng.”
+
+@16653 Lawrence · ローレンス
+# Kích hoạt: Tấn công无效（护罩／装甲），副驾驶〈ローレンス〉
+> 「この機体にはムダな攻撃ですな」
+"Đòn tấn công này vô dụng với cỗ máy này."
+
+@16654 Aisha · アイシャ
+# Kích hoạt: Tấn công无效（护罩／装甲），副驾驶〈アイシャ〉
+> 「フフ、わたくしたちには効きませんわよ!」
+"Ha ha, đối với chúng ta vô dụng!"
+
+@16655 Aisha · アイシャ
+# Kích hoạt: Tấn công无效（护罩／装甲），副驾驶〈アイシャ〉
+> 「あら、ビームは効きませんのよ?」
+“Ồ, chùm tia này vô dụng phải không?”
+
+@16656 Aisha · アイシャ
+# Kích hoạt: Tấn công无效（护罩／装甲），副驾驶〈アイシャ〉
+> 「もうよろしいかしら?」
+"Đánh đủ chưa?"
+
+@16657 Manami · マナミ
+# Kích hoạt: 弹药／EN 不足，无法反击，副驾驶〈ローレンス〉（对话第 1/2 句）
+> 「ローレンス!?」
+"Lawrence!?"
+
+@16658 Lawrence · ローレンス
+# Kích hoạt: 弹药／EN 不足，无法反击，副驾驶〈ローレンス〉（对话第 2/2 句）
+> 「エネルギーゼロです、お嬢様」
+"Năng lượng đã cạn kiệt, thưa cô."
+
+@16659 Manami · マナミ
+# Kích hoạt: 弹药／EN 不足，无法反击，副驾驶〈アイシャ〉（对话第 1/2 句）
+> 「{PartnerNick}!?」
+"{PartnerNick}!?"
+
+@16660 Aisha · アイシャ
+# Kích hoạt: 弹药／EN 不足，无法反击，副驾驶〈アイシャ〉（对话第 2/2 句）
+> 「ダメ、エネルギー切れですわ」
+"Không, không còn năng lượng nữa."
+
+@16661 Aisha · アイシャ
+# Kích hoạt: 弹药／EN 不足，无法反击，副驾驶〈アイシャ〉
+> 「確認を怠ったのが失敗でしたわ」
+"Tôi đã quên xác nhận."
+
+@16662 Manami · マナミ
+# Kích hoạt: 射程外，无法反击，副驾驶〈ローレンス〉（对话第 1/2 句）
+> 「ローレンス、敵は!?」
+"Lawrence, kẻ địch ở đâu!?"
+
+@16663 Lawrence · ローレンス
+# Kích hoạt: 射程外，无法反击，副驾驶〈ローレンス〉（对话第 2/2 句）
+> 「攻撃可能範囲の外のようです」
+“Có vẻ như nó nằm ngoài phạm vi.”
+
+@16664 Manami · マナミ
+# Kích hoạt: 射程外，无法反击，副驾驶〈アイシャ〉（对话第 1/2 句）
+> 「{PartnerNick}、敵はどこ?」
+"{PartnerNick}, kẻ địch ở đâu?"
+
+@16665 Aisha · アイシャ
+# Kích hoạt: 射程外，无法反击，副驾驶〈アイシャ〉（对话第 2/2 句）
+> 「射程外、攻撃はできませんわね」
+"Ngoài phạm vi, không thể tấn công."

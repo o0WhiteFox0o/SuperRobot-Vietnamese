@@ -1,0 +1,897 @@
+# Bản dịch tiếng Việt Super Robot Wars 64
+# Định dạng và vị trí: docs/guide/dialogue-text.md
+
+@18192 Banjo · 万丈
+> 「新司令官のル・カインか。
+>  一体、どんな人物なんだ?」
+"Người chỉ huy mới tên là Ru Kane. Anh ta là người như thế nào?"
+
+@18193 Garrison · ギャリソン
+> 「さて。個人情報は
+>  入ってきておりませんが……
+"Chà. Thông tin chi tiết về người này vẫn chưa có được...
+---
+>  アラン様のお話ですと、我々に
+>  合流していただく方々が
+Theo Lord Alan, tất cả những ai sẽ sớm tham gia cùng chúng tôi
+---
+>  よくご存じとか」
+Biết anh ấy khá rõ. "
+
+@18194 Brad · ブラッド（按段落 3DD3）
+> 「あんたもつかめないような情報を、
+>  なんだってそいつらが知ってるんだ
+“Làm sao những kẻ đó có thể biết được những thông tin mà cậu thậm chí còn không thể có được?
+---
+>  どういう連中なんだよ?」
+Họ là ai? "
+
+@18195 Manami · マナミ（按段落 3DD4）
+> 「どういう人たちなの?」
+“Họ là loại người như thế nào?”
+
+@18196 Garrison · ギャリソン
+> 「なんでも3年前地球が侵略を
+>  受けた際にも
+"Người ta nói rằng khi trái đất bị xâm chiếm ba năm trước,
+---
+>  帝国と戦った方々だとか」
+Họ cũng chiến đấu chống lại Đế quốc. "
+
+@18197 Koji · 甲児
+> 「だけど連邦軍ってわけじゃ
+>  ないんだろう」
+“Nhưng họ không phải là quân đội liên bang.”
+
+@18198 Garrison · ギャリソン
+> 「左様で
+"Chính xác.
+---
+>  当時、地球側について戦った
+>  帝国の方と
+Người ta nói rằng ông là một người của Đế quốc đã chiến đấu bên phía Trái đất vào thời điểm đó.
+---
+>  そのお仲間の方々と
+>  うかがっております」
+và một loạt bạn đồng hành của anh ấy. "
+
+@18199 Banjo · 万丈
+> 「あのとき地球についた帝国人……
+>  聞いたことがある」
+“Những người Đế quốc ở bên Trái đất vào thời điểm đó…Tôi đã nghe nói về điều đó.”
+
+@18200 Garrison · ギャリソン
+> 「軍の機密扱いでございましたな」
+"Vấn đề này được quân đội xếp vào loại bí mật vào thời điểm đó."
+
+@18201 Brad · ブラッド（按段落 3DD3）
+> 「3年もか。いまだに戦いつづけて
+>  いるんだ、期待できそうじゃないか」
+"Đã ba năm rồi, chúng ta vẫn đang chiến đấu. Có vẻ như đáng tin cậy."
+
+@18202 Banjo · 万丈
+> 「そう思うね」
+"Tôi cũng nghĩ vậy."
+
+@18203 Simone · シモーヌ
+> 「……まさか……」
+“…Có lẽ nào…”
+
+@18204 Manami · マナミ（按段落 3DD4）
+> 「どうしたの?」
+"Có chuyện gì thế?"
+
+@18205 Simone · シモーヌ
+> 「前に、火星の生き残りだって
+>  話はしたわよね?」
+"Tôi đã kể cho bạn nghe về những người sống sót trên sao Hỏa chưa?"
+
+@18206 Manami · マナミ（按段落 3DD4）
+> 「ええ」
+"Ừ."
+
+@18207 Simone · シモーヌ
+> 「そのときアタシたちが助かった理由は
+>  エイジが、いてくれたからなの
+“Lúc đó chúng tôi đã được cứu vì có Eiji ở đó.
+---
+>  アルバトロ・ナル・エイジ・アスカ……
+Albatero Nar Eiji Asuka...
+---
+>  地球と帝国領のグラドスとの
+>  混血の」
+Sự kết hợp giữa Trái đất và lãnh thổ Đế quốc Grados. "
+
+@18208 Manami · マナミ（按段落 3DD4）
+> 「地球と帝国の……」
+"Trái Đất và Đế Quốc..."
+
+@18209 Simone · シモーヌ
+> 「たぶん、その仲間っていうのも
+>  アタシの知り合いだと思う
+“Những người bạn đồng hành đó, tôi nghĩ hầu hết họ đều là những người tôi biết.
+---
+>  アタシたちはみんな、エイジが
+>  いなかったら、生きてはいなかった」
+Nếu không có Eiji, không ai trong chúng ta có thể sống sót đến ngày hôm nay. "
+
+@18210 Banjo · 万丈
+> 「へえ、それは頼もしいな」
+“Ồ, điều đó thật yên tâm.”
+
+@18211 Le Cain · ル・カイン
+> (地球か……。私が来たからには、
+>  帝国に刃を向ける者たちも
+(Trái Đất... Giờ tôi ở đây, những kẻ dám giơ kiếm chống lại đế quốc,
+---
+>  私の足もとに血まみれの体を
+>  投げ出すことになろう)
+Nó cũng định mệnh sẽ rơi máu dưới chân tôi. )
+
+@18212 Giura · ギウラ
+> 「ご苦労様です、ル・カイン閣下」
+"Cảm ơn ngài đã làm việc chăm chỉ, ngài Lu Kane."
+
+@18213 Le Cain · ル・カイン
+> 「そいつらか、
+>  使える地球人というのは」
+"Đây có phải là những người được gọi là Người Trái đất có thể có ích không?"
+
+@18214 Giura · ギウラ
+> 「はっ、ロアン・デミトリッヒと
+>  トレーズ・クシュリナーダです」
+"Vâng, Roan Dmitrich và Teres Kshurinada."
+
+@18215 Roanne · ロアン
+> 「お呼びいただき光栄です。
+>  私にできますことは、
+"Tôi cảm thấy vô cùng vinh dự khi được mời đến. Dù tôi có thể làm gì,
+---
+>  なんなりとお申し付けください」
+Xin vui lòng hỏi. "
+
+@18216 Treize · トレーズ
+> 「スペシャルズを代表し、
+>  閣下の就任を
+“Thay mặt Lực lượng đặc biệt,
+---
+>  お喜び申し上げます」
+Chúc mừng ông đã nhậm chức. "
+
+@18217 Le Cain · ル・カイン
+> 「フッ、こういう地球人もいるか。
+>  よかろう。貴様たちはギウラとともに
+"Huh, trên Trái đất có người như thế này. Không sao đâu. Cậu và Kiura,
+---
+>  私の就任パレードの準備をしろ」
+Hãy chuẩn bị cho cuộc diễu hành khai mạc của tôi. "
+
+@18218 Treize · トレーズ
+> 「閣下、ゲリラの間で不穏な
+>  動きがあると聞いております」
+“Thưa ngài, tôi nghe nói có điều gì đó kỳ lạ đang xảy ra với quân du kích ở đó.”
+
+@18219 Le Cain · ル・カイン
+> 「私が、それを知らないとでも
+>  思ったか
+"Anh tưởng tôi không biết à?
+---
+>  貴様らのするべきことは、
+>  そやつらを引きずり出すことだ
+Điều cậu nên làm là dụ bọn đó ra ngoài,
+---
+>  就任パレードの間にな」
+Chỉ cần tận dụng cuộc diễu hành khai mạc. "
+
+@18220 Roanne · ロアン
+> 「すばらしいお考えです、閣下。
+>  彼らは、きわめて短絡的です
+"Thưa ngài, những người đó có đầu óc cực kỳ đơn giản.
+---
+>  必ずや出てくることでしょう」
+Chắc chắn bạn sẽ rơi vào bẫy. "
+
+@18221 Garrison · ギャリソン
+> 「ふむ……これは、しかし……」
+"À...nhưng, chuyện này..."
+
+@18222 Banjo · 万丈
+> 「どうしたんだ?」
+"Có chuyện gì thế?"
+
+@18223 Garrison · ギャリソン
+> 「実は新司令官の
+>  就任パレードの情報を
+“Thực ra tôi đã nhận được thông tin về lễ duyệt binh nhậm chức của chỉ huy mới.
+---
+>  入手したのですが……」
+Nhưng..."
+
+@18224 Brad · ブラッド（按段落 3DD3）
+> 「わかった。そこを襲撃するっていう
+>  わけだな?」
+"Tôi hiểu rồi, cậu định đánh lén ở đó à?"
+
+@18225 Manami · マナミ（按段落 3DD4）
+> 「ですが?」
+"Nhưng?"
+
+@18226 Garrison · ギャリソン
+> 「それが、どうもワナではないかと」
+“Chỉ là nơi này trông giống như một cái bẫy thôi.”
+
+@18227 Banjo · 万丈
+> 「何故だい?」
+"Tại sao?"
+
+@18228 Garrison · ギャリソン
+> 「まず各方面から一斉に
+>  情報が入り始めたことといい
+“Trước hết, thông tin từ mọi phía được đưa đến cùng một lúc.
+---
+>  また警備情報までもが
+>  そっくり流れている点といい
+Hơn nữa, ngay cả việc triển khai bảo mật cũng bị rò rỉ nguyên vẹn.
+---
+>  不信な点が多すぎるのですよ。
+>  さらに警備がこうも
+Có quá nhiều điều đáng nghi. Ngoài ra tính bảo mật rất cao
+---
+>  手薄とあっては……」
+Yếu..."
+
+@18229 Banjo · 万丈
+> 「なるほど、クサイな。どう思う?」
+"Ta hiểu rồi, xác thực có vấn đề. Ngươi nghĩ thế nào?"
+
+@18230 Brad · ブラッド（按段落 3DD3）
+> 「どうもこうもない。もしそれが本当なら
+>  そいつは俺たちが
+“Không cần phải nói. Nếu điều này là sự thật thì tên đó biết chúng ta sẽ
+---
+>  襲撃するつもりなのを知ってて
+>  ワザとそうしてるってことだろ?
+Cuộc tấn công có được thực hiện có chủ ý không?
+---
+>  こいつは明らかに俺たち
+>  地球人に対する挑戦だぜ」
+Đây rõ ràng là một thách thức đối với người trái đất chúng ta. "
+
+@18231 Koji · 甲児
+> 「やれるもんなら、やってみろってわけか。
+>  っきしょう、なんて奴だ」
+"Ý bạn là đến đây nếu có thể? Chết tiệt, tên này!"
+
+@18232 Sayaka · さやか
+> 「それなら、やめておいたほうがいいわね」
+“Trong trường hợp đó, tốt nhất là đừng đi.”
+
+@18233 Koji · 甲児
+> 「なにいってんだい、さやかさん。そこまで
+>  されて黙ってみてろってのか?」
+"Ngươi đang nói cái gì, Sayaka. Ngươi bị bắt nạt đến mức này, tại sao còn để cho chúng ta xem?"
+
+@18234 Brad · ブラッド（按段落 3DD3）
+> 「そうだ。こいつは受けて立つべきだ」
+"Đúng vậy. Trận chiến này phải được chiến đấu."
+
+@18235 Simone · シモーヌ
+> 「明らかにワナだけど、
+>  露骨すぎるのも気になるわ」
+“Rõ ràng đây là một cái bẫy nhưng nó lộ liễu đến mức khiến mọi người phải quan tâm”.
+
+@18236 Manami · マナミ（按段落 3DD4）
+> 「あからさまにワナと見せておいて
+>  襲撃を避けるつもりなのか
+“Cái bẫy được cố tình đặt ra ngoài để khiến chúng ta phải rút lui.
+---
+>  あるいは……」
+Hay tôi nên nói là..."
+
+@18237 Lawrence · ローレンス
+> 「挑戦……でございますな」
+"Đây là... một thách thức trắng trợn."
+
+@18238 Manami · マナミ（按段落 3DD4）
+> 「そうね。やれるものならやってみろ、
+>  というわけね」
+"Ừ. Ý tôi là, nếu cậu có năng lực thì hãy đến thử xem."
+
+@18239 Koji · 甲児
+> 「どうするんだ?
+"Phải làm gì?
+---
+>  だからって、はいそうですかと
+>  黙ってみてろっていうのかよ」
+Bạn chỉ định ngoan ngoãn xem thôi à? "
+
+@18240 Banjo · 万丈
+> 「ル・カインか……大胆なことをする。
+>  だが、僕たちがこれから
+"Ru Kane... không phải là người nhút nhát. Tuy nhiên, vì tương lai của chúng ta
+---
+>  戦っていく上で、
+>  彼の出端をくじくのは
+Về mặt chiến đấu, làm suy yếu tinh thần của anh ta.
+---
+>  重要な意味がある。アランもいって
+>  いたが、彼を倒すことができれば
+Đáng kể. Alan cũng nói rằng chỉ cần anh ta có thể bị đánh bại,
+---
+>  帝国に与える打撃は
+>  計り知れない」
+Cú đánh vào đế chế sẽ là vô cùng lớn. "
+
+@18241 Reika · レイカ
+> 「じゃあ……」
+"Vậy..."
+
+@18242 Banjo · 万丈
+> 「ル・カインの挑戦を受けよう。
+>  旧ニューヨーク方面へ向かうぞ」
+"Cứ chấp nhận lời thách thức của Ru Kane. Hãy hướng tới Old New York."
+
+@18243 Garrison · ギャリソン
+> 「そろそろ時間でございますな」
+"Gần đến giờ rồi."
+
+@18244 Banjo · 万丈
+> 「来たぞ。みんな、準備はいいな」
+"Chúng ta tới rồi. Mọi người, chuẩn bị sẵn sàng nhé."
+
+@18245 Banjo · 万丈
+> 「よし、いまだ!」
+"Được rồi, bây giờ!"
+
+@18246 Le Cain · ル・カイン
+> 「なに!? ゲリラか、おのれッ!
+>  迎撃せよ!」
+"Cái gì!? Họ là du kích à? Chết tiệt! Tấn công!"
+
+@18247 Le Cain · ル・カイン
+> 「うわあぁぁぁぁーっ!!」
+"Aaahhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhh!"
+
+@18248 Roux · ルー
+> 「あっけなさすぎる……
+>  やっぱり、おとりだわ」
+"Nó thật dễ bị tổn thương...nó thực sự là một miếng mồi."
+
+@18249 Beauty · ビューティ
+> 「ウッソーッ!
+>  ホントに倒しちゃったの!?」
+"Không thể nào! Cậu thực sự đã hạ gục anh ta à!?"
+
+@18250 Reika · レイカ
+> 「あっけなさすぎるわ。
+>  やっぱり、おとりね」
+"Nó thật dễ bị tổn thương. Nó thực sự là một miếng mồi."
+
+@18251 Garrison · ギャリソン
+> 「そのようですな
+"Có vẻ như vậy.
+---
+>  すっかり囲まれてしまって
+>  おりますぞ」
+Chúng tôi hoàn toàn bị bao vây. "
+
+@18252 Koji · 甲児
+> 「ちっ、うじゃうじゃいるぜ!?」
+"Chậc, nhiều quá! ? "
+
+@18253 Banjo · 万丈
+> 「ああ、どうやら
+>  本物が出てきたようだね」
+“Ồ, có vẻ như chủ nhân thực sự đã xuất hiện. "
+
+@18254 Le Cain · ル・カイン
+> 「なるほど、ワナと知りつつ
+>  あえて出てきたというのか
+“Tôi hiểu rồi, bạn biết đó là một cái bẫy nhưng bạn vẫn đến.
+---
+>  地球人ごときが、
+>  こざかしい真似をする
+Làm sao một người trần gian dám chơi trò lừa thông minh như vậy.
+---
+>  だが、その浅はかさを
+>  身をもって知ることになる」
+Tuy nhiên, bạn sẽ sớm nhận ra mình nông cạn đến mức nào. "
+
+@18255 Le Cain · ル・カイン
+> 「地球人どもよ、聞け!
+>  私に立ち向かうことが、
+"Nghe này, người Trái đất! Thật là ngu ngốc khi chống lại tôi,
+---
+>  いかに愚かな行為であるか、
+>  今から見せてやる
+Tôi sẽ chỉ cho bạn bây giờ.
+---
+>  我々に逆らおうとするな。
+>  お前たち地球人の幸せは、
+Đừng cố gắng chống lại chúng tôi. Hạnh phúc của các bạn người trái đất,
+---
+>  我々に支配されることにあるのだ。
+>  支配するものと、されるもの、
+Nó nằm ở việc bị chúng ta thống trị. Kẻ thống trị và kẻ bị thống trị,
+---
+>  およそ宇宙にはその原理しかない。
+>  よりよき支配、無垢なる従順
+Chỉ có một nguyên lý duy nhất trong vũ trụ. Sự thống trị tốt hơn, sự vâng lời không tì vết,
+---
+>  これこそが理想なる世を
+>  現出するただ一つの真理だ」
+Đây là sự thật duy nhất để đạt được một thế giới lý tưởng. "
+
+@18256 Le Cain · ル・カイン
+> 「私が地球に来たのは
+>  その原理に基づいて
+"Tôi đến trái đất dựa trên nguyên tắc này,
+---
+>  真の平和を確立するためだ。
+>  地球的なるものは一切捨てよ!
+Để thiết lập hòa bình thực sự. Vứt bỏ mọi thứ thuộc về trái đất!
+---
+>  我を信じよ 帝国を信じよ!」
+Hãy tin tôi, hãy tin Đế chế! "
+
+@18257 Banjo · 万丈
+> 「黙れ! この地球に
+>  僕たちがいるかぎり
+"Im đi! Chừng nào chúng ta còn ở trên trái đất này,
+---
+>  かならず帝国の支配を
+>  打ち砕いてみせる!」
+Nó chắc chắn sẽ đập tan sự thống trị của đế chế thành từng mảnh! "
+
+@18258 Le Cain · ル・カイン
+> 「フフフ、なかなか楽しませて
+>  くれそうだな
+"Hehehe, có vẻ như nó có thể khiến tôi có một khoảng thời gian vui vẻ.
+---
+>  ならばまず、ここでそれを
+>  見せてもらおうか」
+Vì vậy, trước hết, hãy để tôi xem ở đây. "
+
+@18259 Eiji · エイジ
+> 「カラバの方、遅れてすまない」
+"Mọi người ở Calabar, chúng tôi đến muộn, xin lỗi."
+
+@18260 Banjo · 万丈
+> 「いや、そう悪くないタイミングだ」
+“Không, thời gian không tệ lắm.”
+
+@18261 Banjo · 万丈
+> 「おっと、どうやらこっちの増援も
+>  到着したようだね」
+“Ồ, có vẻ như quân tiếp viện từ đây đã tới.”
+
+@18262 Simone · シモーヌ
+> 「あれは……レイズナー!
+>  エイジ、やっぱりエイジなのね!?」
+"Đó là... Rezner! Eiji, có thật là bạn không!?"
+
+@18263 Eiji · エイジ
+> 「シモーヌ? まさかレジスタンスに
+>  君がいるとは……」
+"Simone? Tôi không ngờ bạn lại tham gia tổ chức kháng chiến..."
+
+@18264 David · デビッド
+> 「シモーヌだって!?
+>  エイジだけじゃねぇ、俺もいるぜ!」
+"Simona cũng ở đây!? Không chỉ Eiji, mà cả tôi nữa!"
+
+@18265 Simone · シモーヌ
+> 「あらデビッド、よく生きてたわね」
+"Ôi David, bạn vẫn còn sống."
+
+@18266 David · デビッド
+> 「……ちぇっ、それだけかよ」
+“…Tsk, thế đấy.”
+
+@18267 Le Cain · ル・カイン
+> 「貴様……エイジ・アスカ
+>  ……帝国の裏切り者
+“Anh chàng… Eiji Asuka… kẻ phản bội đế quốc.
+---
+>  フッ、お前とは必ず
+>  会えると思っていたぞ」
+Hum, tôi biết tôi sẽ gặp bạn. "
+
+@18268 David · デビッド
+> 「おっと、あいつがル・カインか」
+"Ồ, đó là anh chàng Ru Kane à?"
+
+@18269 Eiji · エイジ
+> 「ああ。自信とうぬぼれの
+>  区別のつかない男だ
+"Ừ. Anh ấy là người không thể phân biệt giữa tự tin và kiêu ngạo.
+---
+>  俺は、貴様とグレスコ総督は
+>  必ず地球から
+Tôi chắc chắn sẽ mang theo bạn và Thống đốc Gresco
+---
+>  追い出してみせる!」
+Lái xe ra khỏi trái đất! "
+
+@18270 Le Cain · ル・カイン
+> 「あいにくだが私は、血の濁った男の
+>  世迷いごとを聞く耳は
+“Xin lỗi, tôi không có hứng thú nghe
+---
+>  持ち合わせておらん」
+Sự vô nghĩa của một người có máu bẩn. "
+
+@18271 Gosterro · ゴステロ
+> 「エイジ……
+>  エイジだとぉぉぉぉぉぉーっ!?」
+"Eiji...Eiji ahhhhhhhhhh-!?"
+
+@18272 Eiji · エイジ
+> 「この声……まさかゴステロか!?」
+"Giọng nói này... có lẽ nào là Gostro!?"
+
+@18273 Gosterro · ゴステロ
+> 「エイジィィーッ、貴様が
+>  生きていてくれて、うれしいぜぇ
+"Eiji——! Tôi rất vui vì anh vẫn còn sống.
+---
+>  これで貴様をぶっ殺してやる
+>  楽しみができたからなぁ!!」
+Bằng cách này tôi có thể tận hưởng việc giết bạn bằng chính đôi tay của mình! ! "
+
+@18274 Eiji · エイジ
+> 「生きていたのか、ゴステロ」
+"Anh còn sống, Gostrow."
+
+@18275 Gosterro · ゴステロ
+> 「さぁてなぁ。この体のどこからどこまで
+>  が生きているのやら
+“Ai biết được. Bao nhiêu phần cơ thể này vẫn còn sống?
+---
+>  甘ちゃんのクセにゲイルを殺し、
+>  自分の姉まで殺しておいて
+Anh ta rõ ràng là một kẻ yếu đuối, nhưng anh ta đã giết Gale và thậm chí cả em gái của mình.
+---
+>  よくも生きていられたもんだなぁ、
+>  エイジィ」
+Thật tốt là cậu vẫn còn sống đến hôm nay, Eiji. "
+
+@18276 Eiji · エイジ
+> 「俺は……」
+"Tôi..."
+
+@18277 Gosterro · ゴステロ
+> 「まぁいい、
+>  貴様はここで死ぬんだぁ
+“Quên đi, dù sao thì cậu cũng sẽ chết ở đây.
+---
+>  ぐぅぅ、の、脳がいてぇ」
+Uh-huh, não tôi đau quá. "
+
+@18278 Reika · レイカ
+> 「なんて数なの!?」
+"Sao nhiều thế!?"
+
+@18279 Garrison · ギャリソン
+> 「これはいけません。皆様方、
+>  ここは撤退いたしましょう」
+"Điều này là không thể. Mọi người, hãy rút lui thôi."
+
+@18280 Banjo · 万丈
+> 「くっ、確かにここは
+>  一旦ひくしかないようだね
+"Chà, có vẻ như chúng ta thực sự phải sơ tán đến đây trước.
+---
+>  みんな、ひきあげるぞ!」
+Mọi người, rút lui! "
+
+@18281 Eiji · エイジ
+> 「ル・カイン、誇りのためだけに
+>  戦うこともできるのが
+"Ru Kane, hãy nhớ điều đó cho tôi, dù chỉ vì lòng tự trọng của bạn,
+---
+>  地球人だということを、
+>  よく覚えておけ!」
+Người trên Trái đất cũng có thể đứng lên chiến đấu! "
+
+@18282 Le Cain · ル・カイン
+> 「フフフ、おもしろい。
+>  この星は刺激に満ちている
+"Hehehe, thú vị đấy. Hành tinh này tràn đầy hứng khởi,
+---
+>  気に入った!
+>  ハーッハッハッハッハッ!!」
+Tôi thích nó! Ha-hahahaha! ! "
+
+@18283 Le Cain · ル・カイン
+> 「なに!? フッフフフフフ、
+>  なるほど口だけではないようだな
+"Cái gì!? Hehehehe, tôi hiểu rồi, có vẻ như nó không chỉ là lời nói.
+---
+>  だがこの程度で帝国に
+>  逆らおうなど、片腹痛いわ」
+Nhưng muốn nổi dậy chống lại đế quốc chỉ dựa vào khả năng nhỏ bé này thì thật là nực cười. "
+
+@18284 Reika · レイカ
+> 「なんて数なの!?」
+"Sao nhiều thế!?"
+
+@18285 Garrison · ギャリソン
+> 「これはいけません。皆様方、
+>  ここは撤退いたしましょう」
+"Điều này là không thể. Mọi người, hãy rút lui thôi."
+
+@18286 Banjo · 万丈
+> 「くっ、確かにここは
+>  一旦ひくしかないようだね
+"Chà, có vẻ như chúng ta thực sự phải sơ tán đến đây trước.
+---
+>  みんな、ひきあげるぞ!」
+Mọi người, rút lui! "
+
+@18287 Eiji · エイジ
+> 「ル・カイン、誇りのためだけに
+>  戦うこともできるのが
+"Ru Kane, hãy nhớ điều đó cho tôi, dù chỉ vì lòng tự trọng của bạn,
+---
+>  地球人だということを、
+>  よく覚えておけ!」
+Người trên Trái đất cũng có thể đứng lên chiến đấu! "
+
+@18288 Le Cain · ル・カイン
+> 「フフフ、おもしろい。
+>  この星は刺激に満ちている
+"Hehehe, thú vị đấy. Hành tinh này tràn đầy hứng khởi,
+---
+>  気に入った!
+>  ハーッハッハッハッハッ!!」
+Tôi thích nó! Ha-hahahaha! ! "
+
+@18289 Eiji · エイジ
+> 「ル・カイン、覚悟!」
+"Ru Kane, chịu chết!"
+
+@18290 Le Cain · ル・カイン
+> 「フッ、面白い。相手をしてやろう」
+"Hừm, thú vị quá. Tôi chỉ muốn chơi với cậu thôi."
+
+@18291 Gosterro · ゴステロ
+> 「エイジィィ、貴様だけはこの俺の手
+>  でぶち殺してやる!」
+"Eiji——, chỉ có ngươi, ta sẽ tự tay giết ngươi!"
+
+@18292 Eiji · エイジ
+> 「ゴステロ! お前にやられるわけには
+>  いかない!」
+"Gostro! Tôi sẽ không rơi vào tay anh!"
+
+@18293 Banjo · 万丈
+> 「よくきてくれたね。
+>  カラバの破嵐万丈だ」
+"Chào mừng. Tôi là Polan Wanzhang của Calabar."
+
+@18294 Eiji · エイジ
+> 「エイジ・アスカです。それから、
+>  デビッドとシモーヌとアンナ」
+"Tôi là Eiji Asuka. Ngoài ra còn có David, Simone và Anna."
+
+@18295 David · デビッド
+> 「デビッド・ラザフォードだ。
+>  よろしく頼むぜ」
+"Tôi là David Rutherford. Xin hãy chăm sóc tôi."
+
+@18296 Anna · アンナ
+> 「お世話になります。
+>  アンナ・ステファニーです」
+"Từ giờ trở đi tôi sẽ chăm sóc cho bạn. Tôi là Anna Stephanie."
+
+@18297 Simone · シモーヌ
+> 「シモーヌ・ルフランよ。よろしく」
+"Tôi là Simone Levland. Xin hãy chăm sóc tôi."
+
+@18298 Banjo · 万丈
+> 「シモーヌ…… ルフラン侯爵家の
+>  ご令嬢かな?」
+"Simone... là đại tiểu thư của gia tộc Hầu tước LeFland?"
+
+@18299 David · デビッド
+> 「なんだ、知り合いか?」
+"Cái gì, hai người quen nhau à?"
+
+@18300 Simone · シモーヌ
+> 「違うわよ。アタシはこっちに来る前は
+>  ロームフェラの情報を
+“Không. Trước khi đến đây, tôi đã lưu giữ thông tin về Romphela.”
+---
+>  カラバに流してたのよ。直接お会い
+>  するのは初めてだわ」
+Vượt qua Karaba. Đây là lần đầu tiên chúng tôi gặp mặt trực tiếp. "
+
+@18301 Banjo · 万丈
+> 「君の情報には、ずいぶんと
+>  助けられた
+"Thông tin của bạn đã giúp ích rất nhiều cho chúng tôi.
+---
+>  あらためて、お礼を言おう」
+Tôi phải đích thân cảm ơn bạn. "
+
+@18302 David · デビッド
+> 「シモーヌ……シモーヌ!」
+"Simon... Simone!"
+
+@18303 Simone · シモーヌ
+> 「…………」
+“…………”
+
+@18304 David · デビッド
+> 「シモーヌ、一体……!?」
+"Simona, cái quái gì vậy...!?"
+
+@18305 Simone · シモーヌ
+> 「奪われた唇の、おかえしよ。
+>  3年間ずーっと考えてたんだから」
+"Đây là món quà đáp trả của anh vì đã cướp mất nụ hôn của tôi. Tôi đã suy nghĩ về điều đó suốt ba năm."
+
+@18306 Anna · アンナ
+> 「ウフフフフフ」
+"Hehehehe."
+
+@18307 Banjo · 万丈
+> 「よくきてくれたね。
+>  カラバの破嵐万丈だ」
+"Chào mừng. Tôi là Polan Wanzhang của Calabar."
+
+@18308 Eiji · エイジ
+> 「エイジ・アスカです。
+>  彼がデビッドで……」
+"Tôi là Eiji Asuka. Anh ấy là David..."
+
+@18309 Anna · アンナ
+> 「アンナ・ステファニーです。
+>  よろしくお願いします」
+"Tôi là Anna Stephanie. Xin hãy chăm sóc tôi."
+
+@18310 Banjo · 万丈
+> 「こちらこそ、お嬢さん」
+“Xin hãy chăm sóc cho tôi, thưa cô.”
+
+@18311 Simone · シモーヌ
+> 「エイジ……顔さわらせて。
+>  エイジ、本当に生きてたのね
+"Eiji...để tôi chạm vào mặt bạn. Eiji, bạn thực sự còn sống.
+---
+>  ……もう二度と会えないかも
+>  しれないって思ってた……
+...Tôi đã nghĩ rằng tôi sẽ không bao giờ gặp lại bạn nữa...
+---
+>  うぅっ……ごめんなさい
+>  ……やだ、みっともないわ」
+Ugh...tôi xin lỗi...tôi ghét nó. Thật là xấu hổ. "
+
+@18312 David · デビッド
+> 「あーあ、全然ちがうでやんの
+>  俺なんかいきなり、バシーッだもんな」
+"Ồ, cách xử lý hoàn toàn khác, vừa vào là tôi đã bị tát."
+
+@18313 Gresco · グレスコ
+> 「だいぶ派手に、やったそうだな?」
+"Tôi nghe nói rằng bạn khá lòe loẹt?"
+
+@18314 Le Cain · ル・カイン
+> 「もうお耳に入りましたか」
+"Bạn đã nghe thấy điều đó?"
+
+@18315 Gresco · グレスコ
+> 「お前を呼び寄せた理由は、
+>  わかっておろうな」
+“Anh nên hiểu tại sao tôi gọi anh đến đây.”
+
+@18316 Le Cain · ル・カイン
+> 「心得ております、父上」
+“Con hiểu rồi thưa cha.”
+
+@18317 Gresco · グレスコ
+> 「意味のない殺戮と破壊は、
+>  民心を離反させるだけだ」
+"Giết chóc và hủy diệt vô nghĩa sẽ chỉ làm mất lòng người dân."
+
+@18318 Le Cain · ル・カイン
+> 「……!? 父上もかわられましたな。
+>  やはり3年も地球におられると、
+"...!? Cha cũng đã thay đổi. Đúng như dự đoán, sau ba năm ở Trái đất,
+---
+>  地球病とやらにかかるのですかな」
+Liệu bạn có mắc phải căn bệnh được gọi là trái đất không? "
+
+@18319 Gresco · グレスコ
+> 「地球病?」
+"Bệnh đất?"
+
+@18320 Le Cain · ル・カイン
+> 「将軍どもが噂しております。
+>  父上、政策の不徹底や
+“Các tướng lĩnh đều đang bàn bạc riêng. Thưa cha, chính sách được thực hiện không triệt để,
+---
+>  不必要な甘さは、地球人ども
+>  に軽んぜられることになります」
+Lòng tốt không cần thiết sẽ chỉ khiến mọi người trên trái đất coi thường chúng ta. "
+
+@18321 Gresco · グレスコ
+> 「…………お前はまだ若い。
+>  わからぬことも多い」
+“…Em vẫn còn trẻ. Vẫn còn nhiều điều em chưa hiểu.”
+
+@18322 Le Cain · ル・カイン
+> 「わかろうとも思いません。父上、
+>  いいかげんに目をさまされたらどうです」
+"Con không muốn hiểu. Cha, đã đến lúc cha phải thức dậy rồi."
+
+@18323 Le Cain · ル・カイン
+> 「父上!?
+>  ……そうか、そういうことなのか
+“Cha!?…Thật sự, chuyện đó đã xảy ra.
+---
+>  父上はご自分が地球の空気
+>  に感傷的になっていることを
+Chính cha cũng biết rằng không khí của trái đất khiến con đa cảm.
+---
+>  ご存じなのだ。
+>  ですから私を招いたのですね
+Đó là lý do tại sao bạn gọi tôi đến đây.
+---
+>  ……父上」
+...Cha. "
+
+@18324 Lady · レディ
+> 「お呼びでしょうか」
+"Anh gọi cho tôi à? "
+
+@18325 Treize · トレーズ
+> 「レディ、ル・カイン閣下が
+>  就任されたことで
+"Thưa cô, sau khi Lãnh chúa Ru Kane nhậm chức,
+---
+>  我々はこれまで以上に
+>  動きやすくなる」
+Việc di chuyển của chúng ta sẽ dễ dàng hơn bao giờ hết. "
+
+@18326 Lady · レディ
+> 「すでに例の計画を閣下に
+>  ご提案申し上げる用意が
+“Kế hoạch đã sẵn sàng,
+---
+>  整っております」
+Bạn có thể gửi nó cho bạn bất cứ lúc nào. "
+
+@18327 Treize · トレーズ
+> 「さすがだね。そのまま進めてくれ。
+>  ところで、レディ・アン」
+"Đúng như mong đợi của bạn. Cứ tiến hành như thế này. Nhân tiện, Letty Ann. "
+
+@18328 Lady · レディ
+> 「はい」
+"Ừ. "
+
+@18329 Treize · トレーズ
+> 「ドーリアン氏なのだが、
+>  地球人の自治権獲得や
+"Ông. Dorian dường như đang đấu tranh giành quyền tự trị cho người dân trên Trái đất,
+---
+>  コロニーの再建について、
+>  ずいぶんと精力的に
+và việc tái thiết các vệ tinh thuộc địa,
+---
+>  活動されているようだね」
+Chạy xung quanh và khá năng động. "
+
+@18330 Lady · レディ
+> 「承知いたしました。
+>  次のバスタイムには
+"Như đã ra lệnh. Lần tới khi bạn đi tắm,
+---
+>  バラのエッセンスをご用意いたします」
+Tôi sẽ chuẩn bị sẵn nước hoa hồng cho bạn. "
+
+@18331 Treize · トレーズ
+> 「頼む」
+"Làm ơn. "

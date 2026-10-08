@@ -1,0 +1,220 @@
+# Bản dịch tiếng Việt Super Robot Wars 64
+# Định dạng và vị trí: docs/guide/dialogue-text.md
+
+@8432 Kamille · カミーユ
+# Kích hoạt: Tấn công (Chung，1/10）
+> 「これならっ!」
+"Bây giờ là lúc đi đến trụ sở chính!"
+
+@8433 Kamille · カミーユ
+# Kích hoạt: Tấn công (Chung，2/10）
+> 「おちろぉーっ!」
+“Hãy yêu tôi—!”
+
+@8434 Kamille · カミーユ
+# Kích hoạt: Tấn công (Chung，3/10）
+> 「そこかぁーっ!」
+"Đó -!"
+
+@8435 Kamille · カミーユ
+# Kích hoạt: Tấn công (Chung，4/10）
+> 「あたれぇーっ!」
+“Nó trúng——!”
+
+@8436 Kamille · カミーユ
+# Kích hoạt: Tấn công (Chung，5/10）
+> 「いけるかっ!?」
+"Có thể làm được không!?"
+
+@8437 Kamille · カミーユ
+# Kích hoạt: Tấn công (Chung，6/10）
+> 「そこだっ!!」
+“Chính là nó!!”
+
+@8438 Kamille · カミーユ
+# Kích hoạt: Tấn công (Chung，7/10）
+> 「いけーっ!!」
+"Nào!!"
+
+@8439 Kamille · カミーユ
+# Kích hoạt: Tấn công (Chung，8/10）
+> 「そこをどけーっ!!」
+"Tránh đường cho tôi!!"
+
+@8440 Kamille · カミーユ
+# Kích hoạt: Tấn công (Chung，9/10）
+> 「ええいっ!」
+"Chết tiệt!"
+
+@8441 Kamille · カミーユ
+# Kích hoạt: Tấn công (Chung，10/10）
+> 「直撃させるっ!」
+“Tôi sẽ cho cậu thưởng thức nó!”
+
+@8442 Kamille · カミーユ
+# Kích hoạt: 被击坠（通用，1/4）
+> 「しまった! 直撃をくらった!!」
+"Ối! Tôi bị đánh nặng quá!!"
+
+@8443 Kamille · カミーユ
+# Kích hoạt: 被击坠（通用，2/4）
+> 「し、しまった!!」
+"Ối, ôi!!"
+
+@8444 Kamille · カミーユ
+# Kích hoạt: 被击坠（通用，3/4）
+> 「うわぁぁぁぁっ!!」
+"Aaaaaaaaaaaaa!!"
+
+@8445 Kamille · カミーユ
+# Kích hoạt: 被击坠（通用，4/4）
+> 「うわっ!しまった!!」
+"Ồ! Tệ quá!!"
+
+@8446 Kamille · カミーユ
+# Kích hoạt: 重伤（剩余 HP 不足 30%）（通用，1/5）
+> 「ぐうっ!! まだだ! まだもってくれ!!」
+"Ugh!! Vẫn chưa kết thúc đâu! Hãy đợi thêm chút nữa!!"
+
+@8447 Kamille · カミーユ
+# Kích hoạt: 重伤（剩余 HP 不足 30%）（通用，2/5）
+> 「くぅっ! パワーダウンか!?
+>  こんな時に……」
+"Hmm! Sức mạnh đã giảm phải không? Nhưng vào lúc này..."
+
+@8448 Kamille · カミーユ
+# Kích hoạt: 重伤（剩余 HP 不足 30%）（通用，3/5）
+> 「ダメだ、このままじゃもたないっ!!」
+"Không, tôi không thể giữ vững như thế này được!!"
+
+@8449 Kamille · カミーユ
+# Kích hoạt: 重伤（剩余 HP 不足 30%）（通用，4/5）
+> 「くっ!!ダメージを受けすぎたか!?」
+"Hmm!! Thiệt hại có nghiêm trọng quá không!?"
+
+@8450 Kamille · カミーユ
+# Kích hoạt: 重伤（剩余 HP 不足 30%）（通用，5/5）
+> 「うわっ!!も、もつのか!?」
+"Chà!! Bạn vẫn có thể giữ được chứ!?"
+
+@8451 Kamille · カミーユ
+# Kích hoạt: 中伤（剩余 HP 30–90%）（通用，1/7）
+> 「まだだ! まだやられるわけにはいかない!」
+"Mọi chuyện vẫn chưa kết thúc! Tôi không thể bị đánh bại như thế này được!"
+
+@8452 Kamille · カミーユ
+# Kích hoạt: 中伤（剩余 HP 30–90%）（通用，2/7）
+> 「当たった!? やってくれる!!」
+"Đánh!? Hai lần!"
+
+@8453 Kamille · カミーユ
+# Kích hoạt: 中伤（剩余 HP 30–90%）（通用，3/7）
+> 「うっ! やる!!
+>  けど、まだやられちゃいない!!」
+"Chà! Phải mất một lúc!! Nhưng tôi vẫn chưa bị hạ gục!!"
+
+@8454 Kamille · カミーユ
+# Kích hoạt: 中伤（剩余 HP 30–90%）（通用，4/7）
+> 「なにっ!!こ、こいつっ!!」
+"Cái gì!! Cái này, cái gã này!!"
+
+@8455 Kamille · カミーユ
+# Kích hoạt: 中伤（剩余 HP 30–90%）（通用，5/7）
+> 「くっ!!まだっ!!」
+"Ugh!! Vẫn chưa kết thúc đâu!!"
+
+@8456 Kamille · カミーユ
+# Kích hoạt: 中伤（剩余 HP 30–90%）（通用，6/7）
+> 「やる!でもまだ!」
+"Hai lần! Nhưng vẫn chưa xong!"
+
+@8457 Kamille · カミーユ
+# Kích hoạt: 中伤（剩余 HP 30–90%）（通用，7/7）
+> 「まだまだっ!!」
+“Vẫn còn sớm mà!!”
+
+@8458 Kamille · カミーユ
+# Kích hoạt: 轻伤（剩余 HP 90% 以上）（通用，1/5）
+> 「こんな攻撃、効くもんかよっ!!」
+"Làm sao loại công kích này có thể thành công?!"
+
+@8459 Kamille · カミーユ
+# Kích hoạt: 轻伤（剩余 HP 90% 以上）（通用，2/5）
+> 「被弾!? いや、かすめただけか」
+"Đánh!? Không, đó chỉ là một cái chổi thôi."
+
+@8460 Kamille · カミーユ
+# Kích hoạt: 轻伤（剩余 HP 90% 以上）（通用，3/5）
+> 「そんなのでやられるものか!!」
+"Dựa trên cơ sở này, làm sao bạn có thể đánh bại tôi!!"
+
+@8461 Kamille · カミーユ
+# Kích hoạt: 轻伤（剩余 HP 90% 以上）（通用，4/5）
+> 「この程度の攻撃!!」
+“Chỉ đòn tấn công này thôi!!”
+
+@8462 Kamille · カミーユ
+# Kích hoạt: 轻伤（剩余 HP 90% 以上）（通用，5/5）
+> 「この程度のダメージなら!」
+"Tổn thương nhỏ này không là gì cả!"
+
+@8463 Kamille · カミーユ
+# Kích hoạt: Né tránh（通用，1/6）
+> 「当たりはしないっ!」
+"Ngươi sẽ không bị đánh!"
+
+@8464 Kamille · カミーユ
+# Kích hoạt: Né tránh（通用，2/6）
+> 「下!? いや、正面か!!」
+"Bên dưới!? Không, là phía trước!!"
+
+@8465 Kamille · カミーユ
+# Kích hoạt: Né tránh（通用，3/6）
+> 「そう簡単にっ!!」
+“Không dễ thế đâu!!”
+
+@8466 Kamille · カミーユ
+# Kích hoạt: Né tránh（通用，4/6）
+> 「なんのっ!」
+"Cái gì thế này!"
+
+@8467 Kamille · カミーユ
+# Kích hoạt: Né tránh（通用，5/6）
+> 「あたるかよっ!!」
+"Làm sao có thể đánh ta! !"
+
+@8468 Kamille · カミーユ
+# Kích hoạt: Né tránh（通用，6/6）
+> 「あたるものか!」
+"Làm sao có thể đánh được!"
+
+@8469 Kamille · カミーユ
+# Kích hoạt: Tấn công无效（护罩／装甲）（通用，1/2）
+> 「ビームは効かないっていってる!!」
+"Tôi đã nói với bạn rằng chùm tia là vô dụng!!"
+
+@8470 Kamille · カミーユ
+# Kích hoạt: Tấn công无效（护罩／装甲）（通用，2/2）
+> 「効くかよ!」
+"Nó chẳng có tác dụng gì cả!"
+
+@8471 Kamille · カミーユ
+# Kích hoạt: 弹药／EN 不足，无法反击（通用，1/2）
+> 「しまった! 弾切れか!?」
+"Rất tiếc! Không còn đạn nữa!?"
+
+@8472 Kamille · カミーユ
+# Kích hoạt: 弹药／EN 不足，无法反击（通用，2/2）
+> 「くっ!ダメか!?」
+"Hmm! Không thể chiến đấu được nữa!?"
+
+@8473 Kamille · カミーユ
+# Kích hoạt: 射程外，无法反击（通用，1/2）
+> 「ダメだ、
+>  この距離じゃ反撃できない!」
+“Không, chúng ta không thể phản công từ khoảng cách này!”
+
+@8474 Kamille · カミーユ
+# Kích hoạt: 射程外，无法反击（通用，2/2）
+> 「くっ!遠すぎるか!」
+"Ugh! Xa quá!"

@@ -1,0 +1,119 @@
+# Bản dịch tiếng Việt Super Robot Wars 64
+# Định dạng và vị trí: docs/guide/dialogue-text.md
+
+@11939 Chizuru · ちずる
+# Kích hoạt: Tấn công (Chung，1/4）
+> 「行くわよ!」
+"Nào!"
+
+@11940 Chizuru · ちずる
+# Kích hoạt: Tấn công (Chung，2/4）
+> 「させるもんですか!」
+"Đừng nghĩ tới chuyện đó nữa!"
+
+@11941 Chizuru · ちずる
+# Kích hoạt: Tấn công (Chung，3/4）
+> 「あたしだって!」
+"Tôi cũng có thể làm được!"
+
+@11942 Chizuru · ちずる
+# Kích hoạt: Tấn công (Chung，4/4）
+> 「これならどうっ!?」
+“Còn động tác này thì sao!?”
+
+@11943 Chizuru · ちずる
+# Kích hoạt: 被击坠（通用，1/1）
+> 「きゃあああっ! 豹馬ッ!!」
+"Ahhh! Báo Ngựa!!"
+
+@11944 Chizuru · ちずる
+# Kích hoạt: 重伤（剩余 HP 不足 30%）（通用，1/3）
+> 「あううっ! な、なんてパワーなのっ!?」
+"Aww! Không phải sức mạnh này quá mạnh sao!?"
+
+@11945 Chizuru · ちずる
+# Kích hoạt: 重伤（剩余 HP 不足 30%）（通用，2/3）
+> 「きゃあっ! ダメ、このままじゃ
+>  やられちゃうっ!」
+"A! Không, tiếp tục như vậy, ngươi sẽ bị giết!"
+
+@11946 Chizuru · ちずる
+# Kích hoạt: 重伤（剩余 HP 不足 30%）（通用，3/3）
+> 「あああっ! ち、直撃なの!?」
+"Ahhh! Bị, bị đánh trực diện à!?"
+
+@11947 Chizuru · ちずる
+# Kích hoạt: 中伤（剩余 HP 30–90%）（通用，1/3）
+> 「あうっ! まだよ、こんな事で
+>  負けるもんですか!」
+"A! Vẫn chưa kết thúc đâu. Tôi sẽ không từ bỏ chuyện này đâu!"
+
+@11948 Chizuru · ちずる
+# Kích hoạt: 中伤（剩余 HP 30–90%）（通用，2/3）
+> 「くうっ! よくもやったわねえっ!」
+"Ugh! Sao bạn dám làm điều này với tôi!"
+
+@11949 Chizuru · ちずる
+# Kích hoạt: 中伤（剩余 HP 30–90%）（通用，3/3）
+> 「うっ! まだよ! まだやれるわ!」
+"Chà! Vẫn chưa kết thúc đâu! Tôi vẫn còn có thể chiến đấu!"
+
+@11950 Chizuru · ちずる
+# Kích hoạt: 轻伤（剩余 HP 90% 以上）（通用，1/3）
+> 「こんな攻撃なんて!」
+"Đây là kiểu tấn công gì vậy!"
+
+@11951 Chizuru · ちずる
+# Kích hoạt: 轻伤（剩余 HP 90% 以上）（通用，2/3）
+> 「甘く見ないでよ!」
+"Đừng đánh giá thấp tôi!"
+
+@11952 Chizuru · ちずる
+# Kích hoạt: 轻伤（剩余 HP 90% 以上）（通用，3/3）
+> 「効くもんですか!」
+"Anh không thể làm tổn thương em!"
+
+@11953 Chizuru · ちずる
+# Kích hoạt: Né tránh（通用，1/4）
+> 「当たるものですか!」
+"Làm sao có thể đánh được!"
+
+@11954 Chizuru · ちずる
+# Kích hoạt: Né tránh（通用，2/4）
+> 「かわしてみせる!」
+"Coi chừng tôi chạy đi!"
+
+@11955 Chizuru · ちずる
+# Kích hoạt: Né tránh（通用，3/4）
+> 「そう簡単にっ!」
+"Làm sao có thể dễ dàng như vậy!"
+
+@11956 Chizuru · ちずる
+# Kích hoạt: Né tránh（通用，4/4）
+> 「来た! そこねっ!」
+"Nó tới rồi! Đúng rồi!"
+
+@11957 Chizuru · ちずる
+# Kích hoạt: Tấn công无效（护罩／装甲）（通用，1/1）
+> 「効きはしないわっ!」
+"Nó không có tác dụng gì cả!"
+
+@11958 Chizuru · ちずる
+# Kích hoạt: 弹药／EN 不足，无法反击（通用，1/1）
+> 「えっ!? 弾切れ!?」
+"Ể!? Không có đạn!?"
+
+@11959 Chizuru · ちずる
+# Kích hoạt: 射程外，无法反击（通用，1/1）
+> 「そんな、届かないなんて……」
+"Làm sao chuyện đó có thể xảy ra được? Tôi không thể với tới được..."
+
+@16791 Chizuru · ちずる
+# Kích hoạt: 使用〈爆雷〉（低优先，可能被通用台词顶掉）
+> 「機雷発射!」
+"Khởi động mỏ!"
+
+@16792 Chizuru · ちずる
+# Kích hoạt: 使用〈爆雷〉（低优先，可能被通用台词顶掉）
+> 「爆雷投下!」
+"Triển khai mìn sâu!"

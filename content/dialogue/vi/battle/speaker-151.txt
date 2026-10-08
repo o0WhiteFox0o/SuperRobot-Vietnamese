@@ -1,0 +1,132 @@
+# Bản dịch tiếng Việt Super Robot Wars 64
+# Định dạng và vị trí: docs/guide/dialogue-text.md
+
+@11876 Uchuta · 宇宙太
+# Kích hoạt: Tấn công (Chung，1/2）
+> 「いくぜぃ!」
+"Cố lên!"
+
+@11877 Uchuta · 宇宙太
+# Kích hoạt: Tấn công (Chung，2/2）
+> 「よぉしっ!」
+"Được rồi! "
+
+@11878 Uchuta · 宇宙太
+# Kích hoạt: 被击坠（通用，1/2）
+> 「わああぁぁぁぁ!!」
+"Aaaaaaaaaaaaa!!"
+
+@11879 Uchuta · 宇宙太
+# Kích hoạt: 被击坠（通用，2/2）
+> 「だ、だめだっ!」
+"Không, không còn nữa!"
+
+@11880 Uchuta · 宇宙太
+# Kích hoạt: 重伤（剩余 HP 不足 30%）（通用，1/3）
+> 「わああぁぁぁぁ!!」
+"Aaaaaaaaaaaaa!!"
+
+@11881 Uchuta · 宇宙太
+# Kích hoạt: 重伤（剩余 HP 不足 30%）（通用，2/3）
+> 「うわあぁぁっ!」
+“Ồ! "
+
+@11882 Uchuta · 宇宙太
+# Kích hoạt: 重伤（剩余 HP 不足 30%）（通用，3/3）
+> 「だ、だめだっ!」
+"Không, không còn nữa!"
+
+@11883 Uchuta · 宇宙太
+# Kích hoạt: 中伤（剩余 HP 30–90%）（通用，1/3）
+> 「なにぃ!?」
+"Cái gì!?"
+
+@11884 Uchuta · 宇宙太
+# Kích hoạt: 中伤（剩余 HP 30–90%）（通用，2/3）
+> 「こ、こいつはっ!」
+"Cái này, anh chàng này!"
+
+@11885 Uchuta · 宇宙太
+# Kích hoạt: 中伤（剩余 HP 30–90%）（通用，3/3）
+> 「うわっ、ちくしょう、むちゃくちゃだぜ!」
+"Wow, chết tiệt, nó lộn xộn quá!"
+
+@11886 Uchuta · 宇宙太
+# Kích hoạt: 轻伤（剩余 HP 90% 以上）（通用，1/2）
+> 「ぜんぜんこたえないぜ」
+“Không đau hay ngứa gì cả”
+
+@11887 Uchuta · 宇宙太
+# Kích hoạt: 轻伤（剩余 HP 90% 以上）（通用，2/2）
+> 「へっへぇ、こんなんなら余裕ってもんだ」
+"Hehe, cấp độ này dễ như ăn bánh."
+
+@11888 Uchuta · 宇宙太
+# Kích hoạt: Né tránh（通用，1/3）
+> 「やったぞ!」
+"Tránh nó ra!"
+
+@11889 Uchuta · 宇宙太
+# Kích hoạt: Né tránh（通用，2/3）
+> 「ふぅーっ!」
+"Huh-!"
+
+@11890 Uchuta · 宇宙太
+# Kích hoạt: Né tránh（通用，3/3）
+> 「当たるものか!」
+"Làm sao có thể đánh được!"
+
+@11891 Uchuta · 宇宙太
+# Kích hoạt: Tấn công无效（护罩／装甲）（通用，1/2）
+> 「へっへっへぇ」
+"Này này này này"
+
+@11892 Uchuta · 宇宙太
+# Kích hoạt: Tấn công无效（护罩／装甲）（通用，2/2）
+> 「そーれみたことか」
+"Bạn có thấy nó không?"
+
+@11893 Uchuta · 宇宙太
+# Kích hoạt: 弹药／EN 不足，无法反击（通用，1/1）
+> 「ちぇっ、弾切れかよ!」
+"Tsk, không còn đạn nữa!"
+
+@11894 Uchuta · 宇宙太
+# Kích hoạt: 射程外，无法反击（通用，1/1）
+> 「クッ、届かねぇ!」
+"Chà, nó ngoài tầm với!"
+
+@16747 Uchuta · 宇宙太
+# Kích hoạt: 使用〈クラッシャードリル〉（低优先，可能被通用台词顶掉）
+> 「クラッシャードリル!」
+"Đập máy khoan!"
+
+@16748 Uchuta · 宇宙太
+# Kích hoạt: 使用〈アームパンチ〉（低优先，可能被通用台词顶掉）
+> 「アームパンチだ!」
+"Ăn cú đấm tay của tôi!"
+
+@16749 Uchuta · 宇宙太
+# Kích hoạt: 使用〈アームパンチ〉（低优先，可能被通用台词顶掉）
+> 「アームパンチ!」
+"Cú đấm vào tay!"
+
+@16750 Uchuta · 宇宙太
+# Kích hoạt: 使用〈ブルミサイル〉（低优先，可能被通用台词顶掉）
+> 「ブルミサイル!」
+"Tên lửa trâu!"
+
+@16751 Uchuta · 宇宙太
+# Kích hoạt: 使用〈ビッグキャノン〉（低优先，可能被通用台词顶掉）
+> 「ビッグキャノン!」
+"Pháo khổng lồ!"
+
+@16752 Uchuta · 宇宙太
+# Kích hoạt: 使用〈ビッグミサイル〉（低优先，可能被通用台词顶掉）
+> 「ビッグミサイル!」
+"Tên lửa khổng lồ!"
+
+@16753 Uchuta · 宇宙太
+# Kích hoạt: 使用〈ビッグミサイル〉（低优先，可能被通用台词顶掉）
+> 「ビーッグミサイル!」
+"Tên lửa khổng lồ!"

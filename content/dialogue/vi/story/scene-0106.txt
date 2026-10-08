@@ -1,0 +1,2161 @@
+# Bản dịch tiếng Việt Super Robot Wars 64
+# Định dạng và vị trí: docs/guide/dialogue-text.md
+
+@50226 Bright · ブライト
+> 「敵の様子はどうだ?」
+"Chuyện gì đang xảy ra với kẻ thù vậy?"
+
+@50227 Beltorchika · ベルトーチカ
+> 「変化ありません」
+"Không thay đổi."
+
+@50228 Ark · アーク（按段落 3DD1）
+> 「どういうことなんだ……
+>  なんでしかけてこない……?」
+"Chuyện gì đang xảy ra vậy... sao cậu không tấn công...?"
+
+@50229 Selain · セレイン（按段落 3DD2）
+> 「妙だな……なぜしかけてこない……?」
+"Kỳ lạ... sao cậu không tấn công...?"
+
+@50230 Brad · ブラッド（按段落 3DD3）
+> 「なんだよ、いったいどうなってんだ?」
+"Cái quái gì vậy? Chuyện gì đang xảy ra vậy?"
+
+@50231 Manami · マナミ（按段落 3DD4）
+> 「どういうことかしら……?」
+"Cái quái gì đang xảy ra vậy...?"
+
+@50232 Banjo · 万丈
+> 「さてね。こういう時はよからぬことを
+>  企んでいるものと
+"Ai biết được. Lúc này, theo lẽ thường,
+---
+>  相場が決まっているんだが……」
+Chắc chắn họ có ý tưởng tồi nào đó…”
+
+@50233 Shinobu · 忍
+> 「んなこたぁ、どうだっていいぜ。奴らが
+>  敵だってのは間違いねぇんだ
+“Chuyện đó đối với anh ta không quan trọng. Dù sao những kẻ đó là kẻ thù và không hề bỏ chạy.
+---
+>  しかけてこねぇってんなら、
+>  こっちからやってやるぜ!」
+Vì họ sẽ không hành động nên hãy hành động trước! "
+
+@50234 Koji · 甲児
+> 「そういうこと。オレたちは先に出るぜ!」
+"Chính là như vậy. Chúng ta vào trước!"
+
+@50235 Sayaka · さやか
+> 「ちょっと、待ちなさいよ」
+"Này, đợi tôi."
+
+@50236 Koji · 甲児
+> 「とめないでくれよ、さやかさん」
+"Đừng ngăn cản tôi, Sayaka."
+
+@50237 Val-A · ヴァル＝ア
+> 「告ぐ」
+"Thông báo."
+
+@50238 Koji · 甲児
+> 「うわっ」
+"Ồ! "
+
+@50239 Bright · ブライト
+> 「なんだ?」
+"Có chuyện gì thế?"
+
+@50240 Amuro · アムロ
+> 「バニー、どうした?」
+"Bonnie, có chuyện gì thế?"
+
+@50241 Bunny · バニー
+> 「……受信装置が
+>  強制割り込みを受けてます!
+“…máy thu buộc phải nhận tín hiệu!
+---
+>  信じられない」
+Tôi không thể tin được. "
+
+@50242 Alan · アラン
+> 「あの敵か!?」
+"Có phải những kẻ đó không!?"
+
+@50243 Val-A · ヴァル＝ア
+> 「地球人に告ぐ。我が名は
+>  ヴァル＝ア。大銀河の意思たる
+"Thông báo cho người dân trên trái đất. Tên tôi là Val=ah, và tôi tạo nên ý chí của thiên hà vĩ đại.
+---
+>  “アル＝イー＝クイス”を
+>  構成するもの
+Một thành viên của ‘Al=I=Quis’.
+---
+>  我はお前たちがすべての争乱を
+>  静めたものと認め、ここへ来た」
+Tôi tin rằng các bạn đã xoa dịu mọi cuộc chiến nên tôi đã đến đây. "
+
+@50244 Koji · 甲児
+> 「やいやいやい! なんだか知らねぇが、
+>  やるってんなら相手になるぜ!」
+"Này, này, này! Dù bạn là ai, nếu bạn muốn chiến đấu, tôi sẽ đồng hành cùng bạn đến cùng!"
+
+@50245 Avie-Lu · アヴィ＝ルー
+> 「残念だけどネ、
+>  もうその必要はないんダ」
+“Thật không may, điều đó không còn cần thiết nữa.”
+
+@50246 Ark · アーク（按段落 3DD1）
+> 「これまで一方的に
+>  しかけてきておいて、どういうことだ?」
+"Trước đây là ngươi đơn phương khiêu khích ta, hiện tại điều này có ý nghĩa gì?"
+
+@50247 Selain · セレイン（按段落 3DD2）
+> 「いまさら、何のつもりだ?」
+"Kế hoạch của bạn bây giờ là gì?"
+
+@50248 Brad · ブラッド（按段落 3DD3）
+> 「なんだと!? いったいどういうことだ!」
+"Cái gì! ? chuyện gì đang xảy ra vậy! "
+
+@50249 Manami · マナミ（按段落 3DD4）
+> 「なんですって? これまで一方的に
+>  攻めてきてたのはそっちでしょう!?
+“Ngươi đang nói cái gì vậy? Rõ ràng là ngươi trước đó đơn phương tấn công đúng không!?
+---
+>  どういうつもりなの!?」
+Bạn muốn làm cái quái gì thế này! ? "
+
+@50250 Val-A · ヴァル＝ア
+> 「すべては、この時のためになされたこと。
+>  おとなしく我の話を聞くがよい」
+"Mọi thứ đều dành cho thời điểm này. Hãy nghe lời tôi."
+
+@50251 Judau · ジュドー
+> 「いきなり現れて
+>  話を聞けっていわれたってさ
+"Bạn đột nhiên bước ra và bảo chúng tôi hãy lắng nghe bạn,
+---
+>  はいそうですかって
+>  答えるとでも思ってんの!?」
+Bạn có nghĩ rằng chúng ta sẽ chỉ nói, 'Được rồi, được rồi'! ? "
+
+@50252 Ryoma · リョウ
+> 「ああ、まったくだ。
+>  だいたいなんで俺たちが、
+“Ừ, đúng vậy. Rốt cuộc thì tại sao chúng ta lại phải
+---
+>  お前の話を聞かなくては
+>  ならないんだ!」
+Tôi phải lắng nghe bạn! "
+
+@50253 Val-A · ヴァル＝ア
+> 「……この銀河に、
+>  生きる者であるが故に」
+"...Chỉ vì bạn là người sống trong thiên hà này."
+
+@50254 Kamille · カミーユ
+> 「銀河……だと……?」
+"Yinhe... ý anh là Yinhe...?"
+
+@50255 Sara · 沙羅
+> 「はっ、人を馬鹿にしたような
+>  ものいいばかりしてさ!
+“Hừm, cứ nói những điều khiến người ta trông như kẻ ngốc đi!
+---
+>  いったい何のつもりだい!」
+Bạn muốn làm cái quái gì thế này! "
+
+@50256 Val-A · ヴァル＝ア
+> 「どうしても聞けぬというのであれば、
+>  しかたあるまいな……」
+“Vì cậu không chịu lắng nghe dù thế nào đi nữa, cậu cũng chẳng thể làm gì được…”
+
+@50257 J-Ren · ジェイ＝レン
+> 「いらぬ手間をかけたな。
+>  最初からそうしておけば良かったのだ」
+"Đã tốn rất nhiều công sức. Lẽ ra việc này phải được thực hiện ngay từ đầu."
+
+@50258 Show · ショウ
+> 「……なにをするつもりだ!?」
+"...Anh muốn làm gì!?"
+
+@50259 Shinobu · 忍
+> 「へっ、いよいよやる気に
+>  なったってんだろ!?」
+"Này, cuối cùng thì cậu có định làm gì đó không?"
+
+@50260 Hyoma · 豹馬
+> 「うわっ!」
+"Ồ! "
+
+@50261 Shinobu · 忍
+> 「なに!?」
+"Cái gì!?"
+
+@50262 Bright · ブライト
+> 「な……なんだ……!?」
+“Cái…cái gì…! ? "
+
+@50263 Hayato · ハヤト
+> 「おかしな真似をしやがって。
+>  ここはいったいどこなんだ……?」
+"Thật là một trò lừa. Nơi này là cái quái gì vậy...?"
+
+@50264 Eiji · エイジ
+> 「……まさか……」
+“…Có lẽ nào…”
+
+@50265 Val-A · ヴァル＝ア
+> 「見るがよい。あれが我らの銀河、
+>  お前たちの住む
+"Hãy nhìn kỹ. Đó là Dải Ngân hà của chúng tôi, nơi bạn sống.
+---
+>  太陽系のある銀河だ」
+Dải Ngân hà nơi có hệ mặt trời. "
+
+@50266 Koji · 甲児
+> 「な……ななななな なんだってぇ!?」
+"Cái... cái gì cái gì!?"
+
+@50267 Duo · デュオ
+> 「じゃなにか、俺たち
+>  銀河の外にいるってのかぁ!?」
+"Cho nên chúng ta chạy ra ngoài Ngân Hà!?"
+
+@50268 Quatre · カトル
+> 「そんな、いったいどうして……?
+>  “刻印”が
+"Làm sao có thể được? Tại sao...? 'Khắc'
+---
+>  封鎖しているはずなのに……」
+Rõ ràng là nó phải bị phong ấn…”
+
+@50269 Val-A · ヴァル＝ア
+> 「我らにすれば造作もないこと。
+>  先住グラドス人の
+"Dễ dàng cho chúng tôi. Người Gradosian là trên hết
+---
+>  知り得たことなど、
+>  我らもすべて知っている」
+Chúng tôi biết mọi thứ chúng tôi biết. "
+
+@50270 Trowa · トロワ
+> 「そういえばムゲの宇宙からも
+>  ずいぶんと簡単にぬけだしていたな……」
+“Nói mới nhớ, họ đã thoát khỏi vũ trụ của Moog một cách dễ dàng…”
+
+@50271 Daisuke · 大介
+> 「まさか……本物だというのか……」
+"Có lẽ nào... điều này có đúng không..."
+
+@50272 Bright · ブライト
+> 「例の伝説……
+>  銀河先史文明というやつか…?」
+"Có phải truyền thuyết đó... cái gọi là nền văn minh tiền sử của Thiên Hà...?"
+
+@50273 Daisuke · 大介
+> 「ええ。しかし……」
+"Ừ. Nhưng..."
+
+@50274 Avie-Lu · アヴィ＝ルー
+> 「お前はフリード星人だネ……
+>  少しは知っている奴もいるんダ」
+“Anh đến từ Freed phải không…có vẻ như có một số người biết chút ít về nó.”
+
+@50275 Daisuke · 大介
+> 「だが、もし本当にそうなら、
+>  なぜ今になって出てくる?
+“Nhưng nếu đã vậy thì tại sao bây giờ nó mới lộ ra?
+---
+>  なぜ戦いをしかけた?」
+Tại sao bắt đầu một cuộc chiến? "
+
+@50276 Val-A · ヴァル＝ア
+> 「話を聞く気になったか?」
+"Bạn có sẵn lòng lắng nghe chúng tôi không?"
+
+@50277 Banjo · 万丈
+> 「……いいだろう。聞くだけは聞いてやる」
+"...Được rồi. Hãy để tôi nghe những gì bạn muốn nói."
+
+@50278 Val-A · ヴァル＝ア
+> 「すべては、あの我らの銀河の
+>  永遠の存続のため」
+"Mọi thứ đều vì sự tồn tại vĩnh cửu của thiên hà chúng ta."
+
+@50279 Takeru · タケル
+> 「銀河の……永遠の存続?」
+“Sự tồn tại vĩnh cửu của thiên hà?”
+
+@50280 Val-A · ヴァル＝ア
+> 「永劫の時を生きた我らもまた、
+>  滅びはまぬがれぬ。大銀河の
+“Chúng ta, những người đã đi qua cõi vĩnh hằng, cuối cùng sẽ bị hủy diệt. Dải Ngân Hà
+---
+>  意思は、銀河全域を覆う
+>  我ら種族の集合意識。それは
+Ý chí là ý thức tập thể của loài người chúng ta bao trùm toàn bộ thiên hà. nó
+---
+>  我ら種族が滅びの運命を
+>  受け入れたあともなお、銀河の
+Ngay cả sau khi loài người chúng ta chấp nhận số phận tuyệt chủng, chúng ta vẫn đóng vai trò là
+---
+>  護りとしてあった。だがそれも、
+>  最後の生き残りたる我らの
+Nó tồn tại để bảo vệ thiên hà. Tuy nhiên, điều đó chỉ có thể kéo dài cho đến khi, với tư cách là những người sống sót cuối cùng, chúng ta
+---
+>  存在が、無に帰すまでのこと」
+Cho đến khi nó trở về hư vô. "
+
+@50281 Shinobu · 忍
+> 「黙って聞いてりゃ、
+>  わけのわかんねぇことをいいやがってよ
+"Tôi đã im lặng lắng nghe và bạn cứ nói những điều vô nghĩa khó hiểu.
+---
+>  結局お前らの目的は
+>  何なんだよ!?」
+Mục đích của bạn cuối cùng là gì! ? "
+
+@50282 Avie-Lu · アヴィ＝ルー
+> 「代わりを見つけること……
+>  新たに大銀河の意思を
+"Tìm kiếm người thay thế...tìm kiếm người một lần nữa có thể thể hiện ý chí của thiên hà lớn hơn."
+---
+>  体現する者をネ」
+Ứng viên ở đâu? "
+
+@50283 Amuro · アムロ
+> 「代わりだって……?」
+“Thay thế…?”
+
+@50284 J-Ren · ジェイ＝レン
+> 「我らはこの戦いの最初から、
+>  すべてを見ていた
+“Chúng tôi đã thấy mọi thứ kể từ khi bắt đầu trận chiến này.
+---
+>  滅亡すると思われたお前たち
+>  地球種が、まさかムゲゾルバドスや
+Chủng tộc của bạn trên trái đất, mà bạn nghĩ sẽ diệt vong, thực sự đã đánh bại Muge Zolbados và
+---
+>  ズールを倒すとは、
+>  予定外の事態であったが……」
+Zulu, mặc dù đây là một tình huống bất ngờ…”
+
+@50285 Val-A · ヴァル＝ア
+> 「敵対者に対するその闘志。
+>  護るべきものを得たときの
+“Tinh thần chiến đấu khi đối mặt với kẻ thù. Tinh thần chiến đấu khi bạn có được thứ bạn nên bảo vệ.
+---
+>  その強じんさ。
+>  より強大な力持つ存在に対し
+Sự kiên cường đó. Đối mặt với một sự tồn tại có sức mạnh lớn hơn,
+---
+>  あくまでも抗いつづける意思の力。
+>  未成熟であるが故にいましばらくの
+Ý chí kiên cường luôn chiến đấu đến cùng. Mặc dù nó chưa trưởng thành và vẫn cần một ít
+---
+>  時が必要ながらも、お前たち
+>  地球種を、この銀河を継ぎ
+thời gian, nhưng chúng tôi tin rằng chủng tộc Trái đất của bạn đủ khả năng kế thừa và
+---
+>  護る者にふさわしいと認める」
+Hãy bảo vệ thiên hà này. "
+
+@50286 Hyoma · 豹馬
+> 「はぁ? ……こいつ何をいってるんだよ」
+“Hả?...Anh chàng này đang nói về cái gì vậy.”
+
+@50287 Val-A · ヴァル＝ア
+> 「大銀河の意思、この銀河
+>  そのものである誇り高き我が種族
+“Như ý chí của thiên hà vĩ đại, chủng tộc kiêu hãnh của chính thiên hà này,
+---
+>  数多の滅びの運命より
+>  銀河を護りし
+Người bảo vệ thiên hà khỏi vô số số phận
+---
+>  我ら“アル＝イー＝クイス”が、
+>  お前たちを後継者と認める」
+Chúng tôi, 'Al=I=Quis', công nhận bạn là người kế thừa của chúng tôi. "
+
+@50288 Koji · 甲児
+> 「な……なんだって!?」
+"Cái...cái gì! ? "
+
+@50289 Val-A · ヴァル＝ア
+> 「いまこの瞬間に、
+>  お前たちの未来は定まった
+“Tại thời điểm này, tương lai của bạn đã được quyết định.
+---
+>  宿命を受け入れよ。
+>  大銀河の意思を受け入れよ」
+Chấp nhận số phận của bạn. Chấp nhận ý chí của Thiên hà vĩ đại. "
+
+@50290 Avie-Lu · アヴィ＝ルー
+> 「“アル＝イー＝クイス”を
+>  受け入れよ
+“Chấp nhận ‘Al=I=Quis’.
+---
+>  この銀河を継ぐ者として。この
+>  銀河すべてを、たばね護る者として」
+Là người kế thừa thiên hà này. Là người đoàn kết và bảo vệ toàn bộ thiên hà. "
+
+@50291 J-Ren · ジェイ＝レン
+> 「我ら“アル＝イー＝クイス”の
+>  永劫の記憶を
+"Ký ức vĩnh cửu về 'Al=I=Quis' của chúng ta,
+---
+>  お前たちにゆだねよう」
+Tôi để nó cho bạn. "
+
+@50292 Ark · アーク（按段落 3DD1）
+> 「ちょっと待ってくれ。
+>  いきなりそんなことをいわれたって
+"Đợi một chút. Đột nhiên tôi nói điều này,
+---
+>  理解できるわけないだろう!?」
+Làm sao tôi có thể hiểu được! ? "
+
+@50293 Val-A · ヴァル＝ア
+> 「いまは理解できずともよい。
+>  ただ、受け入れさえすれば」
+"Bây giờ bạn không hiểu cũng không sao. Hãy chấp nhận nó."
+
+@50294 Ark · アーク（按段落 3DD1）
+> 「しかし……」
+"Nhưng..."
+
+@50295 Val-A · ヴァル＝ア
+> 「気にすることはない。我らは
+>  お前たちの行動のすべてを見て
+"Đừng lo lắng. Chúng tôi đã thấy mọi hành động của bạn
+---
+>  決したのだ。すべては大銀河の
+>  意思を継ぐ存在を探すため
+Vừa đưa ra quyết định. Mọi thứ là tìm kiếm sự tồn tại kế thừa ý chí của thiên hà vĩ đại,
+---
+>  そのために用意された
+>  戦いだったのだから」
+Những trận chiến này đã được chuẩn bị cho việc này. "
+
+@50296 Ark · アーク（按段落 3DD1）
+> 「な……なんだって!?」
+"Cái...cái gì! ? "
+
+@50297 Selain · セレイン（按段落 3DD2）
+> 「いきなり出てきて、よくいう。そのことの
+>  意味を、そしてそれが真実か
+"Nó không biết từ đâu xuất hiện, điều này thì dễ nói. Điều này có nghĩa là gì? Nó đúng hay sai?
+---
+>  どうかを、どうして我々が判断
+>  できるわけがある? 無駄なことだ」
+Làm thế nào chúng ta có thể phán xét? Tất cả đều vô ích. "
+
+@50298 Val-A · ヴァル＝ア
+> 「いまは理解できずともよい。
+>  ただ、受け入れさえすれば」
+"Bây giờ bạn không hiểu cũng không sao. Hãy chấp nhận nó."
+
+@50299 Selain · セレイン（按段落 3DD2）
+> 「冗談ではない。理解できぬものを
+>  受け入れられるものか」
+"Bạn đang đùa tôi. Làm sao bạn có thể chấp nhận một điều mà bạn không thể hiểu được?"
+
+@50300 Val-A · ヴァル＝ア
+> 「いずれわかる日も来よう。我らは
+>  お前たちの行動のすべてを見て
+“Một ngày nào đó bạn sẽ hiểu. Chúng tôi đã nhìn thấy mọi hành động của bạn
+---
+>  決したのだ。すべては大銀河の
+>  意思を継ぐ存在を探すため
+Vừa đưa ra quyết định. Mọi thứ là tìm kiếm sự tồn tại kế thừa ý chí của thiên hà vĩ đại,
+---
+>  そのために用意された
+>  戦いだったのだから」
+Những trận chiến này đã được chuẩn bị cho việc này. "
+
+@50301 Selain · セレイン（按段落 3DD2）
+> 「……なんだと?」
+“…Anh vừa nói gì cơ? "
+
+@50302 Brad · ブラッド（按段落 3DD3）
+> 「くそっ、俺にはわけがわかんねぇよ!」
+"Chết tiệt, tôi không hiểu chuyện gì đang xảy ra nữa! "
+
+@50303 Val-A · ヴァル＝ア
+> 「いまは理解できずともよい。
+>  ただ、受け入れさえすれば」
+"Bây giờ bạn không hiểu cũng không sao. Hãy chấp nhận nó."
+
+@50304 Brad · ブラッド（按段落 3DD3）
+> 「だいたいお前ら敵だったはずだろ!?
+>  ムサシだってお前らのせいで死んでよ!
+“Không phải ngay từ đầu các ngươi đều là kẻ thù sao! ? Musashi chết vì bạn!
+---
+>  いまさらそりゃ何なんだよ!?」
+Bây giờ điều này có nghĩa là gì? ? "
+
+@50305 Hayato · ハヤト
+> 「……そうだな」
+"...Vâng."
+
+@50306 Ryoma · リョウ
+> 「そうだ。ムサシは
+>  あいつが最初に現れたとき……」
+"Đúng vậy. Musashi là lúc anh chàng đó xuất hiện lần đầu tiên..."
+
+@50307 Avie-Lu · アヴィ＝ルー
+> 「あれでアンタたちが
+>  注目に値すると知ったんダ」
+“Lần đó hãy cho chúng tôi biết rằng bạn đáng được chú ý. "
+
+@50308 Val-A · ヴァル＝ア
+> 「この我らの選択のために散った
+>  無数の命もまた、銀河の
+"Vô số sinh mạng đã chết vì sự lựa chọn của chúng ta sẽ chỉ tồn tại chừng nào Dải Ngân Hà
+---
+>  続くかぎり記憶されるだろう。
+>  すべては大銀河の意思を継ぐ
+Chỉ cần nó tiếp tục, nó sẽ luôn được ghi nhớ. Tất cả là tìm người kế thừa ý chí của thiên hà vĩ đại
+---
+>  存在を探すため、そのために
+>  用意された戦いだったのだから」
+tồn tại, những trận chiến này đã được chuẩn bị cho việc này. "
+
+@50309 Brad · ブラッド（按段落 3DD3）
+> 「……なんだと?」
+“…Anh vừa nói gì cơ? "
+
+@50310 Manami · マナミ（按段落 3DD4）
+> 「何なのよ、いきなり出てきて
+>  勝手なことばかりいって!
+"Ngươi đang làm gì vậy, đột nhiên xuất hiện và nói những lời tự cho mình là đúng!
+---
+>  それをどうしてあたしたちが
+>  受け入れると思うの!?」
+Điều gì khiến bạn nghĩ chúng tôi sẽ chấp nhận điều này! ? "
+
+@50311 Val-A · ヴァル＝ア
+> 「いまは理解できずともよい。
+>  いずれわかる日も来よう」
+“Bây giờ không hiểu cũng không sao. Một ngày nào đó bạn cũng sẽ hiểu. "
+
+@50312 Manami · マナミ（按段落 3DD4）
+> 「そんな問題じゃないでしょう!?」
+"Đó hoàn toàn không phải là vấn đề! ? "
+
+@50313 Val-A · ヴァル＝ア
+> 「我らはお前たちの行動のすべてを
+>  見て決したのだ。すべては
+“Chúng tôi đã đưa ra quyết định sau khi xem xét mọi hành động của bạn. mọi thứ đều như vậy
+---
+>  大銀河の意思を継ぐ存在を
+>  探すため。あの戦いのすべてもまた
+Để tìm ra sự tồn tại kế thừa ý chí của thiên hà vĩ đại. Mọi thứ về trận chiến đó cũng giống nhau
+---
+>  そのために用意されたもので
+>  あったのだから」
+Chuẩn bị cho việc này. "
+
+@50314 Manami · マナミ（按段落 3DD4）
+> 「え……?」
+"Hả...? "
+
+@50315 Sara · 沙羅
+> 「じゃあ……じゃあ、
+>  ムゲやズールもそうだってのかい!?
+"Vậy... vậy Moog và Zulu cũng như vậy à! ?
+---
+>  奴らが地球に攻めてきたのも、
+>  そのためだって!?」
+Họ tấn công trái đất vì lý do này! ? "
+
+@50316 J-Ren · ジェイ＝レン
+> 「そうだ。我らは銀河全域に、
+>  “高次の存在”を目指す
+"Đúng vậy. Chúng tôi chiếu một thông điệp có tên "Theo đuổi sự tồn tại cao hơn" tới toàn bộ thiên hà.
+---
+>  意思というものを投射した。
+>  より強くそれを受け、その存在を
+ý chí. chấp nhận nó mạnh mẽ hơn và cho phép nó tồn tại
+---
+>  明らかにしたのは、銀河帝国の
+>  ズールと、異次元からこの銀河に
+Những gì được tiết lộ cho công chúng là Zulu của Đế chế Thiên hà và những người đến thiên hà này từ một chiều không gian khác.
+---
+>  あらわれたムゲゾルバドスだった。
+>  我らはそのどちらかが
+Moog Zolbados. Chúng tôi nghĩ rằng một trong hai
+---
+>  残るものと思っていた」
+Luôn có một người sẽ ở lại. "
+
+@50317 Ryoma · リョウ
+> 「高次の存在を目指す
+>  意思……? 神になるということか?」
+“Muốn theo đuổi một sự tồn tại cao hơn…? Điều đó có nghĩa là cậu muốn trở thành một vị thần?”
+
+@50318 Val-A · ヴァル＝ア
+> 「そのように受けとめた存在も、
+>  多かったようだな」
+"Xem ra có rất nhiều người hiểu như vậy."
+
+@50319 George · ジョルジュ
+> 「まさか……シャピロやウォンも、
+>  そうなのではありませんか?」
+"Có lẽ nào... Shapiro và Huang giống như vậy?"
+
+@50320 Rain · レイン
+> 「そういえば……2人とも
+>  そんなことをいっていたわね……」
+“Nhắc mới nhớ… hai người đó đã nói những điều tương tự nhau…”
+
+@50321 Avie-Lu · アヴィ＝ルー
+> 「ありえない話じゃないネ。他にも、
+>  他の文明圏にも大勢いたヨ
+“Không phải là không thể. Có rất nhiều người như vậy ở các nền văn minh khác.
+---
+>  でも十分な力を持たざる者は
+>  途中で自滅するんダ」
+Tuy nhiên, những người không đủ sức sẽ bỏ mạng trên đường đi. "
+
+@50322 Sara · 沙羅
+> 「そんな……じゃあシャピロは……」
+"Sao có thể...Shapiro đó..."
+
+@50323 Ciela · シーラ
+> 「なんということを……。
+>  そのように心をゆがめて
+"Bạn thực sự đã làm một điều như vậy...làm trái tim mọi người bị bóp méo như thế,
+---
+>  どのような意味があるというのです」
+Vấn đề là gì? "
+
+@50324 J-Ren · ジェイ＝レン
+> 「より多くをまきこむ戦いが、
+>  その戦いをぬけでる者が必要だった」
+“Chúng ta cần một cuộc chiến có sự tham gia của nhiều người hơn và những người có thể thoát khỏi nó.”
+
+@50325 Elle · エレ
+> 「ひどいことを……。なぜそのようなことを
+>  する必要があったのですか!?
+“Thế này thì quá đáng... Tại sao cậu phải làm thế này!?
+---
+>  銀河を護る者と
+>  自らを呼ぶあなた方が!?」
+Bạn không tự gọi mình là Guardians of the Galaxy sao? ? "
+
+@50326 J-Ren · ジェイ＝レン
+> 「より多くをまきこむ戦いが、
+>  その戦いをぬけでる者が必要だった」
+“Chúng ta cần một cuộc chiến có sự tham gia của nhiều người hơn và những người có thể thoát khỏi nó.”
+
+@50327 Takeru · タケル
+> 「そんな……そんなことのために、あんなに
+>  たくさんの人たちが死んだのか!?
+"Chỉ là... chỉ vì chuyện này mà nhiều người chết như vậy sao!?
+---
+>  そんなことのために、
+>  いくつもの星々で戦争がおき
+Chỉ vì chuyện này mà chiến tranh đã nổ ra trên vô số hành tinh,
+---
+>  いくつもの星々が
+>  滅んだというのか!?」
+Có phải vô số hành tinh đang hướng tới sự hủy diệt? ? "
+
+@50328 Val-A · ヴァル＝ア
+> 「我らの銀河そのものの行く末に
+>  関わること。やむをえぬことだ
+"Đây là về tương lai của chính thiên hà của chúng ta. Đây là phương sách cuối cùng.
+---
+>  ムゲゾルバドスやズールは倒れたが、
+>  お前たちが現れた
+Muge Zolbados và Zulu ngã xuống, nhưng bạn đã xuất hiện,
+---
+>  十分に価値はあった」
+Điều này đã có giá trị rồi. "
+
+@50329 Banjo · 万丈
+> 「価値があっただって!?
+>  冗談じゃない!」
+"Rất có giá trị!? Bạn đang đùa à!"
+
+@50330 Ryoma · リョウ
+> 「そうだ。そんなことをして、
+>  いくつもの世界をメチャメチャにして
+“Đúng vậy. Làm những việc như vậy sẽ làm xáo trộn vô số thế giới.
+---
+>  そのうえになりたつ銀河の
+>  存続など、なんの意味がある
+Mục đích của sự tồn tại của thiên hà đạt được theo cách này là gì?
+---
+>  お前たちは、ムゲかズールが
+>  残ると思っていたといった。ムゲや
+Bạn nói bạn nghĩ người Mugh hoặc người Zulu sẽ ở lại. chỉ để lại Moog hoặc
+---
+>  ズールの支配する、そんな文明だけ
+>  残って、どうなるというんだ!?」
+Vậy điều gì sẽ xảy ra nếu nền văn minh đó được cai trị bởi Zulu! ? "
+
+@50331 Kamille · カミーユ
+> 「そんなもののために、
+>  大勢の人たちが犠牲になるなんて
+"Chỉ vì chuyện đó mà biết bao nhiêu người đã chết,
+---
+>  そんなこと認めちゃいけないんだ。
+>  お前たちがしたことは、俺たちには
+Loại chuyện này không thể dung thứ. Những gì bạn đã làm, chúng tôi
+---
+>  認めるわけにはいかないことなんだよ!」
+Tuyệt đối không thể đồng ý với điều đó! "
+
+@50332 Val-A · ヴァル＝ア
+> 「いや……お前たちは認めねばならぬ」
+"Không...bạn phải đồng ý."
+
+@50333 Kamille · カミーユ
+> 「なに!?」
+"Cái gì!?"
+
+@50334 Val-A · ヴァル＝ア
+> 「それがこの銀河の……
+>  真理であるがゆえに」
+"Bởi vì đây là...sự thật của thiên hà này."
+
+@50335 Banjo · 万丈
+> 「銀河の真理だと!?」
+"Sự thật về thiên hà!?"
+
+@50336 Val-A · ヴァル＝ア
+> 「銀河全域において、戦いのない
+>  平和な世界を形成することは、
+"Để hình thành một thế giới hòa bình không có chiến tranh trong toàn thiên hà, điều quan trọng là
+---
+>  不可能なのだ。それではいずれ
+>  銀河文明は滅びを
+Không thể nào. Trong trường hợp đó, nền văn minh thiên hà sớm hay muộn sẽ mở ra
+---
+>  迎えることになる」
+diệt vong. "
+
+@50337 Eiji · エイジ
+> 「……なぜだ?」
+"...tại sao?"
+
+@50338 Val-A · ヴァル＝ア
+> 「生存することをさまたげるものなくして
+>  は、生命の種の保存への
+“Vì nếu không có trở ngại nào cho sự sinh tồn thì sự sống sẽ bảo tồn được chủng loại.
+---
+>  本能が狂ってしまうからだ。そして、
+>  銀河を駆ける知的生命体に
+Bản năng sẽ trở nên rối loạn. Và đối với những dạng sống thông minh đang phi nước đại khắp thiên hà,
+---
+>  とって、その命をおびやかすものとは、
+>  同種族間の、あるいは、
+Những thứ đe dọa mạng sống của họ là những người cùng chủng tộc, hoặc
+---
+>  異種族間の、戦いなのだ。我ら
+>  とてその原理をまぬがれぬことはできぬ」
+Một cuộc chiến giữa các chủng tộc khác nhau. Bản thân chúng ta cũng không thể thoát khỏi nguyên tắc này. "
+
+@50339 Takeru · タケル
+> 「では、戦いをなくすことは、滅びへ
+>  つながるというのか?」
+“Vậy, loại bỏ chiến đấu sẽ dẫn đến sự hủy diệt?”
+
+@50340 Val-A · ヴァル＝ア
+> 「そうだ。生きるための試練なくしては
+>  高度な文明を持つ種は
+“Đúng vậy. Nếu không có thử thách để sinh tồn, một chủng tộc có nền văn minh cao sẽ
+---
+>  継続しえぬ。試練としての戦いは
+>  生命が力を保つために
+Không thể tiếp tục. Trận chiến như một thử thách là nơi duy trì sức mạnh cuộc sống
+---
+>  必要なのだ。それゆえ、平和な
+>  世界と戦いのある世界は等しく
+Bắt buộc. Vì vậy, một thế giới hòa bình và một thế giới đầy đấu tranh phải giống nhau
+---
+>  存在し、常に入れ替わる必要
+>  がある。我らはそうすることにより
+tồn tại và không ngừng thay đổi. Chính nhờ làm điều này mà chúng ta
+---
+>  銀河種族の衰退を防いできた」
+Ngăn chặn sự suy tàn của chủng tộc thiên hà. "
+
+@50341 Banjo · 万丈
+> 「僕たちに銀河の中の戦いを、
+>  コントロールしろと?」
+"Bạn đang yêu cầu chúng tôi kiểm soát trận chiến trong thiên hà?"
+
+@50342 Val-A · ヴァル＝ア
+> 「あくまでも銀河を滅びから護る
+>  手段の1つとして。だが、永劫の
+"Chỉ là một trong những phương tiện để bảo vệ thiên hà khỏi sự hủy diệt. Tuy nhiên, ngay cả khi trải qua thảm họa vĩnh cửu
+---
+>  時を生きた我らですら、それを
+>  必要とした」
+Chúng tôi, những người có thời gian cũng cần nó. "
+
+@50343 Daisaku · 大作
+> 「そんな……」
+"Làm sao có thể..."
+
+@50344 Val-A · ヴァル＝ア
+> 「我らの銀河の永遠の存続の
+>  ため、数多の滅びの運命より
+"Vì sự tồn tại vĩnh cửu của thiên hà chúng ta, để thoát khỏi nhiều số phận hủy diệt
+---
+>  銀河を護るため、我ら
+>  “アル＝イー＝クイス”を継ぎ、
+Để bảo vệ Dải Ngân hà, chúng ta cần ai đó kế thừa ‘Al=I=Quis’ của chúng ta,
+---
+>  大銀河の意思を体現する
+>  存在が必要だ
+Thể hiện ý chí của Thiên hà vĩ đại.
+---
+>  ためらうことはない。ただ受け入れ
+>  さえすればよい」
+Không cần phải do dự. Chỉ cần chấp nhận nó. "
+
+@50345 Banjo · 万丈
+> 「……ためらってなどいない。答えは
+>  決まっているからな。そうだろ、みんな?」
+"...Chúng tôi không hề do dự. Bởi vì câu trả lời đã được quyết định rồi. Đúng không mọi người?"
+
+@50346 Amuro · アムロ
+> 「ああ……そうだな」
+"Ừm...ừ."
+
+@50347 Koji · 甲児
+> 「あったり前だぜ。冗談じゃないや」
+"Điều đó thì không cần phải nói. Đúng là một trò đùa."
+
+@50348 Banjo · 万丈
+> 「僕たちは僕たち自身で考えて、
+>  道を拓く。僕たちの未来は
+"Chúng ta tự suy nghĩ và tạo ra con đường riêng cho mình. Tương lai của chúng ta phụ thuộc vào chúng ta
+---
+>  自分の手でつくる。銀河の戦い
+>  を管理し操作するなんていうのも
+Tạo bằng chính đôi tay của bạn. Để quản lý và kiểm soát các trận chiến thiên hà,
+---
+>  他の文明の行く末を決める
+>  なんてのも、ごめんこうむる。僕たちは
+Chúng tôi đánh giá cao sự thiếu nhạy cảm trong việc quyết định số phận của các nền văn minh khác. chúng tôi,
+---
+>  いや、銀河に生きるすべての者は、
+>  お前たちによって生かされているわけ
+Không, tất cả sự sống trong thiên hà không phụ thuộc vào bạn.
+---
+>  じゃない。戦うことが必要かどうかを
+>  決めるのは、お前たちではない
+Bạn không có quyền quyết định liệu chiến đấu có cần thiết hay không.
+---
+>  どう生きどう死ぬかは、それぞれが
+>  決めるべきことだ」
+Sống ra sao và chết ra sao là do mỗi người quyết định. "
+
+@50349 Val-A · ヴァル＝ア
+> 「良いのか、それで。他の地球種
+>  たちは、お前たちの言葉に
+"Điều này có tốt không? Các chủng tộc trái đất khác sẽ đồng ý
+---
+>  同意するのか?」
+Lời nói của bạn? "
+
+@50350 Ark · アーク（按段落 3DD1）
+> 「するかもしれないし、しないかもしれない。
+>  そんなことがわかれば
+"Có thể, có thể không. Nếu tôi có thể biết điều gì đó như thế này,
+---
+>  地球圏でだって戦争なんか
+>  起きやしない。だけどね、それでもみんな
+Sẽ không có chiến tranh trên phạm vi Trái đất. Nhưng dù vậy, mọi người
+---
+>  精いっぱい生きてるんだ。お前たちの
+>  目には映らない、銀河全部」
+Họ đều đang cố gắng hết sức để tồn tại. Chúng tôi có thể không được bạn nhìn thấy cùng với toàn bộ thiên hà."
+
+@50351 Ark · アーク（按段落 3DD1）
+> 「なんかと比べたら、取るに足らない
+>  小さな存在かもしれないけど、
+"So sánh, có lẽ chỉ là một tồn tại tầm thường không đáng nhắc tới.
+---
+>  1人1人が、泣いたり笑ったりしな
+>  がら、必死に生きてるんだよ!
+Nhưng ai cũng dở khóc dở cười, sống liều mạng!
+---
+>  地球圏はようやく、やりなおせるかも
+>  しれないってところまで来たんだ」
+Quả cầu của Trái đất cuối cùng đã đạt đến điểm có thể bắt đầu lại. "
+
+@50352 Ark · アーク（按段落 3DD1）
+> 「俺たちはそのために戦ってきた。
+>  大銀河の意思の体現者
+“Đây là lý do tại sao chúng tôi đã chiến đấu cho đến nay. Không trở thành bất cứ điều gì
+---
+>  なんてものになるために、命をかけてきた
+>  わけじゃないんだ! そんな未来は
+Chỉ những người thể hiện ý chí của Thiên hà vĩ đại mới mạo hiểm mạng sống của mình! Tương lai như vậy,
+---
+>  いらない。そんな干渉は
+>  邪魔なんだよ!」
+Chúng tôi không muốn nó. Sự can thiệp của bạn sẽ chỉ cản trở bạn! "
+
+@50353 Selain · セレイン（按段落 3DD2）
+> 「そんなことがわかるはずもあるまい。
+>  ただこれだけはわかっているぞ
+“Làm sao cậu có thể biết được điều gì đó như thế. Nhưng đây là điều duy nhất tôi biết chắc chắn,
+---
+>  自分の生き方は、自分の
+>  未来は、自分で決めさせてもらう
+Chính bạn là người quyết định lối sống và tương lai của chính mình.
+---
+>  大銀河の意思だろうが
+>  なんだろうが、それだけは譲れない
+Cho dù ý chí của Dải Ngân hà là gì, bạn cũng sẽ không bao giờ nhượng bộ đến điểm này.
+---
+>  そして、この戦いをあえておこしたという
+>  お前たちは、許せん。他の連中が
+Hơn nữa, tôi sẽ không bao giờ tha thứ cho việc bạn cố tình kích động cuộc chiến này. không có vấn đề gì
+---
+>  何といおうともだ」
+Những gì người khác nói. "
+
+@50354 Brad · ブラッド（按段落 3DD3）
+> 「するさ。中にはそうじゃない奴だって
+>  いるだろうが、そんな奴は
+"Tất nhiên là sẽ như vậy. Có thể có một số chàng trai không nghĩ như vậy, nhưng loại chàng trai đó
+---
+>  ほんの一部だ。人間ってのはよ、
+>  一生懸命生きようとした時に
+Chỉ là một phần nhỏ thôi. Những người như thế này, khi họ đang cố gắng sống sót một cách tuyệt vọng,
+---
+>  一番すげぇ力を出せるんだ。
+>  今の俺たちにゃそれで充分だ
+Chỉ bằng cách này mới có thể phát huy được lực lượng mạnh mẽ nhất. Điều này là đủ cho chúng tôi bây giờ.
+---
+>  それ以上のものはいらねぇんだよ」
+Chúng tôi không cần gì khác. "
+
+@50355 Manami · マナミ（按段落 3DD4）
+> 「もちろんだわ。地球圏はいま、
+>  ようやくやり直せるところまで来たのよ
+"Tất nhiên. Quả cầu của Trái đất cuối cùng đã đạt đến điểm có thể bắt đầu lại.
+---
+>  あたしたちだって命がけでやってきたわ。
+>  いまさらそんなことをいわれて
+Chúng tôi đã làm việc chăm chỉ để có được vị trí như ngày hôm nay. Bây giờ bạn đang nói điều này,
+---
+>  それを受け入れると、ましてや、あんな
+>  争いの種をまいたあなたたちを、
+Bạn muốn chúng tôi chấp nhận điều đó, chưa kể bạn là người gieo mầm mống xung đột,
+---
+>  許せるとでも思ったの!?」
+Bạn có nghĩ chúng tôi sẽ tha thứ cho bạn không? ? "
+
+@50356 J-Ren · ジェイ＝レン
+> 「愚かな。大銀河の意思を
+>  体現する存在なくしては
+"Ngốc quá. Nếu không có sự tồn tại thể hiện ý chí của thiên hà vĩ đại,
+---
+>  やがては銀河そのものが滅びの日を
+>  迎えることになるのだぞ!? それを
+Sớm hay muộn, chính thiên hà sẽ dẫn đến sự diệt vong của nó! ? Phải không bạn
+---
+>  たかが星一つの世界にこだわり、
+>  破滅の運命を
+Chúng ta phải gắn bó với thế giới của chỉ một hành tinh và chấp nhận
+---
+>  受け入れようというのか!?」
+Số phận hủy diệt! ? "
+
+@50357 Shinobu · 忍
+> 「たかがだと!? たかが星一つだと!?
+>  よく聞きやがれ! 俺たちはな、それが
+"Chỉ là thôi! ? Chỉ là một hành tinh! ? Hãy nghe tôi! chúng ta đang nói về cái gì
+---
+>  嫌だっていってんだよ! そういう
+>  てめぇらみたいになりたくねぇ、
+Không muốn điều đó! Tôi không muốn trở nên có đạo đức như bạn,
+---
+>  俺たちがそうなっちまう、そんな未来
+>  なんざいらねぇ。そういってんだよ!」
+Chúng tôi không muốn một tương lai như thế. Đó là ý nghĩa của nó! "
+
+@50358 Hyoma · 豹馬
+> 「ああ、俺たちがなんのために戦ってきた
+>  と思ってやがる! その星一つを
+"Đúng vậy, ngươi cho rằng chúng ta đánh nhau đến mức này sao! chỉ dành cho
+---
+>  守るために、戦ってきたんだ!」
+Tôi đã chiến đấu để bảo vệ hành tinh đó! "
+
+@50359 Avie-Lu · アヴィ＝ルー
+> 「残念だヨ。やっぱり未成熟な
+>  種には、星の呪縛から
+"Thật đáng tiếc, xem ra chủng tộc non nớt không thể thoát khỏi sự ràng buộc của tinh cầu.
+---
+>  解き放たれない銀河の幼な子
+>  たちには、早すぎたみたいだネ」
+Đối với những đứa trẻ được giải phóng của Galaxy, vẫn còn quá sớm. "
+
+@50360 J-Ren · ジェイ＝レン
+> 「だが、我らに残された時間は
+>  あまりにも少ない
+“Nhưng thời gian còn lại cho chúng ta quá ít.
+---
+>  お前たちを排除し、
+>  そのあとにもう1度
+Loại bỏ bạn trước, sau đó một lần nữa
+---
+>  他の地球種へ問いかけよう」
+Hãy hỏi các chủng tộc Trái đất khác. "
+
+@50361 Avie-Lu · アヴィ＝ルー
+> 「そうだネ。それでだめなら、
+>  ムゲかズールを再生させよう」
+"Đúng vậy. Nếu cách đó không hiệu quả, hãy để Moog hoặc Zulu được hồi sinh."
+
+@50362 Ark · アーク（按段落 3DD1）
+> 「な……んだって!?」
+"Cái...cái gì! ? "
+
+@50363 Bright · ブライト
+> 「ばかな! そんなことができるものか」
+"Thật ngớ ngẩn! Làm sao có thể làm được chuyện như vậy?"
+
+@50364 Avie-Lu · アヴィ＝ルー
+> 「できるヨ。ムゲもズールも、完全に
+>  存在を消し去ったわけじゃ
+“Có thể làm được. Dù là Moog hay Zulu, sự tồn tại của họ vẫn chưa bị tiêu diệt hoàn toàn.
+---
+>  ないからね。アンタたち人間とは、
+>  違う生き物なんだヨ」
+Xóa nó đi. Họ không phải là loại sinh vật giống như con người các bạn. "
+
+@50365 Roux · ルー
+> 「そんな、まさか!?」
+"Làm sao có thể được? Bạn có nghĩ vậy không!?"
+
+@50366 Kamille · カミーユ
+> 「そんなことをさせるわけにはいかないッ!」
+"Tôi sẽ không bao giờ để bạn làm điều đó!"
+
+@50367 Show · ショウ
+> 「ああ、そう何もかもお前たちの
+>  思い通りになると思うな!」
+"Đúng vậy, đừng tưởng rằng mọi chuyện sẽ như ý muốn!"
+
+@50368 J-Ren · ジェイ＝レン
+> 「勝てるつもりでいるのか、我ら
+>  “アル＝イー＝クイス”に?
+“Bạn có nghĩ mình có thể đánh bại ‘Al=I=Quis’ của chúng tôi không?
+---
+>  この生体すらも我らの
+>  仮の姿にすぎぬというのに」
+Ngay cả thân này cũng chỉ là thân giả của chúng ta. "
+
+@50369 Eiji · エイジ
+> 「仮の姿!?」
+“Cơ thể giả!?”
+
+@50370 J-Ren · ジェイ＝レン
+> 「お前たちに与える印象を
+>  考慮して、“人間”の
+"Xem xét nó trông như thế nào đối với bạn, chúng tôi đã mô phỏng nó theo 'con người'
+---
+>  形態に似せた生体をつくったのだ
+>  その方が話しやすかろう?
+Hình thức làm nên cơ thể. Nói chuyện thế này có dễ hơn không?
+---
+>  もっとも、無駄なことだったようだがな」
+Tuy nhiên, có vẻ như nỗ lực đó là vô ích. "
+
+@50371 Avie-Lu · アヴィ＝ルー
+> 「悪いけド、すぐに終わらせるヨ」
+"Xin lỗi, nó sẽ kết thúc sớm thôi."
+
+@50372 Ark · アーク（按段落 3DD1）
+> 「黙ってやられるものかよ! 勝てない
+>  からといってあきらめるくらいなら
+“Ai sẽ để ngươi tàn sát ta! Nếu ngươi bỏ cuộc vì không thể thắng,
+---
+>  とっくの昔に戦いをやめている!
+>  たとえお前たちが正しいとしても
+Chúng ta đã ngừng chiến đấu từ lâu rồi! Ngay cả khi bạn đúng,
+---
+>  俺たちは自分の選んだ道を
+>  信じて戦うだけだ!」
+Chúng tôi sẽ chỉ tin vào con đường mình đã chọn và tiếp tục chiến đấu! "
+
+@50373 J-Ren · ジェイ＝レン
+> 「我らの力なくしては
+>  地球にもどることすらかなわぬと
+"Bạn nên biết rằng nếu không có sức mạnh của chúng tôi, bạn thậm chí không thể quay trở lại Trái đất.
+---
+>  知ってのことだろうな?」
+Bạn không thể làm điều đó, phải không? "
+
+@50374 Roux · ルー
+> 「いまここであんたたちを倒せば、
+>  たとえ私たちがもどれなかったとしても
+"Miễn là chúng tôi đánh bại bạn ở đây, ngay cả khi chúng tôi không thể quay lại,
+---
+>  地球圏はきっと再建するわ。
+>  だから、かまわない!」
+Quả cầu của Trái đất cũng sẽ được xây dựng lại. Vì vậy, nó không quan trọng! "
+
+@50375 Judau · ジュドー
+> 「ああ、これ以上地球圏を
+>  荒らされて、いつまでもいいように
+"Đúng vậy, làm sao ngươi có thể tiếp tục hủy hoại địa cầu?
+---
+>  躍らされて、たまるかよ!」
+Làm sao tôi có thể luôn ở trong sự thương xót của bạn! "
+
+@50376 Selain · セレイン（按段落 3DD2）
+> 「なんだと!?」
+"Cái gì!?"
+
+@50377 Bright · ブライト
+> 「ばかな! そんなことができるものか」
+"Thật ngớ ngẩn! Làm sao có thể làm được chuyện như vậy?"
+
+@50378 Avie-Lu · アヴィ＝ルー
+> 「できるヨ。ムゲもズールも、完全に
+>  存在を消し去ったわけじゃ
+“Có thể làm được. Dù là Moog hay Zulu, sự tồn tại của họ vẫn chưa bị tiêu diệt hoàn toàn.
+---
+>  ないからね。アンタたち人間とは、
+>  違う生き物なんだヨ」
+Xóa nó đi. Họ không phải là loại sinh vật giống như con người các bạn. "
+
+@50379 Roux · ルー
+> 「そんな、まさか!?」
+"Làm sao có thể được? Bạn có nghĩ vậy không!?"
+
+@50380 Kamille · カミーユ
+> 「そんなことをさせるわけにはいかないッ!」
+"Tôi sẽ không bao giờ để bạn làm điều đó!"
+
+@50381 Show · ショウ
+> 「ああ、そう何もかもお前たちの
+>  思い通りになると思うな!」
+"Đúng vậy, đừng tưởng rằng mọi chuyện sẽ như ý muốn!"
+
+@50382 J-Ren · ジェイ＝レン
+> 「勝てるつもりでいるのか、我ら
+>  “アル＝イー＝クイス”に?
+“Bạn có nghĩ mình có thể đánh bại ‘Al=I=Quis’ của chúng tôi không?
+---
+>  この生体すらも我らの
+>  仮の姿にすぎぬというのに」
+Ngay cả thân này cũng chỉ là thân giả của chúng ta. "
+
+@50383 Eiji · エイジ
+> 「仮の姿!?」
+“Cơ thể giả!?”
+
+@50384 J-Ren · ジェイ＝レン
+> 「お前たちに与える印象を
+>  考慮して“人間”の形態に
+"Xem xét nó trông như thế nào đối với bạn, chúng tôi đã mô phỏng nó theo hình dạng 'con người'.
+---
+>  似せた生体をつくったのだ。
+>  その方が話しやすかろう?
+Đã tạo ra cơ thể này. Nói chuyện thế này có dễ hơn không?
+---
+>  もっとも、無駄なことだったようだがな」
+Tuy nhiên, có vẻ như nỗ lực đó là vô ích. "
+
+@50385 Avie-Lu · アヴィ＝ルー
+> 「悪いけド、すぐに終わらせるヨ」
+"Xin lỗi, nó sẽ kết thúc sớm thôi."
+
+@50386 Selain · セレイン（按段落 3DD2）
+> 「力の差は知っているが、
+>  あきらめの悪いのが性分でな
+“Tôi biết sự chênh lệch về sức mạnh, nhưng tôi sinh ra để không chịu thừa nhận thất bại.
+---
+>  これまでもずっとそうして、
+>  ここまで戦い続けてきた
+Điều này luôn xảy ra và tôi đã chiến đấu suốt chặng đường cho đến ngày nay.
+---
+>  今度もそうさせてもらう。
+>  そう簡単にやれるとは思うな」
+Lần này cũng không ngoại lệ. Đừng nghĩ rằng bạn có thể có được nó một cách dễ dàng. "
+
+@50387 J-Ren · ジェイ＝レン
+> 「我らの力なくしては地球に
+>  もどることすらかなわぬと
+“Không có sức mạnh của chúng tôi, bạn thậm chí sẽ không thể quay trở lại Trái đất.
+---
+>  知ってのことだろうな?」
+Bạn nên biết điều này, phải không? "
+
+@50388 Roux · ルー
+> 「いまここであんたたちを倒せば、
+>  たとえ私たちがもどれなかったとしても
+"Miễn là chúng tôi đánh bại bạn ở đây, ngay cả khi chúng tôi không thể quay lại,
+---
+>  地球圏はきっと再建するわ。
+>  だから、かまわない!」
+Quả cầu của Trái đất cũng sẽ được xây dựng lại. Vì vậy, nó không quan trọng! "
+
+@50389 Judau · ジュドー
+> 「ああ、これ以上地球圏を
+>  荒らされて、いつまでもいいように
+"Đúng vậy, làm sao ta có thể để ngươi phá hủy vòng tròn trái đất lần nữa?
+---
+>  躍らされて、たまるかよ!」
+Hãy để nó đi! "
+
+@50390 Brad · ブラッド（按段落 3DD3）
+> 「なにッ!?」
+"Cái gì!?"
+
+@50391 Alan · アラン
+> 「ばかな! そんなことができるはずがない!」
+"Thật ngớ ngẩn! Làm sao có thể làm được chuyện như vậy!"
+
+@50392 Avie-Lu · アヴィ＝ルー
+> 「できるヨ。ムゲもズールも、完全に
+>  存在を消し去ったわけじゃ
+“Có thể làm được. Dù là Moog hay Zulu, sự tồn tại của họ vẫn chưa bị tiêu diệt hoàn toàn.
+---
+>  ないからね。アンタたち人間とは、
+>  違う生き物なんだヨ」
+Xóa nó đi. Họ không phải là loại sinh vật giống như con người các bạn. "
+
+@50393 Sayaka · さやか
+> 「そんな、まさか!?」
+"Làm sao có thể được? Bạn có nghĩ vậy không!?"
+
+@50394 Takeru · タケル
+> 「そんなことをさせるものかッ!」
+"Tôi sẽ không bao giờ để bạn làm điều đó!"
+
+@50395 Ryoma · リョウ
+> 「ああ、そう何もかもお前たちの
+>  思い通りになると思うなよ!」
+"Đúng vậy, đừng tưởng rằng mọi chuyện sẽ như ý muốn!"
+
+@50396 J-Ren · ジェイ＝レン
+> 「勝てるつもりでいるのか、我ら
+>  “アル＝イー＝クイス”に?
+“Bạn có nghĩ mình có thể đánh bại ‘Al=I=Quis’ của chúng tôi không?
+---
+>  この生体すらも我らの
+>  仮の姿にすぎぬというのに」
+Ngay cả thân này cũng chỉ là thân giả của chúng ta. "
+
+@50397 Banjo · 万丈
+> 「仮の姿だって!?」
+“Cơ thể giả!?”
+
+@50398 J-Ren · ジェイ＝レン
+> 「お前たちに与える印象を
+>  考慮して“人間”の形態に
+"Xem xét nó trông như thế nào đối với bạn, chúng tôi đã mô phỏng nó theo hình dạng 'con người'.
+---
+>  似せた生体をつくったのだ。
+>  その方が話しやすかろう?
+Đã tạo ra cơ thể này. Nói chuyện thế này có dễ hơn không?
+---
+>  もっとも、無駄なことだったようだがな」
+Tuy nhiên, có vẻ như nỗ lực đó là vô ích. "
+
+@50399 Avie-Lu · アヴィ＝ルー
+> 「悪いけド、すぐに終わらせるヨ」
+"Xin lỗi, nó sẽ kết thúc sớm thôi."
+
+@50400 Brad · ブラッド（按段落 3DD3）
+> 「ふん、勝敗は
+>  終わってみなければわからん!
+“Hừm, không ai có thể biết được kết quả cho đến cuối cùng!
+---
+>  俺たちの往生際の悪さは
+>  保証するぜッ!」
+Khi nói đến việc rình rập, chúng tôi là đỉnh cao! "
+
+@50401 J-Ren · ジェイ＝レン
+> 「我らの力なくしては地球に
+>  もどることすらかなわぬと
+“Không có sức mạnh của chúng tôi, bạn thậm chí sẽ không thể quay trở lại Trái đất.
+---
+>  知ってのことだろうな?」
+Bạn nên biết điều này, phải không? "
+
+@50402 Sara · 沙羅
+> 「はん! いまここであんたらを倒せば、
+>  もしあたしらがこのまま死んだって
+"Hừm! Chỉ cần ta đánh bại ngươi ở đây, ngay cả khi chúng ta chết như thế này,
+---
+>  地球圏は再建できる。
+>  なら、やってやるさ
+Quả cầu của Trái đất cũng có thể được xây dựng lại. Thế thì làm đi,
+---
+>  せいぜい抵抗させてもらうよ!」
+Chúng tôi sẽ chiến đấu hết sức mình đến cùng! "
+
+@50403 Shinobu · 忍
+> 「ああ、いつまでもてめぇらの思わく
+>  通りにことが運ぶと思うんじゃねぇ!」
+"Đúng vậy, đừng nghĩ rằng mọi chuyện sẽ luôn diễn ra theo kế hoạch của bạn!"
+
+@50404 Koji · 甲児
+> 「そうだぜ。オレたちが
+>  いつまでもお前たちの
+"Bạn nói đúng. Cứ tưởng chúng tôi sẽ luôn ở bên bạn
+---
+>  手の中で踊ってると思ったら、
+>  大間違いだ!」
+Nhảy múa trong lòng bàn tay là một sai lầm lớn! "
+
+@50405 Manami · マナミ（按段落 3DD4）
+> 「なんですって!?」
+"Anh vừa nói gì thế!?"
+
+@50406 Alan · アラン
+> 「ばかな! そんなことができるはずがない!」
+"Thật ngớ ngẩn! Làm sao có thể làm được chuyện như vậy!"
+
+@50407 Avie-Lu · アヴィ＝ルー
+> 「できるヨ。ムゲもズールも、完全に
+>  存在を消し去ったわけじゃ
+“Có thể làm được. Dù là Moog hay Zulu, sự tồn tại của họ vẫn chưa bị tiêu diệt hoàn toàn.
+---
+>  ないからね。アンタたち人間とは、
+>  違う生き物なんだヨ」
+Xóa nó đi. Họ không phải là loại sinh vật giống như con người các bạn. "
+
+@50408 Sayaka · さやか
+> 「そんな、まさか!?」
+"Làm sao có thể được? Bạn có nghĩ vậy không!?"
+
+@50409 Takeru · タケル
+> 「そんなことをさせるものかッ!」
+"Tôi sẽ không bao giờ để bạn làm điều đó!"
+
+@50410 Ryoma · リョウ
+> 「ああ、そう何もかもお前たちの
+>  思い通りになると思うなよ!」
+"Đúng vậy, đừng tưởng rằng mọi chuyện sẽ như ý muốn!"
+
+@50411 J-Ren · ジェイ＝レン
+> 「勝てるつもりでいるのか、我ら
+>  “アル＝イー＝クイス”に?
+“Bạn có nghĩ mình có thể đánh bại ‘Al=I=Quis’ của chúng tôi không?
+---
+>  この生体すらも我らの
+>  仮の姿にすぎぬというのに」
+Ngay cả thân này cũng chỉ là thân giả của chúng ta. "
+
+@50412 Banjo · 万丈
+> 「仮の姿だって!?」
+“Cơ thể giả!?”
+
+@50413 J-Ren · ジェイ＝レン
+> 「お前たちに与える印象を
+>  考慮して“人間”の形態に
+"Xem xét nó trông như thế nào đối với bạn, chúng tôi đã mô phỏng nó theo hình dạng 'con người'.
+---
+>  似せた生体をつくったのだ。
+>  その方が話しやすかろう?
+Đã tạo ra cơ thể này. Nói chuyện thế này có dễ hơn không?
+---
+>  もっとも、無駄なことだったようだがな」
+Tuy nhiên, có vẻ như nỗ lực đó là vô ích. "
+
+@50414 Avie-Lu · アヴィ＝ルー
+> 「悪いけド、すぐに終わらせるヨ」
+"Xin lỗi, nó sẽ kết thúc sớm thôi."
+
+@50415 Manami · マナミ（按段落 3DD4）
+> 「どうかしら!? あたしたちはこれまで
+>  何度だってそういう戦いを
+“Điều đó không hẳn là đúng! Chúng ta không biết mình đã đột phá bao nhiêu lần rồi.”
+---
+>  くぐりぬけてきたわ。あたしたちは
+>  地球のために
+Một trận chiến như vậy. Chúng tôi muốn phục vụ trái đất,
+---
+>  地球にいる人たちのために、
+>  戦ってみせる!
+Chiến đấu đến cùng vì người dân trên trái đất!
+---
+>  その想いは、
+>  あたしたちを強くしてくれるわ!」
+Niềm tin này sẽ làm cho chúng ta mạnh mẽ hơn! "
+
+@50416 J-Ren · ジェイ＝レン
+> 「我らの力なくしては地球に
+>  もどることすらかなわぬと
+“Không có sức mạnh của chúng tôi, bạn thậm chí sẽ không thể quay trở lại Trái đất.
+---
+>  知ってのことだろうな?」
+Bạn nên biết điều này, phải không? "
+
+@50417 Sara · 沙羅
+> 「はん! いまここであんたらを倒せば、
+>  もしあたしらがこのまま死んだって
+"Hừm! Chỉ cần ta đánh bại ngươi ở đây, ngay cả khi chúng ta chết như thế này,
+---
+>  地球圏は再建できる。
+>  なら、やってやるさ
+Quả cầu của Trái đất cũng có thể được xây dựng lại. Thế thì làm đi,
+---
+>  せいぜい抵抗させてもらうよ!」
+Chúng tôi sẽ chiến đấu hết sức mình đến cùng! "
+
+@50418 Shinobu · 忍
+> 「ああ、いつまでもてめぇらの思わく
+>  通りにことが運ぶと思うんじゃねぇ!」
+"Đúng vậy, đừng nghĩ rằng mọi chuyện sẽ luôn diễn ra theo kế hoạch của bạn!"
+
+@50419 Koji · 甲児
+> 「そうだぜ。オレたちが
+>  いつまでもお前たちの
+"Bạn nói đúng. Cứ tưởng chúng tôi sẽ luôn ở bên bạn
+---
+>  手の中で踊ってると思ったら
+>  大間違いだ!」
+Nhảy múa trong lòng bàn tay là một sai lầm lớn! "
+
+@50420 Val-A · ヴァル＝ア
+> 「そうか。ならば……」
+"Thật sao? Vậy thì..."
+
+@50421 Avie-Lu · アヴィ＝ルー
+> 「やらなきゃならないみたいだネ」
+"Có vẻ như chúng ta phải làm điều đó."
+
+@50422 Bright · ブライト
+> 「とにかく、やるしかない。
+>  みんな、頼むぞ!」
+"Dù sao đi nữa, chúng ta phải làm điều đó. Mọi người, làm ơn!"
+
+@50423 Val-A · ヴァル＝ア
+> 「用意はできたようだな。くるがよい」
+"Có vẻ như cậu đã sẵn sàng rồi. Đi thôi."
+
+@50424 Shinobu · 忍
+> 「いわれるまでもねぇ! やってやるぜッ!!」
+"Bạn không cần phải nói với tôi! Hãy đến đây!!"
+
+@50425 Bright · ブライト
+> 「やったのか!?」
+"Giết chết!?"
+
+@50426 Beltorchika · ベルトーチカ
+> 「……だめです!」
+"...Không!"
+
+@50427 Reika · レイカ
+> 「こっちにも出たわ!」
+"Nó cũng xuất hiện ở đây!"
+
+@50428 Val-A · ヴァル＝ア
+> 「…………」
+“…………”
+
+@50429 Bright · ブライト
+> 「くっ……やはりだめか……」
+"Hmm... Chắc chắn rồi, nó vẫn không hoạt động..."
+
+@50430 Ciela · シーラ
+> 「あきらめてはなりません!
+>  命の限り戦うのです!」
+"Không thể bỏ cuộc! Hãy chiến đấu đến cùng bằng mạng sống của mình!"
+
+@50431 Bright · ブライト
+> 「シーラ女王……全機、態勢を
+>  たてなおせ! 何度でもやるんだ!」
+"Nữ hoàng Sheela...tất cả máy bay, tập hợp lại! Dù có chiến đấu bao nhiêu lần đi chăng nữa, chúng ta cũng phải tiếp tục!"
+
+@50432 Elle · エレ
+> 「まだ……まだいけます!
+>  ここで何としても終わらせなくては!」
+"Tôi vẫn có thể... Tôi vẫn có thể chiến đấu! Dù thế nào đi nữa, chúng ta phải kết thúc chuyện này ở đây!"
+
+@50433 Bright · ブライト
+> 「エレ女王……全機、態勢を
+>  たてなおせ! 何度でもやるんだ!」
+"Nữ hoàng Ai Lei ... tất cả máy bay, tập hợp lại! Dù có chiến đấu bao nhiêu lần, chúng ta cũng phải tiếp tục!"
+
+@50434 Val-A · ヴァル＝ア
+> (この力、この命の力、意思の力
+>  想いの力……これまで銀河に
+(Sức mạnh này, sức mạnh sinh mệnh này, sức mạnh ý chí, sức mạnh niềm tin... trong thiên hà
+---
+>  生まれた数多の文明の中で、
+>  もっとも我らに近しきもの……やはり…)
+Trong số rất nhiều nền văn minh đã từng được sinh ra, nền văn minh gần gũi nhất với chúng ta là... quả nhiên...)
+
+@50435 Avie-Lu · アヴィ＝ルー
+> 「ヴァル＝ア、もういいヨ。この連中を
+>  消し去って、地球へ行こう」
+"Val = Ah, thế là đủ rồi. Hãy loại bỏ những kẻ này và đi đến Trái Đất."
+
+@50436 Val-A · ヴァル＝ア
+> 「……待て」
+"...đợi đã."
+
+@50437 J-Ren · ジェイ＝レン
+> 「この数百年の間にエネルギーを
+>  消耗しすぎた。エントロピーが極限
+"Trong vài trăm năm qua, năng lượng đã bị tiêu hao quá mức. Entropy đã tăng đến mức giới hạn.
+---
+>  まで増大している。いつ我らに
+Khi nào chúng ta sẽ phải đối mặt với sự hủy diệt?
+---
+>  滅びが訪れるか、もはや予想が
+>  つかないのだぞ、ヴァル＝ア
+Đã khó đoán rồi, Val = Ah.
+---
+>  “アル＝イー＝クイス”の記憶を継ぐ
+>  者がなければ、この銀河は……」
+Nếu không có người kế thừa ký ức của ‘Al=I=Quis’, thiên hà này sẽ…”
+
+@50438 Val-A · ヴァル＝ア
+> 「いや……もう一度だ」
+"Không...lại nữa."
+
+@50439 Avie-Lu · アヴィ＝ルー
+> 「ヴァル＝ア……?」
+"Val = À...?"
+
+@50440 J-Ren · ジェイ＝レン
+> 「いったいどうしたというのだ!?」
+"Có chuyện gì với bạn thế!?"
+
+@50441 Val-A · ヴァル＝ア
+> 「もう一度だ。それで……終わらせる」
+"Làm lại lần nữa. Vậy thì... kết thúc đi."
+
+@50442 J-Ren · ジェイ＝レン
+> 「……わかった」
+“…Được rồi. "
+
+@50443 Val-A · ヴァル＝ア
+> 「……この力……やはり……」
+"...sức mạnh này...quả nhiên..."
+
+@50444 Avie-Lu · アヴィ＝ルー
+> 「なんだって!? こいつら、やっぱり……」
+"Cái gì!? Những kẻ này, quả nhiên..."
+
+@50445 J-Ren · ジェイ＝レン
+> 「くっ……そうか……わかったぞ、
+>  ヴァル＝ア……」
+"À...tôi hiểu rồi...tôi hiểu rồi, Val=ah..."
+
+@50446 Bright · ブライト
+> 「……なんとか倒したが……今度は
+>  どうだ!?」
+"...Cuối cùng cũng bị đánh bại...Lần này thì sao!?"
+
+@50447 Beltorchika · ベルトーチカ
+> 「……出現の気配はありません」
+“…Không có dấu hiệu nào cả.”
+
+@50448 Reika · レイカ
+> 「そうね……大丈夫みたい」
+"Ừ... có vẻ như ổn."
+
+@50449 Bright · ブライト
+> 「では……終わった……のか……?」
+"Vậy... đã xong chưa...?"
+
+@50450 Anna · アンナ
+> 「でも……もし本当に終わったのだと
+>  しても……」
+"Nhưng...ngay cả khi nó thực sự kết thúc..."
+
+@50451 Eiji · エイジ
+> 「……地球へは戻れない」
+“…Tôi cũng không thể quay lại Trái đất được.”
+
+@50452 Dr. Hazuki · 葉月博士
+> 「うむ……いくらガンドールといえど、
+>  銀河旅行をするようには
+"Chà...ngay cả Gondor cũng không được tạo ra
+---
+>  できておらん……」
+Xuyên qua thiên hà..."
+
+@50453 Dr. Saotome · 早乙女博士
+> 「……仮にできたとしても、我々には
+>  “刻印”の障壁を突破する
+“…Ngay cả nếu có thể, chúng ta chắc chắn sẽ không thể vượt qua được.
+---
+>  ことは、できんだろうな……」
+Rào cản của 'khắc'…”
+
+@50454 Duo · デュオ
+> 「あ～あ、結局、俺たちもここまでっ
+>  てことかぁ」
+“A~ah, cuối cùng thì chúng ta chỉ có thể dừng lại ở đây thôi.”
+
+@50455 Beauty · ビューティ
+> 「……あれ、なにかしら……?」
+"...Này, đó là cái gì...?"
+
+@50456 Bunny · バニー
+> 「どうしたの?」
+"Có chuyện gì thế?"
+
+@50457 Beauty · ビューティ
+> 「ほら、あそこ。何か見えない?」
+"Nhìn kìa, ở đằng kia. Có gì không?"
+
+@50458 Val-A · ヴァル＝ア
+> 「…………」
+“…………”
+
+@50459 Amuro · アムロ
+> 「くっ……やはりダメなのか……」
+"Hmm... Chắc chắn rồi, nó vẫn không hoạt động..."
+
+@50460 Banjo · 万丈
+> 「いや、そうでもなさそうだ。あまり調子
+>  はよろしくないようだよ」
+"Không, có vẻ như không phải vậy. Có vẻ như nó không ở trong tình trạng tốt."
+
+@50461 Alan · アラン
+> 「うむ。他の2人も見えないようだな」
+"Ừ. Hai người còn lại hình như cũng mất tích."
+
+@50462 Val-A · ヴァル＝ア
+> 「……そうだ。もはや、この形態を保つ
+>  ことすらかなわぬ……」
+“…Đúng vậy. Bây giờ, tôi thậm chí còn không thể duy trì được hình dạng này…”
+
+@50463 Koji · 甲児
+> 「へっ、負けを認めるってわけかよ」
+"Này, cậu đang thừa nhận thất bại à?"
+
+@50464 Shinobu · 忍
+> 「残念だったな。確かに俺たちはもう
+>  帰れないだろうさ。だが……
+"Thật đáng tiếc. Có lẽ chúng ta không thể quay lại được. Nhưng...
+---
+>  その様子じゃ、てめぇらも、もう終わ
+>  りだな」
+Nhìn ngươi như thế này, ngươi đều phải chịu số phận. "
+
+@50465 Sara · 沙羅
+> 「どれだけ生きたか知らないけど、もうあ
+>  きらめるんだね。あたしたちは、あんたらの
+“Tôi không biết bạn đã sống được bao lâu, nhưng tốt nhất bạn nên từ bỏ. Chúng tôi sẽ không
+---
+>  好きにはならないよ」
+Với lòng thương xót của bạn. "
+
+@50466 Val-A · ヴァル＝ア
+> 「……いや……これでよい……」
+"...Không...không sao đâu..."
+
+@50467 Show · ショウ
+> 「なんだって!?」
+"Anh vừa nói gì thế!?"
+
+@50468 Val-A · ヴァル＝ア
+> 「……我らが滅びるとも……大銀河
+>  の意思は……永遠だ」
+"...ngay cả khi chúng ta tiêu diệt...ý chí của Thiên hà vĩ đại...là vĩnh cửu."
+
+@50469 Ark · アーク（按段落 3DD1）
+> 「な……に?」
+"Cái... cái gì?"
+
+@50470 Selain · セレイン（按段落 3DD2）
+> 「なに?」
+"Cái gì? "
+
+@50471 Brad · ブラッド（按段落 3DD3）
+> 「なんだと?」
+"Anh đã nói gì thế? "
+
+@50472 Manami · マナミ（按段落 3DD4）
+> 「なんですって?」
+"Anh đã nói gì thế? "
+
+@50473 Val-A · ヴァル＝ア
+> 「我ら“アル＝イー＝クイス”の最後の
+>  役目……このためであったのだろうな
+“Tôi đang chờ đợi nhiệm vụ cuối cùng của ‘Al=I=Quis’… Tôi đoán là vì việc này.
+---
+>  お前たち地球種と
+>  出会うため……」
+Để gặp được loài người trên trái đất của bạn..."
+
+@50474 Ark · アーク（按段落 3DD1）
+> (なんだ……あいつ、いま……
+>  笑ったのか……?)
+(Cái gì... tên đó vừa mới... cười...?)
+
+@50475 Selain · セレイン（按段落 3DD2）
+> (笑った……のか? なぜだ?)
+(Cười...? Tại sao?)
+
+@50476 Brad · ブラッド（按段落 3DD3）
+> (あいつ……笑いやがった!?
+>  間違いねぇ。だが……なぜだ?)
+(Anh chàng đó...thực sự đã mỉm cười!? Đó là sự thật. Nhưng...tại sao?)
+
+@50477 Manami · マナミ（按段落 3DD4）
+> (笑った……? なぜ? なぜなの……?)
+(Cười...? Tại sao? Chính xác là tại sao...?)
+
+@50478 Val-A · ヴァル＝ア
+> 「星に縛られし幼子たちよ…………
+"Những đứa trẻ bị ràng buộc bởi hành tinh này...
+---
+>  戻るがいい、あるべきところへ
+Hãy quay lại, quay lại nơi mà bạn thuộc về.
+---
+>  そして…………」
+Sau đó..."
+
+@50479 Bright · ブライト
+> 「これは……博士!?」
+"Đây là... bác sĩ!?"
+
+@50480 Dr. Hazuki · 葉月博士
+> 「来たときと同じだ! これは……」
+"Nó cũng giống như khi tôi đến đây! Đây là..."
+
+@50481 Val-A · ヴァル＝ア
+> (そして…………“大銀河の意思”
+>  は、ただ見守り、待ち続けるだろう
+(Vậy thì...'Ý Chí Của Thiên Hà Vĩ Đại' sẽ chỉ đứng nhìn và chờ đợi mãi mãi.
+---
+>  いつかお前たちが星の呪縛より
+>  解き放たれ、この我らの銀河の
+Chờ đợi một ngày bạn được giải thoát khỏi lời nguyền của hành tinh và trở thành những ngôi sao trong thiên hà của chúng ta.
+---
+>  護り手となるその日を……遙かな
+>  未来にて待つ、その時を……)
+Ngày đó của Người bảo vệ... chờ đợi ở tương lai xa, chờ đợi khoảnh khắc đó...)
+
+@50482 主角
+> 「あたたかい光……これは……」
+“Ánh sáng ấm áp…đây là…”
+
+@50483 Beltorchika · ベルトーチカ
+> 「うっ……」
+"Ờ..."
+
+@50484 Amuro · アムロ
+> 「……太陽……地球か?
+>  もどってきたのか!?」
+"...Mặt trời...có phải là trái đất không? Chúng ta đã quay lại rồi à!?"
+
+@50485 Garrison · ギャリソン
+> 「月もございますな。
+>  確かに、地球のようです」
+"Mặt trăng cũng ở đây. Hình như là Trái đất."
+
+@50486 Beltorchika · ベルトーチカ
+> 「まさか……どうして?」
+"Làm sao có thể... tại sao?"
+
+@50487 Bright · ブライト
+> 「……さぁ?」
+"...Ai biết được?"
+
+@50488 Seabook · シーブック
+> 「……俺たちを帰してくれたのか?」
+"...Họ gửi chúng tôi trở lại?"
+
+@50489 Cecily · セシリー
+> 「でも、なぜ……?」
+"Nhưng tại sao...?"
+
+@50490 Koji · 甲児
+> 「あんな連中の考えることなんて、
+>  わかるかってんだ
+“Ai biết được loại người đó đang nghĩ gì.
+---
+>  俺たちは戦いを終わらせて、
+>  帰ってきた。それでいいじゃないか」
+Chúng tôi kết thúc trận chiến và trở về. Điều đó có tuyệt vời không? "
+
+@50491 Alan · アラン
+> 「間違ってはいないがね」
+"Đó là sự thật."
+
+@50492 Killy · キリー
+> 「そういうことだな」
+"Đó là nó."
+
+@50493 Remy · レミー
+> 「あたしたちは、いま地球圏にいるのよ」
+"Bây giờ chúng ta đang ở trong Vòng Trái Đất."
+
+@50494 Takeru · タケル
+> 「そうか……地球圏か……」
+"Thật sự...vòng tròn trái đất..."
+
+@50495 Mika · ミカ
+> 「帰ってこれたのね、私たち」
+"Chúng tôi đã trở lại."
+
+@50496 Chizuru · ちずる
+> 「ええ」
+"Ừ."
+
+@50497 Hyoma · 豹馬
+> 「でもよ、あいつら……何だったんだろうな」
+"Nhưng, những kẻ đó... họ là ai?"
+
+@50498 Duo · デュオ
+> 「大銀河の意思……
+>  銀河先史文明か……
+"Ý chí của Đại Thiên Hà... nền văn minh cổ xưa của Thiên Hà...
+---
+>  なんだかスケールでかすぎてなぁ。
+>  地球圏だけでも
+Tôi luôn cảm thấy quy mô này lớn đến mức nực cười. Chỉ là vòng tròn trái đất
+---
+>  戦争だなんだって大変だってのにさ」
+Chỉ cần có chiến tranh, thế này thế nọ là đủ. "
+
+@50499 Masato · 雅人
+> 「でもさ、ムゲやズールは連中の介入
+>  がなかったら、どうなってたんだろう?」
+"Nhưng, chuyện gì sẽ xảy ra với Moog và Zulu nếu những kẻ đó không can thiệp?"
+
+@50500 Hayato · ハヤト
+> 「さてな。俺にはたいした違いはなかった
+>  ような気がするがな。連中の話じゃ
+"Ai biết được. Tôi không nghĩ sẽ có sự khác biệt lớn. Theo những người đó,
+---
+>  もともとそういう性質をもった者
+>  のみが、反応するといっていた」
+Chỉ những người có bản chất như vậy mới phản ứng. "
+
+@50501 David · デビッド
+> 「ああ。ムゲ野郎はすでに
+>  こっちの宇宙に来てたって話だろ」
+"Đúng. Nghe nói tên khốn Moog đó đã đến vũ trụ này từ rất lâu rồi."
+
+@50502 Eiji · エイジ
+> 「ちょっと待ってくれ。グラドスが
+>  ムゲゾルバドス帝国に
+"Đợi một chút. Grados đã bị Đế chế Mugh Zorbados chinh phục.
+---
+>  併合されたのは、
+>  もう数百年も前の話だったはずだ」
+Việc sáp nhập đáng lẽ phải xảy ra từ hàng trăm năm trước. "
+
+@50503 Chibodee · チボデー
+> 「なんだって!? じゃあ何か、
+>  あいつら何百年も前から
+“Anh vừa nói gì thế!? Vậy những gã đó hàng trăm năm trước
+---
+>  待ってたってのかよ」
+Bạn đã chờ đợi chưa? "
+
+@50504 Heero · ヒイロ
+> 「先史文明だそうだからな。
+>  それくらいあってもおかしくない」
+"Nghe nói đây là nền văn minh tiền sử, tồn tại lâu như vậy cũng không có gì đáng ngạc nhiên."
+
+@50505 Daisuke · 大介
+> 「そう思うね」
+"Tôi cũng nghĩ vậy."
+
+@50506 Tetsuya · 鉄也
+> 「ってことは、この戦争はそんときから
+>  始まってたってわけか……
+"Vậy, cuộc chiến này đã bắt đầu kể từ đó...
+---
+>  なんだか想像もつかんな」
+Thật không thể tưởng tượng được. "
+
+@50507 Ryo · 亮
+> 「ああ、だがひとつだけ確かなことがある」
+“Ừ, nhưng có một điều chắc chắn.”
+
+@50508 Domon · ドモン
+> 「なんだ、亮?」
+“Có chuyện gì thế, Ryo?”
+
+@50509 Ryo · 亮
+> 「ジオンの独立戦争は、連中の
+>  せいなどではなかったということだ
+“Cuộc chiến giành độc lập của Zion không phải do những kẻ đó gây ra.
+---
+>  OZも、ハマーンも、
+>  シャアのネオジオン事件もな」
+Có thể là sự cố Neo Zeon của OZ, Haman hoặc Char. "
+
+@50510 Show · ショウ
+> 「そうだな……それは
+>  俺たち地球人の問題だものな」
+"Ừ...đó là tất cả vấn đề của con người chúng ta trên trái đất."
+
+@50511 Chum · チャム
+> 「ドレイクだってそうよ。
+>  バイストンウェルも大変なんだから」
+"Đối với Drake cũng vậy. Điều đó cũng không hề dễ dàng đối với Bayston Will."
+
+@50512 Marvel · マーベル
+> 「そうね、チャム」
+"Ừ, Cám."
+
+@50513 Ark · アーク（按段落 3DD1）
+> 「これからなんとかするさ。
+>  いや、しなくちゃいけないんだ
+"Chúng ta sẽ tìm ra cách sau. Không, chúng ta phải tìm ra cách.
+---
+>  そうじゃなければ……この戦いで
+>  死んでいった人たちは
+Nếu không...những người đã chết trong trận chiến này,
+---
+>  いったい何のために死んだのか、
+>  わからなくなる」
+Chính xác thì anh ta chết vì lý do gì vẫn chưa rõ ràng. "
+
+@50514 Emma · エマ
+> 「そうね。そのための戦いでもあったの
+>  だから。それは、努力しなくてはね」
+"Ừ. Đây là những gì chúng tôi đã chiến đấu cho. Vì vậy bạn phải làm việc chăm chỉ. "
+
+@50515 Simone · シモーヌ
+> 「まったく、ずいぶん長かったわ。
+>  最初は、ムゲ帝国を
+“Thật sự là mất quá nhiều thời gian. Lúc đầu rõ ràng là chỉ dành cho
+---
+>  追い出すためだけの戦いだったのに」
+Chiến đấu để đánh đuổi Đế chế Moog. "
+
+@50516 Ark · アーク（按段落 3DD1）
+> 「だけどさ、俺は……
+>  これでよかったんだって、そう思うよ」
+"Nhưng, tôi... nghĩ điều này ổn thôi. "
+
+@50517 Ark · アーク（按段落 3DD1）
+> (なあ……そうだろ、レラ。俺たちさ、
+>  これで……よかったんだよな……)
+(Này...đúng rồi, Layla. Hãy...đúng rồi...)
+
+@50518 Selain · セレイン（按段落 3DD2）
+> 「いまの地球圏は、
+>  少しはマシになっていると思いたいな」
+“Tôi hy vọng rằng phạm vi trái đất hiện tại sẽ trở nên tốt hơn phần nào. "
+
+@50519 Emma · エマ
+> 「そうね。でも、
+>  大丈夫なのではなくて?
+"Ừ. Nhưng, nó sẽ ổn thôi, phải không?
+---
+>  いまは私も、
+>  そう信じられると思えるわ」
+Bây giờ tôi cũng cảm thấy mình có thể tin được điều này. "
+
+@50520 Kamille · カミーユ
+> 「そうさ。この戦いで死んでいった
+>  人たちは、世界が救われると
+"Ừ. Những người chết trong trận chiến này vì họ tin rằng thế giới sẽ được cứu
+---
+>  信じたから死んでいったんだ。
+>  俺も、信じたい。そうでなけりゃ
+Vừa chết. Tôi cũng muốn tin điều đó. Nếu không,
+---
+>  あまりにも無意味じゃないか」
+Có phải là nó quá vô nghĩa không? "
+
+@50521 Selain · セレイン（按段落 3DD2）
+> 「あまり楽観する気にはなれないな。
+>  ……でも、少しは信じても
+“Tôi không thể lạc quan được. ...Tuy nhiên, tôi cũng cảm thấy thuyết phục hơn một chút
+---
+>  いい気もするよ。あれほど
+>  不可能だと、生還できないと
+Điều đó cũng được thôi. Rõ ràng đã có lúc tôi nghĩ điều đó là không thể và tôi không thể sống sót.
+---
+>  思ったことが幾度もあったのに、
+>  私はこうして生きている
+Nhưng tôi đã sống sót như thế này.
+---
+>  それ以上に信じられないことなど、
+>  ありはしないからな」
+Không có gì đáng kinh ngạc hơn điều này. "
+
+@50522 Selain · セレイン（按段落 3DD2）
+> (なあ……レラ。本当に生き残るべき
+>  だったのは、私などではなく……
+(Này... Layla. Người thực sự xứng đáng sống sót không phải là mình, mà là...
+---
+>  お前だったんだぞ。だけど……死に
+>  急ぎはしないよ。お前が生きろと
+Đó là bạn. Nhưng...tôi sẽ không vội chết đâu. Bởi vì tôi có thể nghe thấy nó,
+---
+>  いっているのが、聞こえるから……)
+Bạn đang nói 'để tồn tại'…)
+
+@50523 Brad · ブラッド（按段落 3DD3）
+> 「なぁに、問題ねぇって。
+>  俺は信じてるぜ
+"Ồ, không vấn đề gì. Tôi tin rằng,
+---
+>  これから地球圏は
+>  平和になるってな」
+Từ bây giờ quả cầu của trái đất sẽ hòa bình. "
+
+@50524 Boss · ボス
+> 「当然だわさ。俺さまたちが
+>  死にそうな目にあいながらも
+"Tất nhiên. Tôi suýt mất mạng,
+---
+>  ようやく戦いを終わらせて、
+>  そうならなかったら困るわよ」
+Phải mất rất nhiều nỗ lực để kết thúc trận chiến. Nếu không có hòa bình thì sẽ gặp rắc rối. "
+
+@50525 Sai Saici · サイ・サイシー
+> 「そうそう。オイラたちがこんだけ、
+>  がんばったんだからさ
+"Vâng, vâng. Chúng tôi làm việc rất chăm chỉ,
+---
+>  オイラたち地球を救った
+>  英雄だぜ?」
+Nhưng người anh hùng đã cứu trái đất? "
+
+@50526 Juzo · 十三
+> 「英雄っちゅうんは自分で
+>  名のるもんやないやろ
+"Anh hùng không tự mình trở thành anh hùng.
+---
+>  せやけど、ほんまにわいら
+>  ようやった思うで」
+Tuy nhiên, tôi thực sự nghĩ rằng chúng tôi đã làm rất tốt. "
+
+@50527 Domon · ドモン
+> 「フッ、そうだな。俺たちが力を
+>  あわせれば、できないことなど何もない」
+"Hừm, vâng. Chỉ cần chúng ta cùng nhau cố gắng thì không gì là không thể. "
+
+@50528 Brad · ブラッド（按段落 3DD3）
+> 「ああ。変わるぜ、地球圏は。
+>  俺たちの熱い心でな」
+"Ừ. Quả cầu của Trái đất sẽ thay đổi. Nó phụ thuộc vào trái tim rực lửa của chúng ta. "
+
+@50529 Roux · ルー
+> 「……あんた、自分でいってて
+>  恥ずかしくないの?」
+“…Cậu không cảm thấy xấu hổ khi tự mình nói những điều như vậy sao?”
+
+@50530 Brad · ブラッド（按段落 3DD3）
+> 「当たり前だ。
+>  冗談でこんなことがいえるか」
+"Đương nhiên là không. Chuyện này có thể đùa được không?"
+
+@50531 Roux · ルー
+> 「忘れてたわ。あんた最初から
+>  そういう奴だったわよね」
+"Tôi quên mất. Ngay từ đầu anh đã là loại người này."
+
+@50532 Daisaku · 大作
+> 「でも、僕も大丈夫だと思います。
+>  父さんのいってたことの答え
+"Tuy nhiên, tôi cũng nghĩ là sẽ ổn thôi. Câu hỏi mà bố để lại,
+---
+>  僕にはまだわかりません。
+>  だけど、みんなが平和を望むなら
+Tôi chưa thể tìm thấy câu trả lời. Nhưng miễn là mọi người đều mong muốn hòa bình,
+---
+>  きっと大丈夫ですよ」
+Chắc chắn không có vấn đề gì. "
+
+@50533 Manami · マナミ（按段落 3DD4）
+> 「でも、大丈夫よ。今の
+>  地球圏には、やり直すだけの
+“Nhưng, không sao cả. Vòng tròn trái đất ngày nay, có những người có thể bắt đầu lại.”
+---
+>  意思と時間があるもの。そして、
+>  それを手に入れたのは、あたしたち
+Ý chí và thời gian. Và chính chúng ta mới là người có được những thứ này.
+---
+>  もう少し、自分たちの
+>  したことに自信を持ちましょう
+Hãy tự tin hơn một chút vào những gì bạn đã làm.
+---
+>  あたしたちは、絶対無理だって
+>  思ってたことだって、やりとげたのだから」
+Bởi vì chúng tôi đã làm được cả những điều mà chúng tôi tưởng là hoàn toàn không thể. "
+
+@50534 Jun · ジュン
+> 「そうだね。本当に、そう思うよ」
+"Ừ. Tôi thực sự nghĩ vậy."
+
+@50535 Simone · シモーヌ
+> 「長かったわ……ようやく、
+>  ようやくここまでたどり着いたのね」
+"Đã quá lâu rồi... Cuối cùng, chúng ta cũng đã đi đến điểm này."
+
+@50536 Alan · アラン
+> 「ムゲを追い出すための戦いが……
+>  ずいぶんと、まわり道になってしまったな」
+"Trận chiến ban đầu chỉ nhằm xua đuổi Moog... nhưng nó đã phải đi một con đường vòng lớn."
+
+@50537 Shinobu · 忍
+> 「終わっちまえば、なんでもいいさ。
+>  あとはのんびりさせてもらうさ」
+"Chỉ cần kết thúc thì đừng bận tâm nữa. Tiếp theo tôi sẽ nghỉ ngơi thật tốt."
+
+@50538 Alan · アラン
+> 「これからの戦いは
+>  お前が苦手とするものとなるからな」
+“Xét cho cùng thì trận chiến tiếp theo là trận mà cậu kém nhất.”
+
+@50539 Sara · 沙羅
+> 「まだやることは山ほど残ってるさ。
+>  これから、本当に大変だよ」
+"Vẫn còn một núi việc phải làm. Công việc thực sự khó khăn sẽ đến tiếp theo."
+
+@50540 Simone · シモーヌ
+> 「そうね……」
+"Ừ..."
+
+@50541 Manami · マナミ（按段落 3DD4）
+> 「いまは、そう、ただ信じましょう。
+>  仲間たちを、地球圏の人々を
+"Bây giờ, vâng, chỉ cần tin tưởng. Tin vào những người bạn đồng hành của bạn, tin vào những người trên Vòng Trái Đất,
+---
+>  そして、あたしたちの未来がよきものと
+>  なることを。信じること、その想いは
+Ngoài ra, tôi tin rằng tương lai của chúng ta sẽ tươi sáng. Niềm tin này,
+---
+>  この地球圏を再建していくための
+>  大切な力となるはずだから……」
+Nó chắc chắn sẽ trở thành một lực lượng quan trọng trong việc xây dựng lại vòng tròn trái đất này..."
+
+@50542 Amuro · アムロ
+> 「これで終わったんだな……本当に」
+"Mọi chuyện đã kết thúc rồi... nó thực sự đã kết thúc rồi."
+
+@50543 Banjo · 万丈
+> 「ああ。これで……ようやく終わったんだ」
+"Ừ. Chuyện này...cuối cùng cũng kết thúc."
+
+@50544 Koji · 甲児
+> 「ならさ、帰ろうぜ。地球へ」
+"Vậy thì quay lại. Trở lại Trái đất."
+
+@50545 Ryoma · リョウ
+> 「ああ、帰ろう。
+>  俺たちが守った、俺たちの星へ」
+"Được rồi, chúng ta quay về đi. Trở lại hành tinh mà chúng ta bảo vệ."
+
+@50546 Bright · ブライト
+> 「そうだな。よし、進路を月に向けろ
+>  地球に帰還するぞ」
+"Ừ. Được rồi, chúng ta hãy đổi hướng tới mặt trăng và quay trở lại trái đất."

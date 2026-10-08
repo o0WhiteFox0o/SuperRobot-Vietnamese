@@ -1,0 +1,120 @@
+# Bản dịch tiếng Việt Super Robot Wars 64
+# Định dạng và vị trí: docs/guide/dialogue-text.md
+
+@11981 Daisaku · 大作
+# Kích hoạt: Tấn công (Chung，1/5）
+> 「まかせんしゃい!」
+"Để đó cho tôi!"
+
+@11982 Daisaku · 大作
+# Kích hoạt: Tấn công (Chung，2/5）
+> 「どきんしゃーい!」
+“Tránh ra-!”
+
+@11983 Daisaku · 大作
+# Kích hoạt: Tấn công (Chung，3/5）
+> 「いくぞっ!」
+"Cố lên!"
+
+@11984 Daisaku · 大作
+# Kích hoạt: Tấn công (Chung，4/5）
+> 「くらえっ!」
+"Ăn chiêu của tôi đi!"
+
+@11985 Daisaku · 大作
+# Kích hoạt: Tấn công (Chung，5/5）
+> 「九州男児の底力ば、
+>  見せてやるけん!」
+"Cho bạn thấy khả năng thực sự của đàn ông Kyushu!"
+
+@11986 Daisaku · 大作
+# Kích hoạt: 被击坠（通用，1/1）
+> 「しもた! やられてしもたばいっ!」
+"Rất tiếc! Bị giết!"
+
+@11987 Daisaku · 大作
+# Kích hoạt: 重伤（剩余 HP 不足 30%）（通用，1/3）
+> 「ぐわあああっ!こ、こげんパワーの
+>  あるとか!?」
+"Wow! Ju-anh ấy thực sự có rất nhiều sức mạnh!?"
+
+@11988 Daisaku · 大作
+# Kích hoạt: 重伤（剩余 HP 不足 30%）（通用，2/3）
+> 「うあああっ! だ、ダメばい!
+>  どげんすっとな!?」
+"Ồ! Không, không thể được! Tôi phải làm gì đây!?"
+
+@11989 Daisaku · 大作
+# Kích hoạt: 重伤（剩余 HP 不足 30%）（通用，3/3）
+> 「くうぅぅぅっ! 強か!」
+"Uuuuuuuuuah! Mạnh quá!"
+
+@11990 Daisaku · 大作
+# Kích hoạt: 中伤（剩余 HP 30–90%）（通用，1/3）
+> 「うううっ! こなくそっ!」
+"Ối! Chết tiệt!"
+
+@11991 Daisaku · 大作
+# Kích hoạt: 中伤（剩余 HP 30–90%）（通用，2/3）
+> 「むうっ! や、やるもんですたい!」
+"Hmm! Tuy nhiên, nó khá tuyệt!"
+
+@11992 Daisaku · 大作
+# Kích hoạt: 中伤（剩余 HP 30–90%）（通用，3/3）
+> 「うおっ! やられるわけにはいかんとよ!」
+"Ồ! Chúng ta không thể rơi xuống đây được!"
+
+@11993 Daisaku · 大作
+# Kích hoạt: 轻伤（剩余 HP 90% 以上）（通用，1/3）
+> 「なんばしよっと!」
+"Bạn muốn làm gì!"
+
+@11994 Daisaku · 大作
+# Kích hoạt: 轻伤（剩余 HP 90% 以上）（通用，2/3）
+> 「そげん攻撃、効かんばい!」
+"Đòn tấn công đó không hề đau chút nào!"
+
+@11995 Daisaku · 大作
+# Kích hoạt: 轻伤（剩余 HP 90% 以上）（通用，3/3）
+> 「しぇからしか!」
+"Thật khó chịu!"
+
+@11996 Daisaku · 大作
+# Kích hoạt: Né tránh（通用，1/4）
+> 「どっこい!」
+"Này!"
+
+@11997 Daisaku · 大作
+# Kích hoạt: Né tránh（通用，2/4）
+> 「当たるわけにゃあいかんとよ!」
+"Ngươi không thể bị đánh!"
+
+@11998 Daisaku · 大作
+# Kích hoạt: Né tránh（通用，3/4）
+> 「ふう、危なかあ」
+"Phew, nguy hiểm quá, nguy hiểm quá"
+
+@11999 Daisaku · 大作
+# Kích hoạt: Né tránh（通用，4/4）
+> 「どげなもんな!」
+"Bạn có thấy nó không?"
+
+@12000 Daisaku · 大作
+# Kích hoạt: Tấn công无效（护罩／装甲）（通用，1/1）
+> 「効きやせんとよ!」
+"Nó không có tác dụng gì cả!"
+
+@12001 Daisaku · 大作
+# Kích hoạt: 弹药／EN 不足，无法反击（通用，1/1）
+> 「しもうたっ! 弾切れね!?」
+"Rất tiếc! Không còn đạn nữa!?"
+
+@12002 Daisaku · 大作
+# Kích hoạt: 射程外，无法反击（通用，1/1）
+> 「反撃できんちゃ、ほんなこつくやしか!」
+"Tôi không thể đánh trả, tôi thực sự không muốn!"
+
+@16796 Daisaku · 大作
+# Kích hoạt: 使用〈アンカーナックル〉（低优先，可能被通用台词顶掉）
+> 「アンカーナックル!!」
+"Nắm đấm sắt móc neo!!"

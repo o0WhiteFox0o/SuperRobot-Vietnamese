@@ -1,0 +1,189 @@
+# Bản dịch tiếng Việt Super Robot Wars 64
+# Định dạng và vị trí: docs/guide/dialogue-text.md
+
+@8797 Emma · エマ
+# Kích hoạt: Tấn công (Chung，1/11）
+> 「落ちなさいっ!!」
+"Thả tôi xuống!!"
+
+@8798 Emma · エマ
+# Kích hoạt: Tấn công (Chung，2/11）
+> 「そこっ!!」
+“Chính là nó!!”
+
+@8799 Emma · エマ
+# Kích hoạt: Tấn công (Chung，3/11）
+> 「やらせないっ!!」
+"Đừng nghĩ tới chuyện đó nữa!!"
+
+@8800 Emma · エマ
+# Kích hoạt: Tấn công (Chung，4/11）
+> 「うかつなっ!!」
+"Quá bất cẩn!!"
+
+@8801 Emma · エマ
+# Kích hoạt: Tấn công (Chung，5/11）
+> 「当ててみせる!!」
+"Xem tôi đánh một đòn này!!"
+
+@8802 Emma · エマ
+# Kích hoạt: Tấn công (Chung，6/11）
+> 「前にでるからっ!」
+"Tôi sẽ lao về phía trước!"
+
+@8803 Emma · エマ
+# Kích hoạt: Tấn công (Chung，7/11）
+> 「当たれっ!」
+"Đánh!"
+
+@8804 Emma · エマ
+# Kích hoạt: Tấn công (Chung，8/11）
+> 「このっ!」
+"Anh bạn!"
+
+@8805 Emma · エマ
+# Kích hoạt: Tấn công (Chung，9/11）
+> 「これならっ!!」
+“Bây giờ là lúc phải đến trụ sở chính!!”
+
+@8806 Emma · エマ
+# Kích hoạt: Tấn công (Chung，10/11）
+> 「どかないと!!」
+"Tránh đường cho tôi!!"
+
+@8807 Emma · エマ
+# Kích hoạt: Tấn công (Chung，11/11）
+> 「沈めっ!」
+"Chìm xuống!"
+
+@8808 Emma · エマ
+# Kích hoạt: 被击坠（通用，1/2）
+> 「くっ、やられた!!」
+"Ồ, anh ta đã bị giết!!"
+
+@8809 Emma · エマ
+# Kích hoạt: 被击坠（通用，2/2）
+> 「しまった!?」
+"Ối!?"
+
+@8810 Emma · エマ
+# Kích hoạt: 重伤（剩余 HP 不足 30%）（通用，1/4）
+> 「な、なんてパワーなの!?」
+"Làm sao, làm sao ngươi có thể có được sức mạnh như vậy!?"
+
+@8811 Emma · エマ
+# Kích hoạt: 重伤（剩余 HP 不足 30%）（通用，2/4）
+> 「ま、まだやられるわけには……」
+“Tôi, tôi không thể bị đánh gục như thế này được…”
+
+@8812 Emma · エマ
+# Kích hoạt: 重伤（剩余 HP 不足 30%）（通用，3/4）
+> 「くうっ!! こ、このままでは……」
+"Ugh!! Nếu, nếu chuyện này tiếp tục..."
+
+@8813 Emma · エマ
+# Kích hoạt: 重伤（剩余 HP 不足 30%）（通用，4/4）
+> 「ま、負けるものですか!!」
+“L-làm sao tôi có thể thua được!!”
+
+@8814 Emma · エマ
+# Kích hoạt: 中伤（剩余 HP 30–90%）（通用，1/5）
+> 「つっ!! まだよっ!!」
+"Ugh!! Vẫn chưa kết thúc đâu!!"
+
+@8815 Emma · エマ
+# Kích hoạt: 中伤（剩余 HP 30–90%）（通用，2/5）
+> 「やるっ!! けどっ!!」
+"Một lát thôi!! Nhưng!!"
+
+@8816 Emma · エマ
+# Kích hoạt: 中伤（剩余 HP 30–90%）（通用，3/5）
+> 「まだっ! やらせはしないっ!!」
+"Vẫn chưa kết thúc! Đừng nghĩ đến việc thành công!!"
+
+@8817 Emma · エマ
+# Kích hoạt: 中伤（剩余 HP 30–90%）（通用，4/5）
+> 「ダメージ!? でも、まだっ!!」
+"Hư hỏng!? Nhưng vẫn chưa kết thúc đâu!!"
+
+@8818 Emma · エマ
+# Kích hoạt: 中伤（剩余 HP 30–90%）（通用，5/5）
+> 「あうっ! さ、さすがに……」
+"A! Cái này, cái này có chút..."
+
+@8819 Emma · エマ
+# Kích hoạt: 轻伤（剩余 HP 90% 以上）（通用，1/4）
+> 「当たっただけ!」
+"Vừa mới bị cọ xát!"
+
+@8820 Emma · エマ
+# Kích hoạt: 轻伤（剩余 HP 90% 以上）（通用，2/4）
+> 「この程度で落ちはしないっ!」
+"Vết thương nhỏ này không thể đánh bại tôi!"
+
+@8821 Emma · エマ
+# Kích hoạt: 轻伤（剩余 HP 90% 以上）（通用，3/4）
+> 「かすった!?」
+"Cọ xát!?"
+
+@8822 Emma · エマ
+# Kích hoạt: 轻伤（剩余 HP 90% 以上）（通用，4/4）
+> 「こんな攻撃でっ!」
+"Chỉ là kiểu tấn công này thôi!"
+
+@8823 Emma · エマ
+# Kích hoạt: Né tránh（通用，1/6）
+> 「当たるものですか!」
+"Làm sao có thể bị đánh!"
+
+@8824 Emma · エマ
+# Kích hoạt: Né tránh（通用，2/6）
+> 「かわせた!」
+"Tránh nó ra!"
+
+@8825 Emma · エマ
+# Kích hoạt: Né tránh（通用，3/6）
+> 「おそいっ!」
+"Quá chậm!"
+
+@8826 Emma · エマ
+# Kích hoạt: Né tránh（通用，4/6）
+> 「正面? 違う、左ねっ!!」
+"Phía trước? Không, là bên trái!!"
+
+@8827 Emma · エマ
+# Kích hoạt: Né tránh（通用，5/6）
+> 「当たるわけにはっ!」
+"Ngươi không thể bị đánh!"
+
+@8828 Emma · エマ
+# Kích hoạt: Né tránh（通用，6/6）
+> 「このくらい、よけてみせるっ!!」
+"Đến mức này, tôi sẽ trốn tránh bạn!!"
+
+@8829 Emma · エマ
+# Kích hoạt: Tấn công无效（护罩／装甲）（通用，1/2）
+> 「ムダよ! そんなビームが効く
+>  ものですか!」
+"Vô dụng thôi! Loại chùm tia đó sao có thể làm tổn thương tôi được?"
+
+@8830 Emma · エマ
+# Kích hoạt: Tấn công无效（护罩／装甲）（通用，2/2）
+> 「そんなビームなどでっ!」
+"Chỉ là một tia!"
+
+@8831 Emma · エマ
+# Kích hoạt: 弹药／EN 不足，无法反击（通用，1/1）
+> 「しまった、弾切れ!? うかつな……」
+"Ôi, hết đạn rồi!? Cậu bất cẩn quá..."
+
+@8832 Emma · エマ
+# Kích hoạt: 射程外，无法反击（通用，1/1）
+> 「くっ、この距離では……」
+"Ừm, khoảng cách này không ổn..."
+
+@14660 Emma · エマ
+# Kích hoạt: 使用〈ハイメガキャノン〉（低优先，可能被通用台词顶掉）
+> 「エネルギー充填……
+>  いけっ! ハイメガキャノン!!」
+"Nạp năng lượng...cố lên! Mega Cannon năng lượng cao!!"

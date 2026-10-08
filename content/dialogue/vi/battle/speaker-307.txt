@@ -1,0 +1,201 @@
+# Bản dịch tiếng Việt Super Robot Wars 64
+# Định dạng và vị trí: docs/guide/dialogue-text.md
+
+@13447 Specials · スペシャルズ
+# Kích hoạt: Tấn công (Chung，1/10）
+> 「もらったな!」
+"Thành công!"
+
+@13448 Specials · スペシャルズ
+# Kích hoạt: Tấn công (Chung，2/10）
+> 「沈めっ!」
+"Bồn rửa!"
+
+@13449 Specials · スペシャルズ
+# Kích hoạt: Tấn công (Chung，3/10）
+> 「落ちろっ!!」
+"Thả tôi xuống!!"
+
+@13450 Specials · スペシャルズ
+# Kích hoạt: Tấn công (Chung，4/10）
+> 「やらせんっ!」
+"Đừng nghĩ tới chuyện đó nữa!"
+
+@13451 Specials · スペシャルズ
+# Kích hoạt: Tấn công (Chung，5/10）
+> 「こいつでとどめだ!!」
+"Hãy sử dụng cái này để đưa bạn lên đường!!"
+
+@13452 Specials · スペシャルズ
+# Kích hoạt: Tấn công (Chung，6/10）
+> 「甘く見るなっ!!」
+“Đừng đánh giá thấp mọi người! ! "
+
+@13453 Specials · スペシャルズ
+# Kích hoạt: Tấn công (Chung，7/10）
+> 「死ねっ!」
+"Đi xuống địa ngục đi!"
+
+@13454 Specials · スペシャルズ
+# Kích hoạt: Tấn công (Chung，8/10）
+> 「くらえっ!」
+"Hãy di chuyển!"
+
+@13455 Specials · スペシャルズ
+# Kích hoạt: Tấn công (Chung，9/10）
+> 「行くぞっ!」
+"Lên!"
+
+@13456 Specials · スペシャルズ
+# Kích hoạt: Tấn công (Chung，10/10）
+> 「これでどうだ!!」
+"Động thái này thế nào!!"
+
+@13457 Specials · スペシャルズ
+# Kích hoạt: 被击坠（通用，1/2）
+> 「な……バカなっ!?」
+"Làm sao... làm sao có thể!?"
+
+@13458 Specials · スペシャルズ
+# Kích hoạt: 被击坠（通用，2/2）
+> 「やられただと!?」
+"Tôi đã bị giết!?"
+
+@13459 Specials · スペシャルズ
+# Kích hoạt: 重伤（剩余 HP 不足 30%）（通用，1/5）
+> 「ぐうっ! バカなっ、
+>  これ程のパワーが!?」
+"Hmm! Làm sao mà anh ta lại có sức mạnh như vậy!?"
+
+@13460 Specials · スペシャルズ
+# Kích hoạt: 重伤（剩余 HP 不足 30%）（通用，2/5）
+> 「な、なんだと!? この力……
+>  化け物か!?」
+"C-Cái gì!? Sức mạnh này... nó là một con quái vật sao!?"
+
+@13461 Specials · スペシャルズ
+# Kích hoạt: 重伤（剩余 HP 不足 30%）（通用，3/5）
+> 「うおおっ!? こ、こいつは……」
+"Ồ!? Cái này, anh chàng này là..."
+
+@13462 Specials · スペシャルズ
+# Kích hoạt: 重伤（剩余 HP 不足 30%）（通用，4/5）
+> 「何っ!? お、押されている!?」
+"Cái gì!? T-tôi đã bị đàn áp!?"
+
+@13463 Specials · スペシャルズ
+# Kích hoạt: 重伤（剩余 HP 不足 30%）（通用，5/5）
+> 「こ、こいつら、ただもんじゃない!!」
+"Những kẻ này không chỉ là người bình thường!!"
+
+@13464 Specials · スペシャルズ
+# Kích hoạt: 中伤（剩余 HP 30–90%）（通用，1/5）
+> 「ちいっ、このままですむと思うなっ!」
+"Tsk, đừng nghĩ thế là xong!"
+
+@13465 Specials · スペシャルズ
+# Kích hoạt: 中伤（剩余 HP 30–90%）（通用，2/5）
+> 「ぐあっ! この、黙ってやられるものか!」
+"Ôi! Mẹ kiếp, sao có thể để người khác tàn sát mình!"
+
+@13466 Specials · スペシャルズ
+# Kích hoạt: 中伤（剩余 HP 30–90%）（通用，3/5）
+> 「くっ! やるな!」
+"Ừm! Phải mất một lúc!"
+
+@13467 Specials · スペシャルズ
+# Kích hoạt: 中伤（剩余 HP 30–90%）（通用，4/5）
+> 「うおっ! なんの、まだまだっ!」
+"Ồ! Điều này có nghĩa là gì? Vẫn còn sớm!"
+
+@13468 Specials · スペシャルズ
+# Kích hoạt: 中伤（剩余 HP 30–90%）（通用，5/5）
+> 「つうっ! こ、この程度でっ!」
+"Ừ! Cái này, vết thương này không là gì cả!"
+
+@13469 Specials · スペシャルズ
+# Kích hoạt: 轻伤（剩余 HP 90% 以上）（通用，1/5）
+> 「ふん、その程度か!」
+“Humph, đó là tất cả những gì cậu có thể làm à?”
+
+@13470 Specials · スペシャルズ
+# Kích hoạt: 轻伤（剩余 HP 90% 以上）（通用，2/5）
+> 「効かんな!」
+"Không có ích gì!"
+
+@13471 Specials · スペシャルズ
+# Kích hoạt: 轻伤（剩余 HP 90% 以上）（通用，3/5）
+> 「フ……うわさほどではないな!」
+"Hừm...nó không mạnh như lời đồn đâu!"
+
+@13472 Specials · スペシャルズ
+# Kích hoạt: 轻伤（剩余 HP 90% 以上）（通用，4/5）
+> 「こんなものとはな……失望したぜ!」
+"Với khả năng này... tôi thực sự thất vọng!"
+
+@13473 Specials · スペシャルズ
+# Kích hoạt: 轻伤（剩余 HP 90% 以上）（通用，5/5）
+> 「しょせんその程度よ!」
+“Rốt cuộc thì chẳng có gì hơn thế!”
+
+@13474 Specials · スペシャルズ
+# Kích hoạt: Né tránh（通用，1/6）
+> 「そこだ!」
+"Chính là nó!"
+
+@13475 Specials · スペシャルズ
+# Kích hoạt: Né tránh（通用，2/6）
+> 「当たりはせん!」
+"Bạn không thể đánh nó!"
+
+@13476 Specials · スペシャルズ
+# Kích hoạt: Né tránh（通用，3/6）
+> 「貴様らの攻撃パターンなど、
+>  お見通しよ!」
+"Tôi đã nhìn thấu chiến thuật tấn công của bạn!"
+
+@13477 Specials · スペシャルズ
+# Kích hoạt: Né tránh（通用，4/6）
+> 「甘いな!」
+"Thật ngây thơ!"
+
+@13478 Specials · スペシャルズ
+# Kích hoạt: Né tránh（通用，5/6）
+> 「かわしてみせる!」
+"Coi chừng tôi chạy đi!"
+
+@13479 Specials · スペシャルズ
+# Kích hoạt: Né tránh（通用，6/6）
+> 「来た……そこかっ!」
+"Tới... kia!"
+
+@13480 Specials · スペシャルズ
+# Kích hoạt: Tấn công无效（护罩／装甲）（通用，1/2）
+> 「その程度のビームが効くか!」
+"Tia sáng này có tác dụng gì!"
+
+@13481 Specials · スペシャルズ
+# Kích hoạt: Tấn công无效（护罩／装甲）（通用，2/2）
+> 「ムダな攻撃を……」
+"Thật lãng phí sức lực..."
+
+@13482 Specials · スペシャルズ
+# Kích hoạt: 弹药／EN 不足，无法反击（通用，1/2）
+> 「ちっ、弾切れか……」
+"Tsk, cậu hết đạn rồi à..."
+
+@13483 Specials · スペシャルズ
+# Kích hoạt: 弹药／EN 不足，无法反击（通用，2/2）
+> 「くそっ! 弾切れだと!」
+"Chết tiệt! Chúng ta hết đạn rồi!"
+
+@13484 Specials · スペシャルズ
+# Kích hoạt: 射程外，无法反击（通用，1/2）
+> 「射程距離外からだと!?
+>  意外とセコい手を使うやつだ」
+"Đánh hắn từ ngoài phạm vi!? Thủ đoạn của tên này thật là bẩn thỉu."
+
+@13485 Specials · スペシャルズ
+# Kích hoạt: 射程外，无法反击（通用，2/2）
+> 「くそっ! 届かん!」
+"Chết tiệt! Tôi không thể với tới nó!"

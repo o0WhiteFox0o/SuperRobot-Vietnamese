@@ -1,0 +1,365 @@
+# Bản dịch tiếng Việt Super Robot Wars 64
+# Định dạng và vị trí: docs/guide/dialogue-text.md
+
+@12592 Master · マスター
+# Kích hoạt: Tấn công (Chung，1/11）
+> 「でやあぁぁぁっ!!」
+"Này a a a a!!"
+
+@12593 Master · マスター
+# Kích hoạt: Tấn công (Chung，2/11）
+> 「この身の程知らずがぁ!!」
+“Bạn không biết độ cao của thế giới đâu!!”
+
+@12594 Master · マスター
+# Kích hoạt: Tấn công (Chung，3/11）
+> 「はあぁぁぁぁぁ……はあっ!!」
+“Haaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaa!!”
+
+@12595 Master · マスター
+# Kích hoạt: Tấn công (Chung，4/11）
+> 「とおぉぉぉっ!!」
+“Uống đi a a a!!”
+
+@12596 Master · マスター
+# Kích hoạt: Tấn công (Chung，5/11）
+> 「このバカ者めっ!!」
+"Đồ ngốc!!"
+
+@12597 Master · マスター
+# Kích hoạt: Tấn công (Chung，6/11）
+> 「ゆくぞっ!!」
+"Nào! ! "
+
+@12598 Master · マスター
+# Kích hoạt: Tấn công (Chung，7/11）
+> 「さあ、おとなしく最後を迎えるが
+>  よい!」
+"Hãy đến và chào đón kết thúc của bạn!"
+
+@12599 Master · マスター
+# Kích hoạt: Tấn công (Chung，8/11）
+> 「つけあがるなぁっ!!」
+“Đừng có bị cuốn đi đấy!!”
+
+@12600 Master · マスター
+# Kích hoạt: Tấn công (Chung，9/11）
+> 「とどめを刺してくれるわ!!」
+"Tôi sẽ đưa bạn lên đường ngay bây giờ!!"
+
+@12601 Master · マスター
+# Kích hoạt: Tấn công (Chung，10/11）
+> 「しねいっ!!」
+"Xuống địa ngục đi!!"
+
+@12602 Master · マスター
+# Kích hoạt: Tấn công (Chung，11/11）
+> 「でやぁっ!!」
+"Này!!"
+
+@12603 Master · マスター
+# Kích hoạt: 被击坠（通用，1/3）
+> 「うおおおおおおっ!!」
+"Ồ ồ ồ ồ ồ ồ!!"
+
+@12604 Master · マスター
+# Kích hoạt: 被击坠（通用，2/3）
+> 「な、何だとこんなバカな……!?」
+"C-cái gì, làm sao điều này có thể xảy ra...!?"
+
+@12605 Master · マスター
+# Kích hoạt: 被击坠（通用，3/3）
+> 「そんな!? この東方不敗が
+>  手も足もだせんなどと……」
+"Sao có thể như vậy được!? Đông Phương Bất Bại, ta thật sự bất lực..."
+
+@12606 Master · マスター
+# Kích hoạt: 重伤（剩余 HP 不足 30%）（通用，1/12）
+> 「ぬおおっ! な、なんの!この東方不
+>  敗がそう易々とやられるものかっ!」
+"Uh-oh! Cái, cái gì thế này! Làm sao tôi, Đông Phương Bất Bại, có thể bị đánh bại dễ dàng như vậy!"
+
+@12607 Master · マスター
+# Kích hoạt: 重伤（剩余 HP 不足 30%）（通用，2/12）
+> 「ぐわああっ!!
+>  き、貴様、これほどの力を……」
+"Wow!! Cậu, cậu, thực sự có sức mạnh như vậy..."
+
+@12608 Master · マスター
+# Kích hoạt: 重伤（剩余 HP 不足 30%）（通用，3/12）
+> 「があああっ!! お、おのれ、よくもっ!!」
+"Gah! Ôi, chết tiệt, sao cậu dám!!"
+
+@12609 Master · マスター
+# Kích hoạt: 重伤（剩余 HP 不足 30%）（通用，4/12）
+> 「うおおっ! こ、こんな事で
+>  このわしが参ると思ってかっ!!」
+"Ồ! Bạn có nghĩ rằng bạn có thể khiến tôi thừa nhận thất bại chỉ bằng phương pháp này không?!"
+
+@12610 Master · マスター
+# Kích hoạt: 重伤（剩余 HP 不足 30%）（通用，5/12）
+> 「なんだと!? そんなばかな!!」
+"Cái gì!? Điều này là không thể được!!"
+
+@12611 Master · マスター
+# Kích hoạt: 重伤（剩余 HP 不足 30%）（通用，6/12）
+> 「おのれぇぇぇっ!!」
+"Chết tiệt!!"
+
+@12612 Master · マスター
+# Kích hoạt: 重伤（剩余 HP 不足 30%）（通用，7/12）
+> 「うわっ! なんと!?」
+"Ồ! Cái gì cơ?"
+
+@12613 Master · マスター
+# Kích hoạt: 重伤（剩余 HP 不足 30%）（通用，8/12）
+> 「こしゃくな真似を!!」
+"Sao ngươi dám giở trò thông minh như vậy!!"
+
+@12614 Master · マスター
+# Kích hoạt: 重伤（剩余 HP 不足 30%）（通用，9/12）
+> 「貴様っ!!」
+"Anh bạn!!"
+
+@12615 Master · マスター
+# Kích hoạt: 重伤（剩余 HP 不足 30%）（通用，10/12）
+> 「なにっ!?」
+"Cái gì!?"
+
+@12616 Master · マスター
+# Kích hoạt: 重伤（剩余 HP 不足 30%）（通用，11/12）
+> 「どおわぁっ!!」
+“Đồng ồ!!”
+
+@12617 Master · マスター
+# Kích hoạt: 重伤（剩余 HP 不足 30%）（通用，12/12）
+> 「こんなばかなことがあってたまるかぁぁぁ!」
+"Thật vô lý!"
+
+@12618 Master · マスター
+# Kích hoạt: 中伤（剩余 HP 30–90%）（通用，1/7）
+> 「何っ!? 貴様、手加減して
+>  おればいい気になりおって!!」
+"Cái gì!? Anh bạn, nếu tôi tỏ ra thương xót, bạn có thể tát thẳng vào mặt tôi!!"
+
+@12619 Master · マスター
+# Kích hoạt: 中伤（剩余 HP 30–90%）（通用，2/7）
+> 「むうっ!
+>  わしとした事が油断したわ!」
+"Ugh! Tôi thực sự bất cẩn!"
+
+@12620 Master · マスター
+# Kích hoạt: 中伤（剩余 HP 30–90%）（通用，3/7）
+> 「こざかしい……!」
+"Trở nên thông minh...!"
+
+@12621 Master · マスター
+# Kích hoạt: 中伤（剩余 HP 30–90%）（通用，4/7）
+> 「くっ!!」
+"Ờ!!"
+
+@12622 Master · マスター
+# Kích hoạt: 中伤（剩余 HP 30–90%）（通用，5/7）
+> 「なんと……!?」
+"Cái gì...!?"
+
+@12623 Master · マスター
+# Kích hoạt: 中伤（剩余 HP 30–90%）（通用，6/7）
+> 「つけあがるなぁっ!!」
+“Đừng có bị cuốn đi đấy!!”
+
+@12624 Master · マスター
+# Kích hoạt: 中伤（剩余 HP 30–90%）（通用，7/7）
+> 「ぐ……ゴホッゴホッ、こ、こんな時に……」
+"Ừ... khụ, khụ, khụ, nhưng vào lúc này..."
+
+@12625 Master · マスター
+# Kích hoạt: 轻伤（剩余 HP 90% 以上）（通用，1/8）
+> 「しょせん貴様はその程度よ!」
+“Rốt cuộc anh chẳng là gì hơn thế!”
+
+@12626 Master · マスター
+# Kích hoạt: 轻伤（剩余 HP 90% 以上）（通用，2/8）
+> 「非力よのう」
+"Thật bất lực"
+
+@12627 Master · マスター
+# Kích hoạt: 轻伤（剩余 HP 90% 以上）（通用，3/8）
+> 「どうした! 腰がはいっとらんぞ!」
+"Cái gì! Thắt lưng của bạn không hề dùng chút sức lực nào cả!"
+
+@12628 Master · マスター
+# Kích hoạt: 轻伤（剩余 HP 90% 以上）（通用，4/8）
+> 「笑止っ!」
+"Nực cười!"
+
+@12629 Master · マスター
+# Kích hoạt: 轻伤（剩余 HP 90% 以上）（通用，5/8）
+> 「ちっ! うるさいやつめっ!」
+"Tsk! Tên ồn ào!"
+
+@12630 Master · マスター
+# Kích hoạt: 轻伤（剩余 HP 90% 以上）（通用，6/8）
+> 「貴様の力はその程度のものかぁ!」
+“Đây là toàn bộ sức mạnh của cậu à?”
+
+@12631 Master · マスター
+# Kích hoạt: 轻伤（剩余 HP 90% 以上）（通用，7/8）
+> 「そんな腕でわしを倒せるとでも思って
+>  おるのか!?」
+"Với loại kỹ năng này, bạn có nghĩ rằng bạn có thể đánh bại tôi không!?"
+
+@12632 Master · マスター
+# Kích hoạt: 轻伤（剩余 HP 90% 以上）（通用，8/8）
+> 「ふっふっふっ……
+>  このザコどもが……ほざきよるわ……!」
+"Hehehe... đám cá hỗn tạp này... sao dám nói nặng lời...!"
+
+@12633 Master · マスター
+# Kích hoạt: Né tránh（通用，1/11）
+> 「ほーれ、ほれ! もっとよく狙わんか!」
+"Nào, nào! Hãy nhắm chính xác hơn!"
+
+@12634 Master · マスター
+# Kích hoạt: Né tránh（通用，2/11）
+> 「ふ、貴様の攻撃など、とうに
+>  見切っておるわ!」
+"Hừm, ta đã nhìn thấu đòn tấn công của ngươi rồi!"
+
+@12635 Master · マスター
+# Kích hoạt: Né tránh（通用，3/11）
+> 「どうした! わしを狙ったのでは
+>  なかったのか!?」
+"Cái gì! Bạn không ở đây vì tôi sao!?"
+
+@12636 Master · マスター
+# Kích hoạt: Né tránh（通用，4/11）
+> 「たわけがっ!!」
+"Đồ ngốc!!"
+
+@12637 Master · マスター
+# Kích hoạt: Né tránh（通用，5/11）
+> 「さあ! 次々とかかってこんかっ!!」
+"Nào! Chết tiệt tất cả bọn chúng cho tôi!!"
+
+@12638 Master · マスター
+# Kích hoạt: Né tránh（通用，6/11）
+> 「何処を見ておる?
+>  わしはここだ、ここにおる!」
+"Bạn đang tìm kiếm ở đâu? Tôi ở đây, ngay tại đây!"
+
+@12639 Master · マスター
+# Kích hoạt: Né tránh（通用，7/11）
+> 「バカ者がぁ!!」
+"Đồ ngốc!!"
+
+@12640 Master · マスター
+# Kích hoạt: Né tránh（通用，8/11）
+> 「あまいぞっ!!」
+"Thật ngây thơ!!"
+
+@12641 Master · マスター
+# Kích hoạt: Né tránh（通用，9/11）
+> 「おそい! おそすぎるっ!!」
+"Quá chậm! Chậm một cách nực cười!!"
+
+@12642 Master · マスター
+# Kích hoạt: Né tránh（通用，10/11）
+> 「なっちゃいない!
+>  本当になっちゃいないぞ!」
+"Không đẹp! Thực sự không đẹp!"
+
+@12643 Master · マスター
+# Kích hoạt: Né tránh（通用，11/11）
+> 「だからお前はアホなのだぁ!」
+"Vậy ngươi là đồ ngốc!"
+
+@12644 Master · マスター
+# Kích hoạt: Tấn công无效（护罩／装甲）（通用，1/2）
+> 「貴様の攻撃などこのわしには
+>  効きはせぬわ!」
+"Các đòn tấn công của bạn không có tác dụng với tôi!"
+
+@12645 Master · マスター
+# Kích hoạt: Tấn công无效（护罩／装甲）（通用，2/2）
+> 「貴様の力もどうやらこれが
+>  限界のようだな……」
+"Có vẻ như sức mạnh của bạn chỉ kết thúc ở đây ..."
+
+@12646 Master · マスター
+# Kích hoạt: 弹药／EN 不足，无法反击（通用，1/1）
+> 「ぬぅ、ぬかったわ!」
+"Chà, tôi đã bất cẩn!"
+
+@12647 Master · マスター
+# Kích hoạt: 射程外，无法反击（通用，1/1）
+> 「射程外からとは……
+>  卑怯なヤツめ!」
+"Tấn công lén lút từ ngoài phạm vi...thằng hèn hạ!"
+
+@17068 Master · マスター
+# Kích hoạt: 使用〈超級覇王電影弾〉
+> 「超級・覇王・電影弾!!」
+"Siêu · Chúa tể · Đạn phim!!"
+
+@17069 Master · マスター
+# Kích hoạt: 使用〈ダークネスフィンガー〉
+> 「ダークネスフィンガァァァァァッ!!」
+“Ngón tay đen tối——!!”
+
+@17070 Master · マスター
+# Kích hoạt: 使用〈十二王方牌大車輪〉（对话第 1/2 句）
+> 「秘技!」
+"Kỹ năng bí mật!"
+
+@17071 Master · マスター
+# Kích hoạt: 使用〈十二王方牌大車輪〉（对话第 2/2 句）
+> 「十二王方牌大車りぃぃん!!」
+"Bánh xe lớn của mười hai con Ách kim cương——!!"
+
+@17072 Master · マスター
+# Kích hoạt: 使用〈アイアンネット〉（低优先，可能被通用台词顶掉）
+> 「帰山……笑紅じぃぃん!!」
+"Trở về núi... cười nhạo Hồng Trần——!!"
+
+@17073 Master · マスター
+# Kích hoạt: 使用〈十二王方牌大車輪〉（对话第 1/2 句）
+> 「流派! 東方不敗!!」
+"Trường học! Phương Đông bất bại!!"
+
+@17074 Master · マスター
+# Kích hoạt: 使用〈十二王方牌大車輪〉（对话第 2/2 句）
+> 「十二王方牌! 大車輪!!」
+"Mười hai con Ách kim cương! Bánh xe lớn!!"
+
+@17075 Master · マスター
+# Kích hoạt: 使用〈十二王方牌大車輪〉（对话第 1/2 句）
+> 「流派! 東方不敗!!」
+"Trường học! Phương Đông bất bại!!"
+
+@17076 Master · マスター
+# Kích hoạt: 使用〈十二王方牌大車輪〉（对话第 2/2 句）
+> 「十二王方牌!!
+>  大車輪ぃぃぃぃん!!」
+"Mười hai con Ách kim cương!! Bánh xe lớn——!!"
+
+@17077 Master · マスター
+# Kích hoạt: 使用〈流派東方不敗石破天驚拳〉（对话第 1/2 句）
+> 「東方不敗が最終奥義ぃっ!」
+"Bí mật cuối cùng của phương Đông bất khả chiến bại!"
+
+@17078 Master · マスター
+# Kích hoạt: 使用〈流派東方不敗石破天驚拳〉（对话第 2/2 句）
+> 「石破! 天驚けぇぇぇぇぇぇんっ!」
+"Shi Po! Kinh hoàng—Cú đấm!"
+
+@17079 Master · マスター
+# Kích hoạt: 使用〈酔舞・再現江湖デッドリーウェーブ〉（对话第 1/2 句）
+> 「酔舞・再現江湖
+>  デッドリーウェェイブ!!」
+"Vũ điệu say rượu · Sự tái xuất hiện của thế giới · Làn sóng chết người!!"
+
+@17080 Master · マスター
+# Kích hoạt: 使用〈酔舞・再現江湖デッドリーウェーブ〉（对话第 2/2 句）
+> 「……爆発!!」
+"...vụ nổ!!"

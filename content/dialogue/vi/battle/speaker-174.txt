@@ -1,0 +1,170 @@
+# Bản dịch tiếng Việt Super Robot Wars 64
+# Định dạng và vị trí: docs/guide/dialogue-text.md
+
+@9501 Shapiro · シャピロ
+# Kích hoạt: Tấn công (Chung，1/12）
+> 「死ぬがいい」
+"Đi xuống địa ngục đi."
+
+@9502 Shapiro · シャピロ
+# Kích hoạt: Tấn công (Chung，2/12）
+> 「これで貴様も終わりだ」
+“Bây giờ cậu đã xong rồi.”
+
+@9503 Shapiro · シャピロ
+# Kích hoạt: Tấn công (Chung，3/12）
+> 「あの世で後悔するんだな」
+"Hãy đến địa ngục và hối hận."
+
+@9504 Shapiro · シャピロ
+# Kích hoạt: Tấn công (Chung，4/12）
+> 「フフフ……死ね」
+"Hehehe...chết đi."
+
+@9505 Shapiro · シャピロ
+# Kích hoạt: Tấn công (Chung，5/12）
+> 「ここまでだな」
+"Đó là nó."
+
+@9506 Shapiro · シャピロ
+# Kích hoạt: Tấn công (Chung，6/12）
+> 「茶番はここまでだ」
+"Trò hề này kết thúc ở đây."
+
+@9507 Shapiro · シャピロ
+# Kích hoạt: Tấn công (Chung，7/12）
+> 「私にかなうと思っているのか」
+"Ngươi nghĩ ngươi có thể đánh bại ta?"
+
+@9508 Shapiro · シャピロ
+# Kích hoạt: Tấn công (Chung，8/12）
+> 「身の程知らずが……」
+"Một chàng trai không biết bầu trời cao bao nhiêu và mình cao bao nhiêu..."
+
+@9509 Shapiro · シャピロ
+# Kích hoạt: Tấn công (Chung，9/12）
+> 「今は相手をしているヒマはない!」
+"Bây giờ tôi không có thời gian nói chuyện với anh!"
+
+@9510 Shapiro · シャピロ
+# Kích hoạt: Tấn công (Chung，10/12）
+> 「別れの杯を受けてくれ」
+“Hãy uống chén rượu chia tay này.”
+
+@9511 Shapiro · シャピロ
+# Kích hoạt: Tấn công (Chung，11/12）
+> 「俺の野望をくずせはせん!」
+"Không ai có thể dập tắt được tham vọng của tôi!"
+
+@9512 Shapiro · シャピロ
+# Kích hoạt: Tấn công (Chung，12/12）
+> 「俺は全宇宙の神となるのだ!!」
+"Tôi sẽ trở thành vị thần của toàn bộ vũ trụ!!"
+
+@9513 Shapiro · シャピロ
+# Kích hoạt: 被击坠（通用，1/2）
+> 「バ、バカな……こんな……」
+"Làm sao, làm sao có thể... Thực ra..."
+
+@9514 Shapiro · シャピロ
+# Kích hoạt: 被击坠（通用，2/2）
+> 「うおぉぉぉぉぉぉ!?」
+"Uuuuuuuuuuuuuuuuuuuuuuu!?"
+
+@9515 Shapiro · シャピロ
+# Kích hoạt: 重伤（剩余 HP 不足 30%）（通用，1/3）
+> 「うおっ!? な、何だと!? この
+>  私が……」
+"Uh-ồ!? C-cái gì!? Thực ra tôi..."
+
+@9516 Shapiro · シャピロ
+# Kích hoạt: 重伤（剩余 HP 不足 30%）（通用，2/3）
+> 「バカな……こんな、こんな事が……」
+"Không thể nào... thực ra có chuyện như vậy..."
+
+@9517 Shapiro · シャピロ
+# Kích hoạt: 重伤（剩余 HP 不足 30%）（通用，3/3）
+> 「な、なぜだ!? なぜこれほどに……」
+"Tại sao, tại sao!? Tại sao lại đến mức này..."
+
+@9518 Shapiro · シャピロ
+# Kích hoạt: 中伤（剩余 HP 30–90%）（通用，1/4）
+> 「ぬうっ! いつまでもいい気になるな!」
+"Hmm! Đừng quá phấn khích!"
+
+@9519 Shapiro · シャピロ
+# Kích hoạt: 中伤（剩余 HP 30–90%）（通用，2/4）
+> 「ぐうっ! 貴様……殺してやるっ!!」
+"Gu! Tên này... Ta sẽ giết ngươi!!"
+
+@9520 Shapiro · シャピロ
+# Kích hoạt: 中伤（剩余 HP 30–90%）（通用，3/4）
+> 「くっ! やりおったな……」
+"Hừ! Sao ngươi dám hành động..."
+
+@9521 Shapiro · シャピロ
+# Kích hoạt: 中伤（剩余 HP 30–90%）（通用，4/4）
+> 「よくぞ私を悩ませたと、ほめるべきか」
+"Tôi có nên khen ngợi bạn vì đã khiến tôi bận tâm nhiều như vậy không?"
+
+@9522 Shapiro · シャピロ
+# Kích hoạt: 轻伤（剩余 HP 90% 以上）（通用，1/3）
+> 「貴様の腕はその程度か」
+“Đó là tất cả những gì cậu có thể làm à?”
+
+@9523 Shapiro · シャピロ
+# Kích hoạt: 轻伤（剩余 HP 90% 以上）（通用，2/3）
+> 「この私に逆らうとは……愚かな……」
+"Sao ngươi dám không vâng lời ta... ngu ngốc..."
+
+@9524 Shapiro · シャピロ
+# Kích hoạt: 轻伤（剩余 HP 90% 以上）（通用，3/3）
+> 「クズ共が……」
+"Một đống rác rưởi..."
+
+@9525 Shapiro · シャピロ
+# Kích hoạt: Né tránh（通用，1/4）
+> 「愚かな……」
+"Ngu ngốc..."
+
+@9526 Shapiro · シャピロ
+# Kích hoạt: Né tránh（通用，2/4）
+> 「それで狙っているつもりか」
+"Bạn cũng gọi đây là nhắm mục tiêu?"
+
+@9527 Shapiro · シャピロ
+# Kích hoạt: Né tránh（通用，3/4）
+> 「当たらんな」
+"Bỏ lỡ."
+
+@9528 Shapiro · シャピロ
+# Kích hoạt: Né tránh（通用，4/4）
+> 「バカめ……」
+"Đồ ngốc..."
+
+@9529 Shapiro · シャピロ
+# Kích hoạt: Tấn công无效（护罩／装甲）（通用，1/1）
+> 「貴様の攻撃など、私には
+>  通用せんのだ」
+"Các cuộc tấn công của bạn không có tác dụng với tôi."
+
+@9530 Shapiro · シャピロ
+# Kích hoạt: 弹药／EN 不足，无法反击（通用，1/1）
+> 「弾切れだと!? ぬうう……」
+“Hết đạn!? Uh-huh…”
+
+@9531 Shapiro · シャピロ
+# Kích hoạt: 射程外，无法反击（通用，1/2）
+> 「ここからでは届かんか……」
+"Bạn không thể tiếp cận nó từ khoảng cách này ..."
+
+@9532 Shapiro · シャピロ
+# Kích hoạt: 射程外，无法反击（通用，2/2）
+> 「こしゃくな真似をする……」
+"Sao ngươi dám giở trò thông minh như vậy..."
+
+@14811 Shapiro · シャピロ
+# Kích hoạt: 对手驾驶员〈沙羅〉
+> 「沙羅、たとえお前でも容赦は
+>  せん!」
+"Sara, cho dù là cô, tôi cũng sẽ không bao giờ tỏ ra thương xót!"

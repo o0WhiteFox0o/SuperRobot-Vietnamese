@@ -1,0 +1,185 @@
+# Bản dịch tiếng Việt Super Robot Wars 64
+# Định dạng và vị trí: docs/guide/dialogue-text.md
+
+@12372 Allen · アレン
+# Kích hoạt: Tấn công (Chung，1/11）
+> 「落ちなっ!!」
+"Thả tôi xuống!!"
+
+@12373 Allen · アレン
+# Kích hoạt: Tấn công (Chung，2/11）
+> 「もらった!」
+"Thành công!"
+
+@12374 Allen · アレン
+# Kích hoạt: Tấn công (Chung，3/11）
+> 「とどめだ!」
+"Kết thúc đi anh!"
+
+@12375 Allen · アレン
+# Kích hoạt: Tấn công (Chung，4/11）
+> 「くたばりな!」
+"Đi xuống địa ngục đi!"
+
+@12376 Allen · アレン
+# Kích hoạt: Tấn công (Chung，5/11）
+> 「このっ!」
+"Anh bạn!"
+
+@12377 Allen · アレン
+# Kích hoạt: Tấn công (Chung，6/11）
+> 「あばよ! あの世で後悔するんだな」
+"Tạm biệt! Hãy xuống địa ngục và hối hận."
+
+@12378 Allen · アレン
+# Kích hoạt: Tấn công (Chung，7/11）
+> 「やらせるか!!」
+“Thật là một ý nghĩ đẹp đẽ!!”
+
+@12379 Allen · アレン
+# Kích hoạt: Tấn công (Chung，8/11）
+> 「消えろっ!!」
+"Biến mất!!"
+
+@12380 Allen · アレン
+# Kích hoạt: Tấn công (Chung，9/11）
+> 「観念するんだな!」
+"Bỏ cuộc đi!"
+
+@12381 Allen · アレン
+# Kích hoạt: Tấn công (Chung，10/11）
+> 「俺が引導を渡してやるぜ!」
+"Hãy để tôi đưa bạn lên đường!"
+
+@12382 Allen · アレン
+# Kích hoạt: Tấn công (Chung，11/11）
+> 「邪魔なんだよ!!」
+"Anh cản đường nhiều quá đấy!!"
+
+@12383 Allen · アレン
+# Kích hoạt: 被击坠（通用，1/2）
+> 「何っ!? やられた!?」
+"Cái gì!? Bị giết!?"
+
+@12384 Allen · アレン
+# Kích hoạt: 被击坠（通用，2/2）
+> 「なんだとっ!?」
+"Cái gì!?"
+
+@12385 Allen · アレン
+# Kích hoạt: 重伤（剩余 HP 不足 30%）（通用，1/4）
+> 「ちっ! こいつはまずいな……」
+"Tsk! Điều này không ổn..."
+
+@12386 Allen · アレン
+# Kích hoạt: 重伤（剩余 HP 不足 30%）（通用，2/4）
+> 「バカな!? 押されているだと!?」
+"Không thể nào!? Tôi thực sự đã bị đàn áp!?"
+
+@12387 Allen · アレン
+# Kích hoạt: 重伤（剩余 HP 不足 30%）（通用，3/4）
+> 「うおっ!! やられた!? どこだ!?」
+"Ồ!! Bị đánh!? Ở đâu!?"
+
+@12388 Allen · アレン
+# Kích hoạt: 重伤（剩余 HP 不足 30%）（通用，4/4）
+> 「な、なんだこのパワーは……
+>  やられるのか!?」
+“S-sức mạnh này là gì…tôi sắp bị giết à!?”
+
+@12389 Allen · アレン
+# Kích hoạt: 中伤（剩余 HP 30–90%）（通用，1/5）
+> 「くっ! いい気になるなっ!!」
+"Hmm! Đừng quá khích!!"
+
+@12390 Allen · アレン
+# Kích hoạt: 中伤（剩余 HP 30–90%）（通用，2/5）
+> 「当たった!? バカな!」
+"Đánh!? Không thể nào!"
+
+@12391 Allen · アレン
+# Kích hoạt: 中伤（剩余 HP 30–90%）（通用，3/5）
+> 「やるっ! だが俺だってな!!」
+"Một vài lần! Nhưng tôi cũng không phải là người ăn chay!!"
+
+@12392 Allen · アレン
+# Kích hoạt: 中伤（剩余 HP 30–90%）（通用，4/5）
+> 「むぅっ! やりやがったな!」
+"Hừ! Sao ngươi dám làm thế!"
+
+@12393 Allen · アレン
+# Kích hoạt: 中伤（剩余 HP 30–90%）（通用，5/5）
+> 「ちっ! 少しは手応えが
+>  ありそうだな!」
+"Tsk! Có vẻ như bạn vẫn còn một số kỹ năng!"
+
+@12394 Allen · アレン
+# Kích hoạt: 轻伤（剩余 HP 90% 以上）（通用，1/4）
+> 「どうした、そんなもんか!?」
+"Sao vậy? Đây là tất cả những gì cậu có à?"
+
+@12395 Allen · アレン
+# Kích hoạt: 轻伤（剩余 HP 90% 以上）（通用，2/4）
+> 「その程度の腕で、よく生き延びて
+>  こられたもんだ!」
+"Với kỹ năng nhỏ này, bạn có thể sống sót cho đến bây giờ!"
+
+@12396 Allen · アレン
+# Kích hoạt: 轻伤（剩余 HP 90% 以上）（通用，3/4）
+> 「ふん、大したダメージではないな」
+“Hừ, chút tổn thương này chẳng là gì cả.”
+
+@12397 Allen · アレン
+# Kích hoạt: 轻伤（剩余 HP 90% 以上）（通用，4/4）
+> 「なんだ? それで攻撃してるつもりか?」
+"Cái gì? Bạn có nghĩ đây được tính là một cuộc tấn công không?"
+
+@12398 Allen · アレン
+# Kích hoạt: Né tránh（通用，1/7）
+> 「甘いぜ!」
+"Thật ngây thơ!"
+
+@12399 Allen · アレン
+# Kích hoạt: Né tránh（通用，2/7）
+> 「当たるか!」
+"Bạn không thể đánh nó!"
+
+@12400 Allen · アレン
+# Kích hoạt: Né tránh（通用，3/7）
+> 「まるで素人の攻撃だな!」
+"Đó chỉ là một cuộc tấn công nghiệp dư!"
+
+@12401 Allen · アレン
+# Kích hoạt: Né tránh（通用，4/7）
+> 「狙いが甘いんだよ!」
+"Mục tiêu kém!"
+
+@12402 Allen · アレン
+# Kích hoạt: Né tránh（通用，5/7）
+> 「ま……こんなもんか」
+"Ồ... đây là tất cả những gì cậu có à?"
+
+@12403 Allen · アレン
+# Kích hoạt: Né tránh（通用，6/7）
+> 「これでも眼はいい方なんだぜ!」
+"Đừng nhìn tôi như thế, tôi có thị lực rất tốt!"
+
+@12404 Allen · アレン
+# Kích hoạt: Né tránh（通用，7/7）
+> 「しゃらくさいんだよ!」
+"Đừng thông minh như vậy nữa!"
+
+@12405 Allen · アレン
+# Kích hoạt: Tấn công无效（护罩／装甲）（通用，1/1）
+> 「ムダなんだよ!」
+"Thật vô ích!"
+
+@12406 Allen · アレン
+# Kích hoạt: 弹药／EN 不足，无法反击（通用，1/1）
+> 「バカな、弾切れだと!?」
+"Không thể nào, hết đạn rồi!?"
+
+@12407 Allen · アレン
+# Kích hoạt: 射程外，无法反击（通用，1/1）
+> 「ちっ、遠すぎるか」
+“Chậc, xa quá.”

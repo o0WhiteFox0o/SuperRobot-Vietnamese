@@ -1,0 +1,254 @@
+# Bản dịch tiếng Việt Super Robot Wars 64
+# Định dạng và vị trí: docs/guide/dialogue-text.md
+
+@8690 Scirocco · シロッコ
+# Kích hoạt: Tấn công (Chung，1/14）
+> 「身の程知らずが……落ちろっ!」
+"Ngươi là kẻ không biết trời cao... té xuống!"
+
+@8691 Scirocco · シロッコ
+# Kích hoạt: Tấn công (Chung，2/14）
+> 「もらった!!」
+"Thành công!!"
+
+@8692 Scirocco · シロッコ
+# Kích hoạt: Tấn công (Chung，3/14）
+> 「とどめをさしてやる!」
+"Gửi cho bạn đòn cuối cùng!"
+
+@8693 Scirocco · シロッコ
+# Kích hoạt: Tấn công (Chung，4/14）
+> 「死ねっ!!」
+"Xuống địa ngục đi!!"
+
+@8694 Scirocco · シロッコ
+# Kích hoạt: Tấn công (Chung，5/14）
+> 「ぬかったな!!」
+"Bạn phải bất cẩn!!"
+
+@8695 Scirocco · シロッコ
+# Kích hoạt: Tấn công (Chung，6/14）
+> 「死ににきたか!」
+“Anh đến đây để chết à?”
+
+@8696 Scirocco · シロッコ
+# Kích hoạt: Tấn công (Chung，7/14）
+> 「落ちろ……カトンボ」
+"Rơi xuống... côn trùng bay nhỏ."
+
+@8697 Scirocco · シロッコ
+# Kích hoạt: Tấn công (Chung，8/14）
+> 「逃げられはせん!」
+"Bạn không thể trốn thoát!"
+
+@8698 Scirocco · シロッコ
+# Kích hoạt: Tấn công (Chung，9/14）
+> 「沈めっ!!」
+“Chìm xuống!!”
+
+@8699 Scirocco · シロッコ
+# Kích hoạt: Tấn công (Chung，10/14）
+> 「不愉快だな、この感覚は!」
+"Cảm giác này thật khó chịu!"
+
+@8700 Scirocco · シロッコ
+# Kích hoạt: Tấn công (Chung，11/14）
+> 「そこかっ!!」
+"Đó!!"
+
+@8701 Scirocco · シロッコ
+# Kích hoạt: Tấn công (Chung，12/14）
+> 「フフフッ、ハハハハッ! 落ちろっ!!」
+"Hehehe, hahahaha! Ngã xuống!!"
+
+@8702 Scirocco · シロッコ
+# Kích hoạt: Tấn công (Chung，13/14）
+> 「これで終わりだな!!」
+“Chính là nó!!”
+
+@8703 Scirocco · シロッコ
+# Kích hoạt: Tấn công (Chung，14/14）
+> 「そう動くか。わからん話ではないが、
+>  そうはさせん!」
+"Ngươi muốn rời đi như vậy sao? Nói có lý, nhưng ta sẽ không để ngươi thành công!"
+
+@8704 Scirocco · シロッコ
+# Kích hoạt: 被击坠（通用，1/2）
+> 「なんだと!? バカな!?」
+"Cái gì!? Làm sao có thể như vậy được!?"
+
+@8705 Scirocco · シロッコ
+# Kích hoạt: 被击坠（通用，2/2）
+> 「この私が敗れる!?
+>  負けるというのか!?」
+“Tôi sắp bị đánh bại à!? Tôi sắp thua à!?”
+
+@8706 Scirocco · シロッコ
+# Kích hoạt: 重伤（剩余 HP 不足 30%）（通用，1/5）
+> 「ぬうっ! 俗物が……あくまで私に
+>  逆らうつもりか!」
+"Ugh! Đồ thô tục... các người định chống lại tôi đến cùng à!"
+
+@8707 Scirocco · シロッコ
+# Kích hoạt: 重伤（剩余 HP 不足 30%）（通用，2/5）
+> 「何っ!? この力……なんだ!?」
+"Cái gì!? Sức mạnh này... nó là gì vậy!?"
+
+@8708 Scirocco · シロッコ
+# Kích hoạt: 重伤（剩余 HP 不足 30%）（通用，3/5）
+> 「むうっ! まだだ! まだ落ちはせん!!」
+"Ugh! Vẫn chưa kết thúc đâu! Tôi vẫn chưa bị bắn hạ đâu!!"
+
+@8709 Scirocco · シロッコ
+# Kích hoạt: 重伤（剩余 HP 不足 30%）（通用，4/5）
+> 「バカな!? 押されているだと!?」
+"Sao có thể được!? Tôi đã bị đàn áp!?"
+
+@8710 Scirocco · シロッコ
+# Kích hoạt: 重伤（剩余 HP 不足 30%）（通用，5/5）
+> 「うおぉっ!? なんというプレッシャーだ!」
+"Ouch!? Thật là một cảm giác áp bức mạnh mẽ!"
+
+@8711 Scirocco · シロッコ
+# Kích hoạt: 中伤（剩余 HP 30–90%）（通用，1/7）
+> 「ちっ! 少しはできるようだが……」
+"Tsk! Có vẻ như vẫn còn vài khoảnh khắc nữa..."
+
+@8712 Scirocco · シロッコ
+# Kích hoạt: 中伤（剩余 HP 30–90%）（通用，2/7）
+> 「なんの!この程度では私は倒せん!」
+"Thật nực cười! Cuộc tấn công này không thể đánh bại tôi!"
+
+@8713 Scirocco · シロッコ
+# Kích hoạt: 中伤（剩余 HP 30–90%）（通用，3/7）
+> 「小賢しい……いい気になるな!!」
+"Hãy thông minh...đừng để bị cuốn đi!!"
+
+@8714 Scirocco · シロッコ
+# Kích hoạt: 中伤（剩余 HP 30–90%）（通用，4/7）
+> 「くっ! やるな……だが、そんなものでは!」
+"Chà! Có một vài khoảnh khắc...nhưng chỉ thế thôi!"
+
+@8715 Scirocco · シロッコ
+# Kích hoạt: 中伤（剩余 HP 30–90%）（通用，5/7）
+> 「むぅっ!
+>  私に油断があったというのか……」
+"Hmm! Có phải tôi bất cẩn không..."
+
+@8716 Scirocco · シロッコ
+# Kích hoạt: 中伤（剩余 HP 30–90%）（通用，6/7）
+> 「あてた!? あれでか」
+"Đánh!? Chỉ với kiểu tấn công đó thôi à?"
+
+@8717 Scirocco · シロッコ
+# Kích hoạt: 中伤（剩余 HP 30–90%）（通用，7/7）
+> 「うっ、このプレッシャー……なんだ?」
+"Chà, cảm giác áp bức này là gì vậy...?"
+
+@8718 Scirocco · シロッコ
+# Kích hoạt: 轻伤（剩余 HP 90% 以上）（通用，1/5）
+> 「その程度の攻撃が通用するか!」
+"Làm sao đòn tấn công đơn thuần này có thể có hiệu quả!"
+
+@8719 Scirocco · シロッコ
+# Kích hoạt: 轻伤（剩余 HP 90% 以上）（通用，2/5）
+> 「ふん……そんなものか」
+"Hmph...đó là tất cả những gì cậu có."
+
+@8720 Scirocco · シロッコ
+# Kích hoạt: 轻伤（剩余 HP 90% 以上）（通用，3/5）
+> 「そんな腕で私に向かってくるとは……
+>  なめられたものだ」
+"Ngươi dám tấn công ta chỉ bằng kỹ năng này... Ngươi thực sự đánh giá thấp ta."
+
+@8721 Scirocco · シロッコ
+# Kích hoạt: 轻伤（剩余 HP 90% 以上）（通用，4/5）
+> 「効きはせんよ!!」
+“Nó không có tác dụng gì cả!!”
+
+@8722 Scirocco · シロッコ
+# Kích hoạt: 轻伤（剩余 HP 90% 以上）（通用，5/5）
+> 「ふん、俗物が……おのれの分を
+>  わきまえるのだな」
+“Hừ, lũ thô tục các ngươi… nhận ra giá trị của chính mình đi.”
+
+@8723 Scirocco · シロッコ
+# Kích hoạt: Né tránh（通用，1/6）
+> 「甘いな!」
+"Thật ngây thơ!"
+
+@8724 Scirocco · シロッコ
+# Kích hoạt: Né tránh（通用，2/6）
+> 「当たりはせんよ!」
+"Bạn không thể đánh nó!"
+
+@8725 Scirocco · シロッコ
+# Kích hoạt: Né tránh（通用，3/6）
+> 「ふ……見えるぞ、貴様の攻撃が」
+“Ha…Tôi có thể thấy rõ đòn tấn công của cậu.”
+
+@8726 Scirocco · シロッコ
+# Kích hoạt: Né tránh（通用，4/6）
+> 「当たらんな!」
+"Tôi không thể đánh nó!"
+
+@8727 Scirocco · シロッコ
+# Kích hoạt: Né tránh（通用，5/6）
+> 「見えた!!」
+"Thấy rồi!!"
+
+@8728 Scirocco · シロッコ
+# Kích hoạt: Né tránh（通用，6/6）
+> 「ふん……その程度の腕で、よくも
+>  今まで生き延びてこられたものだ」
+“Hmph… Với loại kỹ năng này, tôi vẫn có thể sống sót cho đến bây giờ.”
+
+@8729 Scirocco · シロッコ
+# Kích hoạt: Tấn công无效（护罩／装甲）（通用，1/2）
+> 「ふ、ムダな事を」
+"Ồ, tất cả đều vô ích."
+
+@8730 Scirocco · シロッコ
+# Kích hoạt: Tấn công无效（护罩／装甲）（通用，2/2）
+> 「これでは人に品性を求めることなど
+>  絶望的だな」
+"Có vẻ như vô vọng khi mong đợi con người có tính cách."
+
+@8731 Scirocco · シロッコ
+# Kích hoạt: 弹药／EN 不足，无法反击（通用，1/1）
+> 「くっ! 弾切れか……」
+"Hmm! Các bạn hết đạn rồi à..."
+
+@8732 Scirocco · シロッコ
+# Kích hoạt: 射程外，无法反击（通用，1/1）
+> 「ここからでは反撃できんか……まあいい」
+“Không phải là có thể đánh trả từ đây sao… được thôi.”
+
+@14645 Scirocco · シロッコ
+# Kích hoạt: Tấn công，乘坐〈R・ジャジャ〉
+> 「このジ・オの力、身をもって
+>  知るがいい!!」
+"Bạn có thể tự mình trải nghiệm sức mạnh của Tie'ao này!!"
+
+@14646 Scirocco · シロッコ
+# Kích hoạt: Tấn công，乘坐〈R・ジャジャ〉
+> 「そんなマシンで、このジ・オと対等に
+>  戦えると思っているのか!」
+"Ngươi cho rằng loại máy móc đó có thể cạnh tranh được với Tiao này sao!"
+
+@14647 Scirocco · シロッコ
+# Kích hoạt: Né tránh，条件 1000
+> 「ハハハハッ、そんな攻撃ではダミーに
+>  あてる程度しかできんよ!」
+"Ha ha ha, loại công kích này nhiều nhất chỉ có thể trúng mồi!"
+
+@14648 Scirocco · シロッコ
+# Kích hoạt: Né tránh，条件 1000
+> 「貴様ごときを相手にしている
+>  ヒマはない!」
+“Tôi không có thời gian dành cho loại người như anh!”
+
+@14649 Scirocco · シロッコ
+# Kích hoạt: Né tránh，条件 1000
+> 「ムダだ!」
+"Thật vô ích!"

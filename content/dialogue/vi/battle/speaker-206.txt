@@ -1,0 +1,158 @@
+# Bản dịch tiếng Việt Super Robot Wars 64
+# Định dạng và vị trí: docs/guide/dialogue-text.md
+
+@7606 Gale · ゲイル
+# Kích hoạt: Tấn công (Chung，1/8）
+> 「そこをどけっ!!」
+"Tránh đường cho tôi!!"
+
+@7607 Gale · ゲイル
+# Kích hoạt: Tấn công (Chung，2/8）
+> 「容赦はしない!!」
+"Không thương xót!!"
+
+@7608 Gale · ゲイル
+# Kích hoạt: Tấn công (Chung，3/8）
+> 「覚悟を決めろ!!」
+"Chấp nhận số phận của bạn!!"
+
+@7609 Gale · ゲイル
+# Kích hoạt: Tấn công (Chung，4/8）
+> 「さらばだっ!!」
+"Tạm biệt!!"
+
+@7610 Gale · ゲイル
+# Kích hoạt: Tấn công (Chung，5/8）
+> 「許せっ!!」
+“Tôi xin lỗi!!”
+
+@7611 Gale · ゲイル
+# Kích hoạt: Tấn công (Chung，6/8）
+> 「あまいなっ!」
+"Thật ngây thơ!"
+
+@7612 Gale · ゲイル
+# Kích hoạt: Tấn công (Chung，7/8）
+> 「運が悪かったな!」
+"Bạn thật không may mắn!"
+
+@7613 Gale · ゲイル
+# Kích hoạt: Tấn công (Chung，8/8）
+> 「あまいぞっ! そこだっ!!」
+"Thật ngây thơ! Ở đằng kia!!"
+
+@7614 Gale · ゲイル
+# Kích hoạt: 被击坠（通用，1/3）
+> 「くっ……見事だ」
+"Chà...làm tốt lắm."
+
+@7615 Gale · ゲイル
+# Kích hoạt: 被击坠（通用，2/3）
+> 「うわぁぁぁぁぁっ!!」
+"Ồhhhhhhhhh!!"
+
+@7616 Gale · ゲイル
+# Kích hoạt: 被击坠（通用，3/3）
+> 「ぐっ! な……なんだと!?」
+"Ờ! Cái...cái gì!?"
+
+@7617 Gale · ゲイル
+# Kích hoạt: 重伤（剩余 HP 不足 30%）（通用，1/3）
+> 「ぐっ、私としたことが……!」
+"Chà, tôi sẽ phạm sai lầm như vậy...!"
+
+@7618 Gale · ゲイル
+# Kích hoạt: 重伤（剩余 HP 不足 30%）（通用，2/3）
+> 「おうわぁぁぁぁっ!!」
+"Ồ ồ ồ ồ!!"
+
+@7619 Gale · ゲイル
+# Kích hoạt: 重伤（剩余 HP 不足 30%）（通用，3/3）
+> 「うおぉぉ!? う、うかつだったか!?」
+"Ồ!? Tôi, tôi đã bất cẩn!?"
+
+@7620 Gale · ゲイル
+# Kích hoạt: 中伤（剩余 HP 30–90%）（通用，1/4）
+> 「おおぉぉぉぉっ!」
+"Ồhhh!"
+
+@7621 Gale · ゲイル
+# Kích hoạt: 中伤（剩余 HP 30–90%）（通用，2/4）
+> 「おおっ!?」
+"Ồ!?"
+
+@7622 Gale · ゲイル
+# Kích hoạt: 中伤（剩余 HP 30–90%）（通用，3/4）
+> 「くっ!!」
+"Ờ!!"
+
+@7623 Gale · ゲイル
+# Kích hoạt: 中伤（剩余 HP 30–90%）（通用，4/4）
+> 「やるな!」
+"Hai lần!"
+
+@7624 Gale · ゲイル
+# Kích hoạt: 轻伤（剩余 HP 90% 以上）（通用，1/2）
+> 「やはりその程度か!?」
+"Đây thực sự là tất cả những gì bạn có thể làm!?"
+
+@7625 Gale · ゲイル
+# Kích hoạt: 轻伤（剩余 HP 90% 以上）（通用，2/2）
+> 「大したダメージではない!」
+"Vết thương nhỏ này không sao cả!"
+
+@7626 Gale · ゲイル
+# Kích hoạt: Né tránh（通用，1/7）
+> 「あまいな!」
+"Thật ngây thơ!"
+
+@7627 Gale · ゲイル
+# Kích hoạt: Né tránh（通用，2/7）
+> 「そんな腕でやられるような私でない」
+"Bạn không thể đánh bại tôi với loại kỹ năng đó."
+
+@7628 Gale · ゲイル
+# Kích hoạt: Né tránh（通用，3/7）
+> 「遅すぎる!」
+"Quá chậm!"
+
+@7629 Gale · ゲイル
+# Kích hoạt: Né tránh（通用，4/7）
+> 「本気を出せ!」
+"Hãy thể hiện kỹ năng thực sự của bạn!"
+
+@7630 Gale · ゲイル
+# Kích hoạt: Né tránh（通用，5/7）
+> 「その程度で!」
+"Đó là tất cả!"
+
+@7631 Gale · ゲイル
+# Kích hoạt: Né tránh（通用，6/7）
+> 「遅い!」
+"Quá chậm!"
+
+@7632 Gale · ゲイル
+# Kích hoạt: Né tránh（通用，7/7）
+> 「そんな攻撃で相手を倒せると
+>  思うな!」
+"Đừng nghĩ loại công kích này có thể đánh ngã ta!"
+
+@7633 Gale · ゲイル
+# Kích hoạt: Tấn công无效（护罩／装甲）（通用，1/2）
+> 「効きはせん!」
+"Không có ích gì!"
+
+@7634 Gale · ゲイル
+# Kích hoạt: Tấn công无效（护罩／装甲）（通用，2/2）
+> 「ビームなど無駄だ!」
+"Dầm không có tác dụng với tôi!"
+
+@7635 Gale · ゲイル
+# Kích hoạt: 弹药／EN 不足，无法反击（通用，1/1）
+> 「くっ、だめか!?」
+"Chà, không thể được nữa à!?"
+
+@7636 Gale · ゲイル
+# Kích hoạt: 射程外，无法反击（通用，1/1）
+> 「おのれ、卑怯な!」
+"Chết tiệt, thật đáng khinh!"

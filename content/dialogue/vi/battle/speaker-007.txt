@@ -1,0 +1,277 @@
+# Bản dịch tiếng Việt Super Robot Wars 64
+# Định dạng và vị trí: docs/guide/dialogue-text.md
+
+@12554 Rain · レイン
+# Kích hoạt: Tấn công (Chung，1/8）
+> 「おちなさい!!」
+"Thả tôi xuống!!"
+
+@12555 Rain · レイン
+# Kích hoạt: Tấn công (Chung，2/8）
+> 「えいっ!」
+"Này!"
+
+@12556 Rain · レイン
+# Kích hoạt: Tấn công (Chung，3/8）
+> 「倒れて!!」
+"Rơi xuống!!"
+
+@12557 Rain · レイン
+# Kích hoạt: Tấn công (Chung，4/8）
+> 「女だからって……まけないわよ!」
+"Đừng tưởng tôi là nữ... Tôi sẽ không thua!"
+
+@12558 Rain · レイン
+# Kích hoạt: Tấn công (Chung，5/8）
+> 「まけないわよ!」
+"Tôi sẽ không thua!"
+
+@12559 Rain · レイン
+# Kích hoạt: Tấn công (Chung，6/8）
+> 「なめないでよねっ!」
+"Đừng đánh giá thấp tôi!"
+
+@12560 Rain · レイン
+# Kích hoạt: Tấn công (Chung，7/8）
+> 「これで決めるっ!!」
+"Tôi sẽ dùng thứ này để loại bỏ bạn!!"
+
+@12561 Rain · レイン
+# Kích hoạt: Tấn công (Chung，8/8）
+> 「やってみせるっ!!」
+"Tôi chắc chắn có thể làm được!!"
+
+@12562 Rain · レイン
+# Kích hoạt: 被击坠（通用，1/2）
+> 「う、うそでしょ……!?」
+"Không, không thể nào...!?"
+
+@12563 Rain · レイン
+# Kích hoạt: 被击坠（通用，2/2）
+> 「きゃあああああっ!」
+"Ahhhhhhhhh!"
+
+@12564 Rain · レイン
+# Kích hoạt: 重伤（剩余 HP 不足 30%）（通用，1/5）
+> 「あぁぁぁぁっ!!」
+"Ahhhhhh!!"
+
+@12565 Rain · レイン
+# Kích hoạt: 重伤（剩余 HP 不足 30%）（通用，2/5）
+> 「きゃああっ! だ、ダメ……このままじゃ…」
+"À! Không, không thể nào... nếu cậu tiếp tục làm thế này..."
+
+@12566 Rain · レイン
+# Kích hoạt: 重伤（剩余 HP 不足 30%）（通用，3/5）
+> 「あああっ! や、やられちゃう!?」
+"A! T-tôi xong rồi!?"
+
+@12567 Rain · レイン
+# Kích hoạt: 重伤（剩余 HP 不足 30%）（通用，4/5）
+> 「だ、ダメっ! まだもって!!」
+"Không, không! Hãy đợi thêm một chút nữa!!"
+
+@12568 Rain · レイン
+# Kích hoạt: 重伤（剩余 HP 不足 30%）（通用，5/5）
+> 「きゃああっ! そ、そんなっ!?」
+"A! Làm sao, làm sao có thể!?"
+
+@12569 Rain · レイン
+# Kích hoạt: 中伤（剩余 HP 30–90%）（通用，1/9）
+> 「きゃぁぁぁぁっ!!」
+"Ahhhhhh!!"
+
+@12570 Rain · レイン
+# Kích hoạt: 中伤（剩余 HP 30–90%）（通用，2/9）
+> 「あ、あっ!!」
+"À, à!!"
+
+@12571 Rain · レイン
+# Kích hoạt: 中伤（剩余 HP 30–90%）（通用，3/9）
+> 「くうっ! し、しっかりしなきゃ!」
+"Ugh! T-tôi phải vui lên!"
+
+@12572 Rain · レイン
+# Kích hoạt: 中伤（剩余 HP 30–90%）（通用，4/9）
+> 「ああっ!! や、やるわね!」
+"Ahhh!! Đúng rồi, còn một lát nữa!"
+
+@12573 Rain · レイン
+# Kích hoạt: 中伤（剩余 HP 30–90%）（通用，5/9）
+> 「ま、まだよっ! まだこれからっ!」
+"Vẫn chưa kết thúc! Đây mới chỉ là bắt đầu thôi!"
+
+@12574 Rain · レイン
+# Kích hoạt: 中伤（剩余 HP 30–90%）（通用，6/9）
+> 「くっ! こ、こんなものっ!」
+"Ừ! Cái này, vết thương này không là gì cả!"
+
+@12575 Rain · レイン
+# Kích hoạt: 中伤（剩余 HP 30–90%）（通用，7/9）
+> 「つっ! やらせないっ!」
+"Ugh! Tôi sẽ không để cậu thành công!"
+
+@12576 Rain · レイン
+# Kích hoạt: 中伤（剩余 HP 30–90%）（通用，8/9）
+> 「あうっ! わ、私だって!」
+"À! T-tôi cũng không phải là người dễ bị coi thường!"
+
+@12577 Rain · レイン
+# Kích hoạt: 中伤（剩余 HP 30–90%）（通用，9/9）
+> 「きゃあっ! こ、このくらいでっ!」
+"A! Cái này, cấp độ này không là gì cả!"
+
+@12578 Rain · レイン
+# Kích hoạt: 轻伤（剩余 HP 90% 以上）（通用，1/4）
+> 「当たった!? でも、この程度なら!」
+"Bạn có bị đánh không!? Tuy nhiên, vết thương nhỏ này không thành vấn đề!"
+
+@12579 Rain · レイン
+# Kích hoạt: 轻伤（剩余 HP 90% 以上）（通用，2/4）
+> 「あつっ!! 何よ、このくらいっ!!」
+"Nóng quá!! Không có chuyện như thế này đâu!!"
+
+@12580 Rain · レイン
+# Kích hoạt: 轻伤（剩余 HP 90% 以上）（通用，3/4）
+> 「まだまだ!! 大したことないっ!!」
+"Vẫn còn sớm!! Không có gì to tát đâu!!"
+
+@12581 Rain · レイン
+# Kích hoạt: 轻伤（剩余 HP 90% 以上）（通用，4/4）
+> 「こんなのじゃ、効かないわっ!!」
+“Cuộc tấn công này sẽ không có tác dụng gì cả!!”
+
+@12582 Rain · レイン
+# Kích hoạt: Né tránh（通用，1/5）
+> 「ダメっ!! ……あ、外れた?」
+"Không!!...À, trượt à?"
+
+@12583 Rain · レイン
+# Kích hoạt: Né tránh（通用，2/5）
+> 「よ、よかった、当たらなかったみたい」
+"Quá tốt, hình như tôi đã bỏ lỡ nó."
+
+@12584 Rain · レイン
+# Kích hoạt: Né tránh（通用，3/5）
+> 「当たるもんですか!!」
+"Tôi sẽ không bị cậu đánh đâu!!"
+
+@12585 Rain · レイン
+# Kích hoạt: Né tránh（通用，4/5）
+> 「いやぁ! こっちにこないで!!」
+"Không! Đừng đi lối này!!"
+
+@12586 Rain · レイン
+# Kích hoạt: Né tránh（通用，5/5）
+> 「きゃっ! あ、危ないじゃないのっ!!」
+"Ừ! Nguy hiểm quá!!"
+
+@12587 Rain · レイン
+# Kích hoạt: Tấn công无效（护罩／装甲）（通用，1/2）
+> 「きゃあ! だ、大丈夫みたいね……?」
+"À! Được rồi, có vẻ ổn...?"
+
+@12588 Rain · レイン
+# Kích hoạt: Tấn công无效（护罩／装甲）（通用，2/2）
+> 「こんなビームならっ!!」
+"Đây là loại chùm tia gì vậy?!"
+
+@12589 Rain · レイン
+# Kích hoạt: 弹药／EN 不足，无法反击（通用，1/2）
+> 「なんなの? 弾切れ?」
+"Chuyện gì đang xảy ra vậy? Không có đạn à?"
+
+@12590 Rain · レイン
+# Kích hoạt: 弹药／EN 不足，无法反击（通用，2/2）
+> 「エネルギーがない!?」
+"Năng lượng đã biến mất!?"
+
+@12591 Rain · レイン
+# Kích hoạt: 射程外，无法反击（通用，1/1）
+> 「だめだわ! ここからじゃ、遠すぎるわ!」
+"Không! Từ đây quá xa để chiến đấu!"
+
+@17053 Rain · レイン
+# Kích hoạt: 使用〈ライジングアロー〉（对话第 1/2 句）
+> 「一矢で仕留めるっ!!」
+"Một mũi tên sẽ giết chết bạn!!"
+
+@17054 Rain · レイン
+# Kích hoạt: 使用〈ライジングアロー〉（对话第 2/2 句）
+> 「必殺必中! ライジングアローッ!」
+"Phải giết! Mặt trời mọc!"
+
+@17055 Rain · レイン
+# Kích hoạt: 使用〈ライジングアロー〉（对话第 1/2 句）
+> 「やってみせるっ!!」
+"Tôi chắc chắn có thể làm được!!"
+
+@17056 Rain · レイン
+# Kích hoạt: 使用〈ライジングアロー〉（对话第 2/2 句）
+> 「必殺必中! ライジングアローッ!」
+"Phải giết! Mặt trời mọc!"
+
+@17057 Rain · レイン
+# Kích hoạt: 使用〈ライジングアロー〉（对话第 1/2 句）
+> 「いくわよっ!!」
+"Nào!!"
+
+@17058 Rain · レイン
+# Kích hoạt: 使用〈ライジングアロー〉（对话第 2/2 句）
+> 「必殺必中!
+>  ライジングアロォォォォーッ!」
+"Phải giết! Rising Sun Arrow——!"
+
+@17059 Domon · ドモン
+# Kích hoạt: 使用〈石破ラブラブ天驚拳〉（对话第 1/9 句）
+> 「いいか、レイン!」
+"Nghe này, Linh!"
+
+@17060 Domon · ドモン
+# Kích hoạt: 使用〈石破ラブラブ天驚拳〉（对话第 2/9 句）
+> 「これで決めるぞ!」
+"Dùng thủ thuật này để quyết định kết quả!"
+---
+> 「二人のこの手が!」
+"Bàn tay này dành cho cả hai chúng ta!"
+
+@17061 Rain · レイン
+# Kích hoạt: 使用〈石破ラブラブ天驚拳〉（对话第 3/9 句）
+> 「真っ赤に燃える!」
+"Đốt cháy màu đỏ!"
+
+@17062 Domon · ドモン
+# Kích hoạt: 使用〈石破ラブラブ天驚拳〉（对话第 4/9 句）
+> 「幸せつかめと!」
+"Nắm bắt hạnh phúc!"
+
+@17063 Rain · レイン
+# Kích hoạt: 使用〈石破ラブラブ天驚拳〉（对话第 5/9 句）
+> 「轟き叫ぶ!」
+"Nó gầm to quá!"
+
+@17064 Domon · ドモン
+# Kích hoạt: 使用〈石破ラブラブ天驚拳〉（对话第 6/9 句）
+> 「いくぞぉぉっ! ばぁぁぁぁくねつ!」
+"Nào -! Nóng quá!"
+---
+> 「石ッ!」
+"Đá!"
+
+@17065 Rain · レイン
+# Kích hoạt: 使用〈石破ラブラブ天驚拳〉（对话第 7/9 句）
+> 「破ッ!」
+"Hỏng!"
+---
+> 「ラーブラブ!」
+"Tình yêu... Tình yêu!"
+
+@17066 Domon · ドモン
+# Kích hoạt: 使用〈石破ラブラブ天驚拳〉（对话第 8/9 句）
+> 「天驚ケェェェェェェンッ!!」
+“Chấn động—Cú đấm!!”
+
+@17067 Domon · ドモン
+# Kích hoạt: 使用〈石破ラブラブ天驚拳〉（对话第 9/9 句）
+> 「ヒィィィィィトォォ・エンドォォーッ!」
+"Máu nóng-·kết thúc-!"

@@ -1,0 +1,137 @@
+# Bản dịch tiếng Việt Super Robot Wars 64
+# Định dạng và vị trí: docs/guide/dialogue-text.md
+
+@12116 Shot · ショット
+# Kích hoạt: Tấn công (Chung，1/6）
+> 「撃てっ!」
+"Cháy!"
+
+@12117 Shot · ショット
+# Kích hoạt: Tấn công (Chung，2/6）
+> 「させるな!撃ち落とせ!」
+"Đừng để nó thành công! Đánh gục nó!"
+
+@12118 Shot · ショット
+# Kích hoạt: Tấn công (Chung，3/6）
+> 「好きにはさせん!」
+"Đừng nghĩ đến việc làm bất cứ điều gì bạn muốn!"
+
+@12119 Shot · ショット
+# Kích hoạt: Tấn công (Chung，4/6）
+> 「やらせん!」
+"Đừng nghĩ tới chuyện đó nữa!"
+
+@12120 Shot · ショット
+# Kích hoạt: Tấn công (Chung，5/6）
+> 「落とせよ!」
+"Dập nó đi!"
+
+@12121 Shot · ショット
+# Kích hoạt: Tấn công (Chung，6/6）
+> 「スプリガンのパワー、思い知れ!」
+"Hãy xem sức mạnh của Spriggan!"
+
+@12122 Shot · ショット
+# Kích hoạt: 被击坠（通用，1/2）
+> 「うおっ! な、なんだと……」
+"Ồ! Làm sao, làm sao có thể..."
+
+@12123 Shot · ショット
+# Kích hoạt: 被击坠（通用，2/2）
+> 「バカな!? ミュージィ……」
+"Không thể nào!? Muji..."
+
+@12124 Shot · ショット
+# Kích hoạt: 重伤（剩余 HP 不足 30%）（通用，1/3）
+> 「ぬうっ! 機関部に損傷か!?」
+"Hmm! Cabin điện bị hỏng à!?"
+
+@12125 Shot · ショット
+# Kích hoạt: 重伤（剩余 HP 不足 30%）（通用，2/3）
+> 「ぐうっ! い、いかん、これ以上
+>  やられては……」
+"Gu! Không, không, nếu tôi cứ bị đánh như thế này..."
+
+@12126 Shot · ショット
+# Kích hoạt: 重伤（剩余 HP 不足 30%）（通用，3/3）
+> 「うおっ! ま、まさかこれ程とは……」
+"Ồ! Không, không ngờ lại có sức mạnh như vậy..."
+
+@12127 Shot · ショット
+# Kích hoạt: 中伤（剩余 HP 30–90%）（通用，1/3）
+> 「くっ!! どこをやられたか!?」
+"Hmm!! Nó bị đánh ở đâu vậy!?"
+
+@12128 Shot · ショット
+# Kích hoạt: 中伤（剩余 HP 30–90%）（通用，2/3）
+> 「ちいっ! まだだ! まだ落ちるな!」
+"Tsk! Vẫn chưa kết thúc! Cậu chưa thể ngã được!"
+
+@12129 Shot · ショット
+# Kích hoạt: 中伤（剩余 HP 30–90%）（通用，3/3）
+> 「くっ! 対空砲火! 何を
+>  している!」
+"Hmm! Có hỏa lực phòng không! Bạn đang làm gì vậy!"
+
+@12130 Shot · ショット
+# Kích hoạt: 轻伤（剩余 HP 90% 以上）（通用，1/3）
+> 「私とて、オーラ力はある!!」
+"Tôi cũng có sức mạnh của Aura!!"
+
+@12131 Shot · ショット
+# Kích hoạt: 轻伤（剩余 HP 90% 以上）（通用，2/3）
+> 「その程度の攻撃など……」
+“Cuộc tấn công này…”
+
+@12132 Shot · ショット
+# Kích hoạt: 轻伤（剩余 HP 90% 以上）（通用，3/3）
+> 「スプリガンの装甲は、並みでは
+>  ないのだ!」
+“Bộ giáp của Spriggan không phải là thứ bình thường!”
+
+@12133 Shot · ショット
+# Kích hoạt: Né tránh（通用，1/4）
+> 「よく見て回避しろ!」
+"Hãy cẩn thận trước khi tránh nó!"
+
+@12134 Shot · ショット
+# Kích hoạt: Né tránh（通用，2/4）
+> 「正面! 回避だ!」
+"Phía trước! Tránh ra!"
+
+@12135 Shot · ショット
+# Kích hoạt: Né tránh（通用，3/4）
+> 「動けよ! 私の操るままに!」
+"Di chuyển nó! Hãy nghe sự điều khiển của tôi!"
+
+@12136 Shot · ショット
+# Kích hoạt: Né tránh（通用，4/4）
+> 「スプリガンの機動性ならば、
+>  この程度の攻撃は!」
+“Với sự cơ động của Sprigang, đòn tấn công này chẳng là gì cả!”
+
+@12137 Shot · ショット
+# Kích hoạt: Tấn công无效（护罩／装甲）（通用，1/1）
+> 「効かんよ! そんな攻撃など」
+"Đòn tấn công đó là vô ích!"
+
+@12138 Shot · ショット
+# Kích hoạt: 弹药／EN 不足，无法反击（通用，1/1）
+> 「何っ!? 弾切れか!」
+"Cái gì!? Chúng ta hết đạn rồi!"
+
+@12139 Shot · ショット
+# Kích hoạt: 射程外，无法反击（通用，1/1）
+> 「ちいっ、このスプリガンの射程をも
+>  上回るとは……」
+“Chậc, nó thực sự nằm ngoài tầm của Spriggan…”
+
+@16835 Shot · ショット
+# Kích hoạt: 使用〈オーラキャノン〉（低优先，可能被通用台词顶掉）
+> 「主砲、発射!!」
+“Súng chính, khai hỏa!!”
+
+@16836 Shot · ショット
+# Kích hoạt: 使用〈オーラバルカン〉（低优先，可能被通用台词顶掉）
+> 「全砲門、一斉発射!!」
+"Tất cả súng, loạt!!"

@@ -1,0 +1,145 @@
+# Bản dịch tiếng Việt Super Robot Wars 64
+# Định dạng và vị trí: docs/guide/dialogue-text.md
+
+@50803 Killy · キリー
+> 「……キリー・ギャグレー作、
+>  『ブロンクスの狼』、第1章
+“…Sói vùng Bronx, Chương 1, của Keely Gagre
+---
+>  ……俺には何もなかった。親も
+>  兄弟も友だちも何もなかった
+…Tôi chẳng có gì cả. Không cha mẹ, không anh em, không bạn bè, không gì cả
+---
+>  ……んー、……えーい、ダメだ!
+>  書き直しだ!」
+...Ừm——,...Ồ——, không! Viết lại! "
+
+@50804 Remy · レミー
+> 「まだやってるの?
+>  もういいかげん、あきらめたら」
+"Anh vẫn đang viết à? Đã đến lúc phải bỏ cuộc rồi."
+
+@50805 Shingo · 真吾
+> 「第1章から全然進んでないじゃ
+>  ないか。もう何年やってるんだ?
+“Chương đầu tiên không có chút tiến triển nào, viết cái này đã bao nhiêu năm rồi?
+---
+>  ホントに出版できるのか」
+Nó thực sự có thể được xuất bản? "
+
+@50806 Killy · キリー
+> 「うるさい! たとえ何年かかろうとだな
+>  俺の歩んできた道を後世に
+“Ồn ào quá! Dù có mất bao nhiêu năm đi chăng nữa, tôi cũng sẽ rời bỏ con đường mình đã đi đến thế hệ tương lai.
+---
+>  残すのは人類にとって非常に
+>  大切なことなんだ」
+Đó là một điều vô cùng quan trọng đối với con người. "
+
+@50807 Shingo · 真吾
+> 「後世になっても、それを読んでくれる
+>  人類が生き残っていたらな……」
+"Tiền đề là ở hậu thế, vẫn có người sống nguyện ý đọc..."
+
+@50808 Remy · レミー
+> 「そうよ、今はこの地球を守ることの
+>  ほうが先でしょ」
+“Đúng vậy. Bảo vệ trái đất hiện nay là ưu tiên hàng đầu.”
+
+@50809 Killy · キリー
+> 「……しかし、大変なことになっちまった
+>  よな。地球がこんな目にあうなんてよ」
+"...Nhưng một lần nữa, mọi chuyện thực sự rất lớn. Trái đất thực sự đã rơi vào tình trạng này."
+
+@50810 Remy · レミー
+> 「やっぱりこの一件にはドクーガが、
+>  からんでいるのかしら」
+“Đúng là Nanh Độc đứng sau chuyện này phải không?”
+
+@50811 Killy · キリー
+> 「奴らなら、やりかねないな」
+"Những người đó thực sự có thể làm được."
+
+@50812 Shingo · 真吾
+> 「もしそうだとしたら、俺たち
+>  グッドサンダーチームの出番だな」
+“Nếu đã như vậy thì đến lượt Thunder của chúng ta thi đấu.”
+
+@50813 Remy · レミー
+> 「そのことを知るためにも早く
+>  レジスタンス部隊と合流しないとね」
+“Để giải quyết được vấn đề này, chúng ta phải nhanh chóng hợp tác với lực lượng kháng chiến.”
+
+@50814 Killy · キリー
+> 「ん……あれじゃないのか?
+>  噂のレジスタンス部隊とやらは」
+"Chà... không phải vậy sao? Lực lượng tổ chức kháng chiến huyền thoại."
+
+@50815 Remy · レミー
+> 「……違うみたいね。
+>  どうやら敵部隊のお出ましのようね」
+“…Có vẻ như không phải vậy. Có vẻ như quân địch đang đến.”
+
+@50816 Killy · キリー
+> 「奴らを倒さなきゃこれ以上は
+>  先に進めそうもないようだ」
+"Nếu không giết bọn họ, xem ra chúng ta không thể tiến lên."
+
+@50817 Shingo · 真吾
+> 「そんじゃ、出撃しますか」
+"Vậy thì tấn công."
+
+@50818 Shingo · 真吾
+> 「ゴーショーグン、ゴー!」
+"Tướng Hảo, ĐI!"
+
+@50819 Killy · キリー
+> 「まだ『ブロンクスの狼』が
+>  書きあがってないのにね」
+“Tôi vẫn chưa viết xong The Wolf of the Bronx.”
+
+@50820 Shingo · 真吾
+> 「いっちょあがり!」
+"Hãy hoàn thành nó và gọi nó là một ngày!"
+
+@50821 Remy · レミー
+> 「……終わったわね。グッドサンダーチーム
+>  ここにありって感じ!」
+“…Mọi chuyện đã kết thúc. Bây giờ hãy gọi Sấm sét hành động!”
+
+@50822 Killy · キリー
+> 「ああ。これでまた『ブロンクスの狼』
+>  の続きが書けるってもんだ」
+"Ừ. Bây giờ tôi có thể tiếp tục viết lại "The Wolf of the Bronx" rồi."
+
+@50823 Shingo · 真吾
+> 「何いってるんだ。まだ第1章すら
+>  書けていないじゃないか」
+"Bạn đang nói về cái gì vậy? Tôi thậm chí còn chưa viết chương đầu tiên."
+
+@50824 Killy · キリー
+> 「ベストセラーっていうものは、最初の
+>  文章が大事なのよ、わかる?
+“Trong những cuốn sách được gọi là bán chạy nhất, những từ ở đầu là quan trọng nhất, bạn hiểu không?
+---
+>  だからじっくり時間をかけてだね……」
+Vì thế tôi phải dành thời gian để suy nghĩ về điều đó..."
+
+@50825 Remy · レミー
+> 「最初の文章が書けるのは、
+>  もうちょっと先になりそうよ」
+“Có vẻ như tôi sẽ phải đợi một lúc trước khi có thể viết phần mở đầu.”
+
+@50826 Killy · キリー
+> 「ん!?」
+"Hừm! ? "
+
+@50827 Remy · レミー
+> 「レジスタンス部隊が見えてきたわ。
+>  合流するわよ」
+"Đã nhìn thấy quân kháng chiến. Chúng ta hãy đi qua và gặp mặt."
+
+@50828 Killy · キリー
+> 「やれやれ、
+>  ローマは一日にしてならず、だね」
+"Gee, Rome không được xây dựng trong một ngày."

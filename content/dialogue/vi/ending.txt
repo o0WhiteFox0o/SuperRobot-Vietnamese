@@ -1,0 +1,76 @@
+# Các trang văn bản kết thúc (tài nguyên 5570–5576) · vi
+# Lời kết hiển thị từng trang sau trận chiến cuối cùng.
+
+@intro:5570 Kết thúc 1
+> こうして……
+> 長い戦いは、終わりを告げた。
+Cứ như vậy...
+Cuộc chiến trường kỳ cuối cùng đã khép lại.
+
+@intro:5571 Kết thúc 2
+> 後に残されたものは、
+> 疲れ果てた星、疲れ果てた人々、
+> そして……
+> 希望……新しい未来。
+Những gì còn đọng lại,
+là một hành tinh kiệt quệ, những con người mỏi mệt,
+và...
+hy vọng... một tương lai mới.
+
+@intro:5572 Kết thúc 3
+> それを手にするために
+> 戦い続けた若者たちがいた。
+Đã có những người trẻ tuổi
+chiến đấu không ngừng nghỉ để nắm giữ tương lai ấy.
+---
+> 混沌の中にあった未来は、
+> 彼らによって再び希望を与えられ、
+> 輝きを取り戻していくことだろう。
+> 少しずつ。しかし、着実に。
+Tương lai từng chìm trong hỗn loạn,
+đã được họ thắp lại niềm hy vọng,
+và chắc chắn sẽ lấy lại ánh hào quang rực rỡ.
+Từng chút một. Nhưng đầy vững chắc.
+
+@intro:5573 Kết thúc 4
+> そしてきっと、人々は忘れない。
+Và chắc chắn mọi người sẽ không bao giờ quên——
+---
+> たとえどれほど絶望的な状況の中
+> にあっても、未来を信じるかぎり、
+> その想いを力とするかぎり、
+> いつも希望は、
+> そこにあるのだということを。
+Dù có rơi vào hoàn cảnh tuyệt vọng đến thế nào,
+chỉ cần vẫn tin vào tương lai,
+chỉ cần biến niềm tin ấy thành sức mạnh,
+thì hy vọng sẽ luôn luôn
+hiện hữu nơi đó.
+
+@intro:5574 Kết thúc 5
+> きっと忘れない。
+Chắc chắn sẽ không quên——
+---
+> 人の想いの連なりがあるかぎり、
+> 未来の輝きが
+> 失われることはないことを。
+Chỉ cần trái tim con người vẫn gắn kết với nhau,
+ánh hào quang của tương lai
+sẽ không bao giờ vụt tắt.
+
+@intro:5575 Kết thúc 6
+> 戦い疲れた戦士たちは、
+> やがてまた、
+> それぞれの道を歩みだす。
+Những chiến binh mỏi mệt sau bao trận chiến,
+chẳng bao lâu nữa,
+sẽ lại bước tiếp trên con đường riêng của mỗi người.
+---
+> だから……
+> いまはただ、戦士たちに休息を……
+Vì vậy...
+Giờ đây, xin hãy để những chiến binh được nghỉ ngơi...
+
+@intro:5576 Kết thúc Cuối
+> 終
+Hết

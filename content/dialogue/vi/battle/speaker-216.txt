@@ -1,0 +1,132 @@
+# Bản dịch tiếng Việt Super Robot Wars 64
+# Định dạng và vị trí: docs/guide/dialogue-text.md
+
+@7814 Mangelo · マンジェロ
+# Kích hoạt: Tấn công (Chung，1/7）
+> 「くたばれっ!!」
+"Xuống địa ngục đi!!"
+
+@7815 Mangelo · マンジェロ
+# Kích hoạt: Tấn công (Chung，2/7）
+> 「ふははははっ」
+"Huhahahahahaha"
+
+@7816 Mangelo · マンジェロ
+# Kích hoạt: Tấn công (Chung，3/7）
+> 「ひぃやぁぁぁっ!」
+“Heeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeee!”
+
+@7817 Mangelo · マンジェロ
+# Kích hoạt: Tấn công (Chung，4/7）
+> 「ひょうっ!」
+"Phù!"
+
+@7818 Mangelo · マンジェロ
+# Kích hoạt: Tấn công (Chung，5/7）
+> 「あばよっ!!」
+"Tạm biệt!!"
+
+@7819 Mangelo · マンジェロ
+# Kích hoạt: Tấn công (Chung，6/7）
+> 「ぶっ殺してやるっ!!」
+"Giết ngươi!!"
+
+@7820 Mangelo · マンジェロ
+# Kích hoạt: Tấn công (Chung，7/7）
+> 「イィィヤァァァァッ!! 死ねぇっ!!」
+"Eaaaaaaaaaaaaaaaaah!! Xuống địa ngục đi!!"
+
+@7821 Mangelo · マンジェロ
+# Kích hoạt: 被击坠（通用，1/1）
+> 「やめろおぉぉぉぉっ!!」
+"Dừng lại đi ahhhh!!"
+
+@7822 Mangelo · マンジェロ
+# Kích hoạt: 重伤（剩余 HP 不足 30%）（通用，1/4）
+> 「うわあっ!!」
+"Ôi!!"
+
+@7823 Mangelo · マンジェロ
+# Kích hoạt: 重伤（剩余 HP 不足 30%）（通用，2/4）
+> 「うわぁぁぁぁっ!!」
+"Ồhhhhhhhhh!!"
+
+@7824 Mangelo · マンジェロ
+# Kích hoạt: 重伤（剩余 HP 不足 30%）（通用，3/4）
+> 「あ……!? お、俺様の美しい顔が
+>  ……よくも!!」
+"A...!? Sao tôi dám, với khuôn mặt đẹp trai của mình...!!"
+
+@7825 Mangelo · マンジェロ
+# Kích hoạt: 重伤（剩余 HP 不足 30%）（通用，4/4）
+> 「うおぉぉっ、殺してやる!
+>  殺してやる!」
+"Ồ, ồ, giết ngươi! Giết ngươi!"
+
+@7826 Mangelo · マンジェロ
+# Kích hoạt: 中伤（剩余 HP 30–90%）（通用，1/4）
+> 「なにっ!?」
+"Cái gì!?"
+
+@7827 Mangelo · マンジェロ
+# Kích hoạt: 中伤（剩余 HP 30–90%）（通用，2/4）
+> 「えーい、くそぉーっ!!」
+“Chết tiệt, tên khốn——!!”
+
+@7828 Mangelo · マンジェロ
+# Kích hoạt: 中伤（剩余 HP 30–90%）（通用，3/4）
+> 「くそーっ!!」
+“Chết tiệt—! ! "
+
+@7829 Mangelo · マンジェロ
+# Kích hoạt: 中伤（剩余 HP 30–90%）（通用，4/4）
+> 「お、俺にここまでして生き残った
+>  奴はいねぇ!」
+"Không ai có thể sống sót sau khi khiến tôi như thế này!"
+
+@7830 Mangelo · マンジェロ
+# Kích hoạt: 轻伤（剩余 HP 90% 以上）（通用，1/3）
+> 「ヒヤァーッ!!」
+"Hehe-!!"
+
+@7831 Mangelo · マンジェロ
+# Kích hoạt: 轻伤（剩余 HP 90% 以上）（通用，2/3）
+> 「ウハハハハハハハハハ!!」
+"Ưuhahahahahahahahahaha!!"
+
+@7832 Mangelo · マンジェロ
+# Kích hoạt: 轻伤（剩余 HP 90% 以上）（通用，3/3）
+> 「フヘッヘッヘ!!」
+"Huhehehehe!!"
+
+@7833 Mangelo · マンジェロ
+# Kích hoạt: Né tránh（通用，1/2）
+> 「ひょぉぉぉぉっ!!」
+“Ồhhhhhh!!”
+
+@7834 Mangelo · マンジェロ
+# Kích hoạt: Né tránh（通用，2/2）
+> 「計算どおりだぜぇ!」
+"Tất cả đều nằm trong tính toán!"
+
+@7835 Mangelo · マンジェロ
+# Kích hoạt: Tấn công无效（护罩／装甲）（通用，1/1）
+> 「ヒッヒッヒッヒッヒ!!」
+"Hì hì, hì hì!!"
+
+@7836 Mangelo · マンジェロ
+# Kích hoạt: 弹药／EN 不足，无法反击（通用，1/2）
+> 「弾切れとは計算違いだったか!?」
+"Hết đạn à? Cậu tính nhầm à!?"
+
+@7837 Mangelo · マンジェロ
+# Kích hoạt: 弹药／EN 不足，无法反击（通用，2/2）
+> 「エネルギー切れとは計算違い
+>  だったか!?」
+"Hết năng lượng? Bạn tính toán sai rồi à!?"
+
+@7838 Mangelo · マンジェロ
+# Kích hoạt: 射程外，无法反击（通用，1/1）
+> 「射程範囲を計算して
+>  攻撃してくるとは、俺よりできるな!」
+"Ngươi cư nhiên tính toán phạm vi, công kích chính xác, ngươi so với ta càng tốt!"

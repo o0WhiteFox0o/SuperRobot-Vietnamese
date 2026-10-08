@@ -1,0 +1,1398 @@
+# Bản dịch tiếng Việt Super Robot Wars 64
+# Định dạng và vị trí: docs/guide/dialogue-text.md
+
+@47930 Anna · アンナ
+> 「エイジ」
+"Eiji. "
+
+@47931 David · デビッド
+> 「アンナじゃないか。いったいどうしたんだ?」
+"Đây không phải là Anna sao? Chuyện gì đã xảy ra thế? "
+
+@47932 Simone · シモーヌ
+> 「エイジ、あたしたち先に
+>  搬入に行ってるわね
+"Eiji, trước tiên hãy di chuyển mọi thứ.
+---
+>  ほらデビッド、いらっしゃい」
+Thôi nào, David, đi thôi. "
+
+@47933 David · デビッド
+> 「ちょっ、なんだよシモーヌ」
+"Này, cậu đang làm gì vậy, Simone? "
+
+@47934 Simone · シモーヌ
+> 「いいから、くるのよ」
+"Đừng nói nhảm nữa và về đi. "
+
+@47935 David · デビッド
+> 「わかった、わかったからひっぱるなよ」
+“Tôi biết rồi, tôi biết rồi, đừng kéo tôi nữa. "
+
+@47936 Simone · シモーヌ
+> 「じゃエイジ、あとでね」
+"Ồ Eiji, gặp lại sau nhé. "
+
+@47937 Anna · アンナ
+> 「…………」
+“…………”
+
+@47938 Eiji · エイジ
+> 「アンナ……どうしたんだ?」
+"Anna... có chuyện gì vậy?"
+
+@47939 Anna · アンナ
+> 「エイジ……これ、私が部屋で育てて
+>  いた花なの。持って行ってくれる?」
+“Eiji…đây là bông hoa tôi trồng trong phòng. Bạn có thể mang nó đi cho tôi được không? "
+
+@47940 Eiji · エイジ
+> 「……ひな菊だね」
+“…Đó là một bông hoa cúc. "
+
+@47941 Anna · アンナ
+> 「覚えていてくれたの?」
+"Bạn có nhớ không? "
+
+@47942 Eiji · エイジ
+> 「忘れはしないさ。あの時、
+>  俺が生き残れたのも
+"Tôi không thể quên được. Lẽ ra tôi đã có thể sống sót vào thời điểm đó,
+---
+>  きっとこの花のおかげだ。アンナ……
+>  ありがとう。俺はきっと帰ってくる」
+Chắc là nhờ loài hoa này. Anna...cảm ơn bạn. Tôi chắc chắn sẽ quay trở lại. "
+
+@47943 Anna · アンナ
+> 「うん……」
+"Ờ..."
+
+@47944 Amuro · アムロ
+> 「ベル、物資の積み替えは?」
+"Bell, vật tư đã được chuyển đi chưa? "
+
+@47945 Beltorchika · ベルトーチカ
+> 「終わったわよ。ネェルアーガマには
+>  積めるだけ積んだわ。こっちにはもう
+"Xong rồi. Argama Mới có mọi thứ nó có thể mang theo. Chỉ còn lại ở đây
+---
+>  このまま月まで帰るのに必要な
+>  分しか残してないもの。いいんでしょ?」
+Số tiền cần thiết để trở lại mặt trăng. Được không? "
+
+@47946 Amuro · アムロ
+> 「ああ。それでかまわないさ。必要に
+>  なるとしたら連中のほうだからね」
+"Ừ. Sẽ ổn thôi. Nếu cậu thực sự cần thì đó sẽ là những người đó."
+
+@47947 Bright · ブライト
+> 「準備は整ったようだな」
+"Có vẻ như việc chuẩn bị đã sẵn sàng."
+
+@47948 Alan · アラン
+> 「大丈夫だ。いつでも出発できる」
+"Không vấn đề gì. Bạn có thể đi bất cứ lúc nào."
+
+@47949 Duo · デュオ
+> 「ああ。後はガンドール砲の改造が
+>  うまくいってることを祈るだけさ」
+"Đúng. Tôi chỉ có thể cầu nguyện rằng quá trình biến đổi của Gundor Cannon diễn ra suôn sẻ."
+
+@47950 Banjo · 万丈
+> 「はははっ、なにしろガンドール砲を
+>  直接受けるわけだからね
+"Hahaha, dù sao thì cậu cũng phải trực tiếp gánh chịu khẩu pháo Gondor.
+---
+>  失敗してたら大変なことになる」
+Sẽ thật khủng khiếp nếu nó thất bại. "
+
+@47951 Koji · 甲児
+> 「頼むぜ博士」
+“Làm ơn, bác sĩ.”
+
+@47952 Bright · ブライト
+> 「……では、行くとするか」
+“…Vậy thì đi thôi.”
+
+@47953 Amuro · アムロ
+> 「そうだな。博士、発射の用意を」
+"Vâng. Bác sĩ, chuẩn bị phóng."
+
+@47954 Dr. Hazuki · 葉月博士
+> 「うむ。ガンドール砲、発射スタンバイ」
+“Vâng. Pháo Gondor, sẵn sàng khai hỏa.”
+
+@47955 Chan · チェーン
+> 「ガンドール砲、
+>  発射待機状態へ
+"Pháo Gundor chuyển sang chế độ chờ bắn.
+---
+>  エネルギー臨界まであと1分」
+Còn một phút nữa là tới điểm tới hạn năng lượng. "
+
+@47956 Anna · アンナ
+> 「みんな……気をつけてね」
+"Mọi người...hãy cẩn thận."
+
+@47957 Simone · シモーヌ
+> 「アンナ、留守番よろしくね。エイジは
+>  あたしが絶対連れて帰ってくるから」
+"Anna, anh giao việc nhà cho em trông coi. Anh nhất định sẽ đưa Eiji trở về."
+
+@47958 David · デビッド
+> 「シモーヌ、俺はどうでもいいのかよ」
+"Simona, tôi không quan tâm à?"
+
+@47959 Simone · シモーヌ
+> 「あんたもエイジのついでに、
+>  連れて帰ってあげるわよ」
+"Nhân tiện, cậu có thể mang nó về cùng với Eiji. "
+
+@47960 Bright · ブライト
+> 「ではみんな、あとを頼むぞ」
+“Vậy thì mọi người, tôi sẽ giao phần còn lại cho các bạn.”
+
+@47961 Koji · 甲児
+> 「そんじゃちょっくら行ってくるぜ。
+>  宴会の用意して待っててくれよな」
+"Vậy chúng ta sẽ quay lại. Hãy chuẩn bị bữa tiệc và chờ đợi chúng tôi! "
+
+@47962 Amuro · アムロ
+> 「ああ、そうさせてもらうよ」
+"Được rồi, hãy làm đi. "
+
+@47963 Sai Saici · サイ・サイシー
+> 「帰ってきたら、オイラが
+>  腕によりをかけた
+“Khi trở về, tôi sẽ thể hiện kỹ năng của mình.
+---
+>  最高の料理を食わしてやるぜ」
+Hãy để tôi nấu cho bạn bữa ăn ngon nhất. "
+
+@47964 Chibodee · チボデー
+> 「そうさ。だからお前ら、
+>  生きて帰ってこいよ」
+"Đúng vậy. Vì vậy tất cả các bạn phải sống sót trở về."
+
+@47965 Dr. Saotome · 早乙女博士
+> 「こちらでも我々の総力をあげて、
+>  ガンドールの改造を行なう
+“Chúng tôi cũng sẽ nỗ lực hết sức để biến đổi Gondol.
+---
+>  万が一、君たちが
+>  もどってこれなかった場合でも
+Trong trường hợp bạn không thể quay lại,
+---
+>  こちらから迎えに行ける
+>  可能性もある」
+Có lẽ chúng tôi thậm chí có thể đón bạn. "
+
+@47966 Ryoma · リョウ
+> 「ははっ、期待しないで待ってますよ」
+“Haha, vậy thì tôi sẽ không chờ đợi với bất kỳ kỳ vọng nào nữa.”
+
+@47967 Chan · チェーン
+> 「ガンドール砲、エネルギー臨界。
+>  いつでもどうぞ」
+"Pháo Gundor có năng lượng chí mạng. Nó có thể được bắn bất cứ lúc nào."
+
+@47968 Elle · エレ
+> 「みなさん、どうかご無事で」
+"Mọi người, xin hãy quay trở lại an toàn."
+
+@47969 Ciela · シーラ
+> 「みなのご武運を祈っています」
+"Tôi chúc các bạn may mắn trong võ thuật."
+
+@47970 Chum · チャム
+> 「みんな、がんばってね!」
+“Mọi người, cố lên! "
+
+@47971 Shinobu · 忍
+> 「やるぜ、俺たちは。イゴール将軍、
+>  ブレックス准将、みんな見ていてくれ」
+“Chúng tôi sẽ chiến đấu đến cùng. Tướng Eagle, Chuẩn tướng Blakes, mọi người đều lạc quan về điều đó. "
+
+@47972 Ryo · 亮
+> 「これも、運命だな」
+"Đây cũng là cuộc sống."
+
+@47973 Dr. Hazuki · 葉月博士
+> 「……ガンドール砲、発射!」
+“…Pháo Gandor, khai hỏa!”
+
+@47974 Reika · レイカ
+> 「ガンドールからのエネルギー供給、
+>  停止しました
+"Nguồn cung cấp năng lượng của Gondor đã ngừng.
+---
+>  以降は通常推進に
+>  切り替えます」
+Tiếp theo chuyển sang thăng tiến thường xuyên. "
+
+@47975 Bright · ブライト
+> 「そうしてくれ。奇妙なところへ出たな
+>  …ここがムゲの宇宙だというのか……?」
+"Vậy đó. Nơi này thực sự kỳ lạ... Đây có phải là vũ trụ của Moog không...?"
+
+@47976 Banjo · 万丈
+> 「博士の言葉通りなら、我々は
+>  ムゲの宇宙へと入っているはずだが…」
+"Theo bác sĩ, lẽ ra chúng ta phải tiến vào vũ trụ của Moog..."
+
+@47977 Koji · 甲児
+> 「なんだかどこもかしこも、
+>  ゆがんでるような気がするぜ」
+“Tôi luôn cảm thấy mọi thứ đều quanh co.”
+
+@47978 Hayato · ハヤト
+> 「そうだな……星の見え方もおかしいか」
+"Ừ...các ngôi sao cũng có vẻ sai."
+
+@47979 Shinobu · 忍
+> 「チッ、なんて宇宙だよ、ここは」
+"Tsk, đây là loại vũ trụ gì vậy?"
+
+@47980 Sara · 沙羅
+> 「ああ、ここに転移したとたん、
+>  何かゾクッときたよ」
+"Ừ, vừa mới được chuyển đến đây, tôi đã cảm thấy toàn thân đầy lông."
+
+@47981 Masato · 雅人
+> 「脅かさないでよ、沙羅」
+“Đừng làm tôi sợ, Sharo.”
+
+@47982 Ryo · 亮
+> 「いや、沙羅のいう通りだな。ここが
+>  ムゲの宇宙に間違いないだろう」
+"Không, Sharo nói đúng. Đây chắc chắn là vũ trụ của Moog."
+
+@47983 Ark · アーク（按段落 3DD1）
+> 「なぜそう思うんだ、亮?」
+“Tại sao cậu lại nghĩ vậy, Ryo?”
+
+@47984 Selain · セレイン（按段落 3DD2）
+> 「ほう、なぜだ?」
+"Ồ, tại sao?"
+
+@47985 Brad · ブラッド（按段落 3DD3）
+> 「ああ……こいつは普通じゃねぇ。
+>  ビリビリくるみたいだぜ」
+"Hmm...nơi này thật khác thường. Cảm giác như có dòng điện chạy qua vậy."
+
+@47986 Ryoma · リョウ
+> 「どういうことなんだ、
+>  {HeroNick}、亮」
+"Chuyện gì đang xảy ra vậy, {HeroNick}, Ryo?"
+
+@47987 Manami · マナミ（按段落 3DD4）
+> 「どうしてそう思うの?」
+"Tại sao bạn nghĩ như vậy?"
+
+@47988 Ryo · 亮
+> 「何か気配が満ちている。
+>  ひどく邪悪な気配だ」
+"Có một luồng khí nào đó bao quanh nó. Một luồng khí cực kỳ tà ác."
+
+@47989 Bright · ブライト
+> 「そうか……ここがムゲの宇宙だとすれば
+>  どこから敵がくるかわからん
+“Thật sao… Nếu đây là vũ trụ của Moog thì không biết kẻ thù sẽ đến từ đâu.
+---
+>  全員、警戒を怠るな」
+Mọi người đừng mất cảnh giác. "
+
+@47990 Emperor Muge · ムゲ帝王
+> 「…………」
+“…………”
+
+@47991 Death Gaia · デスガイヤー
+> 「帝王様?」
+"Hoàng thượng đại nhân?"
+
+@47992 Emperor Muge · ムゲ帝王
+> 「今……我らの宇宙の……
+>  風が乱れた」
+"Vừa rồi... gió trong vũ trụ của chúng ta đang hỗn loạn."
+
+@47993 Death Gaia · デスガイヤー
+> 「と申されますと?」
+"Ý bạn là?"
+
+@47994 Emperor Muge · ムゲ帝王
+> 「現れおったな」
+"Cuối cùng cũng xuất hiện."
+
+@47995 Death Gaia · デスガイヤー
+> 「なんと!?」
+"Cái gì!?"
+
+@47996 Emperor Muge · ムゲ帝王
+> 「生き物は自らの生きうる
+>  空間をわきまえてこそ
+“Chỉ khi các sinh vật sống nhận ra không gian mà chúng có thể tồn tại,
+---
+>  生きのびることができるのだ。
+>  おのれをわきまえぬ、愚か者どもめ」
+Để tồn tại. Những kẻ ngốc không hiểu biết này. "
+
+@47997 Death Gaia · デスガイヤー
+> 「それでは地球人が、奴らが
+>  この世界に入りこんでいると?」
+"Vậy ý bạn là người Trái đất đã đột nhập vào thế giới này? "
+
+@47998 Emperor Muge · ムゲ帝王
+> 「うむ。だがその勢いもここまでのこと。
+>  奴らはこの宇宙のすべてが
+"Ừm. Nhưng động lực của họ chỉ dừng lại ở đó. Họ sẽ hiểu ngay,
+---
+>  この私自身であるということを、
+>  すぐに思い知るであろう」
+Mọi thứ trong vũ trụ này đều là chính tôi. "
+
+@47999 Death Gaia · デスガイヤー
+> 「ではあれを、あの戦法を!?」
+"Vậy thì hãy sử dụng chiến lược đó! ? "
+
+@48000 Emperor Muge · ムゲ帝王
+> 「うむ。貴様も獲物どもを、
+>  思う存分にかわいがってやれ
+"Ừm. Bạn cũng nên đối xử thật tốt với những con mồi đó.
+---
+>  デスガイヤー、闘技場は
+>  どこを選ぶ?」
+Disgaea, tôi nên chọn đấu trường ở đâu? "
+
+@48001 Death Gaia · デスガイヤー
+> 「闘技場は……
+>  ぜひとも“赤い宇宙”を」
+"Trong đấu trường...hãy chắc chắn chọn 'Vũ trụ đỏ'."
+
+@48002 Emperor Muge · ムゲ帝王
+> 「ふむ、“赤い宇宙”とな?
+>  いいだろう。我が宇宙に眠る
+"Ồ, 'Vũ trụ Đỏ'? Được rồi. Ngủ trong vũ trụ của tôi
+---
+>  悲しき魂どもよ、このムゲゾルバドスの
+>  声に応えよ!」
+Hỡi những linh hồn khốn khổ, hãy đáp lại tiếng nói của Mugh Zolbados của ta! "
+
+@48003 Death Gaia · デスガイヤー
+> 「おぉぉっ!」
+"Ồ ồ ồ!"
+
+@48004 Emperor Muge · ムゲ帝王
+> 「ゆけ、デスガイヤー!
+>  “赤い宇宙”へ!!」
+"Tiến lên, Disgaea! Hãy đến 'Vũ trụ Đỏ'!!"
+
+@48005 Bright · ブライト
+> 「な、なんだ!?」
+"C-Cái gì!?"
+
+@48006 Shinobu · 忍
+> 「うわぁぁっ!」
+"Ồ!"
+
+@48007 Sara · 沙羅
+> 「ちっ、はなから歓迎パレードは
+>  期待してなかったけどさ、こいつは……」
+"Tsk, tôi không mong đợi bất kỳ cuộc diễu hành chào mừng nào, nhưng điều này..."
+
+@48008 Bright · ブライト
+> 「こ、これは……」
+"Cái này, đây là..."
+
+@48009 Shinobu · 忍
+> 「くそっ、いったいここは
+>  どこだってんだよ!?」
+"Chết tiệt, nơi này là cái quái gì vậy!?"
+
+@48010 Sara · 沙羅
+> 「まるで……まるで地獄だね。
+>  死神たちが
+"Nó... nó giống như địa ngục vậy. Thần chết
+---
+>  パーティーでも始めそうだよ」
+Gần như là một bữa tiệc. "
+
+@48011 Duo · デュオ
+> 「ははっ、俺はこんなところじゃ
+>  パーティなんかしたくないけどな」
+"Haha, tôi không muốn tổ chức tiệc ở một nơi như thế này."
+
+@48012 Ryo · 亮
+> 「たどり着いた……ようやく
+>  たどり着いたところが、この地獄か」
+"Đã tốn rất nhiều công sức... đã tốn rất nhiều công sức để đi đến thời điểm này, nhưng điều đang chờ đợi chúng ta lại là địa ngục này. "
+
+@48013 Banjo · 万丈
+> 「まわりには誰もいないようだね」
+“Có vẻ như không có ai xung quanh. "
+
+@48014 Garrison · ギャリソン
+> 「さようですな」
+"Thật vậy."
+
+@48015 Koji · 甲児
+> 「なんだよ、どうなってんだ?」
+"Cái quái gì vậy? Chuyện gì đang xảy ra vậy?"
+
+@48016 Sara · 沙羅
+> 「地獄を見るために戦ってきたんじゃ
+>  ないってのは、間違いないことさ」
+"Chúng tôi không làm việc cật lực chỉ để nhìn thấy địa ngục, đó là điều chắc chắn."
+
+@48017 Ryoma · リョウ
+> 「どうなんだ、ギャリソン?」
+“Mọi việc thế nào rồi, Garrison?”
+
+@48018 Garrison · ギャリソン
+> 「お手上げでございますな。
+>  まったくエネルギー反応がございません」
+“Hãy tha thứ cho tôi vì đã bất lực. Không có phản ứng năng lượng nào được phát hiện cả. "
+
+@48019 Duo · デュオ
+> 「なんてこったぁ」
+"Thật khủng khiếp."
+
+@48020 Sara · 沙羅
+> 「まさか連中、人をこんなところへ
+>  招待しておいて
+"Mấy gã đó sẽ không bao giờ mời người khác tới một nơi như thế này.
+---
+>  自分たちだけ天国でのんびりして
+>  いるなんてこと、ないだろうね」
+Hãy để mình được thoải mái trên thiên đường. "
+
+@48021 Alan · アラン
+> 「……なんだ……?」
+"...Cái gì...?"
+
+@48022 Garrison · ギャリソン
+> 「これは……エネルギー反応が
+>  多数感知されましたぞ」
+"Đây là... phát hiện lượng lớn năng lượng phản ứng! "
+
+@48023 Shinobu · 忍
+> 「ああ、どうやらおいでなすったようだな」
+“Chà, có vẻ như họ đã đến với số lượng rất lớn. "
+
+@48024 Shinobu · 忍
+> 「ヤツか……」
+"Là anh chàng đó..."
+
+@48025 Sara · 沙羅
+> 「あいもかわらず、好きにはなれない
+>  ご面相だね」
+"Vẫn như cũ, nhìn cái mặt này thế nào cũng sẽ không thích."
+
+@48026 Death Gaia · デスガイヤー
+> 「いよいよ来たな。地球人どもよ、
+>  俺はこの日を待っていたぞ!
+“Cuối cùng thì nó cũng đã đến rồi. Các cư dân Trái đất, tôi đã chờ đợi ngày này rồi!
+---
+>  地球での、あの敗北!
+>  あの屈辱を晴らすためになぁ!」
+Chỉ để rửa sạch sự thất bại trên trái đất! Sự sỉ nhục đó! "
+
+@48027 Sara · 沙羅
+> 「冗談じゃないよ! よくも
+>  そんな勝手なことがいえたもんだね」
+"Thật là một trò đùa! Cảm ơn bạn đã có thể nói một điều như vậy! "
+
+@48028 Banjo · 万丈
+> 「ああ、屈辱を晴らすのは僕たちの
+>  方だ。今こそお前たちムゲゾルバドス
+"Đúng vậy, chính chúng ta là người phải gột rửa nỗi nhục. Giờ là lúc đánh bại ngươi, Mugh Zorbados,
+---
+>  を倒し、地球圏の平和を
+>  とりもどす! みんな、行くぞ!」
+Đã đến lúc lấy lại hòa bình trong vòng tròn Trái đất! Mọi người, cố lên! "
+
+@48029 Banjo · 万丈
+> 「世のため人のため地球圏の
+>  平和のため、ムゲゾルバドス帝国の
+"Vì lợi ích của thế giới và hòa bình của Earth Sphere, hãy tiêu diệt Đế chế Mugh Zolbados
+---
+>  野望を打ち砕くダイターン3。
+>  この日輪の輝きを恐れぬのならば
+Titan đầy tham vọng 3. Nếu bạn không sợ ánh sáng rực rỡ của mặt trời này,
+---
+>  かかってこい!」
+Chỉ cần cho ngựa của bạn đi qua! "
+
+@48030 Shinobu · 忍
+> 「おお、やぁぁぁぁってやるぜっ!!」
+"Được rồi, nhìn tôi này! ! "
+
+@48031 Death Gaia · デスガイヤー
+> 「威勢だけはいいようだな。今!
+>  貴様たちをこの赤い地獄の
+"Động lượng khá mạnh. Bây giờ! Tôi sẽ nhấn chìm bạn vào địa ngục đỏ này."
+---
+>  地の底へ、永遠の苦しみの
+>  中へ沈めてくれる! いくぞぉ!!」
+Ở phía dưới, chìm vào nỗi đau vĩnh cửu! Cố lên! ! "
+
+@48032 Shinobu · 忍
+> 「なんだ!? なんかおかしいぜ。
+>  今、体が自由にならなかった」
+"Chuyện gì đang xảy ra vậy!? Có gì đó không ổn. Vừa rồi tôi không thể cử động cơ thể mình được."
+
+@48033 Ryo · 亮
+> 「俺もだ。軽い金縛りに
+>  あったみたいだ」
+"Tôi cũng vậy. Giống như một cú ấn ma nhẹ."
+
+@48034 Masato · 雅人
+> 「まさかあいつ、なんか新しい術を!?」
+"Có phải tên đó đã sử dụng phép thuật mới nào đó không? ? "
+
+@48035 Shinobu · 忍
+> 「くそぉっ、体が重いぜ」
+“Chết tiệt, cơ thể tôi nặng quá. "
+
+@48036 Sara · 沙羅
+> 「……まさか……
+>  この宇宙が何かを……?」
+"...Có thể nào...vũ trụ này đang làm gì đó...? "
+
+@48037 Heero · ヒイロ
+> 「状況は不利……か」
+"Tình thế không ổn..."
+
+@48038 Trowa · トロワ
+> 「ああ……どうやら俺たちの気力が
+>  低下しているようだ」
+“Hmm…có vẻ như sức mạnh của chúng ta đang suy giảm. "
+
+@48039 Death Gaia · デスガイヤー
+> 「クククッ」
+"Hehehe."
+
+@48040 Bright · ブライト
+> 「やったか!?」
+"Đã xong chưa!?"
+
+@48041 Beauty · ビューティ
+> 「本当にやっつけたの?」
+"Thật sự đánh gục hắn?"
+
+@48042 Death Gaia · デスガイヤー
+> 「ハハハハッ、さぁこい。だが、
+>  何度来ても同じことだ」
+"Hahahaha, thôi nào. Nhưng dù bạn đến bao nhiêu lần cũng không thành vấn đề."
+
+@48043 Bright · ブライト
+> 「なんだと!?」
+"Anh vừa nói gì thế!?"
+
+@48044 Garrison · ギャリソン
+> 「お待ちください。このままでは
+>  あの敵には勝てません
+“Xin hãy đợi một lát. Nếu chuyện này tiếp tục, chúng ta sẽ không thể đánh bại kẻ thù đó.
+---
+>  まともに戦ってもこちらのパワーを
+>  吸い取られるだけでしょう」
+Nếu chúng ta chiến đấu trực diện, nó sẽ chỉ làm hao mòn sức lực của chúng ta mà thôi. "
+
+@48045 Reika · レイカ
+> 「なんですって!?」
+"Anh vừa nói gì thế!?"
+
+@48046 Garrison · ギャリソン
+> 「どうやらこの“赤い宇宙”の
+>  中では
+"Có vẻ như trong 'vũ trụ đỏ' này,
+---
+>  そのような仕組みになって
+>  おるようですな」
+Đó là quy luật. "
+
+@48047 Maria · マリア
+> 「そんなぁ! じゃあ、あたしたち
+>  どうやって戦えばいいの!?」
+"Làm sao có thể được! Thế thì chúng ta nên chiến đấu thế nào đây!?"
+
+@48048 Death Gaia · デスガイヤー
+> 「ククククッ、この宇宙にいる限り、
+>  貴様らに勝利はない!」
+"Ha ha, chỉ cần còn lưu lại trong vũ trụ này, ngươi liền không có cơ hội thắng!"
+
+@48049 Duke · デューク
+> 「……どうやら命を捨てる覚悟で
+>  挑むしかないようだな」
+“…Có vẻ như chúng ta chỉ có thể ra trận với hy vọng về cái chết.”
+
+@48050 Koji · 甲児
+> 「待ってくれよ大介さん! みんな
+>  オレたちが帰るのを待ってんだぞ!」
+"Đợi một chút, anh Daisuke! Mọi người vẫn đang đợi chúng ta quay về!"
+
+@48051 Ryo · 亮
+> 「いや……待っていてくれるからこそ、
+>  ここで命をかけられるのかもしれん」
+"Không... chính là bởi vì có người đang đợi chúng ta nên chúng ta mới có thể chiến đấu vì mạng sống ở đây."
+
+@48052 Eiji · エイジ
+> 「それだけの価値はあるということか……」
+“Nói cách khác, có đáng để mạo hiểm mọi thứ vì chuyện này không…”
+
+@48053 David · デビッド
+> 「エイジがいなけりゃ火星でなくしてた
+>  命だ。俺はなんでもやるぜ」
+"Nếu không có Eiji, cuộc đời tôi đã lạc mất trên sao Hỏa. Tôi sẵn sàng làm bất cứ điều gì."
+
+@48054 Takeru · タケル
+> 「デューク、何をすればいいんだ!?」
+"Công tước, chúng ta phải làm gì đây!?"
+
+@48055 Duke · デューク
+> 「よしみんな、まずはもう1度、
+>  ヤツを倒すんだ!」
+"Được rồi, hãy đánh bại tên đó một lần nữa!"
+
+@48056 Death Gaia · デスガイヤー
+> 「フハハハッ、何度やっても
+>  同じことよ!」
+"Hahahaha, dù có đến bao nhiêu lần thì cũng như vậy!"
+
+@48057 Duke · デューク
+> 「いまだ!! ヤツのふところに
+>  飛びこむんだ!」
+"Bây giờ!! Hãy lao vào vòng tay của tên đó!"
+
+@48058 Bright · ブライト
+> 「くっ……なるほど、これでは復活も
+>  できないということか! しかし……」
+“Chà…Tôi hiểu rồi, anh ấy không thể hồi sinh như thế này được! Nhưng..."
+
+@48059 Duke · デューク
+> 「さあどうだ。これでも復活できるか!?」
+"Vậy thì sao. Bạn vẫn có thể hồi sinh như thế này chứ!?"
+
+@48060 Shinobu · 忍
+> 「さぁ、復活できるもんなら
+>  してみやがれ!」
+"Được rồi, nếu có thể, hãy sống lại và cho tôi xem!"
+
+@48061 Banjo · 万丈
+> 「見たかデスガイヤー。
+>  これでも復活できるかな!?」
+"Bạn có thấy Disgaea không? Bạn có thể hồi sinh như thế này không!?"
+
+@48062 Ryoma · リョウ
+> 「デスガイヤー、復活できるものなら
+>  やってみろ!」
+"Desgaia, nếu ngươi có năng lực phục sinh, hãy thử xem!"
+
+@48063 Hayato · ハヤト
+> 「デスガイヤー、貴様もこいつで
+>  最後だぜ!」
+"Desgaia, ngươi xong rồi!"
+
+@48064 Benkei · ベンケイ
+> 「うおおおぉぉぉぉぉぉぉーっ!」
+"Oooohhhhhhh-!"
+
+@48065 Koji · 甲児
+> 「てめぇもこれで終わりだ!」
+"Đó là dành cho các bạn!"
+
+@48066 Sayaka · さやか
+> 「うぅっ……すごいエネルギーだわっ!」
+"Wow... Năng lượng thật tuyệt vời!"
+
+@48067 Boss · ボス
+> 「おわぁぁぁーっ!
+>  こ、これでいいのかよ!?」
+"Oaaaaa——! Chuyện này thực sự ổn chứ!?"
+
+@48068 Heero · ヒイロ
+> 「終わったなデスガイヤー。
+>  お前に未来はない」
+"Mọi chuyện kết thúc rồi, Disgaea. Bạn không còn tương lai nữa."
+
+@48069 Duo · デュオ
+> 「おらおら、死神さまの
+>  目の前で復活できるってんなら
+"Nào, nào, nếu bạn có khả năng hồi sinh trước mặt Thần Chết,
+---
+>  やってもらおうじゃねぇか!」
+Chỉ cần thử nó! "
+
+@48070 Trowa · トロワ
+> 「戦術はこれで完璧だ。
+>  この状態では復活はできない」
+“Chiến thuật cho đến nay vẫn hoàn hảo. Anh ta không thể hồi sinh trong trạng thái này. "
+
+@48071 Wufei · 五飛
+> 「うおぉぉーっ!! 貴様は悪だ!
+>  俺がここでとどめをさしてやる!」
+“Ồ—! ! Bạn thật xấu xa! Tôi sẽ kết thúc bạn ngay tại đây! "
+
+@48072 Rei · レイ
+> 「アラームメッセージ!
+>  現状維持ハ危険!」
+"Tin nhắn cảnh báo! Giữ nguyên hiện trạng là nguy hiểm!"
+
+@48073 Eiji · エイジ
+> 「いいんだレイ。このまま、ここにとどまる!」
+"Không sao đâu Rey. Hãy ở lại đây!"
+
+@48074 David · デビッド
+> 「くっそぉぉーっ、俺だって
+>  このくらいはやってみせるぜ!」
+“Chết tiệt-! Tôi cũng có thể làm được điều này! "
+
+@48075 Simone · シモーヌ
+> 「このぉっ! あたしたちが
+>  こんなところで負けるもんか!」
+"Anh bạn! Làm sao chúng ta có thể thua ở một nơi như thế này!"
+
+@48076 Takeru · タケル
+> 「おぉぉぉぉぉーっ!!」
+"Ồhhhhhh-!!"
+
+@48077 Maria · マリア
+> 「見てて甲児! あたしが
+>  やってみせるわ!」
+"Watch Jia'er! Watch me!"
+
+@48078 主角
+> 「くっ……デスガイヤー、これで最後だ!」
+"Chà... Disgaea, đây là đòn cuối cùng!"
+
+@48079 对手
+> 「くっ……うおぉぉぉぉぉーっ!!」
+"Ờ...ooohhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhh!"
+
+@48080 主角
+> 「おぉぉぉぉーっ! くたばりやがれぇっ!!」
+"Ồ ồ ồ ồ——! Xuống địa ngục đi!!"
+
+@48081 对手
+> 「ぐうぅぅっ! てめぇごときにぃぃぃっ!!」
+“Tuyệt vời! Chỉ cần dựa vào khả năng của bạn! ! "
+
+@48082 主角
+> 「くっ……もたせてみせる!」
+"Chà...tôi chắc chắn sẽ cho cậu xem! "
+
+@48083 对手
+> 「ちぃっ……こいつはたまんねぇぜ……」
+"Tsk...điều này thực sự kinh tởm..."
+
+@48084 对手
+> 「くっ……{HeroName}さん、こ、このまま
+>  では機体が……」
+"Chà... {HeroName}, nếu cứ tiếp tục thế này, cơ thể sẽ..."
+
+@48085 主角
+> 「だめよ{PartnerNick}! 逃げてはだめ!
+>  デスガイヤー……あたしは絶対に
+"Không {PartnerNick}! Chúng ta không thể trốn thoát được! Disgaea... Tôi sẽ không bao giờ
+---
+>  許さないわ! ここで消えなさい!!」
+Hãy để bạn đi! Biến mất ở đây! ! "
+
+@48086 Lawrence · ローレンス
+> 「お、お嬢様、このままでは……」
+"Eldest, eldest lady, if this continues..."
+
+@48087 主角
+> 「だめよローレンス! 逃げてはだめ!
+>  デスガイヤー……あたしは絶対に
+"Không, Lawrence! Anh không thể trốn thoát được! Disgaea... Tôi sẽ không bao giờ
+---
+>  許さないわ! ここで消えなさい!!」
+Hãy để bạn đi! Biến mất ở đây! ! "
+
+@48088 Bright · ブライト
+> 「どういうことだ!?」
+"Chuyện gì đang xảy ra vậy!?"
+
+@48089 Duke · デューク
+> 「奴の機体が再生する前に、
+>  分断したままでエネルギーを
+“Trong khi cơ thể của tên đó chưa tái sinh, hãy để nó ở trạng thái phân chia.
+---
+>  放出させるんです!」
+Giải phóng năng lượng! "
+
+@48090 Bright · ブライト
+> 「……よし、ネェル・アーガマを
+>  デスガイヤーへぶつける!」
+"...Được rồi, đâm Agama Mới vào Disgaea! "
+
+@48091 Bright · ブライト
+> 「くっ……なるほど、これでは復活も
+>  できないということか! しかし……」
+“Chà…Tôi hiểu rồi, anh ấy không thể hồi sinh như thế này được! Nhưng..."
+
+@48092 Death Gaia · デスガイヤー
+> 「なんだと!? な……なんということを!!
+>  エ、エネルギーがぁぁぁぁーっ!!」
+"Cái gì!? Thật ra... thực sự đã làm một việc như vậy!! Năng lượng, năng lượng, ahhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhh về...!!!"
+
+@48093 Bright · ブライト
+> 「終わったか……」
+"Xong rồi à..."
+
+@48094 Reika · レイカ
+> 「こ、今度はなに!?」
+"Cái này, lần này là cái gì! ? "
+
+@48095 Sara · 沙羅
+> 「“赤い宇宙”が……
+>  消えていく……」
+"The 'Red Universe'...is disappearing..."
+
+@48096 Beauty · ビューティ
+> 「な……なぁに、あれ!?」
+"Vậy... đó là cái gì vậy!?"
+
+@48097 Garrison · ギャリソン
+> 「ムゲゾルバドスの城……ですかな」
+“Có lẽ nào là lâu đài của Muge Zolbados…”
+
+@48098 Bright · ブライト
+> 「やっと敵の本拠を突きとめたと
+>  いうことか。みんな、よくがんばってくれた
+“Cuối cùng cũng tìm được hang ổ của kẻ địch. Mọi người, các bạn đã làm rất tốt.
+---
+>  これが最後だ。全力で
+>  あの城を叩く!」
+Đây là trận chiến cuối cùng. Hãy tấn công lâu đài đó bằng tất cả sức mạnh của bạn! "
+
+@48099 Emperor Muge · ムゲ帝王
+> 「愚か者たちが。この私の宇宙の
+>  聖域に踏みこみ
+"Người ngu ngốc. Sao bạn dám bước vào cõi thiêng liêng trong vũ trụ của tôi?
+---
+>  そして私を怒らせてしまったことを、
+>  後悔させてやろう。なぜなら……
+Nếu bạn dám chọc giận tôi, tôi sẽ khiến bạn phải hối hận. Bởi vì...
+---
+>  お前たちが絶対者と考え、
+>  そして時には理想の姿とする
+Những gì bạn coi là tuyệt đối, thậm chí đôi khi là lý tưởng
+---
+>  “神”こそが、この私だからだ」
+‘Chúa’ là chính tôi. "
+
+@48100 Shinobu · 忍
+> 「ちいっ! なんだってんだ、こいつは!?」
+"Tsk! Chuyện quái gì đang xảy ra với anh chàng này vậy!?"
+
+@48101 Ryo · 亮
+> 「なんて威圧感だ……
+>  まるで奴の存在自体が
+“Đó là một cảm giác áp bức mạnh mẽ…nó gần giống như sự tồn tại của anh chàng đó vậy.”
+---
+>  圧力を持っているようだぜ……」
+Giống như bị áp lực vậy…”
+
+@48102 Sara · 沙羅
+> 「この世界、この宇宙そのものが、
+>  あたしたちを押しつぶそうと
+“Thế giới, bản thân vũ trụ, muốn nghiền nát
+---
+>  してるってことかい……だけどさッ!」
+Có phải chúng ta... Nhưng! "
+
+@48103 Emperor Muge · ムゲ帝王
+> 「愚かな……わが悪霊のえじきとなれ」
+"Ngu ngốc... trở thành vật hiến tế cho linh hồn tà ác của ta!"
+
+@48104 Emperor Muge · ムゲ帝王
+> 「この私を相手に、よくやる。だが……」
+"Anh có thể trở thành kẻ thù của tôi. Nhưng..."
+
+@48105 Shinobu · 忍
+> 「なんだと!? くっ……くっそぉぉーっ!!」
+"Cái gì!? Hmm...Chết tiệt -!!"
+
+@48106 Emperor Muge · ムゲ帝王
+> 「無駄なことだ。この宇宙は
+>  この私そのもの。この世界で私を
+"Một hành động vô ích. Vũ trụ này là của tôi. Nếu bạn muốn tiêu diệt tôi trong thế giới này,
+---
+>  滅ぼすことなど、できはせぬ」
+Điều đó là hoàn toàn không thể. "
+
+@48107 Shinobu · 忍
+> 「くっ……奴の後ろに悪霊が
+>  うずまいてるってんなら、俺は祈るぜ
+"Chà...vì có một linh hồn tà ác đằng sau anh chàng đó nên tôi sẽ cầu nguyện.
+---
+>  力を借りるぜ。あの戦いの中で、
+>  死んでいった人たちの力をな!」
+Tôi muốn mượn sức mạnh. Mượn sức mạnh của những người đã chết trong trận chiến đó! "
+
+@48108 Sara · 沙羅
+> 「ああ……あたしも祈るよ……シャピロ、
+>  あんたの力も貸しておくれ!!」
+"Chà... Tôi cũng đến đây để cầu nguyện... Shapiro, cho tôi mượn sức mạnh của bạn nữa nhé!!"
+
+@48109 Emperor Muge · ムゲ帝王
+> 「ぬぅ、この力……この力はなんだ!?
+>  この私の、この私の宇宙を
+"Chà, sức mạnh này... sức mạnh này là gì thế!? Nó muốn đẩy lùi vũ trụ của tôi, của tôi,
+---
+>  私の力を押しもどすだと!?」
+Hãy kìm hãm sức mạnh của tôi! ? "
+
+@48110 Emperor Muge · ムゲ帝王
+> 「なにっ!? うぅぅあぁぁぁぁぁーっっ!!」
+"Cái gì!? Uuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuu"
+
+@48111 Takeru · タケル
+> 「……ムゲを倒したのか……?
+>  ……本当に!?」
+"...Cậu đã đánh bại Moog à...?...Thật sao!?"
+
+@48112 Bright · ブライト
+> 「くっ……」
+"Ờ..."
+
+@48113 Koji · 甲児
+> 「おい、なんかまずいんじゃないのか!?」
+“Này, không phải có chuyện gì xấu sao!?”
+
+@48114 Ryo · 亮
+> 「ムゲの宇宙の最後だ。
+>  奴が死ねば、奴の宇宙も……」
+"Đây là sự kết thúc của vũ trụ Moog. Một khi anh chàng đó chết, vũ trụ của anh ta cũng sẽ..."
+
+@48115 Shinobu · 忍
+> 「ちっ、俺たちも一緒にってわけかよ。
+>  …………まぁいいさ
+“Chậc, chúng ta cũng sẽ chết cùng nhau à?......Quên chuyện đó đi,
+---
+>  ムゲ野郎は俺たちが倒した。
+>  これで地球が救われるってんなら……」
+Chúng ta đã đánh bại tên khốn Moog đó. Nếu điều này có thể cứu được trái đất…”
+
+@48116 Sara · 沙羅
+> 「でもさ……こんなんじゃ、あたしたち、
+>  勝ったなんていえないね……」
+“Nhưng… nếu mọi chuyện kết thúc như thế này thì chúng ta không thể coi là người chiến thắng được…”
+
+@48117 Bright · ブライト
+> 「とにかく全員帰還してくれ。
+>  まだ最後と決まったわけじゃない」
+"Dù sao thì mọi người cũng về trước đi. Chưa chắc đã kết thúc đâu."
+
+@48118 Reika · レイカ
+> 「えっ……これは!?」
+"Ơ... đây là!?"
+
+@48119 Garrison · ギャリソン
+> 「なんと、新しい反応が
+>  出現いたしましたぞ!」
+"Có phản ứng mới!"
+
+@48120 Avie-Lu · アヴィ＝ルー
+> 「そう……まだ最後じゃないヨ。
+>  まだ、アタシがいるからネ」
+"Đúng vậy... vẫn chưa kết thúc. Bởi vì, tôi vẫn ở đây."
+
+@48121 Bright · ブライト
+> 「貴様は……やはりムゲの
+>  仲間だったのか!?」
+"Anh... thực sự là đồng phạm của Moog sao!?"
+
+@48122 Avie-Lu · アヴィ＝ルー
+> 「そんなことはどうでもいいのサ。さあ、
+>  わざわざこんなところまでアンタたちを
+“Không quan trọng chuyện gì xảy ra với loại chuyện đó. Thôi nào, tôi đến đây đặc biệt vì loại nơi này.”
+---
+>  見にやってきたんだ。
+>  まだ終わらせてもらっちゃ困るヨ」
+Nhìn em này, anh không thể để mọi chuyện kết thúc như thế này được. "
+
+@48123 Avie-Lu · アヴィ＝ルー
+> 「すごいネ……まさかもうここまでに
+>  なってるなんて……」
+“Thật kinh ngạc… Không ngờ nó lại phát triển đến mức này…”
+
+@48124 Takeru · タケル
+> 「くっ……やっぱりダメなのか!?」
+“Hmm… Chắc chắn rồi, nó vẫn không hoạt động! ? "
+
+@48125 Avie-Lu · アヴィ＝ルー
+> 「……いけないネ……ムゲの宇宙は
+>  もうダメみたいだ。アンタたち
+"...Không thể nào...vũ trụ của Moog dường như đã kết thúc. bạn
+---
+>  こんなところで空間の裂けめに
+>  飲みこまれて死ぬんじゃないヨ
+Đừng để bị vết nứt không gian nuốt chửng và chết ở một nơi như thế này.
+---
+>  それじゃあ、面白くないからネ……」
+Trong trường hợp đó, nó sẽ không vui chút nào…”
+
+@48126 Bright · ブライト
+> 「わざわざ我々を
+>  やるまでもないということか……」
+“Điều này có nghĩa là cô ấy không cần phải tự mình chăm sóc chúng ta…”
+
+@48127 Garrison · ギャリソン
+> 「確かに……結局、帰るすべは
+>  見つかりませんでしたな」
+"Quả nhiên... Cuối cùng, ta cũng không tìm được đường quay về."
+
+@48128 Bright · ブライト
+> 「まだあきらめたわけじゃない! 全機、
+>  急いでもどれ! 発進するぞ!」
+"Tôi vẫn chưa bỏ cuộc! Mọi người trên tàu nhanh chóng quay trở lại tàu! Chúng ta sắp khởi hành rồi!"
+
+@48129 Reika · レイカ
+> 「艦長、発進って……どこへ!?」
+"Đội trưởng, đi thôi...đi đâu! ? "
+
+@48130 Bright · ブライト
+> 「どこだっていい!
+>  とにかく、動くんだよ!」
+“Nơi nào cũng được! Dù sao đi nữa, hãy di chuyển! "
+
+@48131 Avie-Lu · アヴィ＝ルー
+> 「すごいネ……まさかもう
+>  ここまでになってるなんて……」
+“Thật kinh ngạc… Không ngờ nó lại phát triển đến mức này…”
+
+@48132 Takeru · タケル
+> 「くっ……なんて強さだ……」
+"Ừm...mạnh quá..."
+
+@48133 Avie-Lu · アヴィ＝ルー
+> 「おっと、いけないネ……ムゲの宇宙は
+>  もうダメみたいだ。アンタたち
+“Rất tiếc, không thể nào… vũ trụ của Moog dường như đã kết thúc. bạn
+---
+>  こんなところで空間の裂けめに
+>  飲みこまれて死ぬんじゃないヨ
+Đừng để bị vết nứt không gian nuốt chửng và chết ở một nơi như thế này.
+---
+>  それじゃあ、面白くないからネ……」
+Trong trường hợp đó, nó sẽ không vui chút nào…”
+
+@48134 Bright · ブライト
+> 「わざわざ我々を
+>  やるまでもないということか……」
+“Điều này có nghĩa là cô ấy không cần phải tự mình chăm sóc chúng ta…”
+
+@48135 Garrison · ギャリソン
+> 「確かに……結局、帰るすべは
+>  見つかりませんでしたな」
+"Quả nhiên... Cuối cùng, ta cũng không tìm được đường quay về."
+
+@48136 Bright · ブライト
+> 「まだあきらめたわけじゃない! 全機、
+>  急いでもどれ! 発進するぞ!」
+"Tôi vẫn chưa bỏ cuộc! Mọi người trên tàu nhanh chóng quay trở lại tàu! Chúng ta sắp khởi hành rồi!"
+
+@48137 Reika · レイカ
+> 「艦長、発進って……どこへ!?」
+"Đội trưởng, đi thôi...đi đâu! ? "
+
+@48138 Bright · ブライト
+> 「どこだっていい!
+>  とにかく、動くんだよ!」
+“Nơi nào cũng được! Dù sao đi nữa, hãy di chuyển! "
+
+@48139 Ark · アーク（按段落 3DD1）
+> 「くっ……」
+"Ờ..."
+
+@48140 Beauty · ビューティ
+> 「気がついた?」
+"Bạn tỉnh rồi à?"
+
+@48141 Ark · アーク（按段落 3DD1）
+> 「どうやら……
+>  まだ生きているみたいだな……」
+"Có vẻ như...tôi vẫn còn sống..."
+
+@48142 Ehrlich · エルリッヒ（按段落 3DD1）
+> 「……これが生きているといえるならば、
+>  だが……」
+“…Nếu điều này có thể được coi là sống…”
+
+@48143 Ryo · 亮
+> 「さてな……これが生きていると
+>  いえるのかどうか」
+"Ai biết được...điều này có được coi là sự sống hay không."
+
+@48144 Duo · デュオ
+> 「ここがあの世じゃないってんならな。
+>  でもよ、まわりを見てみろよ
+"Tiền đề là đây không phải là thế giới ngầm. Nhưng hãy nhìn xung quanh,
+---
+>  何にもないんだぜ?」
+Không có gì à? "
+
+@48145 Ark · アーク（按段落 3DD1）
+> 「何も……ない? 俺たちは
+>  もとの世界にもどれたわけじゃないのか」
+"Không có gì... Chẳng phải chúng ta đã trở lại thế giới ban đầu rồi sao?"
+
+@48146 Ryoma · リョウ
+> 「ああ……これでは
+>  あの世のほうがマシかもな
+"Đúng... Từ góc nhìn này, thế giới ngầm có lẽ sẽ tốt hơn.
+---
+>  あの世ならまだ俺たちの
+>  宇宙のはずだからな」
+Suy cho cùng thì ít nhất thế giới ngầm vẫn còn tồn tại trong vũ trụ của chúng ta. "
+
+@48147 Alan · アラン
+> 「気がついたか」
+"Anh tỉnh rồi."
+
+@48148 Selain · セレイン（按段落 3DD2）
+> 「ここは……私はムゲの宇宙で……
+>  そうか、気絶していたのか」
+"Đây là... Tôi đang ở trong vũ trụ của Moog... Nhân tiện, tôi đã bất tỉnh."
+
+@48149 Rish · リッシュ（按段落 3DD2）
+> 「そういうこった。ま、お前のことだ。
+>  心配はしてなかったけどな」
+"Chính là vậy. Được rồi, nếu là cậu thì tôi cũng không lo lắng gì cả."
+
+@48150 Alan · アラン
+> 「そうだ」
+"Đúng vậy."
+
+@48151 Selain · セレイン（按段落 3DD2）
+> 「どうやら我々はまだ
+>  生きているようだが……どうなった?」
+"Có vẻ như chúng ta vẫn còn sống...tình hình thế nào?"
+
+@48152 Duo · デュオ
+> 「生きてるったってなぁ、
+>  ここがあの世だっていわれても
+"Còn sống là còn sống, nhưng ngay cả khi ai đó nói đây là thế giới ngầm,
+---
+>  俺はちっとも驚かないぜ。
+>  艦の外を見てみろよ」
+Tôi không ngạc nhiên chút nào. Đi ra ngoài tàu và nhìn xem. "
+
+@48153 Selain · セレイン（按段落 3DD2）
+> 「艦の……外?」
+"Bên ngoài tàu?"
+
+@48154 Eiji · エイジ
+> 「ああ……何もない。俺たちは
+>  虚空に取り残された」
+"Ừ...không có gì cả. Chúng ta đang bị mắc kẹt trong khoảng không."
+
+@48155 Ryoma · リョウ
+> 「これでは、あの世のほうが
+>  まだマシかもな……」
+"Có vẻ như thế giới ngầm sẽ tốt hơn..."
+
+@48156 Brad · ブラッド（按段落 3DD3）
+> 「ぐっ……」
+"Ờ..."
+
+@48157 Kurtz · カーツ（按段落 3DD3）
+> 「フン、気づいたようだな」
+"Hừm, dậy đi."
+
+@48158 Brad · ブラッド（按段落 3DD3）
+> 「{PartnerNick}か……この俺が
+>  気絶するとは、ふがいない」
+"Đó là {PartnerNick}... Tôi thực sự đã ngất đi. Nó thực sự vô dụng."
+
+@48159 Koji · 甲児
+> 「おっ、気づいたようだな。
+>  大丈夫かよ?」
+"Ồ, cậu tỉnh rồi. Cậu ổn chứ?"
+
+@48160 Brad · ブラッド（按段落 3DD3）
+> 「甲児か……この俺が
+>  気絶するとは、ふがいない」
+"Là Gia Nhi... Ta thật sự ngất đi, thật sự vô dụng."
+
+@48161 Sayaka · さやか
+> 「しかたないわよ。
+>  みんなそうだったんだもの
+"Không có gì lạ. Mọi người đều như vậy.
+---
+>  甲児くんだって、
+>  ついさっき気がついたのよ」
+Giai Nhi cũng vừa mới tỉnh. "
+
+@48162 Koji · 甲児
+> 「ちぇっ、いわなきゃわかんないものを」
+"Chậc, mọi người sẽ không biết nếu tôi không nói cho cậu biết. "
+
+@48163 Brad · ブラッド（按段落 3DD3）
+> 「それより、どうなった?
+>  どうやら死んじゃあいないようだが」
+“So với cái này, tình huống thế nào? Có vẻ như chúng ta chưa chết. "
+
+@48164 Koji · 甲児
+> 「それがなあ……」
+"Ờ..."
+
+@48165 Banjo · 万丈
+> 「まわりには何もない。僕たちは、
+>  虚空に浮かんでいる状態だ」
+"Xung quanh chẳng có gì cả. Chúng ta đang lơ lửng trong khoảng không."
+
+@48166 Brad · ブラッド（按段落 3DD3）
+> 「虚空……? 悪い、
+>  もっとわかりやすくいってくれよ」
+"Void...? Xin lỗi, xin hãy nói rõ hơn."
+
+@48167 Manami · マナミ（按段落 3DD4）
+> 「うっ……」
+"Ờ..."
+
+@48168 Lawrence · ローレンス
+> 「大丈夫でございますか、お嬢様」
+"Cô ổn chứ, thưa cô?"
+
+@48169 Manami · マナミ（按段落 3DD4）
+> 「ローレンス……みんな……
+>  あたし、気絶していたのね……」
+"Lawrence...mọi người...tôi vừa bất tỉnh..."
+
+@48170 Aisha · アイシャ（按段落 3DD4）
+> 「まったく、だらしのないことですわね」
+“Thật sự, nó quá đáng thất vọng. "
+
+@48171 Manami · マナミ（按段落 3DD4）
+> 「ごめん、{PartnerNick}。でも……
+>  少なくともまだ生きてはいる
+"Xin lỗi, {PartnerNick}. Nhưng... ít nhất chúng tôi còn sống,
+---
+>  ということね。どうなったの?」
+Đúng. Tình hình thế nào rồi? "
+
+@48172 Aisha · アイシャ（按段落 3DD4）
+> 「それは、わたくしの方が聞きたいくらい
+>  ですわ」
+"Đó là điều tôi muốn hỏi."
+
+@48173 Lawrence · ローレンス
+> 「さようで」
+"Chính xác. "
+
+@48174 Manami · マナミ（按段落 3DD4）
+> 「では、少なくともまだ生きてはいる
+>  ということね。どうなったの?」
+"Chà, ít nhất chúng ta còn sống. Mọi chuyện thế nào rồi?"
+
+@48175 Banjo · 万丈
+> 「まわりには何もない。僕たちは、
+>  虚空に浮かんでいる状態だ」
+"Xung quanh chẳng có gì cả. Chúng ta đang lơ lửng trong khoảng không."
+
+@48176 Manami · マナミ（按段落 3DD4）
+> 「虚空……? そう……
+>  もとの宇宙へもどれたわけではないのね」
+"Hư không...? Vậy thôi...chúng ta không thể quay lại vũ trụ ban đầu."
+
+@48177 Garrison · ギャリソン
+> 「葉月博士がおっしゃられていた、
+>  我々の宇宙へもどれない状態
+“Có vẻ như điều mà Tiến sĩ Hazuki nói là không có cách nào để quay trở lại trạng thái vũ trụ của chúng ta.
+---
+>  ということのようですな。時間の
+>  流れすら、私どもの宇宙とは
+Ngay cả thời gian trôi qua cũng có thể
+---
+>  違うかもしれません」
+Khác với vũ trụ của chúng ta. "
+
+@48178 Masato · 雅人
+> 「それがわかったからって、
+>  俺たちには何にもできないけどね」
+"Ngay cả khi chúng tôi hiểu điều này, chúng tôi cũng không thể làm gì được."
+
+@48179 Shinobu · 忍
+> 「生きてるだけ、上等さ」
+“Thật tốt khi còn sống. "
+
+@48180 Alan · アラン
+> 「そう思う。ガンドールの
+>  改造が終われば
+"Tôi cũng nghĩ vậy. Khi quá trình biến đổi của Gondor hoàn tất,
+---
+>  仲間たちが迎えに来てくれる
+>  かもしれん。いまはただ、待つしかない」
+Có lẽ bạn đồng hành của chúng tôi sẽ đến đón chúng tôi. Bây giờ chúng ta chỉ có thể chờ đợi. "
+
+@48181 Heero · ヒイロ
+> 「連中がくるまで
+>  生きていられればの話だがな
+“Chỉ khi chúng ta sống sót cho đến khi họ tới.
+---
+>  そう長い間生きていけるだけの
+>  物資はないはずだ」
+Chúng tôi không có nguồn cung cấp để tồn tại lâu như vậy. "
+
+@48182 Simone · シモーヌ
+> 「ヒイロ、あんたなんでそんな
+>  悲観的な見方しかできないのよ」
+"Hiro, tại sao cậu luôn nghĩ đến điều tồi tệ nhất vậy?"
+
+@48183 Heero · ヒイロ
+> 「現実的なだけだ」
+"Tôi chỉ thực tế thôi."
+
+@48184 Duo · デュオ
+> 「やだやだ。こういう時は
+>  もっと楽天的な奴と
+“Tôi không chịu nổi, những lúc như thế này nên nói chuyện với những người lạc quan
+---
+>  一緒にいたいもんだぜ」
+Chỉ cần ở bên nhau. "
+
+@48185 Maria · マリア
+> 「たとえば甲児や忍みたいな、ね」
+"Ví dụ như Ka'er và Shinobu, phải không. "
+
+@48186 Ryo · 亮
+> 「フッ、論理的な人間よりも、
+>  忍たちのような
+“Hừm, tôi không ngờ rằng so với những người bình thường, tôi có thể chịu đựng được kiểu hành xử như vậy của họ.
+---
+>  単純なおつむがありがたいとはな」
+Một cái đầu đơn giản sẽ đáng yêu hơn. "
+
+@48187 Banjo · 万丈
+> 「ははははっ。まあともかく、
+>  待つしかできないというのは事実だ
+"Hahahaha. Nói chung, chúng ta thực sự chỉ cần chờ đợi.
+---
+>  とりあえず腹ごしらえでも
+>  しようじゃないか」
+Hãy lấp đầy dạ dày của chúng ta trước. "
+
+@48188 Trowa · トロワ
+> 「正論だな」
+"Đúng vậy. "
+
+@48189 Koji · 甲児
+> 「そうしようぜ。なぁに、のんびりしてりゃ
+>  そのうち連中が来てくれるさ
+"Cứ làm đi. Sợ gì cơ? Cứ thong thả chờ đợi. Những kẻ đó sớm muộn gì cũng sẽ đến.
+---
+>  大丈夫だよ、大丈夫」
+Không sao đâu, không sao đâu. "
+
+@48190 Duo · デュオ
+> 「そうそう、そういう言葉が
+>  聞きたいんだよな」
+“Ừ, đó chính là điều tôi muốn nghe.”
+
+@48191 Sara · 沙羅
+> 「違いないね。じゃ
+>  みんなで食堂にでも行くかい」
+"Đúng vậy. Vậy chúng ta cùng nhau đến nhà ăn nhé."

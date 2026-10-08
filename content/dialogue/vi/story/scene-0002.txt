@@ -1,0 +1,729 @@
+# Bản dịch tiếng Việt Super Robot Wars 64
+# Định dạng và vị trí: docs/guide/dialogue-text.md
+
+@17503 Ark · アーク（本话主角）
+> 「オレンジが手に入らなかったのは
+>  予定外だったな
+“I didn’t get any oranges, which I didn’t expect.
+---
+>  エミリア、怒るだろうなぁ……。
+>  でも、しかたないよな
+Emilia chắc chắn sẽ tức giận…nhưng cô chẳng thể làm gì được.
+---
+>  かわりにチーズも手に入ったし……」
+May mắn thay, chúng tôi còn có pho mát…”
+
+@17504 Ark · アーク（本话主角）
+> 「なんだ……?」
+"Chuyện gì đang xảy ra vậy...?"
+
+@17505 Ark · アーク（本话主角）
+> 「うわぁぁーっ!! て、帝国軍!?
+>  は……はやく戻らなくちゃ!」
+"Whaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaa turnbrebrebrebrebre note with undercue withmor withmor withmor withmor with pass with with respect with With With With With With With With With With With With With With With With With With With With With With Witholol out out out out out out out out out out( back off back tacks on smuts outsssssssssssssssssssssssssssssssssssssssssssssssssssssssssssssssssssssssssssssssssssssssssssssssssssssssssssssssssssssssssssssssssssssssssssssssssssssssssssssssssssssssssssssssssssssssssssssssssssssssssssssssssssssssssssssssss vào điểm giới hạn dấu vết giới hạn giới hạn giới hạn dấu vết giới hạn!
+
+@17506 Specials · スペシャルズ
+> 「{PartnerSurname}特尉」
+"{PartnerSurname} Trung úy."
+
+@17507 Ehrlich · エルリッヒ（本话主角的对手）
+> 「場所は確認できたか?」
+“Địa điểm đã được xác nhận chưa?”
+
+@17508 Specials · スペシャルズ
+> 「はい。しかし……」
+"Ừ. Nhưng..."
+
+@17509 Ehrlich · エルリッヒ（本话主角的对手）
+> 「どうした?」
+"Có chuyện gì thế?"
+
+@17510 Specials · スペシャルズ
+> 「どうも正規軍の無人機が
+>  出ているようです。当該地域に
+“Có vẻ như máy bay không người lái của quân đội chính quy đã được điều động. Khu vực đó
+---
+>  コードCが発令されています」
+Lệnh C đã được ban hành. "
+
+@17511 Ehrlich · エルリッヒ（本话主角的对手）
+> 「バカな。無人機にコードCでは、
+>  無差別攻撃と同じではないか
+"Thật ngớ ngẩn. Sự khác biệt giữa việc để máy bay không người lái thực hiện lệnh C và tấn công bừa bãi là gì?
+---
+>  ゲリラ掃討のためとはいえ、
+>  それでは何も残らん」
+Even if it was to wipe out the guerrillas, it would raze everything to the ground. "
+
+@17512 Specials · スペシャルズ
+> 「このところかなり多くなってますね。
+>  どうしますか?」
+"Chuyện như vậy gần đây càng ngày càng xảy ra, ngươi cảm thấy chúng ta nên làm như thế nào?"
+
+@17513 Ehrlich · エルリッヒ（本话主角的对手）
+> 「追跡していた試作機の行方が
+>  そこだというのなら、いくしかなかろう?
+"Since the trial machine we are tracking is there, we have no choice but to go, right?
+---
+>  それに、我々もこの任務のために
+>  それなりの権限が与えられている
+Hơn nữa, đối với nhiệm vụ này, chúng tôi đã được cấp trên trao quyền đáng kể.
+---
+>  間に合えば無人機の攻撃を
+>  抑制することもできよう
+Nếu bạn có thể làm điều đó kịp thời, bạn có thể ngăn chặn máy bay không người lái.
+---
+>  放っておけば住人も全滅するぞ」
+Nếu để yên, cư dân ở đó sẽ bị đuổi ra ngoài và bị tiêu diệt. "
+
+@17514 Specials · スペシャルズ
+> 「了解です。無人機は容赦が
+>  ありませんからね」
+"Đã hiểu. Máy bay không người lái sẽ không tỏ ra thương xót đâu."
+
+@17515 Guerrilla · ゲリラ
+> 「くそっ、帝国めッ!
+>  散開して迎撃しろ!!」
+"Chết tiệt, đế quốc chết tiệt! Hãy tản ra và tấn công!!"
+
+@17516 Guerrilla · ゲリラ
+> 「ちっ……だめかな、こいつは。
+>  ……ん?」
+"Tsk... Tôi sợ thứ này không còn tác dụng nữa. ... Hả?"
+
+@17517 Ark · アーク（按段落 3DD1）
+> 「はぁっ、はぁっ、みんな、はやく!!」
+"Ha, ha, mọi người, nhanh lên!!"
+
+@17518 Guerrilla · ゲリラ
+> 「くっ……逃げ遅れた連中か!」
+"A... Còn có người chưa trốn thoát!"
+
+@17519 Ark · アーク（按段落 3DD1）
+> 「うわぁぁぁぁぁーっ!!」
+"Aaahhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhh"
+
+@17520 Guerrilla · ゲリラ
+> 「しまった!? くっ……」
+"Ối!? À..."
+
+@17521 Guerrilla · ゲリラ
+> 「坊や、おい坊や、生きてるか!?
+>  早く逃げるんだ!」
+"Cậu bé, cậu bé, cậu vẫn còn sống à!? Chạy đi!"
+
+@17522 Ark · アーク（按段落 3DD1）
+> 「う……あ……
+>  み、みんなは……?」
+"Uh...ah...lớn, mọi người đâu rồi...?"
+
+@17523 Guerrilla · ゲリラ
+> 「残念だが……瓦礫の下だろう
+“Đáng tiếc... Tôi e rằng bọn họ đều bị chôn vùi dưới đống đổ nát.
+---
+>  くそっ帝国め、見境いなしに
+>  攻撃してやがる
+Chết tiệt, đế chế chết tiệt, chiến đấu với bất cứ thứ gì bạn thấy.
+---
+>  おい坊や、何をしてる!?」
+Này cậu bé, cậu đang làm gì vậy! ? "
+
+@17524 Ark · アーク（按段落 3DD1）
+> 「……おばさん、おばさん! おじさん!?」
+"...Dì, dì! Chú!?"
+
+@17525 Guerrilla · ゲリラ
+> 「バカなことはやめて早く逃げろ!
+>  お前も死ぬぞ!!」
+"Đừng làm điều gì ngu ngốc, chạy đi! Bạn cũng sẽ chết!!"
+
+@17526 Ark · アーク（按段落 3DD1）
+> 「エミリア!
+>  返事をしてくれ、エミリア!!」
+"Emilia! Trả lời tôi đi, Emilia!!"
+
+@17527 Guerrilla · ゲリラ
+> 「やめろ坊や!
+>  みんな死んじまってる!」
+"Đừng đi, nhóc! Mọi người đều chết cả!"
+
+@17528 Guerrilla · ゲリラ
+> 「くっ!!」
+"Ờ!!"
+
+@17529 Ark · アーク（按段落 3DD1）
+> 「エミリア……なんで……なんで……」
+"Emilia...tại sao...tại sao..."
+
+@17530 Ark · アーク（按段落 3DD1）
+> 「あ、あんたたちがこんな所で戦争
+>  なんて始めるからっ!
+"Tất cả là do cậu gây chiến ở một nơi như thế này!
+---
+>  うあぁぁぁぁっ!」
+Uaaaaaaaaaaaaaaaaaaaaaaaa! "
+
+@17531 Guerrilla · ゲリラ
+> 「……すまんな、坊や。
+>  だが言い訳をするわけじゃないが、
+“…Tôi xin lỗi, nhóc. Nhưng tôi không bào chữa đâu.
+---
+>  奴らは、はなからこの町が
+>  狙いだったんだ
+Những kẻ đó đã đến thị trấn này ngay từ đầu.
+---
+>  皆殺しにするつもりだったのさ。
+>  あの無人機をみりゃわかる
+Chỉ để giết tất cả mọi người. Chỉ cần nhìn vào những chiếc máy bay không người lái đó.
+---
+>  奴らのやり方は3年前から
+>  少しもかわっちゃいない」
+Cách tiếp cận của họ không hề thay đổi từ ba năm trước đến nay. "
+
+@17532 Ark · アーク（按段落 3DD1）
+> 「うぅっ……うっ……」
+"Ồ... Ầm..."
+
+@17533 Guerrilla · ゲリラ
+> 「逃げろ坊や。
+>  俺たちはもう長くは持たない
+“Chạy đi, cậu bé. Chúng ta sẽ không trụ được lâu đâu.
+---
+>  頼む、せめて君だけでも
+>  逃げてくれ!」
+Làm ơn, ít nhất bạn phải sống sót trốn thoát! "
+
+@17534 Guerrilla · ゲリラ
+> 「くっそぉぉぉーっ!!」
+"Chết tiệt!"
+
+@17535 Ark · アーク（按段落 3DD1）
+> 「うわっっ!」
+"Ồ!!"
+
+@17536 Ark · アーク（按段落 3DD1）
+> 「ひっ!?」
+"Ơ!?"
+
+@17537 Ark · アーク（按段落 3DD1）
+> 「う……ううっ……」
+"Ồ... Ầm..."
+
+@17538 Ark · アーク（按段落 3DD1）
+> 「なんで……なんで……」
+"Tại sao... tại sao..."
+
+@17539 Ark · アーク（按段落 3DD1）
+> 「うわあぁぁぁぁぁーっっ!!」
+"Aaahhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhh"
+
+@17540 Ark · アーク（按段落 3DD1）
+> 「うぅっ……」
+"Ồ..."
+
+@17541 Ark · アーク（按段落 3DD1）
+> 「……ちくしょう……なんで……」
+"...Chết tiệt...tại sao..."
+
+@17542 Ark · アーク（按段落 3DD1）
+> 「くっ…………!?
+"Ờ...!?
+---
+>  うわっ、な……なんだ!?
+>  中にもいるのか!?」
+Wow, cái...cái gì! ? Có ai ở bên trong không? ? "
+
+@17543 Ark · アーク（按段落 3DD1）
+> 「違う……こいつ……
+>  レジスタンスの……?」
+"Không...anh chàng này...đến từ tổ chức kháng chiến...?"
+
+@17544 Ark · アーク（按段落 3DD1）
+> 「シ……システムが生きてる……?
+>  これ……どうやって……」
+"Hệ thống...hệ thống vẫn có thể sử dụng được...? Làm sao...tôi có thể làm được việc này..."
+
+@17545 Ark · アーク（按段落 3DD1）
+> 「う、動くのか!?
+“Có thể, bạn có thể di chuyển được không!?
+---
+>  動作モード……市街戦……
+>  セミオート?
+Chế độ vận hành...chiến đấu trên đường phố...bán tự động?
+---
+>  このディスプレイに出てるのは
+>  操作ガイダンスなのか……」
+Các hướng dẫn vận hành có được hiển thị trên màn hình không..."
+
+@17546 Ark · アーク（按段落 3DD1）
+> 「ちくしょう!! どうせ死ぬんなら、
+>  1機くらいはっ!!」
+"Chết tiệt!! Dù sao thì họ cũng sẽ chết, ít nhất hãy giết một người!!"
+
+@17547 Ark · アーク（按段落 3DD1）
+> 「うわぁぁーっ!
+>  動け、動けよ!」
+"Uwaaah——! Di chuyển, di chuyển nhanh lên!"
+
+@17548 Ark · アーク（按段落 3DD1）
+> 「はぁっはぁっはぁっ
+>  ……やった……のか……?」
+"Ha, ha, ha... ngươi đã giết...?"
+
+@17549 Ark · アーク（按段落 3DD1）
+> 「く……くそぉぉーっ!!」
+"Thật...đáng ghét——!!"
+
+@17550 Ark · アーク（本话主角）
+> 「なんで……」
+"Tại sao..."
+
+@17551 Specials · スペシャルズ
+> 「ひと足遅かったようですね」
+"Có vẻ như đã muộn một bước rồi."
+
+@17552 Ehrlich · エルリッヒ（按段落 3DD1）
+> 「うむ……ひどい有り様だ。帝国の
+>  無人機などに好きにやらせるから、
+“Chà… thật là khốn nạn. Hãy để máy bay không người lái của đế quốc muốn làm gì thì làm.
+---
+>  非武装の市民まで巻き添えに
+>  なる」
+Chỉ khi đó, ngay cả những thường dân không có vũ khí cũng phải chịu đau khổ. "
+
+@17553 Specials · スペシャルズ
+> 「レジスタンスは、ほぼ壊滅
+>  したようですが、どうしますか?」
+"Tổ chức kháng chiến dường như đã gần như bị tiêu diệt. Chúng ta nên làm gì đây?"
+
+@17554 Ehrlich · エルリッヒ（按段落 3DD1）
+> 「ケガ人の救助を優先しろ……
+>  いや、待て。あれは……ソルデファーか
+“Ưu tiên cứu người bị thương… Không, chờ đã. Đó là… Soldifa?
+---
+>  やはりレジスタンスの手に
+>  渡っていたな」
+Quả nhiên rơi vào tay tổ chức kháng chiến. "
+
+@17555 Ark · アーク（按段落 3DD1）
+> 「ま、まだいる!? うぅ……
+>  やっぱりだめなのか……ちくしょう
+“Vẫn còn kẻ thù!? Ugh... Nó thực sự không có tác dụng... Chết tiệt.
+---
+>  エミリア……俺もすぐいくから……」
+Emilia...tôi sẽ đi với bạn ngay bây giờ..."
+
+@17556 Ehrlich · エルリッヒ（按段落 3DD1）
+> 「聞こえるか、そこのパイロット。
+>  残っているのは貴君だけだ
+“Anh có nghe thấy tôi không, phi công đằng kia? Anh là người duy nhất còn sống.
+---
+>  無益な戦いはやめ、投降したまえ」
+Hãy ngừng chống cự vô ích và đầu hàng. "
+
+@17557 Ark · アーク（按段落 3DD1）
+> 「……人の声!? だ、誰がっ!」
+"...Giọng nói của con người!? Đó là ai!"
+
+@17558 Ehrlich · エルリッヒ（按段落 3DD1）
+> (……若いな、あのパイロット……)
+(...Anh còn quá trẻ, người phi công đó...)
+
+@17559 Ehrlich · エルリッヒ（按段落 3DD1）
+> 「少年、私の任務はレジスタンスに
+>  強奪された試作機の回収
+"Chàng trai trẻ, nhiệm vụ của tôi là thu hồi chiếc máy nguyên mẫu đã bị tổ chức kháng chiến đánh cắp.
+---
+>  あるいは破壊だ。おとなしく
+>  そのマシンをおりてくれれば、この私……
+Nếu nó không hoạt động, hãy phá hủy nó. Chỉ cần cậu ngoan ngoãn xuống máy, tôi...
+---
+>  {PartnerFull}の名に
+>  かけて、君の命は保証しよう
+Tôi nhân danh {PartnerFull} đảm bảo rằng tôi sẽ tha mạng cho bạn.
+---
+>  だが、聞き入れてもらえぬならば……」
+Nhưng nếu cậu không nghe…”
+
+@17560 Ark · アーク（按段落 3DD1）
+> 「うるさいんだよ、この人殺しが!
+>  今さら俺一人生き残ったって!」
+"Đừng nói nữa, đồ sát nhân! Bây giờ tôi là người duy nhất còn sống thì có ích gì?"
+
+@17561 Ehrlich · エルリッヒ（按段落 3DD1）
+> 「……やむを得まい。これ以上
+>  死者を増やすのは忍びないが、
+“…Vậy thì chúng ta chẳng thể làm gì được. Tôi không muốn thêm một người nữa phải chết.
+---
+>  これも任務なのでな」
+Nhưng nhiệm vụ đã sẵn sàng. "
+
+@17562 Aboly · アポリー
+> 「大尉、こいつは……」
+"Đội trưởng, người này là..."
+
+@17563 Quattro · クワトロ
+> 「間に合わなかったか……」
+“Vẫn chưa bắt kịp…”
+
+@17564 Quattro · クワトロ
+> 「いや……あの1機、
+>  例の試作機か?」
+“Không…cái đó, là máy dùng thử phải không?”
+
+@17565 Aboly · アポリー
+> 「そのようです」
+"Có vẻ như vậy."
+
+@17566 Quattro · クワトロ
+> 「あれはまだやれるようだな。
+>  あれだけでも回収せねば
+“Cái đó hình như vẫn còn dùng được. Ít nhất hãy lấy nó lại đi.
+---
+>  危険をおかしてここまで来た
+>  意味がない……」
+Nếu không, mạo hiểm chuyến đi này sẽ vô ích..."
+
+@17567 Aboly · アポリー
+> 「どうします、大尉?」
+"Phải làm gì đây, thuyền trưởng?"
+
+@17568 Quattro · クワトロ
+> 「アポリー中尉、
+>  その機体でやれそうか?」
+“Trung úy April, anh có thể lái chiếc máy đó được không?”
+
+@17569 Aboly · アポリー
+> 「コックピットが違っても、三日も
+>  あれば自分の手足にすることが
+“Ngay cả khi buồng lái có khác, hãy cho tôi ba ngày và tôi có thể lái nó một cách trơn tru.
+---
+>  できます。大丈夫です」
+Không có vấn đề gì. "
+
+@17570 Roberto · ロベルト
+> 「自分たちはマニュアル通りの
+>  訓練など、やっておりません
+“Chúng tôi đã không luyện tập theo hướng dẫn.
+---
+>  それで、1年戦争もくぐり抜けて
+>  きたのですから」
+Chẳng phải Cuộc Chiến Một Năm đã diễn ra như thế này sao? "
+
+@17571 Quattro · クワトロ
+> 「ロベルト中尉、その過信は
+>  自分の足をすくうぞ」
+“Trung úy Roberto, quá tự tin sẽ khiến anh gặp rắc rối.”
+
+@17572 Roberto · ロベルト
+> 「はっ、クワトロ大尉」
+"Vâng, thưa thuyền trưởng Kvatro."
+
+@17573 Quattro · クワトロ
+> 「よし、敵を牽制しつつ
+>  あの試作機を確保する」
+“Được rồi, kiềm chế kẻ thù và hạ gục cỗ máy nguyên mẫu.”
+
+@17574 Specials · スペシャルズ
+> 「特尉、あれは!?」
+"Trung úy đặc biệt, phải vậy không!?"
+
+@17575 Ehrlich · エルリッヒ（按段落 3DD1）
+> 「ん? 見たことのない機体だな
+“Hả? Một thi thể tôi chưa từng thấy bao giờ.
+---
+>  レジスタンスが独自に
+>  開発したものか?
+Phải chăng sự phản kháng đã tự tạo ra nó?
+---
+>  情報部もあてにならん。
+>  狙いは、あれか……」
+Bộ phận tình báo thực sự không đáng tin cậy. Họ đến ga đó..."
+
+@17576 Specials · スペシャルズ
+> 「やはりレジスタンスでしょうか?
+>  どうしますか!?」
+"Anh ta cũng là thành viên của tổ chức kháng chiến à? Tôi phải làm sao đây!?"
+
+@17577 Ehrlich · エルリッヒ（按段落 3DD1）
+> 「あれを持っていかれるわけにはいかん。
+>  二手に分かれるぞ」
+"Chúng ta không thể để họ lấy đi cái đó được. Hãy chia hoạt động ra làm hai hướng."
+
+@17578 Specials · スペシャルズ
+> 「はっ!」
+"Vâng!"
+
+@17579 Ark · アーク（按段落 3DD1）
+> 「な、なんだ……?
+>  敵……じゃないのか……?」
+"C-Cái gì...? Không phải...kẻ thù...?"
+
+@17580 Ark · アーク（按段落 3DD1）
+> 「え……?」
+"Ơ...?"
+
+@17581 Quattro · クワトロ
+> 「そこのパイロット、まだやれそうか?」
+"Người phi công đằng kia còn chiến đấu được không?"
+
+@17582
+> *  は、はい……
+> *  ほっといてくれ!
+> *  …………
+* * Vâng, vâng...
+* * Hãy để tôi yên!
+* * …………
+
+@17583 Ark · アーク（按段落 3DD1）
+> 「は、はい……」
+"Ừ, ừ..."
+
+@17584 Quattro · クワトロ
+> 「よし、援護する」
+"Được, chúng tôi sẽ che chở cho bạn."
+
+@17585 Ark · アーク（按段落 3DD1）
+> 「ほっといてくれッ!!」
+"Hãy để tôi yên!!"
+
+@17586 Quattro · クワトロ
+> 「残念だがそういうわけにもいかん
+“Xin lỗi, điều đó không ổn.
+---
+>  それは我々が苦労して入手
+>  したものだ。放ってはおけない
+Chúng tôi đã có được nó sau rất nhiều nỗ lực, vì vậy chúng tôi không thể bỏ qua nó.
+---
+>  それに、君のような若者を
+>  無駄死にさせるわけにもな」
+Hơn nữa, tôi không thể trơ mắt nhìn một thanh niên như anh chết một cách vô ích được. "
+
+@17587 Ark · アーク（按段落 3DD1）
+> 「勝手なことを……」
+"Thật dễ dàng để nói nó..."
+
+@17588 Quattro · クワトロ
+> 「どう思ってもらっても構わんが、
+>  今は敵を排除することが先決だ
+“Muốn gì thì tùy cậu, nhưng hãy tiêu diệt kẻ thù trước đã.
+---
+>  動けるのなら戦うのだな。
+>  援護する」
+Nếu bạn vẫn có thể di chuyển, hãy chiến đấu. Chúng tôi bảo vệ bạn. "
+
+@17589 Quattro · クワトロ
+> 「しかたあるまい。アポリー、ロベルト、あの
+>  機体は確保したい。援護するぞ」
+"Chúng ta không thể làm gì được. April, Roberto, tôi muốn hạ cái máy đó. Che chắn cho anh ấy."
+
+@17590 Aboly · アポリー
+> 「了解です」
+"Đã hiểu."
+
+@17591 Ehrlich · エルリッヒ（本话主角的对手）
+> 「くっ、やむを得ん。
+>  ここはひとまず引くしかないか……」
+"Được rồi, không còn cách nào khác, chúng ta chỉ có thể rút lui trước..."
+
+@17592 Ehrlich · エルリッヒ（本话主角的对手）
+> 「くっ、やむを得ん。
+>  全機、撤退せよ!」
+"Chà, chúng ta không thể làm gì được. Mọi người rút lui đi!"
+
+@17593 Ehrlich · エルリッヒ（按段落 3DD1）
+> 「くっ、やむを得ん。
+>  ここはひとまず引くしかないか……」
+"Được rồi, không còn cách nào khác, chúng ta chỉ có thể rút lui trước..."
+
+@17594 Roberto · ロベルト
+> 「コックピット、開きます」
+"Mở buồng lái."
+
+@17595 Quattro · クワトロ
+> 「君、大丈夫か?」
+"Này, cậu ổn chứ?"
+
+@17596 Ark · アーク（按段落 3DD1）
+> 「……う、
+>  うぅっ……うっ……」
+"...Woo, wu wu... wu..."
+
+@17597 Quattro · クワトロ
+> 「……生きては、いるようだな……」
+“…Có vẻ như anh ấy vẫn còn sống…”
+
+@17598 Ark · アーク（本话主角）
+> 「あの……ありがとうございました。
+>  ……大尉」
+"Ừm...cảm ơn...Đội trưởng."
+
+@17599 Quattro · クワトロ
+> 「反帝国運動組織、
+>  地球解放戦線機構の
+"Tôi đến từ tổ chức chống đế quốc Mặt trận Giải phóng Trái đất.
+---
+>  クワトロ・バジーナだ。もと連邦
+>  軍人が中核となっている
+Kvatro Bagina. Chúng ta có những cựu quân nhân liên bang làm trụ cột,
+---
+>  レジスタンス組織でな。おかげで、
+>  いまだに階級で呼びあうクセが
+Vì vậy, tôi vẫn không thể thay đổi nó.
+---
+>  抜けずにいる」
+Tục gọi nhau theo cấp bậc. "
+
+@17600 Ark · アーク（本话主角）
+> 「{HeroFull}……です
+“Tôi là {HeroFull}…
+---
+>  地球解放戦線機構の
+>  名前は、聞いたことがあります
+Tổ chức Mặt trận Giải phóng Trái đất, tôi đã nghe nói về nó.
+---
+>  この町はレジスタンスを支援する
+>  人たちが、多くいましたから」
+Ở thị trấn này có rất nhiều người ủng hộ tổ chức kháng chiến. "
+
+@17601 Quattro · クワトロ
+> 「ああ。君が落ち着いて話ができる
+>  ようになってくれて、助かる
+"Ừ. Tôi sẽ an tâm hơn nếu cậu có thể bình tĩnh và nói chuyện.
+---
+>  またすぐ、帝国軍がくるだろう。
+>  できれば我々と一緒に
+Quân đội Đế quốc sẽ sớm quay trở lại. Nếu có thể, tôi muốn bạn đi cùng chúng tôi
+---
+>  来てもらいたいのだが、どうする?
+>  君がここに残りたいというのなら、
+Hãy cùng nhau đi, bạn nghĩ sao? Nếu bạn muốn ở lại,
+---
+>  止めはしないが……」
+Tôi cũng sẽ không ép buộc…”
+
+@17602 Ark · アーク（本话主角）
+> 「…………いえ、いきます。僕には……もう
+>  何も残っていませんから
+"...Không, tôi sẽ đi với bạn. Tôi...không còn gì cả.
+---
+>  ……ここに残っても、帝国軍と
+>  うまくやる自信はありませんし……」
+…Kể cả nếu tôi ở lại, tôi cũng không chắc mình có thể hòa hợp với Quân đội Hoàng gia được không…”
+
+@17603 Quattro · クワトロ
+> 「そうか……」
+"Chính là nó..."
+
+@17604 Ark · アーク（本话主角）
+> 「あの、少し時間をください。
+>  おば夫婦や……友達を……
+"Được rồi, xin hãy cho tôi một chút. Cô và chú... và bạn bè...
+---
+>  せめて埋葬してあげたいんです」
+Ít nhất tôi muốn cho họ nghỉ ngơi. "
+
+@17605 Quattro · クワトロ
+> 「構わんが……我々も手伝おう」
+"Được rồi...chúng tôi cũng ở đây để giúp đỡ."
+
+@17606 Ark · アーク（本话主角）
+> 「でも……」
+"Nhưng..."
+
+@17607 Quattro · クワトロ
+> 「君はあまり見ないほうがいい
+>  ……それに、急ぐ必要もある」
+"Tốt nhất cậu nên xem ít lại...Hơn nữa, chúng ta phải nhanh lên."
+
+@17608 Ark · アーク（本话主角）
+> 「はい……」
+"Ừ..."
+
+@17609 Quattro · クワトロ
+> 「ロベルトはここで待機。
+>  アポリーは私と一緒にきてくれ」
+"Roberto ở lại đây và chờ đợi. Tháng Tư đang đến với tôi."
+
+@17610 Aboly · アポリー
+> 「……ひどいもんですね。
+>  どこもかしこもめちゃめちゃだ」
+“…Thật bi thảm. Nó bị phá hủy hoàn toàn ở khắp mọi nơi.”
+
+@17611 Quattro · クワトロ
+> 「そうだな……」
+"Ừ..."
+
+@17612 Ark · アーク（本话主角）
+> (ごめん……エミリア。今は、どうしたら
+>  いいのかわからないんだ
+(Tôi xin lỗi...Emilia. Tôi không biết phải làm gì bây giờ.
+---
+>  俺、とりあえずこの人たちと一緒に
+>  いくよ。必ずもどってくるから……
+Tôi sẽ đi với những người này trước. Tôi chắc chắn sẽ quay trở lại...
+---
+>  さよなら、エミリア……)
+Tạm biệt, Emilia...)
+
+@17613 Ark · アーク（本话主角）
+> 「あの、これからどうするんですか?」
+"Được rồi, tiếp theo cậu định làm gì?"
+
+@17614 Quattro · クワトロ
+> 「仲間と合流する。このところ
+>  各地の抵抗運動が活発に
+"Hãy đi gặp gỡ những người bạn đồng hành của bạn. Các phong trào phản kháng ở nhiều nơi gần đây ngày càng trở nên sôi động.
+---
+>  なっているせいで、帝国軍も
+>  ゲリラ狩りに本腰をいれてきている
+Quân đội Đế quốc cũng bắt đầu đàn áp quân du kích một cách tàn nhẫn.
+---
+>  我々としては、高まりつつある
+>  気運を維持したい。そのために
+Chúng tôi muốn tận dụng tình hình và duy trì động lực này,
+---
+>  各地の活動を支援しているのだ
+>  君が守ってくれた帝国の
+Vì vậy, chúng tôi đang hỗ trợ hoạt động ở nhiều nơi khác nhau. Đế chế bạn đã cứu
+---
+>  試作機、開発コードは
+>  ソルデファーというが、あれを帝国から
+Máy nguyên mẫu, tên mã phát triển Soltifa, được mua lại từ Đế quốc
+---
+>  奪取したのも、その一環でな。
+>  反帝国の抵抗運動の
+Chiếm lấy nó là một phần của kế hoạch. nó có thể trở thành
+---
+>  象徴とできる機体だ」
+Biểu tượng của cuộc kháng chiến chống đế quốc. "
+
+@17615 Ark · アーク（本话主角）
+> 「……そのために、
+>  僕の町は攻撃されたんですか」
+“…Đây có phải là lý do tại sao thị trấn của tôi bị tấn công?”
+
+@17616 Quattro · クワトロ
+> 「理由の一つではあるだろうが、
+>  ……違うな」
+"Đó có thể là một trong những lý do, nhưng... không phải vậy."
+
+@17617 Ark · アーク（本话主角）
+> 「……なんで……いいきれるんです」
+"...Sao...anh chắc chắn thế?"
+
+@17618 Quattro · クワトロ
+> 「理由は君が口にしている
+"Anh vừa mới nói lý do đấy.
+---
+>  ゲリラが潜伏し、その
+>  支持者が多かったのだろう?
+Có du kích đang ẩn náu ở đây và có rất nhiều người ủng hộ họ phải không?
+---
+>  帝国軍はそういう場所を
+>  つぶしにかかっているのだ」
+Quân đội Hoàng gia đặc biệt đến đây để tiêu diệt những nơi như thế này. "
+
+@17619 Ark · アーク（本话主角）
+> 「…………」
+“…………”

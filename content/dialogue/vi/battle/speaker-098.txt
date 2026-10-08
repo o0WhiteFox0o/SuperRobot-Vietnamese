@@ -1,0 +1,188 @@
+# Bản dịch tiếng Việt Super Robot Wars 64
+# Định dạng và vị trí: docs/guide/dialogue-text.md
+
+@6402 Lady · レディ
+# Kích hoạt: Tấn công (Chung，1/11）
+> 「ここまでだ、死ねぇ!」
+"Như vậy đi, xuống địa ngục đi!"
+
+@6403 Lady · レディ
+# Kích hoạt: Tấn công (Chung，2/11）
+> 「いい気になるな!!」
+"Đừng quá tự hào!!"
+
+@6404 Lady · レディ
+# Kích hoạt: Tấn công (Chung，3/11）
+> 「これ以上先に行かせはしない!!」
+"Tôi sẽ không để cậu đi xa hơn nữa!!"
+
+@6405 Lady · レディ
+# Kích hoạt: Tấn công (Chung，4/11）
+> 「トレーズ様のために!!」
+"Vì Chúa Telles!!"
+
+@6406 Lady · レディ
+# Kích hoạt: Tấn công (Chung，5/11）
+> 「愚か者が!」
+"Anh chàng ngu ngốc!"
+
+@6407 Lady · レディ
+# Kích hoạt: Tấn công (Chung，6/11）
+> 「もらった!!」
+"Thành công!!"
+
+@6408 Lady · レディ
+# Kích hoạt: Tấn công (Chung，7/11）
+> 「死ねっ!」
+"Đi xuống địa ngục đi!"
+
+@6409 Lady · レディ
+# Kích hoạt: Tấn công (Chung，8/11）
+> 「スキだらけだよ!」
+"Nó đầy sai sót!"
+
+@6410 Lady · レディ
+# Kích hoạt: Tấn công (Chung，9/11）
+> 「理想をかなえるため、トレーズ様の
+>  ために戦う!」
+"Để hiện thực hóa lý tưởng của chúng ta, hãy chiến đấu vì Lord Telles!"
+
+@6411 Lady · レディ
+# Kích hoạt: Tấn công (Chung，10/11）
+> 「死にに、きたか……なら望みどおりに
+>  してやるよ!」
+"Ngươi đến đây để chết... như ngươi mong muốn!"
+
+@6412 Lady · レディ
+# Kích hoạt: Tấn công (Chung，11/11）
+> 「これで終わりだ!!」
+"Chính là nó!!"
+
+@6413 Lady · レディ
+# Kích hoạt: 被击坠（通用，1/2）
+> 「なにっ!?」
+"Cái gì!?"
+
+@6414 Lady · レディ
+# Kích hoạt: 被击坠（通用，2/2）
+> 「しまった!?」
+"Ối!?"
+
+@6415 Lady · レディ
+# Kích hoạt: 重伤（剩余 HP 不足 30%）（通用，1/4）
+> 「バカな……これ程のパワーがあるのか!?」
+“Không thể nào… có được sức mạnh như vậy!?”
+
+@6416 Lady · レディ
+# Kích hoạt: 重伤（剩余 HP 不足 30%）（通用，2/4）
+> 「くっ……このままではやられる!?」
+“Hmm… Nếu tiếp tục làm thế này, cậu sẽ bị giết đấy!?”
+
+@6417 Lady · レディ
+# Kích hoạt: 重伤（剩余 HP 不足 30%）（通用，3/4）
+> 「うおっ! や、やらせん……
+>  トレーズ閣下のためにも!」
+"Ồ! Không, tôi sẽ không để anh thành công...vì Lord Telles!"
+
+@6418 Lady · レディ
+# Kích hoạt: 重伤（剩余 HP 不足 30%）（通用，4/4）
+> 「な、なんだとっ!? お、おのれぇっ!」
+"C-Cái gì!? Chết tiệt!"
+
+@6419 Lady · レディ
+# Kích hoạt: 中伤（剩余 HP 30–90%）（通用，1/4）
+> 「むっ! 私をここまでてこずらせるとは!」
+"Ugh! Bạn thực sự có thể đưa tôi vào một trận chiến khó khăn!"
+
+@6420 Lady · レディ
+# Kích hoạt: 中伤（剩余 HP 30–90%）（通用，2/4）
+> 「ちぃっ! 意外とやるっ!」
+"Tsk! Bạn chiến đấu khá giỏi!"
+
+@6421 Lady · レディ
+# Kích hoạt: 中伤（剩余 HP 30–90%）（通用，3/4）
+> 「くっ! なめるなっ!」
+"Ugh! Đừng đánh giá thấp tôi!"
+
+@6422 Lady · レディ
+# Kích hoạt: 中伤（剩余 HP 30–90%）（通用，4/4）
+> 「ちいっ! いい気になるなっ!!」
+"Tsk! Đừng tự hào quá!!"
+
+@6423 Lady · レディ
+# Kích hoạt: 轻伤（剩余 HP 90% 以上）（通用，1/6）
+> 「効かんな」
+"Nó không đau hay ngứa."
+
+@6424 Lady · レディ
+# Kích hoạt: 轻伤（剩余 HP 90% 以上）（通用，2/6）
+> 「甘いな……その程度か!」
+"Quá ngây thơ... thế thôi!"
+
+@6425 Lady · レディ
+# Kích hoạt: 轻伤（剩余 HP 90% 以上）（通用，3/6）
+> 「なっていないな」
+“Quá khó coi”
+
+@6426 Lady · レディ
+# Kích hoạt: 轻伤（剩余 HP 90% 以上）（通用，4/6）
+> 「ふん、こけおどしか!」
+"Hừm, bịp bợm!"
+
+@6427 Lady · レディ
+# Kích hoạt: 轻伤（剩余 HP 90% 以上）（通用，5/6）
+> 「しょせんその程度か」
+“Rốt cuộc không phải chỉ như thế này thôi sao?”
+
+@6428 Lady · レディ
+# Kích hoạt: 轻伤（剩余 HP 90% 以上）（通用，6/6）
+> 「くだらん……そんなものとはな」
+"Nhàm chán...thì ra là như vậy"
+
+@6429 Lady · レディ
+# Kích hoạt: Né tránh（通用，1/5）
+> 「狙いが甘いな」
+“Mục tiêu kém”
+
+@6430 Lady · レディ
+# Kích hoạt: Né tránh（通用，2/5）
+> 「当たりはせん!」
+"Bạn không thể đánh nó!"
+
+@6431 Lady · レディ
+# Kích hoạt: Né tránh（通用，3/5）
+> 「遅いっ!」
+"Quá chậm!"
+
+@6432 Lady · レディ
+# Kích hoạt: Né tránh（通用，4/5）
+> 「ふ、貴様の攻撃など、とうに
+>  見切った!」
+"Hừm, ta đã nhìn thấu đòn tấn công của ngươi từ lâu rồi!"
+
+@6433 Lady · レディ
+# Kích hoạt: Né tránh（通用，5/5）
+> 「そこかっ!」
+"Chính là nó!"
+
+@6434 Lady · レディ
+# Kích hoạt: Tấn công无效（护罩／装甲）（通用，1/2）
+> 「ムダなんだよ……」
+"Thật vô dụng..."
+
+@6435 Lady · レディ
+# Kích hoạt: Tấn công无效（护罩／装甲）（通用，2/2）
+> 「愚かな……ムダだということに
+>  なぜ気づかん」
+"Ngu ngốc... tại sao bạn không hiểu rằng điều này là vô ích?"
+
+@6436 Lady · レディ
+# Kích hoạt: 弹药／EN 不足，无法反击（通用，1/1）
+> 「弾切れか!? しくじった……」
+"Hết đạn!? Bước nhầm..."
+
+@6437 Lady · レディ
+# Kích hoạt: 射程外，无法反击（通用，1/1）
+> 「ち、遠距離からの攻撃か……
+>  卑怯な」
+“Tsk, cậu đang trốn từ xa và tấn công… hèn hạ à?”

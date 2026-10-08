@@ -1,0 +1,527 @@
+# Bản dịch tiếng Việt Super Robot Wars 64
+# Định dạng và vị trí: docs/guide/dialogue-text.md
+
+@17347 布拉德 · ブラッド（本话主角）
+> 「師匠……」
+"Sư phụ..."
+
+@17348 卡茨 · カーツ（本话主角的对手）
+> 「いつまで、そうしているつもりだ、
+>  {HeroName}
+“Bạn định làm việc này bao lâu, {HeroName}.
+---
+>  もう師匠はいない
+Thầy không còn ở đây nữa.
+---
+>  そして俺たちには、するべきことが
+>  あるはずだ」
+Và chúng ta vẫn còn việc phải làm. "
+
+@17349 布拉德 · ブラッド（本话主角）
+> 「{PartnerName}……しかし……」
+"{PartnerName}...nhưng..."
+
+@17350 卡茨 · カーツ（本话主角的对手）
+> 「あきれた軟弱さだな。貴様が
+>  それでは、師匠も草葉の陰で
+“Ngươi yếu đuối đến người ta không chịu nổi, ngươi bộ dáng như thế này, sư phụ bị Tửu Tuyền phù phép.”
+---
+>  泣いておられるだろうさ。もういい、
+>  俺はいくぞ。どのみち俺たちの戦いは
+Tôi cũng sẽ khóc. Quên nó đi, tôi đi đây. Dù sao thì cuộc chiến của chúng ta
+---
+>  まだ修行の一環。共にいかなくて
+>  はならん理由は、ないからな
+Đó chỉ là một phần của việc luyện tập, không có lý do gì phải đi cùng nhau.
+---
+>  貴様はそこで、いつまでも
+>  そうしているがいい」
+Cứ ở đó đi. "
+
+@17351 卡茨 · カーツ（本话主角的对手）
+> 「ムッ! これは!?」
+"Hmm! Đây là nó à!?"
+
+@17352 布拉德 · ブラッド（本话主角）
+> 「戦闘の音だ!
+"Đó là âm thanh của trận chiến!
+---
+>  近くの町をゲリラが拠点に
+>  しているとは聞いていたが……」
+Tôi nghe nói rằng những thị trấn gần đó đã được quân du kích sử dụng làm thành trì..."
+
+@17353 卡茨 · カーツ（本话主角的对手）
+> 「状況を確認するぞ、
+>  {HeroName}」
+"Đi xem chuyện gì đang xảy ra đi, {HeroName}."
+
+@17354 暗黑大将军 · 暗黒大将軍
+> 「ウワハハハハッ。
+>  よーし、やれぇっ!
+"Wahahahahahaha. Được rồi, đi thôi!
+---
+>  ムゲゾルバドス帝国の者どもに
+>  われらミケーネの力を
+Hãy để người dân của Đế chế Moog Zorbados nhìn kỹ vào nó.
+---
+>  存分に見せてやるのだ!」
+Sức mạnh của Mycenae của chúng tôi! "
+
+@17355 布拉德 · ブラッド（本话主角）
+> 「いかん、
+>  あの戦力差では勝てないぞ!」
+“Không, chúng ta không thể thắng với sự khác biệt về sức mạnh chiến đấu như vậy!”
+
+@17356 卡茨 · カーツ（本话主角的对手）
+> 「そうだな……
+>  全滅も時間の問題だ
+"Đúng... chỉ là vấn đề thời gian trước khi toàn bộ quân đội bị tiêu diệt.
+---
+>  ここは俺たちが戦うべき敵を
+>  よく見ておくのがいいだろう」
+Tại sao không tận dụng cơ hội này để nhìn rõ kẻ thù mà chúng ta sắp đối phó. "
+
+@17357 布拉德 · ブラッド（本话主角）
+> 「なに!?
+>  ばかなことを言うな!
+“Cái gì!? Đừng nói gì ngu ngốc!
+---
+>  アースゲインとヴァイローズを
+>  出すんだ! 師匠の言葉をもう
+Đưa Asgain và Vairos ra! Thầy ơi anh
+---
+>  忘れたのか!?」
+Bạn đã quên rồi à? ? "
+
+@17358 卡茨 · カーツ（本话主角的对手）
+> 「ばかは、貴様だ
+"Anh mới là người ngu ngốc.
+---
+>  ゲリラが戦いで敗れるのは
+>  しかたのないこと
+Nếu quân du kích thua trận, họ không thể làm gì được.
+---
+>  今、俺たちがいったからといって、
+>  奴らには、なんの成長もない」
+Ngay cả khi chúng ta hành động ngay bây giờ, họ cũng sẽ không đạt được tiến bộ nào. "
+
+@17359 布拉德 · ブラッド（本话主角）
+> 「だが、このまま放っておいては
+>  町の人たちはどうなる!?
+“Nhưng nếu chúng ta cứ để yên thì người dân trong thị trấn sẽ làm gì!?
+---
+>  俺はゆくぞ!
+>  アースゲイン!!」
+Tôi đang ở trên đó! Một lần nữa! ! "
+
+@17360 卡茨 · カーツ（本话主角的对手）
+> 「ふん、いつまでたっても
+>  短絡的な奴だ
+"Hừ, ngươi lúc nào cũng liều lĩnh như vậy.
+---
+>  いいだろう、腕ならしには
+>  ちょうどいいくらいかもしれん」
+Chà, có lẽ dùng nó để luyện tập là vừa phải. "
+
+@17361 布拉德 · ブラッド（本话主角）
+> 「貴様ら、待て!」
+"Các bạn, dừng lại!"
+
+@17362 暗黑大将军 · 暗黒大将軍
+> 「なんだ、お前らは?
+>  邪魔をするな!」
+"Bạn là ai? Tránh ra!"
+
+@17363 布拉德 · ブラッド（本话主角）
+> 「黙れッ!
+"Im đi!
+---
+>  なんの抵抗もできぬ町の人々まで
+>  をも巻き添えにするとは
+Ngay cả những người dân trong thị trấn không còn sức để chống trả cũng không được tha.
+---
+>  なんと見下げ果てた奴らだ
+Bạn thật đáng khinh!
+---
+>  俺たちが相手だ、来いっ!
+>  叩きつぶしてやる!」
+Đối thủ của bạn là chúng tôi! Lại đây, xem ta đập nát ngươi thành từng mảnh! "
+
+@17364 暗黑大将军 · 暗黒大将軍
+> 「ぬうぅ、この暗黒大将軍に
+>  よくもほざいたな!
+"Hừ, ngươi dám kiêu ngạo trước mặt tướng quân hắc ám của ta!
+---
+>  それほど死にたいなら、貴様らも
+>  一緒に地獄へ送ってやろう
+Vì các ngươi muốn chết quá nên ta sẽ tống cả hai ngươi xuống địa ngục!
+---
+>  ゆけ!」
+Bật! "
+
+@17365 ???
+> 「ほほぅ、なんとも勇敢な
+>  若者たちでございますな」
+"Haha, họ thực sự là những người trẻ tuổi dũng cảm."
+
+@17366 ???
+> 「うん、先を越されたようだね
+"Chà, có vẻ như họ đã có khởi đầu thuận lợi.
+---
+>  だが、彼らはいい仲間となって
+>  くれそうだ」
+Tuy nhiên, họ nên tạo thành một công ty tốt. "
+
+@17367 布拉德 · ブラッド（本话主角）
+> 「なんだと!?
+>  この、俺が負けたのか……!?」
+"Cái gì!? T-tôi thua rồi...!?"
+
+@17368 布拉德 · ブラッド（本话主角）
+> 「ぐぅ、次から次へとっ!」
+"Chà, cái này nối tiếp cái khác!"
+
+@17369 ???
+> 「これはちと、
+>  先がわからなくなってまいりましたな」
+"Hiện tại, tình huống có chút khó lường."
+
+@17370 ???
+> 「さすがにあの数はきついようだね。
+>  やはり僕もいこう」
+"Kẻ địch nhiều như vậy, vất vả quá. Tôi cũng đi."
+
+@17371 万丈 · 万丈
+> 「カァァァムヒア!
+>  ダイタァァァンスリィーッ!!」
+"K-M-Shia! Titan-3-!!"
+
+@17372 卡茨 · カーツ（本话主角的对手）
+> 「なに!? また新手かぁっ!」
+"Cái gì!? Có cái mới!"
+
+@17373 万丈 · 万丈
+> 「待て、僕は反帝国組織
+>  カラバの破嵐万丈だ
+“Chờ một chút, tôi là Polan Wanzhang của tổ chức chống đế quốc Calabar.
+---
+>  君たちに加勢する」
+Tôi ở đây để giúp bạn. "
+
+@17374 布拉德 · ブラッド（本话主角）
+> 「なんだと!?」
+"Cái gì!?"
+
+@17375 万丈 · 万丈
+> 「敵ではない。僕も奴らを倒すために
+>  ここに来た」
+"Tôi không phải kẻ thù. Tôi đến đây để đánh bại họ."
+
+@17376 布拉德 · ブラッド（本话主角）
+> 「いいだろう。どうやら自信があるようだ
+>  腕前を見せてもらおう」
+"Được. Xem ra ngươi rất tự tin, để ta xem ngươi có năng lực gì."
+
+@17377 万丈 · 万丈
+> 「それはもう、たっぷりとね」
+"Đương nhiên, ta sẽ cho ngươi xem đủ."
+
+@17378 万丈 · 万丈
+> 「世のため人のため
+“Vì thế giới, vì con người.
+---
+>  ムゲゾルバドス帝国の野望を
+>  打ち砕くダイターン3
+Titan 3 đã đập tan tham vọng của đế chế Moog Zorbados.
+---
+>  この日輪の輝きを、
+>  恐れぬのならばかかってこい!」
+Nếu bạn không ngại cái nắng chói chang này thì hãy đến đây nhé! "
+
+@17379 暗黑大将军 · 暗黒大将軍
+> 「ぐうぅぅぅ、おのれ人間どもめ。
+>  覚えておれ!」
+"Uh-huh, con người chết tiệt. Hãy nhớ điều này!"
+
+@17380 布拉德 · ブラッド（本话主角）
+> 「逃げたか……
+>  残りも一気にいくぜ!」
+"Bạn đã bỏ chạy... dọn dẹp phần còn lại trong một lần!"
+
+@17381 暗黑大将军 · 暗黒大将軍
+> 「ぐうぅぅぅ、おのれ人間どもめ。
+>  覚えておれ!」
+"Uh-huh, con người chết tiệt. Hãy nhớ điều này!"
+
+@17382 布拉德 · ブラッド（本话主角）
+> 「ふん、口ほどにもない奴だ。
+>  どうやら片づいたようだな」
+"Hừ, chỉ là một miếng thôi mà, hình như đã được dọn dẹp sạch sẽ rồi."
+
+@17383 暗黑大将军 · 暗黒大将軍
+> 「おのれぇっ! 覚えておれ!!」
+"Chết tiệt! Hãy nhớ nó!!"
+
+@17384 万丈 · 万丈
+> 「改めて自己紹介しよう。
+>  僕はカラバの破嵐万丈だ
+"Hãy để tôi tự giới thiệu lại. Tôi là Polan Wanzhang của Calabar.
+---
+>  そして彼が……」
+Và đây là..."
+
+@17385 加里森 · ギャリソン
+> 「万丈様の執事、
+>  ギャリソン時田と申します
+“Tôi là quản gia của Lãnh chúa Wan Zhang, Tokita Garrison.
+---
+>  以後お見知りおきを」
+Xin hãy chăm sóc tôi trong tương lai. "
+
+@17386 卡茨 · カーツ（本话主角的对手）
+> 「『武機覇拳流』
+>  {PartnerFull}だ」
+"'Phong cách nắm đấm chiến đấu bằng máy'{PartnerFull}."
+
+@17387 布拉德 · ブラッド（本话主角）
+> 「『武機覇拳流』
+>  {HeroFull}
+"'Võ thuật chiến đấu bằng nắm đấm'{HeroFull}.
+---
+>  礼はいわないぜ、
+>  万丈様とやら」
+Đừng mong ta nói lời cảm ơn, đúng là 'Vạn Chương đại nhân'. "
+
+@17388 万丈 · 万丈
+> 「構わないさ。それから僕の事は
+>  万丈でいい
+"Không sao đâu. Ngoài ra, cứ gọi tôi là Wan Zhang.
+---
+>  失礼だが『武機覇拳流』
+>  というのはなんだい?」
+Tôi muốn hỏi, 'Võ thuật Ken Style' là gì? "
+
+@17389 布拉德 · ブラッド（本话主角）
+> 「俺たちの師匠
+>  ヴィロー・スンダが、つくりあげた
+"Nó được bắt đầu bởi bậc thầy Viro Sundar của chúng tôi
+---
+>  ロボットによる格闘術だ
+Một kỹ thuật chiến đấu được thực hiện bởi robot.
+---
+>  俺のアースゲインと
+>  {PartnerName}のヴァイローズは
+Asgain và Vayros của tôi trong {PartnerName}
+---
+>  その専用機体だ」
+Đó là một cơ thể được xây dựng đặc biệt cho nó. "
+
+@17390 卡茨 · カーツ（本话主角的对手）
+> 「今は誰も知らなくとも、
+>  いずれ地球圏で知らぬものは
+"Mặc dù bây giờ không ai biết, nhưng sớm hay muộn toàn bộ vòng tròn trái đất sẽ
+---
+>  いなくなる。
+>  俺たちの手によってな」
+Mọi người sẽ biết. Được làm bằng tay của chính chúng ta. "
+
+@17391 卡茨 · カーツ（本话主角的对手）
+> 「察するところお前は
+>  金持ちのようだな
+"Trông anh có vẻ là một người giàu có.
+---
+>  だが最近では金持ちは
+>  帝国がいうところの
+Nhưng bây giờ những người giàu nên ở trong miệng đế quốc
+---
+>  A級市民と
+>  決まっているはずだが?」
+Công dân hạng A phải không? "
+
+@17392 万丈 · 万丈
+> 「ああ、君のいうことは
+>  理解できる
+"Ồ, tôi hiểu ý anh rồi.
+---
+>  こっちにも色々と
+>  複雑な事情があってね
+Tình hình ở đây khá phức tạp.
+---
+>  僕は戦前からそうだった
+>  わけじゃないのさ
+Tôi không giàu đến thế trước chiến tranh.
+---
+>  だから目をつけられても資産を
+>  押さえられるということもなかった
+Vì vậy, ngay cả khi họ bị nhắm tới thì tài sản của họ cũng không bị tịch thu.
+---
+>  そのおかげで反帝国の人々に
+>  支援もできたし
+Nhờ đó mà tôi có thể ủng hộ những người chống đế quốc,
+---
+>  そのための組織もつくれた
+>  というわけだ
+Các tổ chức chuyên môn cũng được thành lập.
+---
+>  つまりC級市民ですらない」
+Nói cách khác, tôi thậm chí còn không phải là công dân hạng C. "
+
+@17393 布拉德 · ブラッド（本话主角）
+> 「帝国側じゃないなら、アンタらの
+>  背景事情はどうでもいいことだ
+“Vì bạn không đến từ đế quốc nên việc bạn đến từ đâu không quan trọng.
+---
+>  いいかげんアンタが俺たちに
+>  加勢した理由を
+Bạn muốn vẽ gì cho chúng tôi? Nó gần như giống nhau.
+---
+>  聞かせてくれないか?」
+Đã đến lúc nói chuyện chưa? "
+
+@17394 万丈 · 万丈
+> 「おっと、僕としたことが
+"Ồ, tôi đã sơ suất.
+---
+>  率直にいって、
+>  君たちの力を借りたい
+Nói thẳng ra, tôi muốn mượn sức mạnh của bạn.
+---
+>  僕たちの組織もかなり
+>  活動範囲を広げているが
+Mặc dù phạm vi hoạt động của tổ chức chúng tôi đã mở rộng rất nhiều,
+---
+>  帝国軍と直接、わたりあえる
+>  戦闘ロボットも
+Nhưng những robot chiến đấu và những robot có thể đương đầu với Quân đội Đế quốc
+---
+>  そのパイロットも、まだまだ
+>  不足している
+Phi công là không đủ.
+---
+>  君たちが帝国と戦う
+>  心と力をもっていることは
+Bạn có quyết tâm và sức mạnh để chiến đấu với đế chế,
+---
+>  すでに見せてもらった。
+>  ぜひ協力してほしい
+Tôi đã tận mắt nhìn thấy điều này. Tôi phải nhờ bạn giúp đỡ.
+---
+>  帝国軍と戦うつもりなら
+>  悪い話じゃないだろう?」
+Vì bạn sắp chiến đấu với Quân đội Hoàng gia nên đây không phải là điều xấu đối với bạn, phải không? "
+
+@17395 布拉德 · ブラッド（本话主角）
+> 「1つだけ聞く。
+>  アンタらがしているのは
+"Tôi chỉ muốn hỏi một điều, cậu đã chiến đấu với cái gì thế?
+---
+>  人々のための、
+>  正義の戦いなんだな?」
+Đó là một cuộc chiến chỉ vì mọi người, phải không? "
+
+@17396 万丈 · 万丈
+> 「当然、世のため人のため、さ」
+"Tất nhiên là vì thế giới, vì mọi người."
+
+@17397 布拉德 · ブラッド（本话主角）
+> 「いいだろう、その話のったぜ。
+>  {PartnerName}、お前もくるんだろう?」
+"Được rồi, tôi đồng ý với điều này. {PartnerName}, bạn cũng đi chứ?"
+
+@17398 卡茨 · カーツ（本话主角的对手）
+> 「……そうだな。
+>  そうさせてもらうとするか」
+“…Không sao đâu. Vậy tôi sẽ đi cùng cậu.”
+
+@17399 万丈 · 万丈
+> 「よし、決まりだ。これからよろしく頼む
+>  {HeroFull}、
+"Được rồi, mọi chuyện đã ổn định. Từ giờ trở đi, mọi chuyện tùy thuộc vào bạn, {HeroFull},
+---
+>  {PartnerName}。
+>  なにか必要なものがあったら、
+{PartnerName}. Bạn cần gì?
+---
+>  僕かギャリソンに言ってくれ」
+Chỉ cần nói chuyện với tôi hoặc Garrison. "
+
+@17400 布拉德 · ブラッド（本话主角）
+> 「{HeroNick}と呼んでくれ。
+>  で、これからどうするんだ?」
+"Chỉ cần gọi tôi là {HeroNick}. Vậy tiếp theo thì sao?"
+
+@17401 万丈 · 万丈
+> 「とりあえず、カラバで研究を
+>  支援している博士の1人に
+“Ngay bây giờ, chúng ta sẽ gặp một
+---
+>  会いにいく予定だ」
+Một nghiên cứu sinh tiến sĩ được tài trợ bởi Calabar. "
+
+@17402 布拉德 · ブラッド（本话主角）
+> 「へぇ、アンタら
+>  そんなこともしているのか」
+"Ồ, anh vẫn làm loại chuyện này."
+
+@17403 加里森 · ギャリソン
+> 「科学者の方々、特に軍事
+>  関係や、それに転用できる
+“Các nhà khoa học, đặc biệt là những người tham gia nghiên cứu quân sự,
+---
+>  エネルギー関連の研究を
+>  されている方々は
+Hoặc những bạn đang nghiên cứu các nguồn năng lượng có thể sử dụng cho mục đích quân sự,
+---
+>  帝国に目をつけられやすい
+>  ですからな
+Thật dễ dàng để trở thành mục tiêu của Đế quốc.
+---
+>  ほかにも旧連邦の技術者など
+>  何人かの方がおりますが
+Ngoài ra còn có một số nhân viên kỹ thuật của liên đoàn cũ v.v.
+---
+>  大半の方はもともと
+>  日本地区に研究施設を
+Nhưng hầu hết đều có nguồn gốc từ Nhật Bản
+---
+>  持たれていたのですよ
+Được trang bị các cơ sở nghiên cứu.
+---
+>  ムゲゾルバドス帝国の占領前に
+>  私どもがご助力して
+Chúng tôi đến để hỗ trợ trước khi Đế chế Muge Zolbados tiếp quản,
+---
+>  各地に散っていただいたので
+>  ございます」
+Hãy phân tán chúng đến nhiều nơi khác nhau. "
+
+@17404 布拉德 · ブラッド（本话主角）
+> 「……まぁいいや。で、
+>  その博士ってのは、どこにいるんだ?」
+"...Quên nó đi. Thế bác sĩ đâu rồi?"
+
+@17405 万丈 · 万丈
+> 「カタールだ
+“Qatar.
+---
+>  今、僕のアシスタントが
+>  状況を調べに出ている」
+Trợ lý của tôi hiện đang kiểm tra tình hình. "
+
+@17406 布拉德 · ブラッド（本话主角）
+> 「アシスタント?
+>  そんなのもいるのか」
+"Trợ lý? Anh còn có trợ lý."
+
+@17407 万丈 · 万丈
+> 「ああ、あとで紹介するよ」
+"Được, tôi sẽ giới thiệu với cậu sau."
+
+@17408 卡茨 · カーツ（本话主角的对手）
+> 「で、その博士というのは
+>  何を研究しているのだ?」
+“Vậy bác sĩ đó đang nghiên cứu cái gì?”
+
+@17409 万丈 · 万丈
+> 「光子力エネルギーさ」
+"Năng lượng lực photon."

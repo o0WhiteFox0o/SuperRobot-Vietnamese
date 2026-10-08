@@ -1,0 +1,264 @@
+# Bản dịch tiếng Việt Super Robot Wars 64
+# Định dạng và vị trí: docs/guide/dialogue-text.md
+
+@10545 Roux · ルー
+# Kích hoạt: Tấn công (Chung，1/12）
+> 「私が相手になってやるわ!」
+"Hãy để tôi gặp bạn!"
+
+@10546 Roux · ルー
+# Kích hoạt: Tấn công (Chung，2/12）
+> 「まかせなさい!」
+"Để đó cho tôi! "
+
+@10547 Roux · ルー
+# Kích hoạt: Tấn công (Chung，3/12）
+> 「いくわよ!」
+"Lên!"
+
+@10548 Roux · ルー
+# Kích hoạt: Tấn công (Chung，4/12）
+> 「なにさっ!」
+"Bạn đang làm gì vậy!"
+
+@10549 Roux · ルー
+# Kích hoạt: Tấn công (Chung，5/12）
+> 「さぁどこからでもかかってらっしゃい!」
+"Nào, hãy để ngựa của bạn tới đây!"
+
+@10550 Roux · ルー
+# Kích hoạt: Tấn công (Chung，6/12）
+> 「女をなめんじゃないの!」
+"Đừng đánh giá thấp phụ nữ!"
+
+@10551 Roux · ルー
+# Kích hoạt: Tấn công (Chung，7/12）
+> 「なにぼーっとしてるの!」
+"Sao cậu lại choáng váng thế!"
+
+@10552 Roux · ルー
+# Kích hoạt: Tấn công (Chung，8/12）
+> 「きた!」
+"Tới!"
+
+@10553 Roux · ルー
+# Kích hoạt: Tấn công (Chung，9/12）
+> 「そこね!」
+"Chính là nó!"
+
+@10554 Roux · ルー
+# Kích hoạt: Tấn công (Chung，10/12）
+> 「私がっ!」
+"Nhìn tôi này!"
+
+@10555 Roux · ルー
+# Kích hoạt: Tấn công (Chung，11/12）
+> 「落としてみせるわ!」
+"Ta nhất định sẽ đánh ngã ngươi!"
+
+@10556 Roux · ルー
+# Kích hoạt: Tấn công (Chung，12/12）
+> 「ルー・ルカ、いきます!」
+"Lulu Luka, tấn công!"
+
+@10557 Roux · ルー
+# Kích hoạt: 被击坠（通用，1/3）
+> 「し、しまった! だめっ!」
+"Ối, ôi! Không!"
+
+@10558 Roux · ルー
+# Kích hoạt: 被击坠（通用，2/3）
+> 「ご、ごめん……やられたっ!」
+"Vâng, tôi xin lỗi...tôi đã bị giết!"
+
+@10559 Roux · ルー
+# Kích hoạt: 被击坠（通用，3/3）
+> 「う、嘘!? やられちゃったの!?」
+"Không, không thể nào!? Tôi đã bị giết!?"
+
+@10560 Roux · ルー
+# Kích hoạt: 重伤（剩余 HP 不足 30%）（通用，1/5）
+> 「くっ、そ、そんな! 嘘でしょ!?」
+"Chà, làm sao, làm sao có thể được! Đó có phải là lời nói dối không!?"
+
+@10561 Roux · ルー
+# Kích hoạt: 重伤（剩余 HP 不足 30%）（通用，2/5）
+> 「あぁーっ! 直撃!?」
+"A——! Đánh trực diện!?"
+
+@10562 Roux · ルー
+# Kích hoạt: 重伤（剩余 HP 不足 30%）（通用，3/5）
+> 「くっ、だ、だめっ!」
+"Ồ, không, không!"
+
+@10563 Roux · ルー
+# Kích hoạt: 重伤（剩余 HP 不足 30%）（通用，4/5）
+> 「うぅっ、こ、これ以上は……!」
+"Ugh, tiếp tục làm điều này một lần nữa ...!"
+
+@10564 Roux · ルー
+# Kích hoạt: 重伤（剩余 HP 不足 30%）（通用，5/5）
+> 「な、なんて攻撃……」
+“Thật là một cuộc tấn công dữ dội…”
+
+@10565 Roux · ルー
+# Kích hoạt: 中伤（剩余 HP 30–90%）（通用，1/7）
+> 「あぁーっ!」
+"Ahhh——!"
+
+@10566 Roux · ルー
+# Kích hoạt: 中伤（剩余 HP 30–90%）（通用，2/7）
+> 「こ、このくらいでっ!」
+"Cái này, vết thương nhỏ này không là gì cả!"
+
+@10567 Roux · ルー
+# Kích hoạt: 中伤（剩余 HP 30–90%）（通用，3/7）
+> 「うっ! まだよ!」
+"Chà! Vẫn chưa kết thúc!"
+
+@10568 Roux · ルー
+# Kích hoạt: 中伤（剩余 HP 30–90%）（通用，4/7）
+> 「こ、これ以上はやらせないわ!」
+"Đừng, đừng cố thành công nữa!"
+
+@10569 Roux · ルー
+# Kích hoạt: 中伤（剩余 HP 30–90%）（通用，5/7）
+> 「あぅっ! あたった!?」
+"A! Bị đánh!?"
+
+@10570 Roux · ルー
+# Kích hoạt: 中伤（剩余 HP 30–90%）（通用，6/7）
+> 「こ、このっ、やってくれんじゃないのよ!」
+"Cái này, tên này thật đúng là có trí thông minh!"
+
+@10571 Roux · ルー
+# Kích hoạt: 中伤（剩余 HP 30–90%）（通用，7/7）
+> 「うっ! なんてパワーなの!?」
+"Hmm! Đây là loại sức mạnh gì vậy!?"
+
+@10572 Roux · ルー
+# Kích hoạt: 轻伤（剩余 HP 90% 以上）（通用，1/4）
+> 「なにさ、そのくらいっ!」
+"Cái gì, chỉ là vết thương nhỏ này thôi!"
+
+@10573 Roux · ルー
+# Kích hoạt: 轻伤（剩余 HP 90% 以上）（通用，2/4）
+> 「そんな攻撃で!」
+"Chỉ là kiểu tấn công này thôi!"
+
+@10574 Roux · ルー
+# Kích hoạt: 轻伤（剩余 HP 90% 以上）（通用，3/4）
+> 「効かないわよ!」
+"Nó không đau hay ngứa chút nào!"
+
+@10575 Roux · ルー
+# Kích hoạt: 轻伤（剩余 HP 90% 以上）（通用，4/4）
+> 「あ、あたっちゃったわけ!?」
+"T-tôi bị đánh!?"
+
+@10576 Roux · ルー
+# Kích hoạt: Né tránh（通用，1/8）
+> 「やれた!? すごーい、こんな私を
+>  愛しちゃう」
+"Bạn đã làm được!? Thật tuyệt vời, tôi gần như yêu chính mình."
+
+@10577 Roux · ルー
+# Kích hoạt: Né tránh（通用，2/8）
+> 「よしっ!」
+"Được rồi!"
+
+@10578 Roux · ルー
+# Kích hoạt: Né tránh（通用，3/8）
+> 「この程度ならよけてみせるわ!」
+"Không dễ dàng để né tránh đòn tấn công này!"
+
+@10579 Roux · ルー
+# Kích hoạt: Né tránh（通用，4/8）
+> 「やらせないっ!」
+"Đừng cố gắng để thành công!"
+
+@10580 Roux · ルー
+# Kích hoạt: Né tránh（通用，5/8）
+> 「さっすが、私!」
+“Đúng như mong đợi ở tôi!”
+
+@10581 Roux · ルー
+# Kích hoạt: Né tránh（通用，6/8）
+> 「なにさ、そんな攻撃!」
+"Cái gì, kiểu tấn công này!"
+
+@10582 Roux · ルー
+# Kích hoạt: Né tránh（通用，7/8）
+> 「無駄よ!」
+"Thật vô ích!"
+
+@10583 Roux · ルー
+# Kích hoạt: Né tránh（通用，8/8）
+> 「あたらないわ!」
+"Bạn không thể đánh nó!"
+
+@10584 Roux · ルー
+# Kích hoạt: Tấn công无效（护罩／装甲）（通用，1/4）
+> 「無駄だっていってるの!」
+"Tôi đã nói là vô dụng!"
+
+@10585 Roux · ルー
+# Kích hoạt: Tấn công无效（护罩／装甲）（通用，2/4）
+> 「効きはしないわ」
+“Nó không đau hay ngứa gì cả.”
+
+@10586 Roux · ルー
+# Kích hoạt: Tấn công无效（护罩／装甲）（通用，3/4）
+> 「なにさ、効かないわよ!」
+"Cái gì, nó không có tác dụng gì cả!"
+
+@10587 Roux · ルー
+# Kích hoạt: Tấn công无效（护罩／装甲）（通用，4/4）
+> 「そんなことしてどうしようっていうの!?」
+“Làm việc này có ích gì chứ!?”
+
+@10588 Roux · ルー
+# Kích hoạt: 弹药／EN 不足，无法反击（通用，1/2）
+> 「弾切れ? なんてこと!」
+"Hết đạn? Làm sao có thể!"
+
+@10589 Roux · ルー
+# Kích hoạt: 弹药／EN 不足，无法反击（通用，2/2）
+> 「こんなときに弾切れ!?」
+"Hết đạn vào lúc này!?"
+
+@10590 Roux · ルー
+# Kích hoạt: 射程外，无法反击（通用，1/2）
+> 「あ、あんなに遠くから!?」
+"Từ, từ rất xa!?"
+
+@10591 Roux · ルー
+# Kích hoạt: 射程外，无法反击（通用，2/2）
+> 「この距離じゃ反撃は無理ね……」
+“Chúng ta không thể đánh trả ở khoảng cách này…”
+
+@16313 Roux · ルー
+# Kích hoạt: Tấn công，乘坐〈Gフォートレス〉
+> 「ZZのパワーの違い、見せてあげるわ」
+"Cho bạn thấy sự khác biệt trong sức mạnh của ZZ."
+
+@16314 Roux · ルー
+# Kích hoạt: Tấn công，乘坐〈ZZガンダム〉
+> 「ZZのパワーの違い、見せてあげるわ」
+"Cho bạn thấy sự khác biệt trong sức mạnh của ZZ."
+
+@16315 Roux · ルー
+# Kích hoạt: 使用〈ファンネル／マザーファンネル〉
+> 「いきなさい、ファンネル!」
+"Tiến lên, pháo bay!"
+
+@16316 Roux · ルー
+# Kích hoạt: 使用〈フィンファンネル〉
+> 「フィンファンネル!」
+"Pháo phao vây!"
+
+@16317 Roux · ルー
+# Kích hoạt: 使用〈ハイメガキャノン〉（低优先，可能被通用台词顶掉）
+> 「エネルギー充填……
+>  いけっ! ハイメガキャノン!!」
+"Nạp năng lượng... tiếp tục! Mega Cannon năng lượng cao!!"

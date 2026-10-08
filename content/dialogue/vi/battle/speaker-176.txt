@@ -1,0 +1,166 @@
+# Bản dịch tiếng Việt Super Robot Wars 64
+# Định dạng và vị trí: docs/guide/dialogue-text.md
+
+@9588 Helmut · ヘルマット
+# Kích hoạt: Tấn công (Chung，1/8）
+> 「ただの一度で、奴らの心臓に
+>  杭を打ちこんでみせるわ!」
+“Chỉ bằng một đòn, tôi sẽ đóng cọc vào trái tim của bọn chúng!”
+
+@9589 Helmut · ヘルマット
+# Kích hoạt: Tấn công (Chung，2/8）
+> 「血塗られた心臓は、この
+>  ヘルマット大将軍のたなごころの中」
+"Trái tim đẫm máu đó nằm trong lòng bàn tay của tôi, tướng quân Hermat."
+
+@9590 Helmut · ヘルマット
+# Kích hoạt: Tấn công (Chung，3/8）
+> 「感じる、感じるぞ! ピクピクと
+>  恐怖におののいている!」
+"Tôi cảm nhận được, tôi cảm nhận được! Họ đang run rẩy vì sợ hãi!"
+
+@9591 Helmut · ヘルマット
+# Kích hoạt: Tấn công (Chung，4/8）
+> 「まず、お前から血祭りにあげてやる!」
+"Tôi sẽ phẫu thuật cho bạn trước và hiến tế máu!"
+
+@9592 Helmut · ヘルマット
+# Kích hoạt: Tấn công (Chung，5/8）
+> 「押しつぶせっ!」
+"Đè bẹp chúng!"
+
+@9593 Helmut · ヘルマット
+# Kích hoạt: Tấn công (Chung，6/8）
+> 「地獄の底まで叩きつぶすのだ!」
+"Đập chúng xuống đáy địa ngục!"
+
+@9594 Helmut · ヘルマット
+# Kích hoạt: Tấn công (Chung，7/8）
+> 「攻撃をかけろっ!」
+"Tấn công!"
+
+@9595 Helmut · ヘルマット
+# Kích hoạt: Tấn công (Chung，8/8）
+> 「バカめ!」
+"Đồ ngốc!"
+
+@9596 Helmut · ヘルマット
+# Kích hoạt: 被击坠（通用，1/2）
+> 「うわあぁぁぁぁーっ!!」
+"Aaahhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhh"
+
+@9597 Helmut · ヘルマット
+# Kích hoạt: 被击坠（通用，2/2）
+> 「わ、私の軍団がぁっ!!」
+"Tôi, quân đội của tôi!!"
+
+@9598 Helmut · ヘルマット
+# Kích hoạt: 重伤（剩余 HP 不足 30%）（通用，1/4）
+> 「き、貴様、図にのりおって!」
+"Ngươi, ngươi cái này, sao dám đi lung tung!"
+
+@9599 Helmut · ヘルマット
+# Kích hoạt: 重伤（剩余 HP 不足 30%）（通用，2/4）
+> 「くっ……撃ち落とせ! 奴をしとめろ!!」
+"Chà... hạ gục nó! Giết tên đó đi!!"
+
+@9600 Helmut · ヘルマット
+# Kích hoạt: 重伤（剩余 HP 不足 30%）（通用，3/4）
+> 「な……なんだとぉっ!?」
+"Cái...cái gì! ? "
+
+@9601 Helmut · ヘルマット
+# Kích hoạt: 重伤（剩余 HP 不足 30%）（通用，4/4）
+> 「バカな……バカなバカなぁっ!!」
+"Không thể... không thể, không thể!!"
+
+@9602 Helmut · ヘルマット
+# Kích hoạt: 中伤（剩余 HP 30–90%）（通用，1/4）
+> 「な、なにをしておる、撃ちおとせぃ!」
+“C-Cậu đang làm gì vậy? Hạ nó xuống đi!”
+
+@9603 Helmut · ヘルマット
+# Kích hoạt: 中伤（剩余 HP 30–90%）（通用，2/4）
+> 「えぇぃ、これではシャピロに示しが
+>  つかんではないか!」
+"Chết tiệt, không phải không thể giải thích được với Shapiro sao!"
+
+@9604 Helmut · ヘルマット
+# Kích hoạt: 中伤（剩余 HP 30–90%）（通用，3/4）
+> 「なーにをもたもたしている!
+>  散開して誘発を避けろ!」
+"Sao còn lảng vảng! Hãy tản ra, đừng để bị ảnh hưởng bởi vụ nổ mồi nhử!"
+
+@9605 Helmut · ヘルマット
+# Kích hoạt: 中伤（剩余 HP 30–90%）（通用，4/4）
+> 「くっ……おのれ、よくもやってくれたな!」
+"Ư...chết tiệt, sao ngươi dám làm điều này!"
+
+@9606 Helmut · ヘルマット
+# Kích hoạt: 轻伤（剩余 HP 90% 以上）（通用，1/4）
+> 「ええい、うろたえるな!」
+"Chết tiệt, đừng hoảng sợ!"
+
+@9607 Helmut · ヘルマット
+# Kích hoạt: 轻伤（剩余 HP 90% 以上）（通用，2/4）
+> 「ハーッハハハハッ!
+>  効かぬ、効かぬなぁ!」
+"Ha-hahaha! Không được, không được chút nào!"
+
+@9608 Helmut · ヘルマット
+# Kích hoạt: 轻伤（剩余 HP 90% 以上）（通用，3/4）
+> 「クククッ、あきらめのわるいやつらだ!」
+"Grrrrrr, những kẻ này không chịu bỏ cuộc!"
+
+@9609 Helmut · ヘルマット
+# Kích hoạt: 轻伤（剩余 HP 90% 以上）（通用，4/4）
+> 「たとえ体当たりをしたところで
+>  このヘルマット艦は、びくともせんわ!」
+"Ngay cả khi nó va chạm với nó, con tàu Hermatt của tôi cũng sẽ không di chuyển chút nào!"
+
+@9610 Helmut · ヘルマット
+# Kích hoạt: Né tránh（通用，1/2）
+> 「見よ、デスガイヤー、ギルドローム
+>  わしはお前たちとは違う!」
+"Coi chừng, Disgaea, Guildrom, tôi khác với các bạn!"
+
+@9611 Helmut · ヘルマット
+# Kích hoạt: Né tránh（通用，2/2）
+> 「わしの恐ろしさが身にしみたか!」
+"Hãy xem tôi khủng khiếp đến mức nào!"
+
+@9612 Helmut · ヘルマット
+# Kích hoạt: Tấn công无效（护罩／装甲）（通用，1/1）
+> 「フッフッフ、どうだ、手が出まい」
+"Hehehe, chuyện gì đang xảy ra vậy, tôi không biết phải làm sao nữa."
+
+@9613 Helmut · ヘルマット
+# Kích hoạt: 弹药／EN 不足，无法反击（通用，1/1）
+> 「くっ、使い物にならんとはな……」
+“Ừ, nó thực sự vô dụng…”
+
+@9614 Helmut · ヘルマット
+# Kích hoạt: 射程外，无法反击（通用，1/2）
+> 「放っておけ!」
+"Hãy để nó yên!"
+
+@9615 Helmut · ヘルマット
+# Kích hoạt: 射程外，无法反击（通用，2/2）
+> 「ええい、追え、追うのだー!
+>  逃してはならん!」
+“Chết tiệt, đuổi đi, đuổi theo tôi——! Bạn không thể để chúng đi được!”
+
+@14814 Helmut · ヘルマット
+# Kích hoạt: 使用〈ミサイル／グレネードランチャー／ミサイルポッド／ホーミングミサイル／連装ミサイルランチャー／小型ミサイル／大型ミサイル〉（低优先，可能被通用台词顶掉）
+> 「ミサイル一斉攻撃だ!」
+"Phóng tên lửa!"
+
+@14815 Helmut · ヘルマット
+# Kích hoạt: 使用〈ビーム〉（低优先，可能被通用台词顶掉）
+> 「ビーム一斉放射っ!」
+"Chùm tia!"
+
+@14816 Helmut · ヘルマット
+# Kích hoạt: 使用〈ビーム〉（低优先，可能被通用台词顶掉）
+> 「焼け死んでもらおうか!」
+"Đốt ngươi thành tro!"

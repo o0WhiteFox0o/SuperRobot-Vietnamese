@@ -1,0 +1,284 @@
+# Bản dịch tiếng Việt Super Robot Wars 64
+# Định dạng và vị trí: docs/guide/dialogue-text.md
+
+@9337 Masato · 雅人
+# Kích hoạt: Tấn công (Chung，1/10）
+> 「やらせるもんかっ!」
+"Đừng nghĩ tới chuyện đó nữa!"
+
+@9338 Masato · 雅人
+# Kích hoạt: Tấn công (Chung，2/10）
+> 「これでもくらえっ!」
+"Thử cái này đi!"
+
+@9339 Masato · 雅人
+# Kích hoạt: Tấn công (Chung，3/10）
+> 「おちろっ!」
+"Rớt!"
+
+@9340 Masato · 雅人
+# Kích hoạt: Tấn công (Chung，4/10）
+> 「そこだっ!!」
+“Chính là nó!!”
+
+@9341 Masato · 雅人
+# Kích hoạt: Tấn công (Chung，5/10）
+> 「いっくぞぉぉぉぉっ!!」
+"Tiếp đi——!!"
+
+@9342 Masato · 雅人
+# Kích hoạt: Tấn công (Chung，6/10）
+> 「これでもくらえっ!!」
+“Thử cái này đi!!”
+
+@9343 Masato · 雅人
+# Kích hoạt: Tấn công (Chung，7/10）
+> 「いっけぇぇぇぇっ!!」
+"Cố lên--!!"
+
+@9344 Masato · 雅人
+# Kích hoạt: Tấn công (Chung，8/10）
+> 「もらうよっ!!」
+"Thành công!!"
+
+@9345 Masato · 雅人
+# Kích hoạt: Tấn công (Chung，9/10）
+> 「そらっ!!」
+"Coi chừng động tác!!"
+
+@9346 Masato · 雅人
+# Kích hoạt: Tấn công (Chung，10/10）
+> 「やられろよっ!!」
+"Lừa tôi!!"
+
+@9347 Masato · 雅人
+# Kích hoạt: 被击坠（通用，1/5）
+> 「くっ! しまったっ!!」
+"Ugh! Rất tiếc!!"
+
+@9348 Masato · 雅人
+# Kích hoạt: 被击坠（通用，2/5）
+> 「しまった!!」
+"Ối!!"
+
+@9349 Masato · 雅人
+# Kích hoạt: 被击坠（通用，3/5）
+> 「うわあっ!! やられたっ!!」
+"Ồ!! Bị giết rồi!!"
+
+@9350 Masato · 雅人
+# Kích hoạt: 被击坠（通用，4/5）
+> 「くそうっ! やられたっ!!」
+"Chết tiệt! Bị giết rồi!!"
+
+@9351 Masato · 雅人
+# Kích hoạt: 被击坠（通用，5/5）
+> 「わああああっ!!」
+"Aaaaaaaaaaaaa!!"
+
+@9352 Masato · 雅人
+# Kích hoạt: 重伤（剩余 HP 不足 30%）（通用，1/7）
+> 「うわっ!! こ、このままじゃやられる!」
+"Wow!! Nếu bạn tiếp tục làm điều này, bạn sẽ bị giết!"
+
+@9353 Masato · 雅人
+# Kích hoạt: 重伤（剩余 HP 不足 30%）（通用，2/7）
+> 「わっ!! ヤ、ヤバイ……」
+"Ồ!! Không, không ổn rồi..."
+
+@9354 Masato · 雅人
+# Kích hoạt: 重伤（剩余 HP 不足 30%）（通用，3/7）
+> 「うわっ! こ、これじゃやられちまう!」
+"Wow! Chuyện này, nếu cứ tiếp tục thì sẽ kết thúc mất!"
+
+@9355 Masato · 雅人
+# Kích hoạt: 重伤（剩余 HP 不足 30%）（通用，4/7）
+> 「だ、だめだ! これじゃもたないよ!」
+"Không, không! Tôi không thể giữ được như thế này!"
+
+@9356 Masato · 雅人
+# Kích hoạt: 重伤（剩余 HP 不足 30%）（通用，5/7）
+> 「こ、このままじゃやられる!!」
+"Nếu tiếp tục như vậy, ngươi sẽ bị giết!!"
+
+@9357 Masato · 雅人
+# Kích hoạt: 重伤（剩余 HP 不足 30%）（通用，6/7）
+> 「うわっ! だ、だめだぁっ!!」
+"Chà! Không, không thể làm được!!"
+
+@9358 Masato · 雅人
+# Kích hoạt: 重伤（剩余 HP 不足 30%）（通用，7/7）
+> 「く、くそっ!! だめだ、これじゃ!!」
+"Chết tiệt! Chuyện này không thể tiếp tục như thế này được!!"
+
+@9359 Masato · 雅人
+# Kích hoạt: 中伤（剩余 HP 30–90%）（通用，1/9）
+> 「わあっ!! やられたっ!」
+"Ồ!! Bị đánh rồi!"
+
+@9360 Masato · 雅人
+# Kích hoạt: 中伤（剩余 HP 30–90%）（通用，2/9）
+> 「うっ!! ま、まだだいじょうぶ!」
+"Hmm!! Vẫn ổn!"
+
+@9361 Masato · 雅人
+# Kích hoạt: 中伤（剩余 HP 30–90%）（通用，3/9）
+> 「くっ! まだまだ!」
+"Chà! Vẫn còn sớm!"
+
+@9362 Masato · 雅人
+# Kích hoạt: 中伤（剩余 HP 30–90%）（通用，4/9）
+> 「ま、まだまだっ!!」
+"Vẫn còn sớm lắm!!"
+
+@9363 Masato · 雅人
+# Kích hoạt: 中伤（剩余 HP 30–90%）（通用，5/9）
+> 「ま、まだこんなもんじゃ やられないっ!!」
+"Cái này, vết thương nhỏ này không thể đánh bại được ta!!"
+
+@9364 Masato · 雅人
+# Kích hoạt: 中伤（剩余 HP 30–90%）（通用，6/9）
+> 「そ、そう簡単にやられるもんか!!」
+"Sao, sao ngươi có thể bị đánh bại dễ dàng như vậy!!"
+
+@9365 Masato · 雅人
+# Kích hoạt: 中伤（剩余 HP 30–90%）（通用，7/9）
+> 「うわっ!! いってぇ～」
+"Wow!! Đau quá~"
+
+@9366 Masato · 雅人
+# Kích hoạt: 中伤（剩余 HP 30–90%）（通用，8/9）
+> 「わっ!! やったな、このっ!!」
+"Wow!! Sao mày dám đánh tao hả!!"
+
+@9367 Masato · 雅人
+# Kích hoạt: 中伤（剩余 HP 30–90%）（通用，9/9）
+> 「うわっ!! い、意外と!」
+"Chà!! Vẫn còn đau!"
+
+@9368 Masato · 雅人
+# Kích hoạt: 轻伤（剩余 HP 90% 以上）（通用，1/7）
+> 「いてっ! やったなっ!!」
+"Đau quá! Sao anh dám đánh tôi!!"
+
+@9369 Masato · 雅人
+# Kích hoạt: 轻伤（剩余 HP 90% 以上）（通用，2/7）
+> 「だいじょうぶ効いてないっ!」
+"Không sao đâu, không đau cũng không ngứa!"
+
+@9370 Masato · 雅人
+# Kích hoạt: 轻伤（剩余 HP 90% 以上）（通用，3/7）
+> 「やられるかよっ!」
+"Muốn hạ gục tôi à? Không thể nào!"
+
+@9371 Masato · 雅人
+# Kích hoạt: 轻伤（剩余 HP 90% 以上）（通用，4/7）
+> 「そんなものっ!!」
+"Cái quái gì vậy!!"
+
+@9372 Masato · 雅人
+# Kích hoạt: 轻伤（剩余 HP 90% 以上）（通用，5/7）
+> 「へへ、大したことないじゃん」
+"Này, nó không có gì đặc biệt cả."
+
+@9373 Masato · 雅人
+# Kích hoạt: 轻伤（剩余 HP 90% 以上）（通用，6/7）
+> 「こんな攻撃でっ!!」
+“Chỉ kiểu tấn công này thôi!!”
+
+@9374 Masato · 雅人
+# Kích hoạt: 轻伤（剩余 HP 90% 以上）（通用，7/7）
+> 「ま、こんなもんかな」
+"Ừ, thế thôi."
+
+@9375 Masato · 雅人
+# Kích hoạt: Né tránh（通用，1/8）
+> 「あたるかよっ!!」
+"Thật kỳ lạ nếu bạn đánh nó!!"
+
+@9376 Masato · 雅人
+# Kích hoạt: Né tránh（通用，2/8）
+> 「ふう、たすかった」
+"Phù, được cứu rồi"
+
+@9377 Masato · 雅人
+# Kích hoạt: Né tránh（通用，3/8）
+> 「あ、あぶなかった……」
+"Tốt, quá nguy hiểm..."
+
+@9378 Masato · 雅人
+# Kích hoạt: Né tránh（通用，4/8）
+> 「残念でした!」
+"Thật đáng tiếc!"
+
+@9379 Masato · 雅人
+# Kích hoạt: Né tránh（通用，5/8）
+> 「当たらないね!」
+"Bạn không thể đánh nó!"
+
+@9380 Masato · 雅人
+# Kích hoạt: Né tránh（通用，6/8）
+> 「おおっと!」
+"Ối!"
+
+@9381 Masato · 雅人
+# Kích hoạt: Né tránh（通用，7/8）
+> 「へへ、軽い軽い」
+"Này, bình tĩnh nào"
+
+@9382 Masato · 雅人
+# Kích hoạt: Né tránh（通用，8/8）
+> 「よっと!!」
+"Chào!"
+
+@9383 Masato · 雅人
+# Kích hoạt: Tấn công无效（护罩／装甲）（通用，1/3）
+> 「ビームなんて!!」
+"Chùm tia là gì?"
+
+@9384 Masato · 雅人
+# Kích hoạt: Tấn công无效（护罩／装甲）（通用，2/3）
+> 「ムダだって言ってんのに」
+“Tôi đã nói rồi, tất cả chỉ là lãng phí công sức mà thôi.”
+
+@9385 Masato · 雅人
+# Kích hoạt: Tấn công无效（护罩／装甲）（通用，3/3）
+> 「ムダだよ!」
+"Tất cả đều vô ích!"
+
+@9386 Masato · 雅人
+# Kích hoạt: 弹药／EN 不足，无法反击（通用，1/3）
+> 「ありゃ、弾切れかよ!?」
+"Rất tiếc, chúng ta hết đạn rồi!?"
+
+@9387 Masato · 雅人
+# Kích hoạt: 弹药／EN 不足，无法反击（通用，2/3）
+> 「ダメだ、手が出せない!」
+"Không, tôi không thể làm được!"
+
+@9388 Masato · 雅人
+# Kích hoạt: 弹药／EN 不足，无法反击（通用，3/3）
+> 「しまった、反撃できない!」
+"Ồ, tôi không thể đánh trả được!"
+
+@9389 Masato · 雅人
+# Kích hoạt: 射程外，无法反击（通用，1/3）
+> 「ウソだろ!? あんなとこから
+>  攻撃できるのかよ!?」
+"Không thể nào!? Bạn có thể đánh tôi từ khoảng cách xa như vậy!?"
+
+@9390 Masato · 雅人
+# Kích hoạt: 射程外，无法反击（通用，2/3）
+> 「だ、だめだ、届かないよ!」
+"Không, không, tôi không thể với tới được!"
+
+@9391 Masato · 雅人
+# Kích hoạt: 射程外，无法反击（通用，3/3）
+> 「何だよ、そんなとこからなんて
+>  卑怯だぞ!!」
+"Ngươi đang làm cái gì vậy? Trốn xa như vậy mà đánh nhau thật là hèn hạ!!"
+
+@14808 Masato · 雅人
+# Kích hoạt: 使用〈105mmライフル砲〉（低优先，可能被通用台词顶掉）
+> 「俺のキャノン砲は半端じゃないぜ!」
+"Pháo của tôi không ăn chay!"

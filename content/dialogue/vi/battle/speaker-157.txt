@@ -1,0 +1,132 @@
+# Bản dịch tiếng Việt Super Robot Wars 64
+# Định dạng và vị trí: docs/guide/dialogue-text.md
+
+@7305 Q Boss · Qボス
+# Kích hoạt: Tấn công (Chung，1/10）
+> 「逃がさんぞ!」
+"Ta sẽ không để ngươi trốn thoát!"
+
+@7306 Q Boss · Qボス
+# Kích hoạt: Tấn công (Chung，2/10）
+> 「これでどうかな!」
+"Còn chiêu này thì sao!"
+
+@7307 Q Boss · Qボス
+# Kích hoạt: Tấn công (Chung，3/10）
+> 「おのれっ!」
+"Chết tiệt!"
+
+@7308 Q Boss · Qボス
+# Kích hoạt: Tấn công (Chung，4/10）
+> 「さぁっ!」
+"Cố lên!"
+
+@7309 Q Boss · Qボス
+# Kích hoạt: Tấn công (Chung，5/10）
+> 「これならどうだ!?」
+“Bây giờ thì sao!?”
+
+@7310 Q Boss · Qボス
+# Kích hoạt: Tấn công (Chung，6/10）
+> 「いくぞっ!」
+"Lên!"
+
+@7311 Q Boss · Qボス
+# Kích hoạt: Tấn công (Chung，7/10）
+> 「貴様っ!」
+"Anh bạn!"
+
+@7312 Q Boss · Qボス
+# Kích hoạt: Tấn công (Chung，8/10）
+> 「手段は選ばん」
+"Tôi sẽ làm bất cứ điều gì cần thiết"
+
+@7313 Q Boss · Qボス
+# Kích hoạt: Tấn công (Chung，9/10）
+> 「観念なさいぃっ!」
+"Bỏ cuộc đi!"
+
+@7314 Q Boss · Qボス
+# Kích hoạt: Tấn công (Chung，10/10）
+> 「ビッグファイアーのためにぃっ!」
+"Vì LỬA LỚN!"
+
+@7315 Q Boss · Qボス
+# Kích hoạt: 被击坠（通用，1/2）
+> 「グゥゥ、ビッグファイアーのためにぃぃぃ!」
+"Hmm, vì LỬA LỚN!"
+
+@7316 Q Boss · Qボス
+# Kích hoạt: 被击坠（通用，2/2）
+> 「そんなばかなぁぁぁぁっ!」
+"Làm sao có thể?"
+
+@7317 Q Boss · Qボス
+# Kích hoạt: 重伤（剩余 HP 不足 30%）（通用，1/4）
+> 「こ、これはっ!」
+"Cái này, cái này!"
+
+@7318 Q Boss · Qボス
+# Kích hoạt: 重伤（剩余 HP 不足 30%）（通用，2/4）
+> 「エンジンシステムを!?」
+“Hệ thống động cơ!?”
+
+@7319 Q Boss · Qボス
+# Kích hoạt: 重伤（剩余 HP 不足 30%）（通用，3/4）
+> 「くそぅっ!」
+"Chết tiệt!"
+
+@7320 Q Boss · Qボス
+# Kích hoạt: 重伤（剩余 HP 不足 30%）（通用，4/4）
+> 「な、なんだ!?」
+"C-Cái gì!?"
+
+@7321 Q Boss · Qボス
+# Kích hoạt: 中伤（剩余 HP 30–90%）（通用，1/3）
+> 「やってくれたな、ただでは逃がさんぞっ」
+"Ta có ngươi... Đừng nghĩ đến việc trốn thoát như thế này."
+
+@7322 Q Boss · Qボス
+# Kích hoạt: 中伤（剩余 HP 30–90%）（通用，2/3）
+> 「ぐぅ? 貴様っ!」
+"Hả? Anh bạn!"
+
+@7323 Q Boss · Qボス
+# Kích hoạt: 中伤（剩余 HP 30–90%）（通用，3/3）
+> 「おわっ」
+"Ồ"
+
+@7324 Q Boss · Qボス
+# Kích hoạt: 轻伤（剩余 HP 90% 以上）（通用，1/3）
+> 「ほう? その程度かな」
+"Ồ? Đó là tất cả những gì bạn có thể làm à?"
+
+@7325 Q Boss · Qボス
+# Kích hoạt: 轻伤（剩余 HP 90% 以上）（通用，2/3）
+> 「ふはははははっ!」
+"Huhahahahahaha!"
+
+@7326 Q Boss · Qボス
+# Kích hoạt: 轻伤（剩余 HP 90% 以上）（通用，3/3）
+> 「あきらめなさい」
+"Bỏ cuộc"
+
+@7327 Q Boss · Qボス
+# Kích hoạt: Né tránh（通用，1/1）
+> 「フフフ、どこを狙っているのかな」
+"Hehehe, chúng ta sẽ chiến đấu ở đâu đây?"
+
+@7328 Q Boss · Qボス
+# Kích hoạt: Tấn công无效（护罩／装甲）（通用，1/1）
+> 「あきらめなさい」
+"Bỏ cuộc"
+
+@7329 Q Boss · Qボス
+# Kích hoạt: 弹药／EN 不足，无法反击（通用，1/1）
+> 「こ、これは、残弾がゼロだと!?」
+“Cái, cái gì, hết đạn rồi!?”
+
+@7330 Q Boss · Qボス
+# Kích hoạt: 射程外，无法反击（通用，1/1）
+> 「くそぅっ、届かんとは!」
+"Chết tiệt, tôi thậm chí còn không thể chạm tới nó!"

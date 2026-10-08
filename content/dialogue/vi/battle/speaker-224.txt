@@ -1,0 +1,124 @@
+# Bản dịch tiếng Việt Super Robot Wars 64
+# Định dạng và vị trí: docs/guide/dialogue-text.md
+
+@10777 Dale · デル
+# Kích hoạt: Tấn công (Chung，1/4）
+> 「出世がまたはやまるな」
+"Tôi lại có thể được thăng chức sớm."
+
+@10778 Dale · デル
+# Kích hoạt: Tấn công (Chung，2/4）
+> 「我々の力、見せてやろう!」
+"Hãy cho họ thấy sức mạnh của chúng ta!"
+
+@10779 Dale · デル
+# Kích hoạt: Tấn công (Chung，3/4）
+> 「この分なら余裕だな」
+"Với đà này, việc đó sẽ được thực hiện dễ dàng."
+
+@10780 Dale · デル
+# Kích hoạt: Tấn công (Chung，4/4）
+> 「予定よりいけるな」
+“Mượt mà hơn mong đợi”
+
+@10781 Dale · デル
+# Kích hoạt: 被击坠（通用，1/1）
+> 「うお!? うわぁぁぁーっ!!」
+"Uuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuu"
+
+@10782 Dale · デル
+# Kích hoạt: 重伤（剩余 HP 不足 30%）（通用，1/4）
+> 「うぉぉ!? こ、ここまで攻めてか!」
+"Uuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuu tuyệt vời đến vậy!"
+
+@10783 Dale · デル
+# Kích hoạt: 重伤（剩余 HP 不足 30%）（通用，2/4）
+> 「わ、我々が負ける!?」
+“T-chúng ta sẽ thua!?”
+
+@10784 Dale · デル
+# Kích hoạt: 重伤（剩余 HP 不足 30%）（通用，3/4）
+> 「な、なにぃ!?」
+"C-Cái gì!?"
+
+@10785 Dale · デル
+# Kích hoạt: 重伤（剩余 HP 不足 30%）（通用，4/4）
+> 「ぐぅっ! パワー負けだと!?」
+"Ugh! Tôi thậm chí không thể chiến đấu bằng sức mạnh của mình!?"
+
+@10786 Dale · デル
+# Kích hoạt: 中伤（剩余 HP 30–90%）（通用，1/3）
+> 「ぐぅっ! だがこういう奴を倒してこそ
+>  出世もはやまるってもんだ!」
+"Hmm! Nhưng nếu đánh bại được tên này, bạn sẽ thăng tiến nhanh hơn!"
+
+@10787 Dale · デル
+# Kích hoạt: 中伤（剩余 HP 30–90%）（通用，2/3）
+> 「我々をなめてもらってはな!」
+"Đừng đánh giá thấp chúng tôi!"
+
+@10788 Dale · デル
+# Kích hoạt: 中伤（剩余 HP 30–90%）（通用，3/3）
+> 「こ、こいつ……手強いぞ!」
+"Cái này, cái tên này... Khó đối phó!"
+
+@10789 Dale · デル
+# Kích hoạt: 轻伤（剩余 HP 90% 以上）（通用，1/3）
+> 「ザコは捨てるか……?」
+"Bỏ qua những người lính linh tinh, phải không ...?"
+
+@10790 Dale · デル
+# Kích hoạt: 轻伤（剩余 HP 90% 以上）（通用，2/3）
+> 「こんな奴を倒しても出世はせんか」
+"Bạn không thể được thăng chức ngay cả khi bạn đánh bại loại người này."
+
+@10791 Dale · デル
+# Kích hoạt: 轻伤（剩余 HP 90% 以上）（通用，3/3）
+> 「それで攻撃してるつもりか!?」
+“Đây cũng được gọi là tấn công sao!?”
+
+@10792 Dale · デル
+# Kích hoạt: Né tránh（通用，1/2）
+> 「それではあたらないぜ!」
+"Anh không thể đánh tôi như vậy được!"
+
+@10793 Dale · デル
+# Kích hoạt: Né tránh（通用，2/2）
+> 「ははははっ」
+"Hahahaha"
+
+@10794 Dale · デル
+# Kích hoạt: Tấn công无效（护罩／装甲）（通用，1/1）
+> 「ははははっ」
+"Hahahaha"
+
+@10795 Dale · デル
+# Kích hoạt: 弹药／EN 不足，无法反击（通用，1/1）
+> 「弾切れか!?」
+"Hết đạn!?"
+
+@10796 Dale · デル
+# Kích hoạt: 射程外，无法反击（通用，1/1）
+> 「届かないだと!? ええい!」
+"Không thể với tới được!? Chết tiệt!"
+
+@16343 Dale · デル
+# Kích hoạt: 使用〈フィンファンネル〉
+> 「予定よりいけるな」
+“Mượt mà hơn mong đợi”
+
+@16344 Danny · ダニー
+# Kích hoạt: 使用〈3D〉（对话第 1/3 句）
+> 「スリーDの三位一体攻撃からは
+>  何者も逃れることはできないんだよ!」
+"3D Trinity tấn công, không ai có thể trốn thoát!"
+
+@16345 Dale · デル
+# Kích hoạt: 使用〈3D〉（对话第 2/3 句）
+> 「覚悟しな!」
+"Đáng chết!"
+
+@16346 Deune · デューン
+# Kích hoạt: 使用〈3D〉（对话第 3/3 句）
+> 「死神の声が聞こえてきたかい!?」
+"Bạn có nghe thấy tiếng gọi của cái chết không!?"

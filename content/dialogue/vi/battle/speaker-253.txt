@@ -1,0 +1,125 @@
+# Bản dịch tiếng Việt Super Robot Wars 64
+# Định dạng và vị trí: docs/guide/dialogue-text.md
+
+@9644 Dr. Hazuki · 葉月博士
+# Kích hoạt: Tấn công (Chung，1/4）
+> 「発射!」
+"Phóng!"
+
+@9645 Dr. Hazuki · 葉月博士
+# Kích hoạt: Tấn công (Chung，2/4）
+> 「成功してくれ!」
+"Phải thành công!"
+
+@9646 Dr. Hazuki · 葉月博士
+# Kích hoạt: Tấn công (Chung，3/4）
+> 「発射ーっ!」
+"Phóng-!"
+
+@9647 Dr. Hazuki · 葉月博士
+# Kích hoạt: Tấn công (Chung，4/4）
+> 「頼むぞ!」
+"Làm ơn!"
+
+@9648 Dr. Hazuki · 葉月博士
+# Kích hoạt: 被击坠（通用，1/2）
+> 「くっ、しまった……」
+"Chà, tệ quá..."
+
+@9649 Dr. Hazuki · 葉月博士
+# Kích hoạt: 被击坠（通用，2/2）
+> 「バカな、ガンドールが……」
+“Không thể nào, Gondor thực ra…”
+
+@9650 Dr. Hazuki · 葉月博士
+# Kích hoạt: 重伤（剩余 HP 不足 30%）（通用，1/3）
+> 「くっ……いかん、これ以上は……」
+"Ừm...không, nếu chuyện này tiếp tục..."
+
+@9651 Dr. Hazuki · 葉月博士
+# Kích hoạt: 重伤（剩余 HP 不足 30%）（通用，2/3）
+> 「くっ……いかん、最悪の事態だ!」
+"Chà... Rất tiếc, điều tồi tệ nhất đang đến!"
+
+@9652 Dr. Hazuki · 葉月博士
+# Kích hoạt: 重伤（剩余 HP 不足 30%）（通用，3/3）
+> 「くっ……あと、どのくらいもたせられる!?」
+"Hmm...tôi có thể chịu đựng được bao lâu nữa!?"
+
+@9653 Dr. Hazuki · 葉月博士
+# Kích hoạt: 中伤（剩余 HP 30–90%）（通用，1/3）
+> 「何をやっている! シールドを閉めろ!」
+"Bạn đang làm gì vậy! Đóng tấm chắn lại nhanh!"
+
+@9654 Dr. Hazuki · 葉月博士
+# Kích hoạt: 中伤（剩余 HP 30–90%）（通用，2/3）
+> 「まだだ、ガンドールならこの程度の
+>  攻撃は耐えられる」
+"Còn chưa kết thúc, Gundor có thể chịu đựng được đòn tấn công này."
+
+@9655 Dr. Hazuki · 葉月博士
+# Kích hoạt: 中伤（剩余 HP 30–90%）（通用，3/3）
+> 「くっ……いかん、出力をあげろ!」
+"Ừm... không, tăng sản lượng lên!"
+
+@9656 Dr. Hazuki · 葉月博士
+# Kích hoạt: 轻伤（剩余 HP 90% 以上）（通用，1/3）
+> 「うむ……やってくれたな!」
+"Chà... sao ngươi dám làm thế!"
+
+@9657 Dr. Hazuki · 葉月博士
+# Kích hoạt: 轻伤（剩余 HP 90% 以上）（通用，2/3）
+> 「このガンドールを甘くみたな」
+"Ngươi đánh giá thấp Gondor quá nhiều"
+
+@9658 Dr. Hazuki · 葉月博士
+# Kích hoạt: 轻伤（剩余 HP 90% 以上）（通用，3/3）
+> 「ロス・イゴールが残したこの竜は、
+>  これしきのことでは落ちん!」
+"Con rồng do Ross Eagle để lại sẽ không vì chuyện nhỏ nhặt như vậy mà ngã xuống!"
+
+@9659 Dr. Hazuki · 葉月博士
+# Kích hoạt: Né tránh（通用，1/3）
+> 「緊急回避だ!」
+"Tránh khẩn cấp!"
+
+@9660 Dr. Hazuki · 葉月博士
+# Kích hoạt: Né tránh（通用，2/3）
+> 「避けろ!」
+"Tránh xa!"
+
+@9661 Dr. Hazuki · 葉月博士
+# Kích hoạt: Né tránh（通用，3/3）
+> 「急速回避!」
+"Nhanh tránh ra!"
+
+@9662 Dr. Hazuki · 葉月博士
+# Kích hoạt: Tấn công无效（护罩／装甲）（通用，1/2）
+> 「どんなものかな、諸君」
+"Mọi người cảm thấy thế nào?"
+
+@9663 Dr. Hazuki · 葉月博士
+# Kích hoạt: Tấn công无效（护罩／装甲）（通用，2/2）
+> 「このガンドールにはビーム攻撃を
+>  無効化する装備があるのだ」
+“Gondor được trang bị một thiết bị có thể chống lại các cuộc tấn công bằng chùm tia.”
+
+@9664 Dr. Hazuki · 葉月博士
+# Kích hoạt: 弹药／EN 不足，无法反击（通用，1/1）
+> 「エネルギー切れか……」
+“Anh cạn kiệt năng lượng rồi à…”
+
+@9665 Dr. Hazuki · 葉月博士
+# Kích hoạt: 射程外，无法反击（通用，1/1）
+> 「ここからでは届かぬようだな……」
+"Có vẻ như bạn không thể đánh nó từ đây ..."
+
+@14817 Dr. Hazuki · 葉月博士
+# Kích hoạt: 使用〈ガンドール砲／ガンドール砲MAP〉
+> 「ガンドール砲、照準せよ!」
+"Pháo Gandor, nhắm!"
+
+@14818 Dr. Hazuki · 葉月博士
+# Kích hoạt: 使用〈ガンドール砲／ガンドール砲MAP〉
+> 「ガンドール砲、スタンバイ!」
+"Pháo Gondor, chuẩn bị!"

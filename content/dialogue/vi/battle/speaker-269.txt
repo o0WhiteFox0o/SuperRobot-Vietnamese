@@ -1,0 +1,241 @@
+# Bản dịch tiếng Việt Super Robot Wars 64
+# Định dạng và vị trí: docs/guide/dialogue-text.md
+
+@6481 Noin · ノイン
+# Kích hoạt: Tấn công (Chung，1/14）
+> 「とまれぇ!」
+"Dừng lại!"
+
+@6482 Noin · ノイン
+# Kích hoạt: Tấn công (Chung，2/14）
+> 「汚い戦いをするな!」
+"Đừng đánh nhau ác độc như vậy!"
+
+@6483 Noin · ノイン
+# Kích hoạt: Tấn công (Chung，3/14）
+> 「逃げられるわけがない!」
+"Bạn không thể trốn thoát!"
+
+@6484 Noin · ノイン
+# Kích hoạt: Tấn công (Chung，4/14）
+> 「やらせはしないっ!」
+"Tôi sẽ không để bạn thành công!"
+
+@6485 Noin · ノイン
+# Kích hoạt: Tấn công (Chung，5/14）
+> 「この命にかえてもっ!!」
+"Ngay cả khi tôi mạo hiểm mạng sống của mình!!"
+
+@6486 Noin · ノイン
+# Kích hoạt: Tấn công (Chung，6/14）
+> 「落ちろっ!!」
+"Thả tôi xuống!!"
+
+@6487 Noin · ノイン
+# Kích hoạt: Tấn công (Chung，7/14）
+> 「そこっ!」
+"Chính là nó!"
+
+@6488 Noin · ノイン
+# Kích hoạt: Tấn công (Chung，8/14）
+> 「もらった!!」
+"Hiểu rồi!!"
+
+@6489 Noin · ノイン
+# Kích hoạt: Tấn công (Chung，9/14）
+> 「これでとどめだっ!」
+"Một đòn này sẽ kết liễu ngươi!"
+
+@6490 Noin · ノイン
+# Kích hoạt: Tấn công (Chung，10/14）
+> 「うかつなっ!」
+"Quá bất cẩn!"
+
+@6491 Noin · ノイン
+# Kích hoạt: Tấn công (Chung，11/14）
+> 「貴様っ!」
+"Anh bạn!"
+
+@6492 Noin · ノイン
+# Kích hoạt: Tấn công (Chung，12/14）
+> 「ここまでだっ!」
+"Chính là nó!"
+
+@6493 Noin · ノイン
+# Kích hoạt: Tấn công (Chung，13/14）
+> 「ガードがなってないっ!」
+"Phòng thủ đầy lỗ hổng!"
+
+@6494 Noin · ノイン
+# Kích hoạt: Tấn công (Chung，14/14）
+> 「覚悟っ!」
+"Đáng chết!"
+
+@6495 Noin · ノイン
+# Kích hoạt: 被击坠（通用，1/2）
+> 「くうっ……ゼクス……」
+"Chà...Jacks..."
+
+@6496 Noin · ノイン
+# Kích hoạt: 被击坠（通用，2/2）
+> 「だ、だめか……」
+"Không, không thể làm được..."
+
+@6497 Noin · ノイン
+# Kích hoạt: 重伤（剩余 HP 不足 30%）（通用，1/5）
+> 「な、なんの! まだやられたわけではない!」
+"Cái gì, cái này không có gì! Tôi vẫn chưa bị đánh bại!"
+
+@6498 Noin · ノイン
+# Kích hoạt: 重伤（剩余 HP 不足 30%）（通用，2/5）
+> 「つっ……このままでは危険か……」
+"Chà... tiếp tục như thế này rất nguy hiểm..."
+
+@6499 Noin · ノイン
+# Kích hoạt: 重伤（剩余 HP 不足 30%）（通用，3/5）
+> 「うあっ! な、なんてパワー……」
+"Ugh! Quá nhiều sức mạnh..."
+
+@6500 Noin · ノイン
+# Kích hoạt: 重伤（剩余 HP 不足 30%）（通用，4/5）
+> 「くううっ! このまま黙って
+>  やられるわけには……」
+"Hmm! Tôi không thể để người khác tàn sát mình được..."
+
+@6501 Noin · ノイン
+# Kích hoạt: 重伤（剩余 HP 不足 30%）（通用，5/5）
+> 「あぁぅっ、う、動けぇ!」
+"A, ừ, di chuyển, di chuyển!"
+
+@6502 Noin · ノイン
+# Kích hoạt: 中伤（剩余 HP 30–90%）（通用，1/8）
+> 「まだだ! まだ私は戦える!」
+"Vẫn chưa kết thúc! Ta còn có thể chiến đấu!"
+
+@6503 Noin · ノイン
+# Kích hoạt: 中伤（剩余 HP 30–90%）（通用，2/8）
+> 「うっ!! さ、さすがに……」
+"Hmm! Chắc chắn rồi, nó vẫn..."
+
+@6504 Noin · ノイン
+# Kích hoạt: 中伤（剩余 HP 30–90%）（通用，3/8）
+> 「しまった、当たった!?」
+"Ối, bị đánh à!?"
+
+@6505 Noin · ノイン
+# Kích hoạt: 中伤（剩余 HP 30–90%）（通用，4/8）
+> 「つっ! やる! しかし!!」
+"Hmm! Tôi có thể chiến đấu khá tốt! Nhưng!!"
+
+@6506 Noin · ノイン
+# Kích hoạt: 中伤（剩余 HP 30–90%）（通用，5/8）
+> 「あうっ!! や、やらせないっ!」
+"A! Không, ta sẽ không để ngươi thành công!"
+
+@6507 Noin · ノイン
+# Kích hoạt: 中伤（剩余 HP 30–90%）（通用，6/8）
+> 「まだまだっ!! これしきのことでっ!!」
+"Vẫn còn quá sớm!! Đây chỉ là một vết thương nhỏ thôi!!"
+
+@6508 Noin · ノイン
+# Kích hoạt: 中伤（剩余 HP 30–90%）（通用，7/8）
+> 「やる! だがっここまでだ!」
+"Nó khá tốt! Nhưng chỉ thế thôi!"
+
+@6509 Noin · ノイン
+# Kích hoạt: 中伤（剩余 HP 30–90%）（通用，8/8）
+> 「くそっどうした!?」
+"Chết tiệt, chuyện gì đang xảy ra vậy!?"
+
+@6510 Noin · ノイン
+# Kích hoạt: 轻伤（剩余 HP 90% 以上）（通用，1/5）
+> 「この程度でっ!!」
+"Đó là tất cả!"
+
+@6511 Noin · ノイン
+# Kích hoạt: 轻伤（剩余 HP 90% 以上）（通用，2/5）
+> 「効きはしないっ!」
+"Nó không đau hay ngứa chút nào!"
+
+@6512 Noin · ノイン
+# Kích hoạt: 轻伤（剩余 HP 90% 以上）（通用，3/5）
+> 「当たっただけだ、こんなもの!」
+"Chỉ là một vết thương nhẹ thôi. Không có gì đâu!"
+
+@6513 Noin · ノイン
+# Kích hoạt: 轻伤（剩余 HP 90% 以上）（通用，4/5）
+> 「そんな攻撃で落ちるものか!」
+"Bạn thậm chí không thể đánh bại tôi bằng kiểu tấn công đó!"
+
+@6514 Noin · ノイン
+# Kích hoạt: 轻伤（剩余 HP 90% 以上）（通用，5/5）
+> 「損傷軽微、いける!!」
+"Thiệt hại không đáng kể và tôi vẫn có thể chiến đấu!!"
+
+@6515 Noin · ノイン
+# Kích hoạt: Né tránh（通用，1/6）
+> 「甘いなっ!!」
+"Thật ngây thơ!!"
+
+@6516 Noin · ノイン
+# Kích hoạt: Né tránh（通用，2/6）
+> 「当たるものかっ!!」
+"Sao có thể đánh trúng được!!"
+
+@6517 Noin · ノイン
+# Kích hoạt: Né tránh（通用，3/6）
+> 「なんのっ!」
+"Cái gì thế này!"
+
+@6518 Noin · ノイン
+# Kích hoạt: Né tránh（通用，4/6）
+> 「ふ……まるで素人だな」
+"Hmph...anh ấy chỉ là một thường dân thôi."
+
+@6519 Noin · ノイン
+# Kích hoạt: Né tránh（通用，5/6）
+> 「見切った!」
+"Xem qua đi!"
+
+@6520 Noin · ノイン
+# Kích hoạt: Né tránh（通用，6/6）
+> 「遅いっ!」
+"Quá chậm!"
+
+@6521 Noin · ノイン
+# Kích hoạt: Tấn công无效（护罩／装甲）（通用，1/1）
+> 「ビームなど、効きはしないっ!!」
+"Rầm và những thứ khác không hề đau hay ngứa chút nào!!"
+
+@6522 Noin · ノイン
+# Kích hoạt: 弹药／EN 不足，无法反击（通用，1/1）
+> 「なにっ!? 弾切れだと……」
+"Cái gì!? Không có đạn..."
+
+@6523 Noin · ノイン
+# Kích hoạt: 射程外，无法反击（通用，1/1）
+> 「ちっ、この距離ではどうしようもない…」
+“Chậc, không thể nào nó lại xa đến thế được…”
+
+@14323 Noin · ノイン
+# Kích hoạt: 使用〈フィンファンネル〉
+> 「フィンファンネルっ!!」
+"Pháo nổi có vây!!"
+
+@14324 Noin · ノイン
+# Kích hoạt: 中伤（剩余 HP 30–90%），乘坐〈ヴァイエイト〉
+> 「モビルドールに戦術的なプログラムが
+>  されている!?」
+“Con búp bê di động được trang bị chương trình chiến thuật!?”
+
+@14325 Noin · ノイン
+# Kích hoạt: 中伤（剩余 HP 30–90%），乘坐〈ビルゴ〉
+> 「モビルドールに戦術的なプログラムが
+>  されている!?」
+“Con búp bê di động được trang bị chương trình chiến thuật!?”
+
+@14326 Noin · ノイン
+# Kích hoạt: 中伤（剩余 HP 30–90%），乘坐〈ビルゴⅡ〉
+> 「モビルドールに戦術的なプログラムが
+>  されている!?」
+“Con búp bê di động được trang bị chương trình chiến thuật!?”

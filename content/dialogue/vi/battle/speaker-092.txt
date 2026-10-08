@@ -1,0 +1,420 @@
+# Bản dịch tiếng Việt Super Robot Wars 64
+# Định dạng và vị trí: docs/guide/dialogue-text.md
+
+@6202 Duo · デュオ
+# Kích hoạt: Tấn công (Chung，1/17）
+> 「よぉし、もらったぜぇ!」
+"Được rồi, hiểu rồi!"
+
+@6203 Duo · デュオ
+# Kích hoạt: Tấn công (Chung，2/17）
+> 「今日は、後へは退けないぜぇ!」
+"Hôm nay tôi sẽ không lùi bước!"
+
+@6204 Duo · デュオ
+# Kích hoạt: Tấn công (Chung，3/17）
+> 「こっちからいくぜぇ!」
+"Tôi đi trước!"
+
+@6205 Duo · デュオ
+# Kích hoạt: Tấn công (Chung，4/17）
+> 「へへっ、死ぬぜぇ、死んじまうぞぉっ!」
+"Này, tôi sắp chết, cậu chết rồi!"
+
+@6206 Duo · デュオ
+# Kích hoạt: Tấn công (Chung，5/17）
+> 「ばっかやろーっ!」
+“Đồ khốn——!”
+
+@6207 Duo · デュオ
+# Kích hoạt: Tấn công (Chung，6/17）
+> 「はやいな」
+“Nhanh quá”
+
+@6208 Duo · デュオ
+# Kích hoạt: Tấn công (Chung，7/17）
+> 「やられちまえってんだよ!!」
+"Xuống địa ngục đi!!"
+
+@6209 Duo · デュオ
+# Kích hoạt: Tấn công (Chung，8/17）
+> 「死ねよっ!!」
+"Xuống địa ngục đi!!"
+
+@6210 Duo · デュオ
+# Kích hoạt: Tấn công (Chung，9/17）
+> 「邪魔すんなっつってんだろ!!」
+"Tôi đã bảo cậu tránh ra mà!!"
+
+@6211 Duo · デュオ
+# Kích hoạt: Tấn công (Chung，10/17）
+> 「いっくぜぇぇぇぇっ!!」
+"Có-!!"
+
+@6212 Duo · デュオ
+# Kích hoạt: Tấn công (Chung，11/17）
+> 「覚悟しなっ!!」
+"Chấp nhận số phận của bạn!!"
+
+@6213 Duo · デュオ
+# Kích hoạt: Tấn công (Chung，12/17）
+> 「このやろおぉぉぉっ!!」
+“Đồ khốn—! ! "
+
+@6214 Duo · デュオ
+# Kích hoạt: Tấn công (Chung，13/17）
+> 「やろおぉぉぉぉーっ!」
+“Đồ khốn——!”
+
+@6215 Duo · デュオ
+# Kích hoạt: Tấn công (Chung，14/17）
+> 「じゃまだ、どけぇぇぇっ!!」
+“Ngươi đang cản đường, tránh ra——!!”
+
+@6216 Duo · デュオ
+# Kích hoạt: Tấn công (Chung，15/17）
+> 「うかつに俺に近づくやつは……
+>  死ぬぜぇっ!」
+"Ai dám đến gần ta... sẽ chết!"
+
+@6217 Duo · デュオ
+# Kích hoạt: Tấn công (Chung，16/17）
+> 「俺と一緒に地獄へ行こうぜぇ!」
+"Hãy xuống địa ngục với tôi!"
+
+@6218 Duo · デュオ
+# Kích hoạt: Tấn công (Chung，17/17）
+> 「これで終わりだぁーっ!」
+“Chính là nó—!”
+
+@6219 Duo · デュオ
+# Kích hoạt: 被击坠（通用，1/2）
+> 「げ～……俺ってカッコわりぃ」
+"Ừm~...tôi thật kém cỏi."
+
+@6220 Duo · デュオ
+# Kích hoạt: 被击坠（通用，2/2）
+> 「うわ!? チッ、悪いが俺はここでリタイア
+>  だ」
+"Wow!? Tsk, xin lỗi, tôi sẽ nghỉ việc ở đây."
+
+@6221 Duo · デュオ
+# Kích hoạt: 重伤（剩余 HP 不足 30%）（通用，1/10）
+> 「あたた……こいつぁヤバイぜ」
+"Đau quá...điều này không tốt chút nào."
+
+@6222 Duo · デュオ
+# Kích hoạt: 重伤（剩余 HP 不足 30%）（通用，2/10）
+> 「くうぅ～っ!! 効いたぁ……」
+"Ư~!! Đau quá..."
+
+@6223 Duo · デュオ
+# Kích hoạt: 重伤（剩余 HP 不足 30%）（通用，3/10）
+> 「うあっ!! ま、まじぃ……」
+"Ugh!! Ối, ôi..."
+
+@6224 Duo · デュオ
+# Kích hoạt: 重伤（剩余 HP 不足 30%）（通用，4/10）
+> 「かあ～っ! やべえ、やられすぎたか」
+"Gah~! Ôi không, tôi bị đánh nặng quá."
+
+@6225 Duo · デュオ
+# Kích hoạt: 重伤（剩余 HP 不足 30%）（通用，5/10）
+> 「げ! マジかよおいっ!?」
+"Ừm! Không, hả!?"
+
+@6226 Duo · デュオ
+# Kích hoạt: 重伤（剩余 HP 不足 30%）（通用，6/10）
+> 「おぉぅ!? まいったねこりゃ……」
+"Ồ!? Điều này thực sự rất căng thẳng..."
+
+@6227 Duo · デュオ
+# Kích hoạt: 重伤（剩余 HP 不足 30%）（通用，7/10）
+> 「半端じゃないぜ、この攻撃は!」
+"Cuộc tấn công này không phải là trò đùa!"
+
+@6228 Duo · デュオ
+# Kích hoạt: 重伤（剩余 HP 不足 30%）（通用，8/10）
+> 「ざまぁねぇや……」
+"Thật xấu hổ..."
+
+@6229 Duo · デュオ
+# Kích hoạt: 重伤（剩余 HP 不足 30%）（通用，9/10）
+> 「冗談じゃねぇ!」
+"Thật là một trò đùa!"
+
+@6230 Duo · デュオ
+# Kích hoạt: 重伤（剩余 HP 不足 30%）（通用，10/10）
+> 「うっ、なんてぇスピードとパワーなんだ!?」
+“Hmm, tốc độ và sức mạnh này là sao vậy!?”
+
+@6231 Duo · デュオ
+# Kích hoạt: 中伤（剩余 HP 30–90%）（通用，1/11）
+> 「つうっ、さすがはてごわいぜぇ」
+"Ha ha, thật sự là khó giải quyết."
+
+@6232 Duo · デュオ
+# Kích hoạt: 中伤（剩余 HP 30–90%）（通用，2/11）
+> 「な、なんのっ!!」
+"Cái này, cái gì thế này!!"
+
+@6233 Duo · デュオ
+# Kích hoạt: 中伤（剩余 HP 30–90%）（通用，3/11）
+> 「あいてっ!! やるじゃねえか」
+"Đau quá!! Có chút đau."
+
+@6234 Duo · デュオ
+# Kích hoạt: 中伤（剩余 HP 30–90%）（通用，4/11）
+> 「こ、この! 俺を本気にさせたな!!」
+"Chết tiệt! Bạn thực sự đã khiến tôi làm điều đó!!"
+
+@6235 Duo · デュオ
+# Kích hoạt: 中伤（剩余 HP 30–90%）（通用，5/11）
+> 「あつっ!!
+>  この……いい気になるんじゃねえっ!!」
+"Trời nóng quá!! Cậu... đừng sốt ruột quá!!"
+
+@6236 Duo · デュオ
+# Kích hoạt: 中伤（剩余 HP 30–90%）（通用，6/11）
+> 「あうっ!! 何しやがる!!」
+"A!! Bạn đang làm gì vậy!!"
+
+@6237 Duo · デュオ
+# Kích hoạt: 中伤（剩余 HP 30–90%）（通用，7/11）
+> 「あたた……やってくれるじゃねえの!」
+"Đau quá... khá tốt!"
+
+@6238 Duo · デュオ
+# Kích hoạt: 中伤（剩余 HP 30–90%）（通用，8/11）
+> 「本気で俺を怒らせるなよ、
+>  長生きしたかったらな!」
+"Muốn sống sót, đừng thật sự chọc giận ta!"
+
+@6239 Duo · デュオ
+# Kích hoạt: 中伤（剩余 HP 30–90%）（通用，9/11）
+> 「くそっ、ふざけやがって!」
+"Chết tiệt, đùa gì vậy!"
+
+@6240 Duo · デュオ
+# Kích hoạt: 中伤（剩余 HP 30–90%）（通用，10/11）
+> 「こう攻撃が厳しいんじゃ動きが
+>  とれないぜ」
+"Công kích dữ dội như vậy, ta không thể động đậy."
+
+@6241 Duo · デュオ
+# Kích hoạt: 中伤（剩余 HP 30–90%）（通用，11/11）
+> 「くっ、これじゃ前へ進めないぜ」
+"Chà, bây giờ tôi không thể vượt qua được."
+
+@6242 Duo · デュオ
+# Kích hoạt: 轻伤（剩余 HP 90% 以上）（通用，1/4）
+> 「なんだよ、そんなもんか?」
+“Cái gì, đó là tất cả những gì cậu có à?”
+
+@6243 Duo · デュオ
+# Kích hoạt: 轻伤（剩余 HP 90% 以上）（通用，2/4）
+> 「あ～ん? 効いてねえぜ」
+"A~? Nó không đau hay ngứa chút nào cả."
+
+@6244 Duo · デュオ
+# Kích hoạt: 轻伤（剩余 HP 90% 以上）（通用，3/4）
+> 「はははっ!! ち～っとも効かねえな!」
+"Hahaha!! Nó không có tác dụng gì cả!"
+
+@6245 Duo · デュオ
+# Kích hoạt: 轻伤（剩余 HP 90% 以上）（通用，4/4）
+> 「どうしたどうした、その程度か!?」
+"Có chuyện gì thế? Đó là tất cả những gì bạn có à?"
+
+@6246 Duo · デュオ
+# Kích hoạt: Né tránh（通用，1/10）
+> 「お～っと!」
+"Ồ~ yo!"
+
+@6247 Duo · デュオ
+# Kích hoạt: Né tránh（通用，2/10）
+> 「当たらねえよ!!」
+"Không thể đánh tôi!!"
+
+@6248 Duo · デュオ
+# Kích hoạt: Né tránh（通用，3/10）
+> 「どこ狙ってんだよ、へたくそ!」
+"Bạn đang nhắm đến đâu, tân binh!"
+
+@6249 Duo · デュオ
+# Kích hoạt: Né tránh（通用，4/10）
+> 「へへっ、なんだよ、余裕じゃねぇか」
+"Này, cái gì, bình tĩnh nào?"
+
+@6250 Duo · デュオ
+# Kích hoạt: Né tránh（通用，5/10）
+> 「よっと、こんなもんか?」
+"Này, vậy thôi à?"
+
+@6251 Duo · デュオ
+# Kích hoạt: Né tránh（通用，6/10）
+> 「甘いってんだよ!」
+"Thật ngây thơ!"
+
+@6252 Duo · デュオ
+# Kích hoạt: Né tránh（通用，7/10）
+> 「とりあえず、かわしときますか」
+“Ẩn một lúc trước khi nói chuyện.”
+
+@6253 Duo · デュオ
+# Kích hoạt: Né tránh（通用，8/10）
+> 「このデュオ様に当てようなんて、
+>  100年早いんだよ!」
+“Còn quá sớm một trăm năm để đánh tôi, ngài Dio!”
+
+@6254 Duo · デュオ
+# Kích hoạt: Né tránh（通用，9/10）
+> 「おっとっと、自慢じゃねえが、
+>  逃げるのは得意なんでね!」
+"Ai, ta không phải khoe khoang, chạy trốn là chuyên môn của ta!"
+
+@6255 Duo · デュオ
+# Kích hoạt: Né tránh（通用，10/10）
+> 「嘘はつかねぇが逃げ隠れは
+>  得意でねぇっ!」
+"Tôi sẽ không nói dối, nhưng trốn ở đây và ở đó là sức mạnh của tôi!"
+
+@6256 Duo · デュオ
+# Kích hoạt: Tấn công无效（护罩／装甲）（通用，1/2）
+> 「へん、そんなビームなんざ!!」
+“Hừm, đây là loại tia sáng gì vậy?!”
+
+@6257 Duo · デュオ
+# Kích hoạt: Tấn công无效（护罩／装甲）（通用，2/2）
+> 「ムダなんだよ、ムダムダ!!」
+"Vô dụng, vô dụng, vô dụng!!"
+
+@6258 Duo · デュオ
+# Kích hoạt: 弹药／EN 不足，无法反击（通用，1/1）
+> 「あちゃあ……弾切れかよ」
+"Ối... Thực ra tôi hết đạn rồi."
+
+@6259 Duo · デュオ
+# Kích hoạt: 射程外，无法反击（通用，1/2）
+> 「げっ!? 届かねえんでやんの」
+"Ừm!? Tôi không thể đánh anh được."
+
+@6260 Duo · デュオ
+# Kích hoạt: 射程外，无法反击（通用，2/2）
+> 「なんだぁ? 届かないってのかよ!?」
+"Bạn đang làm gì vậy? Bạn không thể đánh tôi!?"
+
+@14272 Duo · デュオ
+# Kích hoạt: 使用〈ビームサイズ／ツインビームサイズ／ビームシザース〉（低优先，可能被通用台词顶掉）
+> 「さあて、いっちょ行きますか!」
+"Được rồi, chúng ta bắt đầu thôi!"
+
+@14273 Duo · デュオ
+# Kích hoạt: 使用〈ビームサイズ／ツインビームサイズ／ビームシザース〉（低优先，可能被通用台词顶掉）
+> 「突撃あるのみ!!」
+“Chỉ cần tiến về phía trước!!”
+
+@14274 Duo · デュオ
+# Kích hoạt: 使用〈ビームサイズ／ツインビームサイズ／ビームシザース〉（低优先，可能被通用台词顶掉）
+> 「こちらデュオ!
+>  切って切って切りまくるぜ!」
+"Đây là Dio! Chẹp, chặt, chặt!"
+
+@14275 Duo · デュオ
+# Kích hoạt: Tấn công，乘坐〈ガンダムデスサイズ〉
+> 「おらおらっ! 死神様のおとおりだ!」
+"Tiến lên, cố lên! Thần Chết đang ở đây!"
+
+@14276 Duo · デュオ
+# Kích hoạt: Tấn công，乘坐〈ガンダムデスサイズH〉
+> 「おらおらっ! 死神様のおとおりだ!」
+"Tiến lên, cố lên! Thần Chết đang ở đây!"
+
+@14277 Duo · デュオ
+# Kích hoạt: Tấn công，乘坐〈デスサイズHカスタム〉
+> 「おらおらっ! 死神様のおとおりだ!」
+"Tiến lên, cố lên! Thần Chết đang ở đây!"
+
+@14278 Duo · デュオ
+# Kích hoạt: Tấn công，乘坐〈ヴァイエイト〉
+> 「所詮コピーじゃねぇか!」
+"Cuối cùng chỉ là một bản sao!"
+
+@14279 Duo · デュオ
+# Kích hoạt: Tấn công，乘坐〈ビルゴ〉
+> 「所詮コピーじゃねぇか!」
+"Cuối cùng chỉ là một bản sao!"
+
+@14280 Duo · デュオ
+# Kích hoạt: Tấn công，乘坐〈ビルゴⅡ〉
+> 「所詮コピーじゃねぇか!」
+"Cuối cùng chỉ là một bản sao!"
+
+@14281 Duo · デュオ
+# Kích hoạt: Tấn công，乘坐〈ヴァイエイト〉
+> 「人形ごときに負けてて
+>  ガンダムのパイロットがつとまるかぁ!」
+"Bạn thậm chí không thể đánh bại một con búp bê bị hỏng, làm sao bạn vẫn có thể là một phi công của Gundam!"
+
+@14282 Duo · デュオ
+# Kích hoạt: Tấn công，乘坐〈ビルゴ〉
+> 「人形ごときに負けてて
+>  ガンダムのパイロットがつとまるかぁ!」
+"Bạn thậm chí không thể đánh bại một con búp bê bị hỏng, làm sao bạn vẫn có thể là một phi công của Gundam!"
+
+@14283 Duo · デュオ
+# Kích hoạt: Tấn công，乘坐〈ビルゴⅡ〉
+> 「人形ごときに負けてて
+>  ガンダムのパイロットがつとまるかぁ!」
+"Bạn thậm chí không thể đánh bại một con búp bê bị hỏng, làm sao bạn vẫn có thể là một phi công của Gundam!"
+
+@14284 Duo · デュオ
+# Kích hoạt: 被击坠，乘坐〈ガンダムデスサイズ〉
+> 「ちっ、出力ゼロか。
+>  このデスサイズも死んだな……」
+"Chậc, sức mạnh đã trở về số 0. Thần chết này cũng đã kết thúc rồi..."
+
+@14285 Duo · デュオ
+# Kích hoạt: 被击坠，乘坐〈ガンダムデスサイズH〉
+> 「ちっ、出力ゼロか。
+>  このデスサイズも死んだな……」
+"Chậc, sức mạnh đã trở về số 0. Thần chết này cũng đã kết thúc rồi..."
+
+@14286 Duo · デュオ
+# Kích hoạt: 被击坠，乘坐〈デスサイズHカスタム〉
+> 「ちっ、出力ゼロか。
+>  このデスサイズも死んだな……」
+"Chậc, sức mạnh đã trở về số 0. Thần chết này cũng đã kết thúc rồi..."
+
+@14287 Duo · デュオ
+# Kích hoạt: 被击坠，乘坐〈ガンダムデスサイズ〉
+> 「その程度で死神がとめられると
+>  思うなよ!」
+“Đừng nghĩ rằng chỉ bằng năng lực này là có thể ngăn chặn được Thần Chết!”
+
+@14288 Duo · デュオ
+# Kích hoạt: 被击坠，乘坐〈ガンダムデスサイズH〉
+> 「その程度で死神がとめられると
+>  思うなよ!」
+“Đừng nghĩ rằng chỉ bằng năng lực này là có thể ngăn chặn được Thần Chết!”
+
+@14289 Duo · デュオ
+# Kích hoạt: 被击坠，乘坐〈デスサイズHカスタム〉
+> 「その程度で死神がとめられると
+>  思うなよ!」
+“Đừng nghĩ rằng chỉ bằng năng lực này là có thể ngăn chặn được Thần Chết!”
+
+@14290 Duo · デュオ
+# Kích hoạt: Tấn công无效（护罩／装甲），乘坐〈ガンダムデスサイズ〉
+> 「このデスサイズがそんなビームごときで!」
+"Thần chết này sao có thể sợ loại tia này!"
+
+@14291 Duo · デュオ
+# Kích hoạt: Tấn công无效（护罩／装甲），乘坐〈ガンダムデスサイズH〉
+> 「このデスサイズがそんなビームごときで!」
+"Thần chết này sao có thể sợ loại tia này!"
+
+@14292 Duo · デュオ
+# Kích hoạt: Tấn công无效（护罩／装甲），乘坐〈デスサイズHカスタム〉
+> 「このデスサイズがそんなビームごときで!」
+"Thần chết này sao có thể sợ loại tia này!"

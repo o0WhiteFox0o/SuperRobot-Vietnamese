@@ -1,0 +1,148 @@
+# Bản dịch tiếng Việt Super Robot Wars 64
+# Định dạng và vị trí: docs/guide/dialogue-text.md
+
+@5956 Aina · アイナ
+# Kích hoạt: Tấn công (Chung，1/9）
+> 「撃ちます……」
+“Tôi sẽ nổ súng…”
+
+@5957 Aina · アイナ
+# Kích hoạt: Tấn công (Chung，2/9）
+> 「離れなさい、死にたいのですか!?」
+"Mau rời đi, ngươi muốn chết sao!?"
+
+@5958 Aina · アイナ
+# Kích hoạt: Tấn công (Chung，3/9）
+> 「仕方がないのです!」
+"Tôi không thể giúp được!"
+
+@5959 Aina · アイナ
+# Kích hoạt: Tấn công (Chung，4/9）
+> 「なんて無謀な」
+“太鲁莽了……”
+
+@5960 Aina · アイナ
+# Kích hoạt: Tấn công (Chung，5/9）
+> 「直撃させます!」
+“Tôi sẽ cho cậu thưởng thức nó!”
+
+@5961 Aina · アイナ
+# Kích hoạt: Tấn công (Chung，6/9）
+> 「いきます!」
+"Lên!"
+
+@5962 Aina · アイナ
+# Kích hoạt: Tấn công (Chung，7/9）
+> 「離れなさい!」
+"Nhanh rời đi!"
+
+@5963 Aina · アイナ
+# Kích hoạt: Tấn công (Chung，8/9）
+> 「撃ちます!」
+“我要开火了!”
+
+@5964 Aina · アイナ
+# Kích hoạt: Tấn công (Chung，9/9）
+> 「出てこなければ!」
+"Ngươi không nên đi ra ngoài!"
+
+@5965 Aina · アイナ
+# Kích hoạt: 被击坠（通用，1/2）
+> 「シローッッ!」
+“士郎——!”
+
+@5966 Aina · アイナ
+# Kích hoạt: 被击坠（通用，2/2）
+> 「きゃあぁぁぁぁっっ!」
+"Ahhhhhhhhh!"
+
+@5967 Aina · アイナ
+# Kích hoạt: 重伤（剩余 HP 不足 30%）（通用，1/4）
+> 「も、もうもたない……」
+“Nhanh lên, tôi không thể chịu đựng được nữa…”
+
+@5968 Aina · アイナ
+# Kích hoạt: 重伤（剩余 HP 不足 30%）（通用，2/4）
+> 「も、もう限界です!」
+“Nó, nó đã đạt tới giới hạn rồi!”
+
+@5969 Aina · アイナ
+# Kích hoạt: 重伤（剩余 HP 不足 30%）（通用，3/4）
+> 「くっ! かなりやられてしまったわね……」
+"Ồ! Vết thương nghiêm trọng quá..."
+
+@5970 Aina · アイナ
+# Kích hoạt: 重伤（剩余 HP 不足 30%）（通用，4/4）
+> 「ここで……死ぬの!?」
+"Tôi... sắp chết ở đây sao!?"
+
+@5971 Aina · アイナ
+# Kích hoạt: 中伤（剩余 HP 30–90%）（通用，1/4）
+> 「うっ、過重が大きすぎるの!?」
+"Hmm, có phải quá tải quá không!?"
+
+@5972 Aina · アイナ
+# Kích hoạt: 中伤（剩余 HP 30–90%）（通用，2/4）
+> 「機体の安定が……っ!」
+"Máy gần như không ổn định...!"
+
+@5973 Aina · アイナ
+# Kích hoạt: 中伤（剩余 HP 30–90%）（通用，3/4）
+> 「あぁっ、だめだわっ!」
+"A, không thể nào!"
+
+@5974 Aina · アイナ
+# Kích hoạt: 中伤（剩余 HP 30–90%）（通用，4/4）
+> 「あぁぁぁーっ!」
+“Ahhhhhh——!”
+
+@5975 Aina · アイナ
+# Kích hoạt: 轻伤（剩余 HP 90% 以上）（通用，1/3）
+> 「うっ、まだこの程度では」
+"Ừ, vết thương nhỏ này không sao đâu."
+
+@5976 Aina · アイナ
+# Kích hoạt: 轻伤（剩余 HP 90% 以上）（通用，2/3）
+> 「はっ」
+"À!"
+
+@5977 Aina · アイナ
+# Kích hoạt: 轻伤（剩余 HP 90% 以上）（通用，3/3）
+> 「くっ」
+"Hừm! "
+
+@5978 Aina · アイナ
+# Kích hoạt: Né tránh（通用，1/3）
+> 「ふぅ、なんとかかわせたようですね」
+"Phew, cuối cùng tôi cũng thoát được."
+
+@5979 Aina · アイナ
+# Kích hoạt: Né tránh（通用，2/3）
+> 「あぶないところでした」
+"Thật nguy hiểm."
+
+@5980 Aina · アイナ
+# Kích hoạt: Né tránh（通用，3/3）
+> 「あたるわけにはいかないのです!」
+"Tôi không thể bị đánh!"
+
+@5981 Aina · アイナ
+# Kích hoạt: Tấn công无效（护罩／装甲）（通用，1/1）
+> 「思ったより振動は小さいわ……」
+"Rung động nhỏ hơn dự kiến..."
+
+@5982 Aina · アイナ
+# Kích hoạt: 弹药／EN 不足，无法反击（通用，1/1）
+> 「も、もう撃ちつくしてしまった!?」
+"Nó đã được thắp sáng chưa!?"
+
+@5983 Aina · アイナ
+# Kích hoạt: 射程外，无法反击（通用，1/1）
+> 「くっ、この距離ではだめ!」
+"Chà, khoảng cách này không được đâu!"
+
+@14236 Aina · アイナ
+# Kích hoạt: 使用〈ハイメガキャノン〉（低优先，可能被通用台词顶掉）
+> 「エネルギー充填……
+>  いけっ! ハイメガキャノン!!」
+"Nạp năng lượng... tiếp tục! Mega Cannon năng lượng cao!!"

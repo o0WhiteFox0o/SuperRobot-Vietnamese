@@ -1,0 +1,174 @@
+# Bản dịch tiếng Việt Super Robot Wars 64
+# Định dạng và vị trí: docs/guide/dialogue-text.md
+
+@5813 Kou · コウ
+# Kích hoạt: Tấn công (Chung，1/12）
+> 「このやろうっ!!」
+"Đồ khốn nạn!!"
+
+@5814 Kou · コウ
+# Kích hoạt: Tấn công (Chung，2/12）
+> 「くらえっ!!」
+"Ăn chiêu của tôi đi!!"
+
+@5815 Kou · コウ
+# Kích hoạt: Tấn công (Chung，3/12）
+> 「やらせるかっ!」
+"Đừng nghĩ tới chuyện đó nữa!"
+
+@5816 Kou · コウ
+# Kích hoạt: Tấn công (Chung，4/12）
+> 「いけーっ!」
+"Nào——!"
+
+@5817 Kou · コウ
+# Kích hoạt: Tấn công (Chung，5/12）
+> 「あたれぇーっ!」
+“Đánh tôi đi—!”
+
+@5818 Kou · コウ
+# Kích hoạt: Tấn công (Chung，6/12）
+> 「させるかぁっ!」
+"Thật là một ý nghĩ đẹp đẽ!"
+
+@5819 Kou · コウ
+# Kích hoạt: Tấn công (Chung，7/12）
+> 「ウラキ、突貫します!!」
+"Uraki, tấn công!!"
+
+@5820 Kou · コウ
+# Kích hoạt: Tấn công (Chung，8/12）
+> 「でやーっ!!」
+"Này-!!"
+
+@5821 Kou · コウ
+# Kích hoạt: Tấn công (Chung，9/12）
+> 「ゆくぞっ!!」
+"Hiểu rồi!!"
+
+@5822 Kou · コウ
+# Kích hoạt: Tấn công (Chung，10/12）
+> 「これで、ダウンだ!」
+"Cú đánh này sẽ khiến bạn ngã xuống!"
+
+@5823 Kou · コウ
+# Kích hoạt: Tấn công (Chung，11/12）
+> 「しずめぇーっ!!」
+“Chìm xuống—!!”
+
+@5824 Kou · コウ
+# Kích hoạt: Tấn công (Chung，12/12）
+> 「直撃させるっ!!」
+"Hãy để bạn ăn hết mình!!"
+
+@5825 Kou · コウ
+# Kích hoạt: 被击坠（通用，1/4）
+> 「う、うわっ!?」
+"W-Wow!?"
+
+@5826 Kou · コウ
+# Kích hoạt: 被击坠（通用，2/4）
+> 「うわっ! やられたっ!!」
+"Ồ! Bị giết rồi!!"
+
+@5827 Kou · コウ
+# Kích hoạt: 被击坠（通用，3/4）
+> 「ちくしょう! やられちまった!」
+"Chết tiệt! Tôi đã bị giết!"
+
+@5828 Kou · コウ
+# Kích hoạt: 被击坠（通用，4/4）
+> 「しまった! 脱出を!!」
+"Rất tiếc! Hãy nhanh chóng phóng ra và trốn thoát!!"
+
+@5829 Kou · コウ
+# Kích hoạt: 重伤（剩余 HP 不足 30%）（通用，1/3）
+> 「うっ! やられる!?」
+"Hmm! Bạn sắp bị giết à!?"
+
+@5830 Kou · コウ
+# Kích hoạt: 重伤（剩余 HP 不足 30%）（通用，2/3）
+> 「くっ! このままじゃ……」
+"Chà! Nếu chuyện này tiếp tục..."
+
+@5831 Kou · コウ
+# Kích hoạt: 重伤（剩余 HP 不足 30%）（通用，3/3）
+> 「うわっ! やられる!?」
+"Wow! Bạn sắp bị giết à!?"
+
+@5832 Kou · コウ
+# Kích hoạt: 中伤（剩余 HP 30–90%）（通用，1/3）
+> 「くっ!! やるなっ!!」
+"Ugh!! Phải mất một lúc đấy!!"
+
+@5833 Kou · コウ
+# Kích hoạt: 中伤（剩余 HP 30–90%）（通用，2/3）
+> 「くっ!!
+>  だが、この程度ならまだいける!」
+"Hmm!! Nhưng tôi vẫn có thể giữ được mức độ này!"
+
+@5834 Kou · コウ
+# Kích hoạt: 中伤（剩余 HP 30–90%）（通用，3/3）
+> 「ッ!! まだだ!!」
+"!! Vẫn chưa kết thúc đâu!!"
+
+@5835 Kou · コウ
+# Kích hoạt: 轻伤（剩余 HP 90% 以上）（通用，1/3）
+> 「この程度のダメージ!!」
+"Tổn thương nhỏ này không là gì cả!"
+
+@5836 Kou · コウ
+# Kích hoạt: 轻伤（剩余 HP 90% 以上）（通用，2/3）
+> 「この程度のダメージなら!」
+"Ngươi còn có thể chịu được chút tổn thương này!"
+
+@5837 Kou · コウ
+# Kích hoạt: 轻伤（剩余 HP 90% 以上）（通用，3/3）
+> 「効くかよ!!」
+“Làm sao nó có thể hoạt động được!!”
+
+@5838 Kou · コウ
+# Kích hoạt: Né tránh（通用，1/4）
+> 「ふーっ、間一髪……」
+"Huh——, nguy hiểm quá..."
+
+@5839 Kou · コウ
+# Kích hoạt: Né tránh（通用，2/4）
+> 「あまいっ!!」
+"Thật ngây thơ!!"
+
+@5840 Kou · コウ
+# Kích hoạt: Né tránh（通用，3/4）
+> 「あたってたまるかよっ!!」
+"Làm sao có thể bị đánh được!!"
+
+@5841 Kou · コウ
+# Kích hoạt: Né tránh（通用，4/4）
+> 「間に合えぇぇーっ!!」
+“Bắt lấy tôi——!!”
+
+@5842 Kou · コウ
+# Kích hoạt: Tấn công无效（护罩／装甲）（通用，1/2）
+> 「ムダだっ!!」
+"Thật vô dụng!!"
+
+@5843 Kou · コウ
+# Kích hoạt: Tấn công无效（护罩／装甲）（通用，2/2）
+> 「ビームなど!」
+"Thật là một tia!"
+
+@5844 Kou · コウ
+# Kích hoạt: 弹药／EN 不足，无法反击（通用，1/1）
+> 「くっ! だめか!」
+"Chà! Không thể được à?"
+
+@5845 Kou · コウ
+# Kích hoạt: 射程外，无法反击（通用，1/1）
+> 「くっ! 遠すぎるか!」
+"Ugh! Xa quá!"
+
+@14227 Kou · コウ
+# Kích hoạt: 使用〈ハイメガキャノン〉（低优先，可能被通用台词顶掉）
+> 「エネルギー充填……
+>  いけっ! ハイメガキャノン!!」
+"Nạp năng lượng... tiếp tục! Mega Cannon năng lượng cao!!"

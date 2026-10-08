@@ -1,0 +1,131 @@
+# Bản dịch tiếng Việt Super Robot Wars 64
+# Định dạng và vị trí: docs/guide/dialogue-text.md
+
+@11796 J-Ren · ジェイ＝レン
+# Kích hoạt: Tấn công (Chung，1/7）
+> 「消えてなくなれ」
+"Biến mất."
+
+@11797 J-Ren · ジェイ＝レン
+# Kích hoạt: Tấn công (Chung，2/7）
+> 「くらうがいい」
+"Hãy thực hiện thủ thuật của tôi."
+
+@11798 J-Ren · ジェイ＝レン
+# Kích hoạt: Tấn công (Chung，3/7）
+> 「その力……我に示してみよ」
+"Sức mạnh đó... cho tôi xem nó."
+
+@11799 J-Ren · ジェイ＝レン
+# Kích hoạt: Tấn công (Chung，4/7）
+> 「見るがいい……存在の死の闇を」
+"Hãy nhìn kỹ...bóng tối của cái chết của sự tồn tại."
+
+@11800 J-Ren · ジェイ＝レン
+# Kích hoạt: Tấn công (Chung，5/7）
+> 「死にたくなければ、我と戦え」
+"Nếu không muốn chết thì đấu với ta."
+
+@11801 J-Ren · ジェイ＝レン
+# Kích hoạt: Tấn công (Chung，6/7）
+> 「……消滅させる」
+"...để tiêu diệt cậu."
+
+@11802 J-Ren · ジェイ＝レン
+# Kích hoạt: Tấn công (Chung，7/7）
+> 「終わりだ」
+"Hết rồi."
+
+@11803 J-Ren · ジェイ＝レン
+# Kích hoạt: 被击坠（通用，1/2）
+> 「な……なに!?」
+"Cái...cái gì! ? "
+
+@11804 J-Ren · ジェイ＝レン
+# Kích hoạt: 被击坠（通用，2/2）
+> 「くっ……まさか、これほどとは……」
+"Hmm... Tôi không ngờ rằng anh ấy lại mạnh đến thế..."
+
+@11805 J-Ren · ジェイ＝レン
+# Kích hoạt: 重伤（剩余 HP 不足 30%）（通用，1/3）
+> 「いったい……この力はどこからくるのだ」
+“Sức mạnh này… đến từ đâu?”
+
+@11806 J-Ren · ジェイ＝レン
+# Kích hoạt: 重伤（剩余 HP 不足 30%）（通用，2/3）
+> 「く……これほどの力があるのか?」
+"Hmm... có lực lượng mạnh đến vậy sao?"
+
+@11807 J-Ren · ジェイ＝レン
+# Kích hoạt: 重伤（剩余 HP 不足 30%）（通用，3/3）
+> 「まさかとは思ったが……我らの予想を上
+>  回るか……」
+"Tôi đã nghĩ điều đó là không thể...nhưng nó đã vượt quá sự mong đợi của chúng tôi..."
+
+@11808 J-Ren · ジェイ＝レン
+# Kích hoạt: 中伤（剩余 HP 30–90%）（通用，1/3）
+> 「ほう……ズールを倒しただけのことはある」
+"Ồ... Đúng như mong đợi về người đã đánh bại Zulu."
+
+@11809 J-Ren · ジェイ＝レン
+# Kích hoạt: 中伤（剩余 HP 30–90%）（通用，2/3）
+> 「なるほど……こういうことか」
+“Tôi hiểu rồi…đó là những gì đã xảy ra. "
+
+@11810 J-Ren · ジェイ＝レン
+# Kích hoạt: 中伤（剩余 HP 30–90%）（通用，3/3）
+> 「……確かに、面白い知性体だ……」
+"...Đó thực sự là một cuộc sống thông minh thú vị..."
+
+@11811 J-Ren · ジェイ＝レン
+# Kích hoạt: 轻伤（剩余 HP 90% 以上）（通用，1/3）
+> 「この程度とは……無駄だったか」
+"Với khả năng nhỏ bé này... có vẻ như mọi nỗ lực đều vô ích."
+
+@11812 J-Ren · ジェイ＝レン
+# Kích hoạt: 轻伤（剩余 HP 90% 以上）（通用，2/3）
+> 「……本気でこい。でなければ、消滅させ
+>  る」
+"... Hãy thể hiện kỹ năng thực sự của bạn. Nếu không, tôi sẽ tiêu diệt bạn."
+
+@11813 J-Ren · ジェイ＝レン
+# Kích hoạt: 轻伤（剩余 HP 90% 以上）（通用，3/3）
+> 「その程度で“アル＝イー＝クイス”と
+>  戦おうというのか?」
+"Với khả năng nhỏ bé này, bạn có muốn trở thành kẻ thù của 'Al=I=Quis' không?"
+
+@11814 J-Ren · ジェイ＝レン
+# Kích hoạt: Né tránh（通用，1/3）
+> 「愚かな……」
+"Ngu ngốc..."
+
+@11815 J-Ren · ジェイ＝レン
+# Kích hoạt: Né tránh（通用，2/3）
+> 「無駄なことがわからぬようだな」
+"Có vẻ như bạn không hiểu vô ích nghĩa là gì."
+
+@11816 J-Ren · ジェイ＝レン
+# Kích hoạt: Né tránh（通用，3/3）
+> 「これでは、話にならぬな」
+"Trong trường hợp này, nó không đáng nhắc đến chút nào."
+
+@11817 J-Ren · ジェイ＝レン
+# Kích hoạt: Tấn công无效（护罩／装甲）（通用，1/1）
+> 「ばかめ」
+"Đồ ngốc."
+
+@11818 J-Ren · ジェイ＝レン
+# Kích hoạt: 弹药／EN 不足，无法反击（通用，1/2）
+> 「いかん……消耗が激しすぎるか」
+"Không tốt... tiêu hao quá nhiều."
+
+@11819 J-Ren · ジェイ＝レン
+# Kích hoạt: 弹药／EN 不足，无法反击（通用，2/2）
+> 「くっ……これ以上エネルギーを失っては…
+>  …」
+“Chà… nếu năng lượng tiếp tục bị mất như thế này…”
+
+@11820 J-Ren · ジェイ＝レン
+# Kích hoạt: 射程外，无法反击（通用，1/1）
+> 「ほう……なかなかやるな」
+"Ồ...đợi một lát."

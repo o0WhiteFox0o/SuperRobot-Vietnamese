@@ -1,0 +1,734 @@
+# Bản dịch tiếng Việt Super Robot Wars 64
+# Định dạng và vị trí: docs/guide/dialogue-text.md
+
+@43408 Bright · ブライト
+> 「いいか、なんとしても“刻印”を
+>  確保するんだ!」
+"Nghe này, chúng ta phải hạ gục 'Phong ấn' bằng mọi giá!"
+
+@43409 Julia · ジュリア
+> 「ゲイル、わたくしを“刻印”の
+>  場所まで連れて行ってください」
+"Gale, xin hãy đưa tôi đến 'Khắc'."
+
+@43410 Gale · ゲイル
+> 「ああ、ジュリア。どうやら敵も
+>  こちらの侵入に気づいたようだ
+“Ồ, Julia. Có vẻ như kẻ địch cũng phát hiện ra chúng ta đột nhập vào.
+---
+>  急がねばならんようだな」
+Phải nhanh lên. "
+
+@43411 Julia · ジュリア
+> 「エイジ、わたくしを“刻印”の
+>  場所まで連れて行ってください」
+"Eiji, xin hãy đưa tôi đến chỗ 'khắc'."
+
+@43412 Eiji · エイジ
+> 「わかってるよ、姉さん」
+"Tôi biết, chị."
+
+@43413 Rei · レイ
+> 「アラームメッセージ!
+>  敵対機多数接近!
+"Thông báo cảnh báo! Nhiều máy bay địch đang đến gần!
+---
+>  目標地点へ先ニ到着デキル
+>  確率46%!」
+Xác suất đến được vị trí mục tiêu trước kẻ địch là 46%! "
+
+@43414 Eiji · エイジ
+> 「敵より先に“刻印”に
+>  行かなければ……」
+"Chúng ta phải đạt được 'khắc' trước kẻ thù..."
+
+@43415 Julia · ジュリア
+> 「エイジ、急いで」
+"Eiji, nhanh lên."
+
+@43416 Wahl · ワール
+> 「ガンダルめ、地球人ごときの侵入
+>  を許すとは。よいか、奴らをあそこへ
+“Gandar, kẻ thua cuộc này, hãy để những người như Người Trái đất xông vào. Hãy lắng nghe cẩn thận, chúng ta không được để những kẻ đó
+---
+>  近づけさせてはならん!
+>  なんとしても確保しろ!」
+Hãy đến gần đó! Hãy giữ nó dù thế nào đi nữa! "
+
+@43417 Julia · ジュリア
+> 「あぁぁぁぁーっ!!」
+“Ahhhhhh——!!”
+
+@43418 Eiji · エイジ
+> 「しまった、姉さん!?」
+"Ồ, chị ơi!?"
+
+@43419 Julia · ジュリア
+> 「あぁぁぁぁーっ!!」
+“Ahhhhhh——!!”
+
+@43420 Gale · ゲイル
+> 「ジュリア!?
+>  くっ、なんと、うかつな……!」
+"Julia!? Chết tiệt, em bất cẩn quá...!"
+
+@43421 Julia · ジュリア
+> 「……どうやら間にあわなかった
+>  ようですね……残念です……」
+"...Có vẻ như tôi vẫn chưa bắt kịp...thật đáng tiếc..."
+
+@43422 Julia · ジュリア
+> 「……どうやら間にあわなかった
+>  ようですね……残念です……」
+"...Có vẻ như tôi vẫn chưa bắt kịp...thật đáng tiếc..."
+
+@43423 Eiji · エイジ
+> 「ついたよ、姉さん」
+"Chúng ta đến rồi, chị."
+
+@43424 Julia · ジュリア
+> 「ありがとう、エイジ。みなさん、
+>  “刻印”を発動させます
+“Cảm ơn Eiji. Mọi người ơi, tôi sẽ kích hoạt ‘Phong ấn’.
+---
+>  準備が整うまで、守っていて
+>  ください」
+Xin vui lòng giữ ở đây cho đến khi việc chuẩn bị hoàn tất. "
+
+@43425 Wahl · ワール
+> 「おのれ、まさかとは思ったが、やはり
+>  あの装置を動かすつもりか!」
+"Chết tiệt, tôi còn tưởng là không...họ thực sự muốn kích hoạt thiết bị đó!"
+
+@43426 Wahl · ワール
+> 「おのれ、まさかとは思ったが、やはり
+>  あの装置を動かすつもりか!
+“Chết tiệt, tôi còn tưởng là không… họ thực sự muốn kích hoạt thiết bị đó!
+---
+>  全軍突撃せよ!
+>  なんとしても奴らをとめるのだ!!」
+Toàn quân tấn công! Hãy ngăn chặn chúng bằng mọi giá! ! "
+
+@43427 Gale · ゲイル
+> 「ジュリア、どうにか間にあったようだ」
+"Julia, cuối cùng cũng đuổi kịp."
+
+@43428 Julia · ジュリア
+> 「ありがとう、ゲイル。みなさん、
+>  “刻印”を発動させます
+“Cảm ơn Gale. Mọi người, tôi sẽ kích hoạt ‘Phong ấn’.
+---
+>  準備が整うまで、守っていて
+>  ください」
+Xin vui lòng giữ ở đây cho đến khi việc chuẩn bị hoàn tất. "
+
+@43429 Wahl · ワール
+> 「おのれ、まさかとは思ったが、やはり
+>  あの装置を動かすつもりか!」
+"Chết tiệt, tôi còn tưởng là không...họ thực sự muốn kích hoạt thiết bị đó!"
+
+@43430 Wahl · ワール
+> 「おのれ、まさかとは思ったが、やはり
+>  あの装置を動かすつもりか!
+“Chết tiệt, tôi còn tưởng là không… họ thực sự muốn kích hoạt thiết bị đó!
+---
+>  全軍突撃せよ!
+>  なんとしても奴らをとめるのだ!!」
+Toàn quân tấn công! Hãy ngăn chặn chúng bằng mọi giá! ! "
+
+@43431 Dr. Hazuki · 葉月博士
+> 「むっ……このエネルギー反応は……」
+"Chà...phản ứng năng lượng này là..."
+
+@43432 Bright · ブライト
+> 「なんだ? “グラドスの刻印”
+>  が……発動するのか……?」
+"Chuyện gì đang xảy ra vậy? ‘Dấu ấn Grados’… sắp được kích hoạt…? "
+
+@43433 Julia · ジュリア
+> 「みなさん、
+>  よくもちこたえてくれました
+"Mọi người, cảm ơn vì đã làm việc chăm chỉ và kiên trì cho đến bây giờ.
+---
+>  これより“刻印”を発動させま
+>  す。遺跡内より退避してください」
+Bây giờ tôi sẽ kích hoạt 'Niêm phong'. Hãy sơ tán khỏi đống đổ nát. "
+
+@43434 Dr. Hazuki · 葉月博士
+> 「むっ……このエネルギー反応は……」
+"Chà...phản ứng năng lượng này là..."
+
+@43435 Bright · ブライト
+> 「なんだ? “グラドスの刻印”
+>  が……発動するのか……?」
+"Chuyện gì đang xảy ra vậy? ‘Dấu ấn Grados’… sắp được kích hoạt…? "
+
+@43436 Julia · ジュリア
+> 「みなさん、
+>  よくもちこたえてくれました
+"Mọi người, cảm ơn vì đã làm việc chăm chỉ và kiên trì cho đến bây giờ.
+---
+>  これより“刻印”を発動させま
+>  す。遺跡内より退避してください」
+Bây giờ tôi sẽ kích hoạt 'Niêm phong'. Hãy sơ tán khỏi đống đổ nát. "
+
+@43437 Alberto · アルベルト
+> 「どういうことだ、孔明。
+>  これでは失敗ではないのか!?」
+"Chuyện gì vậy, Khổng Minh? Đây không phải là thất bại sao!?"
+
+@43438 Komei · 孔明
+> 「フフフ、失敗などと、とんでもありま
+>  せん。これでよいのです」
+"Hahaha, thất bại? Cái quái gì vậy. Điều này vừa phải thôi."
+
+@43439 Alberto · アルベルト
+> 「なんだと?」
+"Anh đã nói gì thế? "
+
+@43440 Komei · 孔明
+> 「よくお聞きなさい。この作戦こそ、
+>  我らBF団の悲願の
+“Xin hãy lắng nghe cho kỹ. Trận chiến này chính là điều mà trung đoàn BF của chúng ta mong muốn từ lâu.
+---
+>  第1歩なのですぞ。これすべて我らが
+>  ビッグファイアーのご意志なのです」
+Bước đầu tiên. Tất cả điều này là mong muốn của chúng tôi tại BIG FIRE. "
+
+@43441 Show · ショウ
+> 「これが“グラドスの刻印”……」
+"Đây là 'Dấu ấn của Grados'..."
+
+@43442 Marvel · マーベル
+> 「こんなものが4万年も眠っていた
+>  なんて、信じられないわね……」
+"Loại vật này đã ngủ yên bốn vạn năm, thật không thể tưởng tượng được..."
+
+@43443 Anna · アンナ
+> 「みて、光の柱が空へと上っていくわ」
+“Nhìn kìa, chùm ánh sáng đang bay lên trời.”
+
+@43444 Daisaku · 大作
+> 「……すごい……」
+"...thật tuyệt vời..."
+
+@43445 Duo · デュオ
+> 「ああ、こいつはすげぇや」
+"Ừ, thứ này thực sự rất tuyệt vời."
+
+@43446 Janera · ジャネラ
+> 「ワール司令、
+>  いったいどうなったのじゃ!?
+"Chỉ huy Val, chuyện quái gì đang xảy ra vậy!?
+---
+>  陛下のご心配なされようから、
+>  何かとてつもない兵器だとばかり
+Thấy Bệ hạ lo lắng như vậy, tôi tưởng đó là một loại vũ khí tuyệt vời nào đó.
+---
+>  思っておったが、我が軍にはあれに
+>  よる被害は出ておらぬ。これでは
+Nhưng quân đội của chúng tôi không bị tổn thất gì vì điều đó. Trong trường hợp này,
+---
+>  兵を退かせぬ方がよかったのでは
+>  ないか?」
+Chẳng phải tốt hơn hết là chúng ta không nên rút quân ngay từ đầu sao? "
+
+@43447 Wahl · ワール
+> 「陛下があれほど強く
+>  破壊を指示されたもの
+“Những thứ mà bệ hạ ra lệnh tiêu hủy,
+---
+>  何も影響がないとは思えん」
+Không thể có tác động. "
+
+@43448 Warchimedes · ワルキメデス
+> 「報告いたします。遺跡より発した
+>  謎の発光体は、大気圏をぬけ
+"Báo cáo. Những vật thể phát sáng bí ẩn phát ra từ đống đổ nát đang xuyên qua bầu khí quyển,
+---
+>  宇宙へと出るもようです」
+Có vẻ như nó sắp bay vào vũ trụ. "
+
+@43449 Wahl · ワール
+> 「宇宙へ……ええい、いったい
+>  どうなっているのだ!? まさか
+“Bay vào vũ trụ… Mẹ kiếp, chuyện quái gì đang xảy ra thế này! ? thật bất ngờ
+---
+>  このようなことになるとは……」
+Mọi chuyện sẽ diễn ra như thế này…”
+
+@43450 Janera · ジャネラ
+> 「どうするおつもりか?」
+"Bạn định làm gì vậy? "
+
+@43451 Wahl · ワール
+> 「……ゴーマン、ここはまかせる。ジャネラ、
+>  ガンダル、我らは宇宙へもどるぞ
+"...Gorman, tôi giao việc này cho anh. Ganela, Gandal, hãy quay trở lại vũ trụ nào.
+---
+>  どのみち地球人どもの
+>  残存兵力など、たかがしれている
+Trong mọi trường hợp, sức mạnh quân sự còn lại của người dân trên trái đất sẽ không thành vấn đề.
+---
+>  あれが何であれ、我らの勝利は
+>  揺るがぬが、体勢を
+Dù thế nào đi chăng nữa, nó cũng không thể làm lung lay chiến thắng của chúng ta, nhưng
+---
+>  立て直しておくにこしたことはない」
+Việc tập hợp lại trước không bao giờ có hại. "
+
+@43452 Gale · ゲイル
+> 「ジュリア……あれで終わったのか?」
+"Julia...đây là kết thúc à?"
+
+@43453 Julia · ジュリア
+> 「ええ……“グラドスの刻印”は
+>  発動しました。あの柱が宇宙へと
+“Đúng…‘Dấu ấn Grados’ đã được kích hoạt. Một khi chùm ánh sáng đó
+---
+>  出れば、空間をゆがめる機構が
+>  動き始めます」
+Đi vào vũ trụ, thiết bị bóp méo không gian sẽ bắt đầu hoạt động. "
+
+@43454 Gale · ゲイル
+> 「そうか……」
+"Chính là nó..."
+
+@43455 Julia · ジュリア
+> 「しかしこれで、あともどりはできなくなり
+>  ました。この星系に来た者たちは
+“Nhưng sau đó sẽ không còn đường quay lại nữa. Những người đến thiên hà này
+---
+>  帰るべき場所を失ったのです。私
+>  たちもゾルバドス星の仲介なくしては
+Không có nơi nào để quay trở lại. Nếu chúng ta không có Zolbados làm trung gian,
+---
+>  本星にもどれないでしょう」
+Tôi sợ tôi sẽ không thể trở về hành tinh quê hương của mình. "
+
+@43456 Gale · ゲイル
+> 「地球圏に残留することになる、か
+>  しかたあるまい
+“Không có lựa chọn nào khác ngoài việc ở trong vòng tròn Trái đất… Không còn cách nào khác.
+---
+>  もしも生き残れるならば、
+>  その者たちの処遇については
+Nếu có ai sống sót, họ sẽ được cung cấp chỗ ở như thế nào?
+---
+>  我々が尽力せねばな」
+Việc cố gắng hết sức là tùy thuộc vào chúng ta. "
+
+@43457 Julia · ジュリア
+> 「ええ、もちろんです」
+"Ồ, tất nhiên rồi. "
+
+@43458 Gale · ゲイル
+> 「そうか……君は“聖女”だった
+>  のだな」
+"Chính là vậy... nguyên lai ngươi chính là 'Thánh'."
+
+@43459 Julia · ジュリア
+> 「わたくしは人々が望んでいることを
+>  するだけです」
+“Tôi chỉ đang làm những gì mọi người muốn tôi làm. "
+
+@43460 Banjo · 万丈
+> 「みんな、気をぬくなよ。“刻印”
+>  の発動が成功したからといって
+“Mọi người đừng thư giãn. Mặc dù ‘Khắc’ đã được khởi chạy thành công,
+---
+>  単身遺跡まで突入した
+>  僕たちが圧倒的多数の敵に
+Nhưng chúng tôi đã đột nhập vào khu tàn tích một mình và bị áp đảo bởi một số lượng lớn kẻ thù.
+---
+>  囲まれていることは変わらないんだ」
+Xung quanh, điều này đã không thay đổi. "
+
+@43461 Bright · ブライト
+> 「ジュリアさん、あれで終わったのでしょう
+>  か」
+"Cô Julia, đây là kết thúc rồi à?"
+
+@43462 Julia · ジュリア
+> 「はい……“グラドスの刻印”は
+>  発動しました。あの柱が宇宙へと
+“Đúng…‘Dấu ấn Grados’ đã được kích hoạt. Một khi chùm ánh sáng đó
+---
+>  出れば、空間をゆがめる機構が
+>  動き始めます」
+Đi vào vũ trụ, thiết bị bóp méo không gian sẽ bắt đầu hoạt động. "
+
+@43463 Amuro · アムロ
+> 「そうか……」
+"Chính là nó..."
+
+@43464 Julia · ジュリア
+> 「しかしこれで、あともどりはできなくなった
+>  ことをご承知ください
+“Nhưng xin hãy hiểu, không thể quay đầu lại được.
+---
+>  この星系に来た者たちは、
+>  帰るべき場所を失ったのです
+Những người đến thiên hà này đã mất đi một nơi để quay trở lại.
+---
+>  戦いがどのようになろうとも、
+>  彼らもまたのちの地球圏の
+Dù tình hình chiến tranh có thế nào đi chăng nữa, họ cũng chỉ có thể trở thành thủ lĩnh của Earth Sphere trong tương lai.
+---
+>  住人とならねばなりません」
+người dân. "
+
+@43465 Chum · チャム
+> 「それって、あたしたちがバイストンウェルに
+>  帰れないのと同じようなこと?」
+"Điều đó có giống như việc chúng ta không thể quay lại Baiston Will không? "
+
+@43466 Marvel · マーベル
+> 「そうね」
+"Ừ. "
+
+@43467 Chum · チャム
+> 「えー、なんだかかわいそう……」
+“Này – tôi luôn cảm thấy thật đáng thương…”
+
+@43468 Kamille · カミーユ
+> 「考えてみれば当然の話ですね。
+>  まさか、皆殺しなんてできるはずがない」
+“Đó là điều tự nhiên nếu bạn nghĩ về nó một cách cẩn thận. Không thể đuổi hết bọn chúng đi được. "
+
+@43469 Ryoma · リョウ
+> 「ああ……そうだな」
+"Ừm...ừ."
+
+@43470 Banjo · 万丈
+> 「そんなことを考えている時じゃない。
+>  まだ銀河帝国軍は、そのまま
+"Bây giờ không phải là lúc để nghĩ về những điều như vậy. Quân đội Đế quốc Thiên hà vẫn không thay đổi."
+---
+>  残っているんだ。戦いに
+>  勝てねば、我々が地球圏から
+Ở lại đây. Nếu không thể giành chiến thắng, bạn sẽ bị đuổi ra khỏi vòng tròn Trái đất.
+---
+>  排除される側にまわることになる」
+Đó sẽ là chúng tôi. "
+
+@43471 Shinobu · 忍
+> 「ああ、いわれなくてもわかってるさ。
+>  まだまだ、これからだ
+"Chà, tôi biết mà không cần bạn phải nói với tôi. Đây mới chỉ là sự khởi đầu.
+---
+>  敵の動きはどうなってんだ?
+>  戦闘は停止しているようだけどよ」
+Chuyện gì đang xảy ra với kẻ thù vậy? Cuộc chiến dường như đã dừng lại. "
+
+@43472 Sally · サリィ
+> 「一部部隊が残留し包囲網
+>  をしいているけど、大半は撤退を
+“Một số quân ở lại để giăng lưới vây hãm, nhưng phần lớn đều
+---
+>  開始しているみたいね」
+Có vẻ như nó đã bắt đầu rút lui. "
+
+@43473 Bright · ブライト
+> 「ふむ……ジュリアさん、彼らは何が
+>  起こったか理解しているのだろうか?」
+“Ừm…Cô Julia, họ có hiểu chuyện gì đang xảy ra không? "
+
+@43474 Julia · ジュリア
+> 「わかりません。銀河帝国と
+>  先住グラドス人は数万年の
+"Không chắc chắn. Đế chế Thiên hà và những người đầu tiên sinh sống ở Grados, hàng chục nghìn năm trước
+---
+>  昔に接触したことがあるはずです。
+>  あれが何か、知っていたとしても
+Chắc chắn phải có liên lạc. Kể cả nếu họ biết nó là gì thì cũng không có gì đáng ngạc nhiên,
+---
+>  不思議ではありませんが、実際に
+>  何が起こったかは、彼ら自身が
+Nhưng những gì thực sự xảy ra có lẽ là tùy thuộc vào họ.
+---
+>  確認することになるでしょう」
+Đã xác nhận. "
+
+@43475 Bright · ブライト
+> 「なるほど……よし、銀河帝国軍に
+>  対して“グラドスの刻印”の
+"Tôi hiểu rồi...Được rồi, chỉ là 'Grados' Seal'
+---
+>  発動とその影響について、告知
+>  しよう。戦意をそげるかもしれん」
+Một thông báo đã được đưa ra cho Đế chế Thiên hà về vụ phóng và tác động của nó. Nó có thể làm suy yếu tinh thần chiến đấu của họ. "
+
+@43476 Banjo · 万丈
+> 「そういうことなら、ロゼにやってもらおう。
+>  それがもっとも効果的だろう」
+“Trong trường hợp đó, hãy để Rose làm việc đó. Điều đó hoạt động tốt nhất. "
+
+@43477 Takeru · タケル
+> 「しかし……」
+"Nhưng..."
+
+@43478 Rose · ロゼ
+> 「いいわ、マーズ。私がやります」
+"Không sao đâu, sao Hỏa. Tôi sẽ làm điều đó. "
+
+@43479 Takeru · タケル
+> 「ロゼ……」
+"Hoa hồng..."
+
+@43480 Rose · ロゼ
+> 「悪いのはズールだ、そういったのはマーズ
+>  あなたよ。私が呼びかけることで
+“Đó là lỗi của Zulu, anh nói vậy đi, Mars. Nếu lời kêu gọi của tôi
+---
+>  戦いをやめてくれる人がいるのなら、
+>  私はそれでいい」
+Nó đủ để khiến một số người ngừng chiến đấu. "
+
+@43481 Bright · ブライト
+> 「ふむ……頼めるか、ロゼ」
+"Ừm...tôi có thể nhờ bạn một việc được không, Rosey. "
+
+@43482 Rose · ロゼ
+> 「はい」
+"Ừ. "
+
+@43483 Alan · アラン
+> 「よし、そういうことなら、帝国軍に
+>  向けて発信する通信文について
+“Được rồi, vậy thì hãy bàn xem nên gửi gì cho Quân đội Đế quốc.
+---
+>  検討しよう」
+Nội dung giao tiếp. "
+
+@43484 Bright · ブライト
+> 「そうだな。
+>  サリィ、敵の監視は続けてくれ
+"Vâng. Sally, tiếp tục theo dõi kẻ địch.
+---
+>  それと、トレーズに連絡を頼む」
+Ngoài ra, hãy liên hệ với Telles. "
+
+@43485 Sally · サリィ
+> 「わかりました」
+"Tôi hiểu. "
+
+@43486 Daisuke · 大介
+> 「そういうことなら、僕とマリアで
+>  やりましょう」
+“Trong trường hợp đó, hãy để Maria và tôi làm việc đó. "
+
+@43487 Alan · アラン
+> 「君が?」
+"Bạn sẽ làm điều đó? "
+
+@43488 Daisuke · 大介
+> 「奴らに滅ぼされたフリード星の
+>  生き残りである、僕とマリアの
+"Maria và tôi là những người sống sót sau Sao Chiên đã bị những kẻ đó phá hủy.
+---
+>  言葉なら、より動揺を大きく
+>  できるはずです」
+Theo quan điểm của chúng tôi, điều đó sẽ gây ảnh hưởng nhiều hơn đến họ. "
+
+@43489 Bright · ブライト
+> 「ふむ……頼めるか、デューク、マリア」
+"Ừm...tôi có thể giúp gì cho bạn được không, Duke và Maria. "
+
+@43490 Maria · マリア
+> 「もっちろん。まかせて、みんな」
+"Tất nhiên. Hãy để việc đó cho chúng tôi, các bạn. "
+
+@43491 Alan · アラン
+> 「よし、そういうことなら、帝国軍に
+>  向けて発信する通信文について
+“Được rồi, vậy thì hãy bàn xem nên gửi gì cho Quân đội Đế quốc.
+---
+>  検討しよう」
+Nội dung giao tiếp. "
+
+@43492 Bright · ブライト
+> 「そうだな。
+>  サリィ、敵の監視は続けてくれ
+"Vâng. Sally, tiếp tục theo dõi kẻ địch.
+---
+>  それと、トレーズに連絡を頼む」
+Ngoài ra, hãy liên hệ với Telles. "
+
+@43493 Sally · サリィ
+> 「わかりました」
+"Tôi hiểu. "
+
+@43494 Banjo · 万丈
+> 「さて……あとは敵の動きを待つだけか
+>  うまくいってくれると、いいんだけどね」
+"Vậy thì...điều đó phụ thuộc vào cách kẻ địch di chuyển. Sẽ thật tuyệt nếu nó diễn ra tốt đẹp. "
+
+@43495 Beauty · ビューティ
+> 「万丈、もしもうまくいかなかったら
+>  どうなるの?」
+"Vạn Chương, chuyện gì sẽ xảy ra nếu mọi việc không suôn sẻ?"
+
+@43496 Reika · レイカ
+> 「ばかね、決まってるでしょ。残った
+>  銀河帝国軍の数だけでも
+"Đồ ngốc, điều đó không cần phải nói. Chỉ là số quân còn lại của Đế chế Thiên hà
+---
+>  圧倒的だわ。私たちは、
+>  負けるのよ」
+Chỉ áp đảo thôi. Chúng ta sẽ thua. "
+
+@43497 Amuro · アムロ
+> 「まぁ、そうと決まったわけでもないが……
+>  しかし、うまくいくにこしたことはない」
+"Chà, điều đó không nhất thiết phải như vậy...nhưng tất nhiên sẽ tốt nhất nếu mọi chuyện diễn ra suôn sẻ. "
+
+@43498 Banjo · 万丈
+> 「ああ……どうなることかな……」
+"Ừ...chuyện gì sẽ xảy ra..."
+
+@43499 Anna · アンナ
+> 「みんな、見て!」
+"Mọi người, nhìn kìa!"
+
+@43500 Banjo · 万丈
+> 「どうした、アンナ?」
+"Có chuyện gì thế, Anna?"
+
+@43501 David · デビッド
+> 「なんだぁ!?」
+"Chuyện gì đang xảy ra vậy! ? "
+
+@43502 Amuro · アムロ
+> 「これは……
+>  これが刻印の影響なのか……?」
+“Đây… Đây có phải là tác dụng của việc khắc…?”
+
+@43503 Sara · 沙羅
+> 「……空が……なんて光景だい、
+>  まったく」
+"...trên bầu trời...cảnh này thật là đẹp."
+
+@43504 Duo · デュオ
+> 「ああ……こいつはまったく……
+>  宇宙が、ゆがんでるみたいだぜ」
+"Ừ...đây thực sự là...vũ trụ dường như bị bóp méo. "
+
+@43505 Kamille · カミーユ
+> 「ゆがむ……宇宙か……」
+"Xoắn...vũ trụ..."
+
+@43506 Bright · ブライト
+> 「なんだ!?」
+"Có chuyện gì thế!?"
+
+@43507 Chief Chujo · 中条長官
+> 「艦長、
+>  早乙女博士はそちらかね?」
+"Đội trưởng, bác sĩ Saotome có đi cùng anh không?"
+
+@43508 Dr. Saotome · 早乙女博士
+> 「わしはここにおるよ。何か?」
+"Tôi ở đây. Có chuyện gì vậy? "
+
+@43509 Chief Chujo · 中条長官
+> 「博士、すぐに来てください。
+>  ゲッター線実験中のゲッター1に
+"Bác sĩ, xin hãy đến đây ngay. Getter 1 đang thực hiện thí nghiệm tia Getter
+---
+>  異変が生じているそうです」
+Có vẻ gì đó bất thường. "
+
+@43510 Dr. Saotome · 早乙女博士
+> 「なんですと!? すぐに行きます!」
+"Cái gì!? Tôi sẽ đến đó ngay!"
+
+@43511 Ryoma · リョウ
+> 「博士、いったいどうしたんです?」
+"Bác sĩ, chuyện gì đã xảy ra vậy?"
+
+@43512 Dr. Saotome · 早乙女博士
+> 「お前たち、近づくんじゃない!」
+"Đừng đến gần!"
+
+@43513 Hayato · ハヤト
+> 「ああ、こいつはひどいな。どうしたって
+>  いうんです」
+"Ồ, điều này thực sự khó chịu. Chuyện gì đang xảy ra vậy?"
+
+@43514 Dr. Saotome · 早乙女博士
+> 「うむ……あやうくゲッター炉が
+>  暴走しかけおった」
+"Chà... Lò Geta gần như mất kiểm soát."
+
+@43515 Dr. Yotsuya · 四谷博士
+> 「早乙女博士、数値は
+>  正常値までもどっておるぞ」
+"Bác sĩ Saotome, các chỉ số đã trở lại bình thường."
+
+@43516 Dr. Saotome · 早乙女博士
+> 「……もう大丈夫なようだな。危ない
+>  ところだった。あいつが暴走したら
+"...Có vẻ như mọi thứ vẫn ổn. Thật nguy hiểm. Nếu thứ đó vượt quá tầm kiểm soát,
+---
+>  ガンドールも無事ではすまなかった
+>  だろう」
+Gondor cũng không được tha. "
+
+@43517 Hayato · ハヤト
+> 「原因はわかっているんですか、
+>  博士?」
+“Đã tìm ra nguyên nhân chưa bác sĩ?”
+
+@43518 Dr. Saotome · 早乙女博士
+> 「ううむ……」
+"Ờ..."
+
+@43519 Prof. Yumi · 弓教授
+> 「早乙女博士、このデータを
+>  見てください」
+"Tiến sĩ Saotome, xin hãy xem dữ liệu này."
+
+@43520 Dr. Saotome · 早乙女博士
+> 「……これは! バカな、こんなことはあり
+>  えん! 弓教授、このデータは……」
+"...Đây là! Không thể nào, loại chuyện này không thể xảy ra! Cung giáo sư, số liệu này là..."
+
+@43521 Prof. Yumi · 弓教授
+> 「暴走直前に、モニターした時の
+>  ものです」
+"Điều này đã được phát hiện ngay trước khi tình hình vượt quá tầm kiểm soát."
+
+@43522 Benkei · ベンケイ
+> 「何だよ、どうしたんだよ博士」
+"Có chuyện gì vậy bác sĩ, chuyện gì đã xảy ra vậy?"
+
+@43523 Dr. Saotome · 早乙女博士
+> 「わからん……この異常な数値は……」
+“Tôi không biết…giá trị bất thường này…”
+
+@43524 Dr. Yotsuya · 四谷博士
+> 「もしやとは思うが……
+>  “グラドスの刻印”の発動が
+“Tôi chỉ đoán thôi… có lẽ tôi đã nhận được ‘dấu ấn Grados’
+---
+>  影響しておるのではないかな」
+Tác dụng của việc phát động? "
+
+@43525 Dr. Saotome · 早乙女博士
+> 「だとすれば……この数値をもとに
+>  計算をやりなおし……いかん!」
+"Vậy... chúng ta phải tính toán lại dựa trên giá trị này... Rất tiếc! "
+
+@43526 Ryoma · リョウ
+> 「こんどは何です」
+"Lần này chuyện gì xảy ra?"
+
+@43527 Dr. Saotome · 早乙女博士
+> 「いまの暴走で、ゲッター線
+>  増幅炉が使えなくなってしまった
+"Sự mất kiểm soát vừa rồi đã làm hỏng Bộ khuếch đại Getter Ray.
+---
+>  くそ、これでは実験を続けることが
+>  できん……」
+Chết tiệt, tôi không thể tiếp tục thí nghiệm như thế này được..."

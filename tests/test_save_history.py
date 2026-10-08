@@ -98,7 +98,10 @@ class SaveHistoryTests(unittest.TestCase):
     def test_non_session_artifacts_are_ignored_and_symlink_rejected(self) -> None:
         save, _ = self.session(1)
         (self.sessions / (save.parents[2].name + '.content')).mkdir()
-        (self.sessions / '20260912T120002.000000Z').symlink_to(save.parents[2], target_is_directory=True)
+        try:
+            (self.sessions / '20260912T120002.000000Z').symlink_to(save.parents[2], target_is_directory=True)
+        except OSError:
+            self.skipTest('Symlinks require privileges on Windows')
         rows = self.rows()
         self.assertEqual(len(rows), 2)
         self.assertFalse(rows[0].accepted)

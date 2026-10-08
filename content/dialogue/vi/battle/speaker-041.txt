@@ -1,0 +1,331 @@
+# Bản dịch tiếng Việt Super Robot Wars 64
+# Định dạng và vị trí: docs/guide/dialogue-text.md
+
+@5984 Seabook · シーブック
+# Kích hoạt: Tấn công (Chung，1/20）
+> 「こいつっ!!」
+"Anh chàng này!!"
+
+@5985 Seabook · シーブック
+# Kích hoạt: Tấn công (Chung，2/20）
+> 「これならっ!」
+"Bây giờ là lúc đi đến trụ sở chính!"
+
+@5986 Seabook · シーブック
+# Kích hoạt: Tấn công (Chung，3/20）
+> 「まだまだぁっ!」
+"Vẫn còn sớm!"
+
+@5987 Seabook · シーブック
+# Kích hoạt: Tấn công (Chung，4/20）
+> 「うおおおっ!!」
+"Ồ ồ ồ!!"
+
+@5988 Seabook · シーブック
+# Kích hoạt: Tấn công (Chung，5/20）
+> 「どけえぇぇっ!!」
+"Tránh đường cho tôi!!"
+
+@5989 Seabook · シーブック
+# Kích hoạt: Tấn công (Chung，6/20）
+> 「抵抗するんじゃない! いっちゃえよ!」
+"Đừng chống cự nữa! Đi thôi!"
+
+@5990 Seabook · シーブック
+# Kích hoạt: Tấn công (Chung，7/20）
+> 「なんでこんなところに来るんだよ!」
+"Tại sao cậu lại đến một nơi như thế này!"
+
+@5991 Seabook · シーブック
+# Kích hoạt: Tấn công (Chung，8/20）
+> 「こんなところにのこのこ来るからっ!」
+"Ai bảo ngươi đến nơi như thế này với sự kiêu ngạo như vậy!"
+
+@5992 Seabook · シーブック
+# Kích hoạt: Tấn công (Chung，9/20）
+> 「そこかぁっ!」
+"Nó ở đó!"
+
+@5993 Seabook · シーブック
+# Kích hoạt: Tấn công (Chung，10/20）
+> 「くらえっ!!」
+"Ăn chiêu của tôi đi!!"
+
+@5994 Seabook · シーブック
+# Kích hoạt: Tấn công (Chung，11/20）
+> 「もらったぁっ!」
+"Thành công!"
+
+@5995 Seabook · シーブック
+# Kích hoạt: Tấn công (Chung，12/20）
+> 「こいつで、とどめだっ!」
+"Cú đánh này sẽ đưa bạn đi tiếp!"
+
+@5996 Seabook · シーブック
+# Kích hoạt: Tấn công (Chung，13/20）
+> 「いけーっ!!」
+"Cứ làm đi!!"
+
+@5997 Seabook · シーブック
+# Kích hoạt: Tấn công (Chung，14/20）
+> 「いけるかっ!?」
+"Có thể làm được không!?"
+
+@5998 Seabook · シーブック
+# Kích hoạt: Tấn công (Chung，15/20）
+> 「させるかぁっ!!」
+"Đừng nghĩ tới chuyện đó nữa! ! "
+
+@5999 Seabook · シーブック
+# Kích hoạt: Tấn công (Chung，16/20）
+> 「あまいんだよっ!!」
+"Thật ngây thơ!!"
+
+@6000 Seabook · シーブック
+# Kích hoạt: Tấn công (Chung，17/20）
+> 「これまでだっ!!」
+“Chính là nó!!”
+
+@6001 Seabook · シーブック
+# Kích hoạt: Tấn công (Chung，18/20）
+> 「貴様ぁ!!」
+"Đồ khốn nạn!!"
+
+@6002 Seabook · シーブック
+# Kích hoạt: Tấn công (Chung，19/20）
+> 「直撃させるっ!!」
+"Hãy để bạn ăn hết mình!!"
+
+@6003 Seabook · シーブック
+# Kích hoạt: Tấn công (Chung，20/20）
+> 「そう簡単にやらせるかよっ!」
+"Làm sao có thể dễ dàng thành công như vậy!"
+
+@6004 Seabook · シーブック
+# Kích hoạt: 被击坠（通用，1/3）
+> 「うわああああっ!!」
+"Aaaaaaaaaaaaa!!"
+
+@6005 Seabook · シーブック
+# Kích hoạt: 被击坠（通用，2/3）
+> 「う、うわっ!?」
+"W-Wow!?"
+
+@6006 Seabook · シーブック
+# Kích hoạt: 被击坠（通用，3/3）
+> 「し、しまった!!」
+"Ối, ôi!!"
+
+@6007 Seabook · シーブック
+# Kích hoạt: 重伤（剩余 HP 不足 30%）（通用，1/5）
+> 「うわあああっ!! な、なんてパワーだっ!」
+"Wow! Thật là một lực lượng mạnh mẽ!"
+
+@6008 Seabook · シーブック
+# Kích hoạt: 重伤（剩余 HP 不足 30%）（通用，2/5）
+> 「うわあっ! し、しまった!
+>  動力部にダメージが!」
+"Oa! Rất tiếc! Hệ thống điện hỏng rồi!"
+
+@6009 Seabook · シーブック
+# Kích hoạt: 重伤（剩余 HP 不足 30%）（通用，3/5）
+> 「うわっ!! も、もつのか!?」
+"Chà!! Bạn vẫn có thể giữ được chứ!?"
+
+@6010 Seabook · シーブック
+# Kích hoạt: 重伤（剩余 HP 不足 30%）（通用，4/5）
+> 「うわっ!! こ、このままじゃやられる!」
+"Wow!! Nếu cứ tiếp tục thế này thì mình sẽ bị giết mất!"
+
+@6011 Seabook · シーブック
+# Kích hoạt: 重伤（剩余 HP 不足 30%）（通用，5/5）
+> 「直撃!?」
+“Đánh trực tiếp!?”
+
+@6012 Seabook · シーブック
+# Kích hoạt: 中伤（剩余 HP 30–90%）（通用，1/6）
+> 「うあっ! や、やるっ!! けどっ!!」
+"Ugh! Vâng, có một vài khoảnh khắc!! Nhưng!!"
+
+@6013 Seabook · シーブック
+# Kích hoạt: 中伤（剩余 HP 30–90%）（通用，2/6）
+> 「まだだっ! まだやらせない!」
+"Nó vẫn chưa kết thúc! Tôi sẽ không để bạn thành công!"
+
+@6014 Seabook · シーブック
+# Kích hoạt: 中伤（剩余 HP 30–90%）（通用，3/6）
+> 「つっ!! まだ落ちるものか!」
+"Ugh!! Tôi sẽ không bị đánh bại đâu!"
+
+@6015 Seabook · シーブック
+# Kích hoạt: 中伤（剩余 HP 30–90%）（通用，4/6）
+> 「そ、そう簡単にやられるかっ!」
+"Làm sao, làm sao có thể dễ dàng bị đánh bại như vậy!"
+
+@6016 Seabook · シーブック
+# Kích hoạt: 中伤（剩余 HP 30–90%）（通用，5/6）
+> 「やる! でもまだ!」
+"Đã lâu rồi! Nhưng vẫn chưa kết thúc!"
+
+@6017 Seabook · シーブック
+# Kích hoạt: 中伤（剩余 HP 30–90%）（通用，6/6）
+> 「くっ! まだだ! まだいける!!」
+"Chà! Vẫn chưa kết thúc! Tôi vẫn còn có thể chiến đấu!!"
+
+@6018 Seabook · シーブック
+# Kích hoạt: 轻伤（剩余 HP 90% 以上）（通用，1/7）
+> 「こんなものなら!!」
+"Ở trình độ này, tôi vẫn có thể cầm cự được!!"
+
+@6019 Seabook · シーブック
+# Kích hoạt: 轻伤（剩余 HP 90% 以上）（通用，2/7）
+> 「あたった!? けどたいした事はないっ!」
+"Đánh!? Nhưng chuyện đó không có gì to tát cả!"
+
+@6020 Seabook · シーブック
+# Kích hoạt: 轻伤（剩余 HP 90% 以上）（通用，3/7）
+> 「まだまだっ!」
+"Vẫn còn sớm!"
+
+@6021 Seabook · シーブック
+# Kích hoạt: 轻伤（剩余 HP 90% 以上）（通用，4/7）
+> 「このくらいでやられるかよっ!」
+"Làm sao có thể bị đánh bại ở trình độ này!"
+
+@6022 Seabook · シーブック
+# Kích hoạt: 轻伤（剩余 HP 90% 以上）（通用，5/7）
+> 「くっ!!
+>  だが、まだこの程度ならまだいける!」
+"Ừm!! Nhưng vết thương nhỏ này vẫn có thể đánh được!"
+
+@6023 Seabook · シーブック
+# Kích hoạt: 轻伤（剩余 HP 90% 以上）（通用，6/7）
+> 「まだ、こんなものなら!!」
+"Vết thương nhỏ này không thành vấn đề!!"
+
+@6024 Seabook · シーブック
+# Kích hoạt: 轻伤（剩余 HP 90% 以上）（通用，7/7）
+> 「くっ!! この程度で落ちるものか!」
+"Ugh!! Vết thương nhỏ này làm sao có thể hạ gục tôi được!"
+
+@6025 Seabook · シーブック
+# Kích hoạt: Né tránh（通用，1/12）
+> 「そこっ!」
+"Đó!"
+
+@6026 Seabook · シーブック
+# Kích hoạt: Né tránh（通用，2/12）
+> 「見えた!」
+"Thấy rồi!"
+
+@6027 Seabook · シーブック
+# Kích hoạt: Né tránh（通用，3/12）
+> 「来る……そこだっ!!」
+"Nó tới rồi... ngay kia kìa!!"
+
+@6028 Seabook · シーブック
+# Kích hoạt: Né tránh（通用，4/12）
+> 「なんのっ!!」
+"Cái quái gì vậy!!"
+
+@6029 Seabook · シーブック
+# Kích hoạt: Né tránh（通用，5/12）
+> 「なめるなっ!」
+"Đừng đánh giá thấp tôi!"
+
+@6030 Seabook · シーブック
+# Kích hoạt: Né tránh（通用，6/12）
+> 「なんとぉーっ!」
+"Ồ-!"
+
+@6031 Seabook · シーブック
+# Kích hoạt: Né tránh（通用，7/12）
+> 「逃げ回りゃ、死にはしない」
+"Chỉ cần trốn, ngươi sẽ không chết."
+
+@6032 Seabook · シーブック
+# Kích hoạt: Né tránh（通用，8/12）
+> 「あまいっ!!」
+"Thật ngây thơ!!"
+
+@6033 Seabook · シーブック
+# Kích hoạt: Né tránh（通用，9/12）
+> 「よし、かわした!」
+"Được rồi, tránh đường đi!"
+
+@6034 Seabook · シーブック
+# Kích hoạt: Né tránh（通用，10/12）
+> 「あたりはしないっ!!」
+“Anh sẽ không bị đánh đâu!!”
+
+@6035 Seabook · シーブック
+# Kích hoạt: Né tránh（通用，11/12）
+> 「ムダだっ!!」
+"Thật vô dụng!!"
+
+@6036 Seabook · シーブック
+# Kích hoạt: Né tránh（通用，12/12）
+> 「ムダなんだよ!!」
+"Thật vô dụng!!"
+
+@6037 Seabook · シーブック
+# Kích hoạt: Tấn công无效（护罩／装甲）（通用，1/1）
+> 「その程度のビームなんか、
+>  効きはしないっ!」
+"Chùm ánh sáng này hoàn toàn không thể làm tổn thương tôi!"
+
+@6038 Seabook · シーブック
+# Kích hoạt: 弹药／EN 不足，无法反击（通用，1/2）
+> 「弾切れ!? しまった!」
+"Hết đạn!? Rất tiếc!"
+
+@6039 Seabook · シーブック
+# Kích hoạt: 弹药／EN 不足，无法反击（通用，2/2）
+> 「くっ、だめか!?」
+"Chà, không thể được nữa à!?"
+
+@6040 Seabook · シーブック
+# Kích hoạt: 射程外，无法反击（通用，1/2）
+> 「だめだ、とどかないのか!」
+"Không, bạn không thể đạt được nó!"
+
+@6041 Seabook · シーブック
+# Kích hoạt: 射程外，无法反击（通用，2/2）
+> 「だめだ、とどかない!」
+"Không, tôi không thể với tới được!"
+
+@14237 Seabook · シーブック
+# Kích hoạt: 使用〈ファンネル／マザーファンネル〉
+> 「ファンネル!!」
+"Pháo nổi!!"
+
+@14238 Seabook · シーブック
+# Kích hoạt: 使用〈ファンネル／マザーファンネル〉
+> 「いけっ!ファンネル!!」
+"Nào! Pháo nổi!!"
+
+@14239 Seabook · シーブック
+# Kích hoạt: 使用〈ファンネル／マザーファンネル〉
+> 「これならばっ! ファンネルっ!」
+"Trụ sở chính ở đây! Pháo bay!"
+
+@14240 Seabook · シーブック
+# Kích hoạt: 使用〈フィンファンネル〉
+> 「いけっ!フィンファンネル!!」
+"Nào! Pháo nổi hình vây!!"
+
+@14241 Seabook · シーブック
+# Kích hoạt: 使用〈フィンファンネル〉
+> 「フィンファンネル!!」
+"Pháo nổi có vây!!"
+
+@14242 Seabook · シーブック
+# Kích hoạt: 使用〈フィンファンネル〉
+> 「やらせるかっ! フィンファンネルっ!」
+"Đừng nghĩ đến việc thành công! Pháo nổi hình vây!"
+
+@14243 Seabook · シーブック
+# Kích hoạt: 使用〈ハイメガキャノン〉（低优先，可能被通用台词顶掉）
+> 「エネルギー充填……
+>  いけっ! ハイメガキャノン!!」
+"Nạp năng lượng... tiếp tục! Mega Cannon năng lượng cao!!"

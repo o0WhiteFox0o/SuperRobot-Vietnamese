@@ -1,0 +1,149 @@
+# Bản dịch tiếng Việt Super Robot Wars 64
+# Định dạng và vị trí: docs/guide/dialogue-text.md
+
+@9026 Rosamia · ロザミア
+# Kích hoạt: Tấn công (Chung，1/10）
+> 「沈めっ!」
+"Chìm xuống!"
+
+@9027 Rosamia · ロザミア
+# Kích hoạt: Tấn công (Chung，2/10）
+> 「邪魔をするかっ!」
+"Sao ngươi dám cản đường ta!"
+
+@9028 Rosamia · ロザミア
+# Kích hoạt: Tấn công (Chung，3/10）
+> 「貴様ぁっ!」
+"Đồ khốn! "
+
+@9029 Rosamia · ロザミア
+# Kích hoạt: Tấn công (Chung，4/10）
+> 「死んでもらうよ!」
+"Đi xuống địa ngục đi!"
+
+@9030 Rosamia · ロザミア
+# Kích hoạt: Tấn công (Chung，5/10）
+> 「捕まえたよ」
+"Có bạn"
+
+@9031 Rosamia · ロザミア
+# Kích hoạt: Tấn công (Chung，6/10）
+> 「逃がさないよ」
+"Tôi sẽ không để em trốn thoát"
+
+@9032 Rosamia · ロザミア
+# Kích hoạt: Tấn công (Chung，7/10）
+> 「死ねいっ!!」
+"Xuống địa ngục đi!!"
+
+@9033 Rosamia · ロザミア
+# Kích hoạt: Tấn công (Chung，8/10）
+> 「やらせるかいっ!」
+"Đừng cố gắng để thành công!"
+
+@9034 Rosamia · ロザミア
+# Kích hoạt: Tấn công (Chung，9/10）
+> 「速い? しかし、私にかなうかな」
+"Khá nhanh? Nhưng bạn có thể đánh bại tôi không?"
+
+@9035 Rosamia · ロザミア
+# Kích hoạt: Tấn công (Chung，10/10）
+> 「フフ、もう逃がさないよ」
+"Ha ha, ta sẽ không để ngươi trốn thoát lần nữa."
+
+@9036 Rosamia · ロザミア
+# Kích hoạt: 被击坠（通用，1/2）
+> 「あ、ああ……うあああっ!!」
+"A, ahhh...oooooooooo!!"
+
+@9037 Rosamia · ロザミア
+# Kích hoạt: 被击坠（通用，2/2）
+> 「くっ! しくじった!!」
+"Ugh! Tôi đã bỏ lỡ nó!!"
+
+@9038 Rosamia · ロザミア
+# Kích hoạt: 重伤（剩余 HP 不足 30%）（通用，1/3）
+> 「あああっ! 空が……空が落ちる……」
+"Ahhh! Trời...trời sập rồi..."
+
+@9039 Rosamia · ロザミア
+# Kích hoạt: 重伤（剩余 HP 不足 30%）（通用，2/3）
+> 「何っ!? な、何だ、この力は!?」
+"Cái gì!? Đây, sức mạnh này là gì vậy!?"
+
+@9040 Rosamia · ロザミア
+# Kích hoạt: 重伤（剩余 HP 不足 30%）（通用，3/3）
+> 「あうぅっ!
+>  何だ、直撃だというのか!?」
+"Aww! Cái gì, nó bị đánh trực tiếp à!?"
+
+@9041 Rosamia · ロザミア
+# Kích hoạt: 中伤（剩余 HP 30–90%）（通用，1/3）
+> 「くうっ! やるじゃないかっ!」
+"Hmm! Khá thú vị đấy!"
+
+@9042 Rosamia · ロザミア
+# Kích hoạt: 中伤（剩余 HP 30–90%）（通用，2/3）
+> 「うっ! このっ、生意気なんだよっ!」
+"Chà! Anh bạn đừng quá kiêu ngạo!"
+
+@9043 Rosamia · ロザミア
+# Kích hoạt: 中伤（剩余 HP 30–90%）（通用，3/3）
+> 「ちいっ! やってくれる!」
+"Tsk! Sao ngươi dám!"
+
+@9044 Rosamia · ロザミア
+# Kích hoạt: 轻伤（剩余 HP 90% 以上）（通用，1/3）
+> 「ふん、その程度かい」
+“Humph, đó là tất cả những gì cậu có à?”
+
+@9045 Rosamia · ロザミア
+# Kích hoạt: 轻伤（剩余 HP 90% 以上）（通用，2/3）
+> 「効かないねっ!」
+"Nó không có tác dụng gì cả!"
+
+@9046 Rosamia · ロザミア
+# Kích hoạt: 轻伤（剩余 HP 90% 以上）（通用，3/3）
+> 「そんな攻撃でやられるものか!」
+"Làm sao một đòn tấn công như vậy có thể hạ gục tôi!"
+
+@9047 Rosamia · ロザミア
+# Kích hoạt: Né tránh（通用，1/5）
+> 「当たりはしないっ!」
+"Bạn không thể đánh nó!"
+
+@9048 Rosamia · ロザミア
+# Kích hoạt: Né tránh（通用，2/5）
+> 「機動性はこっちが上だって
+>  いったろう?」
+"Không phải tôi đã nói rằng tôi có khả năng di chuyển cao hơn sao?"
+
+@9049 Rosamia · ロザミア
+# Kích hoạt: Né tránh（通用，3/5）
+> 「甘いんだよっ!」
+"Thật ngây thơ!"
+
+@9050 Rosamia · ロザミア
+# Kích hoạt: Né tránh（通用，4/5）
+> 「遅いっ!」
+"Quá chậm!"
+
+@9051 Rosamia · ロザミア
+# Kích hoạt: Né tránh（通用，5/5）
+> 「ん? 何かの作戦なのか?」
+"Hả? Cậu có kế hoạch gì chưa?"
+
+@9052 Rosamia · ロザミア
+# Kích hoạt: Tấn công无效（护罩／装甲）（通用，1/1）
+> 「ムダなのさ!」
+"Thật vô ích!"
+
+@9053 Rosamia · ロザミア
+# Kích hoạt: 弹药／EN 不足，无法反击（通用，1/1）
+> 「弾切れか!? ぬかった!」
+"Hết đạn!? Bạn bất cẩn quá!"
+
+@9054 Rosamia · ロザミア
+# Kích hoạt: 射程外，无法反击（通用，1/1）
+> 「ふん、遠くからこそこそと……ネズミめ!」
+“Hừ, trốn ở đằng xa và lén lút…chuột!”

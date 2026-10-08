@@ -1,0 +1,350 @@
+# Bản dịch tiếng Việt Super Robot Wars 64
+# Định dạng và vị trí: docs/guide/dialogue-text.md
+
+@9749 Marquis Janus · ヤヌス侯爵
+# Kích hoạt: Tấn công (Chung，1/8）
+> 「いるいる、獲物がいるぞ!」
+"Tới, tới, con mồi tới!"
+
+@9750 Marquis Janus · ヤヌス侯爵
+# Kích hoạt: Tấn công (Chung，2/8）
+> 「勝利はこちらのもの」
+“Chiến thắng thuộc về chúng ta”
+
+@9751 Marquis Janus · ヤヌス侯爵
+# Kích hoạt: Tấn công (Chung，3/8）
+> 「勝負はこっちのもの!」
+"Vòng này là của chúng ta!"
+
+@9752 Marquis Janus · ヤヌス侯爵
+# Kích hoạt: Tấn công (Chung，4/8）
+> 「フハハハハ、たっぷり歓迎してあげるよ!」
+"Huhahahaha, tôi sẽ đối xử tốt với bạn!"
+
+@9753 Marquis Janus · ヤヌス侯爵
+# Kích hoạt: Tấn công (Chung，5/8）
+> 「よく来たね、おまえたち!」
+"Ngươi tới vừa lúc!"
+
+@9754 Marquis Janus · ヤヌス侯爵
+# Kích hoạt: Tấn công (Chung，6/8）
+> 「ハハハハ、これからが楽しみだわ!」
+"Hahahaha, bước tiếp theo thú vị đấy!"
+
+@9755 Marquis Janus · ヤヌス侯爵
+# Kích hoạt: Tấn công (Chung，7/8）
+> 「生意気な奴め!
+>  これでもくらえ!」
+"Kẻ kiêu ngạo! Hãy thử cái này!"
+
+@9756 Marquis Janus · ヤヌス侯爵
+# Kích hoạt: Tấn công (Chung，8/8）
+> 「連続的に攻撃するのは
+>  勝利への道だ!」
+"Tấn công liên tục là cách để giành chiến thắng!"
+
+@9757 Marquis Janus · ヤヌス侯爵
+# Kích hoạt: 被击坠（通用，1/3）
+> 「くそう、あと一歩というところで……」
+"Chết tiệt, chỉ còn một bước nữa thôi..."
+
+@9758 Marquis Janus · ヤヌス侯爵
+# Kích hoạt: 被击坠（通用，2/3）
+> 「こ、こんなバカな……!?」
+"L-làm sao điều này có thể xảy ra...!?"
+
+@9759 Marquis Janus · ヤヌス侯爵
+# Kích hoạt: 被击坠（通用，3/3）
+> 「ぎゃあぁぁぁぁぁぁっ!!」
+"Ahhhhhhhhhhhh!!"
+
+@9760 Marquis Janus · ヤヌス侯爵
+# Kích hoạt: 重伤（剩余 HP 不足 30%）（通用，1/4）
+> 「おのれ! おのれおのれぇっ!!」
+"Đáng ghét! Đáng ghét, đáng ghét!!"
+
+@9761 Marquis Janus · ヤヌス侯爵
+# Kích hoạt: 重伤（剩余 HP 不足 30%）（通用，2/4）
+> 「ううう、覚えていろ!」
+"Uuuuuuuuuah, hãy nhớ lấy nó!"
+
+@9762 Marquis Janus · ヤヌス侯爵
+# Kích hoạt: 重伤（剩余 HP 不足 30%）（通用，3/4）
+> 「な、何ごとがおこったのじゃ!?」
+“C-chuyện gì đã xảy ra vậy!?”
+
+@9763 Marquis Janus · ヤヌス侯爵
+# Kích hoạt: 重伤（剩余 HP 不足 30%）（通用，4/4）
+> 「くっ……このままではすまさんぞ!!」
+"Chà... vấn đề này sẽ không bị lãng quên đâu!!"
+
+@9764 Marquis Janus · ヤヌス侯爵
+# Kích hoạt: 中伤（剩余 HP 30–90%）（通用，1/4）
+> 「あくまで勝負する気だな」
+"Có vẻ như bạn nhất quyết quyết định người chiến thắng."
+
+@9765 Marquis Janus · ヤヌス侯爵
+# Kích hoạt: 中伤（剩余 HP 30–90%）（通用，2/4）
+> 「どうした?」
+"Có chuyện gì thế?"
+
+@9766 Marquis Janus · ヤヌス侯爵
+# Kích hoạt: 中伤（剩余 HP 30–90%）（通用，3/4）
+> 「おとなしくしてればいい気になりおって
+>  見ていろ、叩きつぶしてやる!」
+"Nếu ngươi thấy ta thành thật, ta sẽ đẩy ngươi càng xa. Cứ chờ xem, ta sẽ đập nát ngươi thành từng mảnh!"
+
+@9767 Marquis Janus · ヤヌス侯爵
+# Kích hoạt: 中伤（剩余 HP 30–90%）（通用，4/4）
+> 「くそう、敵もやるな」
+"Đáng chết, đối phương cũng có chút thủ đoạn."
+
+@9768 Marquis Janus · ヤヌス侯爵
+# Kích hoạt: 轻伤（剩余 HP 90% 以上）（通用，1/6）
+> 「束の間の夢を見てるがいい」
+"Chỉ cần có giấc mơ ngọt ngào của bạn."
+
+@9769 Marquis Janus · ヤヌス侯爵
+# Kích hoạt: 轻伤（剩余 HP 90% 以上）（通用，2/6）
+> 「フハハハハ、さぞかし悔しいだろうよ」
+"Ha ha ha, ngươi nhất định rất không cam lòng."
+
+@9770 Marquis Janus · ヤヌス侯爵
+# Kích hoạt: 轻伤（剩余 HP 90% 以上）（通用，3/6）
+> 「ハハハハ、頼りにならない者たちよ」
+"Hahahaha, một lũ không đáng tin cậy"
+
+@9771 Marquis Janus · ヤヌス侯爵
+# Kích hoạt: 轻伤（剩余 HP 90% 以上）（通用，4/6）
+> 「まぬけな奴らだ!」
+"Một lũ ngốc!"
+
+@9772 Marquis Janus · ヤヌス侯爵
+# Kích hoạt: 轻伤（剩余 HP 90% 以上）（通用，5/6）
+> 「ハハハッ、まだ抵抗するつもりか!?」
+"Hahaha, ngươi còn muốn phản kháng sao!?"
+
+@9773 Marquis Janus · ヤヌス侯爵
+# Kích hoạt: 轻伤（剩余 HP 90% 以上）（通用，6/6）
+> 「今度はお前の落ちる番だな!」
+"Lần này đến lượt ngươi bị bắn hạ!"
+
+@9774 Marquis Janus · ヤヌス侯爵
+# Kích hoạt: Né tránh（通用，1/3）
+> 「フフフ、万事うまくいっている」
+"Hehehe, mọi chuyện đều ổn"
+
+@9775 Marquis Janus · ヤヌス侯爵
+# Kích hoạt: Né tránh（通用，2/3）
+> 「そうはさせぬぞ、フフフフフ」
+"Đừng nghĩ đến việc thành công, hehehehehe"
+
+@9776 Marquis Janus · ヤヌス侯爵
+# Kích hoạt: Né tránh（通用，3/3）
+> 「これでいい、これでいいのだ!」
+"Điều đó tốt, điều đó tốt!"
+
+@9777 Marquis Janus · ヤヌス侯爵
+# Kích hoạt: Tấn công无效（护罩／装甲）（通用，1/2）
+> 「これでいい、これでいいのだ!」
+"Điều đó tốt, điều đó tốt!"
+
+@9778 Marquis Janus · ヤヌス侯爵
+# Kích hoạt: Tấn công无效（护罩／装甲）（通用，2/2）
+> 「どうだ? 観念したかね?」
+"Mọi chuyện thế nào rồi? Bạn đã bỏ cuộc chưa?"
+
+@9779 Marquis Janus · ヤヌス侯爵
+# Kích hoạt: 弹药／EN 不足，无法反击（通用，1/2）
+> 「反撃できぬというのか!?
+>  ええぃ、なんというザマだ!」
+"Không thể đánh trả được!? Chết tiệt, thật đáng xấu hổ!"
+
+@9780 Marquis Janus · ヤヌス侯爵
+# Kích hoạt: 弹药／EN 不足，无法反击（通用，2/2）
+> 「ど、どうしたのだ!?」
+"Cái, chuyện gì đang xảy ra vậy!?"
+
+@9781 Marquis Janus · ヤヌス侯爵
+# Kích hoạt: 射程外，无法反击（通用，1/1）
+> 「ええい、届かぬではないかぁっ!!」
+"Chết tiệt, tôi thậm chí còn không thể chạm tới nó!!"
+
+@15047 Marquis Janus · ヤヌス侯爵
+# Kích hoạt: Tấn công，乘坐〈ミケロス〉
+> 「とどめをさせ!」
+"Kết liễu hắn!"
+
+@15048 Marquis Janus · ヤヌス侯爵
+# Kích hoạt: Tấn công，乘坐〈ミケロス〉
+> 「フハハハ、こいつらを血祭りにあげろ」
+"Ha ha ha, dùng những người này tế tế lá cờ."
+
+@15049 Marquis Janus · ヤヌス侯爵
+# Kích hoạt: Tấn công，乘坐〈ミケロス〉
+> 「ようし、今だ! ようく狙え!」
+"Được rồi, bây giờ! Hãy nhắm mục tiêu!"
+
+@15050 Marquis Janus · ヤヌス侯爵
+# Kích hoạt: Tấn công，乘坐〈ミケロス〉
+> 「準備はいいか? 攻撃を開始
+>  するぞ!」
+"Bạn đã sẵn sàng chưa? Bắt đầu tấn công!"
+
+@15051 Marquis Janus · ヤヌス侯爵
+# Kích hoạt: Tấn công，乘坐〈デモニカ〉
+> 「とどめをさせ!」
+"Kết liễu hắn!"
+
+@15052 Marquis Janus · ヤヌス侯爵
+# Kích hoạt: Tấn công，乘坐〈デモニカ〉
+> 「フハハハ、こいつらを血祭りにあげろ」
+"Ha ha ha, dùng những người này tế tế lá cờ."
+
+@15053 Marquis Janus · ヤヌス侯爵
+# Kích hoạt: Tấn công，乘坐〈デモニカ〉
+> 「ようし、今だ! ようく狙え!」
+"Được rồi, bây giờ! Hãy nhắm mục tiêu!"
+
+@15054 Marquis Janus · ヤヌス侯爵
+# Kích hoạt: Tấn công，乘坐〈デモニカ〉
+> 「準備はいいか? 攻撃を開始
+>  するぞ!」
+"Bạn đã sẵn sàng chưa? Bắt đầu tấn công!"
+
+@15055 Marquis Janus · ヤヌス侯爵
+# Kích hoạt: 使用〈ミサイル／グレネードランチャー／ミサイルポッド／ホーミングミサイル／連装ミサイルランチャー／小型ミサイル／大型ミサイル〉（低优先，可能被通用台词顶掉）
+> 「ミサイル発射!」
+"Phóng tên lửa!"
+
+@15056 Marquis Janus · ヤヌス侯爵
+# Kích hoạt: 使用〈ミサイル／グレネードランチャー／ミサイルポッド／ホーミングミサイル／連装ミサイルランチャー／小型ミサイル／大型ミサイル〉（低优先，可能被通用台词顶掉）
+> 「撃って撃って撃ちまくれ!」
+"Đánh, đánh, đánh thật mạnh!"
+
+@15057 Marquis Janus · ヤヌス侯爵
+# Kích hoạt: 使用〈ミサイル／グレネードランチャー／ミサイルポッド／ホーミングミサイル／連装ミサイルランチャー／小型ミサイル／大型ミサイル〉（低优先，可能被通用台词顶掉）
+> 「よし、発射!」
+"Được, phóng đi!"
+
+@15058 Marquis Janus · ヤヌス侯爵
+# Kích hoạt: 使用〈ミサイル／グレネードランチャー／ミサイルポッド／ホーミングミサイル／連装ミサイルランチャー／小型ミサイル／大型ミサイル〉（低优先，可能被通用台词顶掉）
+> 「今だ! 撃てーっ!」
+"Bây giờ! Bắn—!"
+
+@15059 Marquis Janus · ヤヌス侯爵
+# Kích hoạt: 使用〈ミサイル／グレネードランチャー／ミサイルポッド／ホーミングミサイル／連装ミサイルランチャー／小型ミサイル／大型ミサイル〉（低优先，可能被通用台词顶掉）
+> 「ようし、命令通りに迎え撃て!」
+"Được rồi, tấn công theo lệnh!"
+
+@15060 Marquis Janus · ヤヌス侯爵
+# Kích hoạt: 使用〈破壊光線〉（低优先，可能被通用台词顶掉）
+> 「撃って撃って撃ちまくれ!」
+"Đánh, đánh, đánh thật mạnh!"
+
+@15061 Marquis Janus · ヤヌス侯爵
+# Kích hoạt: 使用〈破壊光線〉（低优先，可能被通用台词顶掉）
+> 「よし、発射!」
+"Được, phóng đi!"
+
+@15062 Marquis Janus · ヤヌス侯爵
+# Kích hoạt: 使用〈破壊光線〉（低优先，可能被通用台词顶掉）
+> 「今だ! 撃てーっ!」
+"Bây giờ! Bắn—!"
+
+@15063 Marquis Janus · ヤヌス侯爵
+# Kích hoạt: 使用〈破壊光線〉（低优先，可能被通用台词顶掉）
+> 「ようし、命令通りに迎え撃て!」
+"Được rồi, tấn công theo lệnh!"
+
+@15064 Marquis Janus · ヤヌス侯爵
+# Kích hoạt: 使用〈爆雷〉（低优先，可能被通用台词顶掉）
+> 「撃って撃って撃ちまくれ!」
+"Đánh, đánh, đánh thật mạnh!"
+
+@15065 Marquis Janus · ヤヌス侯爵
+# Kích hoạt: 使用〈爆雷〉（低优先，可能被通用台词顶掉）
+> 「よし、発射!」
+"Được, phóng đi!"
+
+@15066 Marquis Janus · ヤヌス侯爵
+# Kích hoạt: 使用〈爆雷〉（低优先，可能被通用台词顶掉）
+> 「今だ! 撃てーっ!」
+"Bây giờ! Bắn—!"
+
+@15067 Marquis Janus · ヤヌス侯爵
+# Kích hoạt: 使用〈爆雷〉（低优先，可能被通用台词顶掉）
+> 「ようし、命令通りに迎え撃て!」
+"Được rồi, tấn công theo lệnh!"
+
+@15068 Marquis Janus · ヤヌス侯爵
+# Kích hoạt: 被击坠，乘坐〈ミケロス〉
+> 「脱出だ! 脱出しろ!」
+"Chạy đi! Chạy trốn nhanh!"
+
+@15069 Marquis Janus · ヤヌス侯爵
+# Kích hoạt: 被击坠，乘坐〈ミケロス〉
+> 「退け! ひきあげろ!」
+"Rút lui! Rút lui nhanh!"
+
+@15070 Marquis Janus · ヤヌス侯爵
+# Kích hoạt: 被击坠，乘坐〈ミケロス〉
+> 「ええい、出直しじゃ!」
+"Chết tiệt, hãy quay lại vào ngày khác!"
+
+@15071 Marquis Janus · ヤヌス侯爵
+# Kích hoạt: 被击坠，乘坐〈デモニカ〉
+> 「脱出だ! 脱出しろ!」
+"Chạy đi! Chạy trốn nhanh!"
+
+@15072 Marquis Janus · ヤヌス侯爵
+# Kích hoạt: 被击坠，乘坐〈デモニカ〉
+> 「退け! ひきあげろ!」
+"Rút lui! Rút lui nhanh!"
+
+@15073 Marquis Janus · ヤヌス侯爵
+# Kích hoạt: 被击坠，乘坐〈デモニカ〉
+> 「ええい、出直しじゃ!」
+"Chết tiệt, hãy quay lại vào ngày khác!"
+
+@15074 Marquis Janus · ヤヌス侯爵
+# Kích hoạt: 重伤（剩余 HP 不足 30%），乘坐〈ミケロス〉
+> 「うろたえるな!」
+"Tại sao phải hoảng sợ!"
+
+@15075 Marquis Janus · ヤヌス侯爵
+# Kích hoạt: 重伤（剩余 HP 不足 30%），乘坐〈デモニカ〉
+> 「うろたえるな!」
+"Tại sao phải hoảng sợ!"
+
+@15076 Marquis Janus · ヤヌス侯爵
+# Kích hoạt: 中伤（剩余 HP 30–90%），乘坐〈ミケロス〉
+> 「1人残らず片づけて
+>  しまえ!」
+"Đừng để ai bị bỏ lại phía sau, mang tất cả bọn họ đi cho tôi!"
+
+@15077 Marquis Janus · ヤヌス侯爵
+# Kích hoạt: 中伤（剩余 HP 30–90%），乘坐〈ミケロス〉
+> 「何をしている!? グズグズするな!」
+"Bạn đang làm gì vậy!? Đừng lảng vảng nữa!"
+
+@15078 Marquis Janus · ヤヌス侯爵
+# Kích hoạt: 中伤（剩余 HP 30–90%），乘坐〈ミケロス〉
+> 「なにをもたもたしている」
+“Anh đang lảm nhảm cái gì thế?”
+
+@15079 Marquis Janus · ヤヌス侯爵
+# Kích hoạt: 中伤（剩余 HP 30–90%），乘坐〈デモニカ〉
+> 「1人残らず片づけて
+>  しまえ!」
+"Đừng để ai bị bỏ lại phía sau, mang tất cả bọn họ đi cho tôi!"
+
+@15080 Marquis Janus · ヤヌス侯爵
+# Kích hoạt: 中伤（剩余 HP 30–90%），乘坐〈デモニカ〉
+> 「何をしている!? グズグズするな!」
+"Bạn đang làm gì vậy!? Đừng lảng vảng nữa!"
+
+@15081 Marquis Janus · ヤヌス侯爵
+# Kích hoạt: 中伤（剩余 HP 30–90%），乘坐〈デモニカ〉
+> 「なにをもたもたしている」
+“Anh đang lảm nhảm cái gì thế?”

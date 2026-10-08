@@ -1,0 +1,1585 @@
+# Bản dịch tiếng Việt Super Robot Wars 64
+# Định dạng và vị trí: docs/guide/dialogue-text.md
+
+@25195 Quattro · クワトロ
+> 「そうか……帝国軍は去ったか」
+"Vậy đó...Quân đội Hoàng gia đã rút lui."
+
+@25196 Bright · ブライト
+> 「ああ。これで、残るは
+>  我々地球人同士の問題だ」
+"Ừ. Trong trường hợp này, phần còn lại là vấn đề giữa những người trái đất chúng ta."
+
+@25197 Quattro · クワトロ
+> 「監視衛星の件は了解した。
+>  手配しておこう
+"Tôi hiểu việc giám sát vệ tinh. Tôi sẽ sắp xếp.
+---
+>  それと一応このことについてはOZにも
+>  情報を流しておいたほうがいいな」
+Ngoài ra, tốt nhất bạn nên báo cáo vấn đề này với OZ. "
+
+@25198 Chan · チェーン
+> 「アムロ大尉」
+"Đội trưởng Amuro."
+
+@25199 Beltorchika · ベルトーチカ
+> 「なによ」
+"Bạn đang làm gì vậy?"
+
+@25200 Chan · チェーン
+> 「あなたには用事はないわ」
+"Tôi không tìm kiếm bạn."
+
+@25201 Amuro · アムロ
+> 「どうしたんだ、チェーン」
+"Có chuyện gì vậy, Thiên Ân?"
+
+@25202 Chan · チェーン
+> 「私、月へ行ってアナハイムの
+>  オクトバー氏と会ってきます
+“Tôi sắp lên mặt trăng để gặp ông Octobaba ở Anaheim.
+---
+>  クワトロ大尉が今後のことで
+>  話をつけたそうなので」
+Tôi nghe nói Đại úy Kwatero đã thương lượng những thỏa thuận trong tương lai. "
+
+@25203 Amuro · アムロ
+> 「月へ? しかし、危険じゃないのか?」
+"Đi lên mặt trăng? Nhưng có nguy hiểm gì không?"
+
+@25204 Chan · チェーン
+> 「それはそうですけど……
+>  アムロ大尉のためなら、平気です」
+"Điều đó đúng...nhưng đối với Đội trưởng Amuro, tôi không quan tâm."
+
+@25205 Beltorchika · ベルトーチカ
+> 「行くんなら、さっさといっちゃいなさいよ」
+"Muốn đi thì đi nhanh đi."
+
+@25206 Emma · エマ
+> 「どう思います?
+>  あの、カミーユの連れてきた娘」
+"Bạn nghĩ sao? Đó là cô gái mà Camus mang về."
+
+@25207 Quattro · クワトロ
+> 「わからんな。恐らくは
+>  強化人間だろうとは思うが……」
+“Khó nói lắm. Tôi đoán chắc đó là người được cường hóa…”
+
+@25208 Amuro · アムロ
+> 「ああ、俺たちと、いやカミーユと
+>  接触する理由がわからないな
+“Ồ, tôi không hiểu tại sao cô ấy lại muốn tiếp xúc với chúng ta, không, với Camus.
+---
+>  戦場でのシンパシーというなら
+>  理解はできるが」
+Nói nó gây được tiếng vang trên chiến trường cũng là điều dễ hiểu. "
+
+@25209 Emma · エマ
+> 「でも、危険な気がします。カミーユっ
+>  て意外ともろい部分があるから……」
+"Nhưng, tôi luôn cảm thấy rất nguy hiểm. Camus không ngờ lại có một mặt yếu đuối..."
+
+@25210 Quattro · クワトロ
+> 「……そうだな」
+"...Vâng."
+
+@25211 Emma · エマ
+> 「どう思います?
+>  あの、カミーユの連れてきた娘」
+"Bạn nghĩ sao? Đó là cô gái mà Camus mang về."
+
+@25212 Quattro · クワトロ
+> 「わからんな。恐らくは
+>  強化人間だろうとは思うが……」
+“Khó nói lắm. Tôi đoán chắc đó là người được cường hóa…”
+
+@25213 Amuro · アムロ
+> 「ああ、俺たちと、いやカミーユと
+>  接触する理由がわからないな
+“Ồ, tôi không hiểu tại sao cô ấy lại muốn tiếp xúc với chúng ta, không, với Camus.
+---
+>  戦場でのシンパシーというなら
+>  理解はできるが」
+Nói nó gây được tiếng vang trên chiến trường cũng là điều dễ hiểu. "
+
+@25214 Emma · エマ
+> 「でも、危険な気がします。カミーユっ
+>  て意外ともろい部分があるから……」
+"Nhưng, tôi luôn cảm thấy rất nguy hiểm. Camus không ngờ lại có một mặt yếu đuối..."
+
+@25215 Quattro · クワトロ
+> 「……そうだな」
+"...Vâng."
+
+@25216 Quattro · クワトロ
+> 「あの娘、どう思う?」
+"Cô gái đó, em nghĩ thế nào?"
+
+@25217 Amuro · アムロ
+> 「カミーユの連れてきた娘か?
+>  わからないな……危険な気はするが」
+"Là Camus mang về cô gái sao? Khó nói... Ta luôn cảm thấy có nguy hiểm."
+
+@25218 Quattro · クワトロ
+> 「……そうだな」
+"...Vâng."
+
+@25219 Sally · サリィ
+> 「ハサン先生、お久しぶりです」
+"Bác sĩ Hassan, đã lâu không gặp."
+
+@25220 Hasan · ハサン
+> 「おお、サリィくんか。
+>  君がアーガマに乗っているとはな」
+"Ồ, là Sally. Không ngờ em cũng lên Agama."
+
+@25221 Sally · サリィ
+> 「色々とありましたからね。
+>  それで、どうですか?」
+"Có nhiều chuyện đã xảy ra. Vậy mọi chuyện thế nào rồi?"
+
+@25222 Hasan · ハサン
+> 「うむ、葉月博士に連絡はついた
+>  沙羅の方はあまり問題はないよう
+"Ừm, tôi đã liên lạc với bác sĩ Hazuki. Có vẻ như Sara không có vấn đề gì lớn.
+---
+>  だな。しばらく休ませてやれば、あとは
+>  本人とまわりのケアの問題だ」
+Hãy để cô ấy nghỉ ngơi một thời gian, sau đó cô ấy sẽ tự chăm sóc bản thân và những người xung quanh. "
+
+@25223 Sally · サリィ
+> 「そうですか。ではロザミィのほうは?」
+"Đúng vậy. Còn Rosamy thì sao?"
+
+@25224 Hasan · ハサン
+> 「薬物反応が出た。
+>  詳しい事はDNA鑑定まで
+"Đã phát hiện phản ứng thuốc. Chi tiết sẽ phải đợi đến khi xét nghiệm DNA
+---
+>  待つ必要があるが……」
+Mãi về sau chúng ta mới biết…”
+
+@25225 Kamille · カミーユ
+> 「ロザミィが強化人間だって
+>  言うんですか?」
+"Ý bạn là Rosamy là một người được nâng cao?"
+
+@25226 Hasan · ハサン
+> 「可能性は否定できないな」
+"Không thể loại trừ khả năng này."
+
+@25227 Kamille · カミーユ
+> 「……強化人間なんてつくって、
+>  どうしようって言うんです」
+“…Chính xác thì cậu muốn làm gì khi tạo ra thứ gì đó giống như một con người được nâng cấp?”
+
+@25228 Hasan · ハサン
+> 「私をせめられても困る。
+>  もっとも医者として
+“Anh có đổ lỗi cho tôi cũng vô ích thôi. Nhưng với tư cách là một bác sĩ,
+---
+>  興味がないといえばウソになるがね。
+>  こんな時代ではなかったら
+Sẽ là nói dối nếu nói rằng tôi không quan tâm. Nếu không có thời đại này,
+---
+>  ここまでにはならなかっただろうが……」
+Chuyện sẽ không đến mức này đâu…”
+
+@25229 Sally · サリィ
+> 「ハサン先生、ちょっと」
+"Bác sĩ Hassan, xin hãy bước lên nói."
+
+@25230 Kamille · カミーユ
+> 「戦争のためなら、
+>  人間の身体をいじるのも
+"Có thể thao túng cơ thể con người chỉ vì mục đích chiến tranh không?
+---
+>  許されるって言うんですか!?」
+Có ổn không? ? "
+
+@25231 Hasan · ハサン
+> 「一概にそうとは言えんが、
+>  戦争のおかげで飛躍的に
+“Không thể khái quát hóa được, nhưng do chiến tranh, tốc độ phát triển nhanh chóng
+---
+>  発展を遂げた技術は
+>  いくらでもある。医学だってそうだ」
+Có rất nhiều công nghệ đang được phát triển. Thuốc cũng vậy. "
+
+@25232 Kamille · カミーユ
+> 「納得できませんね、そんなこと」
+"Tôi không thể chấp nhận loại điều này."
+
+@25233 Hasan · ハサン
+> 「平和になれば
+>  戦時中の技術も還元できるよ」
+“Khi có hòa bình, công nghệ thời chiến cũng có thể được trả lại cho xã hội”.
+
+@25234 Kamille · カミーユ
+> 「それは……悲しい副産物ですよ。
+>  認めたくありません!」
+"Đó...là một kết quả phụ đáng buồn. Tôi không muốn thừa nhận điều đó!"
+
+@25235 Rosamia · ロザミア
+> 「あ、お兄ちゃん!」
+"A, anh trai!"
+
+@25236 Kamille · カミーユ
+> 「ロザミィ、
+>  どこか……おかしな所はないか?」
+"Rosami, có...có chuyện gì không?"
+
+@25237 Rosamia · ロザミア
+> 「ぜんぜん。お兄ちゃん、アメたべる?」
+"Không hề. Anh ơi, anh có muốn ăn kẹo không?"
+
+@25238 Kamille · カミーユ
+> 「いや、いいよ」
+"Không, không cần."
+
+@25239 Kamille · カミーユ
+> (ロザミィが強化人間だって……
+>  ここにいれば、戦いに出なくてすむんだ)
+(Rosami là một người được tăng cường sức mạnh...nếu cậu ở lại đây, cậu không cần phải ra chiến trường...)
+
+@25240 Judau · ジュドー
+> 「よし、アーガマが
+>  入港してるってのはここだな」
+"Được rồi, đây là cảng Agama sẽ cập bến."
+
+@25241 Iino · イーノ
+> 「ねぇ、本当にやるつもりなの?」
+"Này, bạn có thực sự muốn làm điều đó không?"
+
+@25242 Elle · エル
+> 「あったり前じゃない。
+>  あんたいまさら何言ってんのよ」
+"Điều đó không cần phải nói. Bây giờ anh vẫn còn nói những điều như vậy."
+
+@25243 Beecha · ビーチャ
+> 「いやならやめろよ。
+>  そうすりゃ分け前も増える」
+"Nếu không muốn làm thì hãy nghỉ việc. Như vậy bạn có thể kiếm được nhiều tiền hơn."
+
+@25244 Mondo · モンド
+> 「そうそう」
+"Ừ, ừ."
+
+@25245 Judau · ジュドー
+> 「しっ、静かにしろ」
+"Suỵt, nhỏ giọng lại đi."
+
+@25246 Judau · ジュドー
+> 「…………よし、いいぞ」
+“…Được rồi, vậy thôi.”
+
+@25247 Iino · イーノ
+> 「ジュドー……」
+"Jidu..."
+
+@25248 Judau · ジュドー
+> 「イーノ、早くしろ。うまくいきゃ、
+>  俺たち大金持ちなんだぞ」
+"Ino, nhanh lên. Nếu mọi việc suôn sẻ, chúng ta sẽ kiếm được bộn tiền."
+
+@25249 Elle · エル
+> 「急がないと、見つかっちゃうよ」
+“Nếu không nhanh lên, chúng ta sẽ bị phát hiện.”
+
+@25250 Iino · イーノ
+> 「わ、わかったよ」
+"Tôi biết, tôi biết."
+
+@25251 Treize · トレーズ
+> 「レディ、どういうことだ?」
+"Late, có chuyện gì thế?"
+
+@25252 Lady · レディ
+> 「閣下はずるうございます。閣下は
+>  世界の頂点に立たなければ
+“Đại nhân, ngài quá xảo quyệt, ngài mới là người phải đứng trên đỉnh thế giới.
+---
+>  ならないお方。なのに、世界を
+>  混乱のまま放っておいでになる
+Nhưng bạn đã để thế giới rơi vào hỗn loạn.
+---
+>  私は閣下のお手伝いのために
+>  宇宙へ上がりました
+Tôi đã đi đến vũ trụ để giúp bạn.
+---
+>  そして、閣下の未来を
+>  ご用意しました」
+Và tương lai đã được chuẩn bị cho bạn. "
+
+@25253 Treize · トレーズ
+> 「レディ、世界から戦いはなくならない
+>  ならば、常に強者が世界を
+“Thưa cô, vì chiến tranh trên thế giới sẽ không bao giờ biến mất, nên hãy để kẻ mạnh luôn thống trị thế giới.
+---
+>  治めればいい。人々は強い者に
+>  支配されることに喜びすら感じる
+Mọi người thậm chí còn thích thú khi bị thống trị bởi những người đàn ông mạnh mẽ.
+---
+>  世界は戦ってこそ自然なのだ」
+Thế giới có chiến tranh là điều đương nhiên. "
+
+@25254 Lady · レディ
+> 「それには無駄な血が流れすぎます。
+>  閣下はすべての人々を愛せる
+“Nhưng làm thế sẽ đổ quá nhiều máu không cần thiết. Bạn có thể yêu tất cả mọi người trên thế giới
+---
+>  お方。宇宙から地球圏の
+>  平和を築けるお方です」
+Con người là những người có thể tạo ra hòa bình trong vòng tròn trái đất từ vũ trụ. "
+
+@25255 Treize · トレーズ
+> 「レディ、君は自分の理想で
+>  未来を見ている」
+“Quý cô, cô đang nhìn về tương lai bằng lý tưởng của chính mình. "
+
+@25256 Lady · レディ
+> 「閣下がお望みになったことです」
+“Đây chính xác là điều mà Ngài mong đợi. "
+
+@25257 Treize · トレーズ
+> 「私の理想など、人間一人の
+>  妄想でしかない。歴史は
+"Lý tưởng của tôi chỉ là sự ảo tưởng của một người. lịch sử là
+---
+>  日々の積み重ねでつくられる。
+>  個人の未来などに意味はない」
+Nó được xây dựng theo thời gian. Tương lai của một cá nhân không có ý nghĩa gì. "
+
+@25258 Lady · レディ
+> 「閣下の未来は決まっております。
+>  宇宙にこそ
+“Tương lai của bạn đã được quyết định rồi. Chỉ có vũ trụ
+---
+>  閣下の未来が存在します」
+Đây là nơi tương lai của bạn nằm. "
+
+@25259 Treize · トレーズ
+> 「レディ、私はそれほど強くない。
+>  ゼクスが、そしてあの反逆の翼持つ
+“Letty, tôi không mạnh đến thế đâu. Jax và những người có đôi cánh nổi loạn
+---
+>  彼らが、命をかけて未来への道を
+>  見出そうとしている」
+Mọi người đang mạo hiểm mạng sống của mình để tìm đường đến tương lai. "
+
+@25260 Lady · レディ
+> 「閣下……」
+"Thưa ngài..."
+
+@25261 Treize · トレーズ
+> 「急ぐ必要はない。
+>  時代は繰り返されるのだ
+"Không cần phải vội. Thời gian sẽ tiếp tục lặp lại.
+---
+>  レディ、戻ってきておくれ、
+>  私の大好きだったレディ・アン」
+Letty, quay lại đi, Letty Ann yêu dấu của tôi. "
+
+@25262 Astonaige · アストナージ
+> 「おい、そこの奴。ちょっとこのクレーンを
+>  動かしてくれ…って、なんだお前ら!?」
+“Này, cái kia kìa. Giúp tôi di chuyển chiếc cần cẩu này... Này, bạn là ai! ? "
+
+@25263 Mondo · モンド
+> 「動くなっ!
+>  こっちには人質だっているんだからな」
+“Đừng di chuyển! Chúng ta có con tin trong tay! "
+
+@25264 Astonaige · アストナージ
+> 「なんなんだよ、お前たちは!?」
+"Mày là ai thế! ? "
+
+@25265 Elle · エル
+> 「動かないでっていってるでしょ!
+>  人質がどうなってもいいの?」
+"Không phải tôi đã bảo cậu không được cử động sao? Bạn không quan tâm con tin sống hay chết? "
+
+@25266 Anna · アンナ
+> 「ん…………」
+"Ừm..."
+
+@25267 Astonaige · アストナージ
+> 「アンナ……お前ら一体……」
+"Ana...cô là ai..."
+
+@25268 Elle · エル
+> 「悪いけど、
+>  おじさんも人質になってもらうよ」
+"Thật xin lỗi, chú, chú cũng có thể làm con tin. "
+
+@25269 Judau · ジュドー
+> 「おいビーチャ、早くしろ」
+“Này Beecha, thôi nào. "
+
+@25270 Beecha · ビーチャ
+> 「わかってるよ! えー、アーガマの皆さん
+>  大変お忙しいところを失礼します
+"Tôi biết! Uh--, mọi người từ Agama, tôi xin lỗi đã làm phiền các bạn giữa lịch trình bận rộn của chúng tôi.
+---
+>  実はわたくしたちはぁ……」
+Thực ra, chúng tôi..."
+
+@25271 Judau · ジュドー
+> 「選挙演説じゃないんだぞ!」
+“Đây không phải là một bài phát biểu tranh cử! "
+
+@25272 Beecha · ビーチャ
+> 「うっせぇな!
+>  我々は人質をとっている
+“Ồn ào quá! Chúng ta có con tin trong tay.
+---
+>  モビルスーツを渡さないと、
+>  人質の命は保証できない!」
+Nếu mobile suit không được giao nộp, mạng sống của con tin sẽ không được cứu! "
+
+@25273 Benkei · ベンケイ
+> 「なんだよ、なんの騒ぎだ?」
+"Có chuyện gì thế? Có chuyện gì ồn ào vậy?"
+
+@25274 David · デビッド
+> 「あ、アンナ!」
+"A, Anna!"
+
+@25275 Shinobu · 忍
+> 「なんだてめぇら、何やってやがる! 俺
+>  たちが誰だか知っててやってんだろうな」
+"Các người đang làm cái quái gì vậy! Các người không biết chúng tôi là ai à?"
+
+@25276 Judau · ジュドー
+> 「そんなのあったり前でしょ。
+>  あんたたちのモビルスーツなら
+“Điều đó là hiển nhiên. Bộ đồ di động của bạn
+---
+>  高く売れるってもんだぜ」
+Nhưng nó có thể được bán với giá tốt. "
+
+@25277 Iino · イーノ
+> 「わっ、ジュドー、
+>  どんどん人が集まってくるよ」
+"Oa, Jiedu, càng ngày càng nhiều người tụ tập!"
+
+@25278 Beecha · ビーチャ
+> 「おい、こっちにゃ人質がいるんだぞ!
+>  ケガさせたくなかったら動くんじゃない!
+“Này, chúng ta có con tin ở đây! Đừng di chuyển nếu không muốn con tin bị thương!
+---
+>  ジュドー、早くしろ」
+Jidu, nhanh lên. "
+
+@25279 Judau · ジュドー
+> 「おうっ」
+"Được rồi!"
+
+@25280 Chibodee · チボデー
+> 「ちっ、ガキどもがよ。お前ら、
+>  俺たちを知っててやってんなら
+"Hừ, một lũ nhãi ranh, đã biết chúng tôi là ai, còn dám tấn công chúng tôi.
+---
+>  それなりの覚悟はできてんだろうな」
+Vậy thì bạn nên chuẩn bị tinh thần. "
+
+@25281 Mondo · モンド
+> 「動くなっての!」
+"Ta đã bảo ngươi không được cử động!"
+
+@25282 Chibodee · チボデー
+> 「やーれやれ、バカなガキどもだぜ」
+"Ôi chao, đúng là một lũ ngốc nghếch."
+
+@25283 George · ジョルジュ
+> 「まったく、婦女子を人質にとる
+>  など、どのような理由があっても
+“Thật sự là bắt phụ nữ và trẻ em làm con tin, bất kể lý do là gì.
+---
+>  許せませんね」
+Tất cả đều không thể tha thứ được. "
+
+@25284 Alan · アラン
+> 「あまり手荒な真似はするなよ、
+>  お前たち」
+“Các cậu đừng quá khắt khe.”
+
+@25285 Sai Saici · サイ・サイシー
+> 「わかってるって、アランのあんちゃん」
+"Tôi biết, anh Alan."
+
+@25286 Beecha · ビーチャ
+> 「なななな、なんだよ、この銃が見えない
+>  のかよ!? 俺は本気だぞ!」
+"Cái gì, cái gì, bạn không thấy khẩu súng này sao? Tôi nói thật đấy!"
+
+@25287 Beecha · ビーチャ
+> 「ぐえっ!」
+"Guh!"
+
+@25288 Elle · エル
+> 「きゃあぁっ!」
+"Ừ!"
+
+@25289 Mondo · モンド
+> 「ひいっ!」
+"Này!"
+
+@25290 George · ジョルジュ
+> 「……さぁ、お嬢さん、
+>  もう終わりにしましょう」
+“…Được rồi, thưa cô, đã đến lúc kết thúc chuyện này rồi.”
+
+@25291 Elle · エル
+> 「わ、わかったわよ!
+>  なんなのよあんたたち!」
+"Tôi biết, tôi biết! Bạn là ai?"
+
+@25292 Schwarz · シュバルツ
+> 「フフフフ、ハハハハッ。修業が
+>  足りなかったようだな、少年たち」
+"Hehehehe, hahahahahaha. Có vẻ như luyện tập thôi chưa đủ đâu các cậu."
+
+@25293 Mondo · モンド
+> 「ひっ、また出た!
+>  もう勘弁してくれぇ」
+"Này, nó lại xuất hiện nữa! Xin hãy tha cho tôi."
+
+@25294 Eiji · エイジ
+> 「アンナ、大丈夫か?」
+"Ana, em ổn chứ?"
+
+@25295 Anna · アンナ
+> 「ええ、私は大丈夫。
+>  ……あ、あの子!?」
+"Chà, tôi ổn. ...À, đứa trẻ đó!?"
+
+@25296 Astonaige · アストナージ
+> 「ばか、何やってんだ。
+>  あいつを止めろ!!」
+"Đồ ngốc, cậu đang làm gì vậy? Dừng tên đó lại nhanh lên!!"
+
+@25297 Judau · ジュドー
+> 「へへっ、もう遅いぜ。っと、こいつでいい
+>  のかな。…さすがにプチモビルとは違うな」
+"Hehe, đã quá muộn rồi. Uh, thế này đây. ...Nó thực sự khác với mobile suit mini."
+
+@25298 Judau · ジュドー
+> 「うおっと。ちっ、どうなってやがんだよ」
+"Ồ. Chậc, chuyện gì đang xảy ra vậy?"
+
+@25299 Bright · ブライト
+> 「Zが盗まれただと!?
+>  一体なにをやってるんだ!
+"Z đã bị đánh cắp!? Bạn đang làm gì vậy!
+---
+>  アムロ、カミーユ、頼む。
+>  取り押さえてくれ」
+Amuro, Camus, làm ơn. Giữ anh ta lại. "
+
+@25300 Beltorchika · ベルトーチカ
+> 「アムロ、Zが外へ出るわ」
+"Amuro, Z sắp ra ngoài! "
+
+@25301 Amuro · アムロ
+> 「急がないとまずいな。
+>  カミーユ、mkⅡで出てくれ」
+“Sẽ thật tệ nếu chúng ta không nhanh lên. Camus, ra ngoài bằng chiếc Mk-II. "
+
+@25302 Kamille · カミーユ
+> 「了解!」
+"Đã hiểu!"
+
+@25303 Judau · ジュドー
+> 「うわっ、外に出ちまったのか。
+>  この、ちゃんと動けっての!」
+“Ồ, chạy ra ngoài. Di chuyển tốt! "
+
+@25304 Amuro · アムロ
+> 「何をやっている、
+>  それでは外壁にぶつかるぞ!」
+"Bạn đang làm gì vậy? Bạn sẽ va vào bức tường bên ngoài! "
+
+@25305 Kamille · カミーユ
+> 「そこのお前! おとなしくZを返せ!
+>  そうすればケガはしなくてすむ!」
+“Cái gã đằng kia! Hãy ngoan ngoãn trả lại Z! Điều đó cũng sẽ bảo vệ bạn khỏi bị tổn thương! "
+
+@25306 Judau · ジュドー
+> 「冗談じゃないっての。
+>  せっかく苦労して手に入れたんだ
+"Thật là một trò đùa. Thật khó để có được nó,
+---
+>  はいそうですかって返せるかよ!」
+Làm sao bạn có thể nói rằng bạn sẽ trả lại! "
+
+@25307 Amuro · アムロ
+> 「仕方がない。カミーユ、
+>  下からまわれ。取り押さえるぞ」
+"Chúng tôi không thể làm gì được. Camus, đi vòng bên dưới. Đưa anh ta xuống. "
+
+@25308 Kamille · カミーユ
+> 「了解」
+"Đã hiểu."
+
+@25309 Judau · ジュドー
+> 「うわっ、なんだよ、離せって……
+>  な、なんだ……?」
+"Wow, bạn đang làm gì vậy, thả tôi ra...cái gì, chuyện gì đang xảy ra vậy...? "
+
+@25310 Amuro · アムロ
+> 「これは……」
+"Đây là..."
+
+@25311 Kamille · カミーユ
+> 「ア、アムロさん……」
+"A-Mr. Amuro..."
+
+@25312 Judau · ジュドー
+> 「……消えた……なんだったんだ……
+>  今のは……?」
+“…biến mất…vừa rồi là gì vậy…? "
+
+@25313 Amuro · アムロ
+> (この少年……)
+(Cậu bé này...)
+
+@25314 Kamille · カミーユ
+> 「なに!?」
+"Cái gì!?"
+
+@25315 Amuro · アムロ
+> 「どうした、ベルトーチカ!?」
+“Sao thế, Betotija! ? "
+
+@25316 Beltorchika · ベルトーチカ
+> 「アムロ、敵が接近中よ。
+>  気をつけて!」
+"Amuro, kẻ thù đang đến gần. Hãy cẩn thận! "
+
+@25317 Amuro · アムロ
+> 「なんだって!?」
+"Anh vừa nói gì thế!?"
+
+@25318 Bask · バスク
+> 「ここが奴らが根城にしている
+>  コロニーか
+"Đây có phải là vệ tinh thuộc địa bị những kẻ đó chiếm giữ không?
+---
+>  我々OZに刃向かうと
+>  どういうことになるか、教えてやる」
+Tôi muốn họ biết điều gì sẽ xảy ra nếu họ chống lại OZ của chúng ta. "
+
+@25319 Bask · バスク
+> 「コロニーに潜伏する賊軍
+>  {HeroMech}に告ぐ
+"Gửi đội quân trộm {HeroMech} đang ẩn nấp trong vệ tinh thuộc địa.
+---
+>  いまから我々はコロニーを攻撃する
+>  武器を持って我々OZの
+Từ bây giờ chúng ta sẽ tiến hành một cuộc tấn công vào các vệ tinh thuộc địa.
+---
+>  統治に反抗する者どもは
+>  排除されねばならん」
+Những người chống lại sự cai trị OZ của chúng tôi bằng vũ khí phải bị loại bỏ. "
+
+@25320 Bask · バスク
+> 「コロニーは貴様らの
+>  巻き添えで攻撃されるのだ」
+“Vệ tinh thuộc địa đã bị tấn công vì sự tham gia của bạn. "
+
+@25321 Yazan · ヤザン
+> (ちっ、バスクめ。
+>  つまらん仕事をやらせおって)
+(Tsk, đồ khốn xứ Basque. Hãy để tôi làm vài việc vặt nhàm chán.)
+
+@25322 Quattro · クワトロ
+> 「バスクめ……」
+"Tên khốn xứ Basque..."
+
+@25323 Amuro · アムロ
+> 「あれはまさか……ブライト、
+>  連中はガスを使うつもりだ!」
+“Đó là… Bright, những kẻ đó đang định sử dụng khí độc! "
+
+@25324 Bright · ブライト
+> 「なんだと!? G3だというのか、
+>  OZめ!
+"Anh đã nói gì thế! ? OZ các bạn có muốn dùng G3 không?
+---
+>  総員、OZ部隊を迎撃しろ!
+>  敵をコロニーに近づけるな!!」
+Mọi người hãy tấn công quân OZ! Đừng để kẻ thù đến gần vệ tinh thuộc địa! ! "
+
+@25325 Judau · ジュドー
+> 「なんだよ、おい、どういうことだ?
+>  あいつらなんなんだよ!?」
+"Bạn đang làm gì vậy? Này, chuyện gì đang xảy ra vậy? Những kẻ đó là ai! ? "
+
+@25326 Kamille · カミーユ
+> 「奴らはガスでこの辺りのコロニーを、
+>  全滅させるつもりなんだ」
+“Bọn chúng muốn dùng khí độc để giết hết người trong vệ tinh thuộc địa. "
+
+@25327 Judau · ジュドー
+> 「ウソだろ!? コロニーにはエルたちや、
+>  俺の妹だっているんだそ!」
+"Không! ? Vẫn còn Elu và những người khác trong vệ tinh thuộc địa, cũng như em gái tôi! "
+
+@25328 Kamille · カミーユ
+> 「やらせはしない! お前は早く戻って
+>  機体を渡せ!」
+"Chúng ta sẽ không để họ thành công! Hãy quay lại và giao xác! "
+
+@25329 Amuro · アムロ
+> 「いやカミーユ、彼にやらせてみよう」
+“Không, Camus, để anh ấy thử xem.”
+
+@25330 Kamille · カミーユ
+> 「アムロさん?」
+"Ông Amuro?"
+
+@25331 Amuro · アムロ
+> 「君も、さっきのを見たはずだ」
+“Cậu đã nhìn thấy cảnh vừa rồi phải không?”
+
+@25332 Kamille · カミーユ
+> 「……わかりました。まかせます」
+“…Tôi hiểu rồi. Tôi sẽ giao việc đó cho cậu.”
+
+@25333 Judau · ジュドー
+> 「なにやってんの!
+>  あんたら、早くしないと……」
+"Anh đang làm gì vậy! Nếu không nhanh lên..."
+
+@25334 Amuro · アムロ
+> 「君、聞こえるな。
+>  コロニーを守りたければ、君も戦え
+“Các bạn có thể nghe thấy tôi nói. Nếu tôi muốn bảo vệ các vệ tinh thuộc địa, các bạn hãy cùng nhau chiến đấu.
+---
+>  守るべきものがあるなら、できるはずだ」
+Chỉ cần có thứ gì đó bạn muốn bảo vệ, bạn chắc chắn có thể làm được. "
+
+@25335 Judau · ジュドー
+> 「俺が!? ……わかったよ。
+>  くそっ、やってやろうじゃないの!」
+"Tôi!?...Tôi biết. Chết tiệt, vậy thì tôi sẽ làm vậy với anh!"
+
+@25336 Gosterro · ゴステロ
+> 「や、奴ら、奴ら、奴らぁぁぁーっ!」
+“Vậy thì, những kẻ đó, những kẻ đó, những kẻ đó ahhhh——!”
+
+@25337 Bask · バスク
+> 「ゴステロ、貴様を
+>  生かしておいてやった上
+"Gostro, tôi không chỉ tha mạng cho anh,
+---
+>  再戦の機会まで与えてやったのだ
+>  その恩を忘れるな」
+Ta cũng đã cho ngươi một cơ hội chiến đấu lần nữa, đừng quên lòng tốt này. "
+
+@25338 Gosterro · ゴステロ
+> 「バ、バスク特佐ぁぁ、
+>  わたくしめをお助けいただいたご恩は
+"B-Basketzo, lòng tốt của bạn trong việc cứu mạng người đàn ông nhỏ bé này,
+---
+>  ここでたっぷりと
+>  返させていただきますぅぅ」
+Tôi sẽ trả ơn bạn thật tốt ở đây. "
+
+@25339 Bask · バスク
+> 「その言葉、忘れるなよ」
+“Đừng quên điều này.”
+
+@25340 Eiji · エイジ
+> 「ゴステロ!? まさか!」
+"Gostro!? Không thể nào!"
+
+@25341 Koji · 甲児
+> 「ちっ、まーだ死んでなかったのかよ。
+>  節操のない奴だぜ」
+"Chậc, tên này còn chưa chết, đúng là một kẻ vô liêm sỉ."
+
+@25342 Gale · ゲイル
+> 「ゴステロだと!?」
+"Gostro!?"
+
+@25343 Gosterro · ゴステロ
+> 「その声……ゲゲゲ、ゲイルかぁ!?
+>  ゲイルゥ、貴様が生きていてくれて
+"Giọng nói này... Gogogo, có phải Gale không!? Gale, anh vẫn còn sống,
+---
+>  うれしいぜぇ。貴様を
+>  この俺の手で殺せるなんてなぁ!!」
+Tôi rất hạnh phúc. Tôi chưa bao giờ nghĩ rằng tôi có thể giết bạn bằng chính đôi tay của mình! ! "
+
+@25344 Bright · ブライト
+> 「なんだ!?」
+"Chuyện gì đang xảy ra vậy!?"
+
+@25345 Milliardo · ミリアルド
+> 「こちらは、サンクキングダムの
+>  ミリアルド・ピースクラフト
+“Đây là chiếc Millialt Peacecraft của Vương quốc Sanggu.
+---
+>  これより諸君らを援護する」
+Từ giờ trở đi, chúng tôi ở đây để hỗ trợ bạn. "
+
+@25346 Quattro · クワトロ
+> 「トールギスだと?
+>  ゼクス・マーキス……そういうことか」
+"Dorukis? Jax Magis...vậy đó là chuyện đã xảy ra."
+
+@25347 Bask · バスク
+> 「ウォンがよこした実験部隊か。
+>  遅いぞ!」
+"Quân thí nghiệm Hoàng phái tới, quá chậm!"
+
+@25348 Gates · ゲーツ
+> 「申し訳ありません。サイコミュの
+>  調整に手間取りました」
+"Tôi rất xin lỗi. Việc điều chỉnh thần giao cách cảm mất một thời gian."
+
+@25349 Gates · ゲーツ
+> 「さて、ロザミアはどうか……」
+“Được rồi, Rosamia thế nào rồi…”
+
+@25350 Gates · ゲーツ
+> 「戦況はよくないようだな。
+>  さて、ロザミアはどうか……」
+"Có vẻ như trận chiến diễn ra không được suôn sẻ. À, Rosamia thế nào rồi..."
+
+@25351 Rosamia · ロザミア
+> 「……うぅ……頭が……お兄ちゃん……」
+"...Ồ...đầu tôi đau quá...anh ơi..."
+
+@25352 Astonaige · アストナージ
+> 「あ、おい何やってんの。やめろ!」
+"A, này, cậu đang làm gì vậy. Dừng lại!"
+
+@25353 Rosamia · ロザミア
+> 「邪魔をするな! あたしは……
+>  お兄ちゃんを助けにいくんだ」
+"Đừng cản đường! Tôi muốn... cứu anh trai tôi."
+
+@25354 Astonaige · アストナージ
+> 「なんだって? お前、ロザミィか?
+>  待て!」
+"Bạn vừa nói gì vậy? Bạn có phải là Rosamy không? Đợi đã!"
+
+@25355 Rosamia · ロザミア
+> 「見つけた、お兄ちゃん!」
+"Tôi đã tìm thấy anh rồi, anh trai!"
+
+@25356 Kamille · カミーユ
+> 「ロザミィ!? どうして……」
+"Rosami!? Tại sao..."
+
+@25357 Rosamia · ロザミア
+> 「お兄ちゃんを助けに来たのよ」
+"Tôi đến đây để cứu anh trai tôi."
+
+@25358 Gates · ゲーツ
+> 「あれか……くっ、なんだこれは。
+>  ロザミア特尉
+"Đó là... à, chuyện gì đang xảy ra vậy. Trung úy Rosa Mia,
+---
+>  聞こえるか、ロザミア特尉」
+Bạn có thể nghe tôi nói không, Đại úy Rosa Mia? "
+
+@25359 Rosamia · ロザミア
+> 「うぅぅ……頭が痛い……あうぅ」
+"Uuuuuuuuuuuuuuuuuuuuuuu
+
+@25360 Kamille · カミーユ
+> 「ロザミィ? どうしたんだロザミィ!?」
+"Rosami? Có chuyện gì vậy Rosamy!?"
+
+@25361 Rosamia · ロザミア
+> 「お……お兄ちゃん……くぅ……」
+"Anh... anh... à..."
+
+@25362 Gates · ゲーツ
+> 「刷り込みが強力すぎたか……?
+>  出力を上げるしかないな」
+"Hình khắc có mạnh quá không...? Chúng tôi chỉ có thể tăng sản lượng."
+
+@25363 Rosamia · ロザミア
+> 「ああぁぁぁーっ!!」
+“Ahhhhhh——!!”
+
+@25364 Kamille · カミーユ
+> 「ロザミィ! ロザミィ!!」
+"Rosami! Rosamy!!"
+
+@25365 Rosamia · ロザミア
+> 「くっ……ここは……敵だと!?
+>  敵だ……この敵は、空を落とす」
+"Ừm...đây là...kẻ thù!? Là kẻ thù... kẻ thù này sắp đánh sập bầu trời.”
+
+@25366 Kamille · カミーユ
+> 「どうしたんだロザミィ?
+>  大丈夫か!?」
+"Có chuyện gì vậy Rosamy? Bạn ổn chứ!?"
+
+@25367 Rosamia · ロザミア
+> 「敵ならば……撃破する!」
+"Vì chúng ta là kẻ thù... hãy đánh bại chúng!"
+
+@25368 Kamille · カミーユ
+> 「なに!?」
+"Cái gì!?"
+
+@25369 Quattro · クワトロ
+> 「カミーユ! そいつは敵の
+>  強化人間だ。撃墜しろ!」
+"Camus! Anh chàng đó là người tăng cường của kẻ thù. Bắn hạ cô ta đi!”
+
+@25370 Kamille · カミーユ
+> 「やめてください! ロザミィなんですよ!」
+"Xin hãy dừng lại! Cô ấy là Rosamy!"
+
+@25371 Rosamia · ロザミア
+> 「お兄ちゃん、どこ? どこにいるの?」
+"Anh trai, anh đang ở đâu? Bạn đang ở đâu?"
+
+@25372 Gates · ゲーツ
+> 「あれか……ロザミア特尉、
+>  聞こえるか、ロザミア特尉」
+"Đó có phải là... Đội trưởng Rosa Mia, bạn có nghe tôi nói không, Đội trưởng Rosa Mia?"
+
+@25373 Rosamia · ロザミア
+> 「……うぅ……な、なに、これは……?
+>  いや! 助けてお兄ちゃん!!」
+"...Cái...c-cái gì, đây là...? KHÔNG! Giúp tôi với, anh trai!!"
+
+@25374 Gates · ゲーツ
+> 「刷り込みが強力すぎたか。
+>  ロザミア特尉!」
+"Phong ấn có mạnh quá không? Đội trưởng Rosa Mia!"
+
+@25375 Rosamia · ロザミア
+> 「……わ、私は……き、聞こえております
+>  ゲーツ特尉。う……頭が……」
+"...Tôi, tôi...nghe, anh có thể nghe thấy tôi, Trung úy Gates. Ừm... đầu..."
+
+@25376 Gates · ゲーツ
+> 「これでは戦闘は無理か……
+>  撤退するぞ、来い、ロザミア」
+“Chúng ta không thể chiến đấu như thế này… rút lui và đi theo tôi, Rosamia.”
+
+@25377 Rosamia · ロザミア
+> 「……了解であります」
+"...Tuân lệnh."
+
+@25378 Gosterro · ゴステロ
+> 「ゲイルゥゥーッ!! 貴様を
+>  殺せるなんて、ゆ、夢みたいだぜぇ!!
+"Gale——!! Có thể giết được em, Jane, cứ như một giấc mơ vậy!!
+---
+>  ヒャハハハハハハーッ!!」
+Hip-hop hahahahaha——! ! "
+
+@25379 Gale · ゲイル
+> 「ゴステロ、人としての誇りは
+>  とうになくしたようだな
+"Gostro, có vẻ như anh đã mất đi phẩm giá con người từ lâu rồi.
+---
+>  同じグラドス人として、
+>  せめて私の手で眠らせてやる」
+Với tư cách là một người đồng hương Gradosian, ít nhất hãy để tôi tự tay đưa bạn đi ngủ. "
+
+@25380 Gosterro · ゴステロ
+> 「俺は死にたくねぇぇぇーっ!!」
+"Tôi không muốn chết--!!"
+
+@25381 Yazan · ヤザン
+> 「ちっ、撤退するぞ!」
+"Chậc, rút lui!"
+
+@25382 Gates · ゲーツ
+> 「くっ、しまった!?」
+"Ừm, tệ quá!?"
+
+@25383 Gates · ゲーツ
+> 「くっ、しまった。ロザミア、撤退だ」
+"Chà, tệ quá. Rosamia, rút ​​lui đi."
+
+@25384 Rosamia · ロザミア
+> 「了解、撤退します」
+"Hiểu được, rút lui."
+
+@25385 Rosamia · ロザミア
+> 「くっ……離脱する」
+"Ừm... rút lui khỏi chiến trường."
+
+@25386 Gates · ゲーツ
+> 「ロザミア! これ以上は無理か……」
+"Rosa Mia! Bạn đã đạt đến giới hạn của mình chưa..."
+
+@25387 Bask · バスク
+> 「ウォンがよこした実験部隊か。
+>  遅いぞ!」
+"Quân thí nghiệm Hoàng phái tới, quá chậm!"
+
+@25388 Gates · ゲーツ
+> 「申し訳ありません。サイコミュの
+>  調整に手間取りました」
+"Tôi rất xin lỗi. Việc điều chỉnh thần giao cách cảm mất một thời gian."
+
+@25389 Gates · ゲーツ
+> 「さて、ロザミアはどうか……」
+“Được rồi, Rosamia thế nào rồi…”
+
+@25390 Gates · ゲーツ
+> 「戦況はよくないようだな。
+>  さて、ロザミアはどうか……」
+"Có vẻ như trận chiến diễn ra không được suôn sẻ. À, Rosamia thế nào rồi..."
+
+@25391 Rosamia · ロザミア
+> 「……うぅ……頭が……お兄ちゃん……」
+"...Ồ...đầu tôi đau quá...anh ơi..."
+
+@25392 Astonaige · アストナージ
+> 「あ、おい何やってんの。やめろ!」
+"A, này, cậu đang làm gì vậy. Dừng lại!"
+
+@25393 Rosamia · ロザミア
+> 「邪魔をするな! あたしは……
+>  お兄ちゃんを助けにいくんだ」
+"Đừng cản đường! Tôi muốn... cứu anh trai tôi."
+
+@25394 Astonaige · アストナージ
+> 「なんだって? お前、ロザミィか?
+>  待て!」
+"Bạn vừa nói gì vậy? Bạn có phải là Rosamy không? Đợi đã!"
+
+@25395 Rosamia · ロザミア
+> 「見つけた、お兄ちゃん!」
+"Tôi đã tìm thấy anh rồi, anh trai!"
+
+@25396 Kamille · カミーユ
+> 「ロザミィ!? どうして……」
+"Rosami!? Làm sao có thể..."
+
+@25397 Rosamia · ロザミア
+> 「お兄ちゃんを助けに来たのよ」
+"Tôi đến đây để cứu anh trai tôi."
+
+@25398 Gates · ゲーツ
+> 「あれか……くっ、なんだこれは。
+>  ロザミア特尉
+"Đó là... à, chuyện gì đang xảy ra vậy. Trung úy Rosa Mia,
+---
+>  聞こえるか、ロザミア特尉」
+Bạn có thể nghe tôi nói không, Đại úy Rosa Mia? "
+
+@25399 Rosamia · ロザミア
+> 「うぅぅ……頭が痛い……あうぅ」
+"Ư...đầu tôi đau quá...ah wu."
+
+@25400 Kamille · カミーユ
+> 「ロザミィ? どうしたんだロザミィ!?」
+"Rosami? Có chuyện gì vậy Rosamy!?"
+
+@25401 Rosamia · ロザミア
+> 「お……お兄ちゃん……くぅ……」
+"Anh... anh... à..."
+
+@25402 Gates · ゲーツ
+> 「刷り込みが強力すぎたか……?
+>  出力を上げるしかないな」
+"Hình khắc có mạnh quá không...? Chúng tôi chỉ có thể tăng sản lượng."
+
+@25403 Rosamia · ロザミア
+> 「ああぁぁぁーっ!!」
+“Ahhhhhh——!!”
+
+@25404 Kamille · カミーユ
+> 「ロザミィ! ロザミィ!!」
+"Rosami! Rosamy!!"
+
+@25405 Rosamia · ロザミア
+> 「くっ……ここは……敵だと!?
+>  敵だ……この敵は、空を落とす」
+"Hmm...đây là...kẻ thù!? Là kẻ thù...kẻ thù này sắp bắn hạ bầu trời."
+
+@25406 Kamille · カミーユ
+> 「どうしたんだロザミィ?
+>  大丈夫か!?」
+"Có chuyện gì với em vậy Rosamy? Em ổn chứ!?"
+
+@25407 Rosamia · ロザミア
+> 「敵ならば……撃破する!」
+“Nếu đó là kẻ thù… chỉ cần đánh bại nó!”
+
+@25408 Kamille · カミーユ
+> 「なに!?」
+"Cái gì!?"
+
+@25409 Quattro · クワトロ
+> 「カミーユ! そいつは敵の
+>  強化人間だ。撃墜しろ!」
+"Camus! Anh chàng đó là người tăng cường của kẻ thù. Bắn hạ cô ta đi!”
+
+@25410 Kamille · カミーユ
+> 「やめてください! ロザミィなんですよ!」
+"Xin hãy dừng lại! Cô ấy là Rosamy!"
+
+@25411 Rosamia · ロザミア
+> 「お兄ちゃん、どこ? どこにいるの?」
+"Anh trai, anh đang ở đâu? Bạn đang ở đâu?"
+
+@25412 Gates · ゲーツ
+> 「あれか……ロザミア特尉、
+>  聞こえるか、ロザミア特尉」
+"Đó có phải là... Đội trưởng Rosa Mia, bạn có nghe tôi nói không, Đội trưởng Rosa Mia?"
+
+@25413 Rosamia · ロザミア
+> 「……うぅ……な、なに、これは……?
+>  いや! 助けてお兄ちゃん!!」
+"...Ugh...c-cái gì thế này...? Không! Giúp tôi với, anh trai!!"
+
+@25414 Gates · ゲーツ
+> 「刷り込みが強力すぎたか。
+>  ロザミア特尉!」
+"Dấu ấn tinh thần quá mạnh phải không? Trung úy Rosa Mia!"
+
+@25415 Rosamia · ロザミア
+> 「……わ、私は……き、聞こえております
+>  ゲーツ特尉。う……頭が……」
+"...Tôi, tôi...nghe, anh có thể nghe thấy tôi, Trung úy Gates. Woo...đầu..."
+
+@25416 Gates · ゲーツ
+> 「これでは戦闘は無理か……
+>  撤退するぞ、来い、ロザミア」
+“Chúng ta không thể chiến đấu như thế này… rút lui và đi theo tôi, Rosamia.”
+
+@25417 Rosamia · ロザミア
+> 「……了解であります」
+"...Tuân lệnh."
+
+@25418 Bright · ブライト
+> 「なんだ!?」
+"Chuyện gì đang xảy ra vậy!?"
+
+@25419 Milliardo · ミリアルド
+> 「こちらは、サンクキングダムの
+>  ミリアルド・ピースクラフト
+"Đây là Millialt Peacecraft của Vương quốc Sanggu,
+---
+>  これより諸君らを援護する」
+Tôi sẽ hỗ trợ bạn từ bây giờ. "
+
+@25420 Quattro · クワトロ
+> 「トールギスだと?
+>  ゼクス・マーキス……そういうことか」
+"Dolukis? Jax Magis...thế thôi."
+
+@25421 Milliardo · ミリアルド
+> 「ん? ……なんだ」
+"Hả?...Có chuyện gì thế?"
+
+@25422 ???
+> 「…………聞こえるか、ゼクス」
+"...Anh có nghe thấy tôi nói không, Jax?"
+
+@25423 Milliardo · ミリアルド
+> 「トレーズ?」
+"Điện thoại?"
+
+@25424 Treize · トレーズ
+> 「ゼクス・マーキス、いや我が永遠の
+>  友、ミリアルド・ピースクラフト
+"Jax Maggis, không, người bạn vĩnh cửu của tôi, Milliarte Peacecraft,
+---
+>  君が宇宙に現れたと聞いて、
+>  うれしく思う。OZが変わっていく
+Tôi rất vui khi biết rằng bạn đã xuất hiện trong vũ trụ. OZ đang thay đổi,
+---
+>  私の力が不足していた。
+>  ロームフェラが、いや人類が
+Đó là sự thiếu sức mạnh của tôi. Romphela, không, con người,
+---
+>  進む道はあまりにも気ままだ。
+>  膨れ上がる力がこれほどまでに
+Con đường phía trước quá tùy tiện. Sức mạnh mở rộng thật lớn
+---
+>  人の心を置き去りにしていくとはな」
+Để lại trái tim con người phía sau. "
+
+@25425 Milliardo · ミリアルド
+> 「支配するために戦うのではなく、
+>  異星人の侵略に
+"Không phải đấu tranh để thống trị mà là chống lại sự xâm lược của người ngoài hành tinh,
+---
+>  あらがう誇り高き心を、
+>  戦う心を持つ兵士を育てるのが
+Hãy bồi dưỡng những người lính có tấm lòng kiêu hãnh và lòng dũng cảm chiến đấu,
+---
+>  OZの仕事と考えておりました。
+>  しかし戦いは混迷を極め
+Tôi luôn tin rằng đây là sứ mệnh của OZ. Tuy nhiên, chiến tranh ngày càng trở nên hỗn loạn,
+---
+>  人の心さえゆがめていきます」
+Ngay cả trái tim con người cũng bị bóp méo. "
+
+@25426 Treize · トレーズ
+> 「ミリアルド、ロームフェラの選んだ道を
+>  変える力は、今の私にはない
+“Miriyalt, tôi không còn đủ sức mạnh để thay đổi con đường mà Romfila đã chọn.
+---
+>  心の理解者と話せて幸せに
+>  思う。ミリアルド、もう1人、私の
+Tôi cảm thấy may mắn khi có thể nói chuyện với những người hiểu được trái tim tôi. Millialt, còn có một người nữa,
+---
+>  理解者がいる。私を思うあまり
+>  2つの心をもった女性だ。一番
+Cũng là người hiểu biết của tôi. Cô ấy có hai trái tim vì cô ấy nghĩ rất nhiều về tôi. thực sự để cho nhiều nhất
+---
+>  身近なところを不安にしてしまう
+>  とは、私に未来を語る資格は
+Những người thân thiết với tôi đều khó chịu và tôi không đủ tư cách để nói về tương lai.
+---
+>  ない。もしも可能であったなら
+>  ミリアルド、彼女を助けてやってくれ」
+Nếu có thể, Millialt, xin hãy giúp cô ấy. "
+
+@25427 Milliardo · ミリアルド
+> 「トレーズ、私こそ力がない。
+>  この混迷の戦いの中で
+"Teles, tôi là người không có quyền lực. Trong trận chiến hỗn loạn này,
+---
+>  いまだ成すべきことを見出せずに
+>  いるのだからな……」
+Tôi vẫn chưa tìm thấy mình nên làm gì…”
+
+@25428 Kamille · カミーユ
+> 「ロザミィ……どうしてなんだ……」
+"Rosami...tại sao chuyện này lại xảy ra..."
+
+@25429 Fa · ファ
+> 「あなたのせいじゃないわ。
+>  ロザミィは敵の
+"Đó không phải lỗi của bạn. Rosamy là kẻ thù
+---
+>  強化人間だったんだもの、
+>  仕方がないわよ」
+Không có cách nào để tăng cường sức mạnh cho mọi người. "
+
+@25430 Kamille · カミーユ
+> 「強化人間だって、
+>  普通の人間に変わりはないんだ!
+“Ngay cả người cường hóa cũng không khác gì người bình thường!
+---
+>  それを、あんな……」
+Nhưng họ lại như vậy…”
+
+@25431 Fa · ファ
+> 「カミーユ……」
+"Camus..."
+
+@25432 Bright · ブライト
+> 「今回はなんとか持ちこたえたが、
+>  G3まで持ち出してくるとなると……」
+"Cuối cùng thì tôi cũng đã cố gắng cầm cự được lần này, nhưng họ thậm chí còn chuyển G3 ra ngoài..."
+
+@25433 Quattro · クワトロ
+> 「ああ、連中は本気で
+>  我々をつぶそうとしているな
+"Phải, những kẻ đó đang nghiêm túc trong việc tiêu diệt chúng ta.
+---
+>  いや、我々だけでなく、
+>  OZに従わないすべて、か」
+Không, không chỉ chúng tôi, mà tất cả những người không vâng lời OZ. "
+
+@25434 Koji · 甲児
+> 「どうすんだよ。コロニーを守りながら
+>  戦うなんて真似、
+"Tôi nên làm gì đây? Vừa bảo vệ vệ tinh thuộc địa vừa chiến đấu,
+---
+>  いつまでも続けられるわきゃないぜ」
+Làm sao loại chuyện này có thể kéo dài mãi mãi? "
+
+@25435 Ryo · 亮
+> 「そうだな。ここに俺たちがいるかぎり、
+>  OZにコロニー攻撃の口実を
+"Ừ. Chừng nào chúng ta còn ở đây,
+---
+>  与えていることにもなる」
+Nó tương đương với việc tạo cớ cho OZ tấn công vệ tinh thuộc địa. "
+
+@25436 Ryoma · リョウ
+> 「俺たちとOZに批判的なコロニー、
+>  敵にとっては一挙両得ってわけか」
+"Chúng tôi và các vệ tinh thuộc địa chống lại OZ đang một mũi tên giết hai con chim cho kẻ thù. "
+
+@25437 Amuro · アムロ
+> 「悔しいが、OZの動きが早すぎた。
+>  このまま後手にまわっていては
+“Mặc dù tôi không sẵn lòng nhượng bộ nhưng hành động của OZ quá nhanh. Nếu tôi tiếp tục bị đánh một cách thụ động như thế này,
+---
+>  どうにもならないか……」
+Nhưng chúng ta không thể làm gì được..."
+
+@25438 Alan · アラン
+> 「うむ。どのみち兜たちの言うように
+>  ここにとどまるわけにもいかんな」
+"Ừm. Dù sao đi nữa, đúng như Kabuto và những người khác đã nói, chúng ta không thể ở đây mãi được. "
+
+@25439 Judau · ジュドー
+> 「放せよ!」
+"Hãy để tôi đi! "
+
+@25440 Elle · エル
+> 「ちょっと! 変なトコ触んないでよ!!」
+"Này! Đừng chạm vào những nơi xa lạ! ! "
+
+@25441 Tetsuya · 鉄也
+> 「おとなしくしてろ。
+>  艦長、ガキどもを連れてきた」
+"Hãy thành thật đi. Thuyền trưởng, tôi đã mang theo lũ nhóc này. "
+
+@25442 Bright · ブライト
+> 「すまない。ジュドーと言ったな。自分
+>  たちが何をしたのかは、わかっているな?」
+"Cảm ơn bạn. Tên bạn là Jiedu phải không? Bạn biết bạn đã làm gì phải không? "
+
+@25443 Judau · ジュドー
+> 「ああ、わかってるさ。
+>  だけどね
+"Ồ, tất nhiên là rõ ràng rồi. Nhưng,
+---
+>  俺たちだって好きでこんなことを
+>  してるんじゃないんだよ」
+Chúng tôi không tự nguyện làm những việc này. "
+
+@25444 Bright · ブライト
+> 「そうか……ならお前たち、
+>  我々と一緒にこないか?」
+“Vậy thôi… Vậy bạn có muốn đi cùng chúng tôi không? "
+
+@25445 Shinobu · 忍
+> 「おいおい、正気かよ艦長さん」
+"Này, thuyền trưởng, anh nghiêm túc đấy à? "
+
+@25446 Alan · アラン
+> 「口をはさむな、藤原」
+“Đừng ngắt lời, Fujiwara. "
+
+@25447 Judau · ジュドー
+> 「あんたら、子供に
+>  戦争やらせようっていうのかよ」
+"Bạn có muốn trẻ em tham gia chiến tranh không?"
+
+@25448 Beecha · ビーチャ
+> 「そうだぜ。異星人はいなくなったん
+>  だろ。俺たちには関係ないじゃないか」
+"Đúng vậy, không phải người ngoài hành tinh đều đã đi rồi sao? Chuyện này không liên quan gì đến chúng ta."
+
+@25449 Roux · ルー
+> 「関係ない!? 関係ないわけ
+>  ないじゃない! あんたたちだって
+"Nó không quan trọng!? Làm sao nó có thể không quan trọng! Bạn cũng vậy
+---
+>  さっきの戦いを見たでしょ。あいつらは
+>  コロニーだって簡単につぶそうとした
+Bạn có thấy trận chiến vừa rồi không? Những kẻ đó sẽ phá hủy ngay cả các vệ tinh thuộc địa theo ý muốn của họ.
+---
+>  そんな連中が地球圏を
+>  支配しようっていうのよ
+Những người như vậy sẽ thống trị vòng tròn trái đất,
+---
+>  どうなるかなんて、
+>  ちょっと考えればわかるでしょ」
+Chỉ cần nghĩ về nó và bạn sẽ biết nó sẽ trở thành gì. "
+
+@25450 Mondo · モンド
+> 「べ、別に俺たち、
+>  OZに悪いことなんてしてないしさ……」
+“Tôi, chúng tôi không làm điều gì xấu với OZ…”
+
+@25451 Roux · ルー
+> 「あのねぇ!」
+"I'm talking about you!"
+
+@25452 David · デビッド
+> 「やめとけよ、ルー。
+>  こんな連中には何を言ってもムダだ
+“Quên đi, Lu. Nói gì với một kẻ như thế này cũng vô ích thôi.
+---
+>  スウィートウォーターにさえ
+>  こんな連中がいるんだ
+Ở Cam Tuyền cũng có những người như vậy.
+---
+>  他のコロニーがOZを受け入れるのも
+>  当たり前だぜ」
+Không có gì đáng ngạc nhiên khi các vệ tinh thuộc địa khác sẽ chấp nhận OZ. "
+
+@25453 Amuro · アムロ
+> 「ジュドー、いますぐに決めろとは
+>  言わない。考えてみてくれないか
+"Jidu, tôi không yêu cầu bạn phải quyết định ngay bây giờ. Tôi hy vọng bạn nghĩ về điều đó.
+---
+>  我々は少しでも多くの力を
+>  必要としているんだ」
+Chúng ta cần càng nhiều sức mạnh càng tốt. "
+
+@25454 Quattro · クワトロ
+> 「それで、どういうことかな?
+>  ゼクス・マーキス
+"Vậy chuyện gì đang xảy ra vậy? Jax Maggis,
+---
+>  説明は聞かせてもらえるのだろうな?」
+Bạn có thể giải thích cho chúng tôi được không? "
+
+@25455 Milliardo · ミリアルド
+> 「ゼクス・マーキスは死んだよ。
+>  私はミリアルド・ピースクラフト
+"Jax Magis đã chết. Tôi là Millialt Peacecraft,
+---
+>  地球圏の未来を憂える者の
+>  一人として、戦わせてもらっただけだ
+Tôi chỉ tham gia cuộc chiến với tư cách là một người lo lắng cho tương lai của Vòng tròn Trái đất.
+---
+>  それ以上の意味はない」
+Thế thôi. "
+
+@25456 Quattro · クワトロ
+> 「では、我々に加わるつもりで
+>  来たのではない、というのだな」
+“Nói cách khác, cậu đến đây không có ý định tham gia cùng chúng tôi, đúng không. "
+
+@25457 Milliardo · ミリアルド
+> 「少なくとも、今のところは。私も、
+>  私なりにとるべき道を探しているのだ」
+“At least not yet. Tôi cũng đang tìm kiếm con đường đi theo cách riêng của mình. "
+
+@25458 ???
+> 「マーズ……マーズよ」
+"Mars...Mars. "
+
+@25459 Takeru · タケル
+> 「う……うぅ……」
+"Ồ... Ầm..."
+
+@25460 ???
+> 「目覚めよマーズ」
+"Wake up, Mars. "
+
+@25461 Takeru · タケル
+> 「う……な、なんだ?」
+"Ugh...w-what? "
+
+@25462 ???
+> 「マーズ、この時のために
+>  地球に送られたマーズよ」
+"Mars, bạn đã được gửi đến Trái đất chỉ trong khoảnh khắc này. "
+
+@25463 Takeru · タケル
+> 「……マーズ……!?
+>  俺は明神タケルだ
+“…Mars…! ? I am Ming Shenwu,
+---
+>  マーズなんて名前じゃない!」
+It’s not called Mars! "
+
+@25464 ???
+> 「……違う、お前はマーズだ。
+>  だが多少の手違いがあったようだな
+"...No, you are Mars. Nhưng có vẻ như có điều gì đó không ổn.
+---
+>  もう少し時間をかけねばならぬか……」
+Có vẻ như sẽ mất thêm một thời gian nữa..."
+
+@25465 Takeru · タケル
+> 「……はっ!? ……夢……か。
+>  なんだったんだ……マーズって……」
+"...Ha! ? ...Hóa ra là một giấc mơ...Vừa rồi là gì vậy...Sao Hỏa..."
+
+@25466 Heero · ヒイロ
+> 「ここを破壊すれば月面基地は
+>  当分機能しなくなる……」
+"Chỉ cần nơi này bị phá hủy, căn cứ mặt trăng sẽ tạm thời không thể hoạt động..."
+
+@25467 Specials · スペシャルズ
+> 「こっちだ!」
+"Over here! "
+
+@25468 Specials · スペシャルズ
+> 「いたぞ! 捕まえろ!!」
+"Tìm thấy rồi! Bắt hắn đi!!"
+
+@25469 Heero · ヒイロ
+> 「フン、遅いな……」
+"Hừ, chậm quá..."
+
+@25470 Heero · ヒイロ
+> 「なに!?」
+"Cái gì!?"
+
+@25471 ???
+> 「そこまでだ」
+"Đó là nó."
+
+@25472 Heero · ヒイロ
+> 「お前は……」
+"Bạn là..."
+
+@25473 Trowa · トロワ
+> 「残念だったな。
+>  俺は、OZの特士トロワ・バートン
+"Thật đáng tiếc. Tôi là Testrova Barton đến từ OZ,
+---
+>  これ以上抵抗するならば
+>  貴様を殺す」
+Nếu cậu chống cự lần nữa, tôi sẽ giết cậu. "
+
+@25474 Heero · ヒイロ
+> 「…………」
+“…………”
+
+@25475 Bask · バスク
+> 「ツバロフ技師長、まずは急いで数
+>  をそろえろとのデルマイユ公の命令だ」
+“Chỉ huy Kỹ thuật viên Tsibarov, Công tước Dirumayu đã ra lệnh cho chúng tôi tập hợp số lượng càng sớm càng tốt.”
+
+@25476 Tubarov · ツバロフ
+> 「どういうことですかな?」
+"Làm thế nào để bạn nói điều này?"
+
+@25477 Bask · バスク
+> 「ロームフェラ内部に
+>  不穏な動きがあるらしい
+“Dường như có sự bất an nào đó trong Romfila.
+---
+>  ともかく、貴様は
+>  言われた通りにしておればよい」
+Dù sao đi nữa, hãy cứ làm như bạn bảo. "
+
+@25478 Tubarov · ツバロフ
+> 「わかりました。
+>  では私は工場のほうへいきます」
+"Tôi hiểu rồi. Vậy tôi sẽ đến nhà máy."
+
+@25479 Lady · レディ
+> 「歴史の流れは誰にも
+>  止められぬらしい
+"Dường như không ai có thể ngăn chặn dòng chảy của lịch sử.
+---
+>  たとえトレーズ様でも……。だが私は
+>  トレーズ様の理想へ
+Cho dù đó là ông Telles...nhưng tôi chỉ cần kể lại lịch sử
+---
+>  歴史を運べばよいのだ。私は
+>  そのために命を捨てることができる
+Chỉ cần dẫn đến những lý tưởng của Lord Telles. Vì điều này tôi sẽ hy sinh mạng sống mình,
+---
+>  戦って勝ち取ることができる。
+>  トレーズ様の未来……
+Bạn có thể chiến đấu vì nó. Tương lai của Lord Telles...
+---
+>  そして私の未来を」
+Và tương lai của tôi. "

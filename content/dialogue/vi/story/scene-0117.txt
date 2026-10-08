@@ -1,0 +1,155 @@
+# Bản dịch tiếng Việt Super Robot Wars 64
+# Định dạng và vị trí: docs/guide/dialogue-text.md
+
+@50880 Cecily · セシリー
+> 「……それじゃあなたたちも
+>  レジスタンス部隊に合流するの?」
+"Vậy ngươi cũng muốn gia nhập tổ chức kháng chiến?"
+
+@50881 Kappei · 勝平
+> 「そうなんだよね。俺は乗り気じゃ
+>  ないんだけど、じっちゃんのいいつけでね」
+"Ừ. Thực ra tôi có chút miễn cưỡng, nhưng đây là mệnh lệnh của ông nội."
+
+@50882 Keiko · 恵子
+> 「地球を救うために、
+>  レジスタンス部隊と協力して
+"Ông nội yêu cầu chúng tôi hợp tác với lực lượng kháng chiến để cứu trái đất.
+---
+>  敵と戦えっていわれたんです」
+Chiến đấu với kẻ thù. "
+
+@50883 Cecily · セシリー
+> 「私たちもレジスタンス部隊と
+>  合流しろという命令を受けて
+“Chúng tôi cũng nhận được lệnh hội quân với lực lượng kháng chiến.
+---
+>  動いていたのよ」
+Tôi đang trên đường đi. "
+
+@50884 Kappei · 勝平
+> 「でもホント、助かったよ。
+>  こっちのレーダーは故障しちまって
+“Nhưng nó thực sự hữu ích. Radar của chúng tôi ở đây bị hỏng.
+---
+>  部隊を探すの、
+>  あきらめようかって時だったから」
+Tôi đang suy nghĩ xem có nên từ bỏ việc tìm kiếm quân đội hay không. "
+
+@50885 Seabook · シーブック
+> 「俺たちはあらかじめ部隊に連絡
+>  して合流地点を決めていたからね」
+"Chúng tôi đã liên lạc trước với quân đội và quyết định địa điểm tập trung."
+
+@50886 Kappei · 勝平
+> 「旅は道連れ、世は情けってね。
+>  ま、仲良く行きましょうや」
+"Đi ra ngoài dựa vào bạn đồng hành, trong cuộc sống dựa vào ân huệ. Tóm lại, chúng ta hãy hòa thuận."
+
+@50887 Uchuta · 宇宙太
+> 「もうそろそろ合流地点だぜ……あれ
+>  かな? レジスタンス部隊とやらは……」
+“Gần đến điểm hẹn rồi…phải không? Cái gọi là lực lượng kháng cự…”
+
+@50888 Seabook · シーブック
+> 「違うぞ! あれは敵だ!
+>  おそらくレジスタンス部隊を
+"Không! Đó là kẻ thù! Tôi sợ chúng đang truy đuổi lực lượng kháng chiến.
+---
+>  追って来たんだろう」
+Đã đến đây. "
+
+@50889 Kappei · 勝平
+> 「ヤバイぜ! 俺たちのこと、
+>  気づいたみたいだ!」
+"Rất tiếc! Có vẻ như họ đã phát hiện ra chúng ta!"
+
+@50890 Seabook · シーブック
+> 「しかたがないな。迎撃しよう!
+>  セシリー、準備はいいかい」
+"Chúng ta không thể làm gì được. Hãy tấn công! Cecily, bạn đã sẵn sàng chưa?"
+
+@50891 Cecily · セシリー
+> 「ビギナ・ギナで出るわ」
+"Tôi sẽ tấn công trong bộ bikini."
+
+@50892 Seabook · シーブック
+> 「君たちはどうする!?」
+"Bạn nên làm gì!?"
+
+@50893 Kappei · 勝平
+> 「俺たちもいくぜ!
+>  宇宙太、恵子、出撃だ!」
+“Chúng tôi cũng tới! Cosmos Tai, Keiko, tấn công!”
+
+@50894 Seabook · シーブック
+> 「敵部隊を全滅させる!」
+"Tiêu diệt tất cả kẻ thù!"
+
+@50895 Kappei · 勝平
+> 「ザンボットコンビネーション!」
+"Zambo hợp nhất!"
+
+@50896 Chiyonishiki · 千代錦
+> 「ワン!」
+"Gâu! "
+
+@50897 Uchuta · 宇宙太
+> 「ツー!」
+"Hai!"
+
+@50898 Keiko · 恵子
+> 「スリー!」
+"Ba!"
+
+@50899 Seabook · シーブック
+> 「な、なんでだよ!」
+"Làm sao, làm sao chuyện này có thể xảy ra!"
+
+@50900 Cecily · セシリー
+> 「あぁぁ!? シ、シーブック!」
+"À! ? S-Sibuk! "
+
+@50901 Kappei · 勝平
+> 「そんなバカな……
+>  クソッ、負けるのかよぉ」
+“Sao chuyện này có thể xảy ra được… Chết tiệt, chúng ta sắp thua à?”
+
+@50902 Keiko · 恵子
+> 「きゃあぁぁぁーっ!!」
+“Ahhhhhhhhh——!!”
+
+@50903 Uchuta · 宇宙太
+> 「うわあぁぁっ!」
+“Ồ! "
+
+@50904 Seabook · シーブック
+> 「やったぞ! 全滅だ!」
+"Giết rồi! Không còn ai!"
+
+@50905 Cecily · セシリー
+> 「……なんとか終わったようね」
+“…Cuối cùng cũng kết thúc.”
+
+@50906 Seabook · シーブック
+> 「ああ。……でも戦いは、まだまだ続くさ」
+"Chà...nhưng trận chiến còn lâu mới kết thúc."
+
+@50907 Keiko · 恵子
+> 「見て、勝平。
+>  あれ、レジスタンス部隊じゃないかしら」
+"Nhìn xem, Shengping. Chẳng lẽ đó là tổ chức kháng chiến?"
+
+@50908 Kappei · 勝平
+> 「シーブックの兄ちゃん、
+>  あれってレジスタンス部隊かい?」
+“Anh Sibu Ke, đó có phải là lực lượng tổ chức kháng chiến không?”
+
+@50909 Seabook · シーブック
+> 「……どうやらそうみたいだ。
+>  やっと合流できるな」
+"...Có vẻ như vậy. Cuối cùng chúng ta cũng có thể gặp nhau."
+
+@50910 Kappei · 勝平
+> 「へへん、いっちょ暴れてやりますか」
+"Này, chúng ta đi làm một cảnh đi."

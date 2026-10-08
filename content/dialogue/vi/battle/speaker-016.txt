@@ -1,0 +1,97 @@
+# Bản dịch tiếng Việt Super Robot Wars 64
+# Định dạng và vị trí: docs/guide/dialogue-text.md
+
+@12955 Sijima · シジーマ
+# Kích hoạt: Tấn công (Chung，1/7）
+> 「ここがお前の死に場所よ!」
+"Đây là nơi chôn cất của bạn!"
+
+@12956 Sijima · シジーマ
+# Kích hoạt: Tấn công (Chung，2/7）
+> 「ムダなあがきはよしなさいってば」
+“Như tôi đã nói, đừng đấu tranh một cách không cần thiết.”
+
+@12957 Sijima · シジーマ
+# Kích hoạt: Tấn công (Chung，3/7）
+> 「もらったわ」
+"Thành công."
+
+@12958 Sijima · シジーマ
+# Kích hoạt: Tấn công (Chung，4/7）
+> 「このまま攻めさせてもらうわ!」
+"Vậy ta sẽ thừa dịp thắng lợi đuổi theo!"
+
+@12959 Sijima · シジーマ
+# Kích hoạt: Tấn công (Chung，5/7）
+> 「とどめを刺してあげるわ!」
+"Tao sẽ giết mày ngay bây giờ!"
+
+@12960 Sijima · シジーマ
+# Kích hoạt: Tấn công (Chung，6/7）
+> 「これで、最後よ」
+"Đây là đòn cuối cùng."
+
+@12961 Sijima · シジーマ
+# Kích hoạt: Tấn công (Chung，7/7）
+> 「ちぇぃやぁぁぁ!」
+"Này à à à à!"
+
+@12962 Sijima · シジーマ
+# Kích hoạt: 被击坠（通用，1/1）
+> 「ぎゃぁぁぁぁぁぁぁぁ!!」
+"Ahhhhhhhhhhhh!!"
+
+@12963 Sijima · シジーマ
+# Kích hoạt: 重伤（剩余 HP 不足 30%）（通用，1/2）
+> 「こ、このままじゃやられるわ……」
+“Nếu cứ tiếp tục như thế này thì mọi chuyện sẽ kết thúc…”
+
+@12964 Sijima · シジーマ
+# Kích hoạt: 重伤（剩余 HP 不足 30%）（通用，2/2）
+> 「うぎゃぁぁぁぁぁ」
+"Ồhhhhhhhhh!"
+
+@12965 Sijima · シジーマ
+# Kích hoạt: 中伤（剩余 HP 30–90%）（通用，1/2）
+> 「こ、こいつぅ!?」
+"Anh, anh à!?"
+
+@12966 Sijima · シジーマ
+# Kích hoạt: 中伤（剩余 HP 30–90%）（通用，2/2）
+> 「なんですってぇ!?」
+"Anh vừa nói gì thế!?"
+
+@12967 Sijima · シジーマ
+# Kích hoạt: 轻伤（剩余 HP 90% 以上）（通用，1/2）
+> 「ムダなことをするわねぇ」
+"Thật lãng phí công sức."
+
+@12968 Sijima · シジーマ
+# Kích hoạt: 轻伤（剩余 HP 90% 以上）（通用，2/2）
+> 「効かないわよ」
+"Thật vô ích. "
+
+@12969 Sijima · シジーマ
+# Kích hoạt: Né tránh（通用，1/2）
+> 「ふふふふ、あたらないわ」
+"Hehehehe, không đánh được đâu."
+
+@12970 Sijima · シジーマ
+# Kích hoạt: Né tránh（通用，2/2）
+> 「お前の攻撃はあたらないわ」
+"Đòn tấn công của bạn không thể đánh trúng tôi."
+
+@12971 Sijima · シジーマ
+# Kích hoạt: Tấn công无效（护罩／装甲）（通用，1/1）
+> 「お前の攻撃はあたらないわ」
+"Đòn tấn công của bạn không thể đánh trúng tôi."
+
+@12972 Sijima · シジーマ
+# Kích hoạt: 弹药／EN 不足，无法反击（通用，1/1）
+> 「は、反撃ができない!?」
+"Không, không có cách nào đánh trả!?"
+
+@12973 Sijima · シジーマ
+# Kích hoạt: 射程外，无法反击（通用，1/1）
+> 「と、とどかないわ」
+"Đủ rồi, ngoài tầm với."

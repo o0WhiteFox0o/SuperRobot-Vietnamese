@@ -218,7 +218,7 @@ def load(roots: list[Path], sources: dict[str, str]) -> tuple[dict[str, str], di
         if not root.is_dir():
             continue
         for path in sorted(root.rglob("*.txt")):
-            name = str(path.relative_to(root))
+            name = path.relative_to(root).as_posix()
             try:
                 text = path.read_text(encoding="utf-8")
             except (OSError, UnicodeDecodeError) as error:

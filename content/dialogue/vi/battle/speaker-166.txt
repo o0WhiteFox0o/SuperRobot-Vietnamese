@@ -1,0 +1,157 @@
+# Bản dịch tiếng Việt Super Robot Wars 64
+# Định dạng và vị trí: docs/guide/dialogue-text.md
+
+@9470 Alan · アラン
+# Kích hoạt: Tấn công (Chung，1/9）
+> 「これでどうだっ!!」
+"Động thái này thế nào!!"
+
+@9471 Alan · アラン
+# Kích hoạt: Tấn công (Chung，2/9）
+> 「勝負は見えたな!」
+"Người chiến thắng đã được quyết định!"
+
+@9472 Alan · アラン
+# Kích hoạt: Tấn công (Chung，3/9）
+> 「計算通りだ!」
+"Mọi chuyện đã được tính toán!"
+
+@9473 Alan · アラン
+# Kích hoạt: Tấn công (Chung，4/9）
+> 「そこかっ!」
+"Chính là nó!"
+
+@9474 Alan · アラン
+# Kích hoạt: Tấn công (Chung，5/9）
+> 「いくぞっ!」
+"Lên!"
+
+@9475 Alan · アラン
+# Kích hoạt: Tấn công (Chung，6/9）
+> 「動きがあまい!」
+"Các động tác thật dịu dàng!"
+
+@9476 Alan · アラン
+# Kích hoạt: Tấn công (Chung，7/9）
+> 「機械に頼りすぎだ!」
+“Phụ thuộc quá nhiều vào máy móc!”
+
+@9477 Alan · アラン
+# Kích hoạt: Tấn công (Chung，8/9）
+> 「あまいぞ!」
+"Thật ngây thơ!"
+
+@9478 Alan · アラン
+# Kích hoạt: Tấn công (Chung，9/9）
+> 「今を逃せばチャンスはない!」
+"Nếu bỏ lỡ lần này, ngươi sẽ không có cơ hội!"
+
+@9479 Alan · アラン
+# Kích hoạt: 被击坠（通用，1/2）
+> 「しまったっ!?」
+"Ối!?"
+
+@9480 Alan · アラン
+# Kích hoạt: 被击坠（通用，2/2）
+> 「これまでかっ!」
+"Chính là nó!"
+
+@9481 Alan · アラン
+# Kích hoạt: 重伤（剩余 HP 不足 30%）（通用，1/4）
+> 「くっ、予想以上か……」
+“Chà, nó mạnh hơn mong đợi…”
+
+@9482 Alan · アラン
+# Kích hoạt: 重伤（剩余 HP 不足 30%）（通用，2/4）
+> 「しまった! ダメージを受けすぎたか!?」
+"Ối! Vết thương có nghiêm trọng lắm không!?"
+
+@9483 Alan · アラン
+# Kích hoạt: 重伤（剩余 HP 不足 30%）（通用，3/4）
+> 「このままでは……やられる!」
+"Nếu tiếp tục như vậy... ngươi sẽ bị giết!"
+
+@9484 Alan · アラン
+# Kích hoạt: 重伤（剩余 HP 不足 30%）（通用，4/4）
+> 「ぐぅっ、もうもたんか……」
+"Này, cậu không thể nhịn được nữa à..."
+
+@9485 Alan · アラン
+# Kích hoạt: 中伤（剩余 HP 30–90%）（通用，1/5）
+> 「こ、これはっ!」
+"Cái này, cái này!"
+
+@9486 Alan · アラン
+# Kích hoạt: 中伤（剩余 HP 30–90%）（通用，2/5）
+> 「くっこのパワーはデータ以上か!?」
+“Hmm, sức mạnh này mạnh hơn dữ liệu!?”
+
+@9487 Alan · アラン
+# Kích hoạt: 中伤（剩余 HP 30–90%）（通用，3/5）
+> 「まだだ、まだいけるはずだっ!」
+"Vẫn chưa kết thúc, ta còn có thể kiên trì!"
+
+@9488 Alan · アラン
+# Kích hoạt: 中伤（剩余 HP 30–90%）（通用，4/5）
+> 「まだこんなものではっ!」
+"Không có gì đâu!"
+
+@9489 Alan · アラン
+# Kích hoạt: 中伤（剩余 HP 30–90%）（通用，5/5）
+> 「この程度で!」
+"Đó là tất cả!"
+
+@9490 Alan · アラン
+# Kích hoạt: 轻伤（剩余 HP 90% 以上）（通用，1/4）
+> 「この程度ならばな」
+"Cấp độ này chẳng là gì cả."
+
+@9491 Alan · アラン
+# Kích hoạt: 轻伤（剩余 HP 90% 以上）（通用，2/4）
+> 「たいした攻撃ではないな」
+"Không phải là một cuộc tấn công thích hợp"
+
+@9492 Alan · アラン
+# Kích hoạt: 轻伤（剩余 HP 90% 以上）（通用，3/4）
+> 「そんな攻撃など効きはしない!」
+“Đòn tấn công đó hoàn toàn không có tác dụng!”
+
+@9493 Alan · アラン
+# Kích hoạt: 轻伤（剩余 HP 90% 以上）（通用，4/4）
+> 「うるさいハエどもめ」
+“ruồi phiền phức”
+
+@9494 Alan · アラン
+# Kích hoạt: Né tránh（通用，1/4）
+> 「機械に頼りすぎるからこうなる!」
+“Việc phụ thuộc quá nhiều vào máy móc sẽ dẫn đến tình trạng này!”
+
+@9495 Alan · アラン
+# Kích hoạt: Né tránh（通用，2/4）
+> 「ねらいが甘いようだな!」
+"Có vẻ như mục tiêu của bạn không đủ chính xác!"
+
+@9496 Alan · アラン
+# Kích hoạt: Né tránh（通用，3/4）
+> 「そんな腕では!」
+"Đó là tất cả!"
+
+@9497 Alan · アラン
+# Kích hoạt: Né tránh（通用，4/4）
+> 「かわせる!」
+"Tránh xa!"
+
+@9498 Alan · アラン
+# Kích hoạt: Tấn công无效（护罩／装甲）（通用，1/1）
+> 「無駄だ!」
+"Thật vô ích!"
+
+@9499 Alan · アラン
+# Kích hoạt: 弹药／EN 不足，无法反击（通用，1/1）
+> 「くっ、予想以上に早かったな……」
+"Chà, nó chạy nhanh hơn dự kiến..."
+
+@9500 Alan · アラン
+# Kích hoạt: 射程外，无法反击（通用，1/1）
+> 「ここからでは当たらんか!?」
+“Cậu không thể đánh từ khoảng cách này được sao!?”

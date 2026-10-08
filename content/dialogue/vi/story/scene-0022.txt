@@ -1,0 +1,869 @@
+# Bản dịch tiếng Việt Super Robot Wars 64
+# Định dạng và vị trí: docs/guide/dialogue-text.md
+
+@20974 Hayato · ハヤト
+> 「見事なまでの廃墟だな、これは」
+"Cái tàn tích này thực sự đã hoàn chỉnh."
+
+@20975 Ryoma · リョウ
+> 「ああ。だが、住んでいる人は
+>  いるようだぞ」
+"Đúng. Tuy nhiên, có vẻ như vẫn còn người sống ở đây."
+
+@20976 Koji · 甲児
+> 「ホントかよ。ま、こんなところなら
+>  帝国もあんまり、こないんだろうけどな」
+"Thật hay không. Chà, có lẽ Đế quốc không thường xuyên đến những nơi như thế này."
+
+@20977 Sayaka · さやか
+> 「ちょっと、甲児くんたち、
+>  こんなところで遊んでないで
+"Này, Giai Nhi, các cậu đừng chơi ở nơi như thế này nữa.
+---
+>  少し手伝ったら、どうなのよ」
+Hãy đến và giúp tôi. "
+
+@20978 Boss · ボス
+> 「さやかぁ、俺さまが手伝ってやるわよ
+>  兜なんかより、ずっと役にたつぜ」
+"Sayaka, ta tới giúp ngươi, ta so với cái kia Gia Nhi gia hỏa hữu dụng nhiều lắm."
+
+@20979 Sayaka · さやか
+> 「ありがとう、ボス。まったく、甲児くん
+>  たら、気がきかないんだから」
+"Cảm ơn ông chủ. Thực sự, Jia'er không hề quan tâm chút nào."
+
+@20980 Koji · 甲児
+> 「ちょ、ちょっと待ってくれよ、さやかさん」
+"Đợi đã, đợi một chút, Sayaka."
+
+@20981 Musashi · ムサシ
+> 「……しかし、ここの女性は
+>  気が強いなぁ」
+“…Nhưng phụ nữ ở đây thực sự rất mạnh mẽ.”
+
+@20982 David · デビッド
+> 「まったくだ。あんなのばっかりじゃ
+>  たまらないぜ」
+“Đúng vậy, nếu như đều có nữ nhân như vậy, ai có thể chịu nổi?”
+
+@20983 Shinobu · 忍
+> 「ばぁか、レジスタンスで戦闘パイロット
+>  やってるような女が
+"Thật ngu ngốc, một người phụ nữ làm phi công chiến đấu trong tổ chức kháng chiến,
+---
+>  おとなしいわけがねぇだろう」
+Làm sao bạn có thể ngoan ngoãn được? "
+
+@20984 Simone · シモーヌ
+> 「へぇ? それはいったい、
+>  どういう意味かしら」
+"Ồ? Ý bạn là gì?"
+
+@20985 Sara · 沙羅
+> 「聞かせてもらいたいもんだね」
+"Tôi muốn nghe nó."
+
+@20986 Roux · ルー
+> 「そうね、ぜひとも教えていただきたいもの
+>  だわ」
+"Ừ, xin hãy cho tôi một lời khuyên."
+
+@20987 Shinobu · 忍
+> 「げっ」
+"Ờ."
+
+@20988 Ryoma · リョウ
+> 「お、俺たちは何もいってないぜ」
+"Tôi-chúng tôi không nói gì cả."
+
+@20989 Masato · 雅人
+> 「墓穴ほっちゃったみたいだねぇ、忍」
+“Có vẻ như cậu đang tự đào hố chôn mình vậy, Shinobi.”
+
+@20990 Sara · 沙羅
+> 「ちょっとあんたたち、お待ちよ!」
+"Này, các bạn, dừng lại ở đây!"
+
+@20991 Eiji · エイジ
+> 「どうしたんだ?」
+"Có chuyện gì thế?"
+
+@20992 Simone · シモーヌ
+> 「エイジ、そいつらつかまえて!」
+“Eiji, bắt bọn chúng lại!”
+
+@20993 Astonaige · アストナージ
+> 「お前たち、騒ぐなら外でやってくれ!」
+"Các người đang định gây rắc rối ở bên ngoài đấy!"
+
+@20994 Hayato · ハヤト
+> 「………………」
+“…………”
+
+@20995 Ryoma · リョウ
+> 「どうしたんだ、隼人」
+“Có chuyện gì vậy Hayato?”
+
+@20996 Hayato · ハヤト
+> 「いや……この荒れ果てた街並みを
+>  見ていたら、ふと昔のことを
+“Không có gì… Nhìn cảnh phố vắng tanh này, tôi không khỏi cảm động.”
+---
+>  思い出してな」
+Tôi nhớ lại quá khứ. "
+
+@20997 Ryoma · リョウ
+> 「昔の?」
+"Chuyện gì đã xảy ra trong quá khứ?"
+
+@20998 Hayato · ハヤト
+> 「ああ……友達のことをな。いつかでっか
+>  いことをやってやるんだってな
+"Hmm... Tôi nghĩ đến bạn tôi. Anh ấy luôn nói rằng một ngày nào đó anh ấy sẽ làm điều gì đó."
+---
+>  いつもいってたよ」
+Những điều lớn lao. "
+
+@20999 Ryoma · リョウ
+> 「そいつはいまどこに?」
+"Người đó bây giờ ở đâu?"
+
+@21000 Hayato · ハヤト
+> 「いや……知らん。俺がゲッターチームに
+>  入ってから、会っていない」
+"Không... tôi không biết. Tôi đã không gặp anh ấy kể từ khi tôi gia nhập Đội Geta."
+
+@21001 Ryoma · リョウ
+> 「そうか……」
+"Chính là nó..."
+
+@21002 Hayato · ハヤト
+> 「なに、あいつのことだ。どこかでうまいこと
+>  やって、生き延びてるさ」
+“Đừng lo lắng, với khả năng của anh chàng đó, chắc chắn anh ta đang làm tốt ở đâu đó và sống tốt.”
+
+@21003 Domon · ドモン
+> 「お前のあの機体、格闘戦用
+>  だったな。MTSもないのに
+“Cỗ máy của anh là để chiến đấu. Nó thậm chí còn không có MTS.
+---
+>  まともに戦えるのか?」
+Bạn thực sự có thể chiến đấu? "
+
+@21004 Brad · ブラッド（按段落 3DD3）
+> 「当然だ。俺の師匠がつくりあげた
+>  ロボットによる格闘術
+“Tất nhiên rồi. Đó là kỹ thuật chiến đấu của người máy do sư phụ tôi tạo ra.
+---
+>  “武機覇拳流”の
+>  専用機だからな
+Một cỗ máy đặc biệt dành cho "Phong cách chiến đấu võ thuật".
+---
+>  格闘戦では右に出るものはない。
+>  ガンダムモドキなどと比べてほしくないね」
+Không ai có thể đánh bại anh ta trong trận chiến. Đừng so sánh nó với hàng nhái của gundam. "
+
+@21005 Domon · ドモン
+> 「なんだと!? 貴様っ」
+"Anh vừa nói gì thế!? Anh bạn!"
+
+@21006 Brad · ブラッド（按段落 3DD3）
+> 「なんなら試してみてもいいんだぜ?」
+“Nếu bạn không bị thuyết phục, tại sao bạn không thử một lần?”
+
+@21007 Domon · ドモン
+> 「よかろう。キング・オブ・ハートの名に
+>  かけて、その挑戦、受けてやる!」
+"Được rồi. Nhân danh Vua Trái Tim, tôi chấp nhận lời thách đấu của bạn!"
+
+@21008 Rain · レイン
+> 「ちょ、ちょっとあなたたち、なにいってるの
+>  今が、どんなときか忘れちゃったの!?」
+"Đợi đã, đợi một chút, hai người đang nói về cái gì thế? Các người quên mất tình hình bây giờ là thế nào rồi sao!?"
+
+@21009 Domon · ドモン
+> 「黙っていろ、レイン!
+>  男の勝負に口出しは無用だ!」
+"Im đi, Ling! Đừng can thiệp vào trận chiến của nam giới!"
+
+@21010 Brad · ブラッド（按段落 3DD3）
+> 「その通りだ。いくぞドモン・カッシュ」
+"Đúng vậy. Cố lên, Domon Kashu."
+
+@21011 Beltorchika · ベルトーチカ
+> 「あら? 艦長、アースゲインと
+>  シャイニングガンダムが発進しました」
+"Rất tiếc? Đội trưởng, Asgein và FlashGundam đang tấn công."
+
+@21012 Bright · ブライト
+> 「なんだと? そんな命令は
+>  出していないぞ」
+"Cái gì? Tôi chưa bao giờ ra lệnh như vậy."
+
+@21013 Bright · ブライト
+> 「レインか? どういうことだ!?」
+"Là Ling à? Chuyện gì đang xảy ra vậy!?"
+
+@21014 Rain · レイン
+> 「すみません、あの2人どうしても
+>  勝負するといって……」
+“Tôi xin lỗi, hai người đó phải chiến đấu để giành chiến thắng dù thế nào đi nữa…”
+
+@21015 Bright · ブライト
+> 「ばかどもが。やめさせろ!
+>  誰か、あの連中を連れ戻してこい」
+"Một lũ ngu ngốc. Ngăn chúng lại! Ai đó hãy mang những kẻ đó trở lại."
+
+@21016 Amuro · アムロ
+> 「いいじゃないか、ブライト。
+>  あれもレクリエーションのうちさ」
+"Không sao đâu, Brett. Đó là một hình thức giải trí."
+
+@21017 Bright · ブライト
+> 「今は待機中だぞ。……まったく、
+>  俺には、ああいう連中が
+“Tôi đang ở chế độ chờ!…Thật sự, tôi thực sự không thể hiểu được.
+---
+>  なにを考えているのか、
+>  理解できんよ」
+Điều gì đang diễn ra trong đầu những kẻ đó. "
+
+@21018 Rain · レイン
+> 「あの……いっておきますが、私も理解
+>  できませんので」
+"Ừm... Nói trước đi, bọn họ ta cũng nghe không hiểu."
+
+@21019 Rain · レイン
+> (もぅ、こんなことでシャイニングガンダムを
+>  壊したりしたら、絶交なんだから)
+(Thật đấy, nếu bạn làm hỏng Flash Gunma vì chuyện như thế này, tôi sẽ chia tay với bạn.)
+
+@21020 Anna · アンナ
+> 「どうしたの、{HeroNick}? 考えごと?」
+"Có chuyện gì vậy, {HeroNick}? Đang nghĩ về điều gì đó?"
+
+@21021 Manami · マナミ（按段落 3DD4）
+> 「ん……ちょっとね」
+"Ừm... đúng vậy."
+
+@21022 Anna · アンナ
+> 「{PartnerName}さんのこと?」
+"Đang nghĩ về {PartnerName}?"
+
+@21023 Manami · マナミ（按段落 3DD4）
+> 「……そう。どうしてこうなってしまったの
+>  かなぁって思って」
+"...Ừ. Tôi đang thắc mắc tại sao nó lại như thế này."
+
+@21024 Anna · アンナ
+> 「そのうちきっと、わかってくれると思うわ
+>  そんなに悪い人には思えなかったもの」
+"Một ngày nào đó anh ấy sẽ hiểu. Tôi không nghĩ anh ấy là người xấu như vậy."
+
+@21025 Manami · マナミ（按段落 3DD4）
+> 「でもね……{PartnerNick}は昔から
+>  人のいうこと聞かなかったから
+"Nhưng...{PartnerNick}Tôi chưa bao giờ lắng nghe người khác kể từ khi còn nhỏ.
+---
+>  今は、お金のこととか、家系のこと
+>  とかいってる場合じゃないって
+Bây giờ không phải là lúc để nói về tiền bạc hay hoàn cảnh gia đình.
+---
+>  自分で気づいてくれればいいんだけど
+>  ……でも、ありがとう、アンナ」
+Giá như anh ấy có thể hiểu ra... Nhưng cảm ơn cô, Anna. "
+
+@21026 Brad · ブラッド（按段落 3DD3）
+> 「いくぞ、ドモン!」
+"Nào, Domon!"
+
+@21027 Domon · ドモン
+> 「来い!」
+"Cố lên!"
+
+@21028 Brad · ブラッド（按段落 3DD3）
+> 「ちょっと待て!」
+"Chờ một chút!"
+
+@21029 Domon · ドモン
+> 「どうした、この程度でおしまいか!?」
+"Tại sao, đây là tất cả những gì bạn có à!?"
+
+@21030 Brad · ブラッド（按段落 3DD3）
+> 「違う、あれを見ろ!」
+"Không, nhìn qua đó!"
+
+@21031 Beltorchika · ベルトーチカ
+> 「ブライト艦長、何か来ます!」
+"Đội trưởng Bright, có gì đó đang đến!"
+
+@21032 Bright · ブライト
+> 「何かじゃわからん。何だ、いったい?」
+"Làm sao tôi biết chỉ bằng cách nói 'điều gì đó'? Đó là gì vậy?"
+
+@21033 Ginrei · 銀鈴
+> 「くっ、だめ、追いつかれる!?」
+"Ừm, không, tôi sẽ bị cuốn theo mất!?"
+
+@21034 Q Boss · Qボス
+> 「フフフ、いまさらどこへ逃げようと
+>  いうのかな。さぁ、おとなしく教授と
+"Hahaha, bây giờ cậu muốn trốn đi đâu? Nào, ngoan ngoãn dẫn giáo sư đi."
+---
+>  そのケースを渡してもらおう」
+Đưa cái hộp đó cho tôi. "
+
+@21035 Prof. Yumi · 弓教授
+> 「ぎ、銀鈴くん、君だけでも先に
+>  逃げてくれ」
+"Âm, Yinling, ít nhất hãy trốn thoát trước."
+
+@21036 Ginrei · 銀鈴
+> 「いけません、弓教授! もうすぐ
+>  合流予定地点ですから!」
+"Không, giáo sư Gong! Hãy đến điểm hẹn sớm nhé! "
+
+@21037 Q Boss · Qボス
+> 「ほう? まだ逃げようというのですか。
+>  わたしはそのケースだけでも
+"Ồ? Cậu vẫn muốn trốn à? Thực ra tôi chỉ muốn cái hộp đó thôi
+---
+>  手に入ればいいのですがねぇ」
+Có được nó là đủ rồi. "
+
+@21038 Ginrei · 銀鈴
+> 「こ、こんなことで!」
+"Làm sao, làm sao có thể rơi ở chỗ này!"
+
+@21039 ???
+> 「走って、もっと早く!
+>  そのまま、まっすぐ!」
+"Chạy nhanh, nhanh hơn nữa! Cứ như vậy, tiếp tục tiến về phía trước!"
+
+@21040 Ginrei · 銀鈴
+> 「えっ!? ええ!」
+"Ơ!? Được rồi, được rồi!"
+
+@21041 Q Boss · Qボス
+> 「な、なんだ!?」
+"C-Cái gì!?"
+
+@21042 Daisaku · 大作
+> 「銀鈴さんたちは、そのまま
+>  逃げてください
+"Cô Yinling, cứ chạy đi.
+---
+>  やれ! ジャイアントロボ!」
+Cố lên! Người sắt vĩ đại! "
+
+@21043 Ginrei · 銀鈴
+> 「大作くん! それにジャイアント・ロボ!」
+"Kiệt tác! Và Người sắt vĩ đại!"
+
+@21044 Q Boss · Qボス
+> 「こ、これは、ジャイアント・ロボ!?」
+"Đây, đây là một người sắt to lớn!?"
+
+@21045 Q Boss · Qボス
+> 「えぇーい!」
+"Này-ya!"
+
+@21046 Daisaku · 大作
+> 「ロ、ロボォォォッ!?」
+“Máy móc, robot, à!?”
+
+@21047 Daisaku · 大作
+> 「移動します。銀鈴さん、教授、
+>  しっかりつかまっててください」
+"Chúng ta sắp rời đi. Yinling cô, giáo sư, xin nhanh lên."
+
+@21048 Bright · ブライト
+> 「まだ他にもいるかもしれん。
+>  索敵おこたるなよ」
+"Có thể có những kẻ thù khác. Đừng mất cảnh giác."
+
+@21049 Koji · 甲児
+> 「なんだよ、あれは」
+"Cái quái gì vậy?"
+
+@21050 Sayaka · さやか
+> 「あれは……お父さま!?」
+"Đó là...Bố!?"
+
+@21051 Banjo · 万丈
+> 「弓教授だって?
+>  いったいどうして……」
+"Giáo sư Cung? Chuyện quái gì đang xảy ra vậy..."
+
+@21052 Masato · 雅人
+> 「おっ、降りてきたよ。うっひゃぁ、
+>  すっごい美人じゃん」
+"Ồ, nó ở dưới rồi. Wow, đẹp thật."
+
+@21053 Sara · 沙羅
+> 「ちょっと雅人、みっともないマネは
+>  およしよ」
+"Này, Masato, đừng xấu hổ thế."
+
+@21054 Ginrei · 銀鈴
+> 「もと国際警察機構の銀鈴で
+>  す。中条長官にいわれて
+"Tôi là Gin Suzu của cơ quan cảnh sát quốc tế trước đây. Theo lệnh của Chỉ huy Nakajo
+---
+>  まいりました」
+Hãy đến. "
+
+@21055 Banjo · 万丈
+> 「ご苦労さま、きれいなお嬢さん。
+>  しかし、なぜ弓教授が?」
+"Cảm ơn cô nương xinh đẹp. Nhưng tại sao Giáo sư Cung lại ở đây?"
+
+@21056 Prof. Yumi · 弓教授
+> 「おお、万丈くん。実は研究施
+>  設が何者かの襲撃を受けてね
+"Ồ, Vạn Chương. Thực ra viện nghiên cứu đã bị người lạ tấn công.
+---
+>  ジャイアント・ロボの調整のために来て
+>  いた銀鈴くんたちに助けられたんだよ」
+May mắn thay, Yin Ling và những người khác đã đến điều chỉnh người sắt to lớn và cứu được tôi. "
+
+@21057 Sayaka · さやか
+> 「お父さま、大丈夫なの!?」
+"Bố, bố ổn chứ!?"
+
+@21058 Prof. Yumi · 弓教授
+> 「さやか、元気そうだね。
+>  私は大丈夫だ。施設も破壊
+"Sayaka, tôi thấy tinh thần của bạn rất tốt. Tôi ổn. Mặc dù cơ sở đã bị phá hủy,
+---
+>  されてしまったが、超合金Zと
+>  光子力に関するデータはすべて
+Nhưng tất cả dữ liệu về Siêu hợp kim Z và lực photon
+---
+>  持ち出すことができたからね」
+Đưa ra. "
+
+@21059 Garrison · ギャリソン
+> 「それはようございましたな」
+"Đó là một phước lành."
+
+@21060 Amuro · アムロ
+> 「あれがジャイアント・ロボ……
+>  ではあの子が?」
+"Đó là Big Iron Man...vậy đó là đứa trẻ à?"
+
+@21061 Ginrei · 銀鈴
+> 「はい、ジャイアント・ロボの操縦を
+>  担当しています。大作くん」
+"Đúng vậy, hắn phụ trách điều khiển người sắt to lớn, hắn tên là Daizuo."
+
+@21062 Daisaku · 大作
+> 「草間大作です! よろしくお願い
+>  します!」
+"Tên tôi là Daisaku Kusama! Xin hãy chăm sóc tôi!"
+
+@21063 Koji · 甲児
+> 「なんだよ、ただのガキじゃねぇか」
+"Cái gì, hắn chỉ là một tên nhóc."
+
+@21064 Daisaku · 大作
+> 「ただのガキじゃありません。だいたいなんで
+>  すか、初対面の人間にいきなり
+“Tôi không phải một đứa trẻ bình thường, làm sao có thể đối xử với người mới gặp lần đầu?
+---
+>  そんなことをいうなんて、
+>  失礼じゃないですか?」
+Bạn không thấy nói điều này là thô lỗ sao? "
+
+@21065 Koji · 甲児
+> 「な……なにをぉ」
+"Ngươi... ngươi nói cái gì!"
+
+@21066 Sayaka · さやか
+> 「やめなさいよ、甲児くん。
+>  みっともないわよ。ごめんね、大作くん」
+"Đừng gây rắc rối nữa, Jia'er. Có xấu hổ không? Tôi xin lỗi, Dazuo."
+
+@21067 Daisaku · 大作
+> 「いえ、そんな……」
+"Không, không có gì..."
+
+@21068 Koji · 甲児
+> (くそっ、なんだよこのガキ……)
+(Chết tiệt, cái quái gì đang xảy ra với đứa trẻ này vậy...)
+
+@21069 Beltorchika · ベルトーチカ
+> 「敵接近。迎撃準備、急いで
+>  ください」
+“Kẻ thù đang đến gần. Hãy chuẩn bị tấn công nhanh chóng.”
+
+@21070 Banjo · 万丈
+> 「銀鈴、教授をアルビオンへ!」
+"Silver Bell, gửi giáo sư đến Albion!"
+
+@21071 Ginrei · 銀鈴
+> 「はいっ!」
+"Vâng!"
+
+@21072 Boryuki · 暴竜鬼
+> 「ふふふ、俺はついているな。奴らを
+>  追ってきて正解だったようだ」
+"Hehehe, tôi thật may mắn, đuổi theo bọn họ tới đây là đúng."
+
+@21073 Ryoma · リョウ
+> 「百鬼一族か!?」
+“Có phải là tộc Bách Quỷ không!?”
+
+@21074 Boryuki · 暴竜鬼
+> 「そうだ。俺の名は暴竜鬼!」
+"Đúng vậy. Tên tôi là Tyrannosaurus Ghost!"
+
+@21075 Hayato · ハヤト
+> 「この声は……」
+"Âm thanh này là..."
+
+@21076 Boryuki · 暴竜鬼
+> 「やれっ! 奴らをたたきつぶせ!」
+"Đi! Đập tan chúng thành từng mảnh!"
+
+@21077 Hayato · ハヤト
+> 「間違いない……イサム、お前はイサム
+>  じゃないのか!?」
+"Đúng vậy... Yong, cậu có phải là Yong không!?"
+
+@21078 Boryuki · 暴竜鬼
+> 「お前……隼人か!?」
+"Anh... Hayato!?"
+
+@21079 Hayato · ハヤト
+> 「やはりイサムか。なぜお前が
+>  こんなことを!?」
+"Anh đúng là Yong. Tại sao anh lại làm như vậy!?"
+
+@21080 Boryuki · 暴竜鬼
+> 「オレはもうイサムじゃない。
+>  暴竜鬼だ。オレは自ら望んで
+"Ta không còn là Yong, ta là Tyrannosaurus quỷ, chính ta muốn."
+---
+>  暴竜鬼になったのだ!」
+Hãy là một con ma tyrannosaurus! "
+
+@21081 Hayato · ハヤト
+> 「本当に鬼になったというのか!?」
+"Bạn thực sự đã trở thành một con ma!?"
+
+@21082 Boryuki · 暴竜鬼
+> 「そうだ! 人には、それぞれの生き方
+>  がある。こんな時代だ。誰にも
+"Đúng vậy! Mỗi người đều có cách sống riêng của mình. Ở thời đại này, không ai có thể nghĩ
+---
+>  文句などいわせない!」
+Hãy cho tôi biết phải làm gì! "
+
+@21083 Hayato · ハヤト
+> 「イサム!」
+"Yong!"
+
+@21084 Boryuki · 暴竜鬼
+> 「隼人、お前には、お前の生き方
+>  があるように、俺には俺の道がある!
+"Hayato, anh có cách sống của anh, tôi cũng có cách sống của tôi!
+---
+>  邪魔だてするというのなら、
+>  お前も倒す!」
+Nếu ngươi dám cản đường, ta cũng sẽ đánh ngã ngươi! "
+
+@21085 Hayato · ハヤト
+> 「イサム、自分のしていることが
+>  いいことか、悪いことかの判断を
+“Yong, việc anh làm là đúng hay sai,
+---
+>  間違えないでくれ!」
+Nhưng đừng hiểu lầm! "
+
+@21086 Boryuki · 暴竜鬼
+> 「それは戦いが決めてくれる。
+>  勝った者が正義で
+"Điều đó sẽ được quyết định bằng trận chiến. Người chiến thắng là công lý,
+---
+>  負けた者が邪悪になるのだ。
+>  いくぞ!」
+Kẻ thua cuộc là kẻ ác. Cố lên! "
+
+@21087 Hayato · ハヤト
+> 「イサム、やめるんだ、イサム!!」
+"Yong, dừng lại, Yong!!"
+
+@21088 Boryuki · 暴竜鬼
+> 「邪魔をするな! 俺は勝つ!
+>  勝ってすべてを手に入れる!」
+"Đừng cản đường! Tôi muốn thắng! Nếu tôi thắng, tôi sẽ có được tất cả!"
+
+@21089 Hayato · ハヤト
+> 「イサム、やめるんだ、イサム!!」
+"Yong, dừng lại, Yong!!"
+
+@21090 Boryuki · 暴竜鬼
+> 「邪魔をするな! 俺は勝つ!
+>  勝ってすべてを手に入れる!」
+"Đừng cản đường! Tôi muốn thắng! Nếu tôi thắng, tôi sẽ có được tất cả!"
+
+@21091 Hayato · ハヤト
+> 「イサム、やめるんだ、イサム!!」
+"Yong, dừng lại, Yong!!"
+
+@21092 Boryuki · 暴竜鬼
+> 「邪魔をするな! 俺は勝つ!
+>  勝ってすべてを手に入れる!」
+"Đừng cản đường! Tôi muốn thắng! Nếu tôi thắng, tôi sẽ có được tất cả!"
+
+@21093 Boryuki · 暴竜鬼
+> 「うおぉぉぉぉっ!?
+>  い、いやだ、俺は負けたくない……」
+"Uh ồ ồ ồ ồ ồ!? Không, không, tôi không muốn thua..."
+
+@21094 Hayato · ハヤト
+> 「くっ……イサム……バカヤロウが……」
+"Ờ...Yong...đồ khốn kiếp..."
+
+@21095 Hayato · ハヤト
+> 「くっ……イサム……バカヤロウが……」
+"Ờ...Yong...đồ khốn kiếp..."
+
+@21096 Hayato · ハヤト
+> 「くっ……イサム……バカヤロウが……」
+"Ờ...Yong...đồ khốn kiếp..."
+
+@21097 Hayato · ハヤト
+> 「イサム……イサム!!」
+"Yong...yong!!"
+
+@21098 Boryuki · 暴竜鬼
+> 「は……隼人か。俺が、ばかだったんだ
+>  奴ら、A級市民への登録や
+"Hyaka... Hayato? Là tôi đây, tôi quá ngu ngốc. Những kẻ đó có trình độ công dân hạng A và
+---
+>  金をエサに、俺たちみたいのを
+>  集めて、改造手術で
+Tiền được dùng làm mồi nhử để gắn kết những người như chúng tôi lại với nhau và sử dụng phẫu thuật tái tạo
+---
+>  鬼兵士にしていやがった」
+Biến chúng ta thành những người lính ma. "
+
+@21099 Hayato · ハヤト
+> 「もうしゃべるな」
+"Đừng nói nữa."
+
+@21100 Boryuki · 暴竜鬼
+> 「俺は……金と力がほしかった……
+>  そうすれば帝国軍にだって
+“Tôi...tôi muốn tiền và quyền lực...Với những thứ đó, ngay cả Quân đội Hoàng gia cũng có thể
+---
+>  好きにやられずにすむ……」
+Bạn không thể tùy tiện bắt nạt chúng tôi… ”
+
+@21101 Hayato · ハヤト
+> 「イサム、しっかりしろ!」
+"Yong, chờ đã!"
+
+@21102 Boryuki · 暴竜鬼
+> 「い……いやだ、鬼なんて。せめて……
+>  人間に戻って死にたかった……」
+"Không... không, tôi không muốn làm ma. Ít nhất... tôi muốn trở lại thành người và chết..."
+
+@21103 Hayato · ハヤト
+> 「お前は人間だ。おれの友達だ、
+>  イサム」
+"Bạn là con người. Bạn của tôi, Yong."
+
+@21104 Boryuki · 暴竜鬼
+> 「は……隼人……だけど……
+>  つ、角が………」
+"Falcon...Hayato...nhưng...tôi, cái sừng của tôi..."
+
+@21105 Hayato · ハヤト
+> 「バカだな、角なんかどこにもないぜ、
+>  イサム。お前は正真正銘の……
+"Anh đang nói vớ vẩn gì vậy? Yong. Anh đúng là người thật đấy...
+---
+>  人間だ」
+mọi người. "
+
+@21106 Boryuki · 暴竜鬼
+> 「は……やと……俺は……」
+"Ha...Hayato...tôi..."
+
+@21107 Hayato · ハヤト
+> 「くっ……イサム……。帝国、そして
+>  百鬼一族め。おれは絶対に
+"Chà... Yong... đế chế và tộc Bách Quỷ. Tôi sẽ không bao giờ
+---
+>  貴様らを許さんぞ!」
+Hãy tha cho bạn! "
+
+@21108 Brad · ブラッド（按段落 3DD3）
+> 「やーれやれ、やっと終わったか」
+“Ồ, cuối cùng cũng xong rồi.”
+
+@21109 Domon · ドモン
+> 「フッ……{HeroFull}、
+>  ナイスガイ」
+"Hmph...{HeroFull}, cậu bé ngoan."
+
+@21110 Brad · ブラッド（按段落 3DD3）
+> 「あんたもな、ドモン・カッシュ。
+>  気に入ったぜ」
+"Anh cũng không tệ, Domon Kashu. Tôi thích anh."
+
+@21111 Bright · ブライト
+> 「貴様ら、自分たちのおかれている
+>  状況を理解しているのか!?
+"Các bạn có hiểu mình đang ở trong tình huống nào không!?
+---
+>  今後、あんな勝手なマネは
+>  許さんぞ!」
+Từ giờ trở đi, bạn sẽ không bao giờ được phép tự ý hành động như thế này nữa! "
+
+@21112 Brad · ブラッド（按段落 3DD3）
+> 「ちっ、わかったよ。
+>  だがよ、艦長さん……」
+"Chậc, tôi hiểu rồi. Nhưng, thưa thuyền trưởng..."
+
+@21113 Domon · ドモン
+> 「やめとけ、{HeroNick}。
+>  しょせん拳の心が、わからぬ者には
+"Quên đi, {HeroNick}. Nói chuyện với những người không hiểu trái tim của nắm đấm.
+---
+>  いってもムダだ」
+Tất cả chỉ là lãng phí lời nói. "
+
+@21114 Bright · ブライト
+> 「なんだと、貴様!」
+"Anh nói gì thế, anh bạn!"
+
+@21115 Rain · レイン
+> 「やめなさいドモン!!
+>  すみません、ブライト艦長
+"Dừng lại đi, Domon!! Tôi xin lỗi, Thuyền trưởng Bright,
+---
+>  私がよくいって聞かせますから。
+>  ドモン、デビルガンダムを見つける前に
+Tôi sẽ nói tốt về anh ấy. Domon, tôi vẫn chưa tìm thấy Demon Gundunda.
+---
+>  帝国にやられちゃってもいいの!?」
+Sẽ không thành vấn đề với bạn nếu bạn bị đế chế giết trước! ? "
+
+@21116 Domon · ドモン
+> 「……わかったよ、レイン」
+"...Tôi biết, Ling. "
+
+@21117 Bright · ブライト
+> 「……とにかく我々のまわりは敵ばかり
+>  なのだということは、覚えておけ」
+“…Dù sao thì, hãy nhớ rằng, chúng ta đang bị bao vây bởi kẻ thù. "
+
+@21118 Koji · 甲児
+> 「ちっ、こんな地道なことは他の奴に
+>  やらせりゃいいんだ。なんで俺が
+“Chậc, sao chúng ta không để người khác làm công việc vất vả này nhỉ? Tại sao nhất thiết phải là tôi
+---
+>  こんなガレキの中を走りまわらなけりゃ
+>  ならないんだよ、まったく」
+Chạy loanh quanh trong đống đổ nát như vậy, đó là sự thật. "
+
+@21119 ???
+> 「キャーッ!!」
+"Ừ-! ! "
+
+@21120 Koji · 甲児
+> 「なんだぁ? ありゃ帝国の奴ら
+>  じゃねぇか。こんなところでふざけやがって
+"Có chuyện gì thế? Đó không phải là một chàng trai đến từ Đế quốc sao? Hành động liều lĩnh ở một nơi như thế này,
+---
+>  よーし、このやろうっ!」
+Được rồi - để xem tôi đối xử với bạn thế nào nhé! "
+
+@21121 Muge Soldier · ムゲ兵
+> 「うわっ退け、退けぇーっ!!」
+“Wow, tránh ra, tránh ra—! ! "
+
+@21122 Koji · 甲児
+> 「なんでぇ、あっさり逃げちまいやがんの。
+>  君、ケガはないかい?」
+"Chuyện gì đã xảy ra vậy? Anh cứ thế bỏ chạy. Cô gái, cô không bị thương à? "
+
+@21123 Erika · エリカ
+> 「ええ……ありがとう」
+"Ừm...cảm ơn bạn. "
+
+@21124 Koji · 甲児
+> 「それで、なんで奴らに追われてたんだ?」
+"Vậy tại sao bọn họ lại đuổi theo cậu? "
+
+@21125 Erika · エリカ
+> 「……わかりません」
+“…Tôi không biết. "
+
+@21126 Koji · 甲児
+> 「……名前は?」
+“…Tên cậu là gì? "
+
+@21127 Erika · エリカ
+> 「確か……エリカです」
+"Có vẻ như... Erica. "
+
+@21128 Koji · 甲児
+> 「確か? どういうことなんだ?」
+"Có vẻ như thế? Ý nghĩa là gì? "
+
+@21129 Erika · エリカ
+> 「私……なにもかも忘れてしまったの。
+>  なにもかも……」
+"Tôi...quên hết mọi thứ rồi. Tôi đã quên hết mọi thứ..."
+
+@21130 Boss · ボス
+> 「おーい、さやか、ビッグニュースだぜ」
+"Này——, Sayaka, tin tức lớn! "
+
+@21131 Sayaka · さやか
+> 「なんだ、ボスじゃないの。
+>  何なの、いったい?」
+"Cái gì, hóa ra là Boss. Chuyện gì đang xảy ra vậy? "
+
+@21132 Boss · ボス
+> 「ボスじゃないのぉなんてひでえや、さやか。
+>  それがよ、兜のやつが美人の娘を
+“Thật quá đáng khi nói ‘đó là Boss’, Sayaka. Nghe này, anh chàng Kabuto
+---
+>  連れてきたんだよ」
+Mang về một cô gái xinh đẹp. "
+
+@21133 Sayaka · さやか
+> 「娘? 美人!?」
+"Cô gái? đẹp! ? "
+
+@21134 Ryoma · リョウ
+> 「へぇ、甲児くんもなかなかやるもんだな」
+"Này, nhóc Jia'er đó khá giỏi đấy. "
+
+@21135 Sayaka · さやか
+> 「まさか。甲児くんは、
+>  およそ美人には縁のない顔よ
+"Làm sao có thể được? Khuôn mặt của Jia'er không liên quan gì đến vẻ đẹp.
+---
+>  この私が相手にしないのが、
+>  なによりの証拠でーす」
+Cô nương này không coi trọng anh ta, đó là bằng chứng tốt nhất——”
+
+@21136 Boss · ボス
+> 「それがなぜか、そうではないのでーす」
+"Nhưng bằng cách nào đó, lần này không phải như vậy -"
+
+@21137 Boss · ボス
+> 「な、なにするんだよ、さやかぁ」
+“C-cậu đang làm gì thế, Sayaka! "
+
+@21138 Sayaka · さやか
+> 「フン!」
+"Hừm! "

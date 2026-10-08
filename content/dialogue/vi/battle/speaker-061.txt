@@ -1,0 +1,175 @@
+# Bản dịch tiếng Việt Super Robot Wars 64
+# Định dạng và vị trí: docs/guide/dialogue-text.md
+
+@10981 Illia · イリア
+# Kích hoạt: Tấn công (Chung，1/12）
+> 「沈めっ!」
+"Bồn rửa!"
+
+@10982 Illia · イリア
+# Kích hoạt: Tấn công (Chung，2/12）
+> 「私が負けるはずないのだ!!」
+"Làm sao tôi có thể thua được!!"
+
+@10983 Illia · イリア
+# Kích hoạt: Tấn công (Chung，3/12）
+> 「もらった!!」
+"Thành công!!"
+
+@10984 Illia · イリア
+# Kích hoạt: Tấn công (Chung，4/12）
+> 「これで終わりだ!」
+"Chính là nó!"
+
+@10985 Illia · イリア
+# Kích hoạt: Tấn công (Chung，5/12）
+> 「とどめっ!」
+"Kết thúc đi anh!"
+
+@10986 Illia · イリア
+# Kích hoạt: Tấn công (Chung，6/12）
+> 「ここまでだっ!」
+"Chính là nó!"
+
+@10987 Illia · イリア
+# Kích hoạt: Tấn công (Chung，7/12）
+> 「さあ、どこを狙って欲しい?」
+"Này, cậu muốn tôi đánh vào đâu?"
+
+@10988 Illia · イリア
+# Kích hoạt: Tấn công (Chung，8/12）
+> 「死になっ!」
+"Đi xuống địa ngục đi!"
+
+@10989 Illia · イリア
+# Kích hoạt: Tấn công (Chung，9/12）
+> 「消えろっ!」
+"Biến mất!"
+
+@10990 Illia · イリア
+# Kích hoạt: Tấn công (Chung，10/12）
+> 「フフッいいエサだな」
+"Ha ha, thịt mỡ giao tới tận nhà."
+
+@10991 Illia · イリア
+# Kích hoạt: Tấn công (Chung，11/12）
+> 「何ぼやぼやしてるのさ!?」
+“Anh đang lảm nhảm cái gì vậy!?”
+
+@10992 Illia · イリア
+# Kích hoạt: Tấn công (Chung，12/12）
+> 「私は誰にも負けない!」
+"Tôi sẽ không thua bất cứ ai!"
+
+@10993 Illia · イリア
+# Kích hoạt: 被击坠（通用，1/2）
+> 「何っ!? やられた!?」
+"Cái gì!? Tôi đã bị bắn hạ!?"
+
+@10994 Illia · イリア
+# Kích hoạt: 被击坠（通用，2/2）
+> 「なんだと!? 直撃かっ!?」
+"Cái gì!? Một đòn trực tiếp!?"
+
+@10995 Illia · イリア
+# Kích hoạt: 重伤（剩余 HP 不足 30%）（通用，1/3）
+> 「くうううっ! き、貴様などにっ!!」
+"Uh-huh! Tôi đã rơi vào tay kẻ như anh rồi!!"
+
+@10996 Illia · イリア
+# Kích hoạt: 重伤（剩余 HP 不足 30%）（通用，2/3）
+> 「あううっ! バ、バカな、押されて
+>  いるのか!?」
+"À ừm! Không, không thể nào được, tôi đang bị đàn áp!?"
+
+@10997 Illia · イリア
+# Kích hoạt: 重伤（剩余 HP 不足 30%）（通用，3/3）
+> 「な……なんてパワーだ、こいつっ!」
+“Cái…tên này có sức mạnh như thế nào vậy!”
+
+@10998 Illia · イリア
+# Kích hoạt: 中伤（剩余 HP 30–90%）（通用，1/3）
+> 「ちいっ! やるじゃないか!」
+"Tsk! Hãy thử xem!"
+
+@10999 Illia · イリア
+# Kích hoạt: 中伤（剩余 HP 30–90%）（通用，2/3）
+> 「くっ! そんなことで、この私は
+>  やられやしないよ!」
+"Hmm! Bạn không thể đánh bại tôi ở cấp độ này!"
+
+@11000 Illia · イリア
+# Kích hoạt: 中伤（剩余 HP 30–90%）（通用，3/3）
+> 「うっ! 私に当てた!?
+>  上等じゃないか!」
+"Hmm! Đánh tôi đi!? Được rồi, đúng như những gì tôi muốn!"
+
+@11001 Illia · イリア
+# Kích hoạt: 轻伤（剩余 HP 90% 以上）（通用，1/5）
+> 「その程度か!」
+"Đây là tất cả những gì bạn có thể làm?"
+
+@11002 Illia · イリア
+# Kích hoạt: 轻伤（剩余 HP 90% 以上）（通用，2/5）
+> 「ふん、情けない……そんなものか!」
+"Hừm, ngươi thật sự vô dụng... ngươi chỉ có bấy nhiêu thôi!"
+
+@11003 Illia · イリア
+# Kích hoạt: 轻伤（剩余 HP 90% 以上）（通用，3/5）
+> 「相手にならんな」
+"Ngươi không xứng làm đối thủ của ta."
+
+@11004 Illia · イリア
+# Kích hoạt: 轻伤（剩余 HP 90% 以上）（通用，4/5）
+> 「なんて戦い方だ! ばかにするな!」
+"Đây là loại chiến lược gì vậy! Đừng đánh giá thấp mọi người!"
+
+@11005 Illia · イリア
+# Kích hoạt: 轻伤（剩余 HP 90% 以上）（通用，5/5）
+> 「なんだ? なめているのか!?」
+"Cái gì? Bạn có coi thường mọi người không!?"
+
+@11006 Illia · イリア
+# Kích hoạt: Né tránh（通用，1/5）
+> 「どこを見てるんだよ!!」
+"Bạn đang tìm kiếm ở đâu vậy!!"
+
+@11007 Illia · イリア
+# Kích hoạt: Né tránh（通用，2/5）
+> 「どこを狙っている!」
+"Ngươi nhắm vào đâu!"
+
+@11008 Illia · イリア
+# Kích hoạt: Né tránh（通用，3/5）
+> 「遅いんだよっ!」
+"Quá chậm!"
+
+@11009 Illia · イリア
+# Kích hoạt: Né tránh（通用，4/5）
+> 「甘いなっ!」
+"Thật ngây thơ!"
+
+@11010 Illia · イリア
+# Kích hoạt: Né tránh（通用，5/5）
+> 「あたるものかっ!」
+"Làm sao có thể đánh trúng!"
+
+@11011 Illia · イリア
+# Kích hoạt: Tấn công无效（护罩／装甲）（通用，1/2）
+> 「ムダなのさ!」
+"Tất cả đều vô ích!"
+
+@11012 Illia · イリア
+# Kích hoạt: Tấn công无效（护罩／装甲）（通用，2/2）
+> 「効かないんだよ!」
+"Nó không có tác dụng gì cả!"
+
+@11013 Illia · イリア
+# Kích hoạt: 弹药／EN 不足，无法反击（通用，1/1）
+> 「ちっ、弾切れとは……」
+“Chậc, tôi thực sự đã hết đạn rồi…”
+
+@11014 Illia · イリア
+# Kích hoạt: 射程外，无法反击（通用，1/1）
+> 「くっ! 届かんのか!」
+"Hừm! Không thể với tới được!"

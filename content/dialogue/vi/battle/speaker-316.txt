@@ -1,0 +1,112 @@
+# Bản dịch tiếng Việt Super Robot Wars 64
+# Định dạng và vị trí: docs/guide/dialogue-text.md
+
+@14205 Hamilton · ハミルトン
+# Kích hoạt: Tấn công (Chung，1/4）
+> 「………………!!」
+“………!!”
+
+@14206 Hamilton · ハミルトン
+# Kích hoạt: Tấn công (Chung，2/4）
+> 「グオオォォォッ!」
+"Goooooooo!"
+
+@14207 Hamilton · ハミルトン
+# Kích hoạt: Tấn công (Chung，3/4）
+> 「ガアァァッ!」
+"Gahah!"
+
+@14208 Hamilton · ハミルトン
+# Kích hoạt: Tấn công (Chung，4/4）
+> 「………………」
+"..."
+
+@14209 Hamilton · ハミルトン
+# Kích hoạt: 被击坠（通用，1/2）
+> 「グギャアァァァァッ!」
+"Googaahhh!"
+
+@14210 Hamilton · ハミルトン
+# Kích hoạt: 被击坠（通用，2/2）
+> 「ギエェェェェェーッ!!」
+“Chieeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeee
+
+@14211 Hamilton · ハミルトン
+# Kích hoạt: 重伤（剩余 HP 不足 30%）（通用，1/4）
+> 「……!!」
+"...!!"
+
+@14212 Hamilton · ハミルトン
+# Kích hoạt: 重伤（剩余 HP 不足 30%）（通用，2/4）
+> 「グオオォォォッ!」
+"Goooooooo!"
+
+@14213 Hamilton · ハミルトン
+# Kích hoạt: 重伤（剩余 HP 不足 30%）（通用，3/4）
+> 「ガアァァッ!」
+"Gahah!"
+
+@14214 Hamilton · ハミルトン
+# Kích hoạt: 重伤（剩余 HP 不足 30%）（通用，4/4）
+> 「………!!!!」
+"...!!!!"
+
+@14215 Hamilton · ハミルトン
+# Kích hoạt: 中伤（剩余 HP 30–90%）（通用，1/4）
+> 「……!!」
+"...!!"
+
+@14216 Hamilton · ハミルトン
+# Kích hoạt: 中伤（剩余 HP 30–90%）（通用，2/4）
+> 「ウゥゥゥゥゥッ!」
+"Uuuuuuuuuuuuuuuuuuu!"
+
+@14217 Hamilton · ハミルトン
+# Kích hoạt: 中伤（剩余 HP 30–90%）（通用，3/4）
+> 「ガアァァッ!」
+"Gahah!"
+
+@14218 Hamilton · ハミルトン
+# Kích hoạt: 中伤（剩余 HP 30–90%）（通用，4/4）
+> 「………………!?」
+"...!?"
+
+@14219 Hamilton · ハミルトン
+# Kích hoạt: 轻伤（剩余 HP 90% 以上）（通用，1/4）
+> 「……!!」
+"...!!"
+
+@14220 Hamilton · ハミルトン
+# Kích hoạt: 轻伤（剩余 HP 90% 以上）（通用，2/4）
+> 「!!!!」
+"!!!"
+
+@14221 Hamilton · ハミルトン
+# Kích hoạt: 轻伤（剩余 HP 90% 以上）（通用，3/4）
+> 「…………」
+"..."
+
+@14222 Hamilton · ハミルトン
+# Kích hoạt: 轻伤（剩余 HP 90% 以上）（通用，4/4）
+> 「………………!?」
+"...!?"
+
+@14223 Hamilton · ハミルトン
+# Kích hoạt: Né tránh（通用，1/1）
+> 「…………」
+"..."
+
+@14224 Hamilton · ハミルトン
+# Kích hoạt: Tấn công无效（护罩／装甲）（通用，1/1）
+> 「…………」
+"..."
+
+@14225 Hamilton · ハミルトン
+# Kích hoạt: 弹药／EN 不足，无法反击（通用，1/1）
+> 「…………」
+"..."
+
+@14226 Hamilton · ハミルトン
+# Kích hoạt: 射程外，无法反击（通用，1/1）
+> 「…………」
+"..."

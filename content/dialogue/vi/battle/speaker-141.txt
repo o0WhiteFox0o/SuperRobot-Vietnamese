@@ -1,0 +1,228 @@
+# Bản dịch tiếng Việt Super Robot Wars 64
+# Định dạng và vị trí: docs/guide/dialogue-text.md
+
+@7140 Emperor Zuul · ズール皇帝
+# Kích hoạt: Tấn công (Chung，1/15）
+> 「生かしては帰さぬ!」
+"Đừng nghĩ đến việc sống sót trở về!"
+
+@7141 Emperor Zuul · ズール皇帝
+# Kích hoạt: Tấn công (Chung，2/15）
+> 「フハハハハハハッ!」
+"Huhahahahahaha!"
+
+@7142 Emperor Zuul · ズール皇帝
+# Kích hoạt: Tấn công (Chung，3/15）
+> 「ばかめぇ!」
+"Đồ ngốc!"
+
+@7143 Emperor Zuul · ズール皇帝
+# Kích hoạt: Tấn công (Chung，4/15）
+> 「ハーッハッハッハッハッ!」
+"Ha-hahahahahaha!"
+
+@7144 Emperor Zuul · ズール皇帝
+# Kích hoạt: Tấn công (Chung，5/15）
+> 「死ねぃ!」
+"Đi xuống địa ngục đi!"
+
+@7145 Emperor Zuul · ズール皇帝
+# Kích hoạt: Tấn công (Chung，6/15）
+> 「フハッ、ハハハハハッ!」
+"Ha ha, ha ha ha!"
+
+@7146 Emperor Zuul · ズール皇帝
+# Kích hoạt: Tấn công (Chung，7/15）
+> 「あきらめの悪い奴めっ!」
+"Người không bỏ cuộc!"
+
+@7147 Emperor Zuul · ズール皇帝
+# Kích hoạt: Tấn công (Chung，8/15）
+> 「しぶとい奴め!」
+"Cuộc sống thật khó khăn!"
+
+@7148 Emperor Zuul · ズール皇帝
+# Kích hoạt: Tấn công (Chung，9/15）
+> 「ワシの力を思い知るがいい!」
+"Hãy tận dụng sức mạnh của tôi!"
+
+@7149 Emperor Zuul · ズール皇帝
+# Kích hoạt: Tấn công (Chung，10/15）
+> 「おそれを知らぬ奴め!」
+“Thứ không biết trời cao!”
+
+@7150 Emperor Zuul · ズール皇帝
+# Kích hoạt: Tấn công (Chung，11/15）
+> 「死んで自分の愚かさをしれ!」
+"Khi chết bạn sẽ nhận ra mình ngu ngốc đến thế nào!"
+
+@7151 Emperor Zuul · ズール皇帝
+# Kích hoạt: Tấn công (Chung，12/15）
+> 「宇宙に生きる命はワシあっての
+>  命だ!」
+"Tất cả chúng sinh trong vũ trụ đều tồn tại nhờ có tôi!"
+
+@7152 Emperor Zuul · ズール皇帝
+# Kích hoạt: Tấn công (Chung，13/15）
+> 「自分の無力を思い知れ!」
+"Nhận ra bạn bất lực đến mức nào!"
+
+@7153 Emperor Zuul · ズール皇帝
+# Kích hoạt: Tấn công (Chung，14/15）
+> 「死ぬがいい、ムシケラども!」
+“Xuống địa ngục đi, lũ kiến!”
+
+@7154 Emperor Zuul · ズール皇帝
+# Kích hoạt: Tấn công (Chung，15/15）
+> 「ワシは宇宙の帝王だ!!」
+"Ta là hoàng đế của vũ trụ!!"
+
+@7155 Emperor Zuul · ズール皇帝
+# Kích hoạt: 被击坠（通用，1/2）
+> 「なんだと!? こんなばかなぁぁぁぁ」
+"Cái gì!? Làm sao chuyện này có thể xảy ra được?"
+
+@7156 Emperor Zuul · ズール皇帝
+# Kích hoạt: 被击坠（通用，2/2）
+> 「な、なんだとぉぉぉぉ!?」
+"C-cái gì ahhh!?"
+
+@7157 Emperor Zuul · ズール皇帝
+# Kích hoạt: 重伤（剩余 HP 不足 30%）（通用，1/4）
+> 「ぐぅぅ、ワシは死なんぞ!」
+"Không, không, tôi sẽ không bao giờ chết!"
+
+@7158 Emperor Zuul · ズール皇帝
+# Kích hoạt: 重伤（剩余 HP 不足 30%）（通用，2/4）
+> 「うおぉぉぉぉぁぁ!?」
+"Uuuuuuuuuuuuuuuuuuuuu!?"
+
+@7159 Emperor Zuul · ズール皇帝
+# Kích hoạt: 重伤（剩余 HP 不足 30%）（通用，3/4）
+> 「うおぉぉ!? 許さんぞこの
+>  ムシケラどもがぁっ!」
+"Oooh!? Ta không tha cho ngươi đâu, lũ kiến!"
+
+@7160 Emperor Zuul · ズール皇帝
+# Kích hoạt: 重伤（剩余 HP 不足 30%）（通用，4/4）
+> 「ぬうぅぅ許さん、許さんぞ!!」
+"Ừm, tôi không thể tha thứ cho anh, tôi không thể tha thứ cho anh!!"
+
+@7161 Emperor Zuul · ズール皇帝
+# Kích hoạt: 中伤（剩余 HP 30–90%）（通用，1/7）
+> 「ぬぅおぅぁぁっ!」
+"Ồ ồ ồ ồ!"
+
+@7162 Emperor Zuul · ズール皇帝
+# Kích hoạt: 中伤（剩余 HP 30–90%）（通用，2/7）
+> 「なに!?」
+"Cái gì!?"
+
+@7163 Emperor Zuul · ズール皇帝
+# Kích hoạt: 中伤（剩余 HP 30–90%）（通用，3/7）
+> 「ぐぅっ、よくもこのワシに
+>  逆らいおったな!」
+"Ồ, sao ngươi dám không vâng lời ta!"
+
+@7164 Emperor Zuul · ズール皇帝
+# Kích hoạt: 中伤（剩余 HP 30–90%）（通用，4/7）
+> 「おおぉっ!?」
+"Ồ!?"
+
+@7165 Emperor Zuul · ズール皇帝
+# Kích hoạt: 中伤（剩余 HP 30–90%）（通用，5/7）
+> 「ぬぅっこしゃくな!」
+"Chà, thật là tự phụ!"
+
+@7166 Emperor Zuul · ズール皇帝
+# Kích hoạt: 中伤（剩余 HP 30–90%）（通用，6/7）
+> 「ムシケラがぁ!」
+"Đồ kiến!"
+
+@7167 Emperor Zuul · ズール皇帝
+# Kích hoạt: 中伤（剩余 HP 30–90%）（通用，7/7）
+> 「おのれ! 生かしては帰さん!」
+"Chết tiệt! Đừng nghĩ đến việc sống sót trở về!"
+
+@7168 Emperor Zuul · ズール皇帝
+# Kích hoạt: 轻伤（剩余 HP 90% 以上）（通用，1/3）
+> 「フハハハハ、効かぬわ!」
+"Huhahahahaha, không đau cũng không ngứa!"
+
+@7169 Emperor Zuul · ズール皇帝
+# Kích hoạt: 轻伤（剩余 HP 90% 以上）（通用，2/3）
+> 「愚か者めがぁ!」
+"Đồ ngu ngốc! "
+
+@7170 Emperor Zuul · ズール皇帝
+# Kích hoạt: 轻伤（剩余 HP 90% 以上）（通用，3/3）
+> 「お前の力はそんなものか」
+“Đây là toàn bộ sức mạnh của cậu à?”
+
+@7171 Emperor Zuul · ズール皇帝
+# Kích hoạt: Né tránh（通用，1/2）
+> 「そんなものでワシが倒せるとでも
+>  思うのか!?」
+"Với thứ như thế này, bạn có nghĩ rằng bạn có thể đánh bại tôi không!?"
+
+@7172 Emperor Zuul · ズール皇帝
+# Kích hoạt: Né tránh（通用，2/2）
+> 「フッハッハッハッ」
+"Huhahahahahaha"
+
+@7173 Emperor Zuul · ズール皇帝
+# Kích hoạt: Tấn công无效（护罩／装甲）（通用，1/3）
+> 「ハハハハ、ムシケラが」
+"Hahahaha, chỉ là một con kiến thôi"
+
+@7174 Emperor Zuul · ズール皇帝
+# Kích hoạt: Tấn công无效（护罩／装甲）（通用，2/3）
+> 「フハハハハッ、このワシにはきかんぞ」
+"Huhahahaha, nó không có tác dụng với tôi."
+
+@7175 Emperor Zuul · ズール皇帝
+# Kích hoạt: Tấn công无效（护罩／装甲）（通用，3/3）
+> 「ハーッハッハッハッハッ!!」
+"Ha-hahahahahahaha!!"
+
+@7176 Emperor Zuul · ズール皇帝
+# Kích hoạt: 弹药／EN 不足，无法反击（通用，1/1）
+> 「ばかな!? このワシがっ!」
+"Không thể nào!? Thực sự là có!"
+
+@7177 Emperor Zuul · ズール皇帝
+# Kích hoạt: 射程外，无法反击（通用，1/1）
+> 「なんと、届かぬというのか!?
+>  おのれぃ!」
+"Cái gì, ngươi không thể đánh ta!? Chết tiệt!"
+
+@14413 Emperor Zuul · ズール皇帝
+# Kích hoạt: 对手驾驶员〈タケル〉
+> 「マーズ! 裏切り者は死ね!」
+"Sao Hỏa! Kẻ phản bội phải chết!"
+
+@14414 Emperor Zuul · ズール皇帝
+# Kích hoạt: 对手驾驶员〈タケル〉
+> 「ワシに逆らった者は死ぬのだ、
+>  マーズ!」
+"Những ai không vâng lời tôi sẽ chết, Mars!"
+
+@14415 Emperor Zuul · ズール皇帝
+# Kích hoạt: 对手驾驶员〈タケル〉
+> 「あきらめの悪い奴めっ!」
+"Người không bỏ cuộc!"
+
+@14416 Emperor Zuul · ズール皇帝
+# Kích hoạt: 对手驾驶员〈タケル〉
+> 「生かしては帰さぬ!」
+"Đừng nghĩ đến việc sống sót trở về!"
+
+@14417 Emperor Zuul · ズール皇帝
+# Kích hoạt: 对手驾驶员〈タケル〉
+> 「フハハハハハハッ!」
+"Huhahahahahaha!"
+
+@14418 Emperor Zuul · ズール皇帝
+# Kích hoạt: 对手驾驶员〈タケル〉
+> 「ばかめぇ!」
+"Đồ ngốc!"

@@ -1,0 +1,194 @@
+# Bản dịch tiếng Việt Super Robot Wars 64
+# Định dạng và vị trí: docs/guide/dialogue-text.md
+
+@8983 Fa · ファ
+# Kích hoạt: Tấn công (Chung，1/10）
+> 「落ちてっ!!」
+"Rớt nó đi!!"
+
+@8984 Fa · ファ
+# Kích hoạt: Tấn công (Chung，2/10）
+> 「そこっ!!」
+“Chính là nó!!”
+
+@8985 Fa · ファ
+# Kích hoạt: Tấn công (Chung，3/10）
+> 「やらせないっ!!」
+"Đừng cố gắng để thành công!!"
+
+@8986 Fa · ファ
+# Kích hoạt: Tấn công (Chung，4/10）
+> 「当たって!!」
+"Đánh!!"
+
+@8987 Fa · ファ
+# Kích hoạt: Tấn công (Chung，5/10）
+> 「これでっ!!」
+"Chỉ cần sử dụng thủ thuật này!!"
+
+@8988 Fa · ファ
+# Kích hoạt: Tấn công (Chung，6/10）
+> 「あたしだって、パイロットなんだから!!」
+"Tôi cũng là phi công!!"
+
+@8989 Fa · ファ
+# Kích hoạt: Tấn công (Chung，7/10）
+> 「このっ!」
+"Chết tiệt!"
+
+@8990 Fa · ファ
+# Kích hoạt: Tấn công (Chung，8/10）
+> 「当たれっ!」
+"Đánh!"
+
+@8991 Fa · ファ
+# Kích hoạt: Tấn công (Chung，9/10）
+> 「これならっ!」
+"Bây giờ là lúc đi đến trụ sở chính!"
+
+@8992 Fa · ファ
+# Kích hoạt: Tấn công (Chung，10/10）
+> 「やってみせるっ!」
+"Tôi sẽ làm điều đó cho bạn!"
+
+@8993 Fa · ファ
+# Kích hoạt: 被击坠（通用，1/2）
+> 「きゃあああっ!!」
+"Ahhhhhh!!"
+
+@8994 Fa · ファ
+# Kích hoạt: 被击坠（通用，2/2）
+> 「直撃!? カミーユ!!」
+"Đánh trực tiếp!? Camus!!"
+
+@8995 Fa · ファ
+# Kích hoạt: 重伤（剩余 HP 不足 30%）（通用，1/5）
+> 「ダメ、もうもたないっ!?」
+"Không, tôi không thể chịu đựng được nữa!?"
+
+@8996 Fa · ファ
+# Kích hoạt: 重伤（剩余 HP 不足 30%）（通用，2/5）
+> 「きゃあっ!! だ、ダメっ!!」
+"Ừ!! Không, không thể nào!!"
+
+@8997 Fa · ファ
+# Kích hoạt: 重伤（剩余 HP 不足 30%）（通用，3/5）
+> 「ううっ! こ、このままじゃ……」
+"UuuuuuuuuuuuuuuuuuuuuuuuuuuuuKuuuuuuuuuuuuuuuu"
+
+@8998 Fa · ファ
+# Kích hoạt: 重伤（剩余 HP 不足 30%）（通用，4/5）
+> 「あうっ! もうこれまで!? ダメっ!!」
+"Aww! Chuyện này đã kết thúc rồi sao!? Không thể nào!!"
+
+@8999 Fa · ファ
+# Kích hoạt: 重伤（剩余 HP 不足 30%）（通用，5/5）
+> 「ああっ!! パ、パワーダウンしている!?」
+"A! Động năng đang giảm dần!?"
+
+@9000 Fa · ファ
+# Kích hoạt: 中伤（剩余 HP 30–90%）（通用，1/5）
+> 「ま……まだよ、まだいけるっ!!」
+"Nó...nó vẫn chưa kết thúc, tôi vẫn có thể chiến đấu!!"
+
+@9001 Fa · ファ
+# Kích hoạt: 中伤（剩余 HP 30–90%）（通用，2/5）
+> 「あうっ! こ、この程度ならまだっ!」
+"Aww! Cái này, vết thương này còn có thể chịu đựng được!"
+
+@9002 Fa · ファ
+# Kích hoạt: 中伤（剩余 HP 30–90%）（通用，3/5）
+> 「あ、足手まといにはならないっ!」
+“T-tôi sẽ không giữ cậu lại đâu!”
+
+@9003 Fa · ファ
+# Kích hoạt: 中伤（剩余 HP 30–90%）（通用，4/5）
+> 「つっ! まだ、まだ戦える!」
+"Hmm! Tôi vẫn có thể chiến đấu!"
+
+@9004 Fa · ファ
+# Kích hoạt: 中伤（剩余 HP 30–90%）（通用，5/5）
+> 「きゃあっ! つ、強い……」
+"A! Mạnh quá..."
+
+@9005 Fa · ファ
+# Kích hoạt: 轻伤（剩余 HP 90% 以上）（通用，1/3）
+> 「大丈夫、かすっただけ!」
+"Không sao đâu, tôi chỉ xoa nó thôi!"
+
+@9006 Fa · ファ
+# Kích hoạt: 轻伤（剩余 HP 90% 以上）（通用，2/3）
+> 「くっ!
+>  よかった、大したダメージじゃないわ」
+"Ừm! May mắn thay, tổn thương không nghiêm trọng."
+
+@9007 Fa · ファ
+# Kích hoạt: 轻伤（剩余 HP 90% 以上）（通用，3/3）
+> 「当たった!? けど、この程度なら!」
+"Đánh!? Nhưng vết thương nhỏ này không sao cả!"
+
+@9008 Fa · ファ
+# Kích hoạt: Né tránh（通用，1/5）
+> 「かわせた!」
+"Tránh nó ra!"
+
+@9009 Fa · ファ
+# Kích hoạt: Né tránh（通用，2/5）
+> 「あ、当たるわけにはっ!!」
+“T-tôi không thể bị đánh được!!”
+
+@9010 Fa · ファ
+# Kích hoạt: Né tránh（通用，3/5）
+> 「外れた!? 外れて……くれた」
+"Bỏ lỡ!? Cuối cùng... bỏ lỡ."
+
+@9011 Fa · ファ
+# Kích hoạt: Né tránh（通用，4/5）
+> 「な、なんとか……」
+"Cuối cùng, cuối cùng..."
+
+@9012 Fa · ファ
+# Kích hoạt: Né tránh（通用，5/5）
+> 「来る……そこ!?」
+"Tới... chỗ đó!?"
+
+@9013 Fa · ファ
+# Kích hoạt: Tấn công无效（护罩／装甲）（通用，1/2）
+> 「ムダよ、そんなビームなんて!」
+"Loại chùm tia đó là vô dụng!"
+
+@9014 Fa · ファ
+# Kích hoạt: Tấn công无效（护罩／装甲）（通用，2/2）
+> 「そんなビームでやられるものですかっ!」
+“Không thể nào loại tia đó có thể hạ gục tôi được!”
+
+@9015 Fa · ファ
+# Kích hoạt: 弹药／EN 不足，无法反击（通用，1/1）
+> 「あ……弾切れ!?」
+"A...hết đạn rồi!?"
+
+@9016 Fa · ファ
+# Kích hoạt: 射程外，无法反击（通用，1/1）
+> 「ダメ、届かない!!」
+"Không, tôi không thể với tới nó!!"
+
+@14679 Fa · ファ
+# Kích hoạt: 使用〈ファンネル／マザーファンネル〉
+> 「ファンネルっ!」
+"Pháo bay!"
+
+@14680 Fa · ファ
+# Kích hoạt: 使用〈ファンネル／マザーファンネル〉
+> 「ファンネルっ! お願いっ!!」
+"Pháo nổi! Làm ơn!!"
+
+@14681 Fa · ファ
+# Kích hoạt: 使用〈フィンファンネル〉
+> 「行って! フィンファンネルっ!!」
+"Đi! Pháo nổi vây!!"
+
+@14682 Fa · ファ
+# Kích hoạt: 使用〈ハイメガキャノン〉（低优先，可能被通用台词顶掉）
+> 「エネルギー充填……
+>  いけっ! ハイメガキャノン!!」
+"Sạc năng lượng...bắn! Mega Cannon năng lượng cao!!"

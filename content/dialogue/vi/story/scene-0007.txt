@@ -1,0 +1,1061 @@
+# Bản dịch tiếng Việt Super Robot Wars 64
+# Định dạng và vị trí: docs/guide/dialogue-text.md
+
+@17972 Roux · ルー
+> 「カラバの破嵐万丈さんですね
+>  ライフのルー・ルカです」
+"Bạn là ông Polan Wanzhang từ Calabar, tôi là Lu Luka từ LIFE."
+
+@17973 Banjo · 万丈
+> 「ご苦労様。それでイゴール将軍の
+>  親書というのは?」
+"Cám ơn ngươi đã vất vả. Vậy thư riêng của Tướng Eagle đâu?"
+
+@17974 Roux · ルー
+> 「これです。どうぞ」
+"Đây. Xin hãy xem."
+
+@17975 Banjo · 万丈
+> 「ありがとう。…………」
+“Cảm ơn bạn.……….”
+
+@17976 Koji · 甲児
+> 「……なぁ、ライフってなんだ?」
+"...Tôi đã nói, CUỘC SỐNG là gì?"
+
+@17977 Brad · ブラッド（按段落 3DD3）
+> 「知らん。俺に聞くなよ」
+"Tôi không biết. Đừng hỏi tôi."
+
+@17978 Garrison · ギャリソン
+> 「地球解放戦線機構、
+>  つまり、
+"Tổ chức Mặt trận Giải phóng Trái đất, nghĩa là,
+---
+>  Liberation Front of
+>  the Earthの略称ですな
+Mặt trận Giải phóng Trái đất, viết tắt là CUỘC SỐNG.
+---
+>  スタッフの中でも特に
+>  実働部隊で好まれる
+Trong số các nhân viên, đặc biệt là trong quân đội thực chiến,
+---
+>  呼び方のようです」
+Có vẻ như anh ấy thích được gọi như vậy hơn. "
+
+@17979 Koji · 甲児
+> 「へぇ、さすが物知りですね」
+“Ồ, cậu biết nhiều quá.”
+
+@17980 Sayaka · さやか
+> 「カラバにいるくせに、甲児くんたち
+>  の方が知らなすぎるのよ」
+"Rõ ràng anh ấy đến từ Calabar, nhưng các bạn biết quá ít về anh ấy, Jia'er."
+
+@17981 Brad · ブラッド（按段落 3DD3）
+> 「そんなもの知らなくとも
+>  戦いに支障はない」
+“Chuyện đó cũng không ảnh hưởng tới chiến tranh.”
+
+@17982 Koji · 甲児
+> 「まったくだぜ」
+"Đúng vậy."
+
+@17983 Sayaka · さやか
+> 「……もう」
+"...Thật đấy."
+
+@17984 Simone · シモーヌ
+> 「あなたって、ほんと無知ね。
+>  地球解放戦線機構……
+"Bạn thật thiếu hiểu biết. Tổ chức Mặt trận Giải phóng Trái đất...
+---
+>  つまり、Liberation Front
+>  of the Earthの略称よ
+Đó là Mặt trận Giải phóng Trái đất, viết tắt là CUỘC SỐNG.
+---
+>  スタッフの中でも特に実働部隊
+>  で好まれる呼び方だわ」
+Trong số các nhân viên, đặc biệt là những người trong quân đội thực chiến, họ thích gọi như vậy hơn. "
+
+@17985 Koji · 甲児
+> 「ちぇっ、無知はないだろう、
+>  無知は」
+“Tch, gọi người ta là ngu dốt thì quá đáng rồi.”
+
+@17986 Sayaka · さやか
+> 「本当のことだもの、
+>  しょうがないじゃない」
+"Đó là sự thật. Tôi có thể làm gì được không?"
+
+@17987 Koji · 甲児
+> 「なにぃ」
+"Bạn đã nói gì!"
+
+@17988 Banjo · 万丈
+> 「……なるほど。ルー、君は
+>  この内容は知っているのか?」
+"...Tôi hiểu rồi. Lu, bạn có biết mọi thứ về chuyện này không?"
+
+@17989 Roux · ルー
+> 「ええ。そのために、このままこちらに
+>  合流して行動するように、
+"Vâng. Lời chỉ dẫn tôi nhận được là ở lại đây và gặp tất cả các bạn.
+---
+>  との指示を受けています。私の
+>  ジェガンも運び込んでもらってますから」
+Cùng nhau hành động. Quần jean của tôi cũng đã được chuyển đến rồi."
+
+@17990 Koji · 甲児
+> 「その、なんたら将軍っていうのは
+>  なんて言って来たんだ?」
+"Vị tướng đó đã nói gì?"
+
+@17991 Banjo · 万丈
+> 「コロニーのM作戦を
+>  キャッチしたので
+"Anh ta nói anh ta đã chặn hoạt động M của vệ tinh thuộc địa,
+---
+>  その実態調査に協同で
+>  あたりたいと言ってきている
+Tôi muốn hợp tác với chúng tôi để tìm ra sự thật.
+---
+>  地球解放戦線は
+>  この地域をカバーしていないからね」
+Suy cho cùng, khu vực này không nằm trong phạm vi hoạt động của Mặt trận Giải phóng Trái đất. "
+
+@17992 Roux · ルー
+> 「M作戦っていうのは、コロニーの
+>  一部過激派が遂行していると
+"Cái gọi là Chiến dịch M được cho là được thực hiện bởi một số kẻ cực đoan trong vệ tinh thuộc địa.
+---
+>  思われる計画で、簡単に言うと
+>  流星に偽装した新兵器を
+Kế hoạch, nói một cách đơn giản, là chế tạo một loại vũ khí mới cải trang thành một thiên thạch
+---
+>  地球へ投下して、破壊活動
+>  をさせようっていうものらしいわ」
+Rơi xuống Trái đất để thực hiện các hoạt động hủy diệt. "
+
+@17993 Banjo · 万丈
+> 「地球解放戦線機構は
+>  宇宙でも活動していると聞いたが
+“Tôi nghe nói tổ chức Mặt trận Giải phóng Trái đất cũng có hoạt động trong vũ trụ.
+---
+>  それでもその程度の情報しか
+>  つかめないとはね」
+Tôi không ngờ rằng tôi chỉ có thể tìm thấy thông tin nhỏ này. "
+
+@17994 Roux · ルー
+> 「我々が把握しているのはコロニーの
+>  ごく一部だけですからね。帝国の
+“Chúng ta chỉ có thể kiểm soát được một số vệ tinh thuộc địa.
+---
+>  監視が厳しくてコロニー間の
+>  連絡もほとんどとれないし、
+Việc giám sát rất chặt chẽ và việc liên lạc giữa các vệ tinh thuộc địa gần như không thể thực hiện được.
+---
+>  M作戦のグループは我々とまったく
+>  別のものですから、仕方ありませんよ」
+Những người chiến đấu với M hoàn toàn không cùng phe với chúng tôi, vì vậy chúng tôi không thể làm gì được. "
+
+@17995 Garrison · ギャリソン
+> 「確かに、今後の活動を考えれば
+>  敵か味方かだけでも確認して
+“Quả thực, xét đến những hành động trong tương lai, ít nhất chúng ta nên xác nhận.”
+---
+>  おきたいところですな」
+Bên kia là bạn hay thù. "
+
+@17996 Brad · ブラッド（按段落 3DD3）
+> 「はっ、敵だったらその場で
+>  叩きつぶしてやるさ
+“Hừm, nếu là kẻ thù thì cứ việc nghiền nát nó ngay tại chỗ.
+---
+>  いくんだろ、万丈?」
+Bạn có đi không, Vạn Chương? "
+
+@17997 Manami · マナミ（按段落 3DD4）
+> 「かなりの危険をおかして
+>  降下してくるんですもの
+"Họ đã phải chấp nhận rủi ro lớn để đi xuống.
+---
+>  きっと味方になってくれるわ」
+Họ chắc chắn sẽ đứng về phía chúng ta. "
+
+@17998 Simone · シモーヌ
+> 「そうだといいんだけど。宇宙は
+>  地上以上に混乱しているって
+"Tôi cũng hy vọng như vậy. Tôi nghe nói vũ trụ còn hỗn loạn hơn trái đất.
+---
+>  いう話だしね。結局、調査には
+>  いくんでしょ?」
+Rốt cuộc thì chúng ta vẫn phải điều tra, phải không? "
+
+@17999 Banjo · 万丈
+> 「ああ、そのつもりだ。ギャリソン、
+>  イゴール将軍に了解したと
+“Ừ, ý tôi là vậy đấy. Garrison, giao nó cho Tướng Eagle
+---
+>  電文を送ってくれ。それから、
+>  近隣地域に対宙監視を
+Bằng cách gửi báo cáo, điều đó có nghĩa là chúng tôi đồng ý. Ngoài ra, vui lòng ghé thăm các khu vực lân cận
+---
+>  強化してもらってくれ」
+Tăng cường giám sát không gian "
+
+@18000 Garrison · ギャリソン
+> 「かしこまりました」
+“Như đã ra lệnh.”
+
+@18001 Banjo · 万丈
+> 「さて、じゃあ僕たちは流星が落ちて
+>  くるのを待つとしようか」
+"Vậy chúng ta chờ thiên thạch rơi đi."
+
+@18002 Garrison · ギャリソン
+> 「万丈さま、ほぼ同時に大気圏
+>  へ突入すると思われる
+"Vạn Chương đại nhân, sáu vật thể nghi ngờ là thiên thạch đã được xác nhận.
+---
+>  隕石らしきものが6つ
+>  確認されたようです」
+Họ sẽ đi vào bầu khí quyển gần như đồng thời. "
+
+@18003 Banjo · 万丈
+> 「6つもか。よし、一番近いやつは
+>  どこへ落ちるか、確認してくれ」
+"Có sáu chiếc. Được rồi, hãy kiểm tra xem chiếc gần nhất sẽ hạ cánh ở đâu."
+
+@18004 Garrison · ギャリソン
+> 「モニターに出します」
+"Tôi đã đưa nó lên màn hình."
+
+@18005 Brad · ブラッド（按段落 3DD3）
+> 「例の奴が落ちてくるのか?」
+“Thứ đó sẽ rơi ra à?”
+
+@18006 Banjo · 万丈
+> 「ああ。この距離では落下には
+>  間に合わないが、すぐ出よう」
+"Ừ. Khoảng cách này sẽ không đủ lâu để nó hạ cánh, nhưng chúng ta sẽ khởi hành ngay."
+
+@18007 Brad · ブラッド（按段落 3DD3）
+> 「わかった。{PartnerName}……
+>  おい、{PartnerName}!」
+"Hiểu rồi. {PartnerName}...Này, {PartnerName}!"
+
+@18008 Kurtz · カーツ（按段落 3DD3）
+> 「……聞こえている。
+>  出るのだろう、わかっている」
+"...Tôi nghe thấy rồi. Đi thôi, tôi biết."
+
+@18009 Brad · ブラッド（按段落 3DD3）
+> 「……なんだよ、変な奴だな」
+"...Anh đang làm gì vậy? Đúng là một gã kỳ lạ."
+
+@18010 Manami · マナミ（按段落 3DD4）
+> 「いよいよね。
+>  一体、何が落ちてくるのかしら」
+"Cuối cùng thì cái gì sẽ rơi?"
+
+@18011 Simone · シモーヌ
+> 「さぁてね。でも万丈、この距離じゃ
+>  落下には間に合わないわよ」
+"Ai biết được. Nhưng nó chỉ cách có mười ngàn trượng thôi. Khoảng cách này không đuổi kịp nó khi hạ cánh."
+
+@18012 Banjo · 万丈
+> 「ま、しかたないさ。
+>  できるだけ急ごう」
+"Quên đi, chúng ta không thể làm được gì cả. Hãy cố gắng nhanh lên."
+
+@18013 Banjo · 万丈
+> 「ここが落下地点だな。
+>  ……やはり移動した後か」
+“Đây là điểm hạ cánh. ...Có vẻ như anh ấy đã rời đi.”
+
+@18014 Roux · ルー
+> 「見て、あんなに足跡がついてるわ。
+>  あれはモビルスーツのでしょ」
+“Nhìn kìa, có rất nhiều dấu chân. Chắc chắn chúng là do mobile suit để lại.”
+
+@18015 Koji · 甲児
+> 「なんだって? じゃあ、そんなに
+>  たくさんのモビルスーツが
+“Anh vừa nói gì cơ? Điều đó có nghĩa là có rất nhiều mobile suit
+---
+>  空から降ってきたっていうのか?」
+Từ trên trời rơi xuống? "
+
+@18016 Sayaka · さやか
+> 「違うわよ。落下した何かと
+>  モビルスーツの部隊が接触したって
+“Không đúng. Đó là thứ đã rơi và đơn vị mobile suit.
+---
+>  ことじゃないの」
+Đi qua nó. "
+
+@18017 Banjo · 万丈
+> 「そういうこと。残骸がない以上は
+>  敵に遭遇して撃破されたとは
+“Vậy thôi. Vì không có mảnh vỡ nào nên khó có khả năng nó trúng kẻ thù và bị phá hủy.
+---
+>  考えられないな。捕獲されたのか、
+>  仲間と合流したのか……」
+Liệu anh ta có bị bắt hay đã đoàn tụ với đồng đội của mình…”
+
+@18018 Roux · ルー
+> 「いずれにしても、
+>  いってみるしかないんじゃない?」
+"Dù thế nào đi nữa, tôi cũng chỉ có thể đi qua nhìn xem thôi phải không?"
+
+@18019 Banjo · 万丈
+> 「こちら万丈」
+"Tôi là Vạn Chương."
+
+@18020 Garrison · ギャリソン
+> 「その付近の帝国軍基地で
+>  戦闘が行われている模様です
+“Dường như có một trận chiến đang diễn ra ở căn cứ Quân đội Hoàng gia gần đó.
+---
+>  お気をつけて」
+Xin hãy cẩn thận. "
+
+@18021 Banjo · 万丈
+> 「了解。戦闘か……
+>  よし、いってみよう」
+"Hiểu rồi. Đang có chiến tranh à?...Được rồi, chúng ta hãy đi xem thử."
+
+@18022 Brad · ブラッド（按段落 3DD3）
+> 「帝国軍の基地だな?
+>  へっ、そうこなくてはな」
+"Đây có phải là căn cứ của Quân đội Hoàng gia không? Này, điều đó có lý đấy."
+
+@18023 Quatre · カトル
+> 「武器を捨てて投降しろ。
+>  命まで奪うとは言わない」
+"Bỏ vũ khí xuống và đầu hàng. Tôi sẽ không lấy mạng các bạn."
+
+@18024 Specials · スペシャルズ
+> 「ふざけやがって! くらえ!」
+"Bạn đang đùa tôi à! Hãy coi chừng trò lừa!"
+
+@18025 Quatre · カトル
+> 「こちらカトル、隊長機を破壊した
+>  これより敵基地をせん滅する
+“Tôi là một cartel, tôi đã phá hủy máy bay của thuyền trưởng và tiếp theo sẽ tiêu diệt căn cứ của kẻ thù.
+---
+>  ……言ったよ、
+>  僕は投降しろって……」
+…Rõ ràng là tôi đã bảo cậu đầu hàng rồi mà…”
+
+@18026 Rasid · ラシード
+> 「さすがですな、カトル様
+>  よぉしお前ら、ヘマすんじゃねぇぞ!」
+"Đúng như mong đợi của Master Cartel. Được rồi, các bạn, đừng làm hỏng chuyện!"
+
+@18027 Banjo · 万丈
+> 「帝国基地を
+>  攻撃している……?
+"Tấn công vào căn cứ Đế quốc...?
+---
+>  M作戦で降下したのは
+>  あのガンダムタイプか?」
+Có phải đó là loại GTA đã bị hạ cấp trong Chiến dịch M? "
+
+@18028 Koji · 甲児
+> 「どうするんだよ、万丈さん」
+"Chúng ta nên làm gì đây, ông Wan Zhang?"
+
+@18029 Rasid · ラシード
+> 「カトル様っ!」
+"Chủ nhân Cartel!"
+
+@18030 Quatre · カトル
+> 「しまった、新手か!?」
+"Ồ, đó là kẻ thù mới sao!?"
+
+@18031 Banjo · 万丈
+> 「僕はカラバの破嵐万丈だ。
+>  コロニーから降下したのは君か?
+"Tôi là Vùng đất tan vỡ Calabar. Bạn có phải là người đến từ vệ tinh thuộc địa không?
+---
+>  帝国軍と交戦している以上、
+>  敵とは思いたくないが?」
+Vì bạn đang chiến đấu với Quân đội Hoàng gia nên tôi không muốn coi bạn như kẻ thù, bạn nghĩ sao? "
+
+@18032 Quatre · カトル
+> (カラバ……
+>  確か地球の反帝国組織だ
+(Karabar...hãy nhớ rằng, đó là tổ chức chống đế quốc của Trái đất.
+---
+>  確かに彼らは僕のターゲット
+>  ではない…… だけど
+Họ thực sự không phải là mục tiêu của tôi...nhưng,
+---
+>  味方と判断するには
+>  情報が少なすぎる)
+Để kết luận rằng họ là lực lượng thân thiện thì vẫn còn quá ít thông tin...)
+
+@18033 Quatre · カトル
+> 「僕はカトル。
+>  カトル・ラバーバ・ウィナー
+"Tôi là Cartel. Người chiến thắng Cartel LaBarber.
+---
+>  確かに僕はコロニーから来ました。
+>  しかし、今は敵ではない、としか
+Tôi đến từ một thuộc địa. Tuy nhiên, tất cả những gì tôi có thể nói bây giờ là tôi không phải là kẻ thù.
+---
+>  言えません。邪魔はしないでください」
+Làm ơn đừng cản đường tôi. "
+
+@18034 Banjo · 万丈
+> 「了解した。邪魔はしないさ
+"Đã hiểu. Chúng tôi sẽ không cản đường bạn.
+---
+>  みんな、
+>  僕たちも基地を攻撃するぞ」
+Mọi người cũng hãy tấn công căn cứ nhé. "
+
+@18035 Brad · ブラッド（按段落 3DD3）
+> 「あの連中に協力するのか!?」
+"Bạn có muốn giúp đỡ những người đó không? ? "
+
+@18036 Banjo · 万丈
+> 「結果的には、さ。帝国軍の
+>  基地の1つをせん滅するチャンスだ
+"Hóa ra là vậy. Đây là cơ hội để tiêu diệt một căn cứ quân sự của Đế quốc.
+---
+>  有効に利用したい」
+Phải tận dụng tốt nó. "
+
+@18037 Brad · ブラッド（按段落 3DD3）
+> 「なるほどな、わかった。
+>  ならばいくぞ!」
+“Tôi thấy, tôi hiểu. Vậy thì đi thôi! "
+
+@18038 Manami · マナミ（按段落 3DD4）
+> 「現状で敵ではないのなら、
+>  することは、それだけですものね」
+“Vì hiện tại chúng ta không phải là kẻ thù nên đây là điều duy nhất chúng ta có thể làm. "
+
+@18039 Lawrence · ローレンス
+> 「そうでございますな」
+"Chính xác. "
+
+@18040 Roux · ルー
+> 「了解よ、万丈さん。
+>  その判断には賛成するわ」
+"Đã hiểu, Vạn Chương tiên sinh. Tôi đồng ý với phán đoán của bạn. "
+
+@18041 Rasid · ラシード
+> 「いいんですかい、カトル様」
+“Điều này có ổn không, Master Carter? "
+
+@18042 Quatre · カトル
+> 「かまわないよ。こちらにしてもムダな
+>  損害を出さずにすめば
+"Nó không quan trọng. Đối với chúng tôi, nó có thể tránh được những tổn thất không đáng có,
+---
+>  それにこしたことはない」
+Điều đó không thể tốt hơn. "
+
+@18043 Quatre · カトル
+> 「くっ、しまった……」
+"Chà, tệ quá..."
+
+@18044 Rasid · ラシード
+> 「カトル様!? どうやらこれ以上は
+>  無理そうですな
+“Chủ nhân Cartel! ? Có vẻ như không thể tiếp tục chiến đấu.
+---
+>  ここは撤退しましょう、カトル様」
+Hãy rút lui thôi, Master Cartel. "
+
+@18045 Quatre · カトル
+> 「……カラバの方、共に戦えてよかった
+>  僕たちはこれで、ひきあげます
+“…Mọi người ở Calabar, tôi rất vui khi được chiến đấu bên cạnh các bạn. Chúng tôi rút lui.
+---
+>  次に会うときも、
+>  敵ではないことを祈ります」
+Tôi hy vọng lần sau chúng ta gặp nhau, chúng ta vẫn không phải là kẻ thù. "
+
+@18046 Quatre · カトル
+> 「くっ、しまった……これ以上は
+>  無理か……」
+"Chà, tệ quá...cậu không thể nhịn được nữa à...?"
+
+@18047 Quatre · カトル
+> 「……カラバの方、共に戦えてよかった
+>  僕たちはこれで、ひきあげます
+“…Mọi người ở Calabar, tôi rất vui khi được chiến đấu bên cạnh các bạn. Chúng tôi rút lui.
+---
+>  次に会うときも、
+>  敵ではないことを祈ります」
+Tôi hy vọng lần sau chúng ta gặp nhau, chúng ta vẫn không phải là kẻ thù. "
+
+@18048 Brad · ブラッド（按段落 3DD3）
+> 「おい、いっちまうぜ。
+>  いいのかよ」
+"Này, anh ấy sắp đi rồi. Điều này có ổn không? "
+
+@18049 Banjo · 万丈
+> 「今回は、これでいいさ」
+“Lần này là thế đó. "
+
+@18050 Manami · マナミ（按段落 3DD4）
+> 「そうね……そう祈りたいわ、アタシも」
+"Ừ...tôi cũng mong vậy. "
+
+@18051 Mash · マッシュ
+> 「基地は壊滅のようだな」
+“Căn cứ dường như đã bị phá hủy. "
+
+@18052 Ortega · オルテガ
+> 「なに、奴らの足止めをしてくれたと
+>  考えればよかろう」
+“Không có gì đâu, chỉ cần nghĩ rằng căn cứ đã giữ chân họ cho chúng ta. "
+
+@18053 Mash · マッシュ
+> 「なら、連中をつぶさんと、基地の
+>  連中に申しわけがたたんな」
+“Vậy nếu chúng ta không giết những kẻ đó, chúng ta sẽ không thể giải thích với anh em ở căn cứ. "
+
+@18054 Gaia · ガイア
+> 「オルテガ、マッシュ、せっかくの
+>  特注装備だ。使い勝手を
+“Ortega và Matthew hiếm khi được trang bị những thiết bị tùy chỉnh.
+---
+>  整備兵に知らせてやるためにも、
+>  チャンスがあればあれをやるぞ」
+Đó cũng là một cách hay để cho quân bảo trì biết liệu nó có hữu ích hay không. Nếu có cơ hội, chúng ta có thể tận dụng nó. "
+
+@18055 Mash · マッシュ
+> 「了解だ、ガイア。ドライセンでどこまで
+>  できるか、試してみるとしよう」
+"Hiểu rồi, Gaia. Hãy thử với Dressen và xem nó có thể đi được bao xa. "
+
+@18056 Ortega · オルテガ
+> 「おうさ」
+"Được rồi! "
+
+@18057 Gaia · ガイア
+> 「よし、いくぞ!」
+"Được rồi, đi thôi! "
+
+@18058 Rasid · ラシード
+> 「カトル様、どうやら新手のようですな
+>  どうしますか?」
+"Master Cartel, có vẻ như một kẻ thù khác đã đến. Tôi nên làm gì đây?"
+
+@18059 Quatre · カトル
+> 「さすがに対応が早いね。ラシード、
+>  僕たちは退きましょう
+"Phản ứng thực sự rất nhanh. Rashid, hãy rút lui thôi.
+---
+>  最初の目的は達成しました。
+>  長居は無用です」
+Mục đích ban đầu đã đạt được. Ở lại lâu là không nên. "
+
+@18060 Rasid · ラシード
+> 「了解です、カトル様」
+“Đã hiểu, thưa ngài Carter.”
+
+@18061 Quatre · カトル
+> 「カラバの方、共に戦えてよかった。
+>  僕たちはこれで、ひきあげます
+“Mọi người ở Calabar, rất vui được chiến đấu cùng các bạn. Chúng tôi sẽ rút lui.
+---
+>  次に会うときも、
+>  敵ではないことを祈ります」
+Tôi hy vọng lần sau chúng ta gặp nhau, chúng ta vẫn không phải là kẻ thù. "
+
+@18062 Brad · ブラッド（按段落 3DD3）
+> 「おい、いっちまうぜ。
+>  いいのかよ」
+"Này, họ đang rời đi. Điều này có ổn không? "
+
+@18063 Banjo · 万丈
+> 「それよりも、
+>  いよいよスペシャルズのお出ましだ
+“Đừng bận tâm nữa, lực lượng đặc biệt cuối cùng cũng xuất hiện.
+---
+>  地球人同士だからといって、
+>  手加減してやる必要などない
+Dù họ đều đến từ Trái đất nhưng không cần thiết phải tỏ ra thương xót họ.
+---
+>  全力で叩きつぶすんだ」
+Hãy hạ gục chúng bằng tất cả sức mạnh của bạn. "
+
+@18064 Brad · ブラッド（按段落 3DD3）
+> 「ひゅーっ、いうじゃないか
+>  そういうことなら話は別だ
+"Ồ, nói hay lắm. Trong trường hợp này, đó là một vấn đề khác.
+---
+>  さぁ来やがれ!」
+Cố lên, cố lên! "
+
+@18065 Sayaka · さやか
+> 「ちょっと、待ちなさいよ!
+>  ねえ、追わなくていいの?」
+"Này, đợi một chút! Tôi nói, bạn không cần phải đuổi theo? "
+
+@18066 Manami · マナミ（按段落 3DD4）
+> 「だめよ! スペシャルズを前にしながら
+>  逃げるなんて、絶対だめ!」
+"Không! Tuyệt đối không thể trốn thoát trước lực lượng đặc biệt! "
+
+@18067 Koji · 甲児
+> 「なんだよ突然。
+>  一体どうしたっていうんだ?」
+"Sao chuyện này lại xảy ra đột ngột vậy? Chuyện gì đã xảy ra thế? "
+
+@18068 Manami · マナミ（按段落 3DD4）
+> 「帝国は確かに許せない
+“Đế quốc thực sự không thể tha thứ được.
+---
+>  でもそれ以上に、スペシャルズは
+>  もっと許せないわ!」
+Nhưng so với bọn họ, lực lượng đặc biệt càng không thể tha thứ! "
+
+@18069 Simone · シモーヌ
+> 「そうね、アタシもそう思うわ」
+"Ừ, tôi cũng nghĩ vậy. "
+
+@18070 Banjo · 万丈
+> 「みんな、敵の新手を叩くぞ!」
+"Mọi người, gặp kẻ thù mới! "
+
+@18071 Mash · マッシュ
+> 「何機か逃げたようだな」
+“Có vẻ như một số đã trốn thoát. "
+
+@18072 Ortega · オルテガ
+> 「放っておけ
+>  我々の本来の役目は
+"Hãy để họ yên. Nhiệm vụ ban đầu của chúng tôi,
+---
+>  レジスタンスの掃討だ」
+Đó là quét sạch các tổ chức kháng chiến. "
+
+@18073 Gaia · ガイア
+> 「そういうことだな。我々は残った
+>  レジスタンスを叩くぞ
+"Đó là nó. Hãy chiến đấu với những gì còn sót lại của cuộc kháng chiến.
+---
+>  オルテガ、マッシュ、せっかくの
+>  特注装備だ。使い勝手を
+Ortega và Matthew hiếm khi được trang bị các thiết bị tùy chỉnh. Đó cũng là một cách hay để cho đội bảo trì biết liệu nó có hoạt động tốt hay không.
+---
+>  整備兵に知らせてやるためにも、
+>  チャンスがあればあれをやるぞ」
+Nếu có cơ hội, chúng tôi sẽ làm điều đó. "
+
+@18074 Mash · マッシュ
+> 「了解だ、ガイア。ドライセンでどこまで
+>  できるか、試してみるとしよう」
+"Hiểu rồi, Gaia. Hãy thử với Dressen và xem nó có thể đi được bao xa. "
+
+@18075 Ortega · オルテガ
+> 「おうさ」
+"Được rồi! "
+
+@18076 Gaia · ガイア
+> 「よし、いくぞ!」
+"Được rồi, đi thôi! "
+
+@18077 Banjo · 万丈
+> 「ふう……終わったか」
+"Hả...xong rồi à? "
+
+@18078 Koji · 甲児
+> 「敵基地は完全に沈黙、と。
+>  ひきあげるかい?」
+“Căn cứ địch hoàn toàn im lặng. Muốn rút lui? "
+
+@18079 Banjo · 万丈
+> 「ああ……いや、ちょっと待ってくれ。
+>  いいものが残っていたみたいだ」
+“Ừm…không, đợi một chút. Có vẻ như tôi đã để lại điều gì đó tốt đẹp phía sau. "
+
+@18080 Roux · ルー
+> 「いいものって?」
+"Thứ tốt? "
+
+@18081 Banjo · 万丈
+> 「ガルダタイプの輸送機だよ
+“Đó là một chiếc máy bay vận tải kiểu Garda.
+---
+>  ちょうど足を確保したいと
+>  思っていたところだ
+Tôi chỉ muốn có được một công cụ vận chuyển.
+---
+>  後でギャリソンたちに
+>  取りに来させよう」
+Hãy để Garrison và những người khác nhặt nó sau. "
+
+@18082 Trowa · トロワ
+> 「ん? 攻撃を受けたか。
+>  発見された以上は見逃せない
+"Hả? Đang bị tấn công. Bây giờ anh ta đã bị phát hiện, anh ta không thể còn sống được.
+---
+>  スペースポートの破壊が目標
+>  だったが、すべてを消滅させる」
+Mục tiêu ban đầu chỉ là phá hủy sân bay vũ trụ nhưng giờ đây tất cả đều bị xóa sổ. "
+
+@18083 Specials · スペシャルズ
+> 「うわあぁぁぁぁーっ!!」
+“Aiaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaa!” ! "
+
+@18084 Wufei · 五飛
+> 「俺の名は張五飛。
+>  この戦い、すぐにケリをつける!」
+"Ta tên là Trương Vô Phi, ta lập tức kết thúc trận chiến này!"
+
+@18085 Garrison · ギャリソン
+> 「各地で確認された
+>  ガンダムタイプは
+"Loại Gundam đã được xác nhận ở nhiều nơi,
+---
+>  先ほどのものも合わせて
+>  全部で5体ですな
+Bao gồm cả cái vừa rồi, tổng cộng có năm cái.
+---
+>  かなりの規模の破壊活動が
+>  確認されておりますが
+Một số lượng đáng kể các vụ phá hoại đã được xác nhận.
+---
+>  うち一体はスペシャルズの
+>  攻撃によって海中に落下し
+Một trong số họ rơi xuống biển do bị lực lượng đặc biệt tấn công.
+---
+>  パイロットの生存確率は
+>  かなり低いようです」
+Cơ hội sống sót của phi công dường như khá thấp. "
+
+@18086 Banjo · 万丈
+> 「それがすべてM作戦で降下してきた
+>  のか。敵には、したくないものだね
+“Có phải tất cả những thứ này đều bị chiến dịch M hạ gục không? Tôi thực sự không muốn trở thành kẻ thù của họ.
+---
+>  僕らが会ったのは、まだ少年だった
+>  が、冷静な判断力を持っていた
+Người mà chúng tôi gặp, tuy vẫn còn là một thiếu niên nhưng đã có óc phán đoán rất bình tĩnh.
+---
+>  1人減ったとして、あとの3人は
+>  いったい……
+Cho dù mất đi một người thì ba người còn lại sẽ ra sao...
+---
+>  ちょっと待ってくれ、ギャリソン。
+>  確認されたのは5ヶ所だけなのか?
+Đợi một chút, Garrison. Chỉ có năm địa điểm được xác nhận thôi à?
+---
+>  もう1つは?」
+Còn nơi khác thì sao? "
+
+@18087 Garrison · ギャリソン
+> 「落下は確認されておるのですが、
+>  その後、なんの情報もないようです
+“Việc hạ cánh đã được xác nhận, nhưng không có tin tức gì kể từ đó.
+---
+>  帝国も発見できなかった
+>  ようですな」
+Có vẻ như Đế quốc cũng chưa thể phát hiện ra. "
+
+@18088 Banjo · 万丈
+> 「そう……か……気になるな……。
+>  引き続き情報を集めてくれ
+"Cái này... a... thật sự khiến người ta quan tâm... tiếp tục thu thập tin tức.
+---
+>  それと、
+>  イゴール将軍にも連絡を
+Ngoài ra, hãy liên hệ với Tướng Eagle.
+---
+>  ああそれから」
+À, còn nhiều nữa. "
+
+@18089 Garrison · ギャリソン
+> 「海中に沈んだガンダムタイプの
+>  探査状況ですな」
+"Bạn đang hỏi về tiến độ tìm kiếm chiếc Gundunda bị chìm xuống biển."
+
+@18090 Banjo · 万丈
+> 「そう。頼むよ」
+"Vâng. Làm ơn."
+
+@18091 Relena · リリーナ
+> 「あなた、ヒイロといったわね。
+>  こんなところで何をしているの。教えて
+"Tên bạn là Hiro phải không. Bạn làm gì ở một nơi như thế này? Hãy nói cho tôi biết đi.
+---
+>  そして、あなたは何者?」
+Ngoài ra, bạn là ai? "
+
+@18092 Heero · ヒイロ
+> 「………………」
+“…………”
+
+@18093 Relena · リリーナ
+> 「わたくし知りたいの、
+>  あなたのことを
+"Tôi muốn làm quen với bạn.
+---
+>  なぜパイロットスーツのようなものを着て
+>  海岸に倒れていたのか
+Tại sao bạn lại nằm trên bãi biển mặc thứ gì đó giống như bộ đồ phi công?
+---
+>  話しなさい、ヒイロ」
+Nói đi, Anh hùng. "
+
+@18094 Heero · ヒイロ
+> 「リリーナ・ドーリアン……
+>  A級市民だったな
+"Lilina Dorian...là công dân hạng A.
+---
+>  深入りしすぎた。
+>  お前を、殺す」
+Bạn biết quá nhiều. Tôi sẽ giết bạn. "
+
+@18095 Heero · ヒイロ
+> 「く……」
+"Ờ..."
+
+@18096 Duo · デュオ
+> 「こういう場合、どう見たって
+>  お前の方が悪者だろ
+"Những lúc như thế này, dù có thế nào đi nữa thì trông cậu cũng giống một kẻ xấu hơn.
+---
+>  ケガはないかい、お嬢さん」
+Cô không bị thương chứ, thưa cô? "
+
+@18097 Relena · リリーナ
+> 「大丈夫、ヒイロ? もうやめて。
+>  この人に、なんのうらみがあるんです」
+"Anh ổn chứ Hiro? Dừng lại đi. Anh có ác cảm gì với người đàn ông này?"
+
+@18098 Duo · デュオ
+> 「は……?
+"Hả...?
+---
+>  おいおい、ちょっと待ってくれよ
+Này, đợi một chút.
+---
+>  俺の方が悪者になっちまってる
+>  じゃねぇか」
+Tại sao tôi lại là người xấu? "
+
+@18099 Heero · ヒイロ
+> 「ん……?」
+"Hửm...?"
+
+@18100 Heero · ヒイロ
+> (あれは俺のガンダム……こいつが
+>  海中から引き上げたのか?)
+(Đó là chiếc gundam của tôi...anh chàng này đã câu được nó từ dưới biển phải không?)
+
+@18101 Relena · リリーナ
+> 「え……何……?」
+"Ơ...cái gì...?"
+
+@18102 Duo · デュオ
+> 「おっと、みちゃいけねぇ。お嬢さん、
+>  なんかわけありみたいだけど、すぐこっから
+“Ồ, cô không thể nhìn cái này được. Cô ơi, cô dường như có điều gì đó muốn giấu, nhưng hãy rời đi nhanh đi.”
+---
+>  立ち去るのが身のためだ。
+>  この時代に立派な身なりの
+Nơi này là vì lợi ích của riêng bạn. Ngày nay, ngay cả khi bạn ăn mặc đẹp
+---
+>  A級市民とはいえ、お嬢さんを
+>  殺すのは忍びない」
+Công dân hạng A, dù muốn giết một cô nương như cô cũng không được. "
+
+@18103 Relena · リリーナ
+> 「ヒイロ!?」
+"Hiro!?"
+
+@18104 Duo · デュオ
+> 「まだやんのか!」
+"Lại đến!"
+
+@18105 Relena · リリーナ
+> (なんなの!?
+>  一体なんなの、この人たち!?)
+(Chuyện gì đang xảy ra vậy!? Chuyện gì đang xảy ra với những người này vậy!?)
+
+@18106 Banjo · 万丈
+> 「なんだって!? 本当なのか、アラン」
+"Bạn đã nói gì vậy!? Thật sao, Alan?"
+
+@18107 Alan · アラン
+> 「信用できる情報だ
+>  占領軍に新司令官として
+"Tin tức này đáng tin cậy. Chỉ huy mới của lực lượng chiếm đóng,
+---
+>  グレスコの息子が
+>  赴任してくるらしい
+Người ta nói rằng con trai của Gresco sắp nhậm chức.
+---
+>  我々としては可能ならば
+>  この男を始末したい
+Chúng tôi muốn loại bỏ anh chàng này nếu có thể.
+---
+>  そうすれば帝国軍の士気は
+>  著しく低下するはずだ」
+Kết quả là tinh thần của quân đội Đế quốc chắc chắn sẽ bị tổn hại rất lớn. "
+
+@18108 Banjo · 万丈
+> 「確かに。しかし帝国も
+>  それほど甘くは、ないだろう」
+"Đúng vậy. Nhưng Đế quốc sẽ không dễ đối phó như vậy."
+
+@18109 Alan · アラン
+> 「わかっている
+"Tôi biết.
+---
+>  だが、これほどの機会は
+>  そうそうないのも事実だ
+Nhưng cơ hội như vậy quả thực rất hiếm có.
+---
+>  できれば現地に行って
+>  機会を、みてほしいな」
+Nếu có thể, tôi mong các bạn có thể đến địa phương và chờ đợi cơ hội để hành động. "
+
+@18110 Brad · ブラッド（按段落 3DD3）
+> 「おもしろいじゃないか
+"Thú vị.
+---
+>  もし本当なら、そいつが
+>  俺たちの直接の敵になる
+Nếu đúng thì tên đó là kẻ thù trực diện của chúng ta.
+---
+>  やれなかったとしても、
+>  そいつを見ておくのは悪くない」
+Ngay cả khi bạn không thể giết anh ta, việc nhận ra khuôn mặt của anh ta trước tiên cũng không phải là một ý tưởng tồi. "
+
+@18111 Koji · 甲児
+> 「オレも賛成だ
+"Tôi cũng đồng ý.
+---
+>  うまくいきゃ一気に
+>  カタがつくかもしれねぇしな」
+Nếu mọi việc suôn sẻ, có lẽ chúng ta có thể kết thúc nó trong một lần. "
+
+@18112 Alan · アラン
+> 「フフフ」
+"Hehehe..."
+
+@18113 Brad · ブラッド（按段落 3DD3）
+> 「なにがおかしい!?」
+"Có gì buồn cười thế!?"
+
+@18114 Alan · アラン
+> 「いや、すまない。お前たちを見ていると
+>  昔の知り合いを思い出してな
+"Không, tôi xin lỗi. Nhìn thấy bạn làm tôi nhớ đến một số người quen cũ.
+---
+>  で、どうする万丈。現地の
+>  レジスタンスたちにも話はつけてあるが」
+Vậy kế hoạch của bạn là gì, Wan Zhang? Tôi đã chào tổ chức kháng chiến địa phương rồi. "
+
+@18115 Banjo · 万丈
+> 「わかった、
+>  やるか、やらないかは別として
+"Được rồi, có làm hay không là tùy cậu.
+---
+>  とりあえず北米へいくとしよう。
+>  すぐに準備する」
+Dù sao thì chúng ta hãy đến Bắc Mỹ trước đã. Tôi sẽ chuẩn bị ngay. "
+
+@18116 Brad · ブラッド（按段落 3DD3）
+> 「よぉし、おもしろくなってきたぜ!」
+"Được rồi, càng ngày càng thú vị!"
+
+@18117 Kurtz · カーツ（按段落 3DD3）
+> 「…………」
+“…………”
+
+@18118 Banjo · 万丈
+> 「みんな、どう思う?」
+"Bạn nghĩ gì?"
+
+@18119 Simone · シモーヌ
+> 「アタシは賛成
+"Tôi đồng ý.
+---
+>  ニューヨークには知り合いも
+>  いたはずだしね」
+Lẽ ra tôi vẫn còn người quen ở New York. "
+
+@18120 Koji · 甲児
+> 「オレもだ
+"Tôi cũng đồng ý.
+---
+>  うまくいきゃ一気に
+>  カタがつくかもしれねぇしな」
+Nếu mọi việc suôn sẻ, có lẽ chúng ta có thể kết thúc nó trong một lần. "
+
+@18121 Manami · マナミ（按段落 3DD4）
+> 「あまり気は進まないわね
+“Tôi thực sự không muốn đi.
+---
+>  あの辺りは帝国の本拠地と
+>  いってもいいわ
+Khu vực đó có thể nói là căn cứ của đế quốc.
+---
+>  まだあたしたちに、それだけの
+>  準備が整っているとは
+Tôi không nghĩ chúng ta đang ở thời điểm hiện tại
+---
+>  思えないけど……
+Đã chuẩn bị rất kỹ rồi...
+---
+>  でも、それだけ意味が
+>  あるってことは認めるわ」
+Tuy nhiên, tôi thừa nhận nó rất có ý nghĩa. "
+
+@18122 Garrison · ギャリソン
+> 「確かに、いまの戦力では
+>  少々きつうございますな
+“Quả thực, có chút khó khăn với sức mạnh chiến đấu hiện tại.
+---
+>  しかし北米大陸でも
+>  反帝国運動は
+Tuy nhiên, phong trào chống đế quốc ở Bắc Mỹ
+---
+>  盛り上がりをみせております
+Nó cũng đang tăng lên từng ngày.
+---
+>  現地のカラバと、
+>  地球解放戦線機構からも
+Các tổ chức địa phương của Mặt trận Giải phóng Trái đất và Calabar
+---
+>  協力が得られる可能性は
+>  大いにありますな」
+Có khả năng giúp đỡ. "
+
+@18123 Banjo · 万丈
+> 「よし、いこう。
+>  このところ帝国も
+“Được rồi, đi thôi. Gần đây, đế quốc cũng
+---
+>  十分対応できる体制を
+>  整えてきている
+Dần dần có đủ phương pháp đối phó.
+---
+>  多少の強攻策も
+>  いいかもしれない」
+Thỉnh thoảng cứng rắn một chút cũng được. "
+
+@18124 Alan · アラン
+> 「決まりだな
+“Vậy thì mọi chuyện đã được giải quyết.
+---
+>  現地のレジスタンスには
+>  話をつけておく
+Tôi sẽ đến chào nhóm kháng chiến địa phương.
+---
+>  戦力の増強も急がせる。
+>  なんとかうまくやってくれ」
+Chúng tôi cũng sẽ tăng cường nỗ lực nâng cao khả năng chiến đấu của mình. Hãy chắc chắn để thành công. "

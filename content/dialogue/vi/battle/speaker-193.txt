@@ -1,0 +1,173 @@
+# Bản dịch tiếng Việt Super Robot Wars 64
+# Định dạng và vị trí: docs/guide/dialogue-text.md
+
+@12342 Musy · ミュージィ
+# Kích hoạt: Tấn công (Chung，1/10）
+> 「もらった!」
+"Thành công!"
+
+@12343 Musy · ミュージィ
+# Kích hoạt: Tấn công (Chung，2/10）
+> 「落ちろというのに!」
+"Bảo ngươi ngã xuống!"
+
+@12344 Musy · ミュージィ
+# Kích hoạt: Tấn công (Chung，3/10）
+> 「沈めっ!!」
+"Chìm!!"
+
+@12345 Musy · ミュージィ
+# Kích hoạt: Tấn công (Chung，4/10）
+> 「この一撃でけりをつける!」
+"Chỉ cần sử dụng đòn này để kết thúc nó!"
+
+@12346 Musy · ミュージィ
+# Kích hoạt: Tấn công (Chung，5/10）
+> 「落としてみせる!」
+"Ta nhất định sẽ đánh ngã ngươi!"
+
+@12347 Musy · ミュージィ
+# Kích hoạt: Tấn công (Chung，6/10）
+> 「とどめっ!」
+"Kết thúc đi anh!"
+
+@12348 Musy · ミュージィ
+# Kích hoạt: Tấn công (Chung，7/10）
+> 「私のオーラ力を甘く見るなっ!」
+"Đừng đánh giá thấp sức mạnh Hào quang của tôi!"
+
+@12349 Musy · ミュージィ
+# Kích hoạt: Tấn công (Chung，8/10）
+> 「やらせはしないっ!」
+"Đừng nghĩ tới chuyện đó nữa!"
+
+@12350 Musy · ミュージィ
+# Kích hoạt: Tấn công (Chung，9/10）
+> 「とどめだ!」
+"Điều này sẽ kết thúc bạn!"
+
+@12351 Musy · ミュージィ
+# Kích hoạt: Tấn công (Chung，10/10）
+> 「そこだ!」
+"Chính là nó!"
+
+@12352 Musy · ミュージィ
+# Kích hoạt: 被击坠（通用，1/2）
+> 「ううっ……ショット様……」
+"Ưuu...Tú Tú đại nhân..."
+
+@12353 Musy · ミュージィ
+# Kích hoạt: 被击坠（通用，2/2）
+> 「何っ!? 直撃なのか!?」
+"Cái gì!? Bị đánh trực diện!?"
+
+@12354 Musy · ミュージィ
+# Kích hoạt: 重伤（剩余 HP 不足 30%）（通用，1/3）
+> 「こ、このパワー……私のオーラ力が
+>  足りぬというのか……」
+“Cái này, sức mạnh này… là sức mạnh Hào quang của tôi không đủ sao…”
+
+@12355 Musy · ミュージィ
+# Kích hoạt: 重伤（剩余 HP 不足 30%）（通用，2/3）
+> 「あうっ!! な、なんの!まだやられは
+>  しないっ!」
+"A!! Cái, cái gì thế này! Tôi vẫn chưa ngã đâu!"
+
+@12356 Musy · ミュージィ
+# Kích hoạt: 重伤（剩余 HP 不足 30%）（通用，3/3）
+> 「あああっ! い、いかん、これ以上は
+>  機体が……」
+"Ahhh! Không, không, nếu cậu cứ làm thế này, cái máy sẽ..."
+
+@12357 Musy · ミュージィ
+# Kích hoạt: 中伤（剩余 HP 30–90%）（通用，1/4）
+> 「やるっ! だが、勝負はこれからだ!」
+"Có hai khoảnh khắc! Tuy nhiên, người chiến thắng vẫn chưa được quyết định!"
+
+@12358 Musy · ミュージィ
+# Kích hoạt: 中伤（剩余 HP 30–90%）（通用，2/4）
+> 「こいつ……やるっ!」
+"Anh chàng này... có vấn đề!"
+
+@12359 Musy · ミュージィ
+# Kích hoạt: 中伤（剩余 HP 30–90%）（通用，3/4）
+> 「くっ! こんな事で落ちるものか!!」
+"Hừ! Vết thương nhỏ này sao có thể đánh được ta!!"
+
+@12360 Musy · ミュージィ
+# Kích hoạt: 中伤（剩余 HP 30–90%）（通用，4/4）
+> 「うっ! これ以上好きには
+>  させないっ!!」
+"Chà! Tôi sẽ không để cậu muốn làm gì thì làm nữa!!"
+
+@12361 Musy · ミュージィ
+# Kích hoạt: 轻伤（剩余 HP 90% 以上）（通用，1/3）
+> 「そんな攻撃など!」
+"Đây là kiểu tấn công gì vậy!"
+
+@12362 Musy · ミュージィ
+# Kích hoạt: 轻伤（剩余 HP 90% 以上）（通用，2/3）
+> 「ふ……そんなものか!」
+"Hmph... đó là tất cả những gì cậu có à?"
+
+@12363 Musy · ミュージィ
+# Kích hoạt: 轻伤（剩余 HP 90% 以上）（通用，3/3）
+> 「こんなダメージなど、たかが知れている!」
+"Tổn thương nhỏ này không là gì cả!"
+
+@12364 Musy · ミュージィ
+# Kích hoạt: Né tránh（通用，1/5）
+> 「当たるものか!」
+"Bạn không thể đánh nó!"
+
+@12365 Musy · ミュージィ
+# Kích hoạt: Né tránh（通用，2/5）
+> 「なめるなっ!」
+"Đừng đánh giá thấp tôi!"
+
+@12366 Musy · ミュージィ
+# Kích hoạt: Né tránh（通用，3/5）
+> 「そこかっ!」
+"Đó!"
+
+@12367 Musy · ミュージィ
+# Kích hoạt: Né tránh（通用，4/5）
+> 「どこを狙っている!」
+"Ngươi nhắm vào đâu!"
+
+@12368 Musy · ミュージィ
+# Kích hoạt: Né tránh（通用，5/5）
+> 「来る……右かっ!」
+"Tới...đúng rồi!"
+
+@12369 Musy · ミュージィ
+# Kích hoạt: Tấn công无效（护罩／装甲）（通用，1/1）
+> 「そのようなビームなどっ!!」
+"Đây là loại chùm tia gì vậy?!"
+
+@12370 Musy · ミュージィ
+# Kích hoạt: 弹药／EN 不足，无法反击（通用，1/1）
+> 「弾切れ!? バカな……」
+"Hết đạn!? Không thể nào..."
+
+@12371 Musy · ミュージィ
+# Kích hoạt: 射程外，无法反击（通用，1/1）
+> 「なんだ!? あんな距離から攻撃が
+>  届くのか!?」
+"Cái gì!? Bạn có thể đánh nó từ khoảng cách xa như vậy!?"
+
+@17000 Musy · ミュージィ
+# Kích hoạt: Tấn công，乘坐〈ブラックウイングH〉
+> 「このブブリィのパワーならっ!」
+"Với sức mạnh của Bubuli này!"
+
+@17001 Musy · ミュージィ
+# Kích hoạt: 轻伤（剩余 HP 90% 以上），乘坐〈ブラックウイングH〉
+> 「このブブリィ、その程度の攻撃では
+>  落ちん!」
+"Đòn tấn công này không thể đánh bại Bublé này!"
+
+@17002 Musy · ミュージィ
+# Kích hoạt: Né tránh，乘坐〈ブラックウイングH〉
+> 「スピードならブブリィの方が上だ!」
+"Về tốc độ, Bublé thậm chí còn tốt hơn!"

@@ -1,0 +1,133 @@
+# Bản dịch tiếng Việt Super Robot Wars 64
+# Định dạng và vị trí: docs/guide/dialogue-text.md
+
+@7788 Borne · ボーン
+# Kích hoạt: Tấn công (Chung，1/9）
+> 「しえぇぇぇっ!!」
+"Ôi chao ôi chao ôi!!"
+
+@7789 Borne · ボーン
+# Kích hoạt: Tấn công (Chung，2/9）
+> 「地獄に送ってやるっ!!」
+"Đưa ngươi xuống địa ngục!!"
+
+@7790 Borne · ボーン
+# Kích hoạt: Tấn công (Chung，3/9）
+> 「殺しあいは数字じゃねえぇ!」
+"Chiến đấu không phải là trò chơi của những con số!"
+
+@7791 Borne · ボーン
+# Kích hoạt: Tấn công (Chung，4/9）
+> 「うへへへへへっ!」
+"Ôi này này này này này!"
+
+@7792 Borne · ボーン
+# Kích hoạt: Tấn công (Chung，5/9）
+> 「うひひひひひひーっ!」
+"Whehehehehehe-!"
+
+@7793 Borne · ボーン
+# Kích hoạt: Tấn công (Chung，6/9）
+> 「げへへへへへへっ!」
+"Này này này này này này này!"
+
+@7794 Borne · ボーン
+# Kích hoạt: Tấn công (Chung，7/9）
+> 「いた、いた、いたぞ～!!」
+“Đang tìm, đang tìm, đã tìm thấy cậu——!!”
+
+@7795 Borne · ボーン
+# Kích hoạt: Tấn công (Chung，8/9）
+> 「ふざけるなっ!!」
+"Thật là một trò đùa!!"
+
+@7796 Borne · ボーン
+# Kích hoạt: Tấn công (Chung，9/9）
+> 「踊れ、踊れぇ!」
+"Nhảy, nhảy cho tôi xem!"
+
+@7797 Borne · ボーン
+# Kích hoạt: 被击坠（通用，1/2）
+> 「ぐっ……ぐわぁぁぁっ!!」
+"Gu...Guaaahhhhhhhhh!!"
+
+@7798 Borne · ボーン
+# Kích hoạt: 被击坠（通用，2/2）
+> 「おわぁぁぁぁぁーっ!?」
+"Ồ wowhhhhhhhhh-!?"
+
+@7799 Borne · ボーン
+# Kích hoạt: 重伤（剩余 HP 不足 30%）（通用，1/4）
+> 「俺を殺そうとしやがって……
+>  ゆるせねえ!!」
+"Sao ngươi dám giết ta... Ta không thể tha cho ngươi!!"
+
+@7800 Borne · ボーン
+# Kích hoạt: 重伤（剩余 HP 不足 30%）（通用，2/4）
+> 「うわあっ!!」
+"Ôi!!"
+
+@7801 Borne · ボーン
+# Kích hoạt: 重伤（剩余 HP 不足 30%）（通用，3/4）
+> 「うぅぅぅっ、ちきしょう!」
+"Ồ, chết tiệt!"
+
+@7802 Borne · ボーン
+# Kích hoạt: 重伤（剩余 HP 不足 30%）（通用，4/4）
+> 「お、俺をぉぉぉぉ!」
+"Sao ngươi dám làm vậy với ta!"
+
+@7803 Borne · ボーン
+# Kích hoạt: 中伤（剩余 HP 30–90%）（通用，1/3）
+> 「い、いかん!?」
+"Không, không tốt!?"
+
+@7804 Borne · ボーン
+# Kích hoạt: 中伤（剩余 HP 30–90%）（通用，2/3）
+> 「このやろぉっ!!」
+"Đồ khốn nạn!!"
+
+@7805 Borne · ボーン
+# Kích hoạt: 中伤（剩余 HP 30–90%）（通用，3/3）
+> 「ちきしょぉぉっ!」
+"Chết tiệt!"
+
+@7806 Borne · ボーン
+# Kích hoạt: 轻伤（剩余 HP 90% 以上）（通用，1/3）
+> 「ヘヘヘヘヘヘッ、ハハハハハハッ!!」
+"Này này này này này, hahahahaha!!"
+
+@7807 Borne · ボーン
+# Kích hoạt: 轻伤（剩余 HP 90% 以上）（通用，2/3）
+> 「フッハッハ! どうしたぁっ!?」
+"Huhaha! Có chuyện gì vậy!?"
+
+@7808 Borne · ボーン
+# Kích hoạt: 轻伤（剩余 HP 90% 以上）（通用，3/3）
+> 「ケッ!」
+"Cắt!"
+
+@7809 Borne · ボーン
+# Kích hoạt: Né tránh（通用，1/1）
+> 「ひぃえへへへっ、のろまめぇ!」
+"Hehehehehehe, đồ chậm chạp!"
+
+@7810 Borne · ボーン
+# Kích hoạt: Tấn công无效（护罩／装甲）（通用，1/1）
+> 「もう終わりか? ひへへへへへ!」
+"Đây là kết thúc sao? Hehehehehehehe!"
+
+@7811 Borne · ボーン
+# Kích hoạt: 弹药／EN 不足，无法反击（通用，1/2）
+> 「弾切れぇ!?」
+"Hết đạn!?"
+
+@7812 Borne · ボーン
+# Kích hoạt: 弹药／EN 不足，无法反击（通用，2/2）
+> 「くそぉ、エネルギーが切れてやがる!」
+"Chết tiệt, tôi cạn kiệt năng lượng rồi!"
+
+@7813 Borne · ボーン
+# Kích hoạt: 射程外，无法反击（通用，1/1）
+> 「遠くて攻撃できねぇ!」
+"Quá xa để đánh trúng!"

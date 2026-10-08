@@ -1,0 +1,123 @@
+# Bản dịch tiếng Việt Super Robot Wars 64
+# Định dạng và vị trí: docs/guide/dialogue-text.md
+
+@11856 Keiko · 恵子
+# Kích hoạt: Tấn công (Chung，1/3）
+> 「いまよ!」
+"Bây giờ!"
+
+@11857 Keiko · 恵子
+# Kích hoạt: Tấn công (Chung，2/3）
+> 「そこだわ!」
+"Chính là nó!"
+
+@11858 Keiko · 恵子
+# Kích hoạt: Tấn công (Chung，3/3）
+> 「それっ!」
+"Xem động tác!"
+
+@11859 Keiko · 恵子
+# Kích hoạt: 被击坠（通用，1/1）
+> 「きゃあぁぁぁーっ!!」
+“Ahhhhhhhhh——!!”
+
+@11860 Keiko · 恵子
+# Kích hoạt: 重伤（剩余 HP 不足 30%）（通用，1/3）
+> 「し、しまったぁっ!」
+"Ối! Ôi!"
+
+@11861 Keiko · 恵子
+# Kích hoạt: 重伤（剩余 HP 不足 30%）（通用，2/3）
+> 「ああぁぁぁぁーっ!」
+"Ahhhhhh-!"
+
+@11862 Keiko · 恵子
+# Kích hoạt: 重伤（剩余 HP 不足 30%）（通用，3/3）
+> 「も、もうだめっ!」
+"Không, không còn nữa!"
+
+@11863 Keiko · 恵子
+# Kích hoạt: 中伤（剩余 HP 30–90%）（通用，1/4）
+> 「うぅっ!」
+"Ồ!"
+
+@11864 Keiko · 恵子
+# Kích hoạt: 中伤（剩余 HP 30–90%）（通用，2/4）
+> 「ま、まだ!」
+"Nó vẫn chưa kết thúc!"
+
+@11865 Keiko · 恵子
+# Kích hoạt: 中伤（剩余 HP 30–90%）（通用，3/4）
+> 「まだもうすこしはっ!」
+"Tôi có thể chịu đựng lâu hơn một chút!"
+
+@11866 Keiko · 恵子
+# Kích hoạt: 中伤（剩余 HP 30–90%）（通用，4/4）
+> 「うぅっ、ま、まだいけるはずよ!」
+"Ồ, tôi, tôi vẫn còn có thể chiến đấu!"
+
+@11867 Keiko · 恵子
+# Kích hoạt: 轻伤（剩余 HP 90% 以上）（通用，1/3）
+> 「あぁっ!?」
+"A!?"
+
+@11868 Keiko · 恵子
+# Kích hoạt: 轻伤（剩余 HP 90% 以上）（通用，2/3）
+> 「この程度でやられる私だと
+>  思って!?」
+"Bạn muốn đánh bại tôi chỉ vì điều này!?"
+
+@11869 Keiko · 恵子
+# Kích hoạt: 轻伤（剩余 HP 90% 以上）（通用，3/3）
+> 「ぜんぜんだめね」
+“Không đủ để xem”
+
+@11870 Keiko · 恵子
+# Kích hoạt: Né tránh（通用，1/2）
+> 「助かったぁ!」
+"Đã lưu!"
+
+@11871 Keiko · 恵子
+# Kích hoạt: Né tránh（通用，2/2）
+> 「危ないっ!」
+"Thật là nguy hiểm!"
+
+@11872 Keiko · 恵子
+# Kích hoạt: Tấn công无效（护罩／装甲）（通用，1/2）
+> 「効かないわよ!」
+"Nó không hoạt động!"
+
+@11873 Keiko · 恵子
+# Kích hoạt: Tấn công无效（护罩／装甲）（通用，2/2）
+> 「ビームなんかじゃ効かないわ!」
+"Chùm tia không hoạt động chút nào!"
+
+@11874 Keiko · 恵子
+# Kích hoạt: 弹药／EN 不足，无法反击（通用，1/1）
+> 「あぁ!? 弾切れなの!?」
+"A!? Không có đạn!?"
+
+@11875 Keiko · 恵子
+# Kích hoạt: 射程外，无法反击（通用，1/1）
+> 「だめ! 届かないわ!」
+"Không! Nó ngoài tầm với!"
+
+@16743 Keiko · 恵子
+# Kích hoạt: 使用〈ベースミサイル〉（低优先，可能被通用台词顶掉）
+> 「ベースミサイル!」
+"Tên lửa cơ bản!"
+
+@16744 Keiko · 恵子
+# Kích hoạt: 使用〈ベースミサイル〉（低优先，可能被通用台词顶掉）
+> 「ベースミサイル、発射!」
+"Tên lửa cơ sở, phóng!"
+
+@16745 Keiko · 恵子
+# Kích hoạt: 使用〈ベースミサイル〉（低优先，可能被通用台词顶掉）
+> 「ベースミサイルで攻撃するわ!」
+"Tấn công bằng tên lửa cơ bản!"
+
+@16746 Keiko · 恵子
+# Kích hoạt: 使用〈ベースレーザー〉（低优先，可能被通用台词顶掉）
+> 「ベースレーザー!」
+"Laser cơ bản!"

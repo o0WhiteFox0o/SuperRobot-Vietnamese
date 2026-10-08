@@ -1,0 +1,686 @@
+# Bản dịch tiếng Việt Super Robot Wars 64
+# Định dạng và vị trí: docs/guide/dialogue-text.md
+
+@17410 Lawrence · ローレンス
+> 「お嬢様、お茶が入りました。
+>  本日はロシアンティーでございますぞ
+“Cô ơi, trà đã sẵn sàng rồi. Hôm nay là trà đen Nga.
+---
+>  どちらにお持ちいたしますか?」
+Bạn muốn dùng trà ở đâu? "
+
+@17411 Manami · マナミ（本话主角）
+> 「……ローレンス、
+>  お茶などどうでもいいわ
+“...Lawrence, trà là gì không quan trọng.
+---
+>  あたしはいったい、
+>  いつまで待てばよいのです!
+Tôi phải đợi bao lâu?
+---
+>  こうしている間にも、あの者たちは
+>  非道な行いを続け
+Trong khi chúng ta chờ đợi thì những người đó vẫn làm ác.
+---
+>  苦しみ、恨み言を口にしながら
+>  死んでいく者たちがいるのよ!?」
+Có người đang chết trong đau đớn và oán hận! ? "
+
+@17412 Lawrence · ローレンス
+> 「お嬢様、私どもの活動とて
+>  反帝国を志す方々にとっては
+"Thưa cô, dành cho những người sẵn sàng chống lại đế quốc,
+---
+>  とても重要なものなのですぞ。
+>  他の方では手に入らぬ情報も
+Hoạt động của chúng tôi cũng rất quan trọng. Một số thông tin không thể được lấy bởi những người khác.
+---
+>  お嬢様がロームフェラの一員である
+>  からこそ手に入れられるのです」
+Chỉ có người phụ nữ lớn tuổi nhất là thành viên của Romphela mới có thể có được nó. "
+
+@17413 Manami · マナミ（本话主角）
+> 「それはうんざりするくらい何度も聞き
+>  ました。では聞き方を変えます
+"Tai tôi nghe thấy chai sạn. Cho tôi hỏi câu khác nhé.
+---
+>  あたしはいったい、いつまで帝国の
+>  非道な行いを
+Liệu tôi có tiếp tục thực hiện hành vi tàn bạo chống lại Đế quốc không?
+---
+>  黙って眺めていなくてはならないの!?
+Im lặng xem khi nào! ?
+---
+>  おじい様の残してくださった
+>  “スイームルグ”さえ完成すれば…
+Chỉ cần có thể hoàn thành 'Svemluger' mà ông tôi để lại...
+---
+>  ローレンス、あなたまさか」
+Lawrence, anh có thể không…”
+
+@17414 Lawrence · ローレンス
+> 「はい、なんでございましょう?」
+“Ừ, mệnh lệnh của cậu là gì?”
+
+@17415 Manami · マナミ（本话主角）
+> 「あたしの身を案じて何か
+>  勝手なことをしているのでは
+"Anh đang lo lắng cho em à?
+---
+>  ないでしょうね?」
+Bạn đã làm điều gì đó mà không được phép? "
+
+@17416 Lawrence · ローレンス
+> 「めっそうもございません。しかし、あの方
+>  からのご連絡がないかぎり
+“Hoàn toàn không có chuyện gì, chỉ là quý ông đã một ngày không đến liên lạc với tôi rồi.
+---
+>  私どもが動くわけにはまいりません。
+>  どうか、いましばらくのご辛抱を」
+Chúng ta không thể di chuyển trong một ngày. Xin hãy kiên nhẫn thêm một thời gian nữa. "
+
+@17417 Manami · マナミ（本话主角）
+> 「……ふぅ、もういいわ。
+>  ……ローレンス」
+"...Ồ, quên nó đi. ...Lawrence."
+
+@17418 Lawrence · ローレンス
+> 「はい」
+"Ừ. "
+
+@17419 Manami · マナミ（本话主角）
+> 「お茶は、こっちでいただくわ」
+“Mang trà tới đây.”
+
+@17420 Lawrence · ローレンス
+> 「はいお嬢様」
+"Vâng, thưa cô."
+
+@17421 Lawrence · ローレンス
+> 「はい……」
+"Ừ..."
+
+@17422 ???
+> 「やあ。元気そうだね、ローレンス」
+"Chào, Lawrence, bạn trông ổn đấy."
+
+@17423 Lawrence · ローレンス
+> 「これはこれは、お久しゅうございます
+“Ồ, đã lâu như vậy rồi.
+---
+>  この回線をお使いということは
+>  もしや……」
+Cậu dùng đường dây này để liên lạc với tôi, có phải là..."
+
+@17424 ???
+> 「うん、そろそろ僕たちも
+>  動くことになった
+"Được rồi, đã đến lúc chúng ta phải hành động rồi.
+---
+>  {HeroName}さんはいるかい?」
+Cô {HeroName} có ở đây không? "
+
+@17425 Lawrence · ローレンス
+> 「しばしお待ちを」
+"Xin vui lòng chờ một chút."
+
+@17426 Manami · マナミ（本话主角）
+> 「お待たせいたしました、
+>  {HeroName}です
+"Xin lỗi vì đã đợi, tôi là {HeroName}.
+---
+>  万丈様、あたしずっとご連絡を
+>  待ってましたのよ?」
+Ông Wan Zhang, tôi đang chờ liên lạc của ông. "
+
+@17427 Banjo · 万丈
+> 「すまなかった
+"Xin lỗi.
+---
+>  長い間いやな仕事を
+>  してもらって悪かったね」
+Tôi thực sự xin lỗi vì đã bắt bạn phải làm một việc vặt mà bạn đã không muốn làm bấy lâu nay. "
+
+@17428 Manami · マナミ（本话主角）
+> 「では……」
+"Vậy..."
+
+@17429 Banjo · 万丈
+> 「うん、こっちのほうもようやく
+>  用意が整ってきた
+“Chà, cuối cùng chúng ta cũng đã sẵn sàng ở đây.
+---
+>  スイームルグも調整まで
+>  終わったそうだ」
+Tôi nghe nói rằng những điều chỉnh của Svemluger cũng đã được hoàn thành. "
+
+@17430 Manami · マナミ（本话主角）
+> 「本当ですか!?
+>  では、いよいよ始めるのですね」
+"Thật sao!? Chà, cuối cùng cũng đến lúc bắt đầu."
+
+@17431 Banjo · 万丈
+> 「そうだ。そちらの準備が整い次第
+>  来てほしい。詳細はギャリソンに
+"Đúng vậy, chuẩn bị xong liền tới đây, ta sẽ báo cho Garrison biết tình huống cụ thể.
+---
+>  連絡させる。僕は今からもう1人
+>  にも連絡をしなくてはならないからね」
+Liên hệ với bạn. Bây giờ tôi phải liên lạc với một người nữa. "
+
+@17432 Manami · マナミ（本话主角）
+> 「どなたですの?」
+"Đó là cái nào?"
+
+@17433 Banjo · 万丈
+> 「君と同じで帝国の動きを
+>  探ってもらっていた人でね
+“Giống như bạn, bạn đã giúp tôi tìm hiểu về xu hướng của đế chế.
+---
+>  やはりロームフェラ財団の、
+>  ルフラン公爵家のご令嬢だ」
+Cô cũng là thành viên của Quỹ Romphila và là con gái của gia đình Công tước Levland. "
+
+@17434 Manami · マナミ（本话主角）
+> 「ルフラン公爵家……
+>  シモーヌ様ですね?
+“Nhà của Công tước Levland…có phải cô Simone không?
+---
+>  そういえば、あの方は3年前にも
+>  帝国と戦ったことがあったと
+Nhắc mới nhớ, tôi nghe nói rằng cô ấy ba năm trước
+---
+>  聞いていますわ」
+Anh ta cũng chiến đấu chống lại Đế quốc. "
+
+@17435 Banjo · 万丈
+> 「そういうこと。
+>  では、また後で」
+"Vậy thôi. Hẹn gặp lại sau."
+
+@17436 Manami · マナミ（本话主角）
+> 「万丈様!」
+"Ông Vạn Chương!"
+
+@17437 Banjo · 万丈
+> 「やあ、時間どおりだね
+"Xin chào, bạn đến vừa đúng lúc.
+---
+>  シモーヌさんが少し遅れている
+>  ようだから
+Có vẻ như cô Simone sẽ đến muộn hơn.
+---
+>  機体をみておくといい。
+>  こっちだ」
+Bạn đi và nhìn vào cơ thể đầu tiên. Đi lối này. "
+
+@17438 Manami · マナミ（本话主角）
+> 「あっ……!」
+"A...!"
+
+@17439 Banjo · 万丈
+> 「どうかな?」
+"Mọi chuyện thế nào rồi? "
+
+@17440 Manami · マナミ（本话主角）
+> 「これが……あたしのスイームルグ!?」
+"Đây là...Swaimlug của tôi!?"
+
+@17441 Lawrence · ローレンス
+> 「ふむ、さすがでございますな」
+"Chà, nó thực sự tuyệt vời."
+
+@17442 Banjo · 万丈
+> 「いやいや、設計データが完全だった
+>  からこそさ。でなければ、ここまでのものを
+"Ở mọi nơi, tất cả đều phụ thuộc vào dữ liệu thiết kế hoàn chỉnh. Nếu không, chúng tôi phải xây dựng lại từ đầu."
+---
+>  いちからつくるのは無理だよ。ただ、
+>  背面部にブースターのようなものを
+Bạn không thể làm điều gì đó ở cấp độ này. Tuy nhiên, ban đầu có một chỗ ở phía sau dường như được dùng để lắp đặt bộ đẩy.
+---
+>  取りつけるジョイントがあったんだけど、
+>  その部分は設計を変更して
+Giao diện thì mình đã thay đổi thiết kế phần đó rồi
+---
+>  取り外してある」
+Đã tháo dỡ. "
+
+@17443 Garrison · ギャリソン
+> 「おや? これはこれは
+>  皆様方おそろいで
+"Ồ? Rất tiếc, mọi người đều ở đây.
+---
+>  ただいま仕上げをしておりますゆえ、
+>  今しばらくお待ちください」
+Hiện tại chúng tôi đang thực hiện những khâu cuối cùng, vui lòng đợi trong giây lát. "
+
+@17444 Manami · マナミ（本话主角）
+> 「……??」
+"...??"
+
+@17445 Banjo · 万丈
+> 「はははっ、
+>  ギャリソンの趣味みたいなものでね
+“Hahaha, có thể coi đó là một trong những sở thích của Garrison.
+---
+>  スイームルグにワックスがけを
+>  しているんだ」
+Anh ấy đang tẩy lông cho Swaimluger. "
+
+@17446 Manami · マナミ（本话主角）
+> 「なに、これは!?」
+"Cái, chuyện gì đang xảy ra vậy!?"
+
+@17447 Garrison · ギャリソン
+> 「どうやら帝国軍がこの近くに
+>  きているようですな」
+“Có vẻ như Quân đội Hoàng gia đang ở gần đây.”
+
+@17448 Manami · マナミ（本话主角）
+> 「なんですって!?」
+"Anh vừa nói gì thế!?"
+
+@17449 Lawrence · ローレンス
+> 「ふむ、わたくしが様子をみて
+>  まいりましょう」
+"Được, tôi đi kiểm tra tình hình."
+
+@17450 Lawrence · ローレンス
+> 「やはり帝国軍のようでございます」
+"Có vẻ như đó thực sự là Quân đội Hoàng gia."
+
+@17451 Banjo · 万丈
+> 「やつらはこんなところで一体なにを?
+“Họ muốn làm cái quái gì ở một nơi như thế này?
+---
+>  僕たちが見つかっていたとは
+>  思えないが……」
+Có lẽ chúng ta vẫn chưa bị phát hiện…”
+
+@17452 Lawrence · ローレンス
+> 「それが、どうも無差別に住民
+>  たちを攻撃している様子で」
+"Chà, có vẻ như họ đang tấn công cư dân một cách bừa bãi."
+
+@17453 Banjo · 万丈
+> 「なんだって!? ……そうか、
+“Anh vừa nói gì thế!?...Nhân tiện,
+---
+>  最近そんな話がいくつかあったな、
+>  ギャリソン」
+Gần đây tôi đã nghe chuyện này vài lần rồi, Garrison. "
+
+@17454 Garrison · ギャリソン
+> 「少々お待ちください。
+>  ……確かに帝国軍のゲリラ狩りの
+“Xin vui lòng đợi một lát. … Quả thực, khi Quân đội Đế quốc đàn áp quân du kích,
+---
+>  一環として、そのような作戦が
+>  とられることがあるようですな」
+Phương pháp này đôi khi được sử dụng. "
+
+@17455 Manami · マナミ（本话主角）
+> 「なんということを!
+>  では、まるで無関係な
+“Thật vô lý! Bằng cách này, họ chẳng liên quan gì đến nhau cả.
+---
+>  老人や子供まで攻撃して
+>  いるというの!?
+Người già và trẻ em đang hành động! ?
+---
+>  許せない……
+>  絶対に許せないわ!」
+Không thể tha thứ... tuyệt đối không thể tha thứ! "
+
+@17456 Lawrence · ローレンス
+> 「お嬢様!?」
+"Cô!?"
+
+@17457 Manami · マナミ（本话主角）
+> 「なにをしているの、ローレンス!
+>  スイームルグを出すのよ!!」
+"Anh đang làm gì vậy, Lawrence! Đưa Svimluger ra ngoài!!"
+
+@17458 Lawrence · ローレンス
+> 「お嬢様! いきなり実戦を
+>  なさるおつもりですか!?」
+"Cô ơi! Cô có định đánh nhau ngay khi lên không?"
+
+@17459 Manami · マナミ（本话主角）
+> 「あたり前でしょ。さぁ早く!」
+"Không cần phải nói. Nhanh lên, nhanh lên!"
+
+@17460 Manami · マナミ（本话主角）
+> 「すごいわ……これが、おじい様の
+>  スイームルグなのね……」
+"Thật tuyệt vời...đây là Svemluger của ông nội..."
+
+@17461 Banjo · 万丈
+> 「やれやれ、さすがに行動力にとんだ
+>  お嬢様だ
+"Ôi chao, cô đúng là một cô gái trẻ có năng lực phi thường.
+---
+>  ギャリソン、僕もでる。後は頼む」
+Garrison, tôi cũng sẽ tấn công. Tôi sẽ để lại cho bạn sau. "
+
+@17462 Garrison · ギャリソン
+> 「いってらっしゃいませ」
+"Xin hãy đi bộ chậm rãi."
+
+@17463 Banjo · 万丈
+> 「ダイターン、カムヒアッ!」
+"Titan, tới!"
+
+@17464 Banjo · 万丈
+> 「世のため人のため、ムゲゾルバドス
+>  帝国の野望を打ち砕く
+"Vì lợi ích của thế giới, vì nhân dân, hãy đập tan tham vọng đế quốc của Muge Zolbados
+---
+>  ダイターン3。この日輪の輝きを、
+>  恐れぬのならば、かかってこい!」
+Titan 3. Nếu bạn không ngại sự chói chang của mặt trời này thì hãy đến đây nhé! "
+
+@17465 Manami · マナミ（本话主角）
+> 「あら!? よい前口上だわ。あたしも
+>  何か考えた方がいいのかしら
+"Rất tiếc!? Thật là một lời mở đầu. Tôi có nên nghĩ gì đó không?
+---
+>  どう思う、ローレンス?」
+Bạn nghĩ sao, Lawrence? "
+
+@17466 Lawrence · ローレンス
+> 「お嬢様、そのようなことは
+>  後でお考えなさいませ!
+“Thưa cô, xin hãy suy nghĩ về điều này sau!
+---
+>  敵が参りますぞ!」
+Kẻ thù đang đến! "
+
+@17467 Manami · マナミ（本话主角）
+> 「……わかってるわよ!」
+"...Tôi biết!"
+
+@17468 Simone · シモーヌ
+> 「あれは……。
+>  ちょっと万丈
+"Đó là... Này, Vạn Chương,
+---
+>  いったい、なんだってこんなところで
+>  戦闘になってるの!?」
+Làm sao có thể xảy ra đánh nhau ở một nơi như thế này! ? "
+
+@17469 Banjo · 万丈
+> 「遅れてきて、いきなりそれは
+>  ないんじゃない?
+"Không phải là xấu khi bị thẩm vấn khi bạn đến muộn sao?
+---
+>  まあ説明は後だ。
+>  それよりドールを持ってきてある
+Quên nó đi, tôi sẽ giải thích sau. Nhưng tôi đã mang Dole theo cùng.
+---
+>  手伝ってもらえると
+>  うれしいんだけどね」
+Sẽ thật tuyệt nếu bạn giúp đỡ. "
+
+@17470 Simone · シモーヌ
+> 「ああ。それはいいんだけど……
+>  実はアタシも追われてるのよ」
+"Ừ. Không có vấn đề gì...Thật ra, tôi cũng đang bị truy đuổi."
+
+@17471 Manami · マナミ（本话主角）
+> 「どういうことです、シモーヌ様?」
+“Có chuyện gì thế, cô Simone?”
+
+@17472 Simone · シモーヌ
+> 「あら、見慣れない機体があると
+>  思ったら、貴女のだったのね
+“Ồ, tôi còn đang thắc mắc cái thi thể kỳ lạ này từ đâu đến, hóa ra là của anh.
+---
+>  実は連絡員がつかまって、
+>  アタシが情報を流していたことが
+Trên thực tế, sĩ quan liên lạc đã bị bắt và tôi đang chuyển thông tin.
+---
+>  バレちゃったのよ。ちょうどここへ来る
+>  予定だったから、タイミングはそれほど
+Tiết lộ. Dù sao thì tôi cũng sẽ ở đây nên thời gian không thành vấn đề.
+---
+>  悪くなかったけど、それで追手が
+>  かかってるってわけ」
+Tệ quá, anh ấy đã trở thành mục tiêu của những kẻ truy đuổi vì điều này. "
+
+@17473 Garrison · ギャリソン
+> 「確認いたしました。
+>  帝国軍部隊が接近中
+“Điều đó đã được xác nhận. Quân đội Đế quốc đang đến gần.
+---
+>  もう少しで接触します」
+Chúng ta sẽ gặp nhau sớm thôi. "
+
+@17474 Banjo · 万丈
+> 「やれやれ、高貴なお嬢様方の
+>  エスコートは、楽にはいかないな」
+“Ôi chao, hộ tống các quý cô không dễ chút nào.”
+
+@17475 Manami · マナミ（本话主角）
+> 「来たわね!
+>  どんどんかかってらっしゃい!!」
+"Tới rồi! Hãy để ngựa của bạn tới đây!!"
+
+@17476 Lawrence · ローレンス
+> 「お嬢様ッ!?」
+"Cô!?"
+
+@17477 Manami · マナミ（本话主角）
+> 「そ……そんな」
+"Làm sao... làm sao có thể..."
+
+@17478 Manami · マナミ（本话主角）
+> 「ふう……」
+"Hừ..."
+
+@17479 Lawrence · ローレンス
+> 「どうやら終わったようですな」
+"Có vẻ như mọi chuyện đã kết thúc."
+
+@17480 Manami · マナミ（本话主角）
+> 「そうね」
+"Ừ. "
+
+@17481 Banjo · 万丈
+> 「ご苦労様。ケガはないかい、
+>  お嬢さんたち」
+"Cảm ơn vì đã làm việc chăm chỉ. Các cô không bị thương chứ?"
+
+@17482 Manami · マナミ（本话主角）
+> 「ええ、大丈夫ですわ」
+"Ừ, tôi ổn."
+
+@17483 Simone · シモーヌ
+> 「久しぶりで少し疲れたけど、
+>  問題ないわ」
+"Đã lâu không chơi, có chút mệt mỏi, nhưng không sao."
+
+@17484 Banjo · 万丈
+> 「それはよかった。ギャリソン、
+>  移動の準備をしてくれ
+“Tốt rồi. Garrison, chuẩn bị chuyển giao.
+---
+>  のんびりして敵に見つかって
+>  やることもないだろう」
+Không cần phải chờ đợi để bị kẻ thù phát hiện. "
+
+@17485 Garrison · ギャリソン
+> 「もちろん、すでに準備は
+>  できております」
+"Tất nhiên là chúng tôi đã chuẩn bị sẵn sàng rồi."
+
+@17486 Banjo · 万丈
+> 「それで、どうなっているんだい?」
+“Vậy, mọi chuyện thế nào rồi?”
+
+@17487 Simone · シモーヌ
+> 「奴らも本腰を入れ始めているわ。
+>  これまでみたいな暴動鎮圧のための
+“Những kẻ đó bắt đầu trở nên nghiêm túc rồi. Họ không còn là những người đàn áp bạo loạn như trước nữa.
+---
+>  治安部隊なんかじゃなくて
+>  組織的なレジスタンスに対応する
+lực lượng an ninh, nhưng đặc biệt là để đối phó với các phong trào kháng chiến có tổ chức
+---
+>  ちゃんとした部隊を編成している
+>  みたいね。それから、ここしばらくの
+Quân đội chính quy dường như đang được thành lập. Ngoài ra, tôi cũng nghe nói gần đây
+---
+>  ゲリラ狩りで功績があったとかで
+>  スペシャルズの権限が拡大してるわ」
+Việc trấn áp du kích đã thành công, lực lượng đặc biệt ngày càng hùng mạnh. "
+
+@17488 Lawrence · ローレンス
+> 「ふむ、スペシャルズといえば
+>  ロームフェラ財団が
+"À, nói về lực lượng đặc biệt, người ta nói họ là Tập đoàn Romphela.
+---
+>  組織したと目される
+>  地球人の部隊ですな」
+Quân đội trái đất được thành lập. "
+
+@17489 Manami · マナミ（本话主角）
+> 「許せない。
+>  ロームフェラもスペシャルズも
+"Không thể tha thứ. Dù là Romphila hay lực lượng đặc biệt,
+---
+>  自分たちの権益を
+>  確保するために
+Để bảo vệ lợi ích của chính mình,
+---
+>  同じ地球人に、こうも非道な
+>  行為をするなんて」
+Thực sự gây ra những hành động tàn bạo như vậy đối với những người đồng loại trên trái đất. "
+
+@17490 Simone · シモーヌ
+> 「結局、帝国の支配下に
+>  あるうちは
+"Trong phân tích cuối cùng, miễn là bạn vẫn còn nằm dưới sự thống trị của đế chế,
+---
+>  3種類の地球人しかいないのよ
+Chỉ có ba loại người trên trái đất.
+---
+>  生きるために帝国の言うとおりに
+>  おとなしく生活するか
+Hoặc là sống ngoan ngoãn và tuân theo mệnh lệnh của đế quốc để tồn tại,
+---
+>  帝国に協力するか、
+>  帝国に反抗するか
+Hoặc hỗ trợ Đế quốc hoặc nổi dậy chống lại Đế quốc.
+---
+>  いやな時代だわ、ホントに」
+Những ngày này thật sự rất khó chịu. "
+
+@17491 Manami · マナミ（本话主角）
+> 「シモーヌ様……」
+"Cô Simone..."
+
+@17492 Simone · シモーヌ
+> 「“様”は、やめましょ。
+>  もともと性に合わないし
+“Đừng gọi tôi là cô nữa. Đó không phải là tính khí của tôi.
+---
+>  お互い、もうただの
+>  レジスタンスなんだから」
+Dù sao thì bây giờ cả hai chúng tôi cũng chỉ là thành viên của tổ chức kháng chiến. "
+
+@17493 Banjo · 万丈
+> 「しかし帝国軍が、そう出て
+>  くるとなると
+"Tuy nhiên, nếu Quân đội Hoàng gia nghiêm túc về việc đó,
+---
+>  この先、かなり厳しくなって
+>  くるな……
+Những ngày sắp tới sẽ khó khăn...
+---
+>  まぁいい、ともかく先を急ごう。
+>  いま僕たちがするべきなのは
+Quên nó đi, dù sao thì chúng ta cũng hãy tiếp tục con đường của mình. Chúng ta nên làm gì bây giờ,
+---
+>  できるだけ早く十分な戦力を
+>  整えることだ」
+Chỉ cần tập hợp đủ sức chiến đấu càng sớm càng tốt. "
+
+@17494 Manami · マナミ（本话主角）
+> 「それで、どちらへ向かうのですか?」
+"Vậy chúng ta sẽ đi đâu? "
+
+@17495 Banjo · 万丈
+> 「とりあえずカラバで、研究を
+>  支援している博士の1人に
+“Ngay bây giờ, chúng ta sẽ gặp một
+---
+>  会いに行く予定だ」
+Một nghiên cứu sinh tiến sĩ được tài trợ bởi Calabar. "
+
+@17496 Simone · シモーヌ
+> 「カラバ……あなたたちが組織した
+>  反帝国グループね
+"Calaba... là nhóm chống đế quốc do anh tổ chức.
+---
+>  そんなこともしてるの」
+Hóa ra bạn vẫn làm những việc như thế này. "
+
+@17497 Garrison · ギャリソン
+> 「科学者の方々、特に軍事
+>  関係や、それに転用できる
+“Các nhà khoa học, đặc biệt là những người tham gia nghiên cứu quân sự,
+---
+>  エネルギー関連の研究を
+>  されている方々は
+Hoặc những bạn đang nghiên cứu các nguồn năng lượng có thể sử dụng cho mục đích quân sự,
+---
+>  帝国に目をつけられやすい
+>  ですからな
+Thật dễ dàng để trở thành mục tiêu của Đế quốc.
+---
+>  ほかにも旧連邦の技術者など
+>  何人かの方がおりますが
+Ngoài ra còn có một số nhân viên kỹ thuật của liên đoàn cũ v.v.
+---
+>  大半の方はもともと
+>  日本地区に研究施設を
+Nhưng hầu hết đều có nguồn gốc từ Nhật Bản
+---
+>  持たれていたのですよ
+Được trang bị các cơ sở nghiên cứu.
+---
+>  ムゲゾルバドス帝国の占領前に
+>  私どもがご助力して
+Chúng tôi đến để hỗ trợ trước khi Đế chế Muge Zolbados tiếp quản,
+---
+>  各地に散っていただいたので
+>  ございます」
+Hãy phân tán chúng đến nhiều nơi khác nhau. "
+
+@17498 Simone · シモーヌ
+> 「なるほどねぇ
+"Đó là nó.
+---
+>  それでドールみたいな地球製SPT
+>  なんてのも、つくれたわけね」
+Đó là lý do tại sao chúng ta có thể tạo ra SPT do Trái đất tạo ra giống như Dole. "
+
+@17499 Banjo · 万丈
+> 「そういうこと」
+"Đó là nó."
+
+@17500 Manami · マナミ（本话主角）
+> 「それで、これからお会いする方は
+>  何を研究されているのです?」
+“Vậy, người mà tôi sẽ gặp trong buổi học tiếp theo là ai? "
+
+@17501 Banjo · 万丈
+> 「光子力エネルギーさ」
+"Năng lượng lực photon."
+
+@17502 Simone · シモーヌ
+> (エイジ……みんな……
+>  生きているのかしら……)
+(Eiji... mọi người... mọi người vẫn còn sống à...)

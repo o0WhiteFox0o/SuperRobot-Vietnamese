@@ -1,0 +1,415 @@
+# Bản dịch tiếng Việt Super Robot Wars 64
+# Định dạng và vị trí: docs/guide/dialogue-text.md
+
+@11830 Kappei · 勝平
+# Kích hoạt: Tấn công (Chung，1/4）
+> 「このやろ、このやろ!」
+"Đồ khốn, đồ khốn!"
+
+@11831 Kappei · 勝平
+# Kích hoạt: Tấn công (Chung，2/4）
+> 「こんにゃろ!!」
+"Đồ khốn nạn!!"
+
+@11832 Kappei · 勝平
+# Kích hoạt: Tấn công (Chung，3/4）
+> 「これでもくらえっ!!」
+"Ăn chiêu của tôi đi!!"
+
+@11833 Kappei · 勝平
+# Kích hoạt: Tấn công (Chung，4/4）
+> 「いっけぇぇぇぇぇっ!!!」
+"Nào————!!!"
+
+@11834 Kappei · 勝平
+# Kích hoạt: 被击坠（通用，1/3）
+> 「ちっくしょおおおおおっ!!」
+"Chết tiệt ahhhhhh!!"
+
+@11835 Kappei · 勝平
+# Kích hoạt: 被击坠（通用，2/3）
+> 「ちくしょうっ! やられちまった!」
+"Chết tiệt! Bị giết rồi!"
+
+@11836 Kappei · 勝平
+# Kích hoạt: 被击坠（通用，3/3）
+> 「うわああああっ!!」
+"Aaaaaaaaaaaaa!!"
+
+@11837 Kappei · 勝平
+# Kích hoạt: 重伤（剩余 HP 不足 30%）（通用，1/3）
+> 「ヤバイっ! このままじゃ
+>  やられちまうっ!!」
+"Ối! Nếu tiếp tục như thế này, cậu sẽ bị giết đấy!!"
+
+@11838 Kappei · 勝平
+# Kích hoạt: 重伤（剩余 HP 不足 30%）（通用，2/3）
+> 「ちくしょう!! このままじゃ
+>  やられちまうぜっ!!」
+"Chết tiệt!! Nếu tiếp tục như thế này, bạn sẽ bị giết!!"
+
+@11839 Kappei · 勝平
+# Kích hoạt: 重伤（剩余 HP 不足 30%）（通用，3/3）
+> 「くっ! ちくしょう、ヤバイぜ!」
+"Ugh! Chết tiệt, thật kinh khủng!"
+
+@11840 Kappei · 勝平
+# Kích hoạt: 中伤（剩余 HP 30–90%）（通用，1/4）
+> 「あいたたっ! やったな、
+>  こんちくしょうっ!!」
+"Đau quá! Ngươi dám đánh ta, tên khốn này!!"
+
+@11841 Kappei · 勝平
+# Kích hoạt: 中伤（剩余 HP 30–90%）（通用，2/4）
+> 「くっ! やるじゃん!」
+"Chà! Chỉ mất vài giây thôi!"
+
+@11842 Kappei · 勝平
+# Kích hoạt: 中伤（剩余 HP 30–90%）（通用，3/4）
+> 「なんの、これしき!」
+"Vết thương nhỏ này không là gì cả!"
+
+@11843 Kappei · 勝平
+# Kích hoạt: 中伤（剩余 HP 30–90%）（通用，4/4）
+> 「うわっ! やってくれんじゃねえの!」
+"Wow! Nó là của bạn!"
+
+@11844 Kappei · 勝平
+# Kích hoạt: 轻伤（剩余 HP 90% 以上）（通用，1/5）
+> 「あいてっ!」
+"Đau quá!"
+
+@11845 Kappei · 勝平
+# Kích hoạt: 轻伤（剩余 HP 90% 以上）（通用，2/5）
+> 「へん、その程度かよ!」
+"Humph, đó là tất cả những gì bạn có!"
+
+@11846 Kappei · 勝平
+# Kích hoạt: 轻伤（剩余 HP 90% 以上）（通用，3/5）
+> 「なんでぇ、そんなもんかよ!」
+"Cái gì, chỉ thế thôi!"
+
+@11847 Kappei · 勝平
+# Kích hoạt: 轻伤（剩余 HP 90% 以上）（通用，4/5）
+> 「やりゃあがったな、こんちくしょう!!」
+“Mày thực sự đã làm được đấy, đồ khốn!!”
+
+@11848 Kappei · 勝平
+# Kích hoạt: 轻伤（剩余 HP 90% 以上）（通用，5/5）
+> 「やったな、この野郎!!」
+"Sao ngươi dám đánh ta, tên khốn này!!"
+
+@11849 Kappei · 勝平
+# Kích hoạt: Né tránh（通用，1/3）
+> 「おっとっと」
+"Ối."
+
+@11850 Kappei · 勝平
+# Kích hoạt: Né tránh（通用，2/3）
+> 「なんとっ!」
+"Ối!"
+
+@11851 Kappei · 勝平
+# Kích hoạt: Né tránh（通用，3/3）
+> 「へん、くやしかったらあててみな!」
+“Hừm, nếu ngươi không tin thì thử đánh ta xem!”
+
+@11852 Kappei · 勝平
+# Kích hoạt: Tấn công无效（护罩／装甲）（通用，1/2）
+> 「ムダだっていってんじゃん!」
+"Tôi đã nói với bạn rằng đó là một sự lãng phí công sức!"
+
+@11853 Kappei · 勝平
+# Kích hoạt: Tấn công无效（护罩／装甲）（通用，2/2）
+> 「この程度のビームなんざへでもねえぜ!」
+"Chùm ánh sáng nhỏ này chẳng là gì cả!"
+
+@11854 Kappei · 勝平
+# Kích hoạt: 弹药／EN 不足，无法反击（通用，1/1）
+> 「ちっ! 反撃できねえ!!」
+"Tsk! Không có cách nào để đánh trả được!!"
+
+@11855 Kappei · 勝平
+# Kích hoạt: 射程外，无法反击（通用，1/1）
+> 「だめだ! とどかねえっ!!」
+"Không! Nó ngoài tầm với!!"
+
+@16689 Kappei · 勝平
+# Kích hoạt: 使用〈ザンボットグラップ〉
+> 「ザンボットグラップ!!」
+“Zanbogrup!!”
+
+@16690 Kappei · 勝平
+# Kích hoạt: 使用〈ザンボットグラップ〉
+> 「ザンボットグラップだっ!!」
+“Zanbogrup!!”
+
+@16691 Kappei · 勝平
+# Kích hoạt: 使用〈ザンボットブロー〉
+> 「ザンボットブロー!!」
+"Zanbo đánh mạnh!!"
+
+@16692 Kappei · 勝平
+# Kích hoạt: 使用〈ザンボットブロー〉
+> 「ザンボットブローだっ!!」
+"Zanbo đánh mạnh!!"
+
+@16693 Kappei · 勝平
+# Kích hoạt: 使用〈ザンボットバスター〉
+> 「ザンボットバスター!!」
+"Kẻ hủy diệt Zanbo!!"
+
+@16694 Kappei · 勝平
+# Kích hoạt: 使用〈ザンボットバスター〉
+> 「ザンボットバスターだっ!!」
+"Kẻ hủy diệt Zanbo!!"
+
+@16695 Kappei · 勝平
+# Kích hoạt: 使用〈ザンボットカッター〉
+> 「ザンボットカッター!!」
+"Lưỡi cắt Zanbo!!"
+
+@16696 Kappei · 勝平
+# Kích hoạt: 使用〈ザンボットカッター〉
+> 「ザンボットカッターだっ!!」
+"Lưỡi cắt Zanbo!!"
+
+@16697 Kappei · 勝平
+# Kích hoạt: 使用〈アームパンチ〉
+> 「アームパンチ!!」
+"Cú đấm bằng tay!!"
+
+@16698 Kappei · 勝平
+# Kích hoạt: 使用〈アームパンチ〉
+> 「アームパンチだっ!!」
+"Cú đấm bằng tay!!"
+
+@16699 Kappei · 勝平
+# Kích hoạt: 使用〈ベースミサイル〉（低优先，可能被通用台词顶掉）
+> 「バスターミサイル!!」
+"Phá hủy tên lửa!!"
+
+@16700 Kappei · 勝平
+# Kích hoạt: 使用〈ベースミサイル〉（低优先，可能被通用台词顶掉）
+> 「バスターミサイルだっ!!」
+"Phá hủy tên lửa!!"
+
+@16701 Kappei · 勝平
+# Kích hoạt: 使用〈バードガン〉
+> 「バードガン!!」
+"Súng bắn chim!!"
+
+@16702 Kappei · 勝平
+# Kích hoạt: 使用〈バードガン〉
+> 「バードガンだっ!!」
+"Súng bắn chim!!"
+
+@16703 Kappei · 勝平
+# Kích hoạt: 使用〈大型ミサイル〉
+> 「大型ミサイル!!」
+"Tên lửa lớn!!"
+
+@16704 Kappei · 勝平
+# Kích hoạt: 使用〈大型ミサイル〉
+> 「大型ミサイルだっ!!」
+"Tên lửa lớn!!"
+
+@16705 Kappei · 勝平
+# Kích hoạt: 使用〈トレンブルホーン〉
+> 「トレンブルホーン!!」
+"Sừng rung chuyển!!"
+
+@16706 Kappei · 勝平
+# Kích hoạt: 使用〈トレンブルホーン〉
+> 「トレンブルホーンだっ!!」
+"Sừng rung chuyển!!"
+
+@16707 Kappei · 勝平
+# Kích hoạt: 使用〈ムーンアタック〉
+> 「ムーンアタァァァック!!」
+"Tấn công-ánh trăng-tấn công-!!"
+
+@16708 Kappei · 勝平
+# Kích hoạt: 使用〈ムーンアタック〉
+> 「ザンボット・ムーンアタァァァック!!」
+"Zanbo Moon-Light-Tấn công-Tấn công-!!"
+
+@16709 Uchuta · 宇宙太
+# Kích hoạt: 使用〈ムーンアタック〉（对话第 1/2 句）
+> 「勝平、いつでもいけるぜ!」
+"Khengping, ngươi có thể tới bất cứ lúc nào!"
+
+@16710 Kappei · 勝平
+# Kích hoạt: 使用〈ムーンアタック〉（对话第 2/2 句）
+> 「わかった! ザンボット・ムーン
+>  アタァァァック!!」
+"Đã hiểu! Zanbo Moon-Tấn công ánh sáng-!!"
+
+@16711 Uchuta · 宇宙太
+# Kích hoạt: 使用〈ムーンアタック〉（对话第 1/2 句）
+> 「やるぞ勝平!!」
+"Tiếp tục đi, Katsuhira!!"
+
+@16712 Kappei · 勝平
+# Kích hoạt: 使用〈ムーンアタック〉（对话第 2/2 句）
+> 「いっけぇぇぇ!! ザンボット・ムーン
+>  アタァァァーック!!」
+"Tấn công——!!Zanbo·Yue——Ánh sáng——Tấn công——!!"
+
+@16713 Keiko · 恵子
+# Kích hoạt: Tấn công，乘坐〈ザンボット3〉（对话第 1/2 句）
+> 「勝平、敵の弱点がわかったわ!」
+"Shengping, tôi biết điểm yếu của kẻ thù!"
+
+@16714 Kappei · 勝平
+# Kích hoạt: Tấn công，乘坐〈ザンボット3〉（对话第 2/2 句）
+> 「よぉし!! いっくぞぉぉーっ!!」
+"Được rồi!! Bắt đầu thôi——!!"
+
+@16715 Banjo · 万丈
+# Kích hoạt: 使用〈スペースコンビネーションアタック〉（对话第 1/10 句）
+> 「用意はいいかい、君たち?」
+"Các bạn đã sẵn sàng chưa, các bạn?"
+
+@16716 Kappei · 勝平
+# Kích hoạt: 使用〈スペースコンビネーションアタック〉（对话第 2/10 句）
+> 「おう!」
+"Được rồi!"
+
+@16717 Kappei · 勝平
+# Kích hoạt: 使用〈スペースコンビネーションアタック〉（对话第 3/10 句）
+> 「いつでも大丈夫だぜ!」
+"Bất cứ lúc nào, không có vấn đề!"
+
+@16718 Banjo · 万丈
+# Kích hoạt: 使用〈スペースコンビネーションアタック〉（对话第 4/10 句）
+> 「よし! ではいくぞ!」
+"Được rồi! Đi thôi!
+---
+> 「日輪の力を借りて、今、必殺の!」
+Với sức mạnh của mặt trời, vào lúc này, kẻ phải bị giết——! "
+
+@16719 Kappei · 勝平
+# Kích hoạt: 使用〈スペースコンビネーションアタック〉（对话第 5/10 句）
+> 「ザンボットォォォッ!!」
+"Zanbo——!!"
+
+@16720 Banjo · 万丈
+# Kích hoạt: 使用〈スペースコンビネーションアタック〉（对话第 6/10 句）
+> 「サン!」
+"Mặt trời!"
+
+@16721 Kappei · 勝平
+# Kích hoạt: 使用〈スペースコンビネーションアタック〉（对话第 7/10 句）
+> 「ムーン!」
+"Mặt trăng!"
+
+@16722 Banjo · 万丈
+# Kích hoạt: 使用〈スペースコンビネーションアタック〉（对话第 8/10 句）
+> 「アタァァァァァーック!!」
+"Tấn công-tấn công-!!"
+
+@16723 Banjo · 万丈
+# Kích hoạt: 使用〈スペースコンビネーションアタック〉（对话第 9/10 句）
+> 「コンビネーション!!」
+“Sự kết hợp——!!”
+
+@16724 Kappei · 勝平
+# Kích hoạt: 使用〈スペースコンビネーションアタック〉（对话第 10/10 句）
+> 「クラァァァッシュ!!」
+"Đè bẹp——!!"
+
+@16725 Uchuta · 宇宙太
+# Kích hoạt: 被击坠，乘坐〈ザンボット3〉
+> 「くっ……勝平ッ! ひとまず
+>  ひきあげよう!」
+"Ừm...Kappei! Hãy rút lui trước!"
+
+@16726 Kappei · 勝平
+# Kích hoạt: 重伤（剩余 HP 不足 30%），乘坐〈ザンボット3〉（对话第 1/2 句）
+> 「くっ……ヤバイぜ」
+"Chà...điều đó không tốt."
+
+@16727 Keiko · 恵子
+# Kích hoạt: 重伤（剩余 HP 不足 30%），乘坐〈ザンボット3〉（对话第 2/2 句）
+> 「勝平、もうもたないわ!!」
+"Khengping, tôi không thể chịu đựng được nữa!!"
+
+@16728 Keiko · 恵子
+# Kích hoạt: 重伤（剩余 HP 不足 30%），乘坐〈ザンボット3〉
+> 「勝平、このままだとザンボットの
+>  回路がボロボロになるわ!」
+"Kappei, nếu điều này tiếp tục, mạch điện của Zanbo sẽ bị phá hủy hoàn toàn!"
+
+@16729 Keiko · 恵子
+# Kích hoạt: 重伤（剩余 HP 不足 30%），乘坐〈ザンボット3〉（对话第 1/2 句）
+> 「あぅぅっ! お願い、勝平だけが
+>  頼りなのよ!」
+"Aww! Làm ơn, giờ tôi chỉ có thể trông cậy vào bạn thôi, Katsuhira!"
+
+@16730 Kappei · 勝平
+# Kích hoạt: 重伤（剩余 HP 不足 30%），乘坐〈ザンボット3〉（对话第 2/2 句）
+> 「わ、わかってらぁ!!」
+"Tôi biết, tôi biết!!"
+
+@16731 Kappei · 勝平
+# Kích hoạt: 中伤（剩余 HP 30–90%），乘坐〈ザンボット3〉（对话第 1/2 句）
+> 「くっ、ちっきしょう!!」
+"Hừ, chết tiệt!!"
+
+@16732 Keiko · 恵子
+# Kích hoạt: 中伤（剩余 HP 30–90%），乘坐〈ザンボット3〉（对话第 2/2 句）
+> 「勝平、落ち着いて!」
+“Katsuhira, bình tĩnh lại!”
+
+@16733 Uchuta · 宇宙太
+# Kích hoạt: 中伤（剩余 HP 30–90%），乘坐〈ザンボット3〉（对话第 1/2 句）
+> 「くっ、なにやってんだよ勝平!!」
+"Ừm, cậu đang làm gì thế, Katsuhira!!"
+
+@16734 Kappei · 勝平
+# Kích hoạt: 中伤（剩余 HP 30–90%），乘坐〈ザンボット3〉（对话第 2/2 句）
+> 「うるせーっ!! こっちだって
+>  一生懸命やってんだい!!」
+"Đừng nói nhảm nữa!! Tôi cũng đang làm việc chăm chỉ đây!!"
+
+@16735 Uchuta · 宇宙太
+# Kích hoạt: 轻伤（剩余 HP 90% 以上），乘坐〈ザンボット3〉（对话第 1/2 句）
+> 「うわっ、勝平!?」
+“Ồ, Katsuhira!?”
+
+@16736 Kappei · 勝平
+# Kích hoạt: 轻伤（剩余 HP 90% 以上），乘坐〈ザンボット3〉（对话第 2/2 句）
+> 「こんぐらいでガタガタ抜かすな!」
+"Đừng quá cầu kỳ về chuyện nhỏ này!"
+
+@16737 Uchuta · 宇宙太
+# Kích hoạt: Né tránh，乘坐〈ザンボット3〉（对话第 1/2 句）
+> 「最大パワーがでるぞ! 上昇だ、
+>  勝平!」
+"Sức mạnh có thể phát huy đến mức tối đa! Kéo lên và thắng hòa!"
+
+@16738 Kappei · 勝平
+# Kích hoạt: Né tránh，乘坐〈ザンボット3〉（对话第 2/2 句）
+> 「わかった!」
+"Đã hiểu!"
+
+@16739 Kappei · 勝平
+# Kích hoạt: Né tránh，乘坐〈ザンボット3〉（对话第 1/2 句）
+> 「おっとっとぉ!」
+"Ối!"
+
+@16740 Keiko · 恵子
+# Kích hoạt: Né tránh，乘坐〈ザンボット3〉（对话第 2/2 句）
+> 「もう! 遊んでないでちゃんとやって!」
+"Thật sao! Đừng chơi nữa và làm việc chăm chỉ!"
+
+@16741 Kappei · 勝平
+# Kích hoạt: Tấn công无效（护罩／装甲），乘坐〈ザンボット3〉（对话第 1/2 句）
+> 「へへーん、効きゃしないぜ!」
+"Này, nó chẳng có tác dụng gì cả!"
+
+@16742 Keiko · 恵子
+# Kích hoạt: Tấn công无效（护罩／装甲），乘坐〈ザンボット3〉（对话第 2/2 句）
+> 「ちょっと、油断しすぎよ!」
+"Này, cậu bất cẩn quá đấy!"

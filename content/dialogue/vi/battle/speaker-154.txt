@@ -1,0 +1,192 @@
+# Bản dịch tiếng Việt Super Robot Wars 64
+# Định dạng và vị trí: docs/guide/dialogue-text.md
+
+@7273 Ginrei · 銀鈴
+# Kích hoạt: Tấn công (Chung，1/11）
+> 「やぁっ!」
+"Vâng!"
+
+@7274 Ginrei · 銀鈴
+# Kích hoạt: Tấn công (Chung，2/11）
+> 「えいっ!」
+"Này!"
+
+@7275 Ginrei · 銀鈴
+# Kích hoạt: Tấn công (Chung，3/11）
+> 「いくわよっ」
+"Tôi đang ở trên đó!"
+
+@7276 Ginrei · 銀鈴
+# Kích hoạt: Tấn công (Chung，4/11）
+> 「これが受けられるかしら!?」
+"Bạn có thể xử lý được động tác này không!?"
+
+@7277 Ginrei · 銀鈴
+# Kích hoạt: Tấn công (Chung，5/11）
+> 「キリがないわ」
+“Nó là vô tận”
+
+@7278 Ginrei · 銀鈴
+# Kích hoạt: Tấn công (Chung，6/11）
+> 「油断してるとケガするわよ!」
+"Nếu quá bất cẩn, ngươi sẽ phải gánh chịu hậu quả!"
+
+@7279 Ginrei · 銀鈴
+# Kích hoạt: Tấn công (Chung，7/11）
+> 「いけるわっ」
+"Nó hoạt động!"
+
+@7280 Ginrei · 銀鈴
+# Kích hoạt: Tấn công (Chung，8/11）
+> 「これを受けてみなさい!」
+"Hãy di chuyển của tôi!"
+
+@7281 Ginrei · 銀鈴
+# Kích hoạt: Tấn công (Chung，9/11）
+> 「たあぁぁぁぁっ!」
+"Taaaaaaaaaaaaaaaaaaaaaaaa!"
+
+@7282 Ginrei · 銀鈴
+# Kích hoạt: Tấn công (Chung，10/11）
+> 「はっ」
+"Hà"
+
+@7283 Ginrei · 銀鈴
+# Kích hoạt: Tấn công (Chung，11/11）
+> 「はぁっ!」
+"Ha!"
+
+@7284 Ginrei · 銀鈴
+# Kích hoạt: 被击坠（通用，1/1）
+> 「きゃぁぁぁぁっ!!」
+"Ahhhhhh!!"
+
+@7285 Ginrei · 銀鈴
+# Kích hoạt: 重伤（剩余 HP 不足 30%）（通用，1/4）
+> 「いやぁぁぁぁっ!」
+"Không a a a!"
+
+@7286 Ginrei · 銀鈴
+# Kích hoạt: 重伤（剩余 HP 不足 30%）（通用，2/4）
+> 「あぁぁぁうぅぅぅっ!!」
+"Ahhhhhh!!"
+
+@7287 Ginrei · 銀鈴
+# Kích hoạt: 重伤（剩余 HP 不足 30%）（通用，3/4）
+> 「これくらいのことでは、私は負けない!」
+"Ở trình độ này, tôi sẽ không thua!"
+
+@7288 Ginrei · 銀鈴
+# Kích hoạt: 重伤（剩余 HP 不足 30%）（通用，4/4）
+> 「そ、そんなっ!?」
+"Làm sao, làm sao có thể!?"
+
+@7289 Ginrei · 銀鈴
+# Kích hoạt: 中伤（剩余 HP 30–90%）（通用，1/6）
+> 「こ、これは!?」
+"Đây, đây là!?"
+
+@7290 Ginrei · 銀鈴
+# Kích hoạt: 中伤（剩余 HP 30–90%）（通用，2/6）
+> 「あぁ!?」
+"A!?"
+
+@7291 Ginrei · 銀鈴
+# Kích hoạt: 中伤（剩余 HP 30–90%）（通用，3/6）
+> 「パワーの差が圧倒的だわ、でもっ!」
+"Khoảng cách sức mạnh quá lớn, nhưng!"
+
+@7292 Ginrei · 銀鈴
+# Kích hoạt: 中伤（剩余 HP 30–90%）（通用，4/6）
+> 「な、なんてこと!?」
+"Sao, sao chuyện này có thể xảy ra được!?"
+
+@7293 Ginrei · 銀鈴
+# Kích hoạt: 中伤（剩余 HP 30–90%）（通用，5/6）
+> 「うぅっ、許せないわ!」
+"Ồ, tôi không thể tha cho bạn!"
+
+@7294 Ginrei · 銀鈴
+# Kích hoạt: 中伤（剩余 HP 30–90%）（通用，6/6）
+> 「あぅぅっ」
+"Ôi"
+
+@7295 Ginrei · 銀鈴
+# Kích hoạt: 轻伤（剩余 HP 90% 以上）（通用，1/3）
+> 「そんな攻撃が効くと思って!?」
+"Bạn có nghĩ cuộc tấn công này sẽ thành công không!?"
+
+@7296 Ginrei · 銀鈴
+# Kích hoạt: 轻伤（剩余 HP 90% 以上）（通用，2/3）
+> 「くっ!」
+"Hừm! "
+
+@7297 Ginrei · 銀鈴
+# Kích hoạt: 轻伤（剩余 HP 90% 以上）（通用，3/3）
+> 「あっ!?」
+"A!?"
+
+@7298 Ginrei · 銀鈴
+# Kích hoạt: Né tránh（通用，1/4）
+> 「やった!」
+"Thành công!"
+
+@7299 Ginrei · 銀鈴
+# Kích hoạt: Né tránh（通用，2/4）
+> 「気づくのが遅かったわね!」
+"Bây giờ tôi mới nhận ra, đã quá muộn!"
+
+@7300 Ginrei · 銀鈴
+# Kích hoạt: Né tránh（通用，3/4）
+> 「右よっ!」
+"Đúng!"
+
+@7301 Ginrei · 銀鈴
+# Kích hoạt: Né tránh（通用，4/4）
+> 「スピードならっ!」
+"Về tốc độ, bạn không thể đánh bại tôi!"
+
+@7302 Ginrei · 銀鈴
+# Kích hoạt: Tấn công无效（护罩／装甲）（通用，1/1）
+> 「この銀鈴には効かないわよ!」
+"Chiếc chuông bạc không có tác dụng với tôi!"
+
+@7303 Ginrei · 銀鈴
+# Kích hoạt: 弹药／EN 不足，无法反击（通用，1/1）
+> 「なに? 弾切れですって!?」
+"Cái gì? Không có đạn!?"
+
+@7304 Ginrei · 銀鈴
+# Kích hoạt: 射程外，无法反击（通用，1/1）
+> 「く、届かないなんてっ!」
+"Không thể tiếp cận được!"
+
+@14468 Ginrei · 銀鈴
+# Kích hoạt: 使用〈ギンレイアタック〉（低优先，可能被通用台词顶掉）
+> 「銀鈴アターッック!」
+“Cuộc tấn công chuông bạc——!”
+
+@14469 Ginrei · 銀鈴
+# Kích hoạt: 使用〈ギンレイアタック〉（低优先，可能被通用台词顶掉）
+> 「いくわよ! 銀鈴アターッック!」
+"Lên! Chuông bạc tấn công——!"
+
+@14470 Ginrei · 銀鈴
+# Kích hoạt: 使用〈ミサイルパンチ〉（低优先，可能被通用台词顶掉）
+> 「ミサイルパーンチッ!」
+“Cú đấm tên lửa—!”
+
+@14471 Ginrei · 銀鈴
+# Kích hoạt: 使用〈ギンレイキック〉（低优先，可能被通用台词顶掉）
+> 「銀鈴ーっキィィーック!」
+“Chuông bạc—đá—!”
+
+@14472 Ginrei · 銀鈴
+# Kích hoạt: 使用〈オッパイミサイル〉（低优先，可能被通用台词顶掉）
+> 「オッパイィミサイルッ!」
+“Tên lửa ngực—!”
+
+@14473 Ginrei · 銀鈴
+# Kích hoạt: 使用〈オッパイミサイル〉（低优先，可能被通用台词顶掉）
+> 「オッパイミサイル、発射!」
+"Tên lửa ngực, phóng!"

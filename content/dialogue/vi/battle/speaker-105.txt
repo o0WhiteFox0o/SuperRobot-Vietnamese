@@ -1,0 +1,102 @@
+# Bản dịch tiếng Việt Super Robot Wars 64
+# Định dạng và vị trí: docs/guide/dialogue-text.md
+
+@6868 Mueller · ミューラー
+# Kích hoạt: Tấn công (Chung，1/9）
+> 「みじめな過去の遺物どもめ」
+"Di tích buồn của một thời đã qua."
+
+@6869 Mueller · ミューラー
+# Kích hoạt: Tấn công (Chung，2/9）
+> 「新たな時代の洗礼を受けろ!」
+"Chấp nhận lễ rửa tội của thời đại mới!"
+
+@6870 Mueller · ミューラー
+# Kích hoạt: Tấn công (Chung，3/9）
+> 「クックックックッ」
+"Hehehehe..."
+
+@6871 Mueller · ミューラー
+# Kích hoạt: Tấn công (Chung，4/9）
+> 「アーッハッハッハッハッ」
+"Ahahahahahaha!"
+
+@6872 Mueller · ミューラー
+# Kích hoạt: Tấn công (Chung，5/9）
+> 「フッ」
+"Hừm. "
+
+@6873 Mueller · ミューラー
+# Kích hoạt: Tấn công (Chung，6/9）
+> 「死ねぇ!」
+"Đi xuống địa ngục đi!"
+
+@6874 Mueller · ミューラー
+# Kích hoạt: Tấn công (Chung，7/9）
+> 「ヒャーッハハハハハッ!」
+"Hehehahahahahaha!"
+
+@6875 Mueller · ミューラー
+# Kích hoạt: Tấn công (Chung，8/9）
+> 「ヒャハハハハハッ、粛正、粛正っ!」
+"Hahahahahahaha, rõ ràng, rõ ràng!"
+
+@6876 Mueller · ミューラー
+# Kích hoạt: Tấn công (Chung，9/9）
+> 「ヒャーッハッハッハァ!」
+"Hehehahahaha!"
+
+@6877 Mueller · ミューラー
+# Kích hoạt: 被击坠（通用，1/1）
+> 「うぎゃあぁぁーっ!」
+"Ồhhhhhhhhhhhhhhh!"
+
+@6878 Mueller · ミューラー
+# Kích hoạt: 重伤（剩余 HP 不足 30%）（通用，1/2）
+> 「うわあぁぁーっ!」
+"Ồhhhhhh!"
+
+@6879 Mueller · ミューラー
+# Kích hoạt: 重伤（剩余 HP 不足 30%）（通用，2/2）
+> 「こ、こんなばかなことがぁっ!」
+"Làm sao, làm sao chuyện này có thể xảy ra!"
+
+@6880 Mueller · ミューラー
+# Kích hoạt: 中伤（剩余 HP 30–90%）（通用，1/2）
+> 「なにっ!?」
+"Cái gì!?"
+
+@6881 Mueller · ミューラー
+# Kích hoạt: 中伤（剩余 HP 30–90%）（通用，2/2）
+> 「お、おのれぇ!」
+"Chết tiệt!"
+
+@6882 Mueller · ミューラー
+# Kích hoạt: 轻伤（剩余 HP 90% 以上）（通用，1/2）
+> 「クククク、そんなものか」
+"Hehehe, đó là tất cả những gì bạn có à?"
+
+@6883 Mueller · ミューラー
+# Kích hoạt: 轻伤（剩余 HP 90% 以上）（通用，2/2）
+> 「あーん? なにかしたのか?」
+"A? Cậu vừa làm gì vậy?"
+
+@6884 Mueller · ミューラー
+# Kích hoạt: Né tránh（通用，1/1）
+> 「ヒャハハハハハッ! ムダなんだよぉ!」
+"Hahahahaha! Vô dụng thôi!"
+
+@6885 Mueller · ミューラー
+# Kích hoạt: Tấn công无效（护罩／装甲）（通用，1/1）
+> 「ヒャハハハハハッ! ムダなんだよぉ!」
+"Hahahahaha! Vô dụng thôi!"
+
+@6886 Mueller · ミューラー
+# Kích hoạt: 弹药／EN 不足，无法反击（通用，1/1）
+> 「なに!? 弾切れだとぉ!?」
+"Cái gì!? Hết đạn!?"
+
+@6887 Mueller · ミューラー
+# Kích hoạt: 射程外，无法反击（通用，1/1）
+> 「射程外!? なめたまねを!」
+"Ngoài phạm vi!? Thật là một trò lừa!"

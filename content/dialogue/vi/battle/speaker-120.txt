@@ -1,0 +1,265 @@
+# Bản dịch tiếng Việt Super Robot Wars 64
+# Định dạng và vị trí: docs/guide/dialogue-text.md
+
+@9924 Benkei · ベンケイ
+# Kích hoạt: Tấn công (Chung，1/4）
+> 「くらえっ!!」
+"Ăn chiêu của tôi đi!!"
+
+@9925 Benkei · ベンケイ
+# Kích hoạt: Tấn công (Chung，2/4）
+> 「これでもくらえっ!!」
+“Thử cái này đi!!”
+
+@9926 Benkei · ベンケイ
+# Kích hoạt: Tấn công (Chung，3/4）
+> 「こいつでとどめだっ!!」
+"Hãy sử dụng cái này để đưa bạn lên đường!!"
+
+@9927 Benkei · ベンケイ
+# Kích hoạt: Tấn công (Chung，4/4）
+> 「行くぞっ!!」
+"Nào! ! "
+
+@9928 Benkei · ベンケイ
+# Kích hoạt: 被击坠（通用，1/3）
+> 「うわっちゃあ! やられちまったぜ!」
+"Ồ! Bị giết rồi!"
+
+@9929 Benkei · ベンケイ
+# Kích hoạt: 被击坠（通用，2/3）
+> 「う、うおおおっ!!」
+"W-oooooooooooo!!"
+
+@9930 Benkei · ベンケイ
+# Kích hoạt: 被击坠（通用，3/3）
+> 「くそっ! だめか!」
+"Chết tiệt! Không thể làm được nữa!"
+
+@9931 Benkei · ベンケイ
+# Kích hoạt: 重伤（剩余 HP 不足 30%）（通用，1/5）
+> 「くそっ!! なんてパワーだ!」
+"Chết tiệt!! Thật là một lực lượng mạnh mẽ!"
+
+@9932 Benkei · ベンケイ
+# Kích hoạt: 重伤（剩余 HP 不足 30%）（通用，2/5）
+> 「や、やられちまう!?」
+“G-sẽ bị giết!?”
+
+@9933 Benkei · ベンケイ
+# Kích hoạt: 重伤（剩余 HP 不足 30%）（通用，3/5）
+> 「ちいっ!! ちょいとヤバイぜ!」
+"Tsk!! Có gì đó không ổn!"
+
+@9934 Benkei · ベンケイ
+# Kích hoạt: 重伤（剩余 HP 不足 30%）（通用，4/5）
+> 「うわっ!! や、やばいっ!!」
+"Ồ!! Không, không ổn!!"
+
+@9935 Benkei · ベンケイ
+# Kích hoạt: 重伤（剩余 HP 不足 30%）（通用，5/5）
+> 「ちくしょう!! このままじゃ
+>  やられちまうぜっ!!」
+"Quái vật!! Nếu tiếp tục như thế này, bạn sẽ bị giết!!"
+
+@9936 Benkei · ベンケイ
+# Kích hoạt: 中伤（剩余 HP 30–90%）（通用，1/6）
+> 「いてえじゃねえか、この野郎!」
+"Đau quá, đồ khốn!"
+
+@9937 Benkei · ベンケイ
+# Kích hoạt: 中伤（剩余 HP 30–90%）（通用，2/6）
+> 「いてっ! 何しやがる!!」
+"Đau quá! Cậu đang làm gì vậy!!"
+
+@9938 Benkei · ベンケイ
+# Kích hoạt: 中伤（剩余 HP 30–90%）（通用，3/6）
+> 「なんの、これしき!」
+"Vết thương nhỏ này không là gì cả!"
+
+@9939 Benkei · ベンケイ
+# Kích hoạt: 中伤（剩余 HP 30–90%）（通用，4/6）
+> 「やったな、このやろう!」
+"Sao ngươi dám đánh ta, tên khốn!"
+
+@9940 Benkei · ベンケイ
+# Kích hoạt: 中伤（剩余 HP 30–90%）（通用，5/6）
+> 「うおおっ!!」
+"Ồ ồ!!"
+
+@9941 Benkei · ベンケイ
+# Kích hoạt: 中伤（剩余 HP 30–90%）（通用，6/6）
+> 「やりやがったな!!」
+"Được rồi, cậu dám đấy!!"
+
+@9942 Benkei · ベンケイ
+# Kích hoạt: 轻伤（剩余 HP 90% 以上）（通用，1/5）
+> 「そんなもんかよ!」
+“Đó là tất cả những gì cậu có à?”
+
+@9943 Benkei · ベンケイ
+# Kích hoạt: 轻伤（剩余 HP 90% 以上）（通用，2/5）
+> 「ふあ～あ、なんじゃい、そんなもん」
+"Huh-cái gì? Đó là tất cả những gì tôi có thể làm."
+
+@9944 Benkei · ベンケイ
+# Kích hoạt: 轻伤（剩余 HP 90% 以上）（通用，3/5）
+> 「へーき、へーき!」
+"Không sao đâu, không sao đâu!"
+
+@9945 Benkei · ベンケイ
+# Kích hoạt: 轻伤（剩余 HP 90% 以上）（通用，4/5）
+> 「こんなもん、効くかい!」
+“Thật ngạc nhiên là cách này lại có tác dụng!”
+
+@9946 Benkei · ベンケイ
+# Kích hoạt: 轻伤（剩余 HP 90% 以上）（通用，5/5）
+> 「こんなものかいっ!」
+"Đây là tất cả những gì bạn có thể làm?"
+
+@9947 Benkei · ベンケイ
+# Kích hoạt: Né tránh（通用，1/5）
+> 「おっとっと、あぶねえ、あぶねえ」
+"Ouch, thật là một cuộc gọi gần gũi."
+
+@9948 Benkei · ベンケイ
+# Kích hoạt: Né tránh（通用，2/5）
+> 「ははーん、ヘタクソ」
+"Haha, độ chính xác của bạn thực sự kém."
+
+@9949 Benkei · ベンケイ
+# Kích hoạt: Né tránh（通用，3/5）
+> 「ふう、あぶなかった」
+"Phi, nguy hiểm quá."
+
+@9950 Benkei · ベンケイ
+# Kích hoạt: Né tránh（通用，4/5）
+> 「なんのっ!!」
+"Cái quái gì vậy!!"
+
+@9951 Benkei · ベンケイ
+# Kích hoạt: Né tránh（通用，5/5）
+> 「おおっと! ツルカメ、ツルカメ」
+"Ôi! A Di Đà, A Di Đà Phật."
+
+@9952 Benkei · ベンケイ
+# Kích hoạt: Tấn công无效（护罩／装甲）（通用，1/2）
+> 「ムダだっ!!」
+"Lãng phí công sức!!"
+
+@9953 Benkei · ベンケイ
+# Kích hoạt: Tấn công无效（护罩／装甲）（通用，2/2）
+> 「ビームなんてへでもねえぜ!」
+"Dầm và các thứ chẳng là gì cả!"
+
+@9954 Benkei · ベンケイ
+# Kích hoạt: 弹药／EN 不足，无法反击（通用，1/2）
+> 「ありゃ、反撃できねえ」
+"Rất tiếc, không có cách nào để chống trả."
+
+@9955 Benkei · ベンケイ
+# Kích hoạt: 弹药／EN 不足，无法反击（通用，2/2）
+> 「ちっ! 反撃できねえ!」
+"Tsk! Không có cách nào đánh trả được!"
+
+@9956 Benkei · ベンケイ
+# Kích hoạt: 射程外，无法反击（通用，1/1）
+> 「くそうっ! とどかん!」
+"Chết tiệt! Tôi không thể với tới nó!"
+
+@15244 Benkei · ベンケイ
+# Kích hoạt: 使用〈ゲッターミサイル〉
+> 「ゲッターミサイル!!」
+"Tên lửa Geta!!"
+
+@15245 Benkei · ベンケイ
+# Kích hoạt: 使用〈ゲッターサイクロン〉
+> 「ゲッターサイクロン!!」
+"Geta cơn lốc xoáy!!"
+
+@15246 Benkei · ベンケイ
+# Kích hoạt: 使用〈ストロングミサイル〉
+> 「ストロングミサイル!!」
+"Tên lửa mạnh mẽ!!"
+
+@15247 Benkei · ベンケイ
+# Kích hoạt: 使用〈大雪山おろし〉
+> 「うおおお!!」
+"Ồhhhhhh!!"
+---
+> 「大・雪・山おろしぃーっ!!」
+"Đại·Tuyết·Sanhao——!!"
+
+@15248 Benkei · ベンケイ
+# Kích hoạt: 使用〈大雪山おろし〉
+> 「うおおおーっ!!」
+"Ooooooh--!!"
+---
+> 「大・雪・山おろしぃーっ!!」
+"Đại·Tuyết·Sanhao——!!"
+
+@15249 Benkei · ベンケイ
+# Kích hoạt: 使用〈大雪山おろし〉
+> 「くらえっ!!」
+"Tiến lên!!"
+---
+> 「大・雪・山おろしぃーっ!!」
+"Đại·Tuyết·Sanhao——!!"
+
+@15250 Benkei · ベンケイ
+# Kích hoạt: 使用〈大雪山おろし〉
+> 「行くぞっ!!」
+"Nào! ! "
+---
+> 「大・雪・山おろしぃーっ!!」
+"Đại·Tuyết·Sanhao——!!"
+
+@15251 Benkei · ベンケイ
+# Kích hoạt: 使用〈大雪山おろし二段返し〉（对话第 1/2 句）
+> 「くらえっ!!」
+"Ăn chiêu của tôi đi!!"
+
+@15252 Benkei · ベンケイ
+# Kích hoạt: 使用〈大雪山おろし二段返し〉（对话第 2/2 句）
+> 「大雪山おろし、
+>  二段返しじゃーい!!」
+“Núi tuyết sụp đổ, và giai đoạn thứ hai quay trở lại——!!”
+
+@15253 Benkei · ベンケイ
+# Kích hoạt: 使用〈大雪山おろし二段返し〉（对话第 1/2 句）
+> 「これでもくらえっ!!」
+“Thử cái này đi!!”
+
+@15254 Benkei · ベンケイ
+# Kích hoạt: 使用〈大雪山おろし二段返し〉（对话第 2/2 句）
+> 「大雪山おろし、
+>  二段返しじゃーい!!」
+“Núi tuyết sụp đổ, và giai đoạn thứ hai quay trở lại——!!”
+
+@15255 Benkei · ベンケイ
+# Kích hoạt: 使用〈大雪山おろし二段返し〉（对话第 1/2 句）
+> 「こいつでとどめだっ!!」
+"Hãy sử dụng cái này để đưa bạn lên đường!!"
+
+@15256 Benkei · ベンケイ
+# Kích hoạt: 使用〈大雪山おろし二段返し〉（对话第 2/2 句）
+> 「大雪山おろし、
+>  二段返しじゃーい!!」
+“Núi tuyết sụp đổ, và giai đoạn thứ hai quay trở lại——!!”
+
+@15257 Benkei · ベンケイ
+# Kích hoạt: 使用〈大雪山おろし二段返し〉
+> 「大雪山おろし、
+>  二段返しぃぃぃーっ!!」
+“Núi tuyết sụp đổ, và giai đoạn thứ hai quay trở lại——!!”
+
+@15258 Benkei · ベンケイ
+# Kích hoạt: 使用〈大雪山おろし二段返し〉（对话第 1/2 句）
+> 「おりゃあっ!!」
+"Này!!"
+
+@15259 Benkei · ベンケイ
+# Kích hoạt: 使用〈大雪山おろし二段返し〉（对话第 2/2 句）
+> 「大雪山おろし、
+>  二段返しじゃーいっ!!」
+“Núi tuyết sụp đổ, và giai đoạn thứ hai quay trở lại——!!”

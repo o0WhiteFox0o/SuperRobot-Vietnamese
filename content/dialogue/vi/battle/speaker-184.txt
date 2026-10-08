@@ -1,0 +1,386 @@
+# Bản dịch tiếng Việt Super Robot Wars 64
+# Định dạng và vị trí: docs/guide/dialogue-text.md
+
+@12077 Marvel · マーベル
+# Kích hoạt: Tấn công (Chung，1/12）
+> 「これならっ!!」
+"Ăn chiêu của tôi đi!!"
+
+@12078 Marvel · マーベル
+# Kích hoạt: Tấn công (Chung，2/12）
+> 「やらせるわけにはっ!!」
+"Đừng nghĩ tới chuyện đó nữa!!"
+
+@12079 Marvel · マーベル
+# Kích hoạt: Tấn công (Chung，3/12）
+> 「そこっ!!」
+“Chính là nó!!”
+
+@12080 Marvel · マーベル
+# Kích hoạt: Tấn công (Chung，4/12）
+> 「落ちなさいっ!」
+"Rớt nó!"
+
+@12081 Marvel · マーベル
+# Kích hoạt: Tấn công (Chung，5/12）
+> 「やってみせる!!」
+"Nhìn tôi này!!"
+
+@12082 Marvel · マーベル
+# Kích hoạt: Tấn công (Chung，6/12）
+> 「いただき!」
+"Đã lấy nó!"
+
+@12083 Marvel · マーベル
+# Kích hoạt: Tấn công (Chung，7/12）
+> 「沈めっ!!」
+“Chìm xuống!!”
+
+@12084 Marvel · マーベル
+# Kích hoạt: Tấn công (Chung，8/12）
+> 「私だって、オーラ力は上がっている
+>  はず!!」
+"Sức mạnh Hào quang của tôi chắc hẳn cũng đã trở nên mạnh mẽ hơn!!"
+
+@12085 Marvel · マーベル
+# Kích hoạt: Tấn công (Chung，9/12）
+> 「これで決めるっ!」
+"Dùng chiêu này để xác định kết quả!"
+
+@12086 Marvel · マーベル
+# Kích hoạt: Tấn công (Chung，10/12）
+> 「どきなさいっ!」
+"Tránh ra!"
+
+@12087 Marvel · マーベル
+# Kích hoạt: Tấn công (Chung，11/12）
+> 「邪魔をするのなら!」
+"Nếu ngươi dám cản đường!"
+
+@12088 Marvel · マーベル
+# Kích hoạt: Tấn công (Chung，12/12）
+> 「とどめっ!」
+"Kết thúc đi anh!"
+
+@12089 Marvel · マーベル
+# Kích hoạt: 被击坠（通用，1/2）
+> 「しまった!?」
+"Ối!?"
+
+@12090 Marvel · マーベル
+# Kích hoạt: 被击坠（通用，2/2）
+> 「くっ……こんなことで……」
+"Ừm... chính là như thế này..."
+
+@12091 Marvel · マーベル
+# Kích hoạt: 重伤（剩余 HP 不足 30%）（通用，1/5）
+> 「あああっ……な、なんてパワー!!」
+“Ahhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhh…”
+
+@12092 Marvel · マーベル
+# Kích hoạt: 重伤（剩余 HP 不足 30%）（通用，2/5）
+> 「あうっ!! も、もたない!?」
+"Aww! Bạn không thể chịu đựng được nữa à!?"
+
+@12093 Marvel · マーベル
+# Kích hoạt: 重伤（剩余 HP 不足 30%）（通用，3/5）
+> 「くううっ! パワーが違いすぎる!!」
+"Uh-huh! Khoảng cách sức mạnh quá lớn!!"
+
+@12094 Marvel · マーベル
+# Kích hoạt: 重伤（剩余 HP 不足 30%）（通用，4/5）
+> 「つっ……ま、まだやられるわけには!!」
+"Chà...T-tôi không thể bị đánh bại như thế này được!!"
+
+@12095 Marvel · マーベル
+# Kích hoạt: 重伤（剩余 HP 不足 30%）（通用，5/5）
+> 「こ、このままでは……」
+“K-hãy tiếp tục chuyện này nữa…”
+
+@12096 Marvel · マーベル
+# Kích hoạt: 中伤（剩余 HP 30–90%）（通用，1/5）
+> 「ま、まだよ!! まだこれからっ!!」
+"Mọi chuyện vẫn chưa kết thúc!! Đây chỉ là sự khởi đầu thôi!!"
+
+@12097 Marvel · マーベル
+# Kích hoạt: 中伤（剩余 HP 30–90%）（通用，2/5）
+> 「これしきのことで! あたしだって!」
+"Chỉ là một vết thương nhỏ mà thôi! Tôi sẽ không thua!"
+
+@12098 Marvel · マーベル
+# Kích hoạt: 中伤（剩余 HP 30–90%）（通用，3/5）
+> 「くっ! こんな事でやられるものですか!」
+"Hừ! Làm sao có thể bị đánh bại như thế này!"
+
+@12099 Marvel · マーベル
+# Kích hoạt: 中伤（剩余 HP 30–90%）（通用，4/5）
+> 「あうっ! さすがにパワーがある……
+>  けどっ!!」
+"A! Sức mạnh quả thực rất mạnh... nhưng!!"
+
+@12100 Marvel · マーベル
+# Kích hoạt: 中伤（剩余 HP 30–90%）（通用，5/5）
+> 「うっ! まだまだ!! この程度で!!」
+"Hmm! Vẫn còn sớm!! Chỉ vậy thôi!!"
+
+@12101 Marvel · マーベル
+# Kích hoạt: 轻伤（剩余 HP 90% 以上）（通用，1/4）
+> 「こんなものっ!!」
+"Đó là tất cả!"
+
+@12102 Marvel · マーベル
+# Kích hoạt: 轻伤（剩余 HP 90% 以上）（通用，2/4）
+> 「この程度で落ちるものですかっ!!」
+"Làm sao đòn tấn công này có thể đánh bại được tôi!!"
+
+@12103 Marvel · マーベル
+# Kích hoạt: 轻伤（剩余 HP 90% 以上）（通用，3/4）
+> 「私にもオーラ力がある!!」
+"Tôi cũng có sức mạnh của Aura!!"
+
+@12104 Marvel · マーベル
+# Kích hoạt: 轻伤（剩余 HP 90% 以上）（通用，4/4）
+> 「こんな攻撃など!!」
+“Đây là kiểu tấn công gì vậy?!”
+
+@12105 Marvel · マーベル
+# Kích hoạt: Né tránh（通用，1/7）
+> 「かわした!!」
+"Đi xa!!"
+
+@12106 Marvel · マーベル
+# Kích hoạt: Né tránh（通用，2/7）
+> 「甘いっ!」
+"Thật ngây thơ!"
+
+@12107 Marvel · マーベル
+# Kích hoạt: Né tránh（通用，3/7）
+> 「よけてみせるっ!」
+"Tôi sẽ giấu nó khỏi bạn!"
+
+@12108 Marvel · マーベル
+# Kích hoạt: Né tránh（通用，4/7）
+> 「遅いっ!」
+"Quá chậm!"
+
+@12109 Marvel · マーベル
+# Kích hoạt: Né tránh（通用，5/7）
+> 「当たるものですか!!」
+"Làm sao có thể bị đánh được!!"
+
+@12110 Marvel · マーベル
+# Kích hoạt: Né tránh（通用，6/7）
+> 「間合いが甘い!」
+"Khoảng cách quá kém!"
+
+@12111 Marvel · マーベル
+# Kích hoạt: Né tránh（通用，7/7）
+> 「このっ! 当たるわけには!!」
+"Chết tiệt! Bạn không được để bị đánh!!"
+
+@12112 Marvel · マーベル
+# Kích hoạt: Tấn công无效（护罩／装甲）（通用，1/2）
+> 「オーラ力が上がっている……この
+>  程度なら!!」
+“Sức mạnh của Aura đã tăng lên…đòn tấn công này chẳng là gì cả!”
+
+@12113 Marvel · マーベル
+# Kích hoạt: Tấn công无效（护罩／装甲）（通用，2/2）
+> 「私のオーラ力も、捨てたものでは
+>  ないわね」
+"Sức mạnh Aura của tôi không tệ chút nào."
+
+@12114 Marvel · マーベル
+# Kích hoạt: 弹药／EN 不足，无法反击（通用，1/1）
+> 「しまった、弾切れ!?」
+"Rất tiếc, chúng ta hết đạn rồi!?"
+
+@12115 Marvel · マーベル
+# Kích hoạt: 射程外，无法反击（通用，1/1）
+> 「遠距離からの攻撃……やるわね」
+"Tấn công tầm xa...với hai đòn tấn công"
+
+@16799 Marvel · マーベル
+# Kích hoạt: Tấn công，副驾驶〈チャム〉（对话第 1/2 句）
+> 「そこっ!」
+"Chính là nó!"
+
+@16800 Chum · チャム
+# Kích hoạt: Tấn công，副驾驶〈チャム〉（对话第 2/2 句）
+> 「あたってぇーっ!」
+“Đánh nó—!”
+
+@16801 Marvel · マーベル
+# Kích hoạt: Tấn công，副驾驶〈チャム〉（对话第 1/2 句）
+> 「これでとどめ!」
+"Một đòn này sẽ kết liễu ngươi!"
+
+@16802 Chum · チャム
+# Kích hoạt: Tấn công，副驾驶〈チャム〉（对话第 2/2 句）
+> 「いっけえぇぇーっ!」
+"Nào——!"
+
+@16803 Chum · チャム
+# Kích hoạt: Tấn công，副驾驶〈チャム〉（对话第 1/2 句）
+> 「マーベル、いまよ!」
+"Mabel, ngay bây giờ!"
+
+@16804 Marvel · マーベル
+# Kích hoạt: Tấn công，副驾驶〈チャム〉（对话第 2/2 句）
+> 「わかってるわ!」
+"Tôi biết!"
+
+@16805 Show · ショウ
+# Kích hoạt: 合体技〈スペースコンビネーションアタック〉：ショウ＋マーベル（带チャム）、マーベル＋ショウ（带チャム）、ショウ（带チャム）＋マーベル、マーベル（带チャム）＋ショウ、マーベル（带チャム）＋ガラリア、マーベル（带チャム）＋ショウ（带チャム）（对话第 1/3 句）
+> 「マーベル! オーラ力を俺に
+>  集中してくれ!」
+"Mabel! Tập trung sức mạnh của Aura vào tôi!"
+
+@16806 Marvel · マーベル
+# Kích hoạt: 合体技〈スペースコンビネーションアタック〉：ショウ＋マーベル（带チャム）、マーベル＋ショウ（带チャム）、ショウ（带チャム）＋マーベル、マーベル（带チャム）＋ショウ、マーベル（带チャム）＋ガラリア、マーベル（带チャム）＋ショウ（带チャム）（对话第 2/3 句）
+> 「ええ! 私のオーラ力はいつもショウと
+>  一緒よ!」
+"Ừ! Sức mạnh hào quang của tôi sẽ luôn ở bên Xiang!"
+
+@16807 Chum · チャム
+# Kích hoạt: 合体技〈スペースコンビネーションアタック〉：ショウ＋マーベル（带チャム）、マーベル＋ショウ（带チャム）、ショウ（带チャム）＋マーベル、マーベル（带チャム）＋ショウ、マーベル（带チャム）＋ガラリア、マーベル（带チャム）＋ショウ（带チャム）（对话第 3/3 句）
+> 「ショウ! マーベル!
+>  やっちゃえぇぇーっ!!」
+"Xiang! Mabel! Cố lên——!!"
+
+@16808 Show · ショウ
+# Kích hoạt: 合体技〈スペースコンビネーションアタック〉：ショウ＋マーベル、マーベル＋ショウ（对话第 1/3 句）
+> 「マーベル! オーラ力を俺に
+>  集中してくれ!」
+"Mabel! Tập trung sức mạnh của Aura vào tôi!"
+
+@16809 Marvel · マーベル
+# Kích hoạt: 合体技〈スペースコンビネーションアタック〉：ショウ＋マーベル、マーベル＋ショウ（对话第 2/3 句）
+> 「ええ! 私のオーラ力はいつもショウと
+>  一緒よ!」
+"Ừ! Sức mạnh hào quang của tôi sẽ luôn ở bên Xiang!"
+
+@16810 Show · ショウ
+# Kích hoạt: 合体技〈スペースコンビネーションアタック〉：ショウ＋マーベル、マーベル＋ショウ（对话第 3/3 句）
+> 「よし、いくぞ!」
+"Được rồi, đi thôi!"
+
+@16811 Chum · チャム
+# Kích hoạt: 重伤（剩余 HP 不足 30%），副驾驶〈チャム〉（对话第 1/2 句）
+> 「マーベルッ!?」
+"Mabel!?"
+
+@16812 Marvel · マーベル
+# Kích hoạt: 重伤（剩余 HP 不足 30%），副驾驶〈チャム〉（对话第 2/2 句）
+> 「くっ……も、もたない!?」
+"Ừm... cậu không thể giữ nó được sao!?"
+
+@16813 Marvel · マーベル
+# Kích hoạt: 重伤（剩余 HP 不足 30%），副驾驶〈チャム〉（对话第 1/2 句）
+> 「あうぅぅっ!」
+"Ahhh!"
+
+@16814 Chum · チャム
+# Kích hoạt: 重伤（剩余 HP 不足 30%），副驾驶〈チャム〉（对话第 2/2 句）
+> 「マーベル、しっかりして!」
+"Mabel, vui lên đi!"
+
+@16815 Marvel · マーベル
+# Kích hoạt: 中伤（剩余 HP 30–90%），副驾驶〈チャム〉（对话第 1/2 句）
+> 「くっ、この程度のことで!」
+"Chà, chỉ dựa vào điều này -"
+
+@16816 Chum · チャム
+# Kích hoạt: 中伤（剩余 HP 30–90%），副驾驶〈チャム〉（对话第 2/2 句）
+> 「やられないんだからっ!」
+"Ngươi không thể đánh bại chúng ta!"
+
+@16817 Chum · チャム
+# Kích hoạt: 中伤（剩余 HP 30–90%），副驾驶〈チャム〉（对话第 1/2 句）
+> 「マーベル、当たっちゃったよぉっ!」
+"Mabel, cô bị trúng đạn!"
+
+@16818 Marvel · マーベル
+# Kích hoạt: 中伤（剩余 HP 30–90%），副驾驶〈チャム〉（对话第 2/2 句）
+> 「チャムっ! ちょっと黙ってて!」
+"Chamu! Im đi trước!"
+
+@16819 Chum · チャム
+# Kích hoạt: 轻伤（剩余 HP 90% 以上），副驾驶〈チャム〉（对话第 1/2 句）
+> 「いやぁぁーっ!」
+“Không—!”
+
+@16820 Marvel · マーベル
+# Kích hoạt: 轻伤（剩余 HP 90% 以上），副驾驶〈チャム〉（对话第 2/2 句）
+> 「チャム、邪魔しないで!」
+"Chamu, tránh ra!"
+
+@16821 Marvel · マーベル
+# Kích hoạt: 轻伤（剩余 HP 90% 以上），副驾驶〈チャム〉（对话第 1/2 句）
+> 「こんな攻撃っ!」
+"Loại tấn công này!"
+
+@16822 Chum · チャム
+# Kích hoạt: 轻伤（剩余 HP 90% 以上），副驾驶〈チャム〉（对话第 2/2 句）
+> 「効かないんだからっ!」
+"Nó không có tác dụng gì cả!"
+
+@16823 Marvel · マーベル
+# Kích hoạt: Né tránh，副驾驶〈チャム〉（对话第 1/2 句）
+> 「よけてみせる!」
+"Coi chừng tôi chạy đi!"
+
+@16824 Chum · チャム
+# Kích hoạt: Né tránh，副驾驶〈チャム〉（对话第 2/2 句）
+> 「やったぁーっ!」
+"Tuyệt vời-!"
+
+@16825 Chum · チャム
+# Kích hoạt: Né tránh，副驾驶〈チャム〉（对话第 1/2 句）
+> 「マーベルッ、来た!」
+"Mabel, chúng ta đến đây!"
+
+@16826 Marvel · マーベル
+# Kích hoạt: Né tránh，副驾驶〈チャム〉（对话第 2/2 句）
+> 「大丈夫よ!」
+"Không sao đâu!"
+
+@16827 Marvel · マーベル
+# Kích hoạt: Tấn công无效（护罩／装甲），副驾驶〈チャム〉（对话第 1/2 句）
+> 「私のオーラ力でもこの程度は!」
+"Với sức mạnh hào quang của tôi, đòn tấn công này chẳng là gì cả!"
+
+@16828 Chum · チャム
+# Kích hoạt: Tấn công无效（护罩／装甲），副驾驶〈チャム〉（对话第 2/2 句）
+> 「マーベルすごーいっ!」
+"Mabel thật tuyệt vời——!"
+
+@16829 Marvel · マーベル
+# Kích hoạt: Tấn công无效（护罩／装甲），副驾驶〈チャム〉（对话第 1/2 句）
+> 「こんな攻撃は!」
+"Loại tấn công này!"
+
+@16830 Chum · チャム
+# Kích hoạt: Tấn công无效（护罩／装甲），副驾驶〈チャム〉（对话第 2/2 句）
+> 「ムダなんだから!」
+"Tất cả đều vô ích!"
+
+@16831 Chum · チャム
+# Kích hoạt: 弹药／EN 不足，无法反击，副驾驶〈チャム〉（对话第 1/2 句）
+> 「マーベル、どうしたの!?」
+"Mabel, có chuyện gì thế!?"
+
+@16832 Marvel · マーベル
+# Kích hoạt: 弹药／EN 不足，无法反击，副驾驶〈チャム〉（对话第 2/2 句）
+> 「くっ、弾切れみたいね」
+“Hmm, có vẻ như tôi hết đạn rồi.”
+
+@16833 Chum · チャム
+# Kích hoạt: 射程外，无法反击，副驾驶〈チャム〉（对话第 1/2 句）
+> 「撃たないの!?」
+"Bạn sẽ không bắn!?"
+
+@16834 Marvel · マーベル
+# Kích hoạt: 射程外，无法反击，副驾驶〈チャム〉（对话第 2/2 句）
+> 「届かないのよ!」
+"Tôi không thể đánh bạn!"

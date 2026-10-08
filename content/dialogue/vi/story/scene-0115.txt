@@ -1,0 +1,134 @@
+# Bản dịch tiếng Việt Super Robot Wars 64
+# Định dạng và vị trí: docs/guide/dialogue-text.md
+
+@50857 Cecily · セシリー
+> 「……それじゃあなたたちも
+>  レジスタンス部隊に
+“Vậy thì các bạn cũng phải hợp tác với lực lượng kháng chiến.
+---
+>  合流するんですか?」
+Cuộc hẹn? "
+
+@50858 Remy · レミー
+> 「ええ、聞きたいことがあるのよ。
+>  ……私たちはドクーガっていう組織を
+“Đúng, chúng tôi có điều muốn hỏi. ...Chúng tôi đang theo dõi một tổ chức tên là Poison Fang,
+---
+>  追っているんだけど、帝国軍と
+>  共同で何らかの行動を
+Có tin rằng họ sẽ hợp lực với Quân đội Đế quốc để làm điều gì đó.
+---
+>  起こすっていう情報があったのよ。
+>  レジスタンス部隊だったら
+chúng tôi muốn chống lại các thế lực
+---
+>  何か知っていることが
+>  あるんじゃないかって……」
+Có lẽ cậu sẽ biết được điều gì đó..."
+
+@50859 Shingo · 真吾
+> 「でも助かったよ。俺たちのレーダーは
+>  故障しちまって部隊を探すの
+“Nhưng nó thực sự hữu ích. Radar của chúng tôi bị hỏng và chúng tôi đang nghĩ đến việc tìm kiếm quân lính.
+---
+>  あきらめようかって時だったからな」
+Hoặc chỉ cần quên nó đi. "
+
+@50860 Seabook · シーブック
+> 「僕たちはあらかじめ
+>  部隊に連絡して
+"Chúng tôi đã liên lạc trước với quân đội,
+---
+>  合流地点を決めていましたからね」
+Địa điểm gặp mặt đã được quyết định. "
+
+@50861 Killy · キリー
+> 「ま、でもそのおかげでこーんなかわいい
+>  お嬢さんに出会えたからね
+"Nhưng nhờ điều này mà tôi đã gặp được một cô gái đáng yêu như vậy.
+---
+>  俺の運もまだまだ捨てたもんじゃない」
+Vận may của tôi không đến nỗi tệ. "
+
+@50862 Remy · レミー
+> 「キリー、いいかげんにしなさいよ。
+>  ……もうそろそろ合流地点よ」
+“Kili, gần đến lúc cậu phải bình tĩnh lại rồi. ...Chúng ta sắp đến điểm hẹn rồi.”
+
+@50863 Shingo · 真吾
+> 「あれじゃないか?
+>  レジスタンス部隊ってのは……」
+“Đó là thế à? Cái gọi là lực lượng tổ chức kháng chiến…”
+
+@50864 Seabook · シーブック
+> 「……違うぞ! あれは敵だ!」
+“…Không! Đó là kẻ thù!”
+
+@50865 Killy · キリー
+> 「どうもヤバイみたいよ。敵さん、
+>  俺たちのことに気づいたみたい!」
+"Tình hình có vẻ không ổn, kẻ địch hình như đã phát hiện ra chúng ta!"
+
+@50866 Seabook · シーブック
+> 「迎撃しましょう!
+>  セシリー、準備はいいかい」
+"Nào! Cecily, em sẵn sàng chưa?"
+
+@50867 Cecily · セシリー
+> 「ビギナ・ギナで出るわ」
+"Tôi sẽ tấn công trong bộ bikini."
+
+@50868 Shingo · 真吾
+> 「俺たちもいきましょうか!
+>  グッドサンダーチーム
+"Chúng ta cũng đi thôi! Đội Thunder,
+---
+>  出撃ってことで!」
+Tấn công! "
+
+@50869 Seabook · シーブック
+> 「敵部隊を全滅させましょう!」
+"Tiêu diệt tất cả kẻ thù! "
+
+@50870 Shingo · 真吾
+> 「ゴーショーグン、ゴー!」
+"Tướng Hảo, ĐI!"
+
+@50871 Seabook · シーブック
+> 「な、なんでだよ!」
+"Tại sao, tại sao!"
+
+@50872 Cecily · セシリー
+> 「あぁぁ!? シ、シーブック!」
+"À! ? S-Sibuk! "
+
+@50873 Killy · キリー
+> 「まだ『ブロンクスの狼』が
+>  書きあがってないのにね」
+“Tôi vẫn chưa viết xong The Wolf of the Bronx.”
+
+@50874 Shingo · 真吾
+> 「いっちょあがり!」
+"Hãy hoàn thành nó và gọi nó là một ngày!"
+
+@50875 Cecily · セシリー
+> 「……なんとか終わったようね」
+“…Cuối cùng cũng kết thúc.”
+
+@50876 Seabook · シーブック
+> 「ああ。……でも戦いは、まだまだ続くさ」
+"Chà...nhưng trận chiến còn lâu mới kết thúc."
+
+@50877 Remy · レミー
+> 「見て、真吾。
+>  あれ、レジスタンス部隊じゃないかしら」
+“Nhìn này, Shingo. Phải chăng đó là lực cản? "
+
+@50878 Shingo · 真吾
+> 「……あれがレジスタンス部隊かい?」
+“…Đó có phải là lực lượng kháng cự không? "
+
+@50879 Seabook · シーブック
+> 「……どうやらそうみたいです。
+>  合流しましょう」
+"...có vẻ như vậy. Chúng ta hãy đi gặp nhau nhé. "

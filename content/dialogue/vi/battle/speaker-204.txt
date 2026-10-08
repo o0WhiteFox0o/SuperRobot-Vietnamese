@@ -1,0 +1,203 @@
+# Bản dịch tiếng Việt Super Robot Wars 64
+# Định dạng và vị trí: docs/guide/dialogue-text.md
+
+@7546 Simone · シモーヌ
+# Kích hoạt: Tấn công (Chung，1/9）
+> 「負けるもんか!!」
+"Tôi sẽ không thua!!"
+
+@7547 Simone · シモーヌ
+# Kích hoạt: Tấn công (Chung，2/9）
+> 「あんたたち、絶対に許さないよ!」
+"Các ngươi, ta sẽ không bao giờ tha cho các ngươi!"
+
+@7548 Simone · シモーヌ
+# Kích hoạt: Tấn công (Chung，3/9）
+> 「このっ!!」
+"Chết tiệt!!"
+
+@7549 Simone · シモーヌ
+# Kích hoạt: Tấn công (Chung，4/9）
+> 「いけっ!!」
+"Nào!!"
+
+@7550 Simone · シモーヌ
+# Kích hoạt: Tấn công (Chung，5/9）
+> 「やらせるもんか!」
+"Thật là một ý nghĩ đẹp đẽ!"
+
+@7551 Simone · シモーヌ
+# Kích hoạt: Tấn công (Chung，6/9）
+> 「よぉし!」
+"Được rồi! "
+
+@7552 Simone · シモーヌ
+# Kích hoạt: Tấn công (Chung，7/9）
+> 「いい気になってんじゃないよ!」
+"Đừng có mang đi!"
+
+@7553 Simone · シモーヌ
+# Kích hoạt: Tấn công (Chung，8/9）
+> 「くらいなっ!」
+"Hãy nhận một đòn từ tôi!"
+
+@7554 Simone · シモーヌ
+# Kích hoạt: Tấn công (Chung，9/9）
+> 「それっ、いくよ!」
+"Xem động tác, bắt được!"
+
+@7555 Simone · シモーヌ
+# Kích hoạt: 被击坠（通用，1/2）
+> 「エイジ! デビッド!!」
+"Eiji! David!!"
+
+@7556 Simone · シモーヌ
+# Kích hoạt: 被击坠（通用，2/2）
+> 「そ、そんな……!?」
+"Làm sao, làm sao có thể...!?"
+
+@7557 Simone · シモーヌ
+# Kích hoạt: 重伤（剩余 HP 不足 30%）（通用，1/3）
+> 「きゃぁぁっ!!」
+"Ahhhh!!"
+
+@7558 Simone · シモーヌ
+# Kích hoạt: 重伤（剩余 HP 不足 30%）（通用，2/3）
+> 「きゃぁぁぁぁぁーっ!!」
+"Ahhhhhhhhh-!!"
+
+@7559 Simone · シモーヌ
+# Kích hoạt: 重伤（剩余 HP 不足 30%）（通用，3/3）
+> 「きゃあああっ!! な、何なの?
+>  威力が違い過ぎる!?」
+"Ahhh!! Cái gì, chuyện gì đang xảy ra vậy? Sức mạnh quá chênh lệch!?"
+
+@7560 Simone · シモーヌ
+# Kích hoạt: 中伤（剩余 HP 30–90%）（通用，1/3）
+> 「くっ……! やられる!?」
+"Ư...! Không thể chịu đựng được nữa!?"
+
+@7561 Simone · シモーヌ
+# Kích hoạt: 中伤（剩余 HP 30–90%）（通用，2/3）
+> 「うぅぅっ、だめ!?」
+"Wuwu, nó không thể hoạt động được nữa!?"
+
+@7562 Simone · シモーヌ
+# Kích hoạt: 中伤（剩余 HP 30–90%）（通用，3/3）
+> 「あうぅっ!」
+"Ồ!"
+
+@7563 Simone · シモーヌ
+# Kích hoạt: 轻伤（剩余 HP 90% 以上）（通用，1/3）
+> 「これぐらいなら、まだ!」
+"Vết thương nhỏ này còn có thể chịu đựng được!"
+
+@7564 Simone · シモーヌ
+# Kích hoạt: 轻伤（剩余 HP 90% 以上）（通用，2/3）
+> 「大丈夫、まだ大丈夫よ」
+"Không sao đâu, không thành vấn đề."
+
+@7565 Simone · シモーヌ
+# Kích hoạt: 轻伤（剩余 HP 90% 以上）（通用，3/3）
+> 「うっ……まだ、かすり傷よ」
+"Ừ...chỉ là một vết xước thôi."
+
+@7566 Simone · シモーヌ
+# Kích hoạt: Né tránh（通用，1/9）
+> 「間に合った!?」
+"Bắt kịp!?"
+
+@7567 Simone · シモーヌ
+# Kích hoạt: Né tránh（通用，2/9）
+> 「おそいよっ!!」
+"Quá chậm!!"
+
+@7568 Simone · シモーヌ
+# Kích hoạt: Né tránh（通用，3/9）
+> 「あたってなんかやるもんか!」
+"Tôi sẽ không bị đánh!"
+
+@7569 Simone · シモーヌ
+# Kích hoạt: Né tránh（通用，4/9）
+> 「このぐらいアタシだって!」
+"Tôi cũng có khả năng này!"
+
+@7570 Simone · シモーヌ
+# Kích hoạt: Né tránh（通用，5/9）
+> 「そんな攻撃になんかあたるもんか!」
+"Đòn tấn công đó không thể đánh trúng tôi!"
+
+@7571 Simone · シモーヌ
+# Kích hoạt: Né tránh（通用，6/9）
+> 「誰があたるものか!」
+"Ai sẽ rơi vào nó?"
+
+@7572 Simone · シモーヌ
+# Kích hoạt: Né tránh（通用，7/9）
+> 「残念でした!」
+"Thật đáng tiếc!"
+
+@7573 Simone · シモーヌ
+# Kích hoạt: Né tránh（通用，8/9）
+> 「そんなのでやられるもんか!」
+“Anh muốn đánh bại tôi chỉ vì điều này à?”
+
+@7574 Simone · シモーヌ
+# Kích hoạt: Né tránh（通用，9/9）
+> 「くっ……」
+"Ờ..."
+
+@7575 Simone · シモーヌ
+# Kích hoạt: Tấn công无效（护罩／装甲）（通用，1/3）
+> 「効かないわよ!!」
+"Nó không có tác dụng với tôi!!"
+
+@7576 Simone · シモーヌ
+# Kích hoạt: Tấn công无效（护罩／装甲）（通用，2/3）
+> 「どうやら無駄だったみたいだね」
+"Có vẻ như nỗ lực này là vô ích."
+
+@7577 Simone · シモーヌ
+# Kích hoạt: Tấn công无效（护罩／装甲）（通用，3/3）
+> 「効くもんか!」
+"Nó chẳng có tác dụng gì cả!"
+
+@7578 Simone · シモーヌ
+# Kích hoạt: 弹药／EN 不足，无法反击（通用，1/2）
+> 「た、弾が切れたの……?」
+"Anh hết đạn rồi à...?"
+
+@7579 Simone · シモーヌ
+# Kích hoạt: 弹药／EN 不足，无法反击（通用，2/2）
+> 「くっ……エネルギーが切れるなんて!?」
+"Ừm...năng lượng thực sự đã cạn kiệt rồi!?"
+
+@7580 Simone · シモーヌ
+# Kích hoạt: 射程外，无法反击（通用，1/2）
+> 「うっ、遠すぎるの!?」
+"Ugh, có xa quá không!?"
+
+@7581 Simone · シモーヌ
+# Kích hoạt: 射程外，无法反击（通用，2/2）
+> 「だめっ、届かない!」
+"Không, nó ngoài tầm với!"
+
+@14523 Simone · シモーヌ
+# Kích hoạt: 使用〈連射型レーザードライフル〉（低优先，可能被通用台词顶掉）
+> 「撃つわよっ!」
+"Cháy!"
+
+@14524 Simone · シモーヌ
+# Kích hoạt: 使用〈連射型レーザードライフル〉（低优先，可能被通用台词顶掉）
+> 「あたれっ!!」
+"Đưa nó cho tôi!!"
+
+@14525 Simone · シモーヌ
+# Kích hoạt: 使用〈2連装レーザードライフル〉（低优先，可能被通用台词顶掉）
+> 「撃つわよっ!」
+"Cháy!"
+
+@14526 Simone · シモーヌ
+# Kích hoạt: 使用〈2連装レーザードライフル〉（低优先，可能被通用台词顶掉）
+> 「あたれっ!!」
+"Đưa nó cho tôi!!"

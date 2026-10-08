@@ -1,0 +1,183 @@
+# Bản dịch tiếng Việt Super Robot Wars 64
+# Định dạng và vị trí: docs/guide/dialogue-text.md
+
+@11129 Rakan · ラカン
+# Kích hoạt: Tấn công (Chung，1/12）
+> 「貴様らに絶望という言葉を
+>  思い知らせてやろう!」
+"Hãy để tôi dạy cho bạn biết tuyệt vọng có nghĩa là gì!"
+
+@11130 Rakan · ラカン
+# Kích hoạt: Tấn công (Chung，2/12）
+> 「もらった!」
+"Thành công!"
+
+@11131 Rakan · ラカン
+# Kích hoạt: Tấn công (Chung，3/12）
+> 「ガードが、がら空きだぞっ!」
+"Cửa mở rộng!"
+
+@11132 Rakan · ラカン
+# Kích hoạt: Tấn công (Chung，4/12）
+> 「ぬおおおおおっ!!」
+"Ồ ồ ồ ồ ồ!!"
+
+@11133 Rakan · ラカン
+# Kích hoạt: Tấn công (Chung，5/12）
+> 「なめるなあっ!!」
+"Đừng đánh giá thấp tôi!!"
+
+@11134 Rakan · ラカン
+# Kích hoạt: Tấn công (Chung，6/12）
+> 「よけられるか!!」
+"Cậu có thể trốn được không?!"
+
+@11135 Rakan · ラカン
+# Kích hoạt: Tấn công (Chung，7/12）
+> 「生意気ぃっ!!」
+"Anh chàng kiêu ngạo!!"
+
+@11136 Rakan · ラカン
+# Kích hoạt: Tấn công (Chung，8/12）
+> 「くらえぇっ!!」
+"Ăn chiêu của tôi đi!!"
+
+@11137 Rakan · ラカン
+# Kích hoạt: Tấn công (Chung，9/12）
+> 「ひと思いに楽にしてやる。
+>  心配するな」
+"Tôi sẽ đãi cậu. Đừng lo."
+
+@11138 Rakan · ラカン
+# Kích hoạt: Tấn công (Chung，10/12）
+> 「ここまでだな!」
+"Chính là nó!"
+
+@11139 Rakan · ラカン
+# Kích hoạt: Tấn công (Chung，11/12）
+> 「邪魔だ、どけえっ!」
+"Ngươi đang cản đường, cút khỏi đây!"
+
+@11140 Rakan · ラカン
+# Kích hoạt: Tấn công (Chung，12/12）
+> 「観念するんだな!」
+"Bỏ cuộc đi!"
+
+@11141 Rakan · ラカン
+# Kích hoạt: 被击坠（通用，1/2）
+> 「バカなっ!? この俺が……」
+"Không thể nào!? Thật ra tôi..."
+
+@11142 Rakan · ラカン
+# Kích hoạt: 被击坠（通用，2/2）
+> 「ぬぅっ、貴様、忘れんぞっ!」
+"Được rồi, anh à, em sẽ không quên đâu!"
+
+@11143 Rakan · ラカン
+# Kích hoạt: 重伤（剩余 HP 不足 30%）（通用，1/5）
+> 「むうっ!! この機体が……
+>  パワー負けするのか!?」
+"Hmm!! Cỗ máy này... không mạnh bằng đối thủ sao!?"
+
+@11144 Rakan · ラカン
+# Kích hoạt: 重伤（剩余 HP 不足 30%）（通用，2/5）
+> 「何いっ!? こ、こやつ、ただ者では
+>  ないなっ!!」
+"Cái gì!? Tên này, không phải người bình thường!!"
+
+@11145 Rakan · ラカン
+# Kích hoạt: 重伤（剩余 HP 不足 30%）（通用，3/5）
+> 「ぬううっ! ち、直撃だというのか!?」
+"Uh-huh! Bị, bị đánh à!?"
+
+@11146 Rakan · ラカン
+# Kích hoạt: 重伤（剩余 HP 不足 30%）（通用，4/5）
+> 「バカなっ!? これほどとは……」
+"Không thể nào!? Mạnh đến vậy..."
+
+@11147 Rakan · ラカン
+# Kích hoạt: 重伤（剩余 HP 不足 30%）（通用，5/5）
+> 「まだまだぁっ!」
+“Vẫn còn sớm mà!!”
+
+@11148 Rakan · ラカン
+# Kích hoạt: 中伤（剩余 HP 30–90%）（通用，1/4）
+> 「ぐぅっ! この、図に乗るなぁっ!!」
+"Hmm! Anh bạn, đừng quá khích!!"
+
+@11149 Rakan · ラカン
+# Kích hoạt: 中伤（剩余 HP 30–90%）（通用，2/4）
+> 「ぐっ! ふふ、やるなっ!」
+"Ừm! Haha, có hai lần!"
+
+@11150 Rakan · ラカン
+# Kích hoạt: 中伤（剩余 HP 30–90%）（通用，3/4）
+> 「ちいっ! このラカン・ダカラン、
+>  この程度でやられはせん!!」
+"Tsk! Làm sao tôi, Lakhan Dakalan, có thể ngã như thế này được!!"
+
+@11151 Rakan · ラカン
+# Kích hoạt: 中伤（剩余 HP 30–90%）（通用，4/4）
+> 「な、なんだと!?」
+"C-Cái gì!?"
+
+@11152 Rakan · ラカン
+# Kích hoạt: 轻伤（剩余 HP 90% 以上）（通用，1/3）
+> 「どうした、そんなものか!」
+“Sao vậy, đó là tất cả những gì cậu có à?”
+
+@11153 Rakan · ラカン
+# Kích hoạt: 轻伤（剩余 HP 90% 以上）（通用，2/3）
+> 「並みのモビルスーツとは違うんだよっ!」
+"Đây không phải là mobile suit thông thường!"
+
+@11154 Rakan · ラカン
+# Kích hoạt: 轻伤（剩余 HP 90% 以上）（通用，3/3）
+> 「パワー不足だな!」
+"Không đủ mạnh!"
+
+@11155 Rakan · ラカン
+# Kích hoạt: Né tránh（通用，1/5）
+> 「甘いわっ!」
+"Thật ngây thơ!"
+
+@11156 Rakan · ラカン
+# Kích hoạt: Né tránh（通用，2/5）
+> 「当たらん!」
+"Bỏ lỡ!"
+
+@11157 Rakan · ラカン
+# Kích hoạt: Né tránh（通用，3/5）
+> 「遅いっ!」
+"Quá chậm!"
+
+@11158 Rakan · ラカン
+# Kích hoạt: Né tránh（通用，4/5）
+> 「見え見えなんだよ!」
+"Tôi đã nhìn thấy nó từ lâu rồi!"
+
+@11159 Rakan · ラカン
+# Kích hoạt: Né tránh（通用，5/5）
+> 「そこかっ!」
+"Đó!"
+
+@11160 Rakan · ラカン
+# Kích hoạt: Tấn công无效（护罩／装甲）（通用，1/2）
+> 「ふ、ムダな攻撃だ」
+"Hừ, lãng phí sức lực."
+
+@11161 Rakan · ラカン
+# Kích hoạt: Tấn công无效（护罩／装甲）（通用，2/2）
+> 「効かんわっ!!」
+"Không đau hay ngứa!!"
+
+@11162 Rakan · ラカン
+# Kích hoạt: 弹药／EN 不足，无法反击（通用，1/1）
+> 「弾切れか!? うかつな……」
+"Hết đạn rồi!? Cậu bất cẩn à..."
+
+@11163 Rakan · ラカン
+# Kích hoạt: 射程外，无法反击（通用，1/1）
+> 「ちっ、あんな距離から攻撃してくる
+>  とは……」
+"Chậc, cậu thực sự đã đánh tôi từ khoảng cách xa như vậy..."

@@ -1,0 +1,142 @@
+# Bản dịch tiếng Việt Super Robot Wars 64
+# Định dạng và vị trí: docs/guide/dialogue-text.md
+
+@8662 Lila · ライラ
+# Kích hoạt: Tấn công (Chung，1/10）
+> 「落ちなよ!」
+"Rớt!"
+
+@8663 Lila · ライラ
+# Kích hoạt: Tấn công (Chung，2/10）
+> 「もらった!」
+"Đã lấy nó!"
+
+@8664 Lila · ライラ
+# Kích hoạt: Tấn công (Chung，3/10）
+> 「そこっ!」
+"Chính là nó!"
+
+@8665 Lila · ライラ
+# Kích hoạt: Tấn công (Chung，4/10）
+> 「やらせるわけにはいかないんだよ!!」
+"Tôi sẽ không để bạn thành công!!"
+
+@8666 Lila · ライラ
+# Kích hoạt: Tấn công (Chung，5/10）
+> 「フフ……落とさせてもらうよ」
+"Haha...hãy để tôi hạ gục bạn."
+
+@8667 Lila · ライラ
+# Kích hoạt: Tấn công (Chung，6/10）
+> 「そっちがうかつなのさ!」
+"Ngươi quá bất cẩn!"
+
+@8668 Lila · ライラ
+# Kích hoạt: Tấn công (Chung，7/10）
+> 「これでっ!!」
+"Chỉ thế này thôi!!"
+
+@8669 Lila · ライラ
+# Kích hoạt: Tấn công (Chung，8/10）
+> 「こいつっ!」
+"Anh bạn!"
+
+@8670 Lila · ライラ
+# Kích hoạt: Tấn công (Chung，9/10）
+> 「邪魔なんだよっ!」
+"Cái gã rắc rối!"
+
+@8671 Lila · ライラ
+# Kích hoạt: Tấn công (Chung，10/10）
+> 「これならっ!」
+"Cuối cùng cũng đến lúc phải làm điều đó!"
+
+@8672 Lila · ライラ
+# Kích hoạt: 被击坠（通用，1/2）
+> 「こ、こいつ……ただ者じゃない……」
+"Cái này, tên này... không phải người bình thường..."
+
+@8673 Lila · ライラ
+# Kích hoạt: 被击坠（通用，2/2）
+> 「しまった!?」
+"Ối!?"
+
+@8674 Lila · ライラ
+# Kích hoạt: 重伤（剩余 HP 不足 30%）（通用，1/3）
+> 「バカな……この私が押されている!?」
+"Không thể nào...Tôi thực sự đã bị đàn áp!?"
+
+@8675 Lila · ライラ
+# Kích hoạt: 重伤（剩余 HP 不足 30%）（通用，2/3）
+> 「うおっ! ダ、ダメージを受けすぎたか…」
+"Ôi! Bạn có bị tổn thương quá không..."
+
+@8676 Lila · ライラ
+# Kích hoạt: 重伤（剩余 HP 不足 30%）（通用，3/3）
+> 「何っ!? なんだ、この力は……」
+"Cái gì!? Cái này, sức mạnh này là..."
+
+@8677 Lila · ライラ
+# Kích hoạt: 中伤（剩余 HP 30–90%）（通用，1/3）
+> 「つうっ! なんの!!」
+"Ugh! Cái gì thế này!!"
+
+@8678 Lila · ライラ
+# Kích hoạt: 中伤（剩余 HP 30–90%）（通用，2/3）
+> 「くっ! まだまだっ! まだやられないっ!」
+"Chà! Vẫn chưa kết thúc! Ta còn chưa bị đánh bại!"
+
+@8679 Lila · ライラ
+# Kích hoạt: 中伤（剩余 HP 30–90%）（通用，3/3）
+> 「ちっ! 少しはやるようだね!」
+"Tsk! Có vẻ như cậu vẫn còn chút thời gian nữa!"
+
+@8680 Lila · ライラ
+# Kích hoạt: 轻伤（剩余 HP 90% 以上）（通用，1/3）
+> 「効かないね!」
+"Nó không đau hay ngứa!"
+
+@8681 Lila · ライラ
+# Kích hoạt: 轻伤（剩余 HP 90% 以上）（通用，2/3）
+> 「そんな攻撃で!」
+“Chỉ là kiểu tấn công đó thôi!”
+
+@8682 Lila · ライラ
+# Kích hoạt: 轻伤（剩余 HP 90% 以上）（通用，3/3）
+> 「ふん、かわいいもんだね」
+"Hmph, nó khá dễ thương."
+
+@8683 Lila · ライラ
+# Kích hoạt: Né tránh（通用，1/4）
+> 「当たらないね!」
+"Tôi không thể đánh nó!"
+
+@8684 Lila · ライラ
+# Kích hoạt: Né tránh（通用，2/4）
+> 「甘いっ!」
+"Thật ngây thơ!"
+
+@8685 Lila · ライラ
+# Kích hoạt: Né tránh（通用，3/4）
+> 「当たるものかい!」
+"Làm sao có thể đánh được!"
+
+@8686 Lila · ライラ
+# Kích hoạt: Né tránh（通用，4/4）
+> 「間合いが甘いね!」
+"Khoảng cách quá xa!"
+
+@8687 Lila · ライラ
+# Kích hoạt: Tấn công无效（护罩／装甲）（通用，1/1）
+> 「そんなビームで落ちるものか!」
+“Làm sao tia sáng đó có thể đánh ngã tôi được!”
+
+@8688 Lila · ライラ
+# Kích hoạt: 弹药／EN 不足，无法反击（通用，1/1）
+> 「しまった、弾切れか!」
+"Ồ, chúng ta hết đạn rồi!"
+
+@8689 Lila · ライラ
+# Kích hoạt: 射程外，无法反击（通用，1/1）
+> 「ちっ…射程外から、そういう事かい」
+“Tsk…bắn từ ngoài phạm vi, thì ra là như vậy.”

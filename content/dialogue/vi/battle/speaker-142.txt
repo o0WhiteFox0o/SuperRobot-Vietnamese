@@ -1,0 +1,159 @@
+# Bản dịch tiếng Việt Super Robot Wars 64
+# Định dạng và vị trí: docs/guide/dialogue-text.md
+
+@7093 Baren · バレン
+# Kích hoạt: Tấn công (Chung，1/9）
+> 「死ね!」
+"Đi xuống địa ngục đi!"
+
+@7094 Baren · バレン
+# Kích hoạt: Tấn công (Chung，2/9）
+> 「いくぞ!」
+"Nào!"
+
+@7095 Baren · バレン
+# Kích hoạt: Tấn công (Chung，3/9）
+> 「これでもくらえぃ!」
+"Thử cái này đi!"
+
+@7096 Baren · バレン
+# Kích hoạt: Tấn công (Chung，4/9）
+> 「えぇぃっ!」
+"Này!"
+
+@7097 Baren · バレン
+# Kích hoạt: Tấn công (Chung，5/9）
+> 「はっはっはっはっ!」
+"Hahahahahahaha!"
+
+@7098 Baren · バレン
+# Kích hoạt: Tấn công (Chung，6/9）
+> 「もはや最後だ。観念するがいい!」
+"Xong rồi. Hãy chấp nhận số phận của mình!"
+
+@7099 Baren · バレン
+# Kích hoạt: Tấn công (Chung，7/9）
+> 「覚悟!」
+"Đáng chết!"
+
+@7100 Baren · バレン
+# Kích hoạt: Tấn công (Chung，8/9）
+> 「フフフ、ゆくぞ!」
+"Hehehe, đi thôi!"
+
+@7101 Baren · バレン
+# Kích hoạt: Tấn công (Chung，9/9）
+> 「どうだ!」
+"Thế nào rồi!"
+
+@7102 Baren · バレン
+# Kích hoạt: 被击坠（通用，1/1）
+> 「ああぁぁぁぁぁぁぁぁっ!」
+"Ahhhhhhhhhhhh!"
+
+@7103 Baren · バレン
+# Kích hoạt: 重伤（剩余 HP 不足 30%）（通用，1/4）
+> 「あぁぁぁぁっ!」
+"Ahhhhhh!"
+
+@7104 Baren · バレン
+# Kích hoạt: 重伤（剩余 HP 不足 30%）（通用，2/4）
+> 「おのれっ!」
+"Chết tiệt!"
+
+@7105 Baren · バレン
+# Kích hoạt: 重伤（剩余 HP 不足 30%）（通用，3/4）
+> 「きゃぁぁぁぁっ!」
+"Ahhhhhh!"
+
+@7106 Baren · バレン
+# Kích hoạt: 重伤（剩余 HP 不足 30%）（通用，4/4）
+> 「このままでは済まさん!」
+"Tôi sẽ không bao giờ bỏ cuộc!"
+
+@7107 Baren · バレン
+# Kích hoạt: 中伤（剩余 HP 30–90%）（通用，1/3）
+> 「ぬぅ、おのれぇ!」
+"Hừ, chết tiệt!"
+
+@7108 Baren · バレン
+# Kích hoạt: 中伤（剩余 HP 30–90%）（通用，2/3）
+> 「うわぁぁっ!」
+"Ồhhh!"
+
+@7109 Baren · バレン
+# Kích hoạt: 中伤（剩余 HP 30–90%）（通用，3/3）
+> 「よくも、よくも!」
+"Sao ngươi dám, sao ngươi dám làm vậy với ta!"
+
+@7110 Baren · バレン
+# Kích hoạt: 轻伤（剩余 HP 90% 以上）（通用，1/3）
+> 「どうした、もうおしまいか!」
+"Cái gì, chuyện này kết thúc rồi à?"
+
+@7111 Baren · バレン
+# Kích hoạt: 轻伤（剩余 HP 90% 以上）（通用，2/3）
+> 「フフフ、そんな攻撃が効くと
+>  思ったか!」
+"Ha ha, ngươi cho rằng loại công kích này có thể đả thương ta sao?"
+
+@7112 Baren · バレン
+# Kích hoạt: 轻伤（剩余 HP 90% 以上）（通用，3/3）
+> 「フフ、その程度か」
+“Haha, đó là tất cả những gì cậu có à?”
+
+@7113 Baren · バレン
+# Kích hoạt: Né tránh（通用，1/1）
+> 「ばかめっ! こっちの思うつぼだ」
+"Đồ ngốc! Cậu đang đùa giỡn với tôi đấy."
+
+@7114 Baren · バレン
+# Kích hoạt: Tấn công无效（护罩／装甲）（通用，1/1）
+> 「フフ、その程度か」
+“Haha, đó là tất cả những gì cậu có à?”
+
+@7115 Baren · バレン
+# Kích hoạt: 弹药／EN 不足，无法反击（通用，1/1）
+> 「なに!? エネルギー切れか!」
+"Cái gì!? Năng lượng đã cạn kiệt!"
+
+@7116 Baren · バレン
+# Kích hoạt: 射程外，无法反击（通用，1/1）
+> 「くっ、ここからでは!」
+"Được rồi, khoảng cách này ngoài tầm với!"
+
+@14406 Baren · バレン
+# Kích hoạt: 对手驾驶员〈タケル〉
+> 「マーズ覚悟!」
+"Sao Hỏa, chịu chết đi!"
+
+@14407 Baren · バレン
+# Kích hoạt: 对手驾驶员〈タケル〉
+> 「フフフ、ゆくぞマーズ!」
+"Hehehe, cố lên nào, Mars!"
+
+@14408 Baren · バレン
+# Kích hoạt: 对手驾驶员〈タケル〉
+> 「死ねマーズ!」
+"Xuống địa ngục đi, sao Hỏa!"
+
+@14409 Baren · バレン
+# Kích hoạt: 对手驾驶员〈タケル〉
+> 「どうだマーズ!」
+"Sao thế, sao Hỏa!"
+
+@14410 Baren · バレン
+# Kích hoạt: 对手驾驶员〈タケル〉
+> 「マーズ、もはや最後だ。観念するが
+>  いい!」
+"Mars, cậu xong rồi. Hãy chấp nhận số phận của mình!"
+
+@14411 Baren · バレン
+# Kích hoạt: 重伤（剩余 HP 不足 30%），对手驾驶员〈タケル〉
+> 「おのれマーズ!」
+"Chết tiệt, sao Hỏa!"
+
+@14412 Baren · バレン
+# Kích hoạt: 轻伤（剩余 HP 90% 以上），对手驾驶员〈タケル〉
+> 「フフ、その程度かマーズ」
+"Haha, đó là tất cả những gì bạn có à, Mars?"

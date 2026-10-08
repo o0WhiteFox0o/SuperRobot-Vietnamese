@@ -1,0 +1,1089 @@
+# Bản dịch tiếng Việt Super Robot Wars 64
+# Định dạng và vị trí: docs/guide/dialogue-text.md
+
+@20300 Bright · ブライト
+> 「まもなくホンコンか……
+>  こちらの位置はつかんでいるはずだが
+“Chúng tôi gần như đã đến Hồng Kông… Đáng lẽ họ phải nắm được vị trí của chúng tôi từ lâu.
+---
+>  敵に動きがないのが気になるな」
+Kẻ thù không hề cử động, khiến mọi người cảm thấy bất an. "
+
+@20301 Banjo · 万丈
+> 「ネオホンコン特別行政区は
+>  ロームフェラのウォンが
+“Đặc khu hành chính mới Hồng Kông phải là màu vàng của Romfila
+---
+>  取りしきっているはずだ。このまま
+>  見逃してくれるとは思えないな」
+Điều khiển bằng một tay. Tôi không nghĩ anh ấy sẽ để chúng tôi đi như vậy. "
+
+@20302 Bright · ブライト
+> 「そうだな……そう思う」
+"Ừ...tôi cũng nghĩ vậy."
+
+@20303 Amuro · アムロ
+> 「……君がルオ商会へ
+>  交渉に行くのかい?」
+"...Bạn có định đàm phán với Phòng Thương mại Luo không?"
+
+@20304 Beltorchika · ベルトーチカ
+> 「そういう仕事のために、
+>  ここにいるのですからね」
+"Đó là những gì tôi ở đây để làm."
+
+@20305 Amuro · アムロ
+> 「ベルトーチカ……」
+"Beto Tija..."
+
+@20306 Beltorchika · ベルトーチカ
+> 「ちゃんと補給をして戦わなければ、
+>  帝国を地球から
+“Nếu không chuẩn bị vật tư trước khi tấn công thì làm sao có thể tiêu diệt được đế quốc?”
+---
+>  追い出すことなんて、
+>  できないでしょう?」
+Lái xe từ trái đất? "
+
+@20307 Amuro · アムロ
+> 「……君は戦うことがイヤなのだろう?」
+"...Cậu thực sự ghét đánh nhau phải không?"
+
+@20308 Beltorchika · ベルトーチカ
+> 「戦争は、キライよ。
+>  当たり前でしょう?
+"Tất nhiên là tôi ghét chiến tranh. Có cần tôi nói thế không?
+---
+>  でもそのことと、戦わなくちゃ
+>  いけないときに戦うというのは、別よ」
+Nhưng điều này khác với việc đánh nhau khi đến lúc phải đánh nhau. "
+
+@20309 Amuro · アムロ
+> 「僕を軽蔑しているんだろう?」
+"Anh đang coi thường tôi đấy à?"
+
+@20310 Beltorchika · ベルトーチカ
+> 「あたしはそれほど鈍くはないわ。
+>  アムロ・レイの3年間は
+“Tôi không chậm đến thế đâu. Trong ba năm qua của Amuro Ray,
+---
+>  眠りの時間だったのよ。肉体も、
+>  精神も。休息は必要だわ
+Chỉ đang ngủ thôi. Cả cơ thể và tâm trí đều cần được nghỉ ngơi.
+---
+>  目を覚ませばいいのよ。
+>  そうすれば昔と同じになるわ」
+Chỉ cần thức dậy. Khi thức dậy, bạn có thể vẫn là con người như trước đây. "
+
+@20311 Amuro · アムロ
+> 「……自信がないな」
+“…Tôi không có sự tự tin đó.”
+
+@20312 Beltorchika · ベルトーチカ
+> 「あなたは前にあの子たちと
+>  同じことをしていたのでしょう?」
+“Không phải cậu cũng làm điều tương tự như những đứa trẻ đó trước đây sao?”
+
+@20313 Amuro · アムロ
+> 「そうだが…………
+"Đó là điều tôi đang nói...
+---
+>  !?」
+! ? "
+
+@20314 Beltorchika · ベルトーチカ
+> 「ん……」
+"Ờ..."
+
+@20315 Roux · ルー
+> 「あらら、あんなところでキスなんか
+>  されてたら、エレベーター使えないわね」
+"Ôi chúa ơi, họ đang hôn nhau ở một nơi như thế và thang máy thậm chí còn không hoạt động."
+
+@20316 Masato · 雅人
+> 「あ～あ、結構気に入ってたのに、
+>  がっかりだよ
+"Ah~ ah, tôi khá thích cô ấy, tôi thất vọng quá.
+---
+>  アムロ大尉も手が早いや」
+Đội trưởng Amuro cũng rất nhanh nhẹn. "
+
+@20317 Roux · ルー
+> 「なにいってんのよ。ほら、
+>  いつまでものぞいてないの。行くわよ」
+"Anh đã nói gì thế? Thôi nào, đừng nhìn trộm ở đó nữa. Đi thôi."
+
+@20318 Amuro · アムロ
+> 「…………ベルトーチカ、同情ならいい」
+“…Beto Tija, nếu là sự thông cảm thì không sao cả.”
+
+@20319 Beltorchika · ベルトーチカ
+> 「あたしは、それほど鈍くないと
+>  いったでしょ?
+"Không phải tôi đã nói là tôi không chậm đến thế sao?
+---
+>  女の愛撫で男を
+>  奮い立たせることができるのなら
+Nếu sự vuốt ve của phụ nữ làm đàn ông vui lên,
+---
+>  女はそれをすることもあるのよ。
+>  なぜだと思う?」
+Phụ nữ đôi khi làm điều đó. Tại sao bạn nghĩ nó là như vậy? "
+
+@20320 Amuro · アムロ
+> 「……男を試しているんだろう?」
+“…Đây là bài kiểm tra đàn ông à?”
+
+@20321 Beltorchika · ベルトーチカ
+> 「そうよ。自分にふさわしい男に
+>  なってほしいからね
+“Đúng vậy. Bởi vì anh muốn em trở thành một người đàn ông xứng đáng với anh.
+---
+>  でも、だめだとわかったら捨てるわ。
+>  同情なんかしているヒマなんてない」
+Tuy nhiên, nếu tôi thấy bạn không làm được thì tôi sẽ bỏ rơi bạn. Tôi không có thời gian để thông cảm với bất cứ ai. "
+
+@20322 Amuro · アムロ
+> 「ご両親は前の戦争で
+>  亡くなられたといっていたね?」
+“Anh nói rằng cha mẹ anh đã chết trong cuộc chiến vừa qua phải không?”
+
+@20323 Beltorchika · ベルトーチカ
+> 「ええ。同情されたいほう」
+"Ừ. Tôi thà được thương hại còn hơn.”
+
+@20324 Amuro · アムロ
+> 「すまなかった……帝国は
+>  地球から追い出してみせる」
+“Tôi xin lỗi…tôi chắc chắn sẽ đuổi đế quốc ra khỏi trái đất.”
+
+@20325 Beltorchika · ベルトーチカ
+> 「あたしすぐ忘れるかもよ?」
+"Có lẽ tôi sẽ quên nó sớm thôi?"
+
+@20326 Amuro · アムロ
+> 「構わないさ……」
+"Không thành vấn đề..."
+
+@20327 Beltorchika · ベルトーチカ
+> 「ん…………」
+"Ừm..."
+
+@20328 Quattro · クワトロ
+> 「……ベルトーチカ、
+>  ブライト艦長が呼んでいる」
+"...Beto Tija, Đội trưởng Bright đang gọi cậu."
+
+@20329 Beltorchika · ベルトーチカ
+> 「すぐ行きます……
+>  あたし、あの人キライよ」
+"Tiếp đi... Tôi ghét người đó."
+
+@20330 Ryoma · リョウ
+> 「これがネオホンコンか。噂通りだな」
+"Đây là Hồng Kông mới. Chuyện này giống như những tin đồn vậy.”
+
+@20331 Hayato · ハヤト
+> 「ああ。今の地球で唯一、
+>  占領前と
+"Ừ. Đây là ngôi nhà duy nhất trên trái đất được xây dựng trước khi bị chiếm đóng.
+---
+>  あまり変わらない街だからな、ここは」
+Một thành phố không có nhiều thay đổi. "
+
+@20332 Duo · デュオ
+> 「へえ? どういうことだい?」
+"Ồ? Bạn nói điều này như thế nào?"
+
+@20333 Hayato · ハヤト
+> 「ネオホンコンは地球人の
+>  行政官がいる
+"Hồng Kông mới sẽ có một quản trị viên Trái đất.
+---
+>  特別行政区なのさ。例の
+>  ロームフェラ財団がらみらしいんだがな
+Khu hành chính đặc biệt. Nó dường như có liên quan đến Tập đoàn Romphela.
+---
+>  ま、ロームフェラも少なくとも1つは、
+>  いいことをしたってわけだ」
+Nói chung, Romphila ít nhất đã làm được một điều tốt. "
+
+@20334 Boss · ボス
+> 「よぉ! 久しぶりじゃねぇかよ、兜」
+"Chào! Đã lâu không gặp, Giai Nhi."
+
+@20335 Koji · 甲児
+> 「ボス!? なんだってお前が、
+>  こんなところにいるんだ!?」
+"Ông chủ!? Tại sao ông lại ở đây!?"
+
+@20336 Boss · ボス
+> 「なんだって、水くせぇじゃねぇかよ。
+>  この俺さまも
+"Làm sao chuyện đó có thể xảy ra được? Bạn thẳng thắn quá. Tôi cũng muốn
+---
+>  正義のために一緒に戦うのよ」
+Hãy cùng nhau đấu tranh vì công lý. "
+
+@20337 Koji · 甲児
+> 「おいボス、こいつは遊びじゃないんだぞ。
+>  大体お前が来たって
+"Này Sếp, đây không phải chuyện đùa đâu. Hơn nữa, anh ở đây,
+---
+>  甲板掃除くらいしか、
+>  できないんじゃないのか?」
+Nhiều nhất thì nó cũng chỉ lau được bộ bài thôi phải không? "
+
+@20338 Boss · ボス
+> 「バカにするんじゃないわよ。よく見ろ兜
+>  あれが俺さまのスーパーロボット
+"Đừng đánh giá thấp con người. Nhìn kỹ đi, Jia'er, đó là siêu robot của chú tôi.
+---
+>  その名もボスボロットよ」
+Tên là Boss Robot. "
+
+@20339 Koji · 甲児
+> 「……なんだよ、
+>  補給物資以外なんにもないぜ?」
+“…Anh đang làm gì vậy? Ở đây chẳng có gì ngoài vật tư?”
+
+@20340 Boss · ボス
+> 「ありゃりゃりゃりゃ、ちょっと、俺さまの
+>  ボスボロットは、どこいっちゃったのよ」
+"Này, này, robot Boss của tôi đi đâu rồi?"
+
+@20341 Rain · レイン
+> 「……あなたたち、もしかしてここにあった
+>  スクラップのこと、いってるの?
+“…Có thể nào đó là mảnh kim loại phế liệu mà cậu đang nói đến ở đây không?
+---
+>  だったら搬入の邪魔だから
+>  外に出しちゃったわよ」
+Nếu vậy, tôi sẽ vứt nó đi nếu nó cản trở việc di chuyển hàng hóa. "
+
+@20342 Boss · ボス
+> 「なんだって!? あ、ちょっと、いや、
+>  やめて、俺さまのボスボロットを
+"Anh nói gì thế!? À, này, không, đừng, đừng chạm vào robot sếp của tôi,
+---
+>  どこへ持っていくのよ。
+>  ちょっと、お待ちになって」
+Bạn đang di chuyển đến đâu? Này, xin hãy ở lại! "
+
+@20343 Koji · 甲児
+> 「…………」
+“…………”
+
+@20344 Sayaka · さやか
+> 「なにやってるのよ。甲児くん、
+>  まぁた、面倒おこすつもり?」
+"Em đang làm gì vậy? Jia'er, em lại muốn gây rắc rối phải không?"
+
+@20345 Koji · 甲児
+> 「違うって、さやかさん」
+"Không, Sayaka."
+
+@20346 Brad · ブラッド（按段落 3DD3）
+> 「甲児、なんだよあいつは?」
+"Gia Nhi, người kia là ai?"
+
+@20347 Manami · マナミ（按段落 3DD4）
+> 「なぁに、あれ?」
+"Đó là cái gì vậy?"
+
+@20348 Koji · 甲児
+> 「なんだか知らねぇが、
+>  一緒についてくる気らしい
+“Tôi không biết chuyện gì đang xảy ra, nhưng có vẻ như hắn đang định đi theo chúng ta.
+---
+>  悪い奴じゃあないんだ、
+>  まぁよろしく頼むわ」
+Anh ấy không phải là người xấu nên hãy chăm sóc anh ấy nhé. "
+
+@20349 Astonaige · アストナージ
+> 「それはそっちじゃない、
+>  こっちに持ってくるんだよ!」
+"Không phải ở đó, di chuyển qua đây!"
+
+@20350 Dr. Hazuki · 葉月博士
+> 「搬入は進んでいるか?」
+"Việc di chuyển thế nào rồi?"
+
+@20351 Masato · 雅人
+> 「葉月博士!? どうしてここに?」
+"Bác sĩ Hazuki!? Tại sao bạn lại ở đây?"
+
+@20352 Dr. Hazuki · 葉月博士
+> 「どうしてもこうしてもあるか。お前たちが
+>  ルオ商会と接触すると聞いて
+"Sao lại thế này? Tôi nghe nói cậu sắp liên lạc với Phòng Thương mại Luo.
+---
+>  解放戦線で開発した新型を
+>  運び込んでもらったのだ
+Tôi nhờ người vận chuyển thân máy mới do Mặt trận Giải phóng phát triển.
+---
+>  ところで藤原はまだ見つからんのか?」
+Nhắc mới nhớ, Fujiwara vẫn chưa được tìm thấy à? "
+
+@20353 Masato · 雅人
+> 「沙羅が探しにいったんだけど、
+>  戻ってから何か変なんですよ
+"Saluo đi tìm cô ấy, nhưng khi cô ấy quay lại có điều gì đó không ổn.
+---
+>  沙羅の奴。たぶん忍には
+>  会ったんじゃないかって思うんだけど…」
+Anh chàng Sharo đó. Tôi đoán có lẽ cô ấy đã gặp Ninja..."
+
+@20354 Dr. Hazuki · 葉月博士
+> 「そうか……」
+"Chính là nó..."
+
+@20355 Quattro · クワトロ
+> 「葉月博士」
+"Bác sĩ Hazuki."
+
+@20356 Dr. Hazuki · 葉月博士
+> 「ああ、大尉。どうかね、あれは」
+"À, Thuyền trưởng. Còn cái máy đó thì sao?"
+
+@20357 Quattro · クワトロ
+> 「よい機体を持ってきていただいて、
+>  感謝しています」
+"Cảm ơn bạn đã gửi cho tôi một chiếc máy tốt như vậy."
+
+@20358 Duo · デュオ
+> 「うっひゃー、
+>  おい見ろよ金色のMSだぜ」
+"Wow - nhìn kìa, đó là một mobile suit màu vàng!"
+
+@20359 Roux · ルー
+> 「すっごぉ、誰が乗るのかしら」
+"Thật tuyệt vời, ai sẽ lái nó?"
+
+@20360 Dr. Hazuki · 葉月博士
+> 「兜甲児と弓さやかは、いないのか?
+>  弓教授に頼まれていたものを
+“Đấu Gia Nhi và Công Sa cũng không ở đây sao? Cung giáo sư bảo tôi đưa bọn họ đi.
+---
+>  持ってきているんだが」
+Tôi đã gửi đồ qua. "
+
+@20361 Koji · 甲児
+> 「ここにいるよ、博士」
+"Tôi ở đây, bác sĩ. "
+
+@20362 Sayaka · さやか
+> 「お父さまが? 何かしら」
+"Bố tôi à? Nó có thể là gì? "
+
+@20363 Dr. Hazuki · 葉月博士
+> 「うむ、ジェットスクランダーと
+>  ダイアナンAだ」
+"À, đó là Jetwing và Diana A."
+
+@20364 Koji · 甲児
+> 「……なんだよ、それ」
+“…Đó là cái gì vậy? "
+
+@20365 Dr. Hazuki · 葉月博士
+> 「ジェットスクランダーは、マジンガーZに
+>  装着する飛行パーツだ
+"Cánh phản lực là bộ phận bay được lắp đặt trên Mazinger Z.
+---
+>  これを装備することで、マジンガーZは
+>  空中戦にも対応できるようになる」
+Sau khi cài đặt, Mazinger Z có thể xử lý các trận không chiến. "
+
+@20366 Koji · 甲児
+> 「ほんとかよ!? ありがてぇ、これで
+>  マジンガーは無敵だぜ! さっそく
+"Thật đấy! ? Cảm ơn bạn rất nhiều, bây giờ ma quỷ là bất khả chiến bại! Ngay lập tức
+---
+>  テストといくか!」
+Hãy đi kiểm tra nó! "
+
+@20367 Masato · 雅人
+> 「あの反応の仕方、
+>  忍とそっくりだよ」
+“Phản ứng đó giống hệt như của Shinobu. "
+
+@20368 Ryo · 亮
+> 「フッ、おつむが単純だと、
+>  行動も似てくるらしいな」
+“Hmph, có vẻ như những người có đầu óc đơn giản cũng làm điều tương tự. "
+
+@20369 Sayaka · さやか
+> 「博士、ダイアナンAのほうは?」
+“Bác sĩ, Diana A ở đâu? "
+
+@20370 Dr. Hazuki · 葉月博士
+> 「アフロダイAのパワーアップ版らしい。
+>  コクピットシステムと操縦方法が
+"Nó dường như là phiên bản nâng cao của Cupid A. Hệ thống buồng lái và phương pháp điều khiển tương tự như
+---
+>  アフロダイと変わるので、君もテストを
+>  しておいたほうがいいだろう」
+Cupid thì khác, tốt nhất bạn cũng nên thử nó. "
+
+@20371 Sayaka · さやか
+> 「わかりました」
+"Tôi hiểu. "
+
+@20372 Masato · 雅人
+> 「ねぇ博士、ダンクーガには、
+>  そういうの、ないんですか?」
+"Bác sĩ, tôi không có thứ đó sao? "
+
+@20373 Dr. Hazuki · 葉月博士
+> 「むろん考えてあるとも。
+>  弓教授からもデータをいただいている
+“Tất nhiên là tôi đã có kế hoạch từ trước. Giáo sư Gong cũng đưa cho tôi dữ liệu.
+---
+>  まだしばらくは
+>  時間がかかると思うがな」
+Nhưng tôi nghĩ tôi sẽ phải chờ một thời gian. "
+
+@20374 Lady · レディ
+> (レジスタンスどもめ、
+>  ここで始末をつけてやるぞ
+(Những phần tử kháng cự này ở đây để đối phó với bạn.
+---
+>  この程度のことでトレーズ様の
+>  お手を、わずらわせるわけにはいかん)
+Đừng làm phiền ông Telles vì chuyện tầm thường này. )
+
+@20375 Wong · ウォン
+> 「しかしレディ・アン特佐、確かに
+>  おっしゃるとおり研究所のいくつかは
+"Nhưng Leti Antezow, như bạn đã nói, có một số viện nghiên cứu
+---
+>  私の管理下にありますが、
+>  まだまだデータを集めているところでして」
+Nó nằm dưới sự kiểm soát của tôi, nhưng dữ liệu vẫn đang được thu thập. "
+
+@20376 Lady · レディ
+> 「出し惜しみするおつもりか、
+>  ウォン行政官?
+"Bạn đang cố gắng che giấu nó phải không, quản trị viên Huang?
+---
+>  それでは、ない腹も
+>  さぐられるというものだぞ」
+Trong trường hợp đó, nó sẽ khiến mọi người nghi ngờ bạn có động cơ thầm kín. "
+
+@20377 Wong · ウォン
+> 「いやいや、そんなつもりはありませんよ。
+>  よろしい、そこまでおっしゃるのなら
+"Không, không, tôi không có ý đó. Chà, bây giờ bạn đã nói điều đó,
+---
+>  しかたありませんな。
+>  私の実験部隊でアウドムラを
+Thế thì chúng ta không thể làm gì được. Hãy để đội quân thử nghiệm của tôi tấn công
+---
+>  叩くとしましょう。トレーズ特佐には
+>  よろしくお伝えいただきたい」
+Odomla. Xin gửi lời chào của tôi tới Trestezo. "
+
+@20378 Lady · レディ
+> 「結構だ。よい結果を
+>  期待しよう。お互いにな」
+"Rất tốt. Mong một kết quả tốt đẹp - cho cả bạn và tôi. "
+
+@20379 Wong · ウォン
+> 「ふん……女狐め。
+>  この私を利用しようなどと」
+"Hmph... vixen, ngươi muốn lợi dụng ta."
+
+@20380 ???
+> 「が、それにのるのも兵法の
+>  妙というものよ
+“Nhưng lợi dụng xu thế cũng là cái hay của chiến tranh.
+---
+>  ときに、例のものの手配は
+>  できておるのか?」
+Nhắc mới nhớ, những chuyện đó đã được sắp xếp chưa? "
+
+@20381 Wong · ウォン
+> 「これは先生。
+>  聞いていらしたとはお人が悪い
+"Ồ, là giáo viên. Thì ra bạn đã nghe hết rồi, bạn thật là ác độc.
+---
+>  もちろんですとも。そちらのほうは
+>  よろしく頼みましたよ」
+Tất nhiên là không có vấn đề gì. Tôi sẽ để nó cho bạn. "
+
+@20382 ???
+> 「フフフフフ、まかせておけ」
+"Hehehehe, quấn nó cho tôi đi."
+
+@20383 Banjo · 万丈
+> 「艦長、敵部隊が出た。
+>  市街に向かっているようだ」
+"Thuyền trưởng, quân địch đã ra ngoài. Có vẻ như nó đang hướng về phía thành phố. "
+
+@20384 Bright · ブライト
+> 「やはり来たか。
+>  全員をすぐに呼び戻せ
+“Chắc chắn rồi, nó đã đến. Hãy gọi lại cho mọi người ngay lập tức.
+---
+>  残っているパイロットは
+>  スタンバらせておけ!」
+Tất cả phi công còn lại trên tàu đều đang ở chế độ chờ! "
+
+@20385 Quattro · クワトロ
+> 「艦長、私は百式で待機する」
+"Thuyền trưởng, tôi đang chờ ở Hundred Styles."
+
+@20386 Bright · ブライト
+> 「頼む、大尉。アムロ、お前も
+>  新型のディジェで出てくれ
+"Làm ơn, Đội trưởng. Amuro, anh cũng lái chiếc Didi mới tấn công.
+---
+>  やれるのだろう?」
+Bạn có thể làm được điều đó không? "
+
+@20387 Amuro · アムロ
+> 「ああ、大丈夫だ」
+"Ừ, không vấn đề gì. "
+
+@20388 Reika · レイカ
+> 「ブライト艦長、敵の
+>  広域放送をキャッチしたわ」
+"Đội trưởng Bright, tôi đã chặn được đường truyền phát sóng diện rộng của kẻ thù. "
+
+@20389 Bright · ブライト
+> 「なに? 流してくれ」
+"Cái gì? Bỏ nó ra và lắng nghe. "
+
+@20390 Lady · レディ
+> 「聞こえるか、アウドムラ。私は
+>  帝国軍スペシャルズのレディ・アンだ
+"Bạn có nghe thấy tôi không, Odomra? Tôi là Lady Ann thuộc Lực lượng Đặc biệt của Quân đội Đế quốc.
+---
+>  我々は諸君らをせん滅すべく、
+>  部隊の配置を終えた
+Để tiêu diệt tất cả các bạn, quân đội của chúng tôi đã hoàn thành việc triển khai quân đội.
+---
+>  しかし、このまま戦闘が行われれば
+>  街にもかなりの被害が出よう
+Nhưng nếu chiến tranh nổ ra vì chuyện này, thành phố sẽ chịu thiệt hại đáng kể.
+---
+>  それは我々としても
+>  望むところではない」
+Đây cũng không phải là điều chúng tôi mong muốn. "
+
+@20391 Banjo · 万丈
+> 「なんだ、何がいいたい?」
+"Cái gì, ngươi muốn nói cái gì? "
+
+@20392 Lady · レディ
+> 「よって私はここに、諸君らに
+>  降伏を勧告する。ネオホンコンの
+“Vì vậy tôi khuyên bạn nên đầu hàng. Nếu bạn không muốn Hồng Kông mới
+---
+>  街を火の海にしたくなければ、
+>  おとなしく武装解除してもらおう」
+Khi đường phố chìm trong biển lửa, hãy giải giáp một cách trung thực. "
+
+@20393 Bright · ブライト
+> 「ばかな……連中は正気か!?」
+"Thật vô lý...Những kẻ này điên à? ? "
+
+@20394 Banjo · 万丈
+> 「そうだろうね。なんて破廉恥な女だ」
+"Điều đó không đúng. Thật là một người phụ nữ không biết xấu hổ. "
+
+@20395 Garrison · ギャリソン
+> 「しかし……どうなさるのですか?」
+"Nhưng... cậu định làm gì thế? "
+
+@20396 Banjo · 万丈
+> 「ここで降伏などするわけにはいかない。
+>  すぐにここを発とう」
+“Chúng ta không thể đầu hàng vào lúc này. Khởi hành ngay lập tức. "
+
+@20397 Beauty · ビューティ
+> 「だめよ万丈。まだ物資の搬入が
+>  できていないわよ」
+“Không được đâu, Vạn Chương. Đồ đạc vẫn chưa được chuyển vào. "
+
+@20398 Bright · ブライト
+> 「くっ……
+>  とりあえず時間をかせぐしかないか……」
+"Ừm... Dù sao thì chúng ta cũng chỉ có thể trì hoãn thời gian thôi..."
+
+@20399 Four · フォウ
+> 「ブラン・ブルターク特佐、
+>  お願いがあります」
+"Bran Blutarch, tôi có một yêu cầu. "
+
+@20400 Buran · ブラン
+> 「なんだ?」
+"Có chuyện gì thế?"
+
+@20401 Four · フォウ
+> 「私は好きにやらせていただきたいのです
+>  人の命令では動けませんので」
+“Tôi muốn làm theo cách riêng của mình. Tôi không thể nghe lệnh của người khác. "
+
+@20402 Buran · ブラン
+> 「……いいだろう、やってみせろ」
+"...Được rồi, để tôi xem. "
+
+@20403 Four · フォウ
+> 「ありがとうございます」
+"Cảm ơn bạn."
+
+@20404 Buran · ブラン
+> (強化人間というが……
+>  大丈夫なのか)
+(Có đáng tin cậy không khi nói rằng nó tăng cường sức mạnh cho con người?)
+
+@20405 Anna · アンナ
+> 「ひ、ひどい……
+>  どうしてこんなことができるの!?」
+“Thật quá, quá nhiều… sao anh có thể làm một việc như vậy! ? "
+
+@20406 Bright · ブライト
+> 「大尉、アウドムラはホンコンを
+>  脱出する。時間をかせいでくれ」
+“Thuyền trưởng, Odomra muốn sơ tán khỏi Hồng Kông. Giúp tôi trì hoãn. "
+
+@20407 Quattro · クワトロ
+> 「了解した」
+"Đã hiểu."
+
+@20408 Quattro · クワトロ
+> (が、簡単にいくとは思えんな……)
+(Nhưng mình không nghĩ mọi chuyện sẽ suôn sẻ đến vậy...)
+
+@20409 Amuro · アムロ
+> 「……こんなところで無差別攻撃を
+>  するとは、それでも地球人か!」
+“…Nếu cậu tham gia vào các cuộc tấn công bừa bãi ở một nơi như thế này, cậu có còn được coi là con người không? "
+
+@20410 Four · フォウ
+> 「な、なんだ!?
+>  このザラッとした感覚は?
+“Cái, cái gì! ? Chuyện gì đang xảy ra với cảm giác dựng tóc gáy này vậy?
+---
+>  こんな感覚を持った敵が
+>  いるというのか……気持ち悪い」
+Có kẻ thù nào cảm thấy như vậy không... Kinh tởm quá. "
+
+@20411 Quattro · クワトロ
+> 「……むう……なんだ、
+>  このプレッシャーは!?」
+"...Hmm...cảm giác áp bức này là gì vậy! ? "
+
+@20412 Amuro · アムロ
+> 「これは……あの黒いマシーンか!」
+"Đây là... cỗ máy màu đen đó! "
+
+@20413 Bright · ブライト
+> 「パイロット各員は順次、
+>  出撃しろ!」
+"Tất cả phi công lần lượt tấn công!"
+
+@20414 Dr. Hazuki · 葉月博士
+> 「艦長、獣戦機は
+>  調整が終了していない
+“Thuyền trưởng, việc điều chỉnh Beast Fighter vẫn chưa hoàn thành.
+---
+>  すまないが少し待ってくれ」
+Xin lỗi, vui lòng chờ một chút. "
+
+@20415 Bright · ブライト
+> 「急いでください! 出撃、まだか!?」
+"Xin hãy nhanh lên! Bạn vẫn chưa tấn công à? ? "
+
+@20416 Koji · 甲児
+> 「うっひょーっ、こいつはいいや! やっぱ
+>  空を飛べるってのは最高だぜ!」
+"Wow-thứ này thật tuyệt vời! Đó thực sự là điều thú vị nhất khi có thể bay lên bầu trời! "
+
+@20417 Masato · 雅人
+> 「あれは……イーグルファイター!
+>  忍だよ!」
+"Đó là...Chiến đấu cơ đại bàng! Đó là sự khoan dung! "
+
+@20418 Sara · 沙羅
+> 「忍!? 大丈夫なのかい!?」
+"Shinobu!? Cậu ổn chứ!?"
+
+@20419 Shinobu · 忍
+> 「沙羅か。すまねぇ、またせたな!」
+"Là Sara. Xin lỗi vì đã để bạn phải đợi!"
+
+@20420 Dr. Hazuki · 葉月博士
+> 「やめろ、藤原。
+>  いまのお前では無理だ」
+"Dừng lại, Fujiwara. Bây giờ anh không thể làm được."
+
+@20421 Shinobu · 忍
+> 「へっ、心配すんな葉月さんよ。
+>  俺はきっちり思い出したからな」
+"Này, đừng lo lắng, ông Hazuki. Tôi đã nhớ hết rồi."
+
+@20422 Dr. Hazuki · 葉月博士
+> 「思い出した?」
+"Nhớ?"
+
+@20423 Shinobu · 忍
+> 「ああ。獣戦機隊に野性を
+>  しばる理性はいらねぇってな!
+"Ừ. Hạm đội Chiến đấu Thú không cần phải kiềm chế lý trí hoang dã của mình!
+---
+>  わかったら、腹くくって見物してな!」
+Khi đã hiểu thì chỉ cần bình tĩnh mà quan sát! "
+
+@20424 Ryo · 亮
+> 「フッ、あいかわらずの単細胞ぶりだな
+>  威勢だけでは戦いには勝てんぞ」
+"Hừ, ngươi còn có cái kia đơn bào đức tính, chỉ dựa vào khí thế không thể thắng trận."
+
+@20425 Shinobu · 忍
+> 「なんだと亮、てめえっ!」
+"Anh nói gì thế, Liang, anh bạn!"
+
+@20426 Masato · 雅人
+> 「まぁまぁ忍。いいじゃないか亮、
+>  それでこそ忍っていうもんだろ」
+"Được rồi được rồi, Ren. Không ổn sao, Liang, cái này giống Ren."
+
+@20427 Sara · 沙羅
+> 「あんたたち、
+>  なにゴチャゴチャやってんのさ!
+"Các cậu, các cậu đang làm gì ở đây vậy?
+---
+>  敵は目の前にいるんだよ!
+>  博士、まだ出られないのかい!?」
+Kẻ thù đang ở ngay trước mặt chúng ta! Bác sĩ, ông tấn công được chưa? ? "
+
+@20428 Dr. Hazuki · 葉月博士
+> 「あわてるな。いま終わったところだ」
+"Đừng lo lắng. Nó vừa xong thôi."
+
+@20429 Masato · 雅人
+> 「それじゃ行きますか。
+>  艦長、獣戦機出撃します!」
+"Vậy thì đi thôi. Đội trưởng, máy bay chiến đấu quái thú tấn công!"
+
+@20430 Shinobu · 忍
+> 「へっ、やけにのんびりした
+>  出撃じゃねぇか」
+"Này, nó tấn công thực sự rất chậm."
+
+@20431 Sara · 沙羅
+> 「忍っ、ぼけっとしてんじゃないよ!」
+"Ninja, đừng choáng váng!"
+
+@20432 Shinobu · 忍
+> 「いわれるまでもねぇ。いくぞ、亮、
+>  雅人、沙羅
+"Bạn không cần phải nói với tôi. Thôi nào, Ryo, Masato và Sara.
+---
+>  アグレッシブ・モードじゃ話にならねぇ。
+>  合体するぞ!」
+Chế độ xâm lược hoàn toàn không hoạt động. Phù hợp! "
+
+@20433 Masato · 雅人
+> 「へへっ、そうこなくっちゃ!」
+"Hehe, điều này thật buồn cười!"
+
+@20434 Sara · 沙羅
+> 「ああ、すっかり待ちくたびれてたとこさ!」
+"Chà, tôi đã thiếu kiên nhẫn từ lâu rồi!"
+
+@20435 Ryo · 亮
+> 「フッ、久しぶりに気合いをいれて
+>  いくとするか」
+"Hừm, đã lâu rồi ta không hưng phấn như vậy, đi thôi."
+
+@20436 Shinobu · 忍
+> 「キーワード、
+>  D・A・N・C・O・U・G・A……」
+"Từ khóa, D·A·N·C·O·U·G·A..."
+
+@20437 Shinobu · 忍
+> 「ダンクーガ! ロックオフ!
+>  やあぁぁぁぁぁってやるぜ!!」
+"Phá vỡ tôi! Khóa đã được mở! Ahhhhhhh, chúng ta đánh nhau đi!!"
+
+@20438 Domon · ドモン
+> 「あれはノーベルガンダム……
+>  アレンビーなのか!?」
+"Đó là Nobel Gun...có phải Allenby không!?"
+
+@20439 Domon · ドモン
+> 「アレンビー!」
+“Alembi! "
+
+@20440 Allenby · アレンビー
+> 「え……? ドモン?
+>  本当にドモンなの?」
+"Ơ...? Domon? Có thật là Domon không?"
+
+@20441 Domon · ドモン
+> 「アレンビー、なぜお前が」
+"Alembi, tại sao cậu lại..."
+
+@20442 Allenby · アレンビー
+> 「しかたがなかったのよ。
+>  軍の施設で育てられたあたしには
+“Tôi không thể làm gì được. Tôi lớn lên trong một cơ sở quân sự;
+---
+>  他にどうすることもできなかったんだから
+>  でもドモン、あなたに会えてよかった
+Đơn giản là không có cách nào khác để đi. Nhưng Domon, thật vui được gặp anh.
+---
+>  お願い、一緒に連れていって」
+Làm ơn đưa tôi đi cùng. "
+
+@20443 Domon · ドモン
+> 「アレンビー……いいだろう、来い!」
+“Allenbi…chà, thôi nào! "
+
+@20444 Wong · ウォン
+> 「おやおや、これはいけません。
+>  バーサーカーシステムを起動しろ!」
+“Ồ, ồ, cách này không hiệu quả đâu. Khởi động hệ thống điên cuồng! "
+
+@20445 Allenby · アレンビー
+> 「うあぁぁぁ……やめて! お願いだから
+>  システムを切って! ドモン、助けて!」
+“Uuuuuuuuuah...dừng lại đi! Làm ơn tắt hệ thống đi! Domon, giúp tôi với! "
+
+@20446 Domon · ドモン
+> 「どうしたんだ、アレンビー!」
+“Có chuyện gì thế, Alimbi! "
+
+@20447 Amuro · アムロ
+> 「さがれドモン。戦闘を強制する
+>  システムが遠隔コントロールされている
+“Lùi lại đi, Domon. Hệ thống buộc cô phải chiến đấu đang được điều khiển từ xa.
+---
+>  残念だが今、
+>  彼女を救うのは無理だ」
+Thật không may, bây giờ chúng tôi không thể cứu cô ấy. "
+
+@20448 Domon · ドモン
+> 「し、しかし!」
+“Nhưng, nhưng! "
+
+@20449 Amuro · アムロ
+> 「目的を果たさずに死ぬつもりか、
+>  ドモン・カッシュ!?」
+"Có phải bạn sẽ chết khi chưa đạt được mục tiêu của mình không, Domon Kashu! ? "
+
+@20450 Domon · ドモン
+> 「クッ……すまん、アレンビー……」
+"Ừm...tôi xin lỗi, Alimbi..."
+
+@20451 Garrison · ギャリソン
+> 「艦長、物資の搬入は、
+>  すべて終わったようですぞ」
+"Đội trưởng, hình như toàn bộ vật tư đã được chuyển đi."
+
+@20452 Bright · ブライト
+> 「よし、アウドムラは、ただちにホンコンを
+>  離れる。全機撤退しろ!」
+"Được rồi, Odomra rời khỏi Hong Kong ngay lập tức. Toàn bộ máy bay rút lui!"
+
+@20453 Garrison · ギャリソン
+> 「艦長、物資の搬入は、
+>  すべて終わったようですぞ」
+"Đội trưởng, hình như toàn bộ vật tư đã được chuyển đi."
+
+@20454 Bright · ブライト
+> 「よし、アウドムラは、ただちにホンコンを
+>  離れる。全機撤退しろ!」
+"Được rồi, Odomra rời khỏi Hong Kong ngay lập tức. Toàn bộ máy bay rút lui!"
+
+@20455 Amuro · アムロ
+> 「なんだ、このプレッシャーは!?」
+"Cảm giác áp bức này là gì vậy!?"
+
+@20456 Four · フォウ
+> 「くっ……気持ちが悪い……。
+>  こんな敵がいるのか……」
+"Ugh...thật kinh tởm...có một kẻ thù như vậy..."
+
+@20457 Quattro · クワトロ
+> 「ええい、強化人間だというのか!?」
+"Ồ, đó là người được nâng cấp à? ? "
+
+@20458 Four · フォウ
+> 「な、なんだ? よるな!!」
+"C-Cái gì? Đừng tới đây!!"
+
+@20459 Domon · ドモン
+> 「アレンビー! なぜだ!?」
+“Alembi! Tại sao! ? "
+
+@20460 Allenby · アレンビー
+> 「ドモン……」
+"Domon..."
+
+@20461 Allenby · アレンビー
+> 「さぁ、ファイトしようよぉぉぉーっ!!」
+"Nào, chúng ta hãy chiến đấu--!!"
+
+@20462 Domon · ドモン
+> 「アレンビィィィィーッ!!」
+"Alembi————!!"
+
+@20463 Brad · ブラッド（按段落 3DD3）
+> 「ふん、さすが英雄と呼ばれた男
+>  っていうわけか。やるな、アムロ・レイ」
+"Hừm, anh ấy xứng đáng được gọi là anh hùng. Trong giây lát, Amuro Ray."
+
+@20464 Manami · マナミ（按段落 3DD4）
+> 「アムロ・レイ……1年戦争の
+>  英雄……噂は本当だったんだわ」
+"Amuro Ray...người hùng của Cuộc chiến Một Năm...những tin đồn quả thực là sự thật."
+
+@20465 Beltorchika · ベルトーチカ
+> 「第一印象を取り消さなくてはね
+>  眠りから覚めたアムロ・レイ……
+"Có vẻ như tôi phải lấy lại ấn tượng đầu tiên của mình. Amuro Rei tỉnh dậy sau giấc ngủ sâu...
+---
+>  おびえる男はキライだけど、
+>  好戦的なのもイヤね……」
+Tôi ghét đàn ông rụt rè, nhưng tôi cũng không thích đàn ông hiếu chiến…”
+
+@20466 Beltorchika · ベルトーチカ
+> 「アムロ、アムロ! よく、無事で……」
+"Amuro, Amuro! Tuyệt vời, bạn không sao đâu..."
+
+@20467 Amuro · アムロ
+> 「痛いよ、ベルトーチカ……」
+"Đau quá, Betotija..."
+
+@20468 Banjo · 万丈
+> 「ご苦労さま。さすがだね、アムロ
+>  大尉。忍くんもよく来てくれた」
+"Cảm ơn vì đã làm việc chăm chỉ. Đúng như mong đợi của Đội trưởng Amuro. Shinobu, cảm ơn vì đã đến."
+
+@20469 Shinobu · 忍
+> 「へっ、礼なんざいらねぇよ。
+>  またムゲ野郎と
+"Này, không cần cảm ơn đâu. Miễn là tôi có thể nói chuyện lại với mấy gã Moog đó là được,
+---
+>  戦えるってだけで十分だぜ」
+Một trận chiến là đủ. "
+
+@20470 Sara · 沙羅
+> 「あんた、ちっとも成長してないんだね」
+“Bạn thực sự không có tiến triển gì cả.”
+
+@20471 Shinobu · 忍
+> 「なんだと、沙羅。
+>  お前には、いわれたくねぇよ」
+"Anh nói gì vậy, Sharo? Bây giờ không đến lượt anh nói chuyện với tôi."
+
+@20472 Sara · 沙羅
+> 「なんだって、そりゃいったい
+>  どういうことだい、忍!?」
+"Cái gì? Ý cậu là sao, Shinobu!?"
+
+@20473 Duo · デュオ
+> 「はいはい、そのへんにしとこうぜ。
+>  やるこたぁ、山積みなんだからさ」
+"Được rồi được rồi, chúng ta dừng ở đây đi, còn có một núi việc phải làm."
+
+@20474 Bright · ブライト
+> 「進路をチベットにとれ」
+"Tất nhiên đã đổi sang Tây Tạng."
+
+@20475 Reika · レイカ
+> 「チベットですか?」
+"Tây Tạng?"
+
+@20476 Bright · ブライト
+> 「そうだ。
+>  葉月博士によれば、チベットに
+“Đúng vậy. Theo bác sĩ Hazuki, mặt trận giải phóng nằm ở Tây Tạng.
+---
+>  解放戦線が確保した戦艦が
+>  用意してあるらしい」
+Một chiến hạm đã được chuẩn bị. "
+
+@20477 Banjo · 万丈
+> 「それはありがたいな」
+"Đó sẽ là một sự trợ giúp lớn."
+
+@20478 Lady · レディ
+> 「強化人間だの何だのと、
+>  あまりあてにはならんな」
+“Những thứ như cường hóa con người thực sự không đáng tin cậy. "
+
+@20479 Wong · ウォン
+> 「それはひどいおっしゃりようですな。
+>  あれはまだまだ実験段階だと
+"Chuyện này thực sự quá đáng để nói. Chẳng phải tôi đã nói với anh rằng nó vẫn còn trong
+---
+>  申し上げておいたはずですよ」
+Giai đoạn thử nghiệm? "
+
+@20480 Lady · レディ
+> 「ふん、では追撃隊は出せない
+>  というのだな」
+“Hừm, vậy là cậu không thể cử đội truy đuổi à?”
+
+@20481 Wong · ウォン
+> 「いえいえ、そうは言っておりませんよ、
+>  レディ・アン特佐。ただ私も
+"Không, không, tôi không nói thế, Letty Antezow. Chỉ là tôi thôi."
+---
+>  帝国からネオホンコンをあずかって
+>  いる以上、あまり無理はできない
+Vì chúng ta được đế quốc giao phó quản lý Tân Hồng Kông nên chúng ta cũng không nên quá miễn cưỡng.
+---
+>  というわけでして。事情はご理解
+>  いただきたいものですな」
+Thế thôi. Tôi hy vọng bạn có thể hiểu được những khó khăn của tôi. "
+
+@20482 Lady · レディ
+> 「どちらでも同じことだ。まぁよい、
+>  追撃隊はこちらで手配する
+“Dù sao thì cũng như nhau thôi. Dù sao đi nữa, tôi sẽ bố trí đội truy đuổi.
+---
+>  ただし、
+>  多少の兵は出してもらうぞ」
+Tuy nhiên, bạn phải có một số quân đội. "
+
+@20483 Wong · ウォン
+> 「それはもちろんですとも」
+"Đó là điều tự nhiên. "
+
+@20484 Wong · ウォン
+> 「フォウ、もう少しがんばってくれなければ
+>  研究所にも資金がまわせなくなる」
+“Feng, nếu bạn không làm việc chăm chỉ hơn, viện sẽ không thể phân bổ kinh phí. "
+
+@20485 Four · フォウ
+> 「サイコガンダムを使わない者に
+>  あの感覚がわかってたまるか
+"Làm sao những người chưa từng lái chiếc Psycho Gundam có thể hiểu được cảm giác đó như thế nào?
+---
+>  わかるのか、お前に!
+>  ヘビが頭をのたうつような感覚が!?」
+Bạn biết không, bạn! Cảm giác đó giống như một con rắn đang lăn lộn trong đầu tôi vậy! ? "
+
+@20486 Wong · ウォン
+> 「もちろんわかりません。
+>  しかしそれが治るかどうかも
+"Tất nhiên là tôi không hiểu. Nhưng bệnh đó có chữa được không?
+---
+>  君の努力次第なのですよ」
+Tất cả phụ thuộc vào nỗ lực của bạn. "
+
+@20487 Four · フォウ
+> 「くっ……わかった。
+>  アウドムラを追撃すればいいのだろう」
+"Ừ...tôi biết. Cứ đuổi theo Odomra. "
+
+@20488 Wong · ウォン
+> 「そういうことです。
+>  期待していますよ、フォウ」
+"Chính xác. Tôi rất mong chờ màn trình diễn của bạn, Feng. "

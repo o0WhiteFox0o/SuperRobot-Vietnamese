@@ -1,0 +1,163 @@
+# Bản dịch tiếng Việt Super Robot Wars 64
+# Định dạng và vị trí: docs/guide/dialogue-text.md
+
+@6648 Hilde · ヒルデ
+# Kích hoạt: Tấn công (Chung，1/9）
+> 「やらせないわ」
+“Tôi sẽ không để cậu thành công.”
+
+@6649 Hilde · ヒルデ
+# Kích hoạt: Tấn công (Chung，2/9）
+> 「あたしがやらせないわっ!」
+"Tôi sẽ không để bạn thành công!"
+
+@6650 Hilde · ヒルデ
+# Kích hoạt: Tấn công (Chung，3/9）
+> 「さぁおとなしくしなさい」
+"Nào, đầu hàng và bắt tôi đi."
+
+@6651 Hilde · ヒルデ
+# Kích hoạt: Tấn công (Chung，4/9）
+> 「逃がすものか」
+“Đừng cố trốn thoát.”
+
+@6652 Hilde · ヒルデ
+# Kích hoạt: Tấn công (Chung，5/9）
+> 「まてっ!」
+"Dừng lại!"
+
+@6653 Hilde · ヒルデ
+# Kích hoạt: Tấn công (Chung，6/9）
+> 「抵抗すれば容赦しない!」
+"Tôi sẽ không lịch sự nếu bạn chống cự nữa!"
+
+@6654 Hilde · ヒルデ
+# Kích hoạt: Tấn công (Chung，7/9）
+> 「コロニーの平和のために!」
+"Vì hòa bình trên các vệ tinh thuộc địa!"
+
+@6655 Hilde · ヒルデ
+# Kích hoạt: Tấn công (Chung，8/9）
+> 「あたしはあたしのやり方で戦うわ」
+"Tôi có cách chiến đấu của riêng mình."
+
+@6656 Hilde · ヒルデ
+# Kích hoạt: Tấn công (Chung，9/9）
+> 「やってみせる!」
+"Nhìn tôi này!"
+
+@6657 Hilde · ヒルデ
+# Kích hoạt: 被击坠（通用，1/1）
+> 「きゃあぁぁぁぁぁぁっっっ!」
+"Ahhhhhhhhh-!"
+
+@6658 Hilde · ヒルデ
+# Kích hoạt: 重伤（剩余 HP 不足 30%）（通用，1/4）
+> 「あぁ!? あたし、死ぬ……!?」
+"A!? T-tôi sắp chết mất...!?"
+
+@6659 Hilde · ヒルデ
+# Kích hoạt: 重伤（剩余 HP 不足 30%）（通用，2/4）
+> 「くっ、死ぬ覚悟ならできているわっ!」
+"Ồ, tôi đã sẵn sàng để chết!"
+
+@6660 Hilde · ヒルデ
+# Kích hoạt: 重伤（剩余 HP 不足 30%）（通用，3/4）
+> 「あぅっ! 絶対にやられるもんかっ!」
+"A! Tôi sẽ không bao giờ bị giết!"
+
+@6661 Hilde · ヒルデ
+# Kích hoạt: 重伤（剩余 HP 不足 30%）（通用，4/4）
+> 「あぁぁぁぁぁっ!?」
+"Ahhh!?"
+
+@6662 Hilde · ヒルデ
+# Kích hoạt: 中伤（剩余 HP 30–90%）（通用，1/5）
+> 「こんなところでやられるわけには
+>  いかないわっ!」
+“Tôi không thể bị giết ở một nơi như thế này!”
+
+@6663 Hilde · ヒルデ
+# Kích hoạt: 中伤（剩余 HP 30–90%）（通用，2/5）
+> 「うぅっ! まけるもんかっ!」
+"Ugh! Tôi sẽ không thua!"
+
+@6664 Hilde · ヒルデ
+# Kích hoạt: 中伤（剩余 HP 30–90%）（通用，3/5）
+> 「うっ!」
+"Hừm! "
+
+@6665 Hilde · ヒルデ
+# Kích hoạt: 中伤（剩余 HP 30–90%）（通用，4/5）
+> 「くっ、絶対にやらせない!」
+"Được, ta sẽ không bao giờ để ngươi thành công!"
+
+@6666 Hilde · ヒルデ
+# Kích hoạt: 中伤（剩余 HP 30–90%）（通用，5/5）
+> 「あぁーっ!?」
+"A——!?"
+
+@6667 Hilde · ヒルデ
+# Kích hoạt: 轻伤（剩余 HP 90% 以上）（通用，1/3）
+> 「やられるもんかっ」
+"Tôi sẽ không bị giết!"
+
+@6668 Hilde · ヒルデ
+# Kích hoạt: 轻伤（剩余 HP 90% 以上）（通用，2/3）
+> 「その程度なら!」
+"Đây chỉ là một cuộc tấn công, không có vấn đề gì!"
+
+@6669 Hilde · ヒルデ
+# Kích hoạt: 轻伤（剩余 HP 90% 以上）（通用，3/3）
+> 「うっ……でも!」
+"Chà...nhưng!"
+
+@6670 Hilde · ヒルデ
+# Kích hoạt: Né tránh（通用，1/6）
+> 「やった!」
+"Thành công!"
+
+@6671 Hilde · ヒルデ
+# Kích hoạt: Né tránh（通用，2/6）
+> 「かわせた!?」
+"Trốn thoát!?"
+
+@6672 Hilde · ヒルデ
+# Kích hoạt: Né tránh（通用，3/6）
+> 「……ふうっ」
+"... Phù. "
+
+@6673 Hilde · ヒルデ
+# Kích hoạt: Né tránh（通用，4/6）
+> 「んっ!」
+"Ừ!"
+
+@6674 Hilde · ヒルデ
+# Kích hoạt: Né tránh（通用，5/6）
+> 「な、なんとか……」
+"Cuối cùng, cuối cùng..."
+
+@6675 Hilde · ヒルデ
+# Kích hoạt: Né tránh（通用，6/6）
+> 「あたしだって!」
+"Tôi cũng không phải là người có thể coi thường!"
+
+@6676 Hilde · ヒルデ
+# Kích hoạt: Tấn công无效（护罩／装甲）（通用，1/2）
+> 「そんな攻撃でやられるもんか!」
+"Loại công kích này không thể đánh bại ta!"
+
+@6677 Hilde · ヒルデ
+# Kích hoạt: Tấn công无效（护罩／装甲）（通用，2/2）
+> 「効くもんか!」
+"Nó chẳng có tác dụng gì cả!"
+
+@6678 Hilde · ヒルデ
+# Kích hoạt: 弹药／EN 不足，无法反击（通用，1/1）
+> 「た、弾切れ!? そんなっ」
+"Không, không có đạn!? Làm sao có thể..."
+
+@6679 Hilde · ヒルデ
+# Kích hoạt: 射程外，无法反击（通用，1/1）
+> 「あと、あと少しなのにっ」
+"Chỉ là, chỉ gần một chút thôi!"

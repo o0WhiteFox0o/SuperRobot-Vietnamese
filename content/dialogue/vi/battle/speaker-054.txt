@@ -1,0 +1,164 @@
+# Bản dịch tiếng Việt Super Robot Wars 64
+# Định dạng và vị trí: docs/guide/dialogue-text.md
+
+@11164 Ple · プル
+# Kích hoạt: Tấn công (Chung，1/6）
+> 「そこねっ!!」
+“Chính là nó!!”
+
+@11165 Ple · プル
+# Kích hoạt: Tấn công (Chung，2/6）
+> 「もらったっ!!」
+"Thành công!!"
+
+@11166 Ple · プル
+# Kích hoạt: Tấn công (Chung，3/6）
+> 「おちちゃえーっ!!」
+“Ngã xuống——!!”
+
+@11167 Ple · プル
+# Kích hoạt: Tấn công (Chung，4/6）
+> 「やらせないよっ!!」
+"Đừng cố gắng để thành công!!"
+
+@11168 Ple · プル
+# Kích hoạt: Tấn công (Chung，5/6）
+> 「そこ!」
+"Đó!"
+
+@11169 Ple · プル
+# Kích hoạt: Tấn công (Chung，6/6）
+> 「あたって!」
+"Đánh!"
+
+@11170 Ple · プル
+# Kích hoạt: 被击坠（通用，1/3）
+> 「も、もうだめっ!!」
+"Không, không còn nữa!!"
+
+@11171 Ple · プル
+# Kích hoạt: 被击坠（通用，2/3）
+> 「きゃあああっ!!」
+"Ahhhhhh!!"
+
+@11172 Ple · プル
+# Kích hoạt: 被击坠（通用，3/3）
+> 「きゃあっ!! やられちゃった!」
+"Ừ!! Bị đánh gục!"
+
+@11173 Ple · プル
+# Kích hoạt: 重伤（剩余 HP 不足 30%）（通用，1/3）
+> 「きゃあっ!! ダメ、助けてっ!」
+"Ừ!! Không, giúp tôi với!"
+
+@11174 Ple · プル
+# Kích hoạt: 重伤（剩余 HP 不足 30%）（通用，2/3）
+> 「うっ! ダメだわ、これじゃやられちゃう!」
+"Uh! Không, cậu sẽ bị giết nếu tiếp tục làm thế này!"
+
+@11175 Ple · プル
+# Kích hoạt: 重伤（剩余 HP 不足 30%）（通用，3/3）
+> 「きゃっ! も、もつの!?」
+"A! Bạn vẫn có thể giữ được chứ!?"
+
+@11176 Ple · プル
+# Kích hoạt: 中伤（剩余 HP 30–90%）（通用，1/4）
+> 「つっ!! よくもやったわねっ!」
+"Ugh!! Sao anh dám đánh tôi!"
+
+@11177 Ple · プル
+# Kích hoạt: 中伤（剩余 HP 30–90%）（通用，2/4）
+> 「きゃっ! 何よ、痛いじゃないっ!」
+"Ừ! Cậu đang làm gì vậy? Đau quá!"
+
+@11178 Ple · プル
+# Kích hoạt: 中伤（剩余 HP 30–90%）（通用，3/4）
+> 「まだよ! このくらいっ!」
+"Vẫn chưa xong đâu! Vết thương nhỏ này chẳng là gì cả!"
+
+@11179 Ple · プル
+# Kích hoạt: 中伤（剩余 HP 30–90%）（通用，4/4）
+> 「いったあぁぁぁい!」
+"Đau quá——!"
+
+@11180 Ple · プル
+# Kích hoạt: 轻伤（剩余 HP 90% 以上）（通用，1/2）
+> 「へーき、へーき!」
+"Không sao đâu, không sao đâu!"
+
+@11181 Ple · プル
+# Kích hoạt: 轻伤（剩余 HP 90% 以上）（通用，2/2）
+> 「へーきだもん!」
+"Mọi chuyện ổn chứ?"
+
+@11182 Ple · プル
+# Kích hoạt: Né tránh（通用，1/4）
+> 「へたくそっ!」
+"Thật tệ!"
+
+@11183 Ple · プル
+# Kích hoạt: Né tránh（通用，2/4）
+> 「へへーんだ!」
+“Hơi, hơi—! "
+
+@11184 Ple · プル
+# Kích hoạt: Né tránh（通用，3/4）
+> 「べーだ! あたんないわよ!」
+"Tiểu, tiểu, tiểu! Ngươi đánh không được ta!"
+
+@11185 Ple · プル
+# Kích hoạt: Né tránh（通用，4/4）
+> 「ムダだっていったろ!!」
+“Tôi đã bảo là nó vô dụng mà!!”
+
+@11186 Ple · プル
+# Kích hoạt: Tấn công无效（护罩／装甲）（通用，1/3）
+> 「へーき、へーき!」
+"Không sao đâu, không sao đâu!"
+
+@11187 Ple · プル
+# Kích hoạt: Tấn công无效（护罩／装甲）（通用，2/3）
+> 「へーきだもん!」
+"Mọi chuyện ổn chứ?"
+
+@11188 Ple · プル
+# Kích hoạt: Tấn công无效（护罩／装甲）（通用，3/3）
+> 「ビームなんて!!」
+"Chùm tia là gì?"
+
+@11189 Ple · プル
+# Kích hoạt: 弹药／EN 不足，无法反击（通用，1/1）
+> 「だめ、反撃不可能!」
+"Không, không có cách nào đánh trả!"
+
+@11190 Ple · プル
+# Kích hoạt: 射程外，无法反击（通用，1/1）
+> 「ちょっと!! どっから攻撃して
+>  くんのよ! このヒキョーモノ!!」
+"Này!! Cậu đang gọi từ đâu vậy? Đồ đáng khinh!!"
+
+@16397 Ple · プル
+# Kích hoạt: 使用〈ファンネル／マザーファンネル〉
+> 「いけっ! ファンネルたち!」
+"Đi! Pháo bay!"
+
+@16398 Ple · プル
+# Kích hoạt: 使用〈ファンネル／マザーファンネル〉
+> 「いっけぇーっ!! ファンネル!!」
+“Tiến lên——!! Pháo nổi!!”
+
+@16399 Ple · プル
+# Kích hoạt: 使用〈フィンファンネル〉
+> 「いっけぇーっ!! フィンファンネル!!」
+“Tiến lên——!! Pháo vây!!”
+
+@16400 Ple · プル
+# Kích hoạt: 使用〈フィンファンネル〉
+> 「いけっ! フィンファンネルたち!!」
+"Đi! Pháo vây!!"
+
+@16401 Ple · プル
+# Kích hoạt: 使用〈ハイメガキャノン〉（低优先，可能被通用台词顶掉）
+> 「エネルギー充填……
+>  いけっ! ハイメガキャノン!!」
+"Nạp năng lượng...cố lên! Mega Cannon năng lượng cao!!"

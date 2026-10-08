@@ -1,0 +1,198 @@
+# Bản dịch tiếng Việt Super Robot Wars 64
+# Định dạng và vị trí: docs/guide/dialogue-text.md
+
+@12515 Black Knight · 黒騎士
+# Kích hoạt: Tấn công (Chung，1/11）
+> 「勝負だ!」
+"Một cuộc thách đấu!"
+
+@12516 Black Knight · 黒騎士
+# Kích hoạt: Tấn công (Chung，2/11）
+> 「死ね!」
+"Đi xuống địa ngục đi!"
+
+@12517 Black Knight · 黒騎士
+# Kích hoạt: Tấn công (Chung，3/11）
+> 「そこかっ!」
+"Đó!"
+
+@12518 Black Knight · 黒騎士
+# Kích hoạt: Tấn công (Chung，4/11）
+> 「やらせん!」
+"Tôi sẽ không để bạn thành công!"
+
+@12519 Black Knight · 黒騎士
+# Kích hoạt: Tấn công (Chung，5/11）
+> 「これでとどめだ!」
+"Một đòn này sẽ kết liễu ngươi!"
+
+@12520 Black Knight · 黒騎士
+# Kích hoạt: Tấn công (Chung，6/11）
+> 「ゆくぞ!」
+"Lên!"
+
+@12521 Black Knight · 黒騎士
+# Kích hoạt: Tấn công (Chung，7/11）
+> 「これでどうだっ!」
+"Động tác này thế nào!"
+
+@12522 Black Knight · 黒騎士
+# Kích hoạt: Tấn công (Chung，8/11）
+> 「なめるなっ」
+"Đừng đánh giá thấp tôi!"
+
+@12523 Black Knight · 黒騎士
+# Kích hoạt: Tấn công (Chung，9/11）
+> 「終わりだな!」
+"Hết rồi!"
+
+@12524 Black Knight · 黒騎士
+# Kích hoạt: Tấn công (Chung，10/11）
+> 「逃がさん!」
+"Đừng cố trốn thoát!"
+
+@12525 Black Knight · 黒騎士
+# Kích hoạt: Tấn công (Chung，11/11）
+> 「フフフフッ」
+"Hehehehe"
+
+@12526 Black Knight · 黒騎士
+# Kích hoạt: 被击坠（通用，1/3）
+> 「なっ、なんだと!?」
+"C-Cái gì!?"
+
+@12527 Black Knight · 黒騎士
+# Kích hoạt: 被击坠（通用，2/3）
+> 「バカな……この私が……?」
+"Không thể nào...tôi thực sự...?"
+
+@12528 Black Knight · 黒騎士
+# Kích hoạt: 被击坠（通用，3/3）
+> 「やられたというのか!?」
+"Tôi thực sự... đã thua!?"
+
+@12529 Black Knight · 黒騎士
+# Kích hoạt: 重伤（剩余 HP 不足 30%）（通用，1/5）
+> 「なっ、なぜだ!?」
+"T-tại sao!?"
+
+@12530 Black Knight · 黒騎士
+# Kích hoạt: 重伤（剩余 HP 不足 30%）（通用，2/5）
+> 「おされている!? この私が!?」
+"Bị ức chế!? Thực sự là tôi sao!?"
+
+@12531 Black Knight · 黒騎士
+# Kích hoạt: 重伤（剩余 HP 不足 30%）（通用，3/5）
+> 「うっ! なんというパワーだ!」
+"Hmm! Thật là một lực lượng mạnh mẽ!"
+
+@12532 Black Knight · 黒騎士
+# Kích hoạt: 重伤（剩余 HP 不足 30%）（通用，4/5）
+> 「ぐぅぅっ! こ、こんなことでやられるわけ
+>  にはいかぬ」
+"Hmm! Làm sao tôi có thể, làm sao tôi có thể rơi vào một nơi như thế này được?"
+
+@12533 Black Knight · 黒騎士
+# Kích hoạt: 重伤（剩余 HP 不足 30%）（通用，5/5）
+> 「ぐぅっ! お、おのれぇ!」
+"Ugh! Chết tiệt, chết tiệt!"
+
+@12534 Black Knight · 黒騎士
+# Kích hoạt: 中伤（剩余 HP 30–90%）（通用，1/7）
+> 「まだだ! まだやられはせんよ!」
+"Mọi chuyện vẫn chưa kết thúc! Tôi sẽ không ngã xuống như thế này đâu!"
+
+@12535 Black Knight · 黒騎士
+# Kích hoạt: 中伤（剩余 HP 30–90%）（通用，2/7）
+> 「ぐっ! 貴様ぁ!」
+"Ugh! Anh bạn!"
+
+@12536 Black Knight · 黒騎士
+# Kích hoạt: 中伤（剩余 HP 30–90%）（通用，3/7）
+> 「うっ! 意外とやる」
+"Chà! Cũng khá lâu rồi."
+
+@12537 Black Knight · 黒騎士
+# Kích hoạt: 中伤（剩余 HP 30–90%）（通用，4/7）
+> 「なにっ! あたった!?」
+"Cái gì! Đánh!?"
+
+@12538 Black Knight · 黒騎士
+# Kích hoạt: 中伤（剩余 HP 30–90%）（通用，5/7）
+> 「うっ! この程度でいい気になるな」
+"Ồ! Chỉ là vết thương nhỏ thôi, đừng quá khích."
+
+@12539 Black Knight · 黒騎士
+# Kích hoạt: 中伤（剩余 HP 30–90%）（通用，6/7）
+> 「ちっ……やるな……」
+"Chậc...đợi một chút..."
+
+@12540 Black Knight · 黒騎士
+# Kích hoạt: 中伤（剩余 HP 30–90%）（通用，7/7）
+> 「くっ……共倒れはせぬ!」
+"Chà...tôi sẽ không chết cùng anh!"
+
+@12541 Black Knight · 黒騎士
+# Kích hoạt: 轻伤（剩余 HP 90% 以上）（通用，1/6）
+> 「効かんな」
+“vô dụng”
+
+@12542 Black Knight · 黒騎士
+# Kích hoạt: 轻伤（剩余 HP 90% 以上）（通用，2/6）
+> 「その程度か」
+“Đó là tất cả những gì cậu có à?”
+
+@12543 Black Knight · 黒騎士
+# Kích hoạt: 轻伤（剩余 HP 90% 以上）（通用，3/6）
+> 「フッ、なめるな」
+"Hừm, đừng đánh giá thấp tôi."
+
+@12544 Black Knight · 黒騎士
+# Kích hoạt: 轻伤（剩余 HP 90% 以上）（通用，4/6）
+> 「ハッハッハッ、効かぬ!!」
+"Hahahaha, vô dụng thôi!!"
+
+@12545 Black Knight · 黒騎士
+# Kích hoạt: 轻伤（剩余 HP 90% 以上）（通用，5/6）
+> 「あまいな」
+“太天真了”
+
+@12546 Black Knight · 黒騎士
+# Kích hoạt: 轻伤（剩余 HP 90% 以上）（通用，6/6）
+> 「こざかしい真似を」
+"Sao ngươi dám giở trò thông minh như vậy"
+
+@12547 Black Knight · 黒騎士
+# Kích hoạt: Né tránh（通用，1/2）
+> 「見切った!」
+"Xem qua đi!"
+
+@12548 Black Knight · 黒騎士
+# Kích hoạt: Né tránh（通用，2/2）
+> 「あたらん!!」
+"Bỏ lỡ!!"
+
+@12549 Black Knight · 黒騎士
+# Kích hoạt: Tấn công无效（护罩／装甲）（通用，1/3）
+> 「そんなものが通用するか!!」
+“Làm sao một thứ như thế có thể hoạt động được!!”
+
+@12550 Black Knight · 黒騎士
+# Kích hoạt: Tấn công无效（护罩／装甲）（通用，2/3）
+> 「効かんといっている!」
+“Tôi đã bảo là nó vô dụng mà!”
+
+@12551 Black Knight · 黒騎士
+# Kích hoạt: Tấn công无效（护罩／装甲）（通用，3/3）
+> 「ムダだ!」
+"Tất cả đều vô ích!"
+
+@12552 Black Knight · 黒騎士
+# Kích hoạt: 弹药／EN 不足，无法反击（通用，1/1）
+> 「しまった……反撃できん……」
+"Ối...Tôi không thể đánh trả được..."
+
+@12553 Black Knight · 黒騎士
+# Kích hoạt: 射程外，无法反击（通用，1/1）
+> 「なにっ!? 射程外からだと!?」
+"Cái gì!? Được gọi từ ngoài phạm vi!?"

@@ -1,0 +1,448 @@
+# Bản dịch tiếng Việt Super Robot Wars 64
+# Định dạng và vị trí: docs/guide/dialogue-text.md
+
+@17620 Hamilton · ハミルトン
+> 「よぉ{HeroName}、
+>  こんなところにいたのか」
+"Yo, {HeroName}, bạn đến rồi."
+
+@17621 Selain · セレイン（本话主角）
+> 「ハミルトンか。……何か用か?」
+"Hamilton... có chuyện gì vậy?"
+
+@17622 Hamilton · ハミルトン
+> 「例のやつを回収した。まだ修理
+>  しなくちゃならんが、いずれお前が
+“Thứ đó đã được tái chế. Tuy vẫn cần phải sửa chữa nhưng sớm muộn gì cũng sẽ là anh.”
+---
+>  乗る機体だ。システムのチェック
+>  くらい手伝っても、バチはあたらんぜ?」
+Cơ thể được mở ra. Nếu bạn giúp kiểm tra hệ thống, bạn sẽ không bị quả báo phải không? "
+
+@17623 Selain · セレイン（本话主角）
+> 「わかった、いこう」
+"Tôi biết rồi, đi thôi."
+
+@17624 Selain · セレイン（本话主角）
+> 「帝国の試作機か……。よく
+>  これだけの損傷で残っていたものだ」
+"Cỗ máy thí nghiệm của đế quốc... bị thương nặng đến mức vẫn có thể sống sót."
+
+@17625 Hamilton · ハミルトン
+> 「ぶっ倒れたとたんにパイロットは
+>  逃げ出しちまったからな
+"Phi công đã bỏ chạy ngay khi rơi.
+---
+>  ま、おかげで俺たちも戦力の
+>  強化ができるってわけさ」
+Tuy nhiên, nhờ có anh ấy mà chúng ta cũng có thể tăng sức chiến đấu. "
+
+@17626 Selain · セレイン（本话主角）
+> 「しかし……まずいな……」
+"Nhưng... nó không tốt..."
+
+@17627 Hamilton · ハミルトン
+> 「あ? 何がだ?」
+"A? Có chuyện gì thế?"
+
+@17628 Selain · セレイン（本话主角）
+> 「帝国の試作機といっても、
+>  既存の機種のマイナーチェンジだと
+“Tôi tưởng ngay cả nguyên mẫu của Đế chế cũng chỉ là một mẫu hiện có.
+---
+>  思っていた。しかしこれは
+>  完全な新型だ」
+Căng da mặt nhỏ. Nhưng đây là một chiếc máy hoàn toàn mới. "
+
+@17629 Hamilton · ハミルトン
+> 「結構なことじゃないか」
+"Đó không phải là điều tốt sao?"
+
+@17630 Selain · セレイン（本话主角）
+> 「バカな。これだけの機体となれば、
+>  帝国が黙って放っておくわけがない
+“Đừng ngu ngốc. Đế quốc không thể để yên một cỗ máy cấp độ này được.
+---
+>  大きな抵抗組織では、独自に
+>  兵器を開発できる所もあると
+Tôi nghe nói rằng một số tổ chức kháng chiến lớn có thể phát triển vũ khí của riêng họ.
+---
+>  聞く。帝国軍は機密保持の
+>  ために、回収か完全な破壊を
+Để giữ bí mật, Quân đội Đế quốc chắc chắn sẽ gửi quân hoặc thu hồi nó,
+---
+>  目的とした部隊を、
+>  送りこんでくるぞ」
+Hoặc phá hủy nó hoàn toàn. "
+
+@17631 Hamilton · ハミルトン
+> 「……確かにそいつはまずい。
+>  お前のいうことは間違ったためしが
+"...Điều đó thực sự không tốt. Những gì bạn nói chưa bao giờ
+---
+>  ないからな。いつ頃ここを
+>  嗅ぎつけると思う?」
+Bỏ lỡ. Bạn nghĩ họ sẽ tới cửa nhà bạn trong bao lâu? "
+
+@17632 Selain · セレイン（本话主角）
+> 「今夜にも来るな。
+>  帝国の無人機に……
+“Nó sẽ đến đây ngay tối nay. Máy bay không người lái của Đế quốc…
+---
+>  恐らくスペシャルズが」
+Tôi e rằng còn có lực lượng đặc biệt. "
+
+@17633 Hamilton · ハミルトン
+> 「地球人のくせにムゲ野郎どもに
+>  くっついた、胸くそ悪い
+"Chính những kẻ ghê tởm đó là người trái đất nhưng lại trú ẩn với bọn Muggers.
+---
+>  裏切り者どもか。奴らには
+>  うってつけの役回りだな
+Hãy là một kẻ phản bội. Công việc này rất phù hợp với họ.
+---
+>  だが、事態は深刻か。いまからじゃ
+>  撤収もできん。くそっ、うかつだったぜ
+Tuy nhiên, lần này có rắc rối lớn. Bây giờ đã quá muộn để rút lui. Chết tiệt, thật bất cẩn.
+---
+>  ……勝てると思うか?」
+...Bạn có nghĩ mình có thể thắng không? "
+
+@17634 Selain · セレイン（本话主角）
+> 「……無理だろう。一昨日の
+>  戦闘で、まともに動く機体は
+“…Không thể thắng được. Sau trận chiến ngày hôm kia, cơ thể vẫn có thể cử động bình thường
+---
+>  4機しかのこっていない。可能なら
+>  撤収の準備も進めたほうがいい
+Chỉ còn lại bốn người. Nếu có thể, tốt nhất nên bắt đầu chuẩn bị sơ tán.
+---
+>  どっちにしろ、ここはもう放棄する
+>  しかない」
+Dù thế nào đi nữa, tôi chỉ có thể từ bỏ ở đây. "
+
+@17635 Hamilton · ハミルトン
+> 「わかったよ。でも、こいつのシステムの
+>  再起動くらいは、やっておいてくれ
+"Tôi biết. Nhưng ít nhất hãy khởi động lại hệ thống của thứ này.
+---
+>  まったく、お前のいうことが
+>  間違いであってほしいと
+Thực sự là tôi chưa bao giờ như thế này trước đây,
+---
+>  今ほど思ったことはないぜ」
+Tôi hy vọng bạn nói rằng bạn đã bỏ lỡ nó. "
+
+@17636 Hamilton · ハミルトン
+> 「きやがったな。{HeroName}、
+>  運があったらまた会おう!」
+"Anh ấy tới đây. {HeroName}, hẹn gặp lại! "
+
+@17637 Selain · セレイン（本话主角）
+> 「……ああ」
+“…Ừm. "
+
+@17638 Hamilton · ハミルトン
+> 「やられちまったか……くっ、
+>  俺はもうだめだな
+"Tôi vẫn bị trúng đòn...khụ, tôi không thể sống sót được.
+---
+>  お前と一緒にやれて……
+>  よかったぜ……
+Thật tuyệt khi được chiến đấu với bạn...
+---
+>  {HeroNick}、なんとかお前だけでも……」
+{HeroNick}, ít nhất bạn phải tìm được cách..."
+
+@17639 Selain · セレイン（本话主角）
+> 「ハミルトン!? くっ……」
+"Hamilton! ? Khụ..."
+
+@17640 Selain · セレイン（本话主角）
+> 「ぐうぅぅっ、これまでか……
+>  いや、まだだ!」
+“Uh-huh, nó ở đây à… Không, nó vẫn chưa kết thúc đâu! "
+
+@17641 Selain · セレイン（本话主角）
+> 「火はいれたままのはず……
+>  よし!!」
+"Động cơ vẫn chưa tắt...tốt! ! "
+
+@17642 Selain · セレイン（本话主角）
+> 「さぁ来い、
+>  まだ私は死んでいないぞっ!
+“Thôi nào, tôi chưa chết đâu!
+---
+>  1機でも多く道連れにしてやる!」
+Kéo càng nhiều miếng đệm lưng càng tốt! "
+
+@17643 Rish · リッシュ（本话主角的对手）
+> 「あーん? ありゃ“スヴァンヒルド”
+>  じゃねぇか
+"Hả? Đó không phải là 'Svenhild' sao?
+---
+>  けっ、なんだよゲリラどもが、もう使って
+>  やがんのか
+Chậc, cái quái gì vậy, mấy tên du kích đó đã bắt đầu rồi à?
+---
+>  おい、報告書じゃ確か
+>  大破してたはずだな?」
+Này, không phải báo cáo nói nó đã hỏng hoàn toàn sao? "
+
+@17644 Specials · スペシャルズ
+> 「その通りです、特尉」
+"Đúng vậy, Thiếu úy. "
+
+@17645 Rish · リッシュ（本话主角的对手）
+> 「大破した機体がこんなに早く
+>  動かせるかよ、まったく
+"Làm sao cơ thể của Dapo có thể di chuyển nhanh như vậy? Đó là sự thật.
+---
+>  楽な任務のはずだったんだがな……」
+Đáng lẽ đó phải là một công việc dễ dàng..."
+
+@17646 Selain · セレイン（本话主角）
+> 「新手か……どうやらここが
+>  墓場になりそうだな……」
+"Lại tới nữa... Xem ra đây là nơi chôn cất của ta..."
+
+@17647 Rish · リッシュ（本话主角的对手）
+> 「おいそこの。俺はスペシャルズの
+>  {PartnerFull}だ
+"Này, đằng kia. Tôi là {PartnerFull} từ Lực lượng Đặc biệt.
+---
+>  降りるか、やるのか、選ばせてやる。
+>  もっともどちらにしても、命の保証は
+Đầu hàng hay chiến đấu, sự lựa chọn là của bạn. Nhưng dù chọn cái nào thì tôi cũng không thể đảm bảo được.
+---
+>  してやらんがな」
+Miễn là bạn sống sót. "
+
+@17648 Selain · セレイン（本话主角）
+> 「笑わせるな! 貴様が
+>  誰であろうと関係ない
+"Đừng cười nữa! Dù bạn là ai thì cũng chẳng liên quan gì đến tôi.
+---
+>  私の最後の戦いに
+>  つきあってもらう!」
+Hãy chiến đấu trận chiến cuối cùng này với tôi! "
+
+@17649 Rish · リッシュ（本话主角的对手）
+> 「女? 女だと……!?
+>  ふん、いい覚悟だ。気に入ったぜ
+"Phụ nữ? Thực ra đó là một người phụ nữ...! ? Ừm, vâng. Tôi đánh giá cao nó.
+---
+>  名前を聞いておいてやる」
+Cho biết tên của bạn. "
+
+@17650 Selain · セレイン（本话主角）
+> 「……{HeroFull}だ」
+“…{HeroFull}. "
+
+@17651 Quattro · クワトロ
+> 「どうやら遅かったようだな
+“Có vẻ như đã muộn một bước rồi.
+---
+>  が、例の機体が残っている
+>  だけでもよしとするべきか……
+Tuy nhiên, chiếc máy đó vẫn còn đó nên chúng ta hãy bằng lòng...
+---
+>  アポリー中尉、どうか?」
+Trung úy April, anh khỏe không? "
+
+@17652 Aboly · アポリー
+> 「コックピットが違っても
+>  三日もあれば
+“Cho dù buồng lái có khác đi nữa thì cũng có ba ngày
+---
+>  自分の手足にすることが
+>  できます。 大丈夫です」
+Bạn có thể sử dụng nó như tay và chân của chính bạn. Không vấn đề. "
+
+@17653 Roberto · ロベルト
+> 「自分たちはマニュアル通りの
+>  訓練などやっておりません
+“Những gì chúng tôi thực hành không theo kịch bản.
+---
+>  それで、1年戦争も
+>  くぐり抜けてきたのですから」
+Nhờ điều này mà chúng tôi đã sống sót được trong Cuộc chiến Một Năm. "
+
+@17654 Quattro · クワトロ
+> 「ロベルト中尉、その過信は
+>  自分の足をすくうぞ」
+“Trung úy Roberto, quá tự tin sẽ khiến anh gặp rắc rối.”
+
+@17655 Roberto · ロベルト
+> 「はっ、クワトロ大尉」
+"Vâng, thưa thuyền trưởng Kvatro."
+
+@17656 Quattro · クワトロ
+> 「そこのパイロット、聞こえるか?
+>  私は地球解放戦線機構の
+"Phi công đằng kia, anh có nghe thấy tôi nói không? Tôi đến từ Mặt trận Giải phóng Trái đất
+---
+>  クワトロ・バジーナ大尉だ。
+>  これより援護するが、まだやれそうか?」
+Thuyền trưởng Kwatero Bagina. Chúng tôi sẽ trình bày tiếp theo, bạn vẫn có thể chiến đấu chứ? "
+
+@17657 Selain · セレイン（本话主角）
+> 「……大丈夫だ。
+>  感謝する、大尉」
+"...Không vấn đề gì. Cảm ơn, thuyền trưởng. "
+
+@17658 Quattro · クワトロ
+> 「よし。いくぞ、
+>  アポリー中尉、ロベルト中尉」
+"Được rồi. Thôi nào, Trung úy Apoli, Trung úy Roberto. "
+
+@17659 Rish · リッシュ（本话主角的对手）
+> 「ゲリラの増援か!?
+>  しかも見たことのない機体とくる
+"Quân tiếp viện từ quân du kích! ? Và đó là một cơ thể mà tôi chưa từng thấy trước đây.
+---
+>  ちっとばかり分が悪いが……
+>  ま、なるようになるさ」
+Tình hình có chút bất lợi...nhưng tàu sẽ tự nhiên thẳng tiến khi tới cầu. "
+
+@17660 Quattro · クワトロ
+> 「どうやら遅かったようだな。かなりの
+>  数が出ていたはずだが……
+“Có vẻ như đã muộn một bước rồi. Chắc là có khá nhiều máy bay địch đang tới...
+---
+>  あの1機が退けたか」
+Có phải chính người đó đã đuổi họ đi? "
+
+@17661 Aboly · アポリー
+> 「大尉、あれは例の機体です」
+“Thuyền trưởng, đó chính là chiếc máy mà chúng tôi đang tìm kiếm. "
+
+@17662 Quattro · クワトロ
+> 「そのようだ。そこのパイロット、
+>  聞こえるか? 私は
+"Có vẻ như vậy. Phi công đằng kia, anh có nghe thấy tôi không? tôi là
+---
+>  地球解放戦線機構の
+>  クワトロ・バジーナ大尉だ
+Đại úy Kvatro Bagina của Mặt trận Giải phóng Trái đất.
+---
+>  この付近には別件で出ている
+>  無人機がいる。脱出を
+Ngoài ra còn có máy bay không người lái được triển khai cho các nhiệm vụ khác trong khu vực này. chúng tôi bảo vệ bạn
+---
+>  援護するが、動けるか」
+Di tản, bạn vẫn có thể di chuyển? "
+
+@17663 Selain · セレイン（本话主角）
+> 「……大丈夫だ。感謝する、
+>  大尉」
+"...Không vấn đề gì. Cảm ơn, thuyền trưởng. "
+
+@17664 Quattro · クワトロ
+> 「よし。いくぞ、
+>  アポリー中尉、ロベルト中尉」
+"Được rồi. Thôi nào, Trung úy Apoli, Trung úy Roberto. "
+
+@17665 Rish · リッシュ（本话主角的对手）
+> 「ちぃっ、まいったぜ。
+>  しかたがねぇ、ここは撤退するぞっ!」
+"Tsk, điều đó thực sự khó chịu. Không còn lựa chọn nào khác, rút ​​lui! "
+
+@17666 Rish · リッシュ（本话主角的对手）
+> 「まいったぜ、こりゃ。
+>  まぁ生きてりゃ再戦もできるか
+“Điều này thực sự đáng xấu hổ. Nhưng chỉ cần còn sống, luôn có cơ hội chiến đấu lần nữa.
+---
+>  また会おうぜ」
+Hẹn gặp lại sau. "
+
+@17667 Rish · リッシュ（本话主角的对手）
+> 「ちぃっ、まいったぜ。
+>  レジスタンスの新型が出てきたのは
+"Tsk, điều đó thực sự khó chịu. Tổ chức kháng chiến thực sự có một loại máy móc mới.
+---
+>  予想外だったな。しかたがねぇ、
+>  ここは撤退するぞっ!」
+Tôi thực sự không mong đợi nó. Không còn lựa chọn nào khác, rút ​​lui! "
+
+@17668 Rish · リッシュ（本话主角的对手）
+> 「まいったぜ、こりゃ。
+>  ここは引いとくとするか
+“Điều này thực sự khó chịu. Hãy lùi lại một bước trước.
+---
+>  また会おうぜ、{HeroName}」
+Hẹn gặp lại sau, {HeroName}. "
+
+@17669 Selain · セレイン（本话主角）
+> 「これで、終わりか……」
+"Xong rồi à..."
+
+@17670 Selain · セレイン（本话主角）
+> (また、生き残ったのか、私は……)
+(Mình... đã sống sót lần nữa à...)
+
+@17671 Quattro · クワトロ
+> 「どうした、動けないのか?」
+"Sao vậy, không thể di chuyển được à? "
+
+@17672 Selain · セレイン（本话主角）
+> 「……いえ、大丈夫です」
+“…Không, tôi ổn. "
+
+@17673 Quattro · クワトロ
+> 「それが帝国の試作機
+>  “スヴァンヒルド”だな?」
+“Đó là cỗ máy nguyên mẫu ‘Svenhild’ của Đế quốc phải không? "
+
+@17674 Selain · セレイン（本话主角）
+> 「はい。{HeroFull}です
+>  助けていただいて、感謝します」
+"Ừ. Tôi là {HeroFull}. Cảm ơn bạn đã đến giải cứu. "
+
+@17675 Quattro · クワトロ
+> 「構わんさ。どのみち試作機を
+>  入手した君たちと接触する
+"Không có chi. Dù sao đi nữa, ban đầu chúng tôi dự định liên hệ với bạn, người đã nhận được chiếc máy nguyên mẫu.
+---
+>  予定だったのだ。もう少し早ければ
+>  他のメンバーも救えたかもしれんが……」
+Nếu sớm hơn thì có lẽ chúng ta đã có thể cứu được những thành viên khác…”
+
+@17676 Selain · セレイン（本话主角）
+> 「戦闘の結果です。しかたありません」
+“Chiến tranh là như vậy, bạn không thể làm gì được. "
+
+@17677 Quattro · クワトロ
+> 「よい覚悟だが、
+>  それでは早死にをするな」
+“Nhận thức này rất đáng khen ngợi, nhưng nếu tiếp tục như vậy bạn sẽ chết sớm. "
+
+@17678 Aboly · アポリー
+> 「大尉、急がないと危ないですよ」
+"Đội trưởng, nếu không nhanh lên sẽ nguy hiểm. "
+
+@17679 Quattro · クワトロ
+> 「そうだな。我々はこれから仲間と
+>  合流する。君の機体の修理も
+"Đúng vậy. Tiếp theo chúng ta sẽ gặp lại những người bạn đồng hành của mình. Cơ thể của bạn cũng nên
+---
+>  できるはずだが、どうする?」
+Nếu có thể sửa được thì bạn sẽ làm gì? "
+
+@17680 Selain · セレイン（本话主角）
+> 「いきます。1人で生き残ってしまい
+>  ましたし、ここに残ってもムダですから」
+“Tôi sẽ đi. Tôi là người duy nhất còn sống, và ở lại đây cũng chẳng ích gì. "
+
+@17681 Quattro · クワトロ
+> 「よし、移動するぞ。
+>  敵はすぐに来るかもしれん」
+"Được rồi, chúng ta hãy di chuyển. Kẻ thù có thể sẽ đến sớm. "
+
+@17682 Rish · リッシュ（本话主角的对手）
+> 「始末書1枚じゃ済まんか……
+>  それにしても、あのパイロット……
+“Có vẻ như một lá thư xin lỗi là chưa đủ… Nhắc mới nhớ, người phi công đó…
+---
+>  あれはいい女だったな……」
+Đúng là một người phụ nữ tốt…”

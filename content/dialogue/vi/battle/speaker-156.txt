@@ -1,0 +1,239 @@
+# Bản dịch tiếng Việt Super Robot Wars 64
+# Định dạng và vị trí: docs/guide/dialogue-text.md
+
+@7238 Daisaku · 大作
+# Kích hoạt: Tấn công (Chung，1/11）
+> 「思い知れ! やれ、ロボ!」
+"Tôi sẽ cho bạn thấy! Cố lên, Iron Man!"
+
+@7239 Daisaku · 大作
+# Kích hoạt: Tấn công (Chung，2/11）
+> 「あいつだ!」
+"Đó là anh chàng!"
+
+@7240 Daisaku · 大作
+# Kích hoạt: Tấn công (Chung，3/11）
+> 「じゃましないでくださいっ!」
+"Xin hãy tránh đường cho tôi!"
+
+@7241 Daisaku · 大作
+# Kích hoạt: Tấn công (Chung，4/11）
+> 「やれっ、ジャイアント・ロボ!」
+"Tiến lên, Người Sắt Lớn!"
+
+@7242 Daisaku · 大作
+# Kích hoạt: Tấn công (Chung，5/11）
+> 「いまだ、ロボ!」
+"Bây giờ, người máy!"
+
+@7243 Daisaku · 大作
+# Kích hoạt: Tấn công (Chung，6/11）
+> 「いけっ、ジャイアント・ロボ!」
+"Tiến lên nào, Người Sắt Lớn!"
+
+@7244 Daisaku · 大作
+# Kích hoạt: Tấn công (Chung，7/11）
+> 「いっけえぇぇぇぇぇっ!」
+"Nào, à, à, à, à!"
+
+@7245 Daisaku · 大作
+# Kích hoạt: Tấn công (Chung，8/11）
+> 「いまだっ、ジャイアント・ロボ!」
+"Bây giờ, Người Sắt!"
+
+@7246 Daisaku · 大作
+# Kích hoạt: Tấn công (Chung，9/11）
+> 「ロボ、行け!」
+"Robot, cố lên!"
+
+@7247 Daisaku · 大作
+# Kích hoạt: Tấn công (Chung，10/11）
+> 「ロボ! そいつをやっつけろ!」
+"Robot! Giết tên đó!"
+
+@7248 Daisaku · 大作
+# Kích hoạt: Tấn công (Chung，11/11）
+> 「ジャイアント・ロボ、そいつを
+>  やっつけるんだ!」
+"Big Iron Man, giết tên đó!"
+
+@7249 Daisaku · 大作
+# Kích hoạt: 被击坠（通用，1/1）
+> 「ロボォォォォォォッッ!」
+"Robot à à à à à!"
+
+@7250 Daisaku · 大作
+# Kích hoạt: 重伤（剩余 HP 不足 30%）（通用，1/6）
+> 「うわっ……うわあぁぁぁぁっ!」
+"Wow...waaaaaaaaaaaaaaaaaaaaaaaaaaaaa!"
+
+@7251 Daisaku · 大作
+# Kích hoạt: 重伤（剩余 HP 不足 30%）（通用，2/6）
+> 「うわぁぁぁぁぁぁーっ!」
+"Whaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaa-!"
+
+@7252 Daisaku · 大作
+# Kích hoạt: 重伤（剩余 HP 不足 30%）（通用，3/6）
+> 「と、とうさん、僕に力を!」
+"Bố, bố ơi, hãy cho con sức mạnh!"
+
+@7253 Daisaku · 大作
+# Kích hoạt: 重伤（剩余 HP 不足 30%）（通用，4/6）
+> 「ロ、ロボォォォッ!?」
+“Máy móc, robot, à!?”
+
+@7254 Daisaku · 大作
+# Kích hoạt: 重伤（剩余 HP 不足 30%）（通用，5/6）
+> 「と、とうさん、僕は精一杯
+>  やってみますっ!」
+"Bố, con sẽ cố gắng hết sức!"
+
+@7255 Daisaku · 大作
+# Kích hoạt: 重伤（剩余 HP 不足 30%）（通用，6/6）
+> 「うぅ、はやくっはやく動くんだロボッ!」
+"Ugh, nhanh lên, di chuyển nhanh lên, robot!"
+
+@7256 Daisaku · 大作
+# Kích hoạt: 中伤（剩余 HP 30–90%）（通用，1/5）
+> 「うわぁっ!」
+"Ồ!"
+
+@7257 Daisaku · 大作
+# Kích hoạt: 中伤（剩余 HP 30–90%）（通用，2/5）
+> 「ロボ!?」
+"Người máy!?"
+
+@7258 Daisaku · 大作
+# Kích hoạt: 中伤（剩余 HP 30–90%）（通用，3/5）
+> 「あぅ、立つんだロボ!」
+"Aww, đứng lên đi, robot!"
+
+@7259 Daisaku · 大作
+# Kích hoạt: 中伤（剩余 HP 30–90%）（通用，4/5）
+> 「負けるな、ロボ!」
+"Đừng nhượng bộ, người máy!"
+
+@7260 Daisaku · 大作
+# Kích hoạt: 中伤（剩余 HP 30–90%）（通用，5/5）
+> 「このくらいでやられるロボじゃないぞ!」
+"Đòn tấn công này không thể đánh bại người máy!"
+
+@7261 Daisaku · 大作
+# Kích hoạt: 轻伤（剩余 HP 90% 以上）（通用，1/4）
+> 「そんな攻撃、ロボには効かないぞ!」
+“Đòn tấn công đó không có tác dụng với robot!”
+
+@7262 Daisaku · 大作
+# Kích hoạt: 轻伤（剩余 HP 90% 以上）（通用，2/4）
+> 「まだだっ、ロボ!」
+"Vẫn chưa kết thúc đâu, robot!"
+
+@7263 Daisaku · 大作
+# Kích hoạt: 轻伤（剩余 HP 90% 以上）（通用，3/4）
+> 「いいぞ、ロボ」
+"Làm tốt lắm, người máy."
+
+@7264 Daisaku · 大作
+# Kích hoạt: 轻伤（剩余 HP 90% 以上）（通用，4/4）
+> 「ぐっうぅっ」
+"Ờ-huh."
+
+@7265 Daisaku · 大作
+# Kích hoạt: Né tránh（通用，1/3）
+> 「かわせっロボ!」
+"Tránh xa ra, người máy!"
+
+@7266 Daisaku · 大作
+# Kích hoạt: Né tránh（通用，2/3）
+> 「よけろ! ジャイアント・ロボ!」
+"Tránh ra! Người Sắt Lớn!"
+
+@7267 Daisaku · 大作
+# Kích hoạt: Né tránh（通用，3/3）
+> 「ロボ、急速回避だ!」
+"Robot, tránh đường!"
+
+@7268 Daisaku · 大作
+# Kích hoạt: Tấn công无效（护罩／装甲）（通用，1/2）
+> 「ロボにそんな攻撃っ!」
+“Đòn tấn công đó vô dụng với robot!”
+
+@7269 Daisaku · 大作
+# Kích hoạt: Tấn công无效（护罩／装甲）（通用，2/2）
+> 「ロボっ! 大丈夫か!?」
+"Người máy! Bạn ổn chứ!?"
+
+@7270 Daisaku · 大作
+# Kích hoạt: 弹药／EN 不足，无法反击（通用，1/1）
+> 「ロボ!? 弾切れなのか!?」
+"Robot!? Hết đạn!?"
+
+@7271 Daisaku · 大作
+# Kích hoạt: 射程外，无法反击（通用，1/2）
+> 「ロボの攻撃が届かない!?」
+“Đòn tấn công của robot không thể chạm tới nó!?”
+
+@7272 Daisaku · 大作
+# Kích hoạt: 射程外，无法反击（通用，2/2）
+> 「卑怯だぞっ!」
+"Thật đáng khinh!"
+
+@14456 Daisaku · 大作
+# Kích hoạt: 使用〈ロケットバズーカ〉（低优先，可能被通用台词顶掉）
+> 「撃て! ロボ!」
+"Cháy! Người máy!"
+
+@14457 Daisaku · 大作
+# Kích hoạt: 使用〈ロケットミサイル〉（低优先，可能被通用台词顶掉）
+> 「撃て! ロボ!」
+"Cháy! Người máy!"
+
+@14458 Daisaku · 大作
+# Kích hoạt: 使用〈全弾発射MAP〉（低优先，可能被通用台词顶掉）
+> 「撃て! ロボ!」
+"Cháy! Người máy!"
+
+@14459 Daisaku · 大作
+# Kích hoạt: 使用〈ロケットバズーカ〉（低优先，可能被通用台词顶掉）
+> 「うてっ! ジャイアント・ロボォォォォッ!」
+"Cháy! Người sắt lớn——!"
+
+@14460 Daisaku · 大作
+# Kích hoạt: 使用〈ロケットミサイル〉（低优先，可能被通用台词顶掉）
+> 「うてっ! ジャイアント・ロボォォォォッ!」
+"Cháy! Người sắt lớn——!"
+
+@14461 Daisaku · 大作
+# Kích hoạt: 使用〈全弾発射MAP〉（低优先，可能被通用台词顶掉）
+> 「うてっ! ジャイアント・ロボォォォォッ!」
+"Cháy! Người sắt lớn——!"
+
+@14462 Daisaku · 大作
+# Kích hoạt: 使用〈格闘／拳法〉（低优先，可能被通用台词顶掉）
+> 「叩け、ジャイアント・ロボ!」
+"Bắn đi, Người Sắt Lớn!"
+
+@14463 Daisaku · 大作
+# Kích hoạt: 使用〈格闘／拳法〉（低优先，可能被通用台词顶掉）
+> 「叩け! ロボ!」
+"Đánh nó! Người máy!"
+
+@14464 Daisaku · 大作
+# Kích hoạt: 使用〈格闘／拳法〉（低优先，可能被通用台词顶掉）
+> 「くだけ! ロボ!」
+"Đè bẹp nó! Người máy!"
+
+@14465 Daisaku · 大作
+# Kích hoạt: 使用〈格闘／拳法〉（低优先，可能被通用台词顶掉）
+> 「パンチだ、ロボ!」
+"Đấm đi, robot!"
+
+@14466 Daisaku · 大作
+# Kích hoạt: 使用〈格闘／拳法〉（低优先，可能被通用台词顶掉）
+> 「ロボ、そいつを叩きだせ!」
+"Robot, bắn tên đó ra!"
+
+@14467 Daisaku · 大作
+# Kích hoạt: 使用〈格闘／拳法〉（低优先，可能被通用台词顶掉）
+> 「くだけっ、ジャイアント・ロボ!」
+"Đè bẹp nó đi, Người Sắt Lớn!"

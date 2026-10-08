@@ -1,0 +1,147 @@
+# Bản dịch tiếng Việt Super Robot Wars 64
+# Định dạng và vị trí: docs/guide/dialogue-text.md
+
+@10646 Arius · アリアス
+# Kích hoạt: Tấn công (Chung，1/8）
+> 「行きがけの駄賃に、いただく!」
+"Tôi đã bình tĩnh và chấp nhận nó!"
+
+@10647 Arius · アリアス
+# Kích hoạt: Tấn công (Chung，2/8）
+> 「フフフフッ」
+"Hehehehe"
+
+@10648 Arius · アリアス
+# Kích hoạt: Tấn công (Chung，3/8）
+> 「一気に突っ込む!」
+"Vào ngay!"
+
+@10649 Arius · アリアス
+# Kích hoạt: Tấn công (Chung，4/8）
+> 「調子にのるなっ!」
+"Đừng có mang đi!"
+
+@10650 Arius · アリアス
+# Kích hoạt: Tấn công (Chung，5/8）
+> 「あきらめろ!」
+"Bỏ cuộc đi!"
+
+@10651 Arius · アリアス
+# Kích hoạt: Tấn công (Chung，6/8）
+> 「もらった!」
+"Đã lấy nó!"
+
+@10652 Arius · アリアス
+# Kích hoạt: Tấn công (Chung，7/8）
+> 「やってみなければわからん!」
+"Không thử thì làm sao biết được!"
+
+@10653 Arius · アリアス
+# Kích hoạt: Tấn công (Chung，8/8）
+> 「こやつ!」
+"Anh chàng này!"
+
+@10654 Arius · アリアス
+# Kích hoạt: 被击坠（通用，1/1）
+> 「うおあぁぁぁぁーっ!!」
+"Aaahhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhh"
+
+@10655 Arius · アリアス
+# Kích hoạt: 重伤（剩余 HP 不足 30%）（通用，1/4）
+> 「い、いかんっ!」
+"Không, không tốt!"
+
+@10656 Arius · アリアス
+# Kích hoạt: 重伤（剩余 HP 不足 30%）（通用，2/4）
+> 「ぬうぅぅーっ! やらせるかぁ!」
+"Uh-huh-! Thật là một ý nghĩ đẹp đẽ!"
+
+@10657 Arius · アリアス
+# Kích hoạt: 重伤（剩余 HP 不足 30%）（通用，3/4）
+> 「こ、こいつ、なんてパワーだ!?」
+"Cái này, tên này có sức mạnh lớn như vậy sao!?"
+
+@10658 Arius · アリアス
+# Kích hoạt: 重伤（剩余 HP 不足 30%）（通用，4/4）
+> 「こ、このままでは!」
+“K-Hãy tiếp tục làm việc này!”
+
+@10659 Arius · アリアス
+# Kích hoạt: 中伤（剩余 HP 30–90%）（通用，1/5）
+> 「くっ、これほどやるとは!」
+"A, ngươi thật sự có khả năng này!"
+
+@10660 Arius · アリアス
+# Kích hoạt: 中伤（剩余 HP 30–90%）（通用，2/5）
+> 「むぅっ! まだやらせん!」
+"Chà! Vẫn chưa kết thúc!"
+
+@10661 Arius · アリアス
+# Kích hoạt: 中伤（剩余 HP 30–90%）（通用，3/5）
+> 「くうっ! 貴様ごときにぃ!」
+"Ugh! Chỉ có bạn thôi!"
+
+@10662 Arius · アリアス
+# Kích hoạt: 中伤（剩余 HP 30–90%）（通用，4/5）
+> 「なに!? 意外と手強い!」
+"Cái gì!? Không ngờ lại khó đến thế!"
+
+@10663 Arius · アリアス
+# Kích hoạt: 中伤（剩余 HP 30–90%）（通用，5/5）
+> 「まだこの程度でっ!」
+"Vết thương nhỏ này không là gì cả!"
+
+@10664 Arius · アリアス
+# Kích hoạt: 轻伤（剩余 HP 90% 以上）（通用，1/3）
+> 「ザコを相手にしていてはっ!」
+“Chúng ta không có thời gian để chiến đấu với binh lính!”
+
+@10665 Arius · アリアス
+# Kích hoạt: 轻伤（剩余 HP 90% 以上）（通用，2/3）
+> 「どけっザコが!」
+"Đi đi, người lính!"
+
+@10666 Arius · アリアス
+# Kích hoạt: 轻伤（剩余 HP 90% 以上）（通用，3/3）
+> 「きかんな!」
+"Nó không hoạt động!"
+
+@10667 Arius · アリアス
+# Kích hoạt: Né tránh（通用，1/3）
+> 「甘い!」
+"Thật ngây thơ!"
+
+@10668 Arius · アリアス
+# Kích hoạt: Né tránh（通用，2/3）
+> 「そこかっ!」
+"Nó ở đó!"
+
+@10669 Arius · アリアス
+# Kích hoạt: Né tránh（通用，3/3）
+> 「あたるか!」
+"Làm sao có thể đánh trúng!"
+
+@10670 Arius · アリアス
+# Kích hoạt: Tấn công无效（护罩／装甲）（通用，1/2）
+> 「きかんな!」
+"Nó không hoạt động!"
+
+@10671 Arius · アリアス
+# Kích hoạt: Tấn công无效（护罩／装甲）（通用，2/2）
+> 「あたるか!」
+"Làm sao có thể đánh trúng!"
+
+@10672 Arius · アリアス
+# Kích hoạt: 弹药／EN 不足，无法反击（通用，1/1）
+> 「くっ、弾切れだと!?」
+"Chà, hết đạn rồi à!?"
+
+@10673 Arius · アリアス
+# Kích hoạt: 射程外，无法反击（通用，1/1）
+> 「なに!? 届かぬというのか!」
+"Cái gì!? Không thể đánh được!"
+
+@16328 Arius · アリアス
+# Kích hoạt: 使用〈ビームサーベル／銃剣付きビームサーベル〉（低优先，可能被通用台词顶掉）
+> 「叩き切ってくれる!」
+"Hãy để tôi chặt bạn!"

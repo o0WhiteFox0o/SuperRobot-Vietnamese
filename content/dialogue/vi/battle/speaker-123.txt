@@ -1,0 +1,179 @@
+# Bản dịch tiếng Việt Super Robot Wars 64
+# Định dạng và vị trí: docs/guide/dialogue-text.md
+
+@9957 Musashi · ムサシ
+# Kích hoạt: Tấn công (Chung，1/4）
+> 「でやあぁぁっ!」
+"Này à à à à!"
+
+@9958 Musashi · ムサシ
+# Kích hoạt: Tấn công (Chung，2/4）
+> 「このっ!」
+"Anh bạn!"
+
+@9959 Musashi · ムサシ
+# Kích hoạt: Tấn công (Chung，3/4）
+> 「よぉしいまだ! いくぞぉーっ!」
+"Được rồi, bây giờ! Cố lên -!"
+
+@9960 Musashi · ムサシ
+# Kích hoạt: Tấn công (Chung，4/4）
+> 「それっ!」
+"Xem động tác!"
+
+@9961 Musashi · ムサシ
+# Kích hoạt: 被击坠（通用，1/3）
+> 「うぉぉっ、すまねぇ!」
+"Ồ, tôi xin lỗi!"
+
+@9962 Musashi · ムサシ
+# Kích hoạt: 被击坠（通用，2/3）
+> 「ぐわぁぁぁぁーっっ!!」
+“Guaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaa--!!”
+
+@9963 Musashi · ムサシ
+# Kích hoạt: 被击坠（通用，3/3）
+> 「ちくしょぉぉぉーっ!」
+"Quái vật ahhhh-!"
+
+@9964 Musashi · ムサシ
+# Kích hoạt: 重伤（剩余 HP 不足 30%）（通用，1/4）
+> 「くそぉっ! どうにもならねぇのかよ!」
+"Chết tiệt! Chúng ta không thể làm gì được nữa!"
+
+@9965 Musashi · ムサシ
+# Kích hoạt: 重伤（剩余 HP 不足 30%）（通用，2/4）
+> 「へへっ、いよいよやばくなってきたな……」
+"Hehe, mọi chuyện bây giờ thực sự không ổn rồi..."
+
+@9966 Musashi · ムサシ
+# Kích hoạt: 重伤（剩余 HP 不足 30%）（通用，3/4）
+> 「うわぁぁぁぁーっ!」
+"Aaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaa!"
+
+@9967 Musashi · ムサシ
+# Kích hoạt: 重伤（剩余 HP 不足 30%）（通用，4/4）
+> 「おぉぉ!? エンジントラブルか!」
+"Ồ!? Động cơ bị trục trặc à?"
+
+@9968 Musashi · ムサシ
+# Kích hoạt: 中伤（剩余 HP 30–90%）（通用，1/3）
+> 「うぅぅっ!」
+"Ờ-huh!"
+
+@9969 Musashi · ムサシ
+# Kích hoạt: 中伤（剩余 HP 30–90%）（通用，2/3）
+> 「ううっ! こうなったらやぶれかぶれだ!」
+"Ugh! Bây giờ điều duy nhất chúng ta có thể làm là chiến đấu!"
+
+@9970 Musashi · ムサシ
+# Kích hoạt: 中伤（剩余 HP 30–90%）（通用，3/3）
+> 「あぁっ、しまったぁ!」
+"Ồ, không!"
+
+@9971 Musashi · ムサシ
+# Kích hoạt: 轻伤（剩余 HP 90% 以上）（通用，1/3）
+> 「ん!?」
+"Hừm! ? "
+
+@9972 Musashi · ムサシ
+# Kích hoạt: 轻伤（剩余 HP 90% 以上）（通用，2/3）
+> 「でぇぇい! くそっ! しくじったぁ!」
+"Này! Chết tiệt! Tôi bắn trượt rồi!"
+
+@9973 Musashi · ムサシ
+# Kích hoạt: 轻伤（剩余 HP 90% 以上）（通用，3/3）
+> 「おぉっと! かすっちまったか」
+"Ôi! Tôi bị cọ xát."
+
+@9974 Musashi · ムサシ
+# Kích hoạt: Né tránh（通用，1/3）
+> 「おっと!」
+"Ối!"
+
+@9975 Musashi · ムサシ
+# Kích hoạt: Né tránh（通用，2/3）
+> 「ふぅ、危なかったぁ」
+"Hừ, nguy hiểm quá."
+
+@9976 Musashi · ムサシ
+# Kích hoạt: Né tránh（通用，3/3）
+> 「助かったぁ」
+"Cứu một mạng sống"
+
+@9977 Musashi · ムサシ
+# Kích hoạt: Tấn công无效（护罩／装甲）（通用，1/2）
+> 「やったーっ!」
+"Tuyệt vời-!"
+
+@9978 Musashi · ムサシ
+# Kích hoạt: Tấn công无效（护罩／装甲）（通用，2/2）
+> 「そんなもんが効くかぁ!」
+“Thứ đó có thể làm tổn thương tôi không?”
+
+@9979 Musashi · ムサシ
+# Kích hoạt: 弹药／EN 不足，无法反击（通用，1/1）
+> 「しまった、エネルギーが!?」
+"Rất tiếc, không đủ năng lượng!?"
+
+@9980 Musashi · ムサシ
+# Kích hoạt: 射程外，无法反击（通用，1/1）
+> 「ダメだ! 反撃できねぇ!」
+"Không! Không có cách nào đánh trả!"
+
+@15260 Musashi · ムサシ
+# Kích hoạt: 使用〈格闘／拳法〉（低优先，可能被通用台词顶掉）
+> 「つっこむぞぉっ!」
+"Nào!"
+
+@15261 Musashi · ムサシ
+# Kích hoạt: 使用〈ゲッターミサイル〉
+> 「ゲッターミサイル!」
+"Tên lửa Geta!"
+
+@15262 Musashi · ムサシ
+# Kích hoạt: 使用〈ゲッターミサイル〉
+> 「よし! ゲッターミサイル!」
+"Được rồi! Getta tên lửa!"
+
+@15263 Musashi · ムサシ
+# Kích hoạt: 使用〈大雪山おろし〉
+> 「ゲッタースリーぶちかましーっ!」
+"Getter 3 lao vào—!"
+
+@15264 Musashi · ムサシ
+# Kích hoạt: 使用〈大雪山おろし〉
+> 「よぉしいまだ! いくぞぉーっ!」
+"Được rồi, bây giờ! Cố lên -!"
+---
+> 「ゲッタースリーぶちかましーっ!」
+"Getter 3 lao vào—!"
+
+@15265 Musashi · ムサシ
+# Kích hoạt: 使用〈大雪山おろし〉
+> 「それっ!」
+"Xem động tác!"
+---
+> 「大雪山おろしぃぃぃーっ!」
+“Núi tuyết sụp đổ——!”
+
+@15266 Musashi · ムサシ
+# Kích hoạt: 使用〈大雪山おろし〉
+> 「このっ!」
+"Chết tiệt!"
+---
+> 「大雪山おろしぃぃぃーっ!」
+“Núi tuyết sụp đổ——!”
+
+@15267 Musashi · ムサシ
+# Kích hoạt: 使用〈大雪山おろし〉
+> 「大・雪・山おろしぃぃぃーっ!」
+"Đại·Tuyết·Sanhao——!"
+
+@15268 Musashi · ムサシ
+# Kích hoạt: 使用〈大雪山おろし〉
+> 「ぬうぅぅっ!」
+"Ồ ồ ồ!"
+---
+> 「大雪山おぉろぉしぃぃぃーっ!」
+“Núi tuyết sụp đổ——!”

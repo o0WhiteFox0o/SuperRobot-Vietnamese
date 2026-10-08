@@ -1,0 +1,153 @@
+# Bản dịch tiếng Việt Super Robot Wars 64
+# Định dạng và vị trí: docs/guide/dialogue-text.md
+
+@8145 Kayra · ケーラ
+# Kích hoạt: Tấn công (Chung，1/7）
+> 「やらせない!」
+"Đừng nghĩ tới chuyện đó nữa!"
+
+@8146 Kayra · ケーラ
+# Kích hoạt: Tấn công (Chung，2/7）
+> 「落ちなっ!!」
+"Rớt nó đi!!"
+
+@8147 Kayra · ケーラ
+# Kích hoạt: Tấn công (Chung，3/7）
+> 「そこっ!!」
+“Chính là nó!!”
+
+@8148 Kayra · ケーラ
+# Kích hoạt: Tấn công (Chung，4/7）
+> 「もらったっ!!」
+"Hiểu rồi!!"
+
+@8149 Kayra · ケーラ
+# Kích hoạt: Tấn công (Chung，5/7）
+> 「なんとしても足を止める!」
+"Tôi sẽ ngăn cản bạn bất kể thế nào!"
+
+@8150 Kayra · ケーラ
+# Kích hoạt: Tấn công (Chung，6/7）
+> 「つかまえたっ!」
+"Có bạn!"
+
+@8151 Kayra · ケーラ
+# Kích hoạt: Tấn công (Chung，7/7）
+> 「こいつ!」
+"Anh bạn!"
+
+@8152 Kayra · ケーラ
+# Kích hoạt: 被击坠（通用，1/3）
+> 「しまった! 脱出を!」
+"Ối! Ra ngoài ngay!"
+
+@8153 Kayra · ケーラ
+# Kích hoạt: 被击坠（通用，2/3）
+> 「くっ! しまったっ!!」
+"Ugh! Rất tiếc!!"
+
+@8154 Kayra · ケーラ
+# Kích hoạt: 被击坠（通用，3/3）
+> 「直撃!?」
+“Đánh trực tiếp!?”
+
+@8155 Kayra · ケーラ
+# Kích hoạt: 重伤（剩余 HP 不足 30%）（通用，1/5）
+> 「くっ! も、もたない!?」
+"Ugh! Cậu không thể nhịn được nữa à!?"
+
+@8156 Kayra · ケーラ
+# Kích hoạt: 重伤（剩余 HP 不足 30%）（通用，2/5）
+> 「まだやられるわけには!!」
+“Tôi không thể bị đánh bại như thế này được!!”
+
+@8157 Kayra · ケーラ
+# Kích hoạt: 重伤（剩余 HP 不足 30%）（通用，3/5）
+> 「ま、まだやられるわけには!」
+“T-tôi không thể cứ bị đánh gục như thế này được!”
+
+@8158 Kayra · ケーラ
+# Kích hoạt: 重伤（剩余 HP 不足 30%）（通用，4/5）
+> 「ま、まだもう一撃できる!」
+"Ngươi còn có thể đánh ta lần nữa!"
+
+@8159 Kayra · ケーラ
+# Kích hoạt: 重伤（剩余 HP 不足 30%）（通用，5/5）
+> 「ああぁぁ!?」
+"Ahhh!?"
+
+@8160 Kayra · ケーラ
+# Kích hoạt: 中伤（剩余 HP 30–90%）（通用，1/4）
+> 「ちっ!! やるな!!」
+"Tsk!! Chỉ một chút thôi!!"
+
+@8161 Kayra · ケーラ
+# Kích hoạt: 中伤（剩余 HP 30–90%）（通用，2/4）
+> 「くっ!! でもまだ!」
+"Hmm!! Nhưng nó vẫn chưa kết thúc!"
+
+@8162 Kayra · ケーラ
+# Kích hoạt: 中伤（剩余 HP 30–90%）（通用，3/4）
+> 「やるな! しかし!!」
+"Hai lần! Nhưng!!"
+
+@8163 Kayra · ケーラ
+# Kích hoạt: 中伤（剩余 HP 30–90%）（通用，4/4）
+> 「かざりをやられただけなんだから!」
+"Chỉ là bỏ đi một chút đồ trang trí thôi!"
+
+@8164 Kayra · ケーラ
+# Kích hoạt: 轻伤（剩余 HP 90% 以上）（通用，1/3）
+> 「こいつ!!」
+"Anh bạn!!"
+
+@8165 Kayra · ケーラ
+# Kích hoạt: 轻伤（剩余 HP 90% 以上）（通用，2/3）
+> 「この程度で!」
+"Đó là tất cả!"
+
+@8166 Kayra · ケーラ
+# Kích hoạt: 轻伤（剩余 HP 90% 以上）（通用，3/3）
+> 「まだまだっ!!」
+“Nó thậm chí còn không gần lắm!!”
+
+@8167 Kayra · ケーラ
+# Kích hoạt: Né tránh（通用，1/3）
+> 「あまいなっ!」
+"Thật ngây thơ!"
+
+@8168 Kayra · ケーラ
+# Kích hoạt: Né tránh（通用，2/3）
+> 「まだまだ! あまいんだよ!」
+"Thậm chí còn không gần! Thật ngây thơ!"
+
+@8169 Kayra · ケーラ
+# Kích hoạt: Né tránh（通用，3/3）
+> 「つっこみがたらない!」
+"Không đủ năng lượng!"
+
+@8170 Kayra · ケーラ
+# Kích hoạt: Tấn công无效（护罩／装甲）（通用，1/2）
+> 「ビームは効かないって!!」
+“Chùm tia không hoạt động chút nào!!”
+
+@8171 Kayra · ケーラ
+# Kích hoạt: Tấn công无效（护罩／装甲）（通用，2/2）
+> 「ムダだっ!!」
+"Lãng phí công sức!!"
+
+@8172 Kayra · ケーラ
+# Kích hoạt: 弹药／EN 不足，无法反击（通用，1/1）
+> 「くっ、だめか!?」
+"Chà, bạn không thể chiến đấu nữa!?"
+
+@8173 Kayra · ケーラ
+# Kích hoạt: 射程外，无法反击（通用，1/1）
+> 「遠すぎる!」
+"Quá xa!"
+
+@14583 Kayra · ケーラ
+# Kích hoạt: 使用〈ハイメガキャノン〉（低优先，可能被通用台词顶掉）
+> 「エネルギー充填……
+>  いけっ! ハイメガキャノン!!」
+"Nạp năng lượng... tiếp tục! Mega Cannon năng lượng cao!!"

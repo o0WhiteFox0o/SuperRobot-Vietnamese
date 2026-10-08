@@ -1,0 +1,133 @@
+# Bản dịch tiếng Việt Super Robot Wars 64
+# Định dạng và vị trí: docs/guide/dialogue-text.md
+
+@8918 Wooder · ウッダー
+# Kích hoạt: Tấn công (Chung，1/9）
+> 「落とさせてもらう!!」
+"Tôi sẽ bắn hạ bạn!!"
+
+@8919 Wooder · ウッダー
+# Kích hoạt: Tấn công (Chung，2/9）
+> 「沈め!!」
+“Chìm xuống!!”
+
+@8920 Wooder · ウッダー
+# Kích hoạt: Tấn công (Chung，3/9）
+> 「もらった!」
+"Thành công!"
+
+@8921 Wooder · ウッダー
+# Kích hoạt: Tấn công (Chung，4/9）
+> 「そこっ!」
+"Đó!"
+
+@8922 Wooder · ウッダー
+# Kích hoạt: Tấn công (Chung，5/9）
+> 「やらせん!!」
+"Đừng nghĩ tới chuyện đó nữa!!"
+
+@8923 Wooder · ウッダー
+# Kích hoạt: Tấn công (Chung，6/9）
+> 「落ちろっ!!」
+"Thả tôi xuống!!"
+
+@8924 Wooder · ウッダー
+# Kích hoạt: Tấn công (Chung，7/9）
+> 「このっ!」
+"Đồ khốn! "
+
+@8925 Wooder · ウッダー
+# Kích hoạt: Tấn công (Chung，8/9）
+> 「ならばっ!」
+"Trong trường hợp đó!"
+
+@8926 Wooder · ウッダー
+# Kích hoạt: Tấn công (Chung，9/9）
+> 「いけっ!」
+"Lên!"
+
+@8927 Wooder · ウッダー
+# Kích hoạt: 被击坠（通用，1/1）
+> 「うおっ! し、しまった!」
+"Ồ! Rất tiếc! Rất tiếc!"
+
+@8928 Wooder · ウッダー
+# Kích hoạt: 重伤（剩余 HP 不足 30%）（通用，1/3）
+> 「ぐあっ! つ、強い……」
+"Guah! Mạnh quá..."
+
+@8929 Wooder · ウッダー
+# Kích hoạt: 重伤（剩余 HP 不足 30%）（通用，2/3）
+> 「ぬうううっ! このまま黙ってやられる
+>  ものか!」
+"Uh-huh! Làm sao tôi có thể bị đánh như thế này được!"
+
+@8930 Wooder · ウッダー
+# Kích hoạt: 重伤（剩余 HP 不足 30%）（通用，3/3）
+> 「うおっ! まだだ、まだ落ちるなっ!」
+"Ôi! Còn chưa xong đâu, chúng ta chưa thể ngã được!"
+
+@8931 Wooder · ウッダー
+# Kích hoạt: 中伤（剩余 HP 30–90%）（通用，1/3）
+> 「そう簡単にやられはせんよ!!」
+“Tôi sẽ không bị đánh bại dễ dàng như vậy đâu!!”
+
+@8932 Wooder · ウッダー
+# Kích hoạt: 中伤（剩余 HP 30–90%）（通用，2/3）
+> 「やるっ! さすがはっ!」
+"Hai lần! Thật sự là quá tuyệt vời!"
+
+@8933 Wooder · ウッダー
+# Kích hoạt: 中伤（剩余 HP 30–90%）（通用，3/3）
+> 「まだだっ! まだ落ちはせん!」
+"Vẫn chưa xong đâu! Tôi chưa ngã đâu!"
+
+@8934 Wooder · ウッダー
+# Kích hoạt: 轻伤（剩余 HP 90% 以上）（通用，1/3）
+> 「こんなダメージなどっ!」
+"Tác hại nhỏ này chẳng là gì cả!"
+
+@8935 Wooder · ウッダー
+# Kích hoạt: 轻伤（剩余 HP 90% 以上）（通用，2/3）
+> 「効かんな!」
+"Nó không đau hay ngứa!"
+
+@8936 Wooder · ウッダー
+# Kích hoạt: 轻伤（剩余 HP 90% 以上）（通用，3/3）
+> 「ふん、その程度か」
+“Huh, đó là tất cả những gì tôi có.”
+
+@8937 Wooder · ウッダー
+# Kích hoạt: Né tránh（通用，1/4）
+> 「当たらんよ!」
+"Bỏ lỡ!"
+
+@8938 Wooder · ウッダー
+# Kích hoạt: Né tránh（通用，2/4）
+> 「なんの!」
+"Đó là một trò đùa!"
+
+@8939 Wooder · ウッダー
+# Kích hoạt: Né tránh（通用，3/4）
+> 「そこか!」
+"Đó!"
+
+@8940 Wooder · ウッダー
+# Kích hoạt: Né tránh（通用，4/4）
+> 「させるかっ!」
+"Làm sao có thể để cho ngươi thành công!"
+
+@8941 Wooder · ウッダー
+# Kích hoạt: Tấn công无效（护罩／装甲）（通用，1/1）
+> 「その程度のビームなど、効きはせん!」
+“Chùm tia đó không có tác dụng gì cả!”
+
+@8942 Wooder · ウッダー
+# Kích hoạt: 弹药／EN 不足，无法反击（通用，1/1）
+> 「何っ!? 弾切れか!」
+"Cái gì!? Không có đạn!"
+
+@8943 Wooder · ウッダー
+# Kích hoạt: 射程外，无法反击（通用，1/1）
+> 「むう、この距離では手が出せん……」
+“Chà, tôi không thể hành động từ khoảng cách này được…”

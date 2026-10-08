@@ -1,0 +1,205 @@
+# Bản dịch tiếng Việt Super Robot Wars 64
+# Định dạng và vị trí: docs/guide/dialogue-text.md
+
+@10903 Mondo · モンド
+# Kích hoạt: Tấn công (Chung，1/11）
+> 「お、俺だってなあっ!!」
+"Tôi, tôi cũng có thể làm được điều đó!!"
+
+@10904 Mondo · モンド
+# Kích hoạt: Tấn công (Chung，2/11）
+> 「にゃろおぉぉぉぉっ!!」
+"Đồ khốn nạn!"
+
+@10905 Mondo · モンド
+# Kích hoạt: Tấn công (Chung，3/11）
+> 「俺だって、ジュドーくらいにはっ!」
+"Tôi không tệ hơn Jidu!"
+
+@10906 Mondo · モンド
+# Kích hoạt: Tấn công (Chung，4/11）
+> 「やってやるぞぉっ!」
+"Nhìn tôi này!"
+
+@10907 Mondo · モンド
+# Kích hoạt: Tấn công (Chung，5/11）
+> 「逃がさないよっ!!」
+“Đừng cố trốn thoát!!”
+
+@10908 Mondo · モンド
+# Kích hoạt: Tấn công (Chung，6/11）
+> 「もらうよっ!」
+"Đã lấy nó!"
+
+@10909 Mondo · モンド
+# Kích hoạt: Tấn công (Chung，7/11）
+> 「させるかっての!」
+"Thật là một ý nghĩ đẹp đẽ!"
+
+@10910 Mondo · モンド
+# Kích hoạt: Tấn công (Chung，8/11）
+> 「よ～く狙って……そこだぁっ!」
+"Nhắm tốt... thế thôi!"
+
+@10911 Mondo · モンド
+# Kích hoạt: Tấn công (Chung，9/11）
+> 「当たれぇぇっ!」
+"Đánh tôi đi!"
+
+@10912 Mondo · モンド
+# Kích hoạt: Tấn công (Chung，10/11）
+> 「このっ! このっ! このっ!!」
+"Cẩn thận di chuyển! Cẩn thận di chuyển! Cẩn thận di chuyển!!"
+
+@10913 Mondo · モンド
+# Kích hoạt: Tấn công (Chung，11/11）
+> 「うわあああっ!」
+“Ồ! "
+
+@10914 Mondo · モンド
+# Kích hoạt: 被击坠（通用，1/1）
+> 「だ、ダメだぁ、やられたぁ!」
+"Không được, không thể được nữa, ta đã bị giết!"
+
+@10915 Mondo · モンド
+# Kích hoạt: 重伤（剩余 HP 不足 30%）（通用，1/4）
+> 「ひゃーっ、もう限界だよ!」
+“A——, tôi không thể chịu đựng được nữa rồi!”
+
+@10916 Mondo · モンド
+# Kích hoạt: 重伤（剩余 HP 不足 30%）（通用，2/4）
+> 「わあああっ! やられるっ!?」
+"Chà! Tôi sắp bị giết!?"
+
+@10917 Mondo · モンド
+# Kích hoạt: 重伤（剩余 HP 不足 30%）（通用，3/4）
+> 「だ、ダメだっ! これ以上もたないよ!」
+"Không, không! Tôi không thể nhịn được nữa!"
+
+@10918 Mondo · モンド
+# Kích hoạt: 重伤（剩余 HP 不足 30%）（通用，4/4）
+> 「うわわわっ! 落ちる、落ちるぅ～!」
+"Wow wow wow! Nó sắp rơi, nó sắp rơi~!"
+
+@10919 Mondo · モンド
+# Kích hoạt: 中伤（剩余 HP 30–90%）（通用，1/5）
+> 「こんにゃろっ! まだまだっ!!」
+"Đồ khốn! Vẫn còn sớm mà!!"
+
+@10920 Mondo · モンド
+# Kích hoạt: 中伤（剩余 HP 30–90%）（通用，2/5）
+> 「くっ! このおっ! やらせるもんかっ!」
+"Ugh! Anh bạn! Đừng cố gắng để thành công!"
+
+@10921 Mondo · モンド
+# Kích hoạt: 中伤（剩余 HP 30–90%）（通用，3/5）
+> 「つ、強いっ! け、けどなあ、俺だって
+>  意地があるんだよっ!」
+"Thật mạnh mẽ! Nhưng, nhưng, ta cũng có xương sống!"
+
+@10922 Mondo · モンド
+# Kích hoạt: 中伤（剩余 HP 30–90%）（通用，4/5）
+> 「どわっ! よ、よくもやったなぁっ!」
+"Wow! Bạn, sao bạn dám đánh tôi!"
+
+@10923 Mondo · モンド
+# Kích hoạt: 中伤（剩余 HP 30–90%）（通用，5/5）
+> 「うわっ! ま、まだだっ! まだ落ちる
+>  もんかっ!」
+"Wow! Vẫn chưa kết thúc đâu! Tôi sẽ không ngã đâu!"
+
+@10924 Mondo · モンド
+# Kích hoạt: 轻伤（剩余 HP 90% 以上）（通用，1/4）
+> 「か、かすっただけぇ!」
+"Chỉ cần, chỉ cần lau nó!"
+
+@10925 Mondo · モンド
+# Kích hoạt: 轻伤（剩余 HP 90% 以上）（通用，2/4）
+> 「当たったけど……こんなもんか」
+"Đó là một cú đánh... thế thôi."
+
+@10926 Mondo · モンド
+# Kích hoạt: 轻伤（剩余 HP 90% 以上）（通用，3/4）
+> 「うわっ!? ……?
+>  なあんだ、みかけ倒しね」
+"Wow!?...? Cái gì? Nó chỉ lạ mắt thôi chứ không có ích gì cả."
+
+@10927 Mondo · モンド
+# Kích hoạt: 轻伤（剩余 HP 90% 以上）（通用，4/4）
+> 「いてっ! やったな、このっ!」
+"Đau quá! Sao ngươi dám đánh ta hả!"
+
+@10928 Mondo · モンド
+# Kích hoạt: Né tránh（通用，1/7）
+> 「やられるかっ!」
+"Ta sẽ không bị ngươi đánh!"
+
+@10929 Mondo · モンド
+# Kích hoạt: Né tránh（通用，2/7）
+> 「わわっ! こ、こっち来るっ!」
+"Ồ! Nó đang tiến về phía này!"
+
+@10930 Mondo · モンド
+# Kích hoạt: Né tránh（通用，3/7）
+> 「あ、危なかったぁ」
+"Chà, nó nguy hiểm quá."
+
+@10931 Mondo · モンド
+# Kích hoạt: Né tránh（通用，4/7）
+> 「わあっ! お、俺を狙ってる!?」
+"Ồ! Bạn đang đến tìm tôi à!?"
+
+@10932 Mondo · モンド
+# Kích hoạt: Né tránh（通用，5/7）
+> 「当たるわけにゃいかないんだよっ!」
+"Làm sao có thể để ngươi đánh ta!"
+
+@10933 Mondo · モンド
+# Kích hoạt: Né tránh（通用，6/7）
+> 「ふ～、危ない危ない」
+"Huh~, nguy hiểm quá, nguy hiểm quá"
+
+@10934 Mondo · モンド
+# Kích hoạt: Né tránh（通用，7/7）
+> 「あっかんべ～だ」
+"Hơi, hơi, hơi ~"
+
+@10935 Mondo · モンド
+# Kích hoạt: Tấn công无效（护罩／装甲）（通用，1/1）
+> 「そ、そんなビームなんて恐くないぞっ!」
+"Vậy thì tôi không sợ loại tia sáng đó!"
+
+@10936 Mondo · モンド
+# Kích hoạt: 弹药／EN 不足，无法反击（通用，1/1）
+> 「え!? 何? 弾切れなのか?」
+"Ơ!? Cái gì? Hết đạn rồi à?"
+
+@10937 Mondo · モンド
+# Kích hoạt: 射程外，无法反击（通用，1/1）
+> 「ダメだぁ、遠すぎて攻撃できない!」
+"Không, nó quá xa để tấn công!"
+
+@16367 Mondo · モンド
+# Kích hoạt: 使用〈ビームライフル／銃剣付きビームライフル〉（低优先，可能被通用台词顶掉）
+> 「撃つぞぉっ!」
+“我要开火了!”
+
+@16368 Mondo · モンド
+# Kích hoạt: 使用〈ファンネル／マザーファンネル〉
+> 「頼むぜ、ファンネルっ!」
+"Làm ơn, pháo nổi!"
+
+@16369 Mondo · モンド
+# Kích hoạt: 使用〈ファンネル／マザーファンネル〉
+> 「うまくいってくれよ……ファンネルっ!」
+"Bạn phải ghi công cho tôi... pháo nổi!"
+
+@16370 Mondo · モンド
+# Kích hoạt: 使用〈フィンファンネル〉
+> 「いけるか? フィンファンネル!」
+"Có thể không? Hình vây pháo nổi!"
+
+@16371 Mondo · モンド
+# Kích hoạt: 使用〈ハイメガキャノン〉（低优先，可能被通用台词顶掉）
+> 「これならどうだっ! ハイメガキャノン!!」
+“Còn chiêu này thì sao! Mega Cannon công suất cao!!”

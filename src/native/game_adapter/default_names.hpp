@@ -25,7 +25,7 @@ struct DefaultName {
 // A full name joins given and family name with the locale's separator.
 inline std::string separator(const std::string& locale) {
     if(locale=="zh-Hans")return "·";
-    if(locale=="en")return " ";
+    if(locale=="en" || locale=="vi")return " ";
     return "・";
 }
 class DefaultNames {

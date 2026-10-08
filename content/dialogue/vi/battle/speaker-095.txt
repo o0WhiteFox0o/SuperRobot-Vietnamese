@@ -1,0 +1,463 @@
+# Bản dịch tiếng Việt Super Robot Wars 64
+# Định dạng và vị trí: docs/guide/dialogue-text.md
+
+@6341 Heero · ヒイロ
+# Kích hoạt: Tấn công (Chung，1/19）
+> 「敵対機発見……」
+"Phát hiện máy bay địch..."
+
+@6342 Heero · ヒイロ
+# Kích hoạt: Tấn công (Chung，2/19）
+> 「敵確認。これより突入する」
+"Xác nhận kẻ thù. Bắt đầu đột nhập"
+
+@6343 Heero · ヒイロ
+# Kích hoạt: Tấn công (Chung，3/19）
+> 「目標確認……破壊する」
+"Xác nhận mục tiêu...tiêu diệt"
+
+@6344 Heero · ヒイロ
+# Kích hoạt: Tấn công (Chung，4/19）
+> 「……覚悟はいいな」
+"...hãy chuẩn bị thức dậy."
+
+@6345 Heero · ヒイロ
+# Kích hoạt: Tấn công (Chung，5/19）
+> 「戦闘レベル、ターゲット確認
+>  ……排除開始!」
+"Cấp độ chiến đấu, xác nhận mục tiêu...bắt đầu dọn dẹp!"
+
+@6346 Heero · ヒイロ
+# Kích hoạt: Tấn công (Chung，6/19）
+> 「障害は、取り除く」
+"Mọi thứ cản đường sẽ bị dỡ bỏ."
+
+@6347 Heero · ヒイロ
+# Kích hoạt: Tấn công (Chung，7/19）
+> 「俺の邪魔を……するな!」
+"Đừng... cản đường tôi!"
+
+@6348 Heero · ヒイロ
+# Kích hoạt: Tấn công (Chung，8/19）
+> 「相手が悪かったな」
+“Bạn đã chọn sai đối thủ”
+
+@6349 Heero · ヒイロ
+# Kích hoạt: Tấn công (Chung，9/19）
+> 「貴様の運はつきた」
+"Vận may của bạn đã hết"
+
+@6350 Heero · ヒイロ
+# Kích hoạt: Tấn công (Chung，10/19）
+> 「ふ……」
+"Hừm..."
+
+@6351 Heero · ヒイロ
+# Kích hoạt: Tấn công (Chung，11/19）
+> 「ターゲット確認!」
+"Xác nhận mục tiêu!"
+
+@6352 Heero · ヒイロ
+# Kích hoạt: Tấn công (Chung，12/19）
+> 「む!!」
+"Ừ!!"
+
+@6353 Heero · ヒイロ
+# Kích hoạt: Tấn công (Chung，13/19）
+> 「破壊してみせる!」
+"Xem ta hủy diệt ngươi!"
+
+@6354 Heero · ヒイロ
+# Kích hoạt: Tấn công (Chung，14/19）
+> 「お前を……殺す!」
+"Ta sẽ... giết ngươi!"
+
+@6355 Heero · ヒイロ
+# Kích hoạt: Tấn công (Chung，15/19）
+> 「ターゲット確認……直撃させる!」
+"Xác nhận mục tiêu...đánh trực tiếp!"
+
+@6356 Heero · ヒイロ
+# Kích hoạt: Tấn công (Chung，16/19）
+> 「俺の敵は……どこだ!」
+"Kẻ thù của tôi đâu...?"
+
+@6357 Heero · ヒイロ
+# Kích hoạt: Tấn công (Chung，17/19）
+> 「ターゲット、ロックオン……」
+"Mục tiêu, khóa..."
+
+@6358 Heero · ヒイロ
+# Kích hoạt: Tấn công (Chung，18/19）
+> 「オートロックオン……
+>  障害を排除する」
+"Tự động khóa...xóa chướng ngại vật"
+
+@6359 Heero · ヒイロ
+# Kích hoạt: Tấn công (Chung，19/19）
+> 「戦術レベル最大効果確認!」
+"Xác nhận hiệu quả tối đa của cấp độ chiến thuật!"
+
+@6360 Heero · ヒイロ
+# Kích hoạt: 被击坠（通用，1/5）
+> 「任務……失敗……」
+"Nhiệm vụ... thất bại..."
+
+@6361 Heero · ヒイロ
+# Kích hoạt: 被击坠（通用，2/5）
+> 「く……これまでか……」
+"Chà...cuối cùng là vậy sao..."
+
+@6362 Heero · ヒイロ
+# Kích hoạt: 被击坠（通用，3/5）
+> 「これで……何もかも終わりだ……」
+"Theo cách này...mọi thứ đã kết thúc..."
+
+@6363 Heero · ヒイロ
+# Kích hoạt: 被击坠（通用，4/5）
+> 「くっ、しまった……」
+"Chà, tệ quá..."
+
+@6364 Heero · ヒイロ
+# Kích hoạt: 被击坠（通用，5/5）
+> 「俺は……俺は……俺は……
+>  俺は死なない!」
+"Tôi...tôi...tôi...tôi sẽ không chết!"
+
+@6365 Heero · ヒイロ
+# Kích hoạt: 重伤（剩余 HP 不足 30%）（通用，1/8）
+> 「まだしばらくはもつ……
+>  任務を継続する!」
+"Ta có thể kiên trì thêm một thời gian nữa...tiếp tục thực hiện nhiệm vụ!"
+
+@6366 Heero · ヒイロ
+# Kích hoạt: 重伤（剩余 HP 不足 30%）（通用，2/8）
+> 「むっ! だが、まだ戦闘は可能だ」
+"Hmm! Nhưng tôi vẫn có thể chiến đấu."
+
+@6367 Heero · ヒイロ
+# Kích hoạt: 重伤（剩余 HP 不足 30%）（通用，3/8）
+> 「状況は不利……だが!」
+"Tình hình không thuận lợi...nhưng!"
+
+@6368 Heero · ヒイロ
+# Kích hoạt: 重伤（剩余 HP 不足 30%）（通用，4/8）
+> 「まだ……戦える」
+"Còn có thể... chiến đấu"
+
+@6369 Heero · ヒイロ
+# Kích hoạt: 重伤（剩余 HP 不足 30%）（通用，5/8）
+> 「俺は……死なない!」
+"Tôi...sẽ không chết!"
+
+@6370 Heero · ヒイロ
+# Kích hoạt: 重伤（剩余 HP 不足 30%）（通用，6/8）
+> 「何っ! ここまでのパワーがあったか……」
+"Cái gì! Có sức mạnh như vậy ..."
+
+@6371 Heero · ヒイロ
+# Kích hoạt: 重伤（剩余 HP 不足 30%）（通用，7/8）
+> 「うぅ……くっ……!」
+"Ư... Ờ...!"
+
+@6372 Heero · ヒイロ
+# Kích hoạt: 重伤（剩余 HP 不足 30%）（通用，8/8）
+> 「俺はひかない!」
+"Tôi sẽ không lùi bước!"
+
+@6373 Heero · ヒイロ
+# Kích hoạt: 中伤（剩余 HP 30–90%）（通用，1/10）
+> 「まだまだ!」
+"Nó vẫn chưa kết thúc!"
+
+@6374 Heero · ヒイロ
+# Kích hoạt: 中伤（剩余 HP 30–90%）（通用，2/10）
+> 「つぅっ! ……当たったか……」
+"Suss!...Tôi bị đánh..."
+
+@6375 Heero · ヒイロ
+# Kích hoạt: 中伤（剩余 HP 30–90%）（通用，3/10）
+> 「ちっ、油断したか……」
+"Chậc, tôi bất cẩn quá..."
+
+@6376 Heero · ヒイロ
+# Kích hoạt: 中伤（剩余 HP 30–90%）（通用，4/10）
+> 「くっ! 少しはできるようだ」
+"Hmm! Có vẻ như vẫn còn vài giây nữa."
+
+@6377 Heero · ヒイロ
+# Kích hoạt: 中伤（剩余 HP 30–90%）（通用，5/10）
+> 「くっ……!」
+"Ờ...!"
+
+@6378 Heero · ヒイロ
+# Kích hoạt: 中伤（剩余 HP 30–90%）（通用，6/10）
+> 「なんだと……!」
+"Cái gì...!"
+
+@6379 Heero · ヒイロ
+# Kích hoạt: 中伤（剩余 HP 30–90%）（通用，7/10）
+> 「うっ……」
+"Ờ..."
+
+@6380 Heero · ヒイロ
+# Kích hoạt: 中伤（剩余 HP 30–90%）（通用，8/10）
+> 「左推進システム異常……
+>  やるなっ!」
+"Hệ thống đẩy bên trái không bình thường... hai lần!"
+
+@6381 Heero · ヒイロ
+# Kích hoạt: 中伤（剩余 HP 30–90%）（通用，9/10）
+> 「やるなっ!」
+"Hai lần!"
+
+@6382 Heero · ヒイロ
+# Kích hoạt: 中伤（剩余 HP 30–90%）（通用，10/10）
+> 「くっ、進撃に時間がかかりすぎる!」
+"A, tiến độ quá chậm!"
+
+@6383 Heero · ヒイロ
+# Kích hoạt: 轻伤（剩余 HP 90% 以上）（通用，1/7）
+> 「損傷軽微……任務続行」
+"Thiệt hại không đáng kể...nhiệm vụ vẫn tiếp tục"
+
+@6384 Heero · ヒイロ
+# Kích hoạt: 轻伤（剩余 HP 90% 以上）（通用，2/7）
+> 「この程度か」
+"Đó là nó?"
+
+@6385 Heero · ヒイロ
+# Kích hoạt: 轻伤（剩余 HP 90% 以上）（通用，3/7）
+> 「そんなものか!」
+"Đó là tất cả!"
+
+@6386 Heero · ヒイロ
+# Kích hoạt: 轻伤（剩余 HP 90% 以上）（通用，4/7）
+> 「ふ……はははははっ!」
+"Hừm... hahahahaha!"
+
+@6387 Heero · ヒイロ
+# Kích hoạt: 轻伤（剩余 HP 90% 以上）（通用，5/7）
+> 「ふん……笑わせるな」
+"Hmph...buồn cười"
+
+@6388 Heero · ヒイロ
+# Kích hoạt: 轻伤（剩余 HP 90% 以上）（通用，6/7）
+> 「その程度の力で、お前は何を
+>  するつもりだ」
+"Với sức mạnh nhỏ bé này, bạn còn muốn làm gì nữa?"
+
+@6389 Heero · ヒイロ
+# Kích hoạt: 轻伤（剩余 HP 90% 以上）（通用，7/7）
+> 「各部異常なし……」
+"Mọi thứ đều bình thường..."
+
+@6390 Heero · ヒイロ
+# Kích hoạt: Né tránh（通用，1/8）
+> 「あまいな」
+“太天真了”
+
+@6391 Heero · ヒイロ
+# Kích hoạt: Né tránh（通用，2/8）
+> 「残念だったな」
+“Thật đáng tiếc”
+
+@6392 Heero · ヒイロ
+# Kích hoạt: Né tránh（通用，3/8）
+> 「ふ……相手が悪かったな」
+"Hừm... ngươi chọn sai đối thủ rồi."
+
+@6393 Heero · ヒイロ
+# Kích hoạt: Né tránh（通用，4/8）
+> 「そこかっ!」
+"Đó!"
+
+@6394 Heero · ヒイロ
+# Kích hoạt: Né tránh（通用，5/8）
+> 「当たりはしない」
+"Có thể bỏ lỡ"
+
+@6395 Heero · ヒイロ
+# Kích hoạt: Né tránh（通用，6/8）
+> 「回避、成功」
+"Tránh, thành công"
+
+@6396 Heero · ヒイロ
+# Kích hoạt: Né tránh（通用，7/8）
+> 「回避運動、完了」
+"Hành động né tránh, hoàn thành"
+
+@6397 Heero · ヒイロ
+# Kích hoạt: Né tránh（通用，8/8）
+> 「余裕で逃げきれる」
+“Dễ tránh”
+
+@6398 Heero · ヒイロ
+# Kích hoạt: Tấn công无效（护罩／装甲）（通用，1/2）
+> 「ダメージ、0……ムダな事をする」
+"Thiệt hại, không...lãng phí công sức"
+
+@6399 Heero · ヒイロ
+# Kích hoạt: Tấn công无效（护罩／装甲）（通用，2/2）
+> 「各部正常、ダメージ……0」
+"Mọi thứ đều bình thường, thiệt hại...không"
+
+@6400 Heero · ヒイロ
+# Kích hoạt: 弹药／EN 不足，无法反击（通用，1/1）
+> 「弾がつきたか」
+"Hết đạn"
+
+@6401 Heero · ヒイロ
+# Kích hoạt: 射程外，无法反击（通用，1/1）
+> 「レンジ外からの攻撃か……」
+“Một đòn tấn công ngoài phạm vi…”
+
+@14293 Heero · ヒイロ
+# Kích hoạt: Tấn công，乘坐〈ウイングゼロ〉
+> 「だまれゼロ!」
+“Im đi, Zero!”
+
+@14294 Heero · ヒイロ
+# Kích hoạt: Tấn công，乘坐〈ウイングゼロ(バード)〉
+> 「だまれゼロ!」
+“Im đi, Zero!”
+
+@14295 Heero · ヒイロ
+# Kích hoạt: Tấn công，乘坐〈ウイングゼロカスタム〉
+> 「だまれゼロ!」
+“Im đi, Zero!”
+
+@14296 Heero · ヒイロ
+# Kích hoạt: Tấn công，乘坐〈ガンダムエピオン〉
+> 「だまれエピオン!」
+"Im đi, Gundam thế hệ tiếp theo!"
+
+@14297 Heero · ヒイロ
+# Kích hoạt: Tấn công，乘坐〈ガンダムエピオン(MA)〉
+> 「だまれエピオン!」
+"Im đi, Gundam thế hệ tiếp theo!"
+
+@14298 Heero · ヒイロ
+# Kích hoạt: 重伤（剩余 HP 不足 30%），乘坐〈アルトロンガンダム〉
+> 「シールドも限界か……」
+“Liệu chiếc khiên đã đạt đến giới hạn chưa…”
+
+@14299 Heero · ヒイロ
+# Kích hoạt: 重伤（剩余 HP 不足 30%），乘坐〈アルトロンカスタム〉
+> 「シールドも限界か……」
+“Liệu chiếc khiên đã đạt đến giới hạn chưa…”
+
+@14300 Heero · ヒイロ
+# Kích hoạt: 重伤（剩余 HP 不足 30%），乘坐〈ウイングガンダム〉
+> 「シールドも限界か……」
+“Liệu chiếc khiên đã đạt đến giới hạn chưa…”
+
+@14301 Heero · ヒイロ
+# Kích hoạt: 重伤（剩余 HP 不足 30%），乘坐〈ウイングガンダム(バード)〉
+> 「シールドも限界か……」
+“Liệu chiếc khiên đã đạt đến giới hạn chưa…”
+
+@14302 Heero · ヒイロ
+# Kích hoạt: 重伤（剩余 HP 不足 30%），乘坐〈ウイングゼロ〉
+> 「シールドも限界か……」
+“Liệu chiếc khiên đã đạt đến giới hạn chưa…”
+
+@14303 Heero · ヒイロ
+# Kích hoạt: 重伤（剩余 HP 不足 30%），乘坐〈ウイングゼロカスタム〉
+> 「シールドも限界か……」
+“Liệu chiếc khiên đã đạt đến giới hạn chưa…”
+
+@14304 Heero · ヒイロ
+# Kích hoạt: 重伤（剩余 HP 不足 30%），乘坐〈ガンダムエピオン〉
+> 「シールドも限界か……」
+“Liệu chiếc khiên đã đạt đến giới hạn chưa…”
+
+@14305 Heero · ヒイロ
+# Kích hoạt: 重伤（剩余 HP 不足 30%），乘坐〈ガンダムサンドロック〉
+> 「シールドも限界か……」
+“Liệu chiếc khiên đã đạt đến giới hạn chưa…”
+
+@14306 Heero · ヒイロ
+# Kích hoạt: 重伤（剩余 HP 不足 30%），乘坐〈サンドロックカスタム〉
+> 「シールドも限界か……」
+“Liệu chiếc khiên đã đạt đến giới hạn chưa…”
+
+@14307 Heero · ヒイロ
+# Kích hoạt: 重伤（剩余 HP 不足 30%），乘坐〈ガンダムサンドロック改〉
+> 「シールドも限界か……」
+“Liệu chiếc khiên đã đạt đến giới hạn chưa…”
+
+@14308 Heero · ヒイロ
+# Kích hoạt: 重伤（剩余 HP 不足 30%），乘坐〈ガンダムデスサイズ〉
+> 「シールドも限界か……」
+“Liệu chiếc khiên đã đạt đến giới hạn chưa…”
+
+@14309 Heero · ヒイロ
+# Kích hoạt: 重伤（剩余 HP 不足 30%），乘坐〈ガンダムデスサイズH〉
+> 「シールドも限界か……」
+“Liệu chiếc khiên đã đạt đến giới hạn chưa…”
+
+@14310 Heero · ヒイロ
+# Kích hoạt: 重伤（剩余 HP 不足 30%），乘坐〈デスサイズHカスタム〉
+> 「シールドも限界か……」
+“Liệu chiếc khiên đã đạt đến giới hạn chưa…”
+
+@14311 Heero · ヒイロ
+# Kích hoạt: 重伤（剩余 HP 不足 30%），乘坐〈ガンダムヘビーアームズ〉
+> 「シールドも限界か……」
+“Liệu chiếc khiên đã đạt đến giới hạn chưa…”
+
+@14312 Heero · ヒイロ
+# Kích hoạt: 重伤（剩余 HP 不足 30%），乘坐〈ヘビーアームズカスタム〉
+> 「シールドも限界か……」
+“Liệu chiếc khiên đã đạt đến giới hạn chưa…”
+
+@14313 Heero · ヒイロ
+# Kích hoạt: 重伤（剩余 HP 不足 30%），乘坐〈ガンダムヘビーアームズ改〉
+> 「シールドも限界か……」
+“Liệu chiếc khiên đã đạt đến giới hạn chưa…”
+
+@14314 Heero · ヒイロ
+# Kích hoạt: 重伤（剩余 HP 不足 30%），乘坐〈シェンロンガンダム〉
+> 「シールドも限界か……」
+“Liệu chiếc khiên đã đạt đến giới hạn chưa…”
+
+@14315 Heero · ヒイロ
+# Kích hoạt: 重伤（剩余 HP 不足 30%），乘坐〈トールギス〉
+> 「シールドも限界か……」
+“Liệu chiếc khiên đã đạt đến giới hạn chưa…”
+
+@14316 Heero · ヒイロ
+# Kích hoạt: 重伤（剩余 HP 不足 30%），乘坐〈トールギスⅢ〉
+> 「シールドも限界か……」
+“Liệu chiếc khiên đã đạt đến giới hạn chưa…”
+
+@14317 Heero · ヒイロ
+# Kích hoạt: 重伤（剩余 HP 不足 30%），乘坐〈マグアナック〉
+> 「シールドも限界か……」
+“Liệu chiếc khiên đã đạt đến giới hạn chưa…”
+
+@14318 Heero · ヒイロ
+# Kích hoạt: 重伤（剩余 HP 不足 30%），乘坐〈マグアナック〉
+> 「シールドも限界か……」
+“Liệu chiếc khiên đã đạt đến giới hạn chưa…”
+
+@14319 Heero · ヒイロ
+# Kích hoạt: 重伤（剩余 HP 不足 30%），乘坐〈ヴァイエイト〉
+> 「シールドも限界か……」
+“Liệu chiếc khiên đã đạt đến giới hạn chưa…”
+
+@14320 Heero · ヒイロ
+# Kích hoạt: 重伤（剩余 HP 不足 30%），乘坐〈トールギスⅡ〉
+> 「シールドも限界か……」
+“Liệu chiếc khiên đã đạt đến giới hạn chưa…”
+
+@14321 Heero · ヒイロ
+# Kích hoạt: 中伤（剩余 HP 30–90%），乘坐〈ガンダムエピオン〉
+> 「遅い、遅いぞエピオン!」
+"Quá chậm, quá chậm, thế hệ tiếp theo của Gundun!"
+
+@14322 Heero · ヒイロ
+# Kích hoạt: 中伤（剩余 HP 30–90%），乘坐〈ガンダムエピオン(MA)〉
+> 「遅い、遅いぞエピオン!」
+"Quá chậm, quá chậm, thế hệ tiếp theo của Gundun!"

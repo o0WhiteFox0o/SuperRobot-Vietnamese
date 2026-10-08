@@ -96,7 +96,7 @@ class BundledDialogueTests(unittest.TestCase):
         from srw64_native.catalog import source_catalog
         sources, _, _ = source_catalog(ROOT, ROOT / "rom.z64")
         loaded = {}
-        for locale in ("zh-Hans", "en"):
+        for locale in ("zh-Hans", "en", "vi"):
             targets, intro, problems = load([ROOT / f"content/dialogue/{locale}"], sources)
             self.assertEqual([str(p) for p in problems], [])
             loaded[locale] = targets
@@ -105,6 +105,7 @@ class BundledDialogueTests(unittest.TestCase):
                 terms = {row["key"] for row in json.loads((ROOT / f"content/locales/{locale}.json").read_text())["entries"]}
                 self.assertFalse(terms & targets.keys())
         self.assertEqual(loaded["zh-Hans"].keys(), loaded["en"].keys())
+        self.assertEqual(loaded["zh-Hans"].keys(), loaded["vi"].keys())
 
 
 if __name__ == "__main__":

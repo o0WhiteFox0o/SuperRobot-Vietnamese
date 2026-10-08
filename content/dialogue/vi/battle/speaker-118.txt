@@ -1,0 +1,177 @@
+# Bản dịch tiếng Việt Super Robot Wars 64
+# Định dạng và vị trí: docs/guide/dialogue-text.md
+
+@10320 Gorman · ゴーマン
+# Kích hoạt: Tấn công (Chung，1/10）
+> 「地獄の底に送りこんでやるぞ!」
+"Đưa ngươi xuống vực sâu của địa ngục!"
+
+@10321 Gorman · ゴーマン
+# Kích hoạt: Tấn công (Chung，2/10）
+> 「貴様はこの俺が倒すんだ」
+"Ta sẽ tự tay đánh bại ngươi!"
+
+@10322 Gorman · ゴーマン
+# Kích hoạt: Tấn công (Chung，3/10）
+> 「攻撃開始だ!」
+"Bắt đầu tấn công!"
+
+@10323 Gorman · ゴーマン
+# Kích hoạt: Tấn công (Chung，4/10）
+> 「俺に狙われたら最後
+>  絶対に逃げられんぞ!」
+"Ngươi sẽ không bao giờ có thể trốn thoát nếu bị ta nhắm tới!"
+
+@10324 Gorman · ゴーマン
+# Kích hoạt: Tấn công (Chung，5/10）
+> 「どけ!」
+"Tránh ra!"
+
+@10325 Gorman · ゴーマン
+# Kích hoạt: Tấn công (Chung，6/10）
+> 「ぐずぐずせずに早く攻撃しろ!」
+"Đừng lảng vảng nữa, đánh tôi nhanh lên!"
+
+@10326 Gorman · ゴーマン
+# Kích hoạt: Tấn công (Chung，7/10）
+> 「俺はゴーマン大尉だ!」
+"Tôi là Đại úy Gorman!"
+
+@10327 Gorman · ゴーマン
+# Kích hoạt: Tấn công (Chung，8/10）
+> 「真っ逆さまに地獄の底に
+>  落ちるのだ!」
+"Đâm đầu vào vực sâu địa ngục!"
+
+@10328 Gorman · ゴーマン
+# Kích hoạt: Tấn công (Chung，9/10）
+> 「いくら逃げ回っても同じことだ!」
+"Cho dù ngươi có chạy trốn bao nhiêu, tất cả đều vô ích!"
+
+@10329 Gorman · ゴーマン
+# Kích hoạt: Tấn công (Chung，10/10）
+> 「死ににやってきたか!」
+“Anh đến đây để chết à?”
+
+@10330 Gorman · ゴーマン
+# Kích hoạt: 被击坠（通用，1/1）
+> 「お、おのれぇぇっ! うおぉぉぉーっ!?」
+"N-đáng ghét! Uh-oh-oh--!?"
+
+@10331 Gorman · ゴーマン
+# Kích hoạt: 重伤（剩余 HP 不足 30%）（通用，1/4）
+> 「くっ……バカな!? この俺がここまで
+>  やられるのか!?」
+"Ừm...không thể nào!? Tôi đã bị đánh đến mức này rồi!?"
+
+@10332 Gorman · ゴーマン
+# Kích hoạt: 重伤（剩余 HP 不足 30%）（通用，2/4）
+> 「なんだと!? 冗談ではない!」
+"Cái gì!? Bạn đang đùa đấy à!"
+
+@10333 Gorman · ゴーマン
+# Kích hoạt: 重伤（剩余 HP 不足 30%）（通用，3/4）
+> 「バカな! こんなことはありえん!」
+"Không thể nào! Điều này tuyệt đối không thể!"
+
+@10334 Gorman · ゴーマン
+# Kích hoạt: 重伤（剩余 HP 不足 30%）（通用，4/4）
+> 「ぐうっ、許さん! 必ず息の根を
+>  止めてくれる!」
+"Hừ, ta không thể tha cho ngươi! Ta nhất định sẽ lấy mạng của ngươi!"
+
+@10335 Gorman · ゴーマン
+# Kích hoạt: 中伤（剩余 HP 30–90%）（通用，1/4）
+> 「お、おのれぇぇぇぇぇっ!」
+"Nhưng, thật đáng ghét!"
+
+@10336 Gorman · ゴーマン
+# Kích hoạt: 中伤（剩余 HP 30–90%）（通用，2/4）
+> 「くっ……なんのこれしき!」
+"Chà...không có gì đâu!"
+
+@10337 Gorman · ゴーマン
+# Kích hoạt: 中伤（剩余 HP 30–90%）（通用，3/4）
+> 「このゴーマンにここまでやるとは!
+>  覚えておくぞ!」
+"Sao anh dám đánh tôi, Gorman, đến mức này! Hãy nhớ điều này!"
+
+@10338 Gorman · ゴーマン
+# Kích hoạt: 中伤（剩余 HP 30–90%）（通用，4/4）
+> 「フフフッ、まだまだだ!」
+"Hehehe, chúng ta vẫn còn xa lắm!"
+
+@10339 Gorman · ゴーマン
+# Kích hoạt: 轻伤（剩余 HP 90% 以上）（通用，1/4）
+> 「命を捨てにわざわざ自分から
+>  出向いてきたか」
+"Ngươi thậm chí còn đích thân tới đây để chết."
+
+@10340 Gorman · ゴーマン
+# Kích hoạt: 轻伤（剩余 HP 90% 以上）（通用，2/4）
+> 「俺に歯向かうつもりか?」
+“Muốn chống lại tôi à?”
+
+@10341 Gorman · ゴーマン
+# Kích hoạt: 轻伤（剩余 HP 90% 以上）（通用，3/4）
+> 「自分から死ににやってきたか!」
+"Ngươi tới đây để chết à?"
+
+@10342 Gorman · ゴーマン
+# Kích hoạt: 轻伤（剩余 HP 90% 以上）（通用，4/4）
+> 「フフフ、この超合金の盾には
+>  どんな兵器も通用せんのだ!」
+"Ha ha, không có vũ khí nào có thể xuyên thủng này siêu hợp kim lá chắn!"
+
+@10343 Gorman · ゴーマン
+# Kích hoạt: Né tránh（通用，1/2）
+> 「予想していた通りの力だな」
+"Sức mạnh của bạn thực sự tốt như tôi mong đợi."
+
+@10344 Gorman · ゴーマン
+# Kích hoạt: Né tránh（通用，2/2）
+> 「フフフッ、この俺には通用せんぞ!」
+"Hehehe, nó không có tác dụng với tôi đâu!"
+
+@10345 Gorman · ゴーマン
+# Kích hoạt: Tấn công无效（护罩／装甲）（通用，1/1）
+> 「フフフフフ、気がつくのが
+>  一足遅かったようだな」
+"Hehehe, cậu phát hiện ra muộn quá rồi."
+
+@10346 Gorman · ゴーマン
+# Kích hoạt: 弹药／EN 不足，无法反击（通用，1/1）
+> 「ぐずぐずせずに早く補給するんだ!」
+"Đừng chờ đợi, nhanh chóng bổ sung!"
+
+@10347 Gorman · ゴーマン
+# Kích hoạt: 射程外，无法反击（通用，1/1）
+> 「くそっ、どこにいる!?」
+"Chết tiệt, cậu trốn ở đâu thế!?"
+
+@15795 Gorman · ゴーマン
+# Kích hoạt: 使用〈ハンマー〉（低优先，可能被通用台词顶掉）
+> 「このまま押しつぶされたいのか!」
+"Muốn bị đè bẹp như thế này sao!"
+
+@15796 Gorman · ゴーマン
+# Kích hoạt: 对手驾驶员〈デューク〉
+> 「いくぞ、グレンダイザー!!」
+"Tiến lên, Gulian Tesha!!"
+
+@15797 Gorman · ゴーマン
+# Kích hoạt: 对手驾驶员〈デューク〉
+> 「いくぞ、デューク・フリード!!」
+“Cầm lấy đi, Công tước Freed!!”
+
+@15798 Gorman · ゴーマン
+# Kích hoạt: 对手驾驶员〈デューク〉
+> 「デューク・フリード!
+>  貴様はこの俺が倒す!」
+"Công tước Freed! Ta sẽ tự tay đánh bại ngươi!"
+
+@15799 Gorman · ゴーマン
+# Kích hoạt: 对手驾驶员〈デューク〉
+> 「デューク・フリード!
+>  貴様の命は今日かぎりだ!」
+"Công tước Freed! Hôm nay là ngày ngươi chết!"

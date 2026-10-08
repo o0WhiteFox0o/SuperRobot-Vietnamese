@@ -1,0 +1,177 @@
+# Bản dịch tiếng Việt Super Robot Wars 64
+# Định dạng và vị trí: docs/guide/dialogue-text.md
+
+@7734 Gosterro · ゴステロ
+# Kích hoạt: Tấn công (Chung，1/8）
+> 「脳がはちきれそうだぜっ!」
+"Đầu óc tôi sắp nổ tung rồi!"
+
+@7735 Gosterro · ゴステロ
+# Kích hoạt: Tấn công (Chung，2/8）
+> 「派手に殺してやるぜっ!!」
+"Tao sẽ giết mày thật mạnh đấy!!"
+
+@7736 Gosterro · ゴステロ
+# Kích hoạt: Tấn công (Chung，3/8）
+> 「ひゃっはっはははっ!」
+"A ha ha ha ha!"
+
+@7737 Gosterro · ゴステロ
+# Kích hoạt: Tấn công (Chung，4/8）
+> 「死ねぇい!」
+"Đi xuống địa ngục đi!"
+
+@7738 Gosterro · ゴステロ
+# Kích hoạt: Tấn công (Chung，5/8）
+> 「ひぃゃーははははははっ!」
+"Eahahahahahaha!"
+
+@7739 Gosterro · ゴステロ
+# Kích hoạt: Tấn công (Chung，6/8）
+> 「逃がすかぁっ!」
+"Muốn trốn thoát? Không thể nào!"
+
+@7740 Gosterro · ゴステロ
+# Kích hoạt: Tấn công (Chung，7/8）
+> 「ちょろちょろ動くんじゃねぇ!」
+"Đừng chạy vòng quanh giúp tôi nữa!"
+
+@7741 Gosterro · ゴステロ
+# Kích hoạt: Tấn công (Chung，8/8）
+> 「せっかくだから派手に殺してやるぜ!」
+"Nếu có cơ hội, ta sẽ giết ngươi!"
+
+@7742 Gosterro · ゴステロ
+# Kích hoạt: 被击坠（通用，1/2）
+> 「俺は不死身だぁ～!!」
+“Tôi bất tử——!!”
+
+@7743 Gosterro · ゴステロ
+# Kích hoạt: 被击坠（通用，2/2）
+> 「ぬぉぉぉぉ、ばかなぁぁぁっ!?」
+"Ồ, sao có thể thế được!?"
+
+@7744 Gosterro · ゴステロ
+# Kích hoạt: 重伤（剩余 HP 不足 30%）（通用，1/4）
+> 「ひぃひひっ、ムザムザ殺されて
+>  たまるかってんだ!!」
+“Hehehe, tôi sẽ không chết vô ích đâu!!”
+
+@7745 Gosterro · ゴステロ
+# Kích hoạt: 重伤（剩余 HP 不足 30%）（通用，2/4）
+> 「うぎゃぁぁぁぁっ、脳がぁぁっ!」
+"Ooohhhhhhhhhhhhhhhhhhhhhhhhhhh não của tôi!"
+
+@7746 Gosterro · ゴステロ
+# Kích hoạt: 重伤（剩余 HP 不足 30%）（通用，3/4）
+> 「ひっひっひひひひひひっ!」
+"Hehehehehehehe!"
+
+@7747 Gosterro · ゴステロ
+# Kích hoạt: 重伤（剩余 HP 不足 30%）（通用，4/4）
+> 「脳がいてぇぇぇぇーっ!」
+"Đầu tôi đau quá——!"
+
+@7748 Gosterro · ゴステロ
+# Kích hoạt: 中伤（剩余 HP 30–90%）（通用，1/3）
+> 「のうっ、脳が痛い!」
+"Não, não ta đau quá!"
+
+@7749 Gosterro · ゴステロ
+# Kích hoạt: 中伤（剩余 HP 30–90%）（通用，2/3）
+> 「ぬおぉぉっ、脳がはちきれそうだぜぇ!」
+"Ồ, ồ, não tôi sắp nổ tung rồi!"
+
+@7750 Gosterro · ゴステロ
+# Kích hoạt: 中伤（剩余 HP 30–90%）（通用，3/3）
+> 「くそぅ、ぶち殺してやる!」
+"Chết tiệt, ta sẽ giết ngươi!"
+
+@7751 Gosterro · ゴステロ
+# Kích hoạt: 轻伤（剩余 HP 90% 以上）（通用，1/3）
+> 「ふひゃははははっ!」
+"Huahahahaha!"
+
+@7752 Gosterro · ゴステロ
+# Kích hoạt: 轻伤（剩余 HP 90% 以上）（通用，2/3）
+> 「ムダなんだよぉっ!」
+"Tất cả đều vô ích!"
+
+@7753 Gosterro · ゴステロ
+# Kích hoạt: 轻伤（剩余 HP 90% 以上）（通用，3/3）
+> 「ひへへへへっ、効かねぇなぁ?」
+"Hehehehe, không đau hay ngứa à?"
+
+@7754 Gosterro · ゴステロ
+# Kích hoạt: Né tránh（通用，1/4）
+> 「出力が違うんだ出力がぁっ!」
+"Sức mạnh khác xa, sức mạnh!"
+
+@7755 Gosterro · ゴステロ
+# Kích hoạt: Né tránh（通用，2/4）
+> 「あいかわらずアマちゃんだなぁ!」
+"Ngươi vẫn còn ngây thơ như vậy!"
+
+@7756 Gosterro · ゴステロ
+# Kích hoạt: Né tránh（通用，3/4）
+> 「バカがぁ!」
+"Đồ ngốc!"
+
+@7757 Gosterro · ゴステロ
+# Kích hoạt: Né tránh（通用，4/4）
+> 「まともに俺の相手ができると
+>  思っているのかぁ!?」
+"Bạn có nghĩ rằng bạn có thể chiến đấu trực diện với tôi không!?"
+
+@7758 Gosterro · ゴステロ
+# Kích hoạt: Tấn công无效（护罩／装甲）（通用，1/2）
+> 「ムダなんだよぉっ!」
+"Tất cả đều vô ích!"
+
+@7759 Gosterro · ゴステロ
+# Kích hoạt: Tấn công无效（护罩／装甲）（通用，2/2）
+> 「ひへへへへっ、効かねぇなぁ?」
+"Hehehehe, không đau hay ngứa à?"
+
+@7760 Gosterro · ゴステロ
+# Kích hoạt: 弹药／EN 不足，无法反击（通用，1/1）
+> 「エネルギー切れだと!?
+>  ふざけるなぁっ!」
+"Hết năng lượng!? Bạn đang đùa tôi à!"
+
+@7761 Gosterro · ゴステロ
+# Kích hoạt: 射程外，无法反击（通用，1/1）
+> 「届かねぇじゃねぇかよぉ!」
+"Đơn giản là ngoài tầm với!"
+
+@14533 Gosterro · ゴステロ
+# Kích hoạt: 使用〈レーザーバズソー〉（低优先，可能被通用台词顶掉）
+> 「首の骨が砕ける音を聞きながら
+>  死んでいけぇ!」
+"Cút đi nghe tiếng xương cổ gãy!"
+
+@14534 Gosterro · ゴステロ
+# Kích hoạt: 使用〈レーザーバズソー〉（低优先，可能被通用台词顶掉）
+> 「骨という骨をきしませてやる!」
+"Tao sẽ làm cho xương cốt của mày kêu răng rắc!"
+
+@14535 Gosterro · ゴステロ
+# Kích hoạt: 使用〈レーザーバズソー〉（低优先，可能被通用台词顶掉）
+> 「切り刻んでやるっ!」
+"Chặt ngươi thành từng mảnh!"
+
+@14536 Gosterro · ゴステロ
+# Kích hoạt: 使用〈レーザーバズソー〉（低优先，可能被通用台词顶掉）
+> 「レーザードパズソーで切り刻んでやる!」
+"Chặt bạn thành từng mảnh bằng cưa tròn laze!"
+
+@14537 Gosterro · ゴステロ
+# Kích hoạt: 对手驾驶员为女性
+> 「ははははっ、今度は女か!
+>  気に入ったぜ!」
+"Ha ha ha, lần này là nữ nhân! Ta thích!"
+
+@14538 Gosterro · ゴステロ
+# Kích hoạt: 对手驾驶员〈エイジ〉
+> 「エイジィ、エイジィィィッ!」
+"Eiji, Eiji——!"

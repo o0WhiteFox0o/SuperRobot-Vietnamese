@@ -130,7 +130,10 @@ class MacOSPackageTests(unittest.TestCase):
         actual = libraries / "libSDL3.0.16.dylib"
         actual.write_bytes(self.binary.read_bytes())
         alias = libraries / "libSDL3.dylib"
-        alias.symlink_to(actual.name)
+        try:
+            alias.symlink_to(actual.name)
+        except OSError:
+            self.skipTest("Symlinks require privileges on Windows")
         unrelated = libraries / "not-selected.dylib"
         unrelated.write_bytes(self.binary.read_bytes())
         result = self.stage(search_dirs=(libraries,), runtime_libraries=(alias,))

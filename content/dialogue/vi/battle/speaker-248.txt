@@ -1,0 +1,114 @@
+# Bản dịch tiếng Việt Super Robot Wars 64
+# Định dạng và vị trí: docs/guide/dialogue-text.md
+
+@12750 Allenby · アレンビー
+# Kích hoạt: Tấn công (Chung，1/6）
+> 「うおおおおおおっ!!」
+"Ồ ồ ồ ồ ồ ồ!!"
+
+@12751 Allenby · アレンビー
+# Kích hoạt: Tấn công (Chung，2/6）
+> 「でやぁぁぁぁぁぁっ!!」
+"Này a a a a a a!!"
+
+@12752 Allenby · アレンビー
+# Kích hoạt: Tấn công (Chung，3/6）
+> 「私と……私と戦おうよっ!!!」
+"Chiến đấu với tôi... chiến đấu với tôi!!!"
+
+@12753 Allenby · アレンビー
+# Kích hoạt: Tấn công (Chung，4/6）
+> 「さあ! ファイトしよう!!」
+"Nào! Hãy chiến đấu!!"
+
+@12754 Allenby · アレンビー
+# Kích hoạt: Tấn công (Chung，5/6）
+> 「ファイトしようよ……私と!!!」
+"Hãy chiến đấu...với tôi!!!"
+
+@12755 Allenby · アレンビー
+# Kích hoạt: Tấn công (Chung，6/6）
+> 「うおおおおおおっ!!」
+"Ồ ồ ồ ồ ồ ồ!!"
+
+@12756 Allenby · アレンビー
+# Kích hoạt: 被击坠（通用，1/2）
+> 「ぎゃああああっ!!」
+"Ahhhhhh!!"
+
+@12757 Allenby · アレンビー
+# Kích hoạt: 被击坠（通用，2/2）
+> 「うぎゃああああっ!!」
+"Ồhhhhhhhhh!!"
+
+@12758 Allenby · アレンビー
+# Kích hoạt: 重伤（剩余 HP 不足 30%）（通用，1/2）
+> 「ぎゃあああっ!!……はぁ、はぁ、はぁ」
+"Ahhhhhh!!...Ha, ha, ha"
+
+@12759 Allenby · アレンビー
+# Kích hoạt: 重伤（剩余 HP 不足 30%）（通用，2/2）
+> 「あ、あぎゃぁぁぁっ!!」
+"A, ahhhhhh!!"
+
+@12760 Allenby · アレンビー
+# Kích hoạt: 中伤（剩余 HP 30–90%）（通用，1/3）
+> 「くっ!
+>  負けないよ絶対……ぜぇったいっ!!」
+"Hmm! Tôi sẽ không bao giờ thua...chắc chắn rồi!!"
+
+@12761 Allenby · アレンビー
+# Kích hoạt: 中伤（剩余 HP 30–90%）（通用，2/3）
+> 「そうだよ……もっとファイトしようよ!!」
+"Vậy đó...đấu với tôi thêm chút nữa đi!!"
+
+@12762 Allenby · アレンビー
+# Kích hoạt: 中伤（剩余 HP 30–90%）（通用，3/3）
+> 「うぎゃっ!!」
+"Ối!!"
+
+@12763 Allenby · アレンビー
+# Kích hoạt: 轻伤（剩余 HP 90% 以上）（通用，1/2）
+> 「ッ!?
+>  そんなの……そんなの攻撃じゃないよ!」
+"!? Đó...đó hoàn toàn không phải là một đòn tấn công!"
+
+@12764 Allenby · アレンビー
+# Kích hoạt: 轻伤（剩余 HP 90% 以上）（通用，2/2）
+> 「もっと! もっと! 本気だしてよ!!」
+"Hãy đến lần nữa! Hãy đến lần nữa! Hãy thể hiện kỹ năng thực sự của bạn!!"
+
+@12765 Allenby · アレンビー
+# Kích hoạt: Né tránh（通用，1/2）
+> 「やらせないよっ!!」
+"Tôi sẽ không để bạn thành công!!"
+
+@12766 Allenby · アレンビー
+# Kích hoạt: Né tránh（通用，2/2）
+> 「みえる! みえるよっ!!」
+"Tôi có thể nhìn thấy nó! Tôi có thể nhìn thấy nó!!"
+
+@12767 Allenby · アレンビー
+# Kích hoạt: Tấn công无效（护罩／装甲）（通用，1/2）
+> 「効くもんかぁーっ!!」
+“Làm sao nó có thể hữu ích được-!!”
+
+@12768 Allenby · アレンビー
+# Kích hoạt: Tấn công无效（护罩／装甲）（通用，2/2）
+> 「ビームなんて効くもんかぁーっ!!」
+“Làm sao một tia sáng hay thứ gì đó có thể hữu dụng được-!!”
+
+@12769 Allenby · アレンビー
+# Kích hoạt: 弹药／EN 不足，无法反击（通用，1/1）
+> 「ちぇっ! だめか!?」
+"Tsk! Không thể chiến đấu được nữa!?"
+
+@12770 Allenby · アレンビー
+# Kích hoạt: 射程外，无法反击（通用，1/2）
+> 「くうぅぅぅっ!!」
+"Uuuuuuuuuuuuuuuuuuuuuuu"
+
+@12771 Allenby · アレンビー
+# Kích hoạt: 射程外，无法反击（通用，2/2）
+> 「届かないじゃないかぁっ!!」
+“Đơn giản là nó nằm ngoài tầm với!!”

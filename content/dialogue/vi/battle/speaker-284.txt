@@ -1,0 +1,286 @@
+# Bản dịch tiếng Việt Super Robot Wars 64
+# Định dạng và vị trí: docs/guide/dialogue-text.md
+
+@8222 Quess · クェス
+# Kích hoạt: Tấn công (Chung，1/14）
+> 「みんな、落ちちゃえぇぇっ!!」
+“Tất cả các ngươi đều ngã xuống—!!”
+
+@8223 Quess · クェス
+# Kích hoạt: Tấn công (Chung，2/14）
+> 「邪魔すんじゃないっ!」
+"Tránh ra!"
+
+@8224 Quess · クェス
+# Kích hoạt: Tấn công (Chung，3/14）
+> 「落ちろ、落ちろ、落ちろ!」
+"Rơi xuống, rơi xuống, rơi xuống!"
+
+@8225 Quess · クェス
+# Kích hoạt: Tấn công (Chung，4/14）
+> 「それ以上好きにはやらせないよっ!!」
+"Tôi sẽ không để cậu làm bất cứ điều gì cậu muốn nữa!!"
+
+@8226 Quess · クェス
+# Kích hoạt: Tấn công (Chung，5/14）
+> 「あたしが相手よっ!!」
+"Đối thủ của bạn là tôi!!"
+
+@8227 Quess · クェス
+# Kích hoạt: Tấn công (Chung，6/14）
+> 「あたしだって、やってみせるっ!」
+"Ta cũng có thể làm được, ngươi xem đi!"
+
+@8228 Quess · クェス
+# Kích hoạt: Tấn công (Chung，7/14）
+> 「おちちゃえーっ!!」
+“Ngã xuống——!!”
+
+@8229 Quess · クェス
+# Kích hoạt: Tấn công (Chung，8/14）
+> 「おちなさいっ!!」
+"Rớt nó đi!!"
+
+@8230 Quess · クェス
+# Kích hoạt: Tấn công (Chung，9/14）
+> 「みんな! 落ちちゃえー!!」
+"Các ngươi! Tất cả các ngươi, quỳ xuống——!!"
+
+@8231 Quess · クェス
+# Kích hoạt: Tấn công (Chung，10/14）
+> 「じゃまよっ!」
+"Tránh ra!"
+
+@8232 Quess · クェス
+# Kích hoạt: Tấn công (Chung，11/14）
+> 「そこっ!!」
+“Chính là nó!!”
+
+@8233 Quess · クェス
+# Kích hoạt: Tấn công (Chung，12/14）
+> 「落ちなさいっ!!」
+"Rớt nó đi!!"
+
+@8234 Quess · クェス
+# Kích hoạt: Tấn công (Chung，13/14）
+> 「あててみせるっ!!」
+"Xem tôi đánh cậu đấy!!"
+
+@8235 Quess · クェス
+# Kích hoạt: Tấn công (Chung，14/14）
+> 「やらせないよっ!!」
+"Tôi sẽ không để bạn thành công!!"
+
+@8236 Quess · クェス
+# Kích hoạt: 被击坠（通用，1/4）
+> 「しまった!? ここまで!?」
+"Ối!? Thế là xong rồi à!?"
+
+@8237 Quess · クェス
+# Kích hoạt: 被击坠（通用，2/4）
+> 「きゃあああっ!!」
+"Ahhhhhh!!"
+
+@8238 Quess · クェス
+# Kích hoạt: 被击坠（通用，3/4）
+> 「ダメ、やられちゃうっ!!」
+“Không, tôi sẽ bị bắn hạ mất!!”
+
+@8239 Quess · クェス
+# Kích hoạt: 被击坠（通用，4/4）
+> 「直撃!?」
+“Bị đánh à!?”
+
+@8240 Quess · クェス
+# Kích hoạt: 重伤（剩余 HP 不足 30%）（通用，1/6）
+> 「くうっ! な、なんなの、このパワーは!?」
+"Hmm! Đây là loại sức mạnh gì vậy!?"
+
+@8241 Quess · クェス
+# Kích hoạt: 重伤（剩余 HP 不足 30%）（通用，2/6）
+> 「あうっ!! こ、これじゃ機体が
+>  もたない!?」
+"A! Cơ thể như thế này không thể trụ vững được!?"
+
+@8242 Quess · クェス
+# Kích hoạt: 重伤（剩余 HP 不足 30%）（通用，3/6）
+> 「きゃあっ! こんなパワーがあるなんて……」
+"A! Thực ra tôi có loại sức mạnh này..."
+
+@8243 Quess · クェス
+# Kích hoạt: 重伤（剩余 HP 不足 30%）（通用，4/6）
+> 「直撃!?」
+“Bị đánh à!?”
+
+@8244 Quess · クェス
+# Kích hoạt: 重伤（剩余 HP 不足 30%）（通用，5/6）
+> 「うっ! やられる!?」
+"Ừm! Nó sắp kết thúc rồi!?"
+
+@8245 Quess · クェス
+# Kích hoạt: 重伤（剩余 HP 不足 30%）（通用，6/6）
+> 「きゃあっ!」
+"Ừ!"
+
+@8246 Quess · クェス
+# Kích hoạt: 中伤（剩余 HP 30–90%）（通用，1/8）
+> 「このっ! このくらいなら落ちないよっ!」
+"Chết tiệt! Vết thương này khiến tôi không thể ngã được!"
+
+@8247 Quess · クェス
+# Kích hoạt: 中伤（剩余 HP 30–90%）（通用，2/8）
+> 「あうっ! この程度でやられるもんか!」
+"A! Vết thương nhỏ này đánh không lại được ta!"
+
+@8248 Quess · クェス
+# Kích hoạt: 中伤（剩余 HP 30–90%）（通用，3/8）
+> 「なんでさ!」
+"Tại sao!"
+
+@8249 Quess · クェス
+# Kích hoạt: 中伤（剩余 HP 30–90%）（通用，4/8）
+> 「何なの!?」
+"Cái gì!?"
+
+@8250 Quess · クェス
+# Kích hoạt: 中伤（剩余 HP 30–90%）（通用，5/8）
+> 「あ、あああっ!!」
+"A, a a a!!"
+
+@8251 Quess · クェス
+# Kích hoạt: 中伤（剩余 HP 30–90%）（通用，6/8）
+> 「くっ!! まだっ!!」
+"Ugh!! Vẫn chưa kết thúc đâu!!"
+
+@8252 Quess · クェス
+# Kích hoạt: 中伤（剩余 HP 30–90%）（通用，7/8）
+> 「やったわねっ!」
+"Sao ngươi dám đánh ta!"
+
+@8253 Quess · クェス
+# Kích hoạt: 中伤（剩余 HP 30–90%）（通用，8/8）
+> 「くっ! まだいける!」
+"Hmm! Tôi vẫn có thể chiến đấu!"
+
+@8254 Quess · クェス
+# Kích hoạt: 轻伤（剩余 HP 90% 以上）（通用，1/6）
+> 「当たっただけ!」
+"Chỉ cần chạm nhẹ thôi!"
+
+@8255 Quess · クェス
+# Kích hoạt: 轻伤（剩余 HP 90% 以上）（通用，2/6）
+> 「こんな攻撃、効くもんかっ!」
+"Đòn tấn công này sẽ không có tác dụng!"
+
+@8256 Quess · クェス
+# Kích hoạt: 轻伤（剩余 HP 90% 以上）（通用，3/6）
+> 「何さ、こんなダメージっ!!」
+"Vết thương nhỏ này không là gì cả!"
+
+@8257 Quess · クェス
+# Kích hoạt: 轻伤（剩余 HP 90% 以上）（通用，4/6）
+> 「ああっ!」
+"À!"
+
+@8258 Quess · クェス
+# Kích hoạt: 轻伤（剩余 HP 90% 以上）（通用，5/6）
+> 「まだまだっ!!」
+“Vẫn còn sớm mà!!”
+
+@8259 Quess · クェス
+# Kích hoạt: 轻伤（剩余 HP 90% 以上）（通用，6/6）
+> 「まだ!! かすりキズ!」
+"Chưa xong đâu!! Chỉ là một vết xước thôi!"
+
+@8260 Quess · クェス
+# Kích hoạt: Né tránh（通用，1/5）
+> 「そこっ!」
+"Chính là nó!"
+
+@8261 Quess · クェス
+# Kích hoạt: Né tránh（通用，2/5）
+> 「このくらい、よけてみせる!!」
+"Tôi có thể né đòn tấn công này!!"
+
+@8262 Quess · クェス
+# Kích hoạt: Né tránh（通用，3/5）
+> 「見える、見えるよ!」
+"Tôi có thể nhìn thấy nó, tôi có thể nhìn thấy nó!"
+
+@8263 Quess · クェス
+# Kích hoạt: Né tránh（通用，4/5）
+> 「あたらないよ!!」
+"Không thể đánh tôi!!"
+
+@8264 Quess · クェス
+# Kích hoạt: Né tránh（通用，5/5）
+> 「みえる!!」
+"Bạn có thể thấy nó!!"
+
+@8265 Quess · クェス
+# Kích hoạt: Tấn công无效（护罩／装甲）（通用，1/3）
+> 「その程度のビーム、
+>  弾き飛ばすんだからっ!」
+“Tôi sẽ đánh bật chùm ánh sáng này đi ngay lập tức!”
+
+@8266 Quess · クェス
+# Kích hoạt: Tấn công无效（护罩／装甲）（通用，2/3）
+> 「ムダよ!!」
+"Thật vô dụng!!"
+
+@8267 Quess · クェス
+# Kích hoạt: Tấn công无效（护罩／装甲）（通用，3/3）
+> 「ビームなんて!!」
+"Chùm tia là gì?"
+
+@8268 Quess · クェス
+# Kích hoạt: 弹药／EN 不足，无法反击（通用，1/2）
+> 「え!? 何!? 弾切れなの!?」
+"Ể!? Cái gì!? Chúng ta hết đạn rồi!?"
+
+@8269 Quess · クェス
+# Kích hoạt: 弹药／EN 不足，无法反击（通用，2/2）
+> 「だめ、反撃不可能!」
+"Không, không có cách nào đánh trả!"
+
+@8270 Quess · クェス
+# Kích hoạt: 射程外，无法反击（通用，1/2）
+> 「なんでぇっ!? あんなとこから攻撃が
+>  届くの!?」
+"Tại sao!? Bạn có thể đánh nó từ khoảng cách xa như vậy!?"
+
+@8271 Quess · クェス
+# Kích hoạt: 射程外，无法反击（通用，2/2）
+> 「だめ、とどかない!」
+"Không, tôi không thể với tới được!"
+
+@14589 Quess · クェス
+# Kích hoạt: 使用〈ファンネル／マザーファンネル〉
+> 「いけっ! ファンネルたち!」
+"Nào! Pháo nổi của tôi!"
+
+@14590 Quess · クェス
+# Kích hoạt: 使用〈ファンネル／マザーファンネル〉
+> 「ファンネル!!」
+"Pháo nổi!!"
+
+@14591 Quess · クェス
+# Kích hoạt: 使用〈ファンネル／マザーファンネル〉
+> 「ファンネル、いけっ!!」
+"Pháo nổi, tiến lên!!"
+
+@14592 Quess · クェス
+# Kích hoạt: 使用〈フィンファンネル〉
+> 「フィンファンネル、お願いっ!!」
+"Pháo vây, làm ơn!!"
+
+@14593 Quess · クェス
+# Kích hoạt: 使用〈フィンファンネル〉
+> 「いけっ! フィンファンネル!!」
+"Nào! Pháo nổi hình vây!!"
+
+@14594 Quess · クェス
+# Kích hoạt: 使用〈ハイメガキャノン〉（低优先，可能被通用台词顶掉）
+> 「エネルギー充填……
+>  いけっ! ハイメガキャノン!!」
+"Nạp năng lượng... tiếp tục! Mega Cannon năng lượng cao!!"

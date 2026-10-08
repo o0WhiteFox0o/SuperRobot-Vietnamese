@@ -1,0 +1,156 @@
+# Bản dịch tiếng Việt Super Robot Wars 64
+# Định dạng và vị trí: docs/guide/dialogue-text.md
+
+@50911 Remy · レミー
+> 「……それじゃあなたたちも
+>  レジスタンス部隊に合流するの?」
+"Vậy ngươi cũng muốn gia nhập tổ chức kháng chiến?"
+
+@50912 Kappei · 勝平
+> 「そうなんだよね。俺は乗り気じゃ
+>  ないんだけど、じっちゃんのいいつけでね」
+"Ừ. Thực ra tôi có chút miễn cưỡng, nhưng đây là mệnh lệnh của ông nội."
+
+@50913 Keiko · 恵子
+> 「地球を救うために、
+>  レジスタンス部隊と協力して
+"Ông nội yêu cầu chúng tôi hợp tác với lực lượng kháng chiến để cứu trái đất.
+---
+>  敵と戦えっていわれたんです」
+Chiến đấu với kẻ thù. "
+
+@50914 Remy · レミー
+> 「私たちもレジスタンス部隊に
+>  聞きたいことがあるのよ
+“Chúng tôi cũng có chuyện muốn hỏi lực lượng kháng chiến.
+---
+>  ……私たちはドクーガっていう組織を
+>  追っているんだけど、帝国軍と
+...Chúng tôi đang theo dõi một tổ chức tên là Poison Fang. Có thông tin tình báo rằng họ
+---
+>  共同で何らかの行動を
+>  起こすっていう情報があったのよ
+Bạn đang lên kế hoạch hành động gì cùng với Quân đội Hoàng gia?
+---
+>  レジスタンス部隊だったら
+>  何か知っていることが
+Chúng tôi nghĩ rằng nếu lực lượng kháng chiến
+---
+>  あるんじゃないかって……」
+Bạn sẽ biết những gì..."
+
+@50915 Kappei · 勝平
+> 「でもホント、助かったよ。
+>  こっちのレーダーは故障しちまって
+“Nhưng nó thực sự có ích. Radar của chúng tôi ở đây bị hỏng.
+---
+>  部隊を探すの、
+>  あきらめようかって時だったから」
+Tôi đã nghĩ đến việc từ bỏ việc tìm kiếm quân đội. "
+
+@50916 Shingo · 真吾
+> 「俺たちはあらかじめ
+>  部隊に連絡して
+"Chúng tôi đã liên lạc trước với quân đội,
+---
+>  合流地点を決めておいたからな」
+Địa điểm gặp mặt đã được quyết định. "
+
+@50917 Kappei · 勝平
+> 「旅は道連れ、世は情けってね。
+>  ま、仲良く行きましょうや」
+"Đi ra ngoài dựa vào bạn đồng hành, trong cuộc sống dựa vào ân huệ. Tóm lại, chúng ta hãy hòa thuận."
+
+@50918 Uchuta · 宇宙太
+> 「もうそろそろ合流地点だぜ……あれ
+>  かな? レジスタンス部隊とやらは……」
+“Gần đến điểm hẹn rồi…phải không? Cái gọi là lực lượng kháng cự…”
+
+@50919 Remy · レミー
+> 「……違うみたいね。
+>  どうやら敵部隊のお出ましのようね」
+"...Có vẻ như không. Có vẻ như kẻ thù đang đến. "
+
+@50920 Kappei · 勝平
+> 「ヤバイぜ! 俺たちのこと、
+>  気づいたみたいだ!」
+"Rất tiếc! Có vẻ như họ đã phát hiện ra chúng ta!"
+
+@50921 Killy · キリー
+> 「奴らを倒さなきゃこれ以上は
+>  先に進めそうもないようだ」
+“Nếu chúng ta không giết chúng, có vẻ như chúng ta không thể đi tiếp được. "
+
+@50922 Shingo · 真吾
+> 「そんじゃ、出撃しますか」
+“Vậy thì tấn công. "
+
+@50923 Kappei · 勝平
+> 「俺たちもいくぜ!
+>  宇宙太、恵子、出撃だ!」
+“Chúng tôi cũng tới! Cosmos Tai, Keiko, tấn công!”
+
+@50924 Shingo · 真吾
+> 「ゴーショーグン、ゴー!」
+"Tướng Hảo, ĐI!"
+
+@50925 Kappei · 勝平
+> 「ザンボットコンビネーション!」
+"Zambo hợp nhất!"
+
+@50926 Chiyonishiki · 千代錦
+> 「ワン!」
+"Gâu! "
+
+@50927 Uchuta · 宇宙太
+> 「ツー!」
+"Hai!"
+
+@50928 Keiko · 恵子
+> 「スリー!」
+"Ba!"
+
+@50929 Killy · キリー
+> 「まだ『ブロンクスの狼』が
+>  書きあがってないのにね」
+“Nhưng The Wolf of the Bronx vẫn chưa kết thúc. "
+
+@50930 Kappei · 勝平
+> 「そんなバカな……
+>  クソッ、負けるのかよぉ」
+"Sao có thể... Chết tiệt, cậu sắp thua à?"
+
+@50931 Keiko · 恵子
+> 「きゃあぁぁぁーっ!!」
+“Ahhhhhhhhh——!!”
+
+@50932 Uchuta · 宇宙太
+> 「うわあぁぁっ!」
+“Ồ! "
+
+@50933 Kappei · 勝平
+> 「へへーん、ざまぁみろ」
+“Hehe, bạn đáng bị như vậy. "
+
+@50934 Remy · レミー
+> 「……終わったわね。グッドサンダーチーム
+>  ここにありって感じ!」
+“…Mọi chuyện đã kết thúc. Bây giờ hãy gọi Sấm sét hành động!”
+
+@50935 Keiko · 恵子
+> 「見て、勝平。
+>  あれ、レジスタンス部隊じゃないかしら」
+"Nhìn xem, Shengping. Chẳng lẽ đó là tổ chức kháng chiến?"
+
+@50936 Kappei · 勝平
+> 「……あれってレジスタンス部隊かい?」
+“…Đó có phải là lực lượng kháng cự không? "
+
+@50937 Shingo · 真吾
+> 「……どうやらそうみたいだ。
+>  やっと合流できるな」
+"...Có vẻ như vậy. Cuối cùng chúng ta cũng có thể gặp nhau."
+
+@50938 Kappei · 勝平
+> 「へへん、いっちょ暴れてやりますか」
+"Này, chúng ta đi làm một cảnh đi."

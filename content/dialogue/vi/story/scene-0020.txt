@@ -1,0 +1,1853 @@
+# Bản dịch tiếng Việt Super Robot Wars 64
+# Định dạng và vị trí: docs/guide/dialogue-text.md
+
+@20489 Lady · レディ
+> 「アウドムラはタクラマカン砂漠を
+>  抜けるルートをとるか
+“Liệu Odomla có đi qua sa mạc Taklimakan không?
+---
+>  ……目的が読めんな」
+…Tôi thực sự không thể nhìn thấu mục đích của họ. "
+
+@20490 Zechs · ゼクス
+> 「レディ・アン特佐、どういうおつもりか」
+"Letty Antezow, ý bạn là gì?"
+
+@20491 Lady · レディ
+> 「なにがだ?」
+"Ý bạn là gì?"
+
+@20492 Zechs · ゼクス
+> 「ホンコンの件、それとアウドムラに
+>  追撃隊を出している件
+“Vấn đề ở Hồng Kông và vấn đề cử đội truy đuổi truy đuổi Odomla.
+---
+>  トレーズ閣下は連中に対しては、
+>  様子見にまわるお考えのはず」
+Ông Telles có lẽ đã lên kế hoạch chờ xem điều gì sẽ xảy ra với nhóm người đó. "
+
+@20493 Lady · レディ
+> 「貴様に意見されることではない。
+>  機会があれば
+“Đó không phải là nơi để bạn tham gia. Hãy tấn công khi bạn có cơ hội
+---
+>  レジスタンスを叩くのは当然だ。
+>  多少市民に犠牲が
+Sự phản kháng, đó là điều hiển nhiên. Ngay cả những công dân
+---
+>  出たところで、どうというものでも
+>  あるまい」
+Một số hy sinh không là gì cả. "
+
+@20494 Zechs · ゼクス
+> 「ウォンのようなやからの実験部隊を
+>  動かしてまでか。特佐、
+"Kể cả việc sử dụng đội quân thử nghiệm của những người như Huang? Tezo,
+---
+>  追撃隊を帰還させるんだ。それは
+>  トレーズ閣下の望むところではない
+Kéo đội truy đuổi lại. Đây không phải là điều ông Telles mong muốn.
+---
+>  特佐は閣下の考えを
+>  理解していない」
+Bạn hoàn toàn không hiểu được suy nghĩ của mình. "
+
+@20495 Lady · レディ
+> 「理解していないのはゼクス、お前だ」
+“Anh mới là người không hiểu, Jax.”
+
+@20496 Noin · ノイン
+> 「いいえ、貴女です。
+>  レディ・アン特佐
+“Không, là em. Letty Antezow.
+---
+>  このような戦いは
+>  閣下は望んでおりません」
+Loại trận chiến này không phải là điều bạn muốn. "
+
+@20497 Lady · レディ
+> 「私に指図するつもりか!?
+>  貴様らは黙って見ていればよいのだ」
+"Bạn có muốn ra lệnh cho tôi không!? Hãy im lặng và xem!"
+
+@20498 Bright · ブライト
+> 「これだけ大きく迂回していけば、
+>  目的地も、そう簡単には
+"Trong một vòng tròn lớn như vậy, đích đến của chúng ta
+---
+>  わからないだろう」
+Nó không nên dễ dàng để nhìn xuyên qua. "
+
+@20499 Amuro · アムロ
+> 「ああ、それに沿岸部の基地からも
+>  発見されにくいしな」
+"Ừ, hơn nữa căn cứ ven biển cũng không dễ dàng bị phát hiện."
+
+@20500 Bright · ブライト
+> 「そういうことだ」
+"Chính xác. "
+
+@20501 Quattro · クワトロ
+> 「しかし問題がないこともない」
+"Nhưng không phải là không có vấn đề."
+
+@20502 Bright · ブライト
+> 「大尉、どういうことだ?」
+"Đội trưởng, có chuyện gì vậy?"
+
+@20503 Quattro · クワトロ
+> 「先ほど本部から入った
+>  情報によれば
+“Theo thông tin vừa được gửi từ trụ sở,
+---
+>  現在各地で、所属不明の
+>  部隊が出現しているらしい」
+Đội quân không rõ liên kết hiện đang xuất hiện ở nhiều nơi. "
+
+@20504 Amuro · アムロ
+> 「しかし解放戦線でもカラバでも
+>  知らないとなれば、レジスタンスでは
+“Nhưng vì cả Mặt trận Giải phóng và Calabar đều không biết nên đây không phải là một nhóm kháng chiến.
+---
+>  ないだろう。帝国軍の
+>  特殊部隊か、なにかなのでは?」
+Thôi nào. Đó là lực lượng đặc biệt của Quân đội Hoàng gia hay cái gì khác? "
+
+@20505 Quattro · クワトロ
+> 「いや、帝国軍でも、これの対応に
+>  追われているらしい。情報では
+“Không, người ta nói rằng ngay cả Quân đội Hoàng gia cũng đang bận phản ứng. Tình báo cho biết
+---
+>  巨大な戦艦や、見たこともない
+>  人型マシンを有しているそうだ
+Họ có những thiết giáp hạm khổng lồ và những cỗ máy hình người chưa từng thấy trước đây.
+---
+>  それに、未確認だが本当に
+>  突然“出現”したという
+Hơn nữa, mặc dù vẫn chưa được xác nhận nhưng họ thực sự 'xuất hiện' một cách đột ngột——
+---
+>  報告もある」
+Cũng có những báo cáo như vậy. "
+
+@20506 Ryoma · リョウ
+> 「まさか、百鬼一族や
+>  ミケーネでしょうか」
+“Có thể là Bách Quỷ Tộc hay Mycenae?”
+
+@20507 Quattro · クワトロ
+> 「そうとは思えんな。
+>  しかし不可解ではある」
+"Tôi không nghĩ vậy. Nhưng nó thật khó hiểu."
+
+@20508 Roux · ルー
+> 「ブレックス准将やイゴール将軍は
+>  なんといってるんですか?
+“Chuẩn tướng Blakes và Tướng Eagle đã nói gì?
+---
+>  また、接触しろとでも?」
+Chúng ta có nên liên lạc lại không? "
+
+@20509 Quattro · クワトロ
+> 「さすがに、こうも謎では危険すぎると
+>  判断されたようだな
+"Có vẻ như họ cũng nghĩ rằng việc không biết chi tiết như vậy là quá nguy hiểm.
+---
+>  まずはチベットに向かうことを
+>  優先しろということだが……」
+Chỉ thị là phải đến Tây Tạng trước, nhưng…”
+
+@20510 Kamille · カミーユ
+> 「問題がある?」
+"Có vấn đề gì à?"
+
+@20511 Quattro · クワトロ
+> 「そうだ。その正体不明の一軍が
+>  この近くにも出現しているらしい」
+"Đúng vậy. Hình như có một thế lực không xác định đã xuất hiện ở gần đó."
+
+@20512 Bright · ブライト
+> 「それは……やっかいだな」
+"Việc đó... thực sự rắc rối."
+
+@20513 Banjo · 万丈
+> 「みんな、ちょっと来てくれないか」
+"Mọi người, có thể tới đây không?"
+
+@20514 Amuro · アムロ
+> 「どうしたんだ?」
+"Có chuyện gì thế?"
+
+@20515 Banjo · 万丈
+> 「ちょっと妙な情報が入ってね。
+>  ギャリソン」
+"Nhận được một số thông tin lạ. Garrison."
+
+@20516 Garrison · ギャリソン
+> 「はい。私どもがつかんだ情報に
+>  よりますと、現在各地に
+"Đúng. Theo thông tin tình báo chúng tôi có, bây giờ ở khắp mọi nơi
+---
+>  所属不明の謎の部隊が
+>  出現しているようでございます
+Những đội quân bí ẩn không rõ nguồn gốc dường như đã xuất hiện.
+---
+>  少なくとも
+>  レジスタンス組織ではありません」
+Ít nhất không phải là phe Kháng chiến. "
+
+@20517 Koji · 甲児
+> 「どうせ占領軍の特殊部隊か
+>  何かだろ」
+“Dù sao đi nữa, đó là một loại đơn vị đặc biệt của quân đội chiếm đóng.”
+
+@20518 Garrison · ギャリソン
+> 「いいえ、帝国軍もこれの対応に
+>  追われているようですので、
+"Không, Quân đội Hoàng gia có vẻ đang bận giải quyết vấn đề này.
+---
+>  それはないでしょう」
+Vì vậy nó không nên như vậy. "
+
+@20519 Ryoma · リョウ
+> 「とすると……
+>  まさか百鬼一族やミケーネが?」
+"Vậy... đó có thể là tộc Trăm Quỷ hay Mycenae?"
+
+@20520 Banjo · 万丈
+> 「いや、連中が帝国に
+>  反抗するために用意したにしては
+"Không, nếu nói rằng những người đó đã chuẩn bị nó để chống lại đế quốc,
+---
+>  それほど数が多いわけでもないようだ」
+Con số có vẻ không nhiều. "
+
+@20521 Koji · 甲児
+> 「なんだよ、さっぱりわからないじゃねぇか」
+"Cái gì? Tôi không hiểu gì cả."
+
+@20522 Garrison · ギャリソン
+> 「ですから、所属不明の
+>  謎の部隊と申し上げたのですよ」
+“Đó là lý do tại sao tôi nói đó là một thế lực bí ẩn không rõ nguồn gốc.”
+
+@20523 Bright · ブライト
+> 「正体を探るのは、あとでいい。
+>  それよりも
+"Chúng ta sẽ kiểm tra nguồn gốc sau. Hãy nói về nó trước.
+---
+>  何か問題があるのだろう?」
+Điều gì đã xảy ra? "
+
+@20524 Banjo · 万丈
+> 「そう。実はこの近隣地域にも
+>  出現しているらしいんだ」
+"Đúng vậy. Tôi nghe nói nó cũng xuất hiện quanh đây."
+
+@20525 Beauty · ビューティ
+> 「あらやだ。それって接触するかも
+>  しれないってことでしょう?」
+"Ồ, thật khó chịu. Không phải điều đó có nghĩa là chúng ta có thể gặp phải họ sao?"
+
+@20526 Banjo · 万丈
+> 「そういうこと。
+>  みんな、準備だけはしておいてほしい
+“Vậy đó. Mọi người, ít nhất hãy chuẩn bị trước đã.
+---
+>  スペシャルズの追撃隊も
+>  あきらめていないようだしね」
+Có vẻ như đội truy đuổi của lực lượng đặc biệt vẫn chưa bỏ cuộc. "
+
+@20527 Ryo · 亮
+> 「そういえば沙羅、
+>  お前確か、シャピロを探していたな
+"Nói đến Sharo, tôi nhớ cậu đang tìm Shapiro.
+---
+>  見つかったのか、奴は?」
+Bạn có tìm thấy anh ấy không? "
+
+@20528 Simone · シモーヌ
+> 「なぁに、恋人? そのシャピロって」
+"Cái gì, Shapiro đó là người yêu của bạn à?"
+
+@20529 Sara · 沙羅
+> 「……あんたたちには、関係ないよ」
+"...Nó không liên quan gì tới cậu cả."
+
+@20530 Masato · 雅人
+> 「ちょっと沙羅、どこいくのさ」
+"Đợi một chút Sara, em đi đâu thế?"
+
+@20531 Shinobu · 忍
+> 「ほっといてやれよ」
+“Hãy để cô ấy yên.”
+
+@20532 Ryo · 亮
+> 「忍、お前何か知っているのか」
+"Shinobu, cậu có biết gì không?"
+
+@20533 Shinobu · 忍
+> 「ああ……シャピロは、あのクソ野郎は
+>  ムゲに寝返りやがったんだ」
+"Chà... Shapiro, tên khốn đó đã trốn sang Moog."
+
+@20534 Masato · 雅人
+> 「それってホントかい、忍?」
+“Có đúng vậy không Shinobu?”
+
+@20535 Simone · シモーヌ
+> 「誰なの、その人?」
+"Người đó là ai?"
+
+@20536 Shinobu · 忍
+> 「あんたのいったとおり、沙羅の恋人
+>  そして士官学校で俺たちの
+"Như bạn đã nói, anh ấy là người yêu của Sharo,
+---
+>  教官だった男さ」
+Anh ấy cũng là người hướng dẫn của chúng tôi tại học viện quân sự. "
+
+@20537 Simone · シモーヌ
+> 「まずいこと、いっちゃったわね」
+"Có vẻ như tôi đã nói sai."
+
+@20538 Ryo · 亮
+> 「それで、あいつは?」
+"Còn những người khác thì sao?"
+
+@20539 Shinobu · 忍
+> 「行方不明さ。お前らには
+>  黙ってたが、終戦前に
+"Không rõ tung tích ở đâu. Tôi chưa bao giờ nói với bạn điều đó trước khi đình chiến,
+---
+>  確かに奴が帝国側にいたことは
+>  確認している。だが、戦後の
+Tôi đã xác nhận rằng anh ấy đứng về phía Đế quốc. Nhưng sau chiến tranh
+---
+>  帝国軍に奴の姿はなかった。
+>  俺が知ってるのはそれだけだ」
+Không có thứ gì giống như anh ta trong Quân đội Hoàng gia. Đó là tất cả những gì tôi biết. "
+
+@20540 Masato · 雅人
+> 「帝国軍に殺されちゃったのかな」
+"Có thể nào anh ta đã bị Quân đội Hoàng gia giết chết?"
+
+@20541 Shinobu · 忍
+> 「さあな。どうだっていいさ、
+>  あんな裏切り者のことはな」
+"Ai biết được. Loại phản bội đó sống hay chết không quan trọng."
+
+@20542 Ark · アーク（按段落 3DD1）
+> 「お前、勝手にいじるな!」
+"Anh, đừng chạm vào nó!"
+
+@20543 Lera · レラ
+> 「整備を手伝ってるんだ。
+>  勝手にやってるわけじゃない」
+"Tôi đang giúp chuẩn bị, tôi không tự mình làm lung tung."
+
+@20544 Astonaige · アストナージ
+> 「俺がやらせてるんだ、{HeroName}。
+>  その娘は、なかなかスジがいい」
+"Tôi nhờ cô ấy làm việc đó, {HeroName}. Cô gái này khá tài năng."
+
+@20545 Ark · アーク（按段落 3DD1）
+> 「そう……なんですか」
+"Ừ...chính là nó."
+
+@20546 Lera · レラ
+> 「ふんっ」
+"Hừm. "
+
+@20547 Ark · アーク（按段落 3DD1）
+> 「敵!?」
+"Kẻ thù!?"
+
+@20548 Selain · セレイン（按段落 3DD2）
+> 「お前、何をしている?」
+"Bạn đang làm gì vậy?"
+
+@20549 Lera · レラ
+> 「整備を手伝ってるんだ。
+>  勝手にやってるわけじゃない」
+"Tôi đang giúp chuẩn bị, tôi không tự mình làm lung tung."
+
+@20550 Astonaige · アストナージ
+> 「俺がやらせてるんだ、{HeroName}。
+>  その娘は、なかなかスジがいい」
+"Tôi nhờ cô ấy làm việc đó, {HeroName}. Cô gái này khá tài năng."
+
+@20551 Selain · セレイン（按段落 3DD2）
+> 「なら、いい」
+"Điều đó tốt đấy."
+
+@20552 Lera · レラ
+> 「ふんっ」
+"Hừm. "
+
+@20553 Selain · セレイン（按段落 3DD2）
+> 「ん?……敵か」
+“Hả?…Có kẻ thù.”
+
+@20554 Bright · ブライト
+> 「どうした!?」
+"Có chuyện gì thế!?"
+
+@20555 Roberto · ロベルト
+> 「未確認機です。
+>  例のやつじゃないですかね」
+“Đó là một chiếc máy chưa được xác nhận. Có thể nào đó là chiếc máy tôi đã đề cập trước đó không?”
+
+@20556 Bright · ブライト
+> 「数は?」
+"Có bao nhiêu?"
+
+@20557 Roberto · ロベルト
+> 「今のところ2機だけです」
+"Hiện tại chỉ có hai người."
+
+@20558 Bright · ブライト
+> 「2機? それだけか?」
+"Hai? Chỉ thế thôi à?"
+
+@20559 Amuro · アムロ
+> 「接触してみるか、ブライト?
+>  たとえ敵でも、2機程度なら
+“Anh có muốn liên lạc và gặp mặt không Brett? Cho dù họ có là kẻ thù thì cũng chỉ có hai người mà thôi.
+---
+>  なんとかなる」
+Tôi cũng có thể xử lý nó. "
+
+@20560 Bright · ブライト
+> 「よし、やってみるか」
+"Được rồi, chúng ta thử xem."
+
+@20561 Banjo · 万丈
+> 「どうしたんだ?」
+"Có chuyện gì thế?"
+
+@20562 Reika · レイカ
+> 「あ、万丈。
+>  それが、例の未確認機らしいの」
+"A, Vạn Chương. Hình như là chiếc máy bay không xác định được nhắc đến trước đó."
+
+@20563 Bright · ブライト
+> 「現在確認されている数は2機
+>  のみだ。接触してみるつもりでいるが?」
+"Con số được xác nhận cho đến nay chỉ có hai. Tôi dự định liên lạc với họ, bạn nghĩ sao?"
+
+@20564 Banjo · 万丈
+> 「ええ、そうしましょう。
+>  正体を確認したい」
+"Được rồi, làm thôi. Tôi muốn tìm xem họ ở đâu."
+
+@20565 Show · ショウ
+> 「やめろガラリア!
+>  戦っているヒマは、ないんだ!」
+"Dừng lại đi, Kalalia! Bây giờ chúng ta không có thời gian cho kiểu chiến đấu này!"
+
+@20566 Garalia · ガラリア
+> 「バイストンウェルに帰れぬとあらば、
+>  せめてお前を倒さずして
+"Vì tôi không thể quay lại Baiston Will nên ít nhất tôi sẽ không đánh bại bạn.
+---
+>  なんの戦士か!」
+Thật là một chiến binh! "
+
+@20567 Show · ショウ
+> 「あの軍勢を見ただろう!? あれは
+>  地上のものでも、バイストンウェルの
+“Bạn có thấy đội quân đó không!? Nó không đến từ mặt đất, hay từ Baiston Weir.
+---
+>  ものでもなかった。地上は何か
+>  おかしなことになっているんだ!」
+quân đội. Chắc chắn có điều gì đó kỳ lạ đang xảy ra trên mặt đất! "
+
+@20568 Garalia · ガラリア
+> 「私には関係ない!」
+"Không liên quan gì đến tôi!"
+
+@20569 Chum · チャム
+> 「ショウ、もうもたないよ!」
+"Hương, tôi không thể nhịn được nữa!"
+
+@20570 Show · ショウ
+> 「チャム、邪魔だ!」
+"Chamu, tránh ra!"
+
+@20571 Chum · チャム
+> 「変なトコさわらないでよ、すけべぇ!」
+"Đừng chạm vào những nơi kỳ lạ, đồ biến thái!"
+
+@20572 Show · ショウ
+> 「そんな場合じゃないだろ! ガラリア、
+>  俺たち以外にも地上に出ている
+“Bây giờ không phải là lúc để làm việc này! Kalalia, ngoài chúng ta ra, chắc hẳn còn có những người khác trên mặt đất.”
+---
+>  者がいるはずだ。戻れる方法だって
+>  見つかるかもしれないだろ!?」
+Những người khác. Có lẽ chúng ta có thể tìm được đường quay lại! ? "
+
+@20573 Garalia · ガラリア
+> 「ならば、お前を倒した後で
+>  それを探す!」
+"Vậy sau khi đánh bại ngươi, ta sẽ tìm ngươi!"
+
+@20574 Chum · チャム
+> 「ショウ! 何か近づいてくる!」
+"Tường! Có gì đó đang đến!"
+
+@20575 Show · ショウ
+> 「なんだ!? ……ガラリア!」
+"Cái gì!?...Karalia!"
+
+@20576 Garalia · ガラリア
+> 「くっ……地上人の船か!?」
+"Hmm...đó có phải là tàu của ai đó trên mặt đất không!?"
+
+@20577 Amuro · アムロ
+> 「聞こえるか?
+>  我々に交戦の意思はない
+"Bạn có nghe thấy tôi nói không? Chúng tôi không có ý định đánh nhau.
+---
+>  君たちの所属を確認したい」
+Hãy cho biết bạn thuộc về nơi nào. "
+
+@20578 Show · ショウ
+> 「あの敵ではない?
+>  俺はショウ、ショウ・ザマだ
+"Vừa rồi không phải cùng một nhóm kẻ địch sao? Tôi là Xiang, Xiang Zama.
+---
+>  あんたたちと同じ地上人だ。
+>  攻撃はしないでくれ」
+Chúng tôi cũng là con người trần thế giống như bạn. Làm ơn đừng tấn công. "
+
+@20579 Amuro · アムロ
+> 「地上人?
+>  地球人ということか?
+"Người trái đất? Ý bạn là người trái đất?
+---
+>  攻撃はしない。
+>  状況を確認したいんだ」
+Chúng tôi sẽ không tấn công, chúng tôi chỉ đang cố gắng tìm hiểu tình hình. "
+
+@20580 Show · ショウ
+> 「俺はバイストンウェルから
+>  戻ってきたんだ
+"Tôi đã trở về từ Bystone Weir.
+---
+>  こっちこそ何がどうなっているのか
+>  わからないんだよ」
+Tôi chỉ muốn biết chuyện gì đang xảy ra. "
+
+@20581 Amuro · アムロ
+> 「バイストンウェル? どこのことだ?」
+"Đập Baiston? Nơi đó là gì vậy?"
+
+@20582 Show · ショウ
+> 「……海と大地の
+>  狭間にある世界だ
+“…Đó là một thế giới nằm giữa biển và đất.
+---
+>  ファンタジーの異世界みたいなものだ」
+Nó giống như một thế giới khác trong một câu chuyện giả tưởng. "
+
+@20583 Chum · チャム
+> 「ショウ、この人たち大丈夫なの?」
+"Tương, những người này có đáng tin cậy không?"
+
+@20584 Bright · ブライト
+> 「……な、なんだ? 小人……?」
+"...C-Cái gì? Nhân vật phản diện...?"
+
+@20585 Duo · デュオ
+> 「マジかよ、羽根がついてたぜぇ」
+“Đúng vậy, nó thậm chí còn có cánh.”
+
+@20586 Show · ショウ
+> 「こっちも聞かせてもらいたい。いったい
+>  地上はどうなってしまったんだ?」
+"Tôi cũng muốn hỏi bạn. Mặt đất đã trở nên như thế nào?"
+
+@20587 Amuro · アムロ
+> 「君は異星人ではないのだな?」
+“Anh không phải là người ngoài hành tinh phải không?”
+
+@20588 Show · ショウ
+> 「俺は地球人だよ」
+“Tôi đến từ Trái Đất.”
+
+@20589 Amuro · アムロ
+> 「……地球は異星人の帝国に
+>  占領されたんだよ」
+"...Trái đất bị tàn phá bởi một đế chế ngoài hành tinh."
+
+@20590 Show · ショウ
+> 「なんだって? じゃあ、あのときの
+>  連中が異星人ってことか……」
+"Anh nói gì cơ? Vậy những kẻ lúc đó là người ngoài hành tinh..."
+
+@20591 Amuro · アムロ
+> 「ショウくんといったな。
+>  君が地球人であるなら
+"Tên bạn là Xiang phải không? Vì bạn đến từ Trái đất,
+---
+>  協力してくれないか。
+>  君の事情も詳しく聞きたいし
+Bạn có thể giúp chúng tôi được không? Tôi cũng muốn nghe thêm về hoàn cảnh của bạn.
+---
+>  世界各地に君たちのような
+>  集団が出現しているんだ」
+Có những đội như của bạn xuất hiện trên khắp thế giới. "
+
+@20592 Show · ショウ
+> 「世界各地に?
+>  やはりジャコバ・アオンか
+"Trên khắp thế giới? Đúng là Jakoba Ivern,
+---
+>  フェラリオがしかけたんだ……」
+Hoặc có thể đó là lỗi của Ferario..."
+
+@20593 Garalia · ガラリア
+> 「ショウ! 貴様、地上人に
+>  己を売るのか?
+"Tương! Ngươi, ngươi định bán mình cho người trên trái đất sao?
+---
+>  やはり地上人同士の
+>  なれあいか!?」
+Chắc chắn rồi, con người trên trái đất đều có tính chất hóa học giống nhau! ? "
+
+@20594 Show · ショウ
+> 「落ち着けガラリア! やはり
+>  他にも地上に出てきているんだ
+“Bình tĩnh nào, Kalalia! Chắc chắn rồi, còn có những người khác đang ngã xuống đất.
+---
+>  バイストンウェルに戻れずに、
+>  こんなところで死ぬつもりか?
+Bạn định chết ở một nơi như thế này mà không thể quay lại Baiston Weir à?
+---
+>  俺はお前との戦いを避けてみせた。
+>  いいかげん少しくらいは
+Tôi đã tránh chiến đấu với bạn. Bạn cũng nên
+---
+>  話を聞いてくれ!」
+Hãy lắng nghe những gì tôi phải nói! "
+
+@20595 Chum · チャム
+> 「そおよ! 少しくらいいいじゃない!」
+"Chính là như vậy! Nghe vài câu thì có sao đâu!"
+
+@20596 Garalia · ガラリア
+> 「……わかった。私にどうしろというのだ、
+>  ショウ・ザマ」
+"... Hiểu rồi. Bạn muốn tôi làm gì, Zama Sho."
+
+@20597 Show · ショウ
+> 「この人たちと一緒にいくんだ。
+>  少なくとも敵じゃない
+“Đi với những người này. Ít nhất họ không phải là kẻ thù.
+---
+>  他の連中の情報も入る」
+Bạn cũng có thể nhận được tin tức từ người khác. "
+
+@20598 Garalia · ガラリア
+> 「……いいだろう。
+>  地上で死ぬのは犬死にだからな」
+"...Được rồi. Chết trên mặt đất chỉ là một cuộc sống vô ích."
+
+@20599 Bright · ブライト
+> 「……話は、ついたようだな」
+“…Có vẻ như thỏa thuận đã đạt được.”
+
+@20600 Amuro · アムロ
+> 「よし、二人ともこちらへ来て……」
+"Được rồi, hai người lại đây..."
+
+@20601 Quattro · クワトロ
+> 「敵だと!? うかつだったか」
+"Kẻ thù!? Chúng ta quá bất cẩn."
+
+@20602 Bern · バーン
+> 「ダンバイン!? ショウ・ザマか!!」
+"Danbein!? Có phải Sho Zama không!!"
+
+@20603 Show · ショウ
+> 「バーン・バニングス!?」
+"Barn Barninger!?"
+
+@20604 Garalia · ガラリア
+> 「バーンだと!?」
+"Nhà kho!?"
+
+@20605 Bern · バーン
+> 「ガラリアも一緒か? ふん、
+>  貴様ごときが裏切ったとて
+“Kalalia cũng ở đây à? Humph, ngay cả khi có người như cậu phản bội,
+---
+>  どうということもないわ。まとめて
+>  叩き落としてくれる!」
+Nó cũng không quan trọng. Tôi sẽ cùng nhau hạ gục tất cả các bạn! "
+
+@20606 Garalia · ガラリア
+> 「違う、私は……」
+"Không, tôi..."
+
+@20607 Bern · バーン
+> 「問答は無用だ! 覚悟!」
+"Không cần phải nói thêm nữa! Thức dậy! "
+
+@20608 Show · ショウ
+> 「バーン、状況を考えろ!
+>  ここは地上なんだぞ、戦いをやめろ!」
+"Barn, hiểu rõ tình huống! Đây là mặt đất, ngừng chiến đấu! "
+
+@20609 Bern · バーン
+> 「そうはいかん。地上で最初に
+>  会う者がお前だというのは
+“Điều đó không ổn. Người đầu tiên tôi gặp khi đến trái đất là bạn.
+---
+>  私にとっては僥倖なのだ。
+>  地上で死ねるのは幸せだと思え!」
+Đó là một ơn trời cho tôi. Hãy coi việc chết trên mặt đất là một điều may mắn! "
+
+@20610 Show · ショウ
+> 「僥倖だと……? 俺に会ったのが
+>  そんなに幸運か!?」
+“Một cơ hội được Chúa ban cho…? Bạn thật may mắn khi gặp được tôi phải không? ? "
+
+@20611 Bern · バーン
+> 「そうだ! 地上に来てまで、私は
+>  チャンスを与えられたのだ!」
+"Đúng vậy! Ngay cả trên mặt đất, tôi vẫn có cơ hội! "
+
+@20612 Show · ショウ
+> 「バイストンウェルの人間が地上に
+>  来てしまったっていうのに、そのことの
+"Người của Beston Weir đã đến hiện trường, nhưng bạn thậm chí còn không biết về vấn đề này.
+---
+>  意味も考えず、貴様は!」
+Đừng nghĩ tới ý nghĩa nữa bạn ơi! "
+
+@20613 Amuro · アムロ
+> 「どうしたというんだ、ショウくん!」
+"Có chuyện gì vậy, Xiang! "
+
+@20614 Show · ショウ
+> 「応戦してください! あいつは
+>  本気で、きます!」
+"Chiến đấu nhanh lên! Anh chàng đó nghiêm túc và sẽ chiến đấu! "
+
+@20615 Bright · ブライト
+> 「敵だというのか!?
+>  よし、出撃しろ!」
+"Có phải là kẻ thù không? ? Được rồi, tấn công! "
+
+@20616 Garalia · ガラリア
+> 「うわあぁぁぁぁーっ!!」
+"Aaahhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhh"
+
+@20617 Show · ショウ
+> 「くっ……ガラリア……」
+"Ừ...Karalia..."
+
+@20618 Chum · チャム
+> 「ショウ……」
+"Tương..."
+
+@20619 Show · ショウ
+> 「大丈夫だよ、チャム」
+"Không sao đâu, Cẩm. "
+
+@20620 Chum · チャム
+> 「……ショウ、あたしたち、本当に
+>  バイストンウェルに帰れるの?」
+"...Xiang, chúng ta thực sự có thể quay lại Baiston Will không? "
+
+@20621 Show · ショウ
+> 「わからない。その前にあの軍勢に
+>  やられるかもしれない……
+"Không biết. Trước đó, họ có thể bị quân đội đó giết chết...
+---
+>  地上で死ねるのがせめてもの幸せ
+>  かなって、考えることもあるんだ……」
+Đôi khi tôi cũng nghĩ, ít nhất tôi cũng vui vẻ chết trên mặt đất…”
+
+@20622 Chum · チャム
+> 「じゃあ、あたしは不幸な女じゃない」
+“Vậy chẳng phải tôi sẽ trở thành một người phụ nữ bất hạnh sao? "
+
+@20623 Show · ショウ
+> 「ははっ、ごめん、チャム
+“Haha, xin lỗi, Cẩm.
+---
+>  なに!? オーラレーダーに反応!?」
+Cái gì! ? Radar miệng phản ứng! ? "
+
+@20624 Chum · チャム
+> 「ショウ! 何かくるよ!!」
+"Xương! Một cái gì đó đang đến! ! "
+
+@20625 Show · ショウ
+> 「くっ、あの敵か!?」
+"Chà, họ có phải là kẻ thù không? ? "
+
+@20626 Amuro · アムロ
+> 「聞こえるか?
+>  我々に交戦の意思はない
+"Bạn có thể nghe thấy tôi không? Chúng tôi không có ý định gây chiến.
+---
+>  君たちの所属を確認したい」
+Hãy cho biết bạn thuộc về nơi nào. "
+
+@20627 Show · ショウ
+> 「違う? あの敵ではない?
+>  ……俺はショウ、ショウ・ザマだ
+"Không? Không phải những kẻ thù đó?... Tôi là Xiang, Zama Xiang.
+---
+>  あんたたちと同じ地上人だ。
+>  攻撃はしないでくれ」
+Tôi là một người trần thế như bạn. Làm ơn đừng tấn công. "
+
+@20628 Amuro · アムロ
+> 「地上人?
+>  地球人ということか?
+"Người trái đất? Ý bạn là người trái đất?
+---
+>  攻撃はしない。
+>  状況を確認したいんだ」
+Chúng tôi sẽ không tấn công, chúng tôi chỉ đang cố gắng tìm hiểu tình hình. "
+
+@20629 Show · ショウ
+> 「俺はバイストンウェルから
+>  戻ってきたんだ
+"Tôi đã trở về từ Bystone Weir.
+---
+>  こっちこそ何がどうなっているのか
+>  わからないんだよ」
+Tôi chỉ muốn biết chuyện gì đang xảy ra. "
+
+@20630 Amuro · アムロ
+> 「バイストンウェル? どこのことだ?」
+"Đập Baiston? Nơi đó là gì vậy?"
+
+@20631 Show · ショウ
+> 「……海と大地の
+>  狭間にある世界だ
+“…Đó là một thế giới nằm giữa biển và đất.
+---
+>  ファンタジーの異世界みたいなものだ」
+Nó giống như một thế giới khác trong một câu chuyện giả tưởng. "
+
+@20632 Chum · チャム
+> 「ショウ、この人たち大丈夫なの?」
+"Tương, những người này có đáng tin cậy không?"
+
+@20633 Bright · ブライト
+> 「……な、なんだ? 小人……?」
+"...C-Cái gì? Nhân vật phản diện...?"
+
+@20634 Duo · デュオ
+> 「マジかよ、羽根がついてたぜぇ」
+“Đúng vậy, nó thậm chí còn có cánh.”
+
+@20635 Show · ショウ
+> 「こっちも聞かせてもらいたい。いったい
+>  地上はどうなってしまったんだ?」
+"Tôi cũng muốn hỏi bạn. Mặt đất đã trở nên như thế nào?"
+
+@20636 Amuro · アムロ
+> 「君は異星人ではないのだな?」
+“Anh không phải là người ngoài hành tinh phải không?”
+
+@20637 Show · ショウ
+> 「俺は地球人だよ」
+“Tôi đến từ Trái Đất.”
+
+@20638 Amuro · アムロ
+> 「……地球は異星人の帝国に
+>  占領されたんだよ」
+"...Trái đất bị tàn phá bởi một đế chế ngoài hành tinh."
+
+@20639 Show · ショウ
+> 「なんだって? じゃあ、あのときの
+>  連中が異星人ってことか……」
+"Anh nói gì cơ? Vậy những kẻ lúc đó là người ngoài hành tinh..."
+
+@20640 Amuro · アムロ
+> 「ショウくんといったな。
+>  君が地球人であるなら
+"Tên bạn là Xiang. Vì bạn đến từ Trái đất,
+---
+>  協力してくれないか。
+>  君の事情も詳しく聞きたいし
+Bạn có thể giúp chúng tôi được không? Tôi cũng muốn nghe thêm về hoàn cảnh của bạn.
+---
+>  世界各地に君たちのような
+>  集団が出現しているんだ」
+Có những đội như của bạn xuất hiện trên khắp thế giới. "
+
+@20641 Show · ショウ
+> 「世界各地に?
+>  やはりジャコバ・アオンか
+"Trên khắp thế giới? Đúng là Jakoba Ivern,
+---
+>  フェラリオがしかけたんだ……」
+Hoặc có thể đó là lỗi của Ferario..."
+
+@20642 Amuro · アムロ
+> 「どうかな?」
+"Sao vậy, cậu có sẵn lòng không? "
+
+@20643 Show · ショウ
+> 「わかりました。一緒にいかせてください」
+"Tôi hiểu. Hãy để tôi đi cùng bạn. "
+
+@20644 Chum · チャム
+> 「ショウ、大丈夫なの……?」
+"Xiang, chuyện này thực sự ổn chứ...?"
+
+@20645 Show · ショウ
+> 「そう思う。この人たちなら
+>  信じてもいい」
+"Tôi thấy ổn. Những người này có thể tin cậy được."
+
+@20646 Amuro · アムロ
+> 「そういってくれて助かるよ。
+>  では後部デッキから……」
+"Tôi cảm thấy nhẹ nhõm khi bạn nói điều đó. Sau đó từ boong sau..."
+
+@20647 Amuro · アムロ
+> 「なんだ!?」
+"Cái gì!?"
+
+@20648 Quattro · クワトロ
+> 「敵だと!? うかつだったか」
+"Kẻ thù!? Chúng ta quá bất cẩn."
+
+@20649 Bern · バーン
+> 「ダンバイン!? ショウ・ザマか!!」
+"Danbein!? Có phải Sho Zama không!!"
+
+@20650 Show · ショウ
+> 「バーン・バニングス!? 待て!」
+"Barn Barninger!? Đợi đã!"
+
+@20651 Bern · バーン
+> 「問答は無用だ! 覚悟!」
+"Không cần phải nói thêm nữa! Thức dậy! "
+
+@20652 Show · ショウ
+> 「バーン、状況を考えろ!
+>  ここは地上なんだぞ、戦いをやめろ!」
+"Barn, hiểu rõ tình huống! Đây là mặt đất, đừng đánh nữa!"
+
+@20653 Bern · バーン
+> 「そうはいかん。地上で最初に
+>  会う者がお前だというのは
+“Không được đâu. Người đầu tiên anh gặp trên trái đất này là em.
+---
+>  私にとっては僥倖なのだ。
+>  地上で死ねるのは幸せだと思え!」
+Đó là một ơn trời cho tôi. Hãy coi việc chết trên mặt đất là một điều may mắn! "
+
+@20654 Show · ショウ
+> 「僥倖だと……? 俺に会ったのが
+>  そんなに幸運か!?」
+“Một cơ hội được Chúa ban cho…? Bạn thật may mắn khi gặp được tôi phải không? ? "
+
+@20655 Bern · バーン
+> 「そうだ! 地上に来てまで、私は
+>  チャンスを与えられたのだ!」
+"Đúng vậy! Ngay cả trên mặt đất, tôi vẫn có cơ hội! "
+
+@20656 Show · ショウ
+> 「バイストンウェルの人間が地上に
+>  来てしまったっていうのに、そのことの
+"Người của Beston Weir đã tới hiện trường, và sự việc
+---
+>  意味も考えず、貴様は!」
+Bạn thậm chí không nghĩ về ý nghĩa, bạn ơi! "
+
+@20657 Amuro · アムロ
+> 「どうしたというんだ、ショウくん!」
+"Có chuyện gì vậy, Xiang! "
+
+@20658 Show · ショウ
+> 「応戦してください! あいつは
+>  本気で、きます!」
+"Chiến đấu nhanh lên! Anh chàng đó nghiêm túc và sẽ chiến đấu! "
+
+@20659 Bright · ブライト
+> 「敵だというのか!?
+>  よし、出撃しろ!」
+"Có phải là kẻ thù không? ? Được rồi, tấn công! "
+
+@20660 Beltorchika · ベルトーチカ
+> 「艦長! スペシャルズの追撃隊に
+>  捕捉されました!」
+"Thuyền trưởng! Chúng tôi đang là mục tiêu của một đội truy đuổi lực lượng đặc biệt! "
+
+@20661 Bright · ブライト
+> 「なんだと!?」
+"Cái gì!?"
+
+@20662 Amuro · アムロ
+> 「あの敵か……」
+"Là anh chàng đó..."
+
+@20663 Quattro · クワトロ
+> 「…………」
+“…………”
+
+@20664 Kamille · カミーユ
+> 「あれは……フォウか!?」
+"Đó là... phượng hoàng? ? "
+
+@20665 Four · フォウ
+> 「……カミーユが出ているのか……」
+"... Camus cũng đi ra..."
+
+@20666 Kamille · カミーユ
+> 「フォウ!!」
+"Phượng Hoàng! ! "
+
+@20667 Four · フォウ
+> 「……邪魔をするな! 私は
+>  記憶を手に入れるんだ!」
+“…Đừng cản đường! Tôi muốn lấy lại trí nhớ của mình! "
+
+@20668 Kamille · カミーユ
+> 「フォウ、やめろ! 戦っちゃいけない!
+>  フォウ!」
+"Phong, dừng lại! Bạn không thể chiến đấu! phượng hoàng! "
+
+@20669 Four · フォウ
+> 「お前は私を苦しめるために
+>  つくられたのか!!」
+"Anh được tạo ra để tra tấn tôi phải không? ! "
+
+@20670 Kamille · カミーユ
+> 「フォウ! 思い出なんて、これから
+>  いくらでもつくればいいじゃないか!!」
+"Phượng Hoàng! Chỉ cần nhớ bạn muốn bao nhiêu trong tương lai và sau đó tạo ra nó! ! "
+
+@20671 Four · フォウ
+> 「昔の記憶を取り戻せないのに、
+>  いまの記憶があったって、何になる!」
+“Ký ức của quá khứ không thể lấy lại được, cho nên dù có ký ức của hiện tại thì cũng có ích gì! "
+
+@20672 Kamille · カミーユ
+> 「フォォォォォォウッ!!」
+“Phong ah ah ah ah ah! ! "
+
+@20673 Amuro · アムロ
+> 「カミーユ、下がれ!」
+"Camus, đứng xuống! "
+
+@20674 Kamille · カミーユ
+> 「僕がやります! この敵は、
+>  よくわかっていますから」
+"Hãy để tôi làm điều đó! Tôi biết đối thủ này rõ nhất. "
+
+@20675 Kamille · カミーユ
+> 「フォウ!」
+"Phượng Hoàng!"
+
+@20676 Four · フォウ
+> 「カミーユ……出てきたのなら、
+>  さっさと撃破してくれればいいものを!」
+"Camus...bây giờ hắn đã ra ngoài, tại sao không bắn hạ tôi càng sớm càng tốt!" "
+
+@20677 Kamille · カミーユ
+> 「フォウ、話を聞いてくれ。フォウ!」
+"Phong, nghe tôi nói, phượng hoàng!"
+
+@20678 Four · フォウ
+> 「カミーユ……」
+"Camus..."
+
+@20679 Kamille · カミーユ
+> 「フォウ、俺、君に言い残したことが
+>  たくさんあるんだ」
+"Phong, anh còn rất nhiều điều chưa nói với em."
+
+@20680 Four · フォウ
+> 「私に……?」
+"Nói cho tôi biết...?"
+
+@20681 Kamille · カミーユ
+> 「……それで、幼なじみの女の子が
+>  いうんだよ。カミーユ、爪をかむクセを
+“…Sau đó, cô bé đáng yêu thời thơ ấu sẽ nói, Camus, đừng cắn móng tay nữa.
+---
+>  やめなさい、カミーユって。僕はそれが
+>  嫌だった。だってさ、カミーユってのは
+Camus. Tôi ghét điều đó. Bởi vì, Camus
+---
+>  女の子の名前だ。だから僕はカラ
+>  テもやったし、戦い方の勉強もした
+Đó là tên của một cô gái. Vì thế tôi tập karate và học cách chiến đấu,
+---
+>  こんな世界でもちゃんと
+>  やっていけるように、体も鍛えた
+Để tồn tại tốt trong một thế giới như vậy, tôi cũng tập thể dục.
+---
+>  男の証明を、
+>  手に入れたかったんだ……」
+Điều tôi muốn là bằng chứng cho thấy tôi là đàn ông…”
+
+@20682 Four · フォウ
+> 「カミーユ……」
+"Camus..."
+
+@20683 Kamille · カミーユ
+> 「俺……何いってるんだろ。
+>  フォウ、俺、こんなこと……」
+"Tôi...bạn đang nói về cái gì vậy? Phong, thực ra tôi đã nói điều này…”
+
+@20684 Four · フォウ
+> 「カミーユ…………カミーユ、
+>  ひとつだけ聞いていい?
+"Camus... Camus, tôi có thể hỏi bạn một điều được không?
+---
+>  今でもカミーユって名前、きらい?」
+Bạn vẫn ghét cái tên Camus à? "
+
+@20685 Kamille · カミーユ
+> 「……好きさ、自分の名前だもの」
+“…Tôi thích nó, dù sao thì đó cũng là tên của tôi mà. "
+
+@20686 Four · フォウ
+> 「そう…………。カミーユ、
+>  お互いの場所に戻りましょう
+“Vậy đó… Camus, chúng ta hãy quay về chỗ của mình thôi.
+---
+>  これは、あなたにふさわしいことじゃないわ」
+Loại chuyện này không thích hợp với cậu. "
+
+@20687 Kamille · カミーユ
+> 「フォウ、フォウ!? 待ってくれ、
+>  フォウ!!」
+"Phượng hoàng, phượng hoàng! ? Đợi đã, Phong! ! "
+
+@20688 Four · フォウ
+> 「カミーユ……さよなら……」
+"Camus...tạm biệt..."
+
+@20689 Bright · ブライト
+> 「敵の増援だと!?
+>  くそっ、スペシャルズめ!」
+"Quân tiếp viện của địch! ? Chết tiệt, mấy gã Lực Lượng Đặc Biệt này! "
+
+@20690 Wooder · ウッダー
+> 「来たか。よし一気に敵を叩くぞ!
+>  フォウ特尉、どうなっている!
+"Anh ấy tới đây. Được rồi, đánh bại kẻ thù trong một lần! Trung úy Feng Te, chuyện gì đang xảy ra vậy!
+---
+>  やれないのならば邪魔にしかならん。
+>  引き返せ!」
+Nếu không, hãy tránh xa ra. Hãy lấy lại nó! "
+
+@20691 Wooder · ウッダー
+> 「なんだと!?
+>  フォウ特尉、どういうつもりだ!!」
+"Cái gì! ? Đội trưởng Feng, bạn muốn làm gì? ! "
+
+@20692 Four · フォウ
+> 「……カミーユ。これでもう、忘れなくて
+>  すむということ……」
+“…Camus. Bằng cách này, anh sẽ không phải quên em nữa…”
+
+@20693 Wooder · ウッダー
+> 「なにッ!?」
+"Cái gì!?"
+
+@20694 Kamille · カミーユ
+> 「あ……フォ……フォォォォォウッッ!!」
+“A…Phong…Feng ah ah ah ah! ! "
+
+@20695 Specials · スペシャルズ
+> 「ス、スードリが!? 撤退だ!!」
+“S-Sudri…! ? rút lui! ! "
+
+@20696 Bright · ブライト
+> 「敵の増援だと!? 数が多すぎる
+>  スペシャルズめ!」
+"Quân tiếp viện của địch! ? Nhiều quá các anh lực lượng đặc biệt ơi! "
+
+@20697 Ryoma · リョウ
+> 「なに? どうしたんだ、いったい!?」
+"Cái gì? Chuyện gì đang xảy ra vậy! ? "
+
+@20698 Amuro · アムロ
+> 「ブライト、離脱するんだ」
+"Sáng, rút lui. "
+
+@20699 Bright · ブライト
+> 「なんだと?」
+"Anh đã nói gì thế? "
+
+@20700 Amuro · アムロ
+> 「彼女は命をかけて俺たちを、
+>  いやカミーユを脱出させようとしている」
+“Cô ấy đang liều mạng để cho chúng ta, không, để Camus trốn thoát. "
+
+@20701 Kamille · カミーユ
+> 「待ってください、フォウが……!」
+"Xin hãy đợi một chút, Feng...! "
+
+@20702 Amuro · アムロ
+> 「人の善意を無視するやつは、
+>  一生苦しむぞ!」
+“Những người phản bội ý tốt của người khác sẽ phải chịu đau khổ suốt đời! "
+
+@20703 Bright · ブライト
+> 「よし、全機撤退だ!」
+"Được rồi, toàn bộ máy bay rút lui! "
+
+@20704 Four · フォウ
+> 「カミーユ……さよなら……。これでもう、
+>  忘れなくてもすむということ……」
+"Camus...tạm biệt...bằng cách này, anh sẽ không phải quên em nữa..."
+
+@20705 Kamille · カミーユ
+> 「フォウ……これでよかったのか……
+>  フォォォォウッ!!」
+"Phong... cái này có thật sự tốt không...Feng ah ah ah! ! "
+
+@20706 Quattro · クワトロ
+> 「ええい、なんだというのだ、この感覚は!」
+“Chà, cái cảm giác quái quỷ gì đang xảy ra thế này! "
+
+@20707 Four · フォウ
+> 「くっ……邪魔をするなぁっ!!」
+"Chà... đừng cản đường! ! "
+
+@20708 Bern · バーン
+> 「ショウ・ザマ! 覚悟!!」
+“Zama Sho! Thức dậy! ! "
+
+@20709 Show · ショウ
+> 「くっ……バーンめ!」
+“Chà… anh chàng Barn này! "
+
+@20710 Bern · バーン
+> 「ガラリア、貴様もこれで終わりだ!」
+"Kalalia, dành cho em đó!"
+
+@20711 Garalia · ガラリア
+> 「黙れ! お前ごときにやられるものか!」
+"Im đi! Làm sao tôi có thể bị đánh bại bởi một người như bạn!"
+
+@20712 Kamille · カミーユ
+> 「フォウ……」
+"Phong..."
+
+@20713 Amuro · アムロ
+> 「なるほどな。つまり、
+>  君はその異世界に呼び込まれた
+“Tôi hiểu rồi. Nói cách khác, bạn đã được triệu hồi bởi thế giới khác.
+---
+>  地球人で、彼女たちは
+>  その世界の住人ということか」
+Người Trái đất, và họ là cư dân của thế giới đó. "
+
+@20714 Show · ショウ
+> 「ええ」
+"Ừ."
+
+@20715 Chum · チャム
+> 「異世界じゃなくて
+>  バイストンウェルよ!」
+"Đó không phải là một thế giới khác, đó là Baiston Will!"
+
+@20716 Quatre · カトル
+> 「すごい……本当に生きているんですね」
+"Thật tuyệt vời...nó thực sự còn sống."
+
+@20717 Chum · チャム
+> 「当たり前じゃないっ!」
+"Tất nhiên!"
+
+@20718 Quattro · クワトロ
+> 「信じないわけにもいくまい。
+>  しかし戦争中でその敵も
+“Có vẻ như không tin cũng không sao. Nhưng hiện tại đang có một cuộc chiến tranh xảy ra, và những kẻ thù đó cũng vậy.”
+---
+>  地上に出ているというのが
+>  問題だな」
+Khi nói đến mặt đất, đây là rắc rối. "
+
+@20719 Show · ショウ
+> 「はい。他にも地上の人間が
+>  いましたが、どう行動するのか
+"Đúng. Có những người khác trên mặt đất, nhưng tôi không biết liệu họ có đến không."
+---
+>  わかりません。それと、
+>  仲間がいれば合流したいのですが」
+Làm thế nào để hành động. Ngoài ra, nếu tôi có bạn đồng hành, tôi muốn tham gia cùng họ. "
+
+@20720 Quattro · クワトロ
+> 「わかった。可能な限り情報を
+>  集めさせよう。しかし、いま地上を
+"Được rồi. Tôi sẽ để mọi người cố gắng hết sức để thu thập thông tin tình báo. Nhưng hiện tại tôi đang kiểm soát mặt đất."
+---
+>  制圧しているのは帝国だ。我々
+>  もあまり自由のきく立場ではない」
+Đó là một đế chế và chúng tôi không có nhiều quyền tự do đi lại. "
+
+@20721 Show · ショウ
+> 「それは、わかりました。
+>  バイストンウェルでの敵である
+"Tôi hiểu. Những kẻ thù của chúng ta ở Baiston Weir
+---
+>  ドレイクたちも気になりますが、
+>  僕も地球人です
+Tôi lo lắng cho Drake và đồng bọn, nhưng tôi cũng đến từ Trái Đất.
+---
+>  異星人の帝国との戦いには
+>  参加します」
+Tôi sẽ tham gia cuộc chiến chống lại đế chế ngoài hành tinh. "
+
+@20722 Quattro · クワトロ
+> 「うむ。君はどうする、
+>  ガラリア・ニャムヒー
+"Hmm. Bạn định làm gì thế, Kalalia Niamsi.
+---
+>  ショウくんとは敵対する組織に
+>  属していたと聞くが」
+Tôi nghe nói bạn từng thuộc một tổ chức chống lại Sho. "
+
+@20723 Garalia · ガラリア
+> 「……わからない。
+>  しばらくは世話になるつもりだ
+"...Tôi không biết. Tôi sẽ chăm sóc bạn trong thời gian này.
+---
+>  私も武人だ、
+>  いきなり敵にまわるようなことはしない
+Tôi cũng là một chiến binh và sẽ không đột ngột đổi phe.
+---
+>  その証に、バーンたちとも
+>  戦ってみせただろう」
+Không phải tôi vừa chiến đấu chống lại Barn và những người khác sao? Đây là bằng chứng. "
+
+@20724 Bright · ブライト
+> 「いいだろう。ただし、しばらくの間は、
+>  監視はつけさせてもらう」
+"Được rồi. Tuy nhiên, tạm thời tôi phải cử người theo dõi cậu."
+
+@20725 Garalia · ガラリア
+> 「……わかった」
+"... Hiểu rồi."
+
+@20726 Banjo · 万丈
+> 「信じないわけにもいかないね。
+>  しかし戦争中でその敵も
+“Có vẻ như bạn không tin cũng không sao. Nhưng hiện tại đang có một cuộc chiến tranh xảy ra và những kẻ thù đó cũng đang
+---
+>  地上に出ているというのが
+>  問題だな」
+Khi nói đến mặt đất, đây là rắc rối. "
+
+@20727 Show · ショウ
+> 「はい。他も地上の人間が
+>  いましたが、どう行動するのか
+"Đúng. Có những người khác trên mặt đất, nhưng tôi không biết liệu họ có đến không."
+---
+>  わかりません。それと、
+>  仲間がいれば合流したいのですが」
+Làm thế nào để hành động. Ngoài ra, nếu tôi có bạn đồng hành, tôi muốn tham gia cùng họ. "
+
+@20728 Banjo · 万丈
+> 「わかった。ギャリソン、この件に関して
+>  は最優先で情報を集めてくれ」
+"Được rồi. Garrison, vấn đề này là ưu tiên hàng đầu, hãy thu thập thông tin tình báo càng sớm càng tốt. "
+
+@20729 Garrison · ギャリソン
+> 「かしこまりました」
+“Như đã ra lệnh.”
+
+@20730 Quattro · クワトロ
+> 「しかし、いま地上を
+>  制圧しているのは帝国だ
+“Nhưng hiện tại đế chế đang kiểm soát trái đất.
+---
+>  我々もあまり自由のきく
+>  立場ではない」
+Chúng tôi cũng không có nhiều quyền tự do đi lại. "
+
+@20731 Show · ショウ
+> 「それは、わかりました。
+>  バイストンウェルでの敵である
+"Tôi hiểu. Những kẻ thù của chúng ta ở Baiston Weir
+---
+>  ドレイクたちも気になりますが、
+>  僕も地球人です
+Tôi lo lắng cho Drake và đồng bọn, nhưng tôi cũng đến từ Trái Đất.
+---
+>  異星人の帝国との戦いには
+>  参加します」
+Tôi sẽ tham gia cuộc chiến chống lại đế chế ngoài hành tinh. "
+
+@20732 Banjo · 万丈
+> 「それはありがたいな。よろしく頼むよ」
+"Thật tuyệt vời. Tùy bạn đấy. "
+
+@20733 Banjo · 万丈
+> 「それで、君はどうするんだい、
+>  ガラリア・ニャムヒーさん
+“Vậy cô định làm gì đây, cô Kalalia Niamsi.
+---
+>  ショウくんとは敵対する組織に
+>  属していたと聞くが」
+Tôi nghe nói bạn từng thuộc một tổ chức chống lại Sho. "
+
+@20734 Garalia · ガラリア
+> 「……わからない。
+>  しばらくは世話になるつもりだ
+"...Tôi không biết. Tôi sẽ chăm sóc bạn trong thời gian này.
+---
+>  私も武人だ、
+>  いきなり敵にまわるようなことはしない
+Tôi cũng là một chiến binh và sẽ không đột ngột đổi phe.
+---
+>  その証に、バーンたちとも
+>  戦ってみせただろう」
+Không phải tôi vừa chiến đấu chống lại Barn và những người khác sao? Đây là bằng chứng. "
+
+@20735 Banjo · 万丈
+> 「わかった。君たちを信用しよう」
+"Được, tôi tin cậu."
+
+@20736 Shinobu · 忍
+> 「おいおいホントかよ」
+"Này, này, nó thực sự là giả."
+
+@20737 Masato · 雅人
+> 「まぁまぁ文句いわないの、忍」
+"Được rồi, được rồi, đừng phàn nàn nữa, Shinobu."
+
+@20738 Henken · ヘンケン
+> 「ご苦労だった、ブライト艦長」
+"Cảm ơn, thuyền trưởng Bright."
+
+@20739 Bright · ブライト
+> 「ヘンケン中佐、あなたでしたか」
+"Trung tá Hanken, hóa ra là anh."
+
+@20740 Henken · ヘンケン
+> 「ずいぶんと戦果をあげているようだな。
+>  おかげで、こちらもやりやすくて助かる
+“Có vẻ như ngươi đã lập được rất nhiều chiến công quân sự. Nhờ có ngươi mà mọi chuyện ở đây dễ dàng giải quyết hơn nhiều.
+---
+>  戦艦アルビオンは当分の間、
+>  君らで運用してもらうことになる」
+Chiến hạm Albion hiện đang nằm trong tay bạn. "
+
+@20741 Bright · ブライト
+> 「聞いています。
+>  パイロットの補充もあるとか?」
+"Tôi nghe nói. Sẽ có thêm phi công chứ?"
+
+@20742 Henken · ヘンケン
+> 「ああ、紹介しよう。ファ・ユイリィだ。
+>  まだ未熟だが役にはたつだろう」
+"Ân, ta giới thiệu cho ngươi, đây là Hoa Nguyên Lí, nàng tuy rằng còn có chút tuổi trẻ, nhưng hẳn là có thể có ích."
+
+@20743 Fa · ファ
+> 「ファ・ユイリィです。
+>  よろしくお願いします」
+"Tôi là Hoa Nguyên Lí, xin hãy cho tôi lời khuyên."
+
+@20744 Bright · ブライト
+> 「ブライト・ノアだ。ここはもういい。
+>  他のクルーに、あいさつしてこい」
+"Tôi là Brett Noah. Ở đây không phải việc của anh. Đi chào các thành viên còn lại đi."
+
+@20745 Fa · ファ
+> 「はい。では失礼します」
+"Ừ. Vậy tôi xin phép về trước nhé."
+
+@20746 Quattro · クワトロ
+> 「ヘンケン中佐がおられるとなると、
+>  我々の次の行動の指示も
+“Trung tá Hanken đích thân đến hiện trường, đó hẳn là dấu hiệu tin cậy của chúng tôi.
+---
+>  あるとみましたが」
+Sẽ có hướng dẫn cho bước tiếp theo. "
+
+@20747 Henken · ヘンケン
+> 「さすがにするどいな。そうだ。君たちには
+>  アルビオンで北京へ向かってもらう」
+"Chắc chắn rồi. Đúng vậy. Anh sẽ đưa Albion đến Bắc Kinh."
+
+@20748 Amuro · アムロ
+> 「北京? しかし、
+>  あそこは廃墟になっていたはずでは?」
+"Bắc Kinh? Nhưng chẳng phải nó đã đổ nát rồi sao?"
+
+@20749 Henken · ヘンケン
+> 「そうだ。そこで、
+>  もと国際警察機構のスタッフと
+“Đúng vậy. Tôi muốn anh ở đó cùng với những người từ cơ quan cảnh sát quốc tế trước đây.
+---
+>  合流してもらいたい」
+cuộc hẹn. "
+
+@20750 Bright · ブライト
+> 「国際警察機構? ああ、
+>  武装集団の組織犯罪を
+“Cơ quan cảnh sát quốc tế? À, nó xử lý tội phạm do các nhóm vũ trang tổ chức.
+---
+>  扱っていた? 戦後解体されたと
+>  聞いていますが」
+Đó? Tôi nghe nói nó đã bị giải tán sau chiến tranh. "
+
+@20751 Henken · ヘンケン
+> 「我々と同じだよ。まぁ、どんな
+>  連中なのかは俺も聞いていない
+"Giống như chúng ta. Tuy nhiên, tôi chưa bao giờ nghe nói đối phương là ai.
+---
+>  向こうから接触してくるはずだ」
+Họ nên chủ động liên hệ với chúng tôi. "
+
+@20752 Bright · ブライト
+> 「わかりました。
+>  では我々は北京へ向かいます」
+"Đã hiểu. Vậy chúng ta sẽ đi Bắc Kinh."
+
+@20753 Henken · ヘンケン
+> 「おう、頼んだぞ」
+"Được rồi, làm ơn."
+
+@20754 Kamille · カミーユ
+> 「ファ……? ファ・ユイリィか!?」
+"Hoa...? Là Hoa Nguyên Lí sao!?"
+
+@20755 Fa · ファ
+> 「えっ!? ……カミーユ? あなたなの!?」
+"Ể!?... Camus? Có phải cậu không!?"
+
+@20756 Kamille · カミーユ
+> 「ファ……」
+"Hoa..."
+
+@20757 Fa · ファ
+> 「カミーユ……あなたに会えるなんて
+>  思ってなかった。カミーユゥ!」
+"Camus...Tôi không ngờ được gặp cậu. Camus——!"
+
+@20758 Kamille · カミーユ
+> 「ファ、どうしたんだ?」
+"Hua, có chuyện gì vậy?"
+
+@20759 Fa · ファ
+> 「父さんも母さんも、
+>  帝国軍につかまっちゃったのよ
+“Cả cha và mẹ đều bị Quân đội Đế quốc bắt giữ.
+---
+>  レジスタンスのパイロットのカミーユの
+>  知り合いだからって」
+Anh cho biết đó là vì anh biết Camus, phi công của tổ chức kháng chiến. "
+
+@20760 Kamille · カミーユ
+> 「そうか……それで、ファは?」
+"Vậy... vậy, cô ở đâu vậy, Hua?"
+
+@20761 Fa · ファ
+> 「地球解放戦線機構の
+>  人たちに助けられて……それで……」
+"Tôi đã được giải cứu bởi những người từ Mặt trận Giải phóng Trái đất...và sau đó..."
+
+@20762 Kamille · カミーユ
+> 「くそっ、帝国め!」
+"Chết tiệt, những kẻ đến từ Đế quốc này!"
+
+@20763 Banjo · 万丈
+> 「ご苦労さまです。
+>  カラバの破嵐万丈です」
+"Cảm ơn vì đã làm việc chăm chỉ. Tôi là Polan Wanzhang của Calabar."
+
+@20764 Henken · ヘンケン
+> 「解放戦線のヘンケン・ベッケナーだ
+>  君の噂は聞いているよ」
+"Tôi là Hanken Beckner của Mặt trận Giải phóng. Tôi đã nghe nói về anh từ lâu rồi."
+
+@20765 Banjo · 万丈
+> 「それはどうも。
+>  アルビオン、状態は良いようですね」
+"Cảm ơn. Albion có vẻ vẫn khỏe mạnh."
+
+@20766 Henken · ヘンケン
+> 「廃艦扱いとはいえ、戦後のどさく
+>  さで隠した艦だ。整備もそれなりに
+“Mặc dù trên danh nghĩa nó là một con tàu phế liệu, nhưng nó đã bị che giấu trong sự hỗn loạn sau chiến tranh. Nó cũng được bảo trì rất tốt.
+---
+>  やってあるさ」
+Khá tốt. "
+
+@20767 Bright · ブライト
+> 「助かります。補充兵もいると聞き
+>  ましたが……」
+"Đó là một sự trợ giúp lớn. Tôi nghe nói có thêm nhân lực..."
+
+@20768 Henken · ヘンケン
+> 「ああ、紹介しよう。シロー・アマダだ。
+>  彼の乗機、Ez8もアルビオンに
+"Được rồi, để tôi giới thiệu với bạn. Đây là Shirou Amada. Điện thoại cố định Ez8 của anh ấy cũng đã được kết nối."
+---
+>  運び込んである」
+Vận chuyển đến Albion. "
+
+@20769 Bright · ブライト
+> 「Ez8? 陸戦型のガンダムだな」
+"Ez8? Đó là loại chiến đấu trên mặt đất,"
+
+@20770 Shiro · シロー
+> 「はい。シロー・アマダ少尉であります。
+>  よろしくお願いします」
+"Vâng. Tôi là Thiếu úy Shirou Amada. Xin hãy chăm sóc cho tôi."
+
+@20771 Bright · ブライト
+> 「ブライト・ノアだ。よろしく頼む。こちら
+>  はカラバの破嵐万丈くんだ」
+"Tôi là Brett Noah. Xin hãy cho tôi lời khuyên. Đây là Vùng đất hoang Calabar."
+
+@20772 Banjo · 万丈
+> 「よろしく、アマダ少尉」
+"Xin hãy chăm sóc tôi thật tốt, Thiếu úy Amada."
+
+@20773 Bright · ブライト
+> 「ここはもういい。他の連中にあいさつ
+>  してこい」
+"Ở đây không phải việc của cậu. Đi chào những người khác đi."
+
+@20774 Shiro · シロー
+> 「はっ、失礼します」
+"Ừ, tôi xin nghỉ trước."
+
+@20775 Banjo · 万丈
+> 「……少尉のつけていた時計……
+>  女もののようだったが……」
+“…Chiếc đồng hồ mà thiếu úy đeo…hình như là đồng hồ nữ…”
+
+@20776 Henken · ヘンケン
+> 「ああ、あれか? なんでもスペシャルズの
+>  女パイロットのものだそうだ」
+“À, cái đó à? Tôi nghe nói cô ấy là nữ phi công của lực lượng đặc biệt.”
+
+@20777 Bright · ブライト
+> 「スペシャルズの?」
+"Lực lượng đặc biệt?"
+
+@20778 Henken · ヘンケン
+> 「戦場でトラブって2人して死にかけ
+>  たところを、協力して切り抜けた
+"Nghe nói trên chiến trường xảy ra chuyện, hai người suýt nữa cùng nhau chết.
+---
+>  とかでな。ありゃ、惚れてるな」
+Sau đó, họ cùng nhau hợp tác để thoát khỏi nguy hiểm. Thằng bé đó bị ám ảnh bởi tôi. "
+
+@20779 Banjo · 万丈
+> 「へぇ、敵の女性にねぇ」
+"Ồ, người phụ nữ bị kẻ thù ám ảnh."
+
+@20780 Henken · ヘンケン
+> 「面倒をおこさなけりゃいいんだがな。
+>  ところで万丈くん、君たちは
+“Tôi hy vọng mình sẽ không gây rắc rối gì. Nói đến đây, Vạn Chương, cậu có thể
+---
+>  アルビオンで北京へ向かってくれ
+>  ないか」
+Đi Albion đến Bắc Kinh? "
+
+@20781 Banjo · 万丈
+> 「我々が北京へ?」
+“Chúng ta đi Bắc Kinh nhé?”
+
+@20782 Henken · ヘンケン
+> 「そうだ。そこで、
+>  もと国際警察機構のスタッフと
+"Ừ. Tôi hy vọng bạn ở đó với cơ quan cảnh sát quốc tế trước đây.
+---
+>  合流してもらいたい」
+Điểm hẹn nhân sự. "
+
+@20783 Bright · ブライト
+> 「国際警察機構? ああ、
+>  武装集団の組織犯罪を
+“Cơ quan cảnh sát quốc tế? À, cơ quan xử lý các nhóm vũ trang.”
+---
+>  扱っていた? 戦後解体されたと
+>  聞いていますが」
+Tội phạm có tổ chức? Tôi nghe nói nó đã bị giải tán sau chiến tranh. "
+
+@20784 Henken · ヘンケン
+> 「我々と同じだよ。まぁ、どんな
+>  連中なのかは俺も聞いていない
+“Tương tự như chúng tôi. Tuy nhiên, tôi chưa nghe nói về lý lịch của đối phương.
+---
+>  向こうから接触してくるはずだ」
+Họ nên chủ động liên lạc với bạn. "
+
+@20785 Banjo · 万丈
+> 「なるほど、解放戦線の方でも
+>  この部隊を
+“Tôi hiểu rồi, Mặt trận Giải phóng cũng muốn sử dụng đơn vị này.
+---
+>  中核にしていきたいということですか」
+Đây có phải là ý nghĩa của việc trau dồi sức mạnh cốt lõi? "
+
+@20786 Henken · ヘンケン
+> 「そういうことだ。
+>  ブライト中佐やクワトロ大尉も
+“Đúng vậy. Trung tá Bright và Đại úy Kvatro cũng vậy.
+---
+>  そのためにがんばってもらっている。
+>  カラバも我々も基本的な
+Đang làm việc này. Calabar và cơ bản của chúng tôi
+---
+>  状況は同じだからな。
+>  強力な部隊で
+Hoàn cảnh tương tự. Không dựa vào quân mạnh
+---
+>  主導権をとっていかなければ、
+>  味方だって掌握できん」
+Nếu bạn dẫn đầu, bạn thậm chí không thể kiểm soát được người của mình. "
+
+@20787 Banjo · 万丈
+> 「いいでしょう。
+>  我々は北京へ向かいます」
+"Được. Chúng ta đi Bắc Kinh."
+
+@20788 Henken · ヘンケン
+> 「頼む。アウドムラは
+>  アランくんの方へ回しておく」
+"Làm ơn. Odom sẽ chuyển tôi đến bên Alan."
+
+@20789 Henken · ヘンケン
+> 「君が、もとスペシャルズの
+>  エマ・シーン特尉か」
+"Bạn có phải là cựu Trung úy Emma Hint của Lực lượng Đặc biệt không?"
+
+@20790 Emma · エマ
+> 「そうですけど……なにか?」
+"Ừ... có chuyện gì thế?"
+
+@20791 Henken · ヘンケン
+> 「いや、いいスタッフだと聞いているので、
+>  ちょっと顔を見によっただけだ
+"Không có gì, ta nghe nói ngươi là quan viên giỏi nên tới xem thử.
+---
+>  がんばってくれ、特尉。
+>  期待している」
+Làm tốt lắm, Trung úy. Tôi rất lạc quan về bạn. "
+
+@20792 Emma · エマ
+> 「……はい……」
+"...là..."
+
+@20793 Emma · エマ
+> (なにかしら、いったい?)
+(Người này muốn làm cái quái gì vậy?)
+
+@20794 Henken · ヘンケン
+> 「君が、もとスペシャルズの
+>  エマ・シーン特尉か」
+"Bạn có phải là cựu Trung úy Emma Hint của Lực lượng Đặc biệt không?"
+
+@20795 Emma · エマ
+> 「そうですけど……なにか?」
+"Ừ... có chuyện gì thế?"
+
+@20796 Henken · ヘンケン
+> 「いや、いいスタッフだと聞いているので、
+>  ちょっと顔を見によっただけだ
+"Không có gì, ta nghe nói ngươi là quan viên giỏi nên tới xem thử.
+---
+>  がんばってくれ、特尉。
+>  期待している」
+Làm tốt lắm, Trung úy. Tôi rất lạc quan về bạn. "
+
+@20797 Emma · エマ
+> 「……はい……」
+"...là..."
+
+@20798 Emma · エマ
+> (なにかしら、いったい?)
+(Người này muốn làm cái quái gì vậy?)
+
+@20799 Bern · バーン
+> 「……敗北につぐ敗北……すべて、
+>  あの地上人があらわれてからだ
+“…Thất bại nối tiếp thất bại…tất cả bắt đầu sau khi người đàn ông nằm trên mặt đất đó xuất hiện.
+---
+>  クッ……私は……勝ちたい。
+>  私は奴を破りたい
+À...tôi...tôi muốn thắng. Tôi muốn đánh bại gã đó.
+---
+>  私は……騎士の出のはずだ!!」
+Tôi... là một hiệp sĩ! ! "
+
+@20800 Drake · ドレイク
+> 「どうやら、かなりの数のオーラシップと
+>  オーラバトラーが
+"Có vẻ như có một số lượng đáng kể thiết giáp hạm Aura và chiến binh Aura
+---
+>  地上へ出ておるようだな」
+Đã ở trên mặt đất. "
+
+@20801 ???
+> 「はい。いまは、ショット殿との合流を
+>  急がれるべきでしょう
+"Đúng. Bây giờ chúng ta nên gặp Master Xiute càng sớm càng tốt.
+---
+>  いまの地上界を支配しているのは
+>  地上人とは違う種族です
+Thế giới trên trái đất hiện đang bị thống trị bởi một chủng tộc khác với con người trên trái đất.
+---
+>  が、私に策がございます。
+>  交渉は私におまかせください」
+Tuy nhiên, tôi có một ý tưởng. Hãy để việc đàm phán cho tôi. "
+
+@20802 Drake · ドレイク
+> 「……地上人のお前がか。
+>  よかろう、やってみせろ」
+"...Bạn có phải là con người trên trái đất không? Không sao đâu, chỉ cần cho tôi xem."
+
+@20803 ???
+> 「はい」
+"Ừ. "
+
+@20804 Lady · レディ
+> 「なに!? 失敗したというのか。
+>  おのれ、レジスタンスどもめ
+"Cái gì!? Thất bại? Chết tiệt, lũ kháng chiến này.
+---
+>  だが奴らとて相当のダメージを
+>  受けているはず
+Tuy nhiên, họ cũng xứng đáng phải chịu một trận thua đáng kể.
+---
+>  ウォンにも兵を出させろ、
+>  第2波をしかける」
+Hãy để Huang phái quân phát động đợt tấn công thứ hai. "
+
+@20805 Noin · ノイン
+> 「そこまでです、特佐。トレーズ閣下
+>  のご命令です。レジスタンスに関する
+“Đúng vậy, Tezo. Đây là mệnh lệnh của Lãnh chúa Telles. Xin hãy dừng mọi cuộc tấn công chống lại quân kháng chiến.
+---
+>  作戦行動をすべて停止させ、
+>  本部へお戻りください」
+Hoạt động chiến đấu, trở về trụ sở. "
+
+@20806 Lady · レディ
+> 「な……なんだと? でまかせを、いうな!」
+"Cái...cái gì? Đừng nói nhảm nữa!"
+
+@20807 Noin · ノイン
+> 「特佐、閣下からもうひとつ。
+>  ことはエレガントに運べ、とのことです
+"Tezo, ngài còn có một điều muốn nói. Chuyện này nhất định phải xử lý khéo léo.
+---
+>  エレガントに、レディ?」
+Duyên dáng nhỉ, Letty? "

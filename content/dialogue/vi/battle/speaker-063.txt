@@ -1,0 +1,154 @@
+# Bản dịch tiếng Việt Super Robot Wars 64
+# Định dạng và vị trí: docs/guide/dialogue-text.md
+
+@6122 Gaia · ガイア
+# Kích hoạt: Tấn công (Chung，1/8）
+> 「くらえっ!」
+"Ăn chiêu của tôi đi!"
+
+@6123 Gaia · ガイア
+# Kích hoạt: Tấn công (Chung，2/8）
+> 「もらった!」
+"Thành công!"
+
+@6124 Gaia · ガイア
+# Kích hoạt: Tấn công (Chung，3/8）
+> 「黒い三連星の恐ろしさ、教えて
+>  やるわ!」
+"Cho các ngươi nhìn thấy sự kinh khủng của Hắc Tam Tinh!"
+
+@6125 Gaia · ガイア
+# Kích hoạt: Tấn công (Chung，4/8）
+> 「ふん、死ねっ!」
+"Hừ, xuống địa ngục đi!"
+
+@6126 Gaia · ガイア
+# Kích hoạt: Tấn công (Chung，5/8）
+> 「落ちろよ!」
+"Rớt nó!"
+
+@6127 Gaia · ガイア
+# Kích hoạt: Tấn công (Chung，6/8）
+> 「これで終わりだ!」
+"Chính là nó!"
+
+@6128 Gaia · ガイア
+# Kích hoạt: Tấn công (Chung，7/8）
+> 「このっ!」
+"Chết tiệt!"
+
+@6129 Gaia · ガイア
+# Kích hoạt: Tấn công (Chung，8/8）
+> 「やらせんわっ!」
+"Đừng nghĩ tới chuyện đó nữa!"
+
+@6130 Gaia · ガイア
+# Kích hoạt: 被击坠（通用，1/2）
+> 「何だと!? バカな!?」
+"Cái gì!? Không thể nào!?"
+
+@6131 Gaia · ガイア
+# Kích hoạt: 被击坠（通用，2/2）
+> 「マッシュ……オルテガ……すまん……」
+"Matthew...Ortega...Tôi xin lỗi..."
+
+@6132 Gaia · ガイア
+# Kích hoạt: 重伤（剩余 HP 不足 30%）（通用，1/3）
+> 「ぬううっ! このパイロット、
+>  ただものではないわっ!」
+"Uh huh! Người phi công này không phải là người bình thường!"
+
+@6133 Gaia · ガイア
+# Kích hoạt: 重伤（剩余 HP 不足 30%）（通用，2/3）
+> 「ぐうううっ!
+>  バカな、押されているだと!?」
+"Grrrr! Không thể nào, tôi đã bị đàn áp!?"
+
+@6134 Gaia · ガイア
+# Kích hoạt: 重伤（剩余 HP 不足 30%）（通用，3/3）
+> 「何だ!?
+>  直撃を受けているだと!?」
+"Cái gì!? Tôi bị đánh à!?"
+
+@6135 Gaia · ガイア
+# Kích hoạt: 中伤（剩余 HP 30–90%）（通用，1/3）
+> 「やるっ!
+>  だがこの程度ではやられんよ!」
+"Hai lần! Nhưng vết thương này không thể đánh bại được ta!"
+
+@6136 Gaia · ガイア
+# Kích hoạt: 中伤（剩余 HP 30–90%）（通用，2/3）
+> 「ぬうっ! こいつ、意外とやるぞ!」
+"Hừm! Không ngờ tên này lại có sức chiến đấu khá tốt!"
+
+@6137 Gaia · ガイア
+# Kích hoạt: 中伤（剩余 HP 30–90%）（通用，3/3）
+> 「ちいっ! この俺に当てるとは!」
+"Tsk! Anh ta thực sự đã đánh tôi!"
+
+@6138 Gaia · ガイア
+# Kích hoạt: 轻伤（剩余 HP 90% 以上）（通用，1/3）
+> 「フン、そんなものか!?」
+“Humph, đó là tất cả những gì cậu có à?”
+
+@6139 Gaia · ガイア
+# Kích hoạt: 轻伤（剩余 HP 90% 以上）（通用，2/3）
+> 「効かんなぁ!」
+"Nó không đau hay ngứa!"
+
+@6140 Gaia · ガイア
+# Kích hoạt: 轻伤（剩余 HP 90% 以上）（通用，3/3）
+> 「ああ、うるさいハエめ!」
+"A, lũ ruồi phiền phức!"
+
+@6141 Gaia · ガイア
+# Kích hoạt: Né tránh（通用，1/3）
+> 「甘いわっ!」
+"Thật ngây thơ!"
+
+@6142 Gaia · ガイア
+# Kích hoạt: Né tránh（通用，2/3）
+> 「当たるかよ!」
+"Làm sao có thể để cho ngươi đánh!"
+
+@6143 Gaia · ガイア
+# Kích hoạt: Né tránh（通用，3/3）
+> 「はっ! うわさほどではないわ!」
+"Ha! Nó không mạnh như lời đồn đâu!"
+
+@6144 Gaia · ガイア
+# Kích hoạt: Tấn công无效（护罩／装甲）（通用，1/1）
+> 「はあん、ムダな事を!」
+"Hừ, lãng phí sức lực!"
+
+@6145 Gaia · ガイア
+# Kích hoạt: 弹药／EN 不足，无法反击（通用，1/1）
+> 「なんだと!? 弾切れか!?」
+"Cái gì!? Hết đạn!?"
+
+@6146 Gaia · ガイア
+# Kích hoạt: 射程外，无法反击（通用，1/1）
+> 「くっ、この距離から攻撃できるのか
+>  あやつ!」
+"Chà, tên đó thực sự có thể đánh tôi từ khoảng cách xa như vậy!"
+
+@14255 Gaia · ガイア
+# Kích hoạt: 使用〈ジェットストリームアタック〉（对话第 1/3 句）
+> 「オルテガ! マッシュ!
+>  ジェットストリーム・アタックをかけるぞ!」
+"Ortega! Matthew! Phát động một cuộc tấn công bằng dòng phản lực!"
+
+@14256 Ortega · オルテガ
+# Kích hoạt: 使用〈ジェットストリームアタック〉（对话第 2/3 句）
+> 「おう!」
+"Được rồi!"
+
+@14257 Mash · マッシュ
+# Kích hoạt: 使用〈ジェットストリームアタック〉（对话第 3/3 句）
+> 「了解だ、ガイア!」
+"Hiểu rồi, Gaia!"
+
+@14258 Gaia · ガイア
+# Kích hoạt: Né tránh，乘坐〈ドライセン〉
+> 「ドライセンとてこういう芸当はできる!」
+"Dreisen cũng có thể giở trò này!"

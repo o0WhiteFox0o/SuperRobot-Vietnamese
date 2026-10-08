@@ -1,0 +1,237 @@
+# Bản dịch tiếng Việt Super Robot Wars 64
+# Định dạng và vị trí: docs/guide/dialogue-text.md
+
+@10592 Elle · エル
+# Kích hoạt: Tấn công (Chung，1/10）
+> 「こんのぉーっ!」
+“Chết tiệt——!”
+
+@10593 Elle · エル
+# Kích hoạt: Tấn công (Chung，2/10）
+> 「いくわっ!」
+"Tôi đang ở trên đó!"
+
+@10594 Elle · エル
+# Kích hoạt: Tấn công (Chung，3/10）
+> 「あたしだって!」
+"Tôi cũng có thể làm được!"
+
+@10595 Elle · エル
+# Kích hoạt: Tấn công (Chung，4/10）
+> 「もらったぁっ!」
+"Đã lấy nó!"
+
+@10596 Elle · エル
+# Kích hoạt: Tấn công (Chung，5/10）
+> 「好きにはさせない!」
+"Đừng cố gắng để thành công!"
+
+@10597 Elle · エル
+# Kích hoạt: Tấn công (Chung，6/10）
+> 「あんたたちの好きにはさせないって、
+>  言ってるだろ!」
+“Tôi đã bảo cậu đừng làm bất cứ điều gì cậu muốn mà!”
+
+@10598 Elle · エル
+# Kích hoạt: Tấn công (Chung，7/10）
+> 「やってみる!」
+"Thử đi!"
+
+@10599 Elle · エル
+# Kích hoạt: Tấn công (Chung，8/10）
+> 「ルーにはまけるもんかっ!」
+"Tôi sẽ không thua Lu!"
+
+@10600 Elle · エル
+# Kích hoạt: Tấn công (Chung，9/10）
+> 「まかせてよ!」
+"Để đó cho tôi! "
+
+@10601 Elle · エル
+# Kích hoạt: Tấn công (Chung，10/10）
+> 「落ちなよ!」
+"Rớt nó!"
+
+@10602 Elle · エル
+# Kích hoạt: 被击坠（通用，1/2）
+> 「やだ! やられちゃった!?」
+"Không! Tôi đã bị đánh bại!?"
+
+@10603 Elle · エル
+# Kích hoạt: 被击坠（通用，2/2）
+> 「きゃあぁぁぁーっ!」
+"Ahhhhhh-!"
+
+@10604 Elle · エル
+# Kích hoạt: 重伤（剩余 HP 不足 30%）（通用，1/5）
+> 「あうっ! このままじゃやられる!?」
+"A! Nếu tiếp tục làm như vậy, ngươi sẽ bị giết!?"
+
+@10605 Elle · エル
+# Kích hoạt: 重伤（剩余 HP 不足 30%）（通用，2/5）
+> 「あぁぁーっ!」
+"Ahhh——!"
+
+@10606 Elle · エル
+# Kích hoạt: 重伤（剩余 HP 不足 30%）（通用，3/5）
+> 「あぁぁーっ、
+>  ジュドー、ビーチャ、助けてぇ!」
+"Ahhhh-Jidu, Bicha, giúp tôi với!"
+
+@10607 Elle · エル
+# Kích hoạt: 重伤（剩余 HP 不足 30%）（通用，4/5）
+> 「うわっ! 何よこれ、
+>  パワーが違いすぎる!?」
+"Wow! Có chuyện gì vậy, sức mạnh khác biệt quá!?"
+
+@10608 Elle · エル
+# Kích hoạt: 重伤（剩余 HP 不足 30%）（通用，5/5）
+> 「あぅっ! こ、こいつ、強い!?」
+"A! Tên này mạnh quá!?"
+
+@10609 Elle · エル
+# Kích hoạt: 中伤（剩余 HP 30–90%）（通用，1/6）
+> 「ちょ、ちょっと!?」
+“Đ-Đợi một chút!?”
+
+@10610 Elle · エル
+# Kích hoạt: 中伤（剩余 HP 30–90%）（通用，2/6）
+> 「くっ、性能が違うとこれか!」
+"Chà, khoảng cách hiệu suất có lớn lắm không?"
+
+@10611 Elle · エル
+# Kích hoạt: 中伤（剩余 HP 30–90%）（通用，3/6）
+> 「きゃーっ!」
+"Ừ-!"
+
+@10612 Elle · エル
+# Kích hoạt: 中伤（剩余 HP 30–90%）（通用，4/6）
+> 「や、やってくれんじゃないの!」
+"Ngươi, ngươi thật dám đánh ta!"
+
+@10613 Elle · エル
+# Kích hoạt: 中伤（剩余 HP 30–90%）（通用，5/6）
+> 「いったぁ……なにすんのさ!」
+"Đau quá... cậu đang làm gì vậy!"
+
+@10614 Elle · エル
+# Kích hoạt: 中伤（剩余 HP 30–90%）（通用，6/6）
+> 「この! まだやられちゃいないよ!」
+"Chết tiệt! Tôi vẫn chưa bị đánh bại!"
+
+@10615 Elle · エル
+# Kích hoạt: 轻伤（剩余 HP 90% 以上）（通用，1/5）
+> 「や、やだ!」
+"Không, đừng!"
+
+@10616 Elle · エル
+# Kích hoạt: 轻伤（剩余 HP 90% 以上）（通用，2/5）
+> 「いってーっ!」
+“Đau quá—!”
+
+@10617 Elle · エル
+# Kích hoạt: 轻伤（剩余 HP 90% 以上）（通用，3/5）
+> 「うぅっ、やったなぁ!」
+"Wow, sao cậu dám!"
+
+@10618 Elle · エル
+# Kích hoạt: 轻伤（剩余 HP 90% 以上）（通用，4/5）
+> 「なーにさ、こんな攻撃」
+“Cái gì, kiểu tấn công này à?”
+
+@10619 Elle · エル
+# Kích hoạt: 轻伤（剩余 HP 90% 以上）（通用，5/5）
+> 「ぜんぜん効かないよ!」
+"Nó không có tác dụng gì cả!"
+
+@10620 Elle · エル
+# Kích hoạt: Né tránh（通用，1/5）
+> 「んーっ、なんという腕の冴え!」
+"Chà——, kỹ năng của tôi thực sự tuyệt vời!"
+
+@10621 Elle · エル
+# Kích hoạt: Né tránh（通用，2/5）
+> 「やったぁ!」
+"Tuyệt vời!"
+
+@10622 Elle · エル
+# Kích hoạt: Né tránh（通用，3/5）
+> 「ほらほら、こっちこっちぃ!」
+"Đi nào, đi nào, lối này, lối này!"
+
+@10623 Elle · エル
+# Kích hoạt: Né tránh（通用，4/5）
+> 「どこ狙ってるのさ!」
+"Ngươi nhắm vào đâu!"
+
+@10624 Elle · エル
+# Kích hoạt: Né tránh（通用，5/5）
+> 「ちょっと! 当たったらどうする
+>  つもり!?」
+"Này! Tôi nên làm gì nếu bị đánh!?"
+
+@10625 Elle · エル
+# Kích hoạt: Tấn công无效（护罩／装甲）（通用，1/3）
+> 「へへーん、ビームなんて効かないよ!」
+"Hehe——, chùm tia vô dụng với tôi!"
+
+@10626 Elle · エル
+# Kích hoạt: Tấn công无效（护罩／装甲）（通用，2/3）
+> 「なにさビームなんて!」
+"Chùm ánh sáng là gì?"
+
+@10627 Elle · エル
+# Kích hoạt: Tấn công无效（护罩／装甲）（通用，3/3）
+> 「フフン、たいしたことないじゃん?」
+"Hmph, đó không phải là vấn đề lớn phải không?"
+
+@10628 Elle · エル
+# Kích hoạt: 弹药／EN 不足，无法反击（通用，1/2）
+> 「弾切れ!? なんでさ!?」
+"Hết đạn!? Tại sao!?"
+
+@10629 Elle · エル
+# Kích hoạt: 弹药／EN 不足，无法反击（通用，2/2）
+> 「ちょ、ちょっと待ってよ!」
+"Chờ đã, đợi một chút!"
+
+@10630 Elle · エル
+# Kích hoạt: 射程外，无法反击（通用，1/2）
+> 「あんなところから攻撃してくんの!?」
+"Gọi từ rất xa!?"
+
+@10631 Elle · エル
+# Kích hoạt: 射程外，无法反击（通用，2/2）
+> 「なによ、届かないじゃない!」
+"Cái gì? Đơn giản là nó nằm ngoài tầm với!"
+
+@16318 Elle · エル
+# Kích hoạt: 使用〈ビームライフル／銃剣付きビームライフル〉（低优先，可能被通用台词顶掉）
+> 「ビームライフル、発射!」
+"Súng trường, bắn!"
+
+@16319 Elle · エル
+# Kích hoạt: 使用〈ファンネル／マザーファンネル〉
+> 「いっけー! ファンネルッ!!」
+“Nào——! Pháo nổi!!”
+
+@16320 Elle · エル
+# Kích hoạt: 使用〈ファンネル／マザーファンネル〉
+> 「ファンネル!」
+"Pháo bay!"
+
+@16321 Elle · エル
+# Kích hoạt: 使用〈フィンファンネル〉
+> 「いくよっ! フィンファンネル!」
+"Lên! Pháo nổi hình vây!"
+
+@16322 Elle · エル
+# Kích hoạt: 使用〈フィンファンネル〉
+> 「フィンファンネル!」
+"Pháo phao vây!"
+
+@16323 Elle · エル
+# Kích hoạt: 使用〈ハイメガキャノン〉（低优先，可能被通用台词顶掉）
+> 「エネルギー充填……
+>  いけっ! ハイメガキャノン!!」
+"Nạp năng lượng... tiếp tục! Mega Cannon năng lượng cao!!"

@@ -1,0 +1,335 @@
+# Bản dịch tiếng Việt Super Robot Wars 64
+# Định dạng và vị trí: docs/guide/dialogue-text.md
+
+@10055 Tekkoki · 鉄甲鬼
+# Kích hoạt: Tấn công (Chung，1/13）
+> 「俺は貴様らと勝負するために
+>  こうしてやって来たんだ!」
+"Ta tới đây chỉ để đấu với ngươi thôi!"
+
+@10056 Tekkoki · 鉄甲鬼
+# Kích hoạt: Tấn công (Chung，2/13）
+> 「俺は、正々堂々と戦う!」
+"Tôi muốn chiến đấu với phẩm giá!"
+
+@10057 Tekkoki · 鉄甲鬼
+# Kích hoạt: Tấn công (Chung，3/13）
+> 「とうっ!」
+"Uống đi!"
+
+@10058 Tekkoki · 鉄甲鬼
+# Kích hoạt: Tấn công (Chung，4/13）
+> 「俺は百鬼一族の鉄甲鬼だ!」
+"Tôi là một con quỷ mặc áo giáp của Bách Quỷ Tộc!"
+
+@10059 Tekkoki · 鉄甲鬼
+# Kích hoạt: Tấn công (Chung，5/13）
+> 「決着をつけてやるっ!」
+"Hãy kết thúc nó!"
+
+@10060 Tekkoki · 鉄甲鬼
+# Kích hoạt: Tấn công (Chung，6/13）
+> 「では、いくぞぉっ!」
+"Vậy thì đi thôi!"
+
+@10061 Tekkoki · 鉄甲鬼
+# Kích hoạt: Tấn công (Chung，7/13）
+> 「俺はこの時を待ち望んでいたんだ!」
+"Tôi đã chờ đợi khoảnh khắc này!"
+
+@10062 Tekkoki · 鉄甲鬼
+# Kích hoạt: Tấn công (Chung，8/13）
+> 「そらぁっ!」
+"Xem động tác!"
+
+@10063 Tekkoki · 鉄甲鬼
+# Kích hoạt: Tấn công (Chung，9/13）
+> 「俺の作ったこのメカ鉄甲鬼で
+>  貴様を倒す!」
+"Tôi sẽ sử dụng con ma bọc thép cơ khí mà tôi tạo ra để đánh bại bạn!"
+
+@10064 Tekkoki · 鉄甲鬼
+# Kích hoạt: Tấn công (Chung，10/13）
+> 「さっさと消えうせろーッ!」
+“Ra khỏi đây ngay—!”
+
+@10065 Tekkoki · 鉄甲鬼
+# Kích hoạt: Tấn công (Chung，11/13）
+> 「受けてみろ!」
+"Hãy di chuyển!"
+
+@10066 Tekkoki · 鉄甲鬼
+# Kích hoạt: Tấn công (Chung，12/13）
+> 「このおぉぉぉ!」
+“Đồ khốn—!”
+
+@10067 Tekkoki · 鉄甲鬼
+# Kích hoạt: Tấn công (Chung，13/13）
+> 「うおおぉぉぉ!!」
+"Ồhhhhhh!!"
+
+@10068 Tekkoki · 鉄甲鬼
+# Kích hoạt: 被击坠（通用，1/3）
+> 「く……ま、負けたのか……」
+"Ừm...tôi, tôi thua rồi..."
+
+@10069 Tekkoki · 鉄甲鬼
+# Kích hoạt: 被击坠（通用，2/3）
+> 「こ、このメカ鉄甲鬼がやられる
+>  はずが……!!」
+“L-làm sao con ma mặc giáp máy móc này có thể bị đánh bại…!!”
+
+@10070 Tekkoki · 鉄甲鬼
+# Kích hoạt: 被击坠（通用，3/3）
+> 「ば、ばかな……こんなことが……」
+"Không, không thể nào...làm sao chuyện này có thể xảy ra được..."
+
+@10071 Tekkoki · 鉄甲鬼
+# Kích hoạt: 重伤（剩余 HP 不足 30%）（通用，1/4）
+> 「よ、よくも俺の名誉に
+>  傷をつけてくれたなっ!」
+"Sao ngươi dám làm hoen ố danh tiếng của ta!"
+
+@10072 Tekkoki · 鉄甲鬼
+# Kích hoạt: 重伤（剩余 HP 不足 30%）（通用，2/4）
+> 「ぐ……貴様を倒して俺は、
+>  堂々と帰ってやるっ!」
+"Chà...tôi sẽ hạ gục bạn và quay trở lại vinh quang!"
+
+@10073 Tekkoki · 鉄甲鬼
+# Kích hoạt: 重伤（剩余 HP 不足 30%）（通用，3/4）
+> 「バ、バカな!? こんなことが……」
+"Không, không thể nào được!? Làm sao chuyện này có thể xảy ra được..."
+
+@10074 Tekkoki · 鉄甲鬼
+# Kích hoạt: 重伤（剩余 HP 不足 30%）（通用，4/4）
+> 「こ、こいつ……強い!?」
+"Cái này, cái tên này... mạnh quá!?"
+
+@10075 Tekkoki · 鉄甲鬼
+# Kích hoạt: 中伤（剩余 HP 30–90%）（通用，1/7）
+> 「フッ、このメカ鉄甲鬼が負けると
+>  でも思っているのか!」
+"Hừ, ngươi cho rằng máy móc thiết giáp quỷ này sẽ thua sao!"
+
+@10076 Tekkoki · 鉄甲鬼
+# Kích hoạt: 中伤（剩余 HP 30–90%）（通用，2/7）
+> 「くっ、これしきの傷でへばる
+>  俺ではないぞ!」
+"Được rồi, vết thương nhỏ này đánh không lại được ta!"
+
+@10077 Tekkoki · 鉄甲鬼
+# Kích hoạt: 中伤（剩余 HP 30–90%）（通用，3/7）
+> 「フッ、相手にとって不足はない!」
+"Hừ, đối thủ đủ xứng đáng!"
+
+@10078 Tekkoki · 鉄甲鬼
+# Kích hoạt: 中伤（剩余 HP 30–90%）（通用，4/7）
+> 「なに!? やるな!」
+"Cái gì!? Có hai khoảnh khắc!"
+
+@10079 Tekkoki · 鉄甲鬼
+# Kích hoạt: 中伤（剩余 HP 30–90%）（通用，5/7）
+> 「うっ……この程度でっ!」
+"Chà... chỉ thế thôi!"
+
+@10080 Tekkoki · 鉄甲鬼
+# Kích hoạt: 中伤（剩余 HP 30–90%）（通用，6/7）
+> 「な、なんだとっ!」
+"C-cái gì!"
+
+@10081 Tekkoki · 鉄甲鬼
+# Kích hoạt: 中伤（剩余 HP 30–90%）（通用，7/7）
+> 「こ、このままではすまさんっ!」
+“T-tôi sẽ không bỏ cuộc!”
+
+@10082 Tekkoki · 鉄甲鬼
+# Kích hoạt: 轻伤（剩余 HP 90% 以上）（通用，1/6）
+> 「俺の邪魔をするな!」
+"Đừng cản đường tôi!"
+
+@10083 Tekkoki · 鉄甲鬼
+# Kích hoạt: 轻伤（剩余 HP 90% 以上）（通用，2/6）
+> 「ふんっ!」
+"Hừm! "
+
+@10084 Tekkoki · 鉄甲鬼
+# Kích hoạt: 轻伤（剩余 HP 90% 以上）（通用，3/6）
+> 「貴様の武器はそれだけか!!」
+"Đây có phải là vũ khí của bạn không!!"
+
+@10085 Tekkoki · 鉄甲鬼
+# Kích hoạt: 轻伤（剩余 HP 90% 以上）（通用，4/6）
+> 「その程度では通用せん!」
+"Kỹ năng này hoàn toàn không có tác dụng!"
+
+@10086 Tekkoki · 鉄甲鬼
+# Kích hoạt: 轻伤（剩余 HP 90% 以上）（通用，5/6）
+> 「そんなものか!」
+"Đây là tất cả những gì bạn có thể làm?"
+
+@10087 Tekkoki · 鉄甲鬼
+# Kích hoạt: 轻伤（剩余 HP 90% 以上）（通用，6/6）
+> 「このメカ鉄甲鬼を甘く見ては
+>  困るな!」
+"Đừng đánh giá thấp con ma mặc giáp máy móc này!"
+
+@10088 Tekkoki · 鉄甲鬼
+# Kích hoạt: Né tránh（通用，1/6）
+> 「あわてるなっ!」
+"Đừng hoảng sợ!"
+
+@10089 Tekkoki · 鉄甲鬼
+# Kích hoạt: Né tránh（通用，2/6）
+> 「はぁっ!」
+"Ha!"
+
+@10090 Tekkoki · 鉄甲鬼
+# Kích hoạt: Né tránh（通用，3/6）
+> 「あたるものかっ!」
+"Làm sao có thể đánh trúng!"
+
+@10091 Tekkoki · 鉄甲鬼
+# Kích hoạt: Né tránh（通用，4/6）
+> 「バカめっ!」
+"Đồ ngốc!"
+
+@10092 Tekkoki · 鉄甲鬼
+# Kích hoạt: Né tránh（通用，5/6）
+> 「ムダだっ!」
+"Tất cả đều vô ích!"
+
+@10093 Tekkoki · 鉄甲鬼
+# Kích hoạt: Né tránh（通用，6/6）
+> 「フンッ、それだけか!?」
+“Humph, đó là tất cả những gì cậu có à?”
+
+@10094 Tekkoki · 鉄甲鬼
+# Kích hoạt: Tấn công无效（护罩／装甲）（通用，1/2）
+> 「ムダだっ!」
+"Tất cả đều vô ích!"
+
+@10095 Tekkoki · 鉄甲鬼
+# Kích hoạt: Tấn công无效（护罩／装甲）（通用，2/2）
+> 「フンッ、それだけか!?」
+“Humph, đó là tất cả những gì cậu có à?”
+
+@10096 Tekkoki · 鉄甲鬼
+# Kích hoạt: 弹药／EN 不足，无法反击（通用，1/1）
+> 「エネルギー切れ!? バッ、バカな!」
+"Hết năng lượng!? Không, điều đó là không thể!"
+
+@10097 Tekkoki · 鉄甲鬼
+# Kích hoạt: 射程外，无法反击（通用，1/2）
+> 「うっ……届かないか……」
+"Hmm...không thể với tới được..."
+
+@10098 Tekkoki · 鉄甲鬼
+# Kích hoạt: 射程外，无法反击（通用，2/2）
+> 「おのれ、卑劣な真似を!」
+"Chết tiệt, sao ngươi dám dùng thủ đoạn hèn hạ như vậy!"
+
+@15273 Tekkoki · 鉄甲鬼
+# Kích hoạt: 使用〈ミサイル／グレネードランチャー／ミサイルポッド／ホーミングミサイル／連装ミサイルランチャー／小型ミサイル／大型ミサイル〉（低优先，可能被通用台词顶掉）
+> 「ミサイル発射!」
+"Phóng tên lửa!"
+
+@15274 Tekkoki · 鉄甲鬼
+# Kích hoạt: 使用〈ミサイル／グレネードランチャー／ミサイルポッド／ホーミングミサイル／連装ミサイルランチャー／小型ミサイル／大型ミサイル〉（低优先，可能被通用台词顶掉）
+> 「受けろ! ミサイル!!」
+"Tiến lên! Tên lửa!!"
+
+@15275 Tekkoki · 鉄甲鬼
+# Kích hoạt: 使用〈ミサイル／グレネードランチャー／ミサイルポッド／ホーミングミサイル／連装ミサイルランチャー／小型ミサイル／大型ミサイル〉（低优先，可能被通用台词顶掉）
+> 「そこだ!!」
+“Chính là nó!!”
+
+@15276 Tekkoki · 鉄甲鬼
+# Kích hoạt: 对手机体〈ゲッター1〉
+> 「行くぞっ!! ゲッターロボ!」
+"Cố lên!! Robot Getter!"
+
+@15277 Tekkoki · 鉄甲鬼
+# Kích hoạt: 对手机体〈ゲッター2〉
+> 「行くぞっ!! ゲッターロボ!」
+"Cố lên!! Robot Getter!"
+
+@15278 Tekkoki · 鉄甲鬼
+# Kích hoạt: 对手机体〈ゲッター3〉
+> 「行くぞっ!! ゲッターロボ!」
+"Cố lên!! Robot Getter!"
+
+@15279 Tekkoki · 鉄甲鬼
+# Kích hoạt: 对手机体〈ゲッタードラゴン〉
+> 「行くぞっ!! ゲッターロボ!」
+"Cố lên!! Robot Getter!"
+
+@15280 Tekkoki · 鉄甲鬼
+# Kích hoạt: 对手机体〈ゲッターポセイドン〉
+> 「行くぞっ!! ゲッターロボ!」
+"Cố lên!! Robot Getter!"
+
+@15281 Tekkoki · 鉄甲鬼
+# Kích hoạt: 对手机体〈ゲッターライガー〉
+> 「行くぞっ!! ゲッターロボ!」
+"Cố lên!! Robot Getter!"
+
+@15282 Tekkoki · 鉄甲鬼
+# Kích hoạt: 对手机体〈真・ゲッター1〉
+> 「行くぞっ!! ゲッターロボ!」
+"Cố lên!! Robot Getter!"
+
+@15283 Tekkoki · 鉄甲鬼
+# Kích hoạt: 对手机体〈真・ゲッター2〉
+> 「行くぞっ!! ゲッターロボ!」
+"Cố lên!! Robot Getter!"
+
+@15284 Tekkoki · 鉄甲鬼
+# Kích hoạt: 对手机体〈真・ゲッター3〉
+> 「行くぞっ!! ゲッターロボ!」
+"Cố lên!! Robot Getter!"
+
+@15285 Tekkoki · 鉄甲鬼
+# Kích hoạt: 对手机体〈ゲッター1〉
+> 「ゲッターロボ! 勝負しろっ!!」
+"Robot Getter! Hãy chiến đấu với tôi!!"
+
+@15286 Tekkoki · 鉄甲鬼
+# Kích hoạt: 对手机体〈ゲッター2〉
+> 「ゲッターロボ! 勝負しろっ!!」
+"Robot Getter! Hãy chiến đấu với tôi!!"
+
+@15287 Tekkoki · 鉄甲鬼
+# Kích hoạt: 对手机体〈ゲッター3〉
+> 「ゲッターロボ! 勝負しろっ!!」
+"Robot Getter! Hãy chiến đấu với tôi!!"
+
+@15288 Tekkoki · 鉄甲鬼
+# Kích hoạt: 对手机体〈ゲッタードラゴン〉
+> 「ゲッターロボ! 勝負しろっ!!」
+"Robot Getter! Hãy chiến đấu với tôi!!"
+
+@15289 Tekkoki · 鉄甲鬼
+# Kích hoạt: 对手机体〈ゲッターポセイドン〉
+> 「ゲッターロボ! 勝負しろっ!!」
+"Robot Getter! Hãy chiến đấu với tôi!!"
+
+@15290 Tekkoki · 鉄甲鬼
+# Kích hoạt: 对手机体〈ゲッターライガー〉
+> 「ゲッターロボ! 勝負しろっ!!」
+"Robot Getter! Hãy chiến đấu với tôi!!"
+
+@15291 Tekkoki · 鉄甲鬼
+# Kích hoạt: 对手机体〈真・ゲッター1〉
+> 「ゲッターロボ! 勝負しろっ!!」
+"Robot Getter! Hãy chiến đấu với tôi!!"
+
+@15292 Tekkoki · 鉄甲鬼
+# Kích hoạt: 对手机体〈真・ゲッター2〉
+> 「ゲッターロボ! 勝負しろっ!!」
+"Robot Getter! Hãy chiến đấu với tôi!!"
+
+@15293 Tekkoki · 鉄甲鬼
+# Kích hoạt: 对手机体〈真・ゲッター3〉
+> 「ゲッターロボ! 勝負しろっ!!」
+"Robot Getter! Hãy chiến đấu với tôi!!"

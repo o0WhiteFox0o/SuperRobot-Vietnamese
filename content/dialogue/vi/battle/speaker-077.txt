@@ -1,0 +1,157 @@
+# Bản dịch tiếng Việt Super Robot Wars 64
+# Định dạng và vị trí: docs/guide/dialogue-text.md
+
+@8591 Mouar · マウアー
+# Kích hoạt: Tấn công (Chung，1/9）
+> 「やらせはしないっ!!」
+"Tôi sẽ không để bạn thành công!!"
+
+@8592 Mouar · マウアー
+# Kích hoạt: Tấn công (Chung，2/9）
+> 「そこっ!!」
+“Chính là nó!!”
+
+@8593 Mouar · マウアー
+# Kích hoạt: Tấn công (Chung，3/9）
+> 「落ちろっ!」
+"Rớt!"
+
+@8594 Mouar · マウアー
+# Kích hoạt: Tấn công (Chung，4/9）
+> 「当てる!」
+"Xem ta đánh ngươi!"
+
+@8595 Mouar · マウアー
+# Kích hoạt: Tấn công (Chung，5/9）
+> 「もらった!」
+"Thành công!"
+
+@8596 Mouar · マウアー
+# Kích hoạt: Tấn công (Chung，6/9）
+> 「これ以上好きにはさせない!」
+"Tôi sẽ không để anh làm bất cứ điều gì anh muốn nữa!"
+
+@8597 Mouar · マウアー
+# Kích hoạt: Tấn công (Chung，7/9）
+> 「私が相手だ!」
+"Đối thủ của bạn là tôi!"
+
+@8598 Mouar · マウアー
+# Kích hoạt: Tấn công (Chung，8/9）
+> 「沈めっ!」
+"Bồn rửa!"
+
+@8599 Mouar · マウアー
+# Kích hoạt: Tấn công (Chung，9/9）
+> 「これで決めるっ!」
+"Dùng thủ thuật này để quyết định kết quả!"
+
+@8600 Mouar · マウアー
+# Kích hoạt: 被击坠（通用，1/2）
+> 「そんな……」
+"Làm sao có thể..."
+
+@8601 Mouar · マウアー
+# Kích hoạt: 被击坠（通用，2/2）
+> 「ジェ、ジェリド……」
+“杰、杰利德……”
+
+@8602 Mouar · マウアー
+# Kích hoạt: 重伤（剩余 HP 不足 30%）（通用，1/4）
+> 「ま……まだだ!! まだ落ちはしない!!」
+"Nó...nó vẫn chưa kết thúc!! Tôi sẽ không ngã đâu!!"
+
+@8603 Mouar · マウアー
+# Kích hoạt: 重伤（剩余 HP 不足 30%）（通用，2/4）
+> 「くっ!! このままでは……」
+“唔!!再这样下去……”
+
+@8604 Mouar · マウアー
+# Kích hoạt: 重伤（剩余 HP 不足 30%）（通用，3/4）
+> 「しまった!? これ以上のダメージは…」
+“糟了!？要是再挨打………”
+
+@8605 Mouar · マウアー
+# Kích hoạt: 重伤（剩余 HP 不足 30%）（通用，4/4）
+> 「あうっ!! な、なんてパワー……」
+“啊!!这、这么大的力量……”
+
+@8606 Mouar · マウアー
+# Kích hoạt: 中伤（剩余 HP 30–90%）（通用，1/4）
+> 「つっ! この程度で!」
+"Ừm! Vết thương nhỏ này không là gì cả!"
+
+@8607 Mouar · マウアー
+# Kích hoạt: 中伤（剩余 HP 30–90%）（通用，2/4）
+> 「まだっ! まだいける!」
+"Chưa! Tôi vẫn còn có thể chiến đấu!"
+
+@8608 Mouar · マウアー
+# Kích hoạt: 中伤（剩余 HP 30–90%）（通用，3/4）
+> 「くっ! 当たったところで!」
+“唔!就算被打中了又怎样!”
+
+@8609 Mouar · マウアー
+# Kích hoạt: 中伤（剩余 HP 30–90%）（通用，4/4）
+> 「やるっ! だがまだやられてはいない!」
+“有两下子!但我还没被打倒!”
+
+@8610 Mouar · マウアー
+# Kích hoạt: 轻伤（剩余 HP 90% 以上）（通用，1/3）
+> 「甘いな、この程度のダメージなど!」
+"Ngươi thật ngây thơ, chút tổn hại này cũng không tính là gì!"
+
+@8611 Mouar · マウアー
+# Kích hoạt: 轻伤（剩余 HP 90% 以上）（通用，2/3）
+> 「くっ、こんなもので!」
+“唔,就凭这种攻击!”
+
+@8612 Mouar · マウアー
+# Kích hoạt: 轻伤（剩余 HP 90% 以上）（通用，3/3）
+> 「ダメージ軽微、まだいける!」
+“损伤轻微,还能打!”
+
+@8613 Mouar · マウアー
+# Kích hoạt: Né tránh（通用，1/6）
+> 「当たりはしない!」
+"Bạn không thể đánh nó!"
+
+@8614 Mouar · マウアー
+# Kích hoạt: Né tránh（通用，2/6）
+> 「甘いな」
+"Quá ngây thơ."
+
+@8615 Mouar · マウアー
+# Kích hoạt: Né tránh（通用，3/6）
+> 「そこか!」
+"Đó!"
+
+@8616 Mouar · マウアー
+# Kích hoạt: Né tránh（通用，4/6）
+> 「かわしてみせる!」
+“我一定躲得开!”
+
+@8617 Mouar · マウアー
+# Kích hoạt: Né tránh（通用，5/6）
+> 「このっ!」
+"Anh bạn!"
+
+@8618 Mouar · マウアー
+# Kích hoạt: Né tránh（通用，6/6）
+> 「この程度っ!」
+"Đó là tất cả!"
+
+@8619 Mouar · マウアー
+# Kích hoạt: Tấn công无效（护罩／装甲）（通用，1/1）
+> 「そんなビームが通用するものか!」
+“那种光束怎么可能管用!”
+
+@8620 Mouar · マウアー
+# Kích hoạt: 弹药／EN 不足，无法反击（通用，1/1）
+> 「何っ!? 弾切れか!?」
+"Cái gì!? Hết đạn!?"
+
+@8621 Mouar · マウアー
+# Kích hoạt: 射程外，无法反击（通用，1/1）
+> 「くっ、この距離では反撃できない…」
+“唔,这么远没法反击……”

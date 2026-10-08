@@ -1,0 +1,187 @@
+# Bản dịch tiếng Việt Super Robot Wars 64
+# Định dạng và vị trí: docs/guide/dialogue-text.md
+
+@13819 Neo Zeon Soldier · ネオジオン兵
+# Kích hoạt: Tấn công (Chung，1/10）
+> 「邪魔なんだよ!」
+"Có cái gì đó cản đường!"
+
+@13820 Neo Zeon Soldier · ネオジオン兵
+# Kích hoạt: Tấn công (Chung，2/10）
+> 「うおおおおっ!!」
+“Ồ ồ! ! "
+
+@13821 Neo Zeon Soldier · ネオジオン兵
+# Kích hoạt: Tấn công (Chung，3/10）
+> 「これでとどめだ!!」
+“Một đòn này sẽ kết liễu ngươi!!”
+
+@13822 Neo Zeon Soldier · ネオジオン兵
+# Kích hoạt: Tấn công (Chung，4/10）
+> 「こいつで決めてやる!」
+“Tôi sẽ dùng cái này để thoát khỏi cậu!”
+
+@13823 Neo Zeon Soldier · ネオジオン兵
+# Kích hoạt: Tấn công (Chung，5/10）
+> 「やらせるかっ!!」
+"Đừng nghĩ tới chuyện đó nữa!!"
+
+@13824 Neo Zeon Soldier · ネオジオン兵
+# Kích hoạt: Tấn công (Chung，6/10）
+> 「落ちろっ!!」
+"Thả tôi xuống!!"
+
+@13825 Neo Zeon Soldier · ネオジオン兵
+# Kích hoạt: Tấn công (Chung，7/10）
+> 「このっ!!」
+"Chết tiệt!!"
+
+@13826 Neo Zeon Soldier · ネオジオン兵
+# Kích hoạt: Tấn công (Chung，8/10）
+> 「行くぞっ!!」
+"Hiểu rồi!!"
+
+@13827 Neo Zeon Soldier · ネオジオン兵
+# Kích hoạt: Tấn công (Chung，9/10）
+> 「そこだっ!」
+"Chính là nó!"
+
+@13828 Neo Zeon Soldier · ネオジオン兵
+# Kích hoạt: Tấn công (Chung，10/10）
+> 「もらった!」
+"Đã lấy nó!"
+
+@13829 Neo Zeon Soldier · ネオジオン兵
+# Kích hoạt: 被击坠（通用，1/2）
+> 「な、何だと!?」
+"C-Cái gì!?"
+
+@13830 Neo Zeon Soldier · ネオジオン兵
+# Kích hoạt: 被击坠（通用，2/2）
+> 「しまった! 直撃か!?」
+"Ối! Bị đánh à!?"
+
+@13831 Neo Zeon Soldier · ネオジオン兵
+# Kích hoạt: 重伤（剩余 HP 不足 30%）（通用，1/5）
+> 「ぐうっ、い、いかん、やられる!?」
+"Ừm, không, không, tôi sẽ bị giết!?"
+
+@13832 Neo Zeon Soldier · ネオジオン兵
+# Kích hoạt: 重伤（剩余 HP 不足 30%）（通用，2/5）
+> 「うおっ!? くっ、こっちが不利か!」
+"Uh-oh!? Chà, tôi đang ở thế bất lợi à!"
+
+@13833 Neo Zeon Soldier · ネオジオン兵
+# Kích hoạt: 重伤（剩余 HP 不足 30%）（通用，3/5）
+> 「ぬうううっ! つ、強いっ!」
+"Uh-huh! Mạnh quá!"
+
+@13834 Neo Zeon Soldier · ネオジオン兵
+# Kích hoạt: 重伤（剩余 HP 不足 30%）（通用，4/5）
+> 「やるっ! さすがは!」
+"Phải mất hai! Bạn thực sự là một cao thủ!"
+
+@13835 Neo Zeon Soldier · ネオジオン兵
+# Kích hoạt: 重伤（剩余 HP 不足 30%）（通用，5/5）
+> 「ぐうぅっ!! パワーが違いすぎる!!」
+"Hmm!! Sự chênh lệch sức mạnh quá lớn!!"
+
+@13836 Neo Zeon Soldier · ネオジオン兵
+# Kích hoạt: 中伤（剩余 HP 30–90%）（通用，1/5）
+> 「ちいっ! まだまだっ!」
+"Tsk! Vẫn còn sớm!"
+
+@13837 Neo Zeon Soldier · ネオジオン兵
+# Kích hoạt: 中伤（剩余 HP 30–90%）（通用，2/5）
+> 「くっ! 少しはできるな!」
+"Hmm! Bạn khá có năng lực!"
+
+@13838 Neo Zeon Soldier · ネオジオン兵
+# Kích hoạt: 中伤（剩余 HP 30–90%）（通用，3/5）
+> 「ぬうっ! そう簡単にやられはせん!!」
+"Hmm! Tôi sẽ không bị giết dễ dàng như vậy đâu!!"
+
+@13839 Neo Zeon Soldier · ネオジオン兵
+# Kích hoạt: 中伤（剩余 HP 30–90%）（通用，4/5）
+> 「うっ! やってくれたな!!」
+"Ugh! Sao cậu dám tấn công tôi!!"
+
+@13840 Neo Zeon Soldier · ネオジオン兵
+# Kích hoạt: 中伤（剩余 HP 30–90%）（通用，5/5）
+> 「まだだっ! まだこれからよ!!」
+"Mọi chuyện vẫn chưa kết thúc! Đây chỉ là sự khởi đầu thôi!!"
+
+@13841 Neo Zeon Soldier · ネオジオン兵
+# Kích hoạt: 轻伤（剩余 HP 90% 以上）（通用，1/4）
+> 「パワー不足だな!」
+"Không đủ mạnh!"
+
+@13842 Neo Zeon Soldier · ネオジオン兵
+# Kích hoạt: 轻伤（剩余 HP 90% 以上）（通用，2/4）
+> 「その程度か!」
+“Đó là tất cả những gì cậu có à?”
+
+@13843 Neo Zeon Soldier · ネオジオン兵
+# Kích hoạt: 轻伤（剩余 HP 90% 以上）（通用，3/4）
+> 「そんな攻撃など効くものかよ!」
+“Làm sao đòn tấn công đó có thể hoạt động được?”
+
+@13844 Neo Zeon Soldier · ネオジオン兵
+# Kích hoạt: 轻伤（剩余 HP 90% 以上）（通用，4/4）
+> 「ふん、かすっただけよ!」
+"Hừm, chỉ là lau thôi mà!"
+
+@13845 Neo Zeon Soldier · ネオジオン兵
+# Kích hoạt: Né tránh（通用，1/5）
+> 「当たるものかよ!」
+"Làm sao có thể đánh được!"
+
+@13846 Neo Zeon Soldier · ネオジオン兵
+# Kích hoạt: Né tránh（通用，2/5）
+> 「踏み込みが足りん!」
+"Không đủ gần!"
+
+@13847 Neo Zeon Soldier · ネオジオン兵
+# Kích hoạt: Né tránh（通用，3/5）
+> 「間合いが遠いわっ!」
+"Nó quá xa!"
+
+@13848 Neo Zeon Soldier · ネオジオン兵
+# Kích hoạt: Né tránh（通用，4/5）
+> 「狙いが甘い!」
+"Mục tiêu kém!"
+
+@13849 Neo Zeon Soldier · ネオジオン兵
+# Kích hoạt: Né tránh（通用，5/5）
+> 「バカめ。どこを狙っている!」
+"Đồ ngốc. Cậu đang nhắm vào đâu vậy!"
+
+@13850 Neo Zeon Soldier · ネオジオン兵
+# Kích hoạt: Tấn công无效（护罩／装甲）（通用，1/2）
+> 「ムダな攻撃をする……」
+"Thật lãng phí sức lực..."
+
+@13851 Neo Zeon Soldier · ネオジオン兵
+# Kích hoạt: Tấn công无效（护罩／装甲）（通用，2/2）
+> 「ふ、そんなビームではな!」
+“Hmph, loại tia đó không có tác dụng đâu!”
+
+@13852 Neo Zeon Soldier · ネオジオン兵
+# Kích hoạt: 弹药／EN 不足，无法反击（通用，1/2）
+> 「ちっ、弾切れとはな……」
+"Chậc, thực sự không có đạn..."
+
+@13853 Neo Zeon Soldier · ネオジオン兵
+# Kích hoạt: 弹药／EN 不足，无法反击（通用，2/2）
+> 「弾切れか……しかたあるまい」
+"Không có đạn dược...chúng tôi không thể làm gì được"
+
+@13854 Neo Zeon Soldier · ネオジオン兵
+# Kích hoạt: 射程外，无法反击（通用，1/2）
+> 「ちっ、遠距離からの攻撃か……」
+"Chậc, cậu đang gọi từ xa à..."
+
+@13855 Neo Zeon Soldier · ネオジオン兵
+# Kích hoạt: 射程外，无法反击（通用，2/2）
+> 「む……ここからでは反撃できん」
+"Chà...không có cách nào để đánh trả từ đây."

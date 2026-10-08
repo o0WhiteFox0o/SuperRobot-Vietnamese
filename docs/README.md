@@ -39,6 +39,7 @@
 | [界面排版离线审计](guide/ui-layout-audit.md) | 用录下的页面状态在无游戏的小窗口里排版共用界面、截图、报告溢出；首次审计修掉的问题 |
 | [发布构建](guide/release.md) | 从一个提交构建应用与单独的 HD 包、HD 包的安装与声明、手动发布 |
 | [Linux 与 Steam Deck 构建](guide/linux-build.md) | 在 Mac 上用 Docker 构建 Linux x64 包、随包依赖与链接检查、Deck 安装、与 macOS 的差别和验证记录 |
+| [Windows PC 构建与运行指南](guide/pc-windows-build.md) | Windows PC (Marchwind64) 运行指南、按键映射、源码编译依赖 (MSVC/Clang-cl/vcpkg) 与 CI 工作流 |
 | [台词文本文件](guide/dialogue-text.md) | 剧情、选择肢与战斗台词的纯文本格式、附带文件与用户目录覆盖、F5 重新载入与错误报告 |
 | [原生存档恢复](guide/native-save-recovery.md) | 历史存档列表与显式恢复、完整性回退、通关档冷启动证据 |
 | [本地输入与来源记录](guide/provenance.md) | 原 ROM 身份、日文字形表、固定工具链与参考资料 |

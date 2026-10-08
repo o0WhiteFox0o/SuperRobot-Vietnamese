@@ -1,0 +1,3040 @@
+# Bản dịch tiếng Việt Super Robot Wars 64
+# Định dạng và vị trí: docs/guide/dialogue-text.md
+
+@45363 Beltorchika · ベルトーチカ
+> 「まもなく、ネオ・ホンコンに到達。
+>  周囲に機影なし」
+"Sắp đến Tân Hồng Kông. Xung quanh cơ thể không có phản ứng gì."
+
+@45364 Bunny · バニー
+> 「艦長、先行したエイジたちから
+>  連絡がありました! ドモンたちを
+"Đội trưởng, Eiji và những người khởi hành đầu tiên đã gửi tin tức! Họ nói rằng họ đã tìm thấy Domon và những người khác.
+---
+>  発見したそうです。まだデビルガンダム
+>  と接触はしていないようです」
+Có vẻ như anh ta vẫn chưa chiến đấu chống lại DemonGundam. "
+
+@45365 Bright · ブライト
+> 「そうか。なんとか間に合ったようだな。
+>  よし、すぐに合流させろ」
+"Thật sao? Cuối cùng chúng ta cũng đuổi kịp. Được rồi, chúng ta hãy gặp họ ngay lập tức."
+
+@45366 Amuro · アムロ
+> 「ランタオ島?」
+“Đảo Lantau? "
+
+@45367 Quatre · カトル
+> 「はい。そこに、デビルガンダムがいるらしい
+>  んです。僕たちは、これからそこへ
+"Đúng. Devil Gundade dường như ở đó. Chúng tôi đang lên kế hoạch."
+---
+>  向かおうとしていたんですよ」
+Đi đâu? "
+
+@45368 Sai Saici · サイ・サイシー
+> 「いくんなら、早くいこうよ。じゃないと、
+>  ドモンのアニキは1人でもいっちまうぜ」
+“Muốn đi thì đi nhanh đi. Nếu không, anh Domeng sẽ một mình lao tới.”
+
+@45369 Bright · ブライト
+> 「まったく、困ったものだな。よし、
+>  全艦、ランタオ島へ進路をとれ!」
+"Thật sự, chúng ta không thể làm gì chống lại hắn. Được rồi, tất cả các tàu, đi đến đảo Lantau!"
+
+@45370 Domon · ドモン
+> 「ん? どうした、レイン。具合いでも
+>  悪いのか?」
+"Hả? Có chuyện gì vậy Ling? Em thấy không khỏe à?"
+
+@45371 Rain · レイン
+> 「……え? う、ううん、なんでもないわ」
+"...Ơ? Không, không, không có gì đâu."
+
+@45372 Schwarz · シュバルツ
+> 「…………」
+“…………”
+
+@45373 Duo · デュオ
+> 「何にもないぜ。本当に、ここに
+>  デビルガンダムがいるのかよ」
+"Không có gì cả. Devil Gund có thực sự ở đây không?"
+
+@45374 Domon · ドモン
+> 「ああ……そのはずだ」
+"Hmm... có lẽ đúng vậy."
+
+@45375 Schwarz · シュバルツ
+> 「いや、確かにここで間違いないようだ
+>  見ろ」
+"Không, có vẻ như đây là nơi thích hợp. Nhìn này."
+
+@45376 Markiroot · マーキロット
+> 「フハハハッ、さぁ、神の裁きを
+>  受けよ!」
+"Hahaha, thôi nào, hãy chấp nhận sự phán xét của Chúa!"
+
+@45377 Sijima · シジーマ
+> 「お前たちには、ここで死んでもらう
+>  わよ!」
+"Ngươi cứ như vậy chết ở chỗ này!"
+
+@45378 Duo · デュオ
+> 「かー、うようよいやがるぜ」
+"Ồ, có rất nhiều người trong số họ xuất hiện."
+
+@45379 Domon · ドモン
+> 「マーキロット!? シジーマもか!」
+"Chợ!? Ngay cả Shi Zhema cũng ở đây!"
+
+@45380 George · ジョルジュ
+> 「どうやら、DG細胞におかされている
+>  ようですね」
+"Có vẻ như nó đã bị tế bào DG ăn mòn."
+
+@45381 Quatre · カトル
+> 「……なんとか助けられないのでしょうか」
+“…Có cách nào để cứu họ không?”
+
+@45382 Schwarz · シュバルツ
+> 「無理だな。我々にできるのは、
+>  もはや眠らせてやることだけだ」
+"Không thể nào. Tất cả những gì chúng ta có thể làm là để họ ngủ yên."
+
+@45383 Domon · ドモン
+> 「ゆくぞ、お前たち!」
+"Theo tôi!"
+
+@45384 Ryoma · リョウ
+> 「どうだ、うまくいってるぜ!」
+"Mọi việc thế nào rồi? Mọi việc diễn ra khá tốt đẹp!"
+
+@45385 Hayato · ハヤト
+> 「すごいな……これでフルパワーじゃないとは
+>  驚きだ」
+"Thật tuyệt vời...đây thực sự không phải là toàn bộ sức mạnh."
+
+@45386 Benkei · ベンケイ
+> 「あいたたたたた」
+"Ôi ôi yo yo."
+
+@45387 Dr. Saotome · 早乙女博士
+> 「いいかお前たち、くれぐれも注意する
+>  んだ」
+"Mọi người nghe đây, hãy cẩn thận."
+
+@45388 Ryoma · リョウ
+> 「わかってます。大丈夫ですよ、
+>  博士。まぁ見ていてください」
+"Tôi biết. Không sao đâu bác sĩ. Cứ xem đi."
+
+@45389 Wong · ウォン
+> 「あれは……アレンビー・ビアズリー?
+>  ククククッ、わざわざ私のもとへ
+"Đó là...Allenby Beardsley? Hahahaha, cụ thể là
+---
+>  もどってきてくれたというわけですか。
+>  これは好都合
+Hãy quay lại với tôi. Nó không thể tốt hơn.
+---
+>  強化型バーサーカーシステムを
+>  作動させろ! ……さぁ、こっちに
+Kích hoạt hệ thống điên cuồng nâng cao! ...nào, lại đây
+---
+>  おいでなさい、アレンビー。ククククッ」
+Đi nào, Alimbi. Hehehe. "
+
+@45390 Allenby · アレンビー
+> 「……!! あ……なに……!?」
+"...!! Ah...cái gì...!?"
+
+@45391 Domon · ドモン
+> 「どうした、アレンビー」
+“Có chuyện gì thế, Allenbi?”
+
+@45392 Allenby · アレンビー
+> 「や……いや! やめてッ!!」
+"Không... đừng! Dừng lại!!"
+
+@45393 Domon · ドモン
+> 「アレンビー!?」
+"Alembi!?"
+
+@45394 Allenby · アレンビー
+> 「ドモン! ドモン、助けて!
+>  お願い……やめてぇぇっ!!」
+"Domon! Domon, giúp tôi với! Làm ơn... dừng lại đi!!"
+
+@45395 Domon · ドモン
+> 「どうしたっていうんだ、アレンビー!!」
+"Chuyện gì đang xảy ra vậy, Alimbi!!"
+
+@45396 Allenby · アレンビー
+> 「いやあぁぁぁぁぁぁぁぁーっ!!」
+"Không ahhhhhhhhhhhhhhhh-!!"
+
+@45397 Domon · ドモン
+> 「待て、アレンビー!!」
+"Đợi đã, Alimbi!!"
+
+@45398 Domon · ドモン
+> 「アレンビィィィーッ!! くそっ、何が
+>  どうなっているんだ!?」
+"Alembi——!! Chết tiệt, chuyện gì đã xảy ra vậy!?"
+
+@45399 Wong · ウォン
+> 「クククククッ、さぁお行きなさい。
+>  私のかわいいデビル・アレンビーよ!」
+"Hehehehe, tiếp tục đi. Con quỷ đáng yêu Alimbi của tôi!"
+
+@45400 Allenby · アレンビー
+> 「……うおおぉぉぉぉっ!!」
+"...ooohhhhhhh!!"
+
+@45401 Domon · ドモン
+> 「アレンビー? アレンビーなのか!?
+>  だったら、答えてくれ!
+"Allenbi? Có phải Allenbi không!? Vậy trả lời tôi đi!"
+---
+>  答えてくれ、アレンビー!!」
+Trả lời tôi đi, Alimbi! ! "
+
+@45402 Rain · レイン
+> 「そんな……まさか、DG細胞……?」
+“Sao có thể… có thể là tế bào DG…?”
+
+@45403 Wong · ウォン
+> 「フフフフッ、さあ、やってしまいたまえ!」
+"Hehehe, cố lên, làm thôi!"
+
+@45404 Domon · ドモン
+> 「くっ、アレンビィィーッ!!」
+"Chà, Alimbi-!!"
+
+@45405 Master · マスター
+> 「ウォン! これは、いったい
+>  どういうことだ!?」
+"Hoàng! Chuyện quái gì đang xảy ra vậy!?"
+
+@45406 Wong · ウォン
+> 「東方先生、私のアレンビーが
+>  ドモンたちを倒して、デビルガンダムの
+"Ông. Đông Phương, Alimbi của tôi sẽ đánh bại Domon và những người khác và trở thành Demon Demon."
+---
+>  コアになる。そういうことですよ」
+cốt lõi. Thế thôi. "
+
+@45407 Master · マスター
+> 「ぬぅぅ……いいだろう。だが、お前の
+>  浅知恵がどこまで通用するかな」
+"Ừm...Được rồi. Nhưng điều đó còn phụ thuộc vào sự thông minh nhỏ bé của bạn có thể được sử dụng trong bao lâu."
+
+@45408 Wong · ウォン
+> 「クククククッ、さぁお行きなさい。
+>  私のかわいいデビル・アレンビーよ!」
+"Hehehehe, tiếp tục đi. Con quỷ đáng yêu Alimbi của tôi!"
+
+@45409 Allenby · アレンビー
+> 「……うおおぉぉぉぉっ!!」
+"...ooohhhhhhh!!"
+
+@45410 Domon · ドモン
+> 「アレンビー? アレンビーなのか!?
+>  だったら、答えてくれ!
+"Allenbi? Có phải Allenbi không!? Vậy trả lời tôi đi!"
+---
+>  答えてくれ、アレンビー!!」
+Trả lời tôi đi, Alimbi! ! "
+
+@45411 Rain · レイン
+> 「そんな……まさか、DG細胞……?」
+“Sao có thể… có thể là tế bào DG…?”
+
+@45412 Wong · ウォン
+> 「フフフフッ、さあ、やってしまいたまえ!」
+"Hehehe, cố lên, làm thôi!"
+
+@45413 Domon · ドモン
+> 「アレンビー、どうした!?
+>  俺がわからないのか!?」
+"Alembi, cậu bị sao vậy!? Cậu không nhận ra tôi sao!?”
+
+@45414 Allenby · アレンビー
+> 「わかるよ、ドモン。だから……
+>  ファイトしようよ、アタシとぉぉーっ!!」
+"Tôi biết bạn, Domeng. Vì vậy... hãy chiến đấu nhé, theo tôi ahhhh-!!"
+
+@45415 Rain · レイン
+> 「ウソでしょう、アレンビー、
+>  あなたまでDG細胞に……」
+"Không thể nào, Alimbi, ngay cả anh cũng bị nhiễm tế bào DG..."
+
+@45416 Domon · ドモン
+> 「くっ、アレンビィィーッ!!」
+"Chà, Alimbi-!!"
+
+@45417 Master · マスター
+> 「ウォン! これは、いったい
+>  どういうことだ!?」
+"Hoàng! Chuyện quái gì đang xảy ra vậy!?"
+
+@45418 Wong · ウォン
+> 「東方先生、私のアレンビーが
+>  ドモンたちを倒して、デビルガンダムの
+"Ông. Đông Phương, Alimbi của tôi sẽ đánh bại Domon và những người khác và trở thành Demon Demon."
+---
+>  コアになる。そういうことですよ」
+cốt lõi. Thế thôi. "
+
+@45419 Master · マスター
+> 「ぬぅぅ……いいだろう。だが、お前の
+>  浅知恵がどこまで通用するかな」
+"Ừm...Được rồi. Nhưng điều đó còn phụ thuộc vào sự thông minh nhỏ bé của bạn có thể được sử dụng trong bao lâu."
+
+@45420 Domon · ドモン
+> 「アレンビー! 頼む、正気に
+>  もどってくれ!!」
+"Alembi! Làm ơn, hãy thức dậy nhanh lên!!"
+
+@45421 Allenby · アレンビー
+> 「ドモン!?
+>  ファイト、ファイトしようよぉぉぉっ!
+"Domon!? Hãy đến và chiến đấu, chúng ta hãy chiến đấu!"
+---
+>  ドモォォンッ!!」
+Domon——! ! "
+
+@45422 Domon · ドモン
+> 「クッ……アレンビー……お前の魂は
+>  もう、もどらないのか……!?」
+"Ừm...Allenbi...linh hồn của cậu không thể quay trở lại sao...!?"
+
+@45423 Rain · レイン
+> 「やめなさい、アレンビー!!」
+"Dừng lại đi, Alimbi!!"
+
+@45424 Allenby · アレンビー
+> 「レイン……!?」
+"Linh...!?"
+
+@45425 Rain · レイン
+> 「そうよ、私よ。アレンビー、お願いだか
+>  ら、もとにもどって! あなたも、ドモンと
+"Vâng, là tôi đây. Alimbi, xin hãy tỉnh dậy! Bạn và Domon nữa
+---
+>  魂の拳を交えたファイターなら、
+>  DG細胞なんかに負けちゃいけない!」
+Một chiến binh đã chiến đấu bằng Soul Fist không thể thua thứ gì đó như DG Cells! "
+
+@45426 Allenby · アレンビー
+> 「ドモン、ドモンはどこなの!? アタシを
+>  ひとりぼっちにしないで! だってアタシ
+"Domon, Domon đâu rồi! ? Đừng để tôi yên! Bởi vì tôi cũng vậy
+---
+>  アタシだって、ドモンのこと
+>  好きなんだからぁっ!!」
+Tôi cũng thích Domon! ! "
+
+@45427 Rain · レイン
+> 「アレンビー……あなた……」
+"Alembi...bạn..."
+
+@45428 Allenby · アレンビー
+> 「うわぁぁぁぁぁっ!!」
+"Aaaaaaaaaaaaaaaaaaaaaaaaaaaaaa!!"
+
+@45429 Rain · レイン
+> (……これは……以前の時とは違う?
+>  DG細胞がノーベルガンダムの
+(…Cái này… khác với lần trước à? Tế bào DG đã xâm chiếm cơ thể của Nobel
+---
+>  システムに侵入しているんだわ。
+>  なら、アムロさんがいっていたように
+hệ thống. Vâng, như ông Amuro đã nói, miễn là chúng ta có thể dừng hệ thống lại...
+---
+>  システムだけ停止できれば……
+>  できるの、私に?)
+tôi có thể làm được không? )
+
+@45430 Allenby · アレンビー
+> 「アタシだって、アタシだってぇぇぇ!!」
+"Tôi cũng vậy, tôi cũng vậy!!"
+
+@45431 Rain · レイン
+> 「やるしかない! この一矢にかけるわ!」
+"Tôi không còn cách nào khác ngoài việc lấy nó! Chỉ cần đặt cược vào mũi tên này!"
+
+@45432 Allenby · アレンビー
+> 「ドモン! ドモンはどこなのぉぉぉーっ!!」
+"Domon! Domon ở đâu?!"
+
+@45433 Rain · レイン
+> 「私はドモンたちのように、武闘家の
+>  心なんて持ってない。でも
+“Tôi không có tâm huyết để trở thành một chiến binh như họ. Nhưng,
+---
+>  あなたのような人を、救いたいという
+>  想いは、誰にも負けない! だから!」
+Tôi sẽ không bao giờ mất đi mong muốn cứu một người như bạn cho bất cứ ai! Vì thế! "
+
+@45434 Rain · レイン
+> 「やった!?」
+"Thành công! ? "
+
+@45435 Allenby · アレンビー
+> 「きゃああぁぁぁーっ!!」
+“Ahhhhhhhhh——!!”
+
+@45436 Domon · ドモン
+> 「アレンビー!? レイン、まさか……」
+"Alianbi!? Ling, chẳng lẽ cậu..."
+
+@45437 Rain · レイン
+> 「……大丈夫、うまくいったわ。
+>  アレンビーは無事よ」
+"...Không sao đâu, thành công rồi. Alienbi ổn."
+
+@45438 Domon · ドモン
+> 「……そうか……よかった」
+"...Thật sự...tuyệt vời."
+
+@45439 Rain · レイン
+> 「お願い、もうやめて! あなたも
+>  かわいそうだとは思うけど、これ以上
+"Làm ơn, đừng làm điều này nữa! Tôi biết bạn cũng đáng thương nhưng đừng tái phạm nữa nhé
+---
+>  ドモンを苦しめないで!」
+Thật là một sự tra tấn! "
+
+@45440 Allenby · アレンビー
+> 「ドモン……ドモンはどこなの!?
+>  アタシをひとりぼっちにしないで!
+"Domon...Domon ở đâu!? Đừng bỏ tôi một mình!
+---
+>  アタシ、アタシ、ドモンのこと
+>  好きだったのにぃ!」
+Tôi, rõ ràng là tôi thích Domon's! "
+
+@45441 Rain · レイン
+> 「えっ!? あ、あなた……」
+"Ơ!? Anh, anh..."
+
+@45442 Allenby · アレンビー
+> 「うわぁぁぁぁぁっ!!」
+"Aaaaaaaaaaaaaaaaaaaaaaaaaaaaaa!!"
+
+@45443 Rain · レイン
+> (……これは……以前の時とは違う?
+>  DG細胞がノーベルガンダムの
+(…Cái này… khác với lần trước à? Tế bào DG đang xâm chiếm cơ thể của Nobel
+---
+>  システムに侵入しているんだわ。
+>  なら、アムロさんがいっていたように
+hệ thống. Vâng, như ông Amuro đã nói,
+---
+>  システムだけ停止できれば……
+>  できるの、私に?)
+Chỉ cần tôi có thể dừng hệ thống...tôi có thể làm được không? )
+
+@45444 Allenby · アレンビー
+> 「アタシだって、アタシだってぇぇぇ!!」
+"Tôi cũng vậy, tôi cũng vậy!!"
+
+@45445 Rain · レイン
+> 「やるしかない! この一矢にかけるわ!
+>  この娘を死なせはしない!」
+"Ta không còn cách nào khác ngoài cầm lấy nó! Chỉ cần đặt cược vào mũi tên này! Ta sẽ không bao giờ để đứa trẻ này chết!"
+
+@45446 Allenby · アレンビー
+> 「ドモン! ドモンはどこなのぉぉぉーっ!!」
+"Domon! Domon ở đâu?!"
+
+@45447 Rain · レイン
+> 「私はドモンたちのように、武闘家の
+>  心なんて持ってない。でも
+“Tôi không có tâm huyết để trở thành một chiến binh như họ. Nhưng,
+---
+>  あなたのような人を、救いたいという
+>  想いは、誰にも負けない! だから!」
+Tôi sẽ không bao giờ mất đi mong muốn cứu một người như bạn cho bất cứ ai! Vì thế! "
+
+@45448 Rain · レイン
+> 「やった!?」
+"Thành công! ? "
+
+@45449 Allenby · アレンビー
+> 「きゃああぁぁぁーっ!!」
+“Ahhhhhhhhh——!!”
+
+@45450 Domon · ドモン
+> 「アレンビー!? レインまさか……」
+"Alianbi!? Ling, chẳng lẽ cậu..."
+
+@45451 Rain · レイン
+> 「……大丈夫、うまくいったわ。
+>  アレンビーは無事よ」
+"...Không sao đâu, thành công rồi. Alienbi ổn."
+
+@45452 Domon · ドモン
+> 「……そうか……よかった」
+"...Thật sự...tuyệt vời."
+
+@45453 Allenby · アレンビー
+> 「う……うぅぅぅっ……」
+"Woo...wuwuwu..."
+
+@45454 Wong · ウォン
+> 「!? どうしたアレンビー!」
+"!? Có chuyện gì thế Allenbi!"
+
+@45455 Allenby · アレンビー
+> 「あぁ……うあぁぁぁーっ!!」
+“À…ôôôôôôôôôôôôôôôôôôôôôôôôôôôô,
+
+@45456 Wong · ウォン
+> 「しまった、ノーベルガンダムとDG細胞
+>  の融合を急がせすぎたか
+"Rất tiếc, sự hợp nhất giữa các tế bào Nobel và DG diễn ra quá nhanh.
+---
+>  しかたがない、アレンビー、
+>  撤退しなさい!」
+Bạn không thể làm gì được, Alimbi, rút lui! "
+
+@45457 Domon · ドモン
+> 「クッ……アレンビーッ!!」
+"Hmm...Allenbi!!"
+
+@45458 Markiroot · マーキロット
+> 「まさか……この俺が……」
+"Tôi không ngờ...tôi thực sự..."
+
+@45459 Sijima · シジーマ
+> 「なんですってえぇぇぇーっ!?」
+"Bạn đã nói gì cơ?!"
+
+@45460 Allenby · アレンビー
+> 「あ……ド、ドモン……あたし……」
+"À... Do-Domon... tôi..."
+
+@45461 Domon · ドモン
+> 「……アレンビー……すまない……」
+"...Alembi...Tôi xin lỗi..."
+
+@45462 Wong · ウォン
+> 「くっ……このままでは……
+>  ええい、こうなったら、しかたがない」
+"Chà... nếu cứ tiếp tục như thế này... chết tiệt, đây là cách duy nhất nó có thể đi lúc này."
+
+@45463 Master · マスター
+> 「なんだと!? ウォン、何をする気だ!
+>  キョウジの命はもはや風前のともしび
+"Cái gì!? Huang, anh muốn làm gì! Tính mạng của Jingji đã gặp nguy hiểm rồi,
+---
+>  パイロットが、コアがいなくてはデビル
+>  ガンダムの完全復活はないのだぞ!」
+Nếu không có phi công và lõi, Devil Gundunda sẽ không thể hồi sinh hoàn toàn! "
+
+@45464 Domon · ドモン
+> 「デビルガンダム……キョウジィィ!!
+>  今度こそ、今度こそケリを
+"Quỷ dữ Unity...Kyoji!! Lần này, lần này tôi phải
+---
+>  つけてやる!!」
+Hãy nghỉ ngơi! ! "
+
+@45465 Schwarz · シュバルツ
+> 「…………」
+“…………”
+
+@45466 Domon · ドモン
+> 「キョウジィィィッ!!」
+"Kyoji ahhhh!!"
+
+@45467 Kyoji · キョウジ
+> 「…………」
+“…………”
+
+@45468 Schwarz · シュバルツ
+> 「くっ、うかつだったか……!?」
+"Hmm, tôi bất cẩn phải không...!?"
+
+@45469 Schwarz · シュバルツ
+> 「ドモン、無事か!?」
+"Domon, cậu ổn chứ!?"
+
+@45470 Domon · ドモン
+> 「シュバルツ……?」
+"Xiu Baruz...?"
+
+@45471 Master · マスター
+> 「むっ!? あやつ、
+>  やはり、ワシのにらんだ通りか……
+"Huh!? Tên đó đúng như tôi mong đợi...
+---
+>  おのれ、今度は邪魔をさせん!」
+Chết tiệt, lần này đừng có nghĩ tới việc cản đường nữa! "
+
+@45472 Domon · ドモン
+> 「東方不敗……!」
+"Phương Đông bất khả chiến bại...!"
+
+@45473 Master · マスター
+> 「見ろドモン! デビルガンダムのコアたる
+>  キョウジは、もはや死にかけよ。お前が
+"Nhìn Domon! Kyoji, cốt lõi của Devil Gundunda, đang hấp hối. Đây là bạn
+---
+>  倒した代償がこれだ! さしもの
+>  デビルガンダムも、パイロットがこれでは
+Cái giá phải trả cho việc đánh bại anh ta! Ngay cả Devil Gundunda, phi công cũng trở nên như thế này
+---
+>  鉄くず同然!
+>  ドモンよ、貴様が新たなコアとなって
+Nó không khác gì sắt vụn! Duomeng, bạn sẽ trở thành cốt lõi mới,
+---
+>  デビルガンダムを完全復活させる
+>  のだ!」
+Hãy hồi sinh hoàn toàn Devil Gundunda! "
+
+@45474 Schwarz · シュバルツ
+> 「黙れ! 貴様などに我が弟を
+>  やらせはせん!」
+"Im đi! Tôi sẽ không bao giờ để anh trai tôi phụ thuộc vào lòng thương xót của bạn! "
+
+@45475 Domon · ドモン
+> 「なんだって!? なぜ、シュバルツが
+>  俺を……まさか……」
+"Cái gì!? Tại sao Xibaluz lại bảo vệ tôi... Chẳng lẽ là..."
+
+@45476 Rain · レイン
+> 「そうよドモン! シュバルツは、シュバルツ
+>  はあなたのお兄さんだったのよ!」
+"Đúng vậy, Domon! Xiubaruz, Xibaluz là anh trai của ngươi!"
+
+@45477 Domon · ドモン
+> 「兄さん!? やっぱり
+>  キョウジ兄さん!? だが、なぜだ。では
+"Anh ơi!? Đó thực sự là Anh Jingji!? Nhưng, tại sao. Vậy thì
+---
+>  デビルガンダムにいるのは、いったい……」
+Có gì trong Demon Gundam..."
+
+@45478 Schwarz · シュバルツ
+> 「いいか、私はキョウジであって
+>  キョウジではない。いわば、影
+"Nghe này, tôi là Jingji, nhưng tôi không phải Jingji. Nhắc mới nhớ, tôi là một cái bóng.
+---
+>  二つに分かれてしまった心と体。
+>  いわば鏡に映ったキョウジの影なのだ
+Tâm trí và cơ thể được chia thành hai. Nhắc mới nhớ, tôi là cái bóng của Kyouji phản chiếu trong gương.
+---
+>  本物のキョウジは確かに
+>  あの中にいる」
+Kyoji thực sự thực sự ở đó. "
+
+@45479 Domon · ドモン
+> 「わからないよ!
+>  いったい、どういうことなんだよ!
+"Tôi không hiểu! Cái quái gì đang xảy ra thế này!
+---
+>  どうして、兄さんが2人もいるんだ!?」
+Tại sao lại có hai anh em! ? "
+
+@45480 Schwarz · シュバルツ
+> 「よく聞け、ドモン。私はDG細胞の
+>  力を借り、作りだされた、キョウジの
+"Nghe này, Domon. Tôi vừa được Kyoji tạo ra với sự trợ giúp của tế bào DG.
+---
+>  コピーにすぎないのだ。すべては
+>  デビルガンダムを抹殺するためだった」
+Chỉ là một bản sao. Tất cả điều này là để tiêu diệt Demon Gundunda. "
+
+@45481 Domon · ドモン
+> 「そんな! あれを使って地球圏の
+>  征服を企んだのは兄さんのはず……」
+"Sao có thể như vậy được! Người cố gắng chinh phục Vòng tròn Trái đất bằng thứ đó chắc chắn là anh trai tôi..."
+
+@45482 Schwarz · シュバルツ
+> 「それは違う! そもそもデビルガンダム、
+>  いや、アルティメットガンダムは
+"Không phải vậy đâu! Quỷ dữ, không, Ultimate Gundam,
+---
+>  地球再生を目的として
+>  作られたものだ」
+Ban đầu nó được tạo ra để tái tạo trái đất. "
+
+@45483 Domon · ドモン
+> 「地球の再生……?」
+“Sự tái sinh của trái đất…? "
+
+@45484 Schwarz · シュバルツ
+> 「あの3大理論、自己再生・
+>  自己進化・自己増殖は
+“Ba lý thuyết chính đó – tự tái tạo, tự tiến hóa và tự nhân lên,
+---
+>  すべて地球の自然回復のための
+>  ものだった。だが! その驚異的な
+Đó là tất cả về sự phục hồi tự nhiên của hành tinh. Nhưng!
+---
+>  力に目をつけた者がいた。私は
+>  アルティメットガンダムに乗りこみ
+Có ai đó đang để mắt đến sức mạnh đáng kinh ngạc đó. Tôi lái chiếc Ultimate Gunma
+---
+>  地球へと逃れた。しかし脱出時
+>  に受けた攻撃がもとで、プログラムが
+Chạy trốn đến Trái đất. Tuy nhiên, đòn tấn công mà anh ta nhận được khi trốn thoát đã khiến chương trình bị hủy.
+---
+>  狂い、あの恐ろしいデビルガンダムと
+>  なってしまったのだ」
+Anh ta mất kiểm soát và biến thành Demon Tsunade đáng sợ. "
+
+@45485 Duo · デュオ
+> 「なんだって!? じゃあ、あんたが
+>  デビルガンダムを奪ったってのは……」
+"Cái gì!? Thế, cậu nói cậu đã trộm Demon Gundunda..."
+
+@45486 Schwarz · シュバルツ
+> 「でっちあげだ。だまされたのだ、カーンズに
+>  奴はオペレーション・メテオの6つめの
+"Đó là bịa đặt. Tôi đã bị Kansi lừa dối. Tên đó muốn
+---
+>  ガンダムとして、アルティメットガンダムを
+>  使おうとしたのだ」
+Sử dụng nó như là chiếc gundam thứ sáu để bắn sao. "
+
+@45487 Domon · ドモン
+> 「そ、そんな……
+>  じゃあ、俺はそんなことも知らずに
+“Làm sao, làm sao có thể… Thế thì tôi không biết gì cả,
+---
+>  必死に兄さんを追いかけて……」
+Vẫn đang đuổi theo anh trai mình một cách tuyệt vọng..."
+
+@45488 Schwarz · シュバルツ
+> 「根が素直なお前は、ガンダムに
+>  乗せられ、キョウジを追ってくるに
+"Nếu bản tính chính trực, nhất định sẽ bị phái đến Gunma đuổi theo Kyoji một đường.
+---
+>  違いない。そう思った。だが相手は
+>  強大で、ムゲ帝国軍もいた
+Đó là những gì tôi nghĩ. Nhưng đối thủ quá mạnh, ngoài ra còn có Quân đội Đế quốc Moog.
+---
+>  お前が無茶をするのは目に見えて
+>  いた。そこでデビルガンダムに
+Bạn chắc chắn sẽ lộn xộn. Quỷ dữ cũng vậy
+---
+>  取り込まれたキョウジは、うすれていく
+>  意識の中で私をつくりあげ、
+Kyouji bị nhấn chìm đã tạo ra tôi trong ý thức đang dần tan biến,
+---
+>  お前を守らせようとしたのだ」
+Bạn muốn tôi bảo vệ bạn. "
+
+@45489 Domon · ドモン
+> 「なら、どうして!
+>  どうしていってくれなかったんだ!」
+"Vậy thì tại sao! Tại sao bạn không nói cho tôi biết! "
+
+@45490 Schwarz · シュバルツ
+> 「フフフッ、あれだけ、頭に血を
+>  のぼらせたお前が、素直に
+"Hahaha, chỉ vì lúc đó cậu nóng nảy quá thôi,
+---
+>  信じたはずがあるまい……。ドモン、
+>  私も……私もつらかったぞ……うっ……」
+Làm sao tôi có thể thành thật tin rằng...Domeng, tôi cũng vậy...tôi cũng đau lắm...chà..."
+
+@45491 Domon · ドモン
+> 「シュバルツ、いや兄さん!?」
+“Xiubaruz, không, anh trai! ? "
+
+@45492 Schwarz · シュバルツ
+> 「私の命もまたキョウジとともにある。
+>  もはや、これまでか……いや
+"Cuộc đời của tôi cũng gắn liền với Kyoji. Có vẻ như đây là kết thúc rồi... Không,
+---
+>  もってくれよ、この体!」
+Đợi đã, thân xác này! "
+
+@45493 Master · マスター
+> 「貴様、何をする!」
+"Anh, anh định làm gì thế! "
+
+@45494 Schwarz · シュバルツ
+> 「知れたこと! デビルガンダムを
+>  止めるのよ!」
+"Không cần hỏi! Tất nhiên, hãy dừng Demon Gundunda lại! "
+
+@45495 Domon · ドモン
+> 「兄さん!?」
+"Anh ơi! ? "
+
+@45496 Schwarz · シュバルツ
+> 「黙ってみていろ!!」
+"Cứ xem đi! ! "
+
+@45497 Schwarz · シュバルツ
+> 「うおおぉぉぉっ!!」
+"Ồhhhhhh!!"
+
+@45498 Domon · ドモン
+> 「兄さん!?」
+"Anh ơi! ? "
+
+@45499 Schwarz · シュバルツ
+> 「くっ……コックピットへ……!!」
+“Chà…vào buồng lái đi…! ! "
+
+@45500 Master · マスター
+> 「やめろ! やめんかぁぁぁぁっ!!」
+"Dừng lại! Dừng lại đi, a a a! ! "
+
+@45501 Domon · ドモン
+> 「キョウジ兄さんッ!」
+"Anh Cảnh Nhi! "
+
+@45502 Schwarz · シュバルツ
+> 「ドモン、早くうて、
+>  私ごとデビルガンダムを!」
+"Domon, hãy bắn nhanh và tiêu diệt Demon Gundăm cùng tôi! "
+
+@45503 Domon · ドモン
+> 「し、しかし兄さん……」
+“N-nhưng anh trai…”
+
+@45504 Schwarz · シュバルツ
+> 「早く! 私の体ごとコックピットを
+>  吹き飛ばすんだ! デビルガンダムを
+"Nhanh lên! Buồng lái đã bị thổi bay cùng với cơ thể của tôi! Để ngăn chặn Demon Demon,
+---
+>  とめるには、キョウジをうつしかない!」
+Cách duy nhất là đánh bại Kyoji! "
+
+@45505 Domon · ドモン
+> 「そんな! いやだ、僕にはできない!」
+"Sao có thể như vậy được! Không, tôi không thể làm được! "
+
+@45506 Schwarz · シュバルツ
+> 「甘ったれるな! その拳の紋章は
+>  偽物か! お前もその紋章を
+"Đừng có vô dụng như vậy! Huy hiệu trên nắm tay của bạn có phải là giả không? Vì bạn cũng
+---
+>  持つ身なら、情に流され目的を
+>  見失ってはいかん!
+Với huy hiệu đó, bạn không thể xúc động và đánh mất mục đích của mình!
+---
+>  こんな、こんな悲劇は、終わらせる
+>  のだ!」
+Điều này, bi kịch này phải kết thúc! "
+
+@45507 Domon · ドモン
+> 「兄さん……」
+"Anh trai..."
+
+@45508 Schwarz · シュバルツ
+> 「さぁ、やるんだ! デビルガンダムの呪い
+>  から、私たちを解き放ってくれ!
+"Nào, làm đi! Hãy giải thoát chúng tôi khỏi lời nguyền của Demon Gundunda!
+---
+>  頼むドモン、デビルガンダムに
+>  最後の一撃を!!」
+Xin Domon hãy giáng đòn cuối cùng cho Devil Gundunda! ! "
+
+@45509 Domon · ドモン
+> 「くっ……わかったよ、兄さん……」
+"À...tôi biết, anh trai..."
+
+@45510 Master · マスター
+> 「よせドモォォンッ! それなくして地球
+>  の、地球の未来はぁぁぁぁぁ!!」
+“Dừng lại đi, Domon! Không có nó, tương lai của trái đất và trái đất sẽ gặp nguy hiểm! ! "
+
+@45511 Domon · ドモン
+> 「……兄さん……」
+"...anh trai..."
+
+@45512 Domon · ドモン
+> 「……ばぁぁぁぁぁくねつ!
+>  石破・天驚拳ッ!!」
+“…Trời nóng quá! Thạch Phá·Thiên Kinh Quyền! ! "
+
+@45513 Schwarz · シュバルツ
+> 「ありがとう……ドモン……」
+"Cảm ơn...Domon..."
+
+@45514 Domon · ドモン
+> 「く……にぃぃぃぃさぁぁぁぁぁぁぁん!!」
+"Chà...anh trai, anh trai——! ! "
+
+@45515 Wong · ウォン
+> 「ばかな……こんな、こんなはずでは……
+>  こんなはずでは、なかったのにぃ……」
+"Không thể nào... sao có thể, sao có thể như vậy... lẽ ra không phải như vậy..."
+
+@45516 Master · マスター
+> 「ああ……ワシの……ワシのデビルガンダム
+>  が……許さん、許さんぞ、ドモン!
+"A...ôi...Demon của tôi...Tôi không thể tha cho anh, tôi không thể tha cho anh, Domon!
+---
+>  貴様は自分が何をしたか、
+>  わかっておるのかぁ!!」
+Bạn có biết bạn đã làm gì không? ! "
+
+@45517 Domon · ドモン
+> 「黙れ!! マスターアジア、
+>  デビルガンダムを使って、世界を
+"Im đi!! Đông Phương Bất Bại, ngươi muốn dùng Demon Gundunda để hủy diệt thế giới
+---
+>  我が物にしようとたくらむ
+>  悪党がぁっ!!」
+Một kẻ hung ác tự mình lấy nó! ! "
+
+@45518 Master · マスター
+> 「たわけが!! ワシがいつ、そんなものを
+>  欲しいといった!」
+"Đồ ngốc! ! Tôi đã bao giờ nói tôi muốn thứ đó khi nào! "
+
+@45519 Domon · ドモン
+> 「この期におよんで言い逃れか!?
+>  ウォンのことはどうなる!」
+"Bây giờ anh còn muốn kiếm cớ!? Anh nói gì về Hoàng?"
+
+@45520 Master · マスター
+> 「ワシは奴を利用しただけよ。すべては
+>  デビルガンダムのため」
+"Tôi chỉ đang lợi dụng anh chàng đó thôi. Mọi thứ đều dành cho Demon Gundunda. "
+
+@45521 Domon · ドモン
+> 「ならばなぜデビルガンダムが必要だ!?」
+"Vậy ngươi muốn Demon Gun làm cái gì! ? "
+
+@45522 Master · マスター
+> 「クククッ、知りたいか。ならば、勝負
+>  の二文字をもって教えてくれよう!」
+"Hehehe, ngươi có muốn biết không? Vậy ta sẽ dùng từ 'thắng hay thua' để nói cho ngươi biết!"
+
+@45523 Domon · ドモン
+> 「キョウジ……兄さん……」
+"Kyoji...anh trai..."
+
+@45524 Domon · ドモン
+> 「終わった……これで、すべて……」
+"Kết thúc rồi... Cứ như vậy, mọi chuyện đều..."
+
+@45525 Schwarz · シュバルツ
+> 「ついに……ついに倒したか……くっ……」
+"Cuối cùng...cuối cùng cũng đánh bại được nó...chà..."
+
+@45526 Domon · ドモン
+> 「どうした、シュバルツ?」
+“Có chuyện gì thế Shobaluz?”
+
+@45527 Rain · レイン
+> 「……ドモン! その人は、その人は
+>  あなたのお兄さんなのよ!」
+"...Domon! Người đó, người đó là anh trai của anh!"
+
+@45528 Schwarz · シュバルツ
+> 「レイン……」
+"Linh..."
+
+@45529 Domon · ドモン
+> 「なんだって!? どういうことだ? じゃあ
+>  いま死んだのは誰だというんだ?」
+"Anh nói gì thế!? Chuyện gì đang xảy ra vậy? Thế vừa rồi ai đã chết?"
+
+@45530 Schwarz · シュバルツ
+> 「……私はキョウジであってキョウジ
+>  ではない。いわば、影。二つに
+"...Tôi vừa là Kyoji chứ không phải Kyoji. Nói cách khác, tôi là một cái bóng. Một thứ được chia làm hai.
+---
+>  分かれてしまった心と体。いわば……
+>  鏡に映ったキョウジの影なのだ」
+Tâm trí và cơ thể. Nhắc mới nhớ… đó là bóng của Kyoji phản chiếu trong gương. "
+
+@45531 Domon · ドモン
+> 「俺は、俺にはわからないよ!」
+"Tôi, tôi không hiểu!"
+
+@45532 Schwarz · シュバルツ
+> 「私はDG細胞の力を借り、
+>  作りだされた、キョウジのコピーなのだ
+"Tôi là bản sao của Kyoji được tạo ra với sự trợ giúp của tế bào DG.
+---
+>  すべてはデビルガンダムを抹殺する
+>  ためだった」
+Mọi thứ đều nhằm mục đích tiêu diệt Demon Gundunda. "
+
+@45533 Domon · ドモン
+> 「そんな! あれを使って地球圏の
+>  征服を企んだのは兄さんのはず……」
+"Sao có thể như vậy được! Người cố gắng sử dụng thứ đó để chinh phục trái đất chắc hẳn là anh trai tôi..."
+
+@45534 Schwarz · シュバルツ
+> 「それは違う! そもそもデビルガンダム、
+>  いや、アルティメットガンダムは
+"Không! Devil Gunda, không, Ultimate Gunđam,
+---
+>  地球再生を目的として
+>  作られたものだ」
+Ban đầu nó được tạo ra để tái tạo trái đất. "
+
+@45535 Domon · ドモン
+> 「地球の再生……?」
+“Sự tái sinh của trái đất…? "
+
+@45536 Schwarz · シュバルツ
+> 「あの3大理論、自己再生・
+>  自己進化・自己増殖は
+“Ba lý thuyết chính đó – tự tái tạo, tự tiến hóa và tự nhân lên,
+---
+>  すべて地球の自然回復のための
+>  ものだった。だが! その驚異的な
+Đó là tất cả về sự phục hồi tự nhiên của hành tinh. Nhưng! Có người đang để mắt tới điều đó thật tuyệt vời
+---
+>  力に目をつけた者がいた。私は
+>  アルティメットガンダムに乗りこみ
+sức mạnh. Tôi cưỡi trên chiếc Ultimate Gunma,
+---
+>  地球へと逃れた。しかし脱出時
+>  に受けた攻撃がもとで、プログラムが
+Chạy trốn đến Trái đất. Tuy nhiên, đòn tấn công mà anh ta nhận được khi trốn thoát đã khiến chương trình bị hủy.
+---
+>  狂い、あの恐ろしいデビルガンダムと
+>  なってしまったのだ」
+Sự hỗn loạn, biến thành Demon Demon đáng sợ. "
+
+@45537 Duo · デュオ
+> 「なんだって!? じゃあ、あんたが
+>  デビルガンダムを奪ったってのは……」
+"Cái gì!? Vậy, nói về việc cậu lấy đi Demon Gund..."
+
+@45538 Schwarz · シュバルツ
+> 「でっちあげだ。だまされたのだ、カーンズに
+>  奴はオペレーション・メテオの6つめの
+"Đó là bịa đặt. Tôi đã bị Kansi lừa dối. Tên đó muốn
+---
+>  ガンダムとして、アルティメットガンダムを
+>  使おうとしたのだ」
+Sử dụng nó như là chiếc gundam thứ sáu để bắn sao. "
+
+@45539 Domon · ドモン
+> 「そ、そんな……
+>  じゃあ、俺はそんなことも知らずに
+“Làm sao, làm sao có thể… Thế thì tôi không biết gì cả,
+---
+>  必死に兄さんを追いかけて……」
+Vẫn đang cố gắng đuổi theo anh trai mình…”
+
+@45540 Schwarz · シュバルツ
+> 「根が素直なお前は、ガンダムに
+>  乗せられ、キョウジを追ってくるに
+"Nếu bản tính chính trực, nhất định sẽ bị phái đến Gunma đuổi theo Kyoji một đường.
+---
+>  違いない。そう思った。だが相手は
+>  強大で、帝国軍もいた。お前が
+Tôi đã nghĩ vậy. Nhưng đối thủ quá mạnh, Quân đội Đế quốc vẫn còn đó. bạn
+---
+>  無茶をするのは目に見えていた。
+>  そこでデビルガンダムに取り込まれた
+Chắc chắn sẽ có sự hỗn loạn. Vậy là anh ta đã bị quỷ dữ nuốt chửng
+---
+>  キョウジは、うすれていく意識の中で
+>  私をつくりあげ、お前を
+Kyoji đã tạo ra tôi trong ý thức đang dần tan biến của anh ấy,
+---
+>  守らせようとしたのだ」
+Bạn muốn tôi bảo vệ bạn. "
+
+@45541 Domon · ドモン
+> 「なら、どうして!
+>  どうしていってくれなかったんだ!」
+"Vậy thì tại sao! Tại sao bạn không nói cho tôi biết! "
+
+@45542 Schwarz · シュバルツ
+> 「フフフッ、あれだけ、頭に血を
+>  のぼらせたお前が、素直に
+"Ha ha ha, đầu nóng như vậy, làm sao có thể thành thật?
+---
+>  信じたはずがあるまい……。ドモン、
+>  私も……私もつらかったぞ……うっ……」
+Tôi tin...Domeng, tôi cũng vậy...Tôi cũng đau lắm...chà..."
+
+@45543 Domon · ドモン
+> 「シュバルツ、いや兄さん!?」
+“Xiubaruz, không, anh trai! ? "
+
+@45544 Schwarz · シュバルツ
+> 「私の命もまたキョウジとともにある。
+>  キョウジが眠りについた今
+"Cuộc đời của tôi cũng gắn liền với Kyoji. Bây giờ Kyoji đã ngủ rồi,
+---
+>  私もまた……」
+Tôi cũng vậy..."
+
+@45545 Domon · ドモン
+> 「兄さん!!」
+"Anh ơi! ! "
+
+@45546 Schwarz · シュバルツ
+> 「ドモン……最後に、こうしてお前と
+>  話ができてよかった……
+"Domon...thật vui khi cuối cùng cũng có thể nói chuyện với anh như thế này...
+---
+>  先はまだ長い……
+>  負けるなよ、ドモン……」
+Vẫn còn một chặng đường dài phía trước...đừng thua, Duomeng..."
+
+@45547 Domon · ドモン
+> 「兄さん!? くっ……
+>  キョウジ兄さぁぁぁぁぁんっ!!」
+"Anh trai!? Hmm...Anh Kyoji ahhhhh!!"
+
+@45548 Rain · レイン
+> 「……ドモン、あのね」
+"...Domon, cái đó..."
+
+@45549 Domon · ドモン
+> 「ん?」
+"Hả? "
+
+@45550 Rain · レイン
+> 「……いえ……なんでもないわ」
+“…Không…không có gì cả. "
+
+@45551 Domon · ドモン
+> 「レイン? おかしなやつだな」
+"Linh? Bạn quả là một người kỳ lạ. "
+
+@45552 Wong · ウォン
+> 「ばかな……こんな、こんなはずでは……
+>  こんなはずでは、なかったのにぃ……」
+"Không thể nào... sao có thể, sao có thể như vậy... lẽ ra không phải như vậy..."
+
+@45553 Domon · ドモン
+> 「……東方不敗……」
+“…Phương Đông bất bại…”
+
+@45554 Master · マスター
+> 「ああ……ワシの……ワシのデビルガンダム
+>  が……許さん、許さんぞ、ドモン!
+"A...ôi...Demon của tôi...Tôi không thể tha cho anh, tôi không thể tha cho anh, Domon!
+---
+>  貴様は自分たちが何をしたか、
+>  わかっておるのかぁ!!」
+Bạn có biết bạn đã làm gì không? ! "
+
+@45555 Domon · ドモン
+> 「黙れ!! マスターアジア、
+>  デビルガンダムを使って、世界を
+"Im đi!! Đông Phương Bất Bại, ngươi muốn dùng Demon Gundunda để hủy diệt thế giới
+---
+>  我が者にしようとたくらむ
+>  悪党がぁっ!!」
+Một kẻ hung ác tự mình lấy nó! ! "
+
+@45556 Master · マスター
+> 「たわけが!! ワシがいつ、そんなものを
+>  欲しいといった!」
+"Đồ ngốc! ! Tôi đã bao giờ nói tôi muốn thứ đó khi nào! "
+
+@45557 Domon · ドモン
+> 「この期におよんで言い逃れか!?
+>  ウォンのことはどうなる!」
+"Bây giờ anh còn muốn kiếm cớ!? Anh nói gì về Hoàng?"
+
+@45558 Master · マスター
+> 「ワシは奴を利用しただけよ。すべては
+>  デビルガンダムのため」
+"Tôi chỉ đang lợi dụng anh chàng đó thôi. Mọi thứ đều dành cho Demon Gundunda. "
+
+@45559 Domon · ドモン
+> 「ならばなぜデビルガンダムが必要だ!?」
+"Vậy ngươi muốn Demon Gun làm cái gì! ? "
+
+@45560 Master · マスター
+> 「クククッ、知りたいか。ならば、勝負
+>  の二文字をもって教えてくれよう!」
+"Hehehe, ngươi có muốn biết không? Vậy ta sẽ dùng từ 'thắng hay thua' để nói cho ngươi biết!"
+
+@45561 Master · マスター
+> 「ドモンよ、貴様らは地球の
+>  断末魔の光景をその目で
+"Ngươi thật quái dị, tận mắt chứng kiến tình cảnh bi thảm của trái đất đang chết dần,
+---
+>  見ながら、なにも気づかなんだのか。
+>  地球を荒廃させたものが
+Bạn không nhận thấy điều gì sao?
+---
+>  何だったのかということを」
+Không biết điều gì đang khiến trái đất trở nên hoang tàn? "
+
+@45562 Domon · ドモン
+> 「ジオンと、そして異星人どもだ!」
+"Đó là Zeon và những người ngoài hành tinh đó! "
+
+@45563 Master · マスター
+> 「ばか者が……。ワシはな、それに
+>  気づいた時、こんな地球の姿を
+"Đồ ngốc... Khi tôi nhận ra điều này, tôi không còn có thể
+---
+>  黙って見てはおれんようになった。
+>  そこで、ある誓いをたてた
+Nhìn trái đất trở nên như thế này. Vì thế tôi đã thề:
+---
+>  どんな手段を使おうと、この地球
+>  を自然あふるるもとの姿に
+Dù dùng cách nào đi chăng nữa, chúng ta phải khôi phục trái đất này về trạng thái ban đầu
+---
+>  もどしてみせるとな」
+Vẻ ngoài tự nhiên và màu mỡ ban đầu. "
+
+@45564 Domon · ドモン
+> 「ならばなぜ、こんなことをした!?
+>  他にいくらでも方法があったはずだ
+"Vậy tại sao bạn lại làm điều này? ? Rõ ràng có nhiều cách khác để nghĩ đến.
+---
+>  第一、地球は異星人の
+>  侵略を受けているんだぞ!」
+Ngoài ra, trái đất hiện đang bị người ngoài hành tinh xâm chiếm! "
+
+@45565 Master · マスター
+> 「フッよいか、ワシの目的は、
+>  この地球にいる、すべての人類の
+"Hừm, nghe này, mục tiêu của tôi là mang tất cả loài người trên hành tinh này
+---
+>  抹殺なのだぞ! 地球人も
+>  異星人もワシにとっては、どちらも
+Xóa tất cả chúng! Dù là người trái đất hay người ngoài hành tinh thì đối với tôi đều như nhau.
+---
+>  同じよ。文明などというものを持つ
+>  生き物がいなければ、地球の
+Chừng nào không có sinh vật làm chủ nền văn minh, trái đất
+---
+>  自然は、おのずとよみがえる」
+Thiên nhiên sẽ tự phục hồi. "
+
+@45566 Domon · ドモン
+> 「な……なんだと……?」
+“Cái…cái gì…? "
+
+@45567 Master · マスター
+> 「ククククッ、ハハハハハハッ、そうだ、
+>  それがいい。そのためならば、人類など
+"Hehehehe, hahahahahaha, vâng, đây là điều tốt nhất. Vì điều này, con người
+---
+>  亡びてしまえばいいのだ! 償いだ、
+>  人類は自らの罪を償わねばならぬ
+Không thành vấn đề nếu bạn chết! Đây là sự chuộc tội mà con người phải trả giá cho tội lỗi của mình.
+---
+>  デビルガンダムと出会った時
+>  ワシはそれに気づいたのだ!」
+Tôi đã hiểu điều này khi gặp Devil Gunda! "
+
+@45568 Domon · ドモン
+> 「あんたは……どうかしている!」
+"Anh...điên rồi! "
+
+@45569 Master · マスター
+> 「ならば、貴様の拳をもって
+>  このワシを止めてみせぃ!!」
+"Vậy thì hãy dùng nắm đấm của bạn để ngăn tôi lại!!"
+
+@45570 Domon · ドモン
+> 「くっ……東方不敗の拳から
+>  深い悲しみが伝わってきた……?
+"Chà... có nỗi buồn sâu sắc đến từ nắm đấm của Đông Phương Bất Bại...?
+---
+>  なぜだ!?」
+Tại sao! ? "
+
+@45571 Master · マスター
+> 「よくやった、ドモンよ……
+>  今こそ、今こそお前は本物の……
+"Làm tốt lắm, Domon...giờ, giờ cậu là người thật rồi...
+---
+>  キング・オブ・ハート……」
+Vua của trái tim…”
+
+@45572 Domon · ドモン
+> 「し、師匠……?
+>  ししょぉぉぉぉぉぉぉぉぉーっ!!」
+"Chủ nhân, chủ nhân...? Chủ nhân ahhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhh-!!"
+
+@45573 Master · マスター
+> 「ぐはぁっ!」
+"Guwaah!"
+
+@45574 Domon · ドモン
+> 「東方不敗、あんたはもう終わりだ」
+"Đông Phương Bất Bại, ngươi xong rồi. "
+
+@45575 Master · マスター
+> 「フ、ククククッ、まったくこの……
+>  ばか弟子が……だが……見事よな」
+"Hmph, hehehe, đúng là một... đồ đệ ngu ngốc... nhưng... làm tốt lắm."
+
+@45576 Domon · ドモン
+> 「……師匠……?」
+"...Chủ nhân...?"
+
+@45577 Master · マスター
+> 「ドモン……今こそお前は、
+>  本物の……キング・オブ・ハート……」
+"Domon...bây giờ bạn là...Vua của những trái tim thực sự..."
+
+@45578 Domon · ドモン
+> 「あ……師匠……?
+>  ……ししょぉぉぉぉぉーっ!!」
+"A...Chủ nhân...?...Chủ nhân ahhhhhhh-!!"
+
+@45579 Master · マスター
+> 「ば、ばかな……このワシが……!?」
+"Không, điều đó là không thể... Thực ra tôi...!?"
+
+@45580 Domon · ドモン
+> 「……東方不敗……あんたはいったい
+>  何をしたかったんだ…………師匠……」
+"...Đông Phương Bất Bại...Chính xác thì ngài muốn làm gì...Chủ nhân..."
+
+@45581 Wong · ウォン
+> 「こんなはずでは、こんなはずではなかったの
+>  に……デビルガンダムさえあればこの私は
+“Làm sao chuyện này có thể xảy ra được? Đáng lẽ không phải thế này… Chỉ cần tôi có Devil Gundunda, tôi nên
+---
+>  宇宙を支配する神になれるはず
+>  だったのに……」
+Trở thành vị thần điều khiển vũ trụ..."
+
+@45582 Domon · ドモン
+> 「ウォン・ユンファ、財団の幹部が
+>  何を企んだか知らぬが、すべて
+"Huang Runfa, tôi không biết bạn, một cán bộ của tập đoàn, đang có kế hoạch gì, nhưng có vẻ như mọi thứ đều
+---
+>  終わったようだな」
+Tất cả đã kết thúc. "
+
+@45583 Wong · ウォン
+> 「渡しはせん、宇宙の覇権は
+>  渡しはせんぞ……」
+"Ta sẽ không giao ra, ta sẽ không bao giờ giao ra vũ trụ quyền bá chủ..."
+
+@45584 Domon · ドモン
+> 「な……ばかな!?」
+"Cái gì... không thể được!?"
+
+@45585 Wong · ウォン
+> 「許さん……お前たちは許さんぞ……」
+"Tôi không thể tha thứ cho bạn...Tôi không thể tha thứ cho bạn..."
+
+@45586 Domon · ドモン
+> 「貴様は……ウォン!?」
+"Anh là... Hoàng!?"
+
+@45587 Wong · ウォン
+> 「ククククククッ、ただのウォンではない。
+>  今の私は、DG細胞の力を得た
+"Hehehehehe, tôi không phải Hoàng bình thường. Bây giờ tôi đã có được sức mạnh của tế bào DG
+---
+>  グレート・ウォンだ!!」
+Màu vàng tuyệt vời! ! "
+
+@45588 Domon · ドモン
+> 「ばかな……自ら、デビルガンダムに
+>  取り込まれたというのか……!?」
+"Không thể nào... có phải cậu đã tự mình vào được Demon Gundunda không...! ? "
+
+@45589 Wong · ウォン
+> 「私だ、私が宇宙の支配者なの
+>  だ。アーッハハハハハハッ!!」
+“Chính là tôi, tôi là người cai trị vũ trụ. A ha ha ha ha ha! ! "
+
+@45590 Domon · ドモン
+> 「な……ばかな!?」
+"Cái gì... không thể được!?"
+
+@45591 Wong · ウォン
+> 「ハーッハハハハッ! キョウジの肉体は
+>  なくなったが、代わりのコアさえあれば
+“Ha-hahahaha! Dù cơ thể của Kyoji đã không còn nhưng chỉ cần có lõi thay thế,
+---
+>  いいのだ! 見よ、この力を。私の
+>  研究は間違っていなかった!!」
+Thế thôi! Hãy nhìn xem, sức mạnh này. Nghiên cứu của tôi đã đúng! ! "
+
+@45592 Domon · ドモン
+> 「代わりのコアだと?」
+“Lõi thay thế?”
+
+@45593 Wong · ウォン
+> 「紹介しよう。新たなデビルガンダムの
+>  コア、その名もアレンビー・ビアズリー」
+"Hãy để tôi giới thiệu với bạn. Lõi Demonic mới, Allenby Beardsley."
+
+@45594 Allenby · アレンビー
+> 「…………」
+“…………”
+
+@45595 Domon · ドモン
+> 「ア……アレンビー!?」
+"A...Allenbi!?"
+
+@45596 Wong · ウォン
+> 「フハハハハハッ、そうだ、私が、私が
+>  宇宙の支配者になるのだ。まずは
+"Huhahahahahaha, vâng, tôi, tôi sẽ trở thành người thống trị vũ trụ. Trước hết
+---
+>  お前たちを片づけて、それから
+>  異星人どもを滅ぼしにいくとしよう」
+Hãy loại bỏ bạn và sau đó đi tiêu diệt tất cả những người ngoài hành tinh đó. "
+
+@45597 Wong · ウォン
+> 「ばかな!? そんなはずはない……
+>  そんなはずはぁぁぁぁっ!!」
+"Không thể nào!? Làm sao chuyện này có thể xảy ra... sao chuyện này có thể xảy ra được?!"
+
+@45598 Allenby · アレンビー
+> 「……ドモン……あ……りがと……」
+"...Domon...cảm ơn...cảm ơn..."
+
+@45599 Domon · ドモン
+> 「アレンビー……」
+"Allenbi..."
+
+@45600 Domon · ドモン
+> 「ウォン……しょせん貴様はファイターに
+>  あらず!」
+"Huang... dù sao thì anh cũng không phải là một chiến binh!"
+
+@45601 Wong · ウォン
+> 「ばかな!? そんなはずはない……
+>  そんなはずはぁぁぁぁっ!!」
+"Không thể nào!? Làm sao chuyện này có thể xảy ra... sao chuyện này có thể xảy ra được?!"
+
+@45602 Domon · ドモン
+> 「なに!? バカな、この俺がこんな
+>  ところで……」
+"Cái gì!? Không thể nào, tôi thực sự đang ở một nơi như thế này..."
+
+@45603 Alan · アラン
+> 「……終わったか」
+“…Kết thúc rồi à?”
+
+@45604 Amuro · アムロ
+> 「ああ……ウォンとマスターアジアが
+>  いなければ、デビルガンダムも、もはや
+"Chà...Huang và Dongfang Bubai không còn ở đây nữa, và chắc hẳn Demon Gundunda cũng vậy.
+---
+>  復活はしないだろう」
+Nó sẽ không sống lại được nữa. "
+
+@45605 Banjo · 万丈
+> 「そう思う。だが……」
+"Tôi cũng nghĩ vậy. Nhưng..."
+
+@45606 Domon · ドモン
+> 「東方不敗……」
+"Phương Đông bất khả chiến bại..."
+
+@45607 Master · マスター
+> 「なぁ、ドモンよ……
+>  お前の拳が語っておったわ
+"Tôi nói Duo Meng... nắm đấm của bạn đã nói với tôi,
+---
+>  人は、そう捨てたものでもないとな」
+Con người vẫn chưa hết hy vọng. "
+
+@45608 Domon · ドモン
+> 「…………」
+“…………”
+
+@45609 Master · マスター
+> 「人類もいつかは自分の
+>  過ちに気づき、やり直すことが
+"Con người có thể một ngày nào đó sẽ nhận ra lỗi lầm của mình,
+---
+>  できるのかもしれんなぁ……」
+Hãy bắt đầu lại từ đầu…”
+
+@45610 Domon · ドモン
+> 「し、師匠……」
+"Sư phụ, sư phụ..."
+
+@45611 Master · マスター
+> 「ワシをまた師匠と呼んで
+>  くれるのか……? ワシは……
+"Anh vẫn sẵn lòng gọi tôi là Chủ nhân...? Tôi...
+---
+>  ワシは間違っておったのか……?
+>  なぁ、ドモンよ」
+Tôi có sai không...? Bạn nghĩ sao, Domon? "
+
+@45612 Domon · ドモン
+> 「俺は、俺はいまのいまになって初めて
+>  師匠の悲しみを知った。なのに
+“Tôi, tôi đã không hiểu nỗi buồn của Chủ nhân cho đến bây giờ. Nhưng
+---
+>  俺はあんたと、はりあうことばかり考え
+>  ていた。話を聞こうともしなかった
+Nhưng tôi chỉ muốn chiến đấu với bạn. Tôi thậm chí sẽ không lắng nghe bạn.
+---
+>  なのに、あんたは最後まで
+>  俺のことを……」
+Nhưng đến cuối cùng anh vẫn nghĩ về em…”
+
+@45613 Master · マスター
+> 「何をいう……しょせんワシは大罪人
+>  よ。だがな、見てくれ。ワシの体は
+“Anh đang nói cái gì vậy…Rốt cuộc thì tôi là một tội nhân lớn. Nhưng, nhìn này. xác ông già
+---
+>  一片たりともDG細胞に
+>  おかされてはおらぬ」
+Không có phần nào bị bào mòn bởi tế bào DG. "
+
+@45614 Domon · ドモン
+> 「わかっていた……わかっていたのに……」
+"Tôi đã biết từ lâu rồi...Tôi đã biết từ lâu rồi..."
+
+@45615 Master · マスター
+> 「ドモン、お前たちと出会わな
+>  ければ……お前がガンダム乗りになど
+"Domon, nếu tôi không gặp anh...nếu anh không trở thành phi công của Gundam,
+---
+>  ならねば、こんな、こんなことには
+>  ならなんだのになぁ……」
+Không, mọi chuyện sẽ không như thế này..."
+
+@45616 Domon · ドモン
+> 「ううっ……師匠……」
+"Ồ...Sư phụ..."
+
+@45617 Master · マスター
+> 「何を泣く……見よドモン、
+>  あの朝日を。美しいなぁ……」
+"Sao lại khóc... Nhìn Đa Mộng mặt trời mọc, đẹp quá..."
+
+@45618 Domon · ドモン
+> 「はい、とても美しゅうございます!」
+"Ừ, rất đẹp!"
+
+@45619 Master · マスター
+> 「うむ……ならば……」
+"Ừm...rồi..."
+
+@45620 Domon · ドモン
+> 「流派、東方不敗は
+>  王者の風よ!」
+"Trường học, Đông Phương Bất Bại chính là phong cách của Vương giả!"
+
+@45621 Master · マスター
+> 「流派、東方不敗は
+>  王者の風よ!」
+"Trường học, Đông Phương Bất Bại chính là phong cách của Vương giả!"
+
+@45622 Domon · ドモン
+> 「全新系裂!」
+"Tách hệ thống mới!"
+
+@45623 Master · マスター
+> 「全新系裂!」
+"Tách hệ thống mới!"
+
+@45624 Domon · ドモン
+> 「天破侠乱!」
+"Trời phá vỡ sự hỗn loạn!"
+
+@45625 Master · マスター
+> 「天破侠乱!」
+"Trời phá vỡ sự hỗn loạn!"
+
+@45626 Domon · ドモン
+> 「見よ! 東方は赤く燃えている!」
+"Nhìn kìa! Phía đông đang cháy!"
+
+@45627 Master · マスター
+> 「見よ! 東方は赤く燃えている!」
+"Nhìn kìa! Phía đông đang cháy!"
+
+@45628 Domon · ドモン
+> 「……師匠? 師匠!!
+>  ……ししょぉぉぉぉぉぉぉーっ!!」
+"...Sư phụ? Sư phụ!!...Sư phụ-Cha-!!"
+
+@45629 Domon · ドモン
+> 「師匠……」
+"Sư phụ..."
+
+@45630 Master · マスター
+> 「……もうよいわ。どのみちワシは長くは
+>  もたなんだ。……なぁドモン、ワシはな
+"...Quên đi. Dù sao thì tôi cũng không thể cầm cự được lâu. ...Thật đáng tiếc, tôi...
+---
+>  ワシは、この地球を再び緑あふるる
+>  星にしたかったのだ……」
+Tôi muốn biến trái đất này thành một hành tinh xanh lần nữa…”
+
+@45631 Domon · ドモン
+> 「そんな……師匠、ならばなぜ
+>  デビルガンダムなどを……」
+“Sao có thể…Chủ nhân, vậy tại sao ngài vẫn sử dụng Demon Gun…”
+
+@45632 Master · マスター
+> 「もうよいというておるのに。
+>  いまさらワシが何を語ろうとも、ただの
+“Tôi có tiếng nói cuối cùng. Những gì tôi nói bây giờ chẳng qua chỉ là
+---
+>  言い訳にしかならぬ」
+Chỉ là một cái cớ. "
+
+@45633 Domon · ドモン
+> 「俺が、俺があんたと、はりあうことばか
+>  り考えて、あんたの話を聞こうとも
+"Là tôi, tôi chỉ muốn đấu với anh, thậm chí không muốn nghe lời anh.
+---
+>  しなかったから……。なのに、あんたは
+>  最後まで俺のことを……」
+Đó là lý do...nhưng cuối cùng anh vẫn nghĩ về em..."
+
+@45634 Master · マスター
+> 「何をいう……しょせんワシは大罪人
+>  よ。だがな、見てくれ。ワシの体は
+“Anh đang nói cái gì vậy…Rốt cuộc thì tôi là một tội nhân lớn. Nhưng, nhìn này. xác ông già
+---
+>  一片たりともDG細胞に
+>  おかされてはおらぬ」
+Không có phần nào bị bào mòn bởi tế bào DG. "
+
+@45635 Domon · ドモン
+> 「わかっていた……わかっていたのに……」
+"Tôi đã biết từ lâu rồi...Tôi đã biết từ lâu rồi..."
+
+@45636 Master · マスター
+> 「ドモン、お前たちと出会わな
+>  ければ……お前がガンダム乗りになど
+"Domon, nếu tôi không gặp anh...nếu anh không trở thành phi công của Gundam,
+---
+>  ならねば、こんな、こんなことには
+>  ならなんだのになぁ……」
+Không, mọi chuyện sẽ không như thế này..."
+
+@45637 Domon · ドモン
+> 「ううっ……師匠……」
+"Ồ...Sư phụ..."
+
+@45638 Master · マスター
+> 「何を泣く……見よドモン、
+>  あの朝日を。美しいなぁ……」
+"Sao lại khóc... Nhìn Đa Mộng mặt trời mọc, đẹp quá..."
+
+@45639 Domon · ドモン
+> 「はい、とても美しゅうございます!」
+"Ừ, rất đẹp!"
+
+@45640 Master · マスター
+> 「うむ……ならば……」
+"Ừm...rồi..."
+
+@45641 Domon · ドモン
+> 「流派、東方不敗は
+>  王者の風よ!」
+"Trường học, Đông Phương Bất Bại chính là phong cách của Vương giả!"
+
+@45642 Master · マスター
+> 「流派、東方不敗は
+>  王者の風よ!」
+"Trường học, Đông Phương Bất Bại chính là phong cách của Vương giả!"
+
+@45643 Domon · ドモン
+> 「全新系裂!」
+"Tách hệ thống mới!"
+
+@45644 Master · マスター
+> 「全新系裂!」
+"Tách hệ thống mới!"
+
+@45645 Domon · ドモン
+> 「天破侠乱!」
+"Trời phá vỡ sự hỗn loạn!"
+
+@45646 Master · マスター
+> 「天破侠乱!」
+"Trời phá vỡ sự hỗn loạn!"
+
+@45647 Domon · ドモン
+> 「見よ! 東方は赤く燃えている!」
+"Nhìn kìa! Phía đông đang cháy!"
+
+@45648 Master · マスター
+> 「見よ! 東方は赤く燃えている!」
+"Nhìn kìa! Phía đông đang cháy!"
+
+@45649 Domon · ドモン
+> 「……師匠? 師匠!! ……
+>  ししょぉぉぉぉぉぉぉーっ!!」
+"...Sư phụ? Sư phụ!!...Sư phụ-Cha-!!"
+
+@45650 Domon · ドモン
+> 「さらば、東方不敗……
+"Tạm biệt, Đông Phương Bất Bại...
+---
+>  さようなら……師匠……」
+Tạm biệt...Sư phụ..."
+
+@45651 Treize · トレーズ
+> 「そうか……デビルガンダムは倒したか」
+"Thật sự...bạn đã đánh bại Demon Gundade."
+
+@45652 Bright · ブライト
+> 「デビルガンダムの復活は、
+>  マスターアジアと、財団の
+"Sự hồi sinh của Demon Tsunade là kết quả của Dongfang Invincible và tập đoàn
+---
+>  ウォン・ユンファがしくんだものでした。
+>  その2人がいなくなった以上
+Huang Yunfa đã lên kế hoạch cho việc đó. Bây giờ hai người này không còn ở đây nữa,
+---
+>  もはや復活することはないでしょう」
+Nó không bao giờ nên được hồi sinh nữa. "
+
+@45653 Treize · トレーズ
+> 「ご苦労だった、諸君。感謝する」
+"Cảm ơn mọi người đã làm việc chăm chỉ."
+
+@45654 Banjo · 万丈
+> 「で、僕たちはこれからどうすれば
+>  いいんだい、特佐」
+“Vậy, chúng ta làm gì tiếp theo, Tezo?”
+
+@45655 Treize · トレーズ
+> 「とりあえず、こちらへ来てくれたまえ」
+"Dù sao thì, hãy đến bên cạnh tôi trước."
+
+@45656 Amuro · アムロ
+> 「欧州へ?」
+“Đi châu Âu à?”
+
+@45657 Treize · トレーズ
+> 「銀河帝国軍が大部分の
+>  部隊を撤退させたことにより
+"Đế chế Thiên hà đã rút phần lớn quân đội của mình.
+---
+>  数少ないOZの残存兵力でも、
+>  どうにか地上から敵を一掃できる
+Số quân còn lại của OZ tuy ít nhưng cuối cùng họ cũng có thể đánh bại kẻ thù.
+---
+>  見通しがついてきた。となれば……」
+Quét sạch khỏi mặt đất. Trong trường hợp đó..."
+
+@45658 Quattro · クワトロ
+> 「我々はまた、宇宙へ上がるか」
+"Liệu chúng ta có quay lại vũ trụ nữa không?"
+
+@45659 Treize · トレーズ
+> 「そういうことだ、クワトロ特尉。
+>  こちらへ来てもらうのは、そのための
+“Đúng vậy, Trung úy Kwatroth. Đó là lý do tôi mời anh đến đây.
+---
+>  準備だよ」
+Chuẩn bị. "
+
+@45660 Bright · ブライト
+> 「了解しました。
+>  そちらへ向かいましょう」
+"Đã hiểu. Chúng ta sẽ tới đó."
+
+@45661 Hayato · ハヤト
+> 「どうです、博士」
+“Mọi chuyện thế nào rồi, bác sĩ?”
+
+@45662 Dr. Saotome · 早乙女博士
+> 「うむ……特に問題は発生して
+>  いないようじゃな」
+"Ừ...có vẻ như không có vấn đề gì."
+
+@45663 Ryoma · リョウ
+> 「心配しすぎですよ、博士。
+>  あのパワー、しかもこいつは、俺たちの
+“Bác sĩ lo lắng quá mức rồi. Lực lượng mạnh như vậy, tên này hoàn toàn có thể đè ép chúng ta.”
+---
+>  思うように動いてくれる」
+Ý tưởng Hành động. "
+
+@45664 Dr. Saotome · 早乙女博士
+> 「……そのようだな。これではわしも、
+>  認めぬわけにはいかんか」
+"...Có vẻ như vậy. Trong trường hợp này, tôi phải thừa nhận điều đó."
+
+@45665 Ryoma · リョウ
+> 「よぉし、真ゲッター! これから頼むぜ
+>  お前は無敵の勇者だ!」
+"Được rồi, chúng ta cùng xây tháp đi! Từ giờ trở đi, ta sẽ trông cậy vào ngươi. Ngươi là dũng sĩ bất khả chiến bại!"
+
+@45666 Domon · ドモン
+> 「な……なんだと!? レイン、いまなんと
+>  いった!?」
+"Cái...cái gì!? Ling, cậu vừa nói gì vậy!?"
+
+@45667 Rain · レイン
+> 「落ち着いて、ドモン。キョウジさん……
+>  いえ、シュバルツは、まだ生きているわ
+“Bình tĩnh, Domon. Anh Kyoji… Không, Shubaluz, anh ấy vẫn còn sống.
+---
+>  信じられないことだけど、DG細胞が
+>  活性化しているの」
+Mặc dù khó tin nhưng tế bào DG lại hoạt động trở lại. "
+
+@45668 Domon · ドモン
+> 「シュバルツが……
+>  兄さんが生きている……」
+"Xiu Baruz...Anh trai, anh ấy vẫn còn sống..."
+
+@45669 Quatre · カトル
+> 「でも、キョウジさんが死んだら、一緒
+>  に死ぬはずではなかったんですか?」
+“Nhưng nếu anh Kyoji chết thì chẳng phải anh ấy cũng nên chết cùng anh ấy sao?”
+
+@45670 George · ジョルジュ
+> 「確かに、そういっていましたね」
+“Đúng là anh ấy đã nói như vậy.”
+
+@45671 Rain · レイン
+> 「わからないわ、なぜなのか。1つだけ、
+>  思いあたるとすれば……」
+"Tôi không biết tại sao. Điều duy nhất tôi có thể nghĩ đến là..."
+
+@45672 Quatre · カトル
+> 「……まさか……真ゲッター」
+“…Có lẽ nào…đây là tòa tháp thật?”
+
+@45673 Rain · レイン
+> 「ええ。ゲッター線エネルギーね。
+>  真ゲッターから放射された
+"Ừ. Đó là năng lượng tia Getta. Tôi nghĩ nó chỉ có thể được phát ra từ Getta thật.
+---
+>  ゲッター線が、なんらかの影響を
+>  およぼしたとしか、考えられないわ」
+Getta Ray đã có tác dụng nào đó đối với anh ta. "
+
+@45674 George · ジョルジュ
+> 「早乙女博士はなんと?」
+“Bác sĩ Saotome đã nói gì?”
+
+@45675 Rain · レイン
+> 「いまのところ、ゲッター線は、人間の
+>  進化に関係するものと考えられて
+“Tôi nghe nói hiện nay người ta tin rằng tia Getta có liên quan đến quá trình tiến hóa của loài người.
+---
+>  いるそうなの。そして、DG細胞は、
+>  デビルガンダムが自己進化する
+Và tế bào DG cũng được Devil Gundunda sử dụng để tiến hóa chính nó.
+---
+>  ためのものでもある。そのあたりで、何か
+>  関係があるかもしれない、とは
+một cái gì đó. Bác sĩ nói có lẽ giữa hai người
+---
+>  おっしゃっていたわ」
+Có một số kết nối. "
+
+@45676 Domon · ドモン
+> 「レイン、そんなことはどうでもいい!
+>  シュバルツは、兄さんは
+"Ling, không sao đâu! Xiubaluz, anh ơi, anh ấy
+---
+>  どこにいるんだ!?」
+Ở đâu! ? "
+
+@45677 Rain · レイン
+> 「へ、部屋で休んでもらっているわ」
+"Tôi-tôi để anh ấy nghỉ ngơi trong phòng."
+
+@45678 Domon · ドモン
+> 「シュバルツの部屋だな!?」
+"Đây có phải là phòng của Xibaluz không!?"
+
+@45679 Schwarz · シュバルツ
+> 「……ドモンか」
+"...Có phải Domon không?"
+
+@45680 Domon · ドモン
+> 「兄さん……よく、無事で……」
+"Anh... tuyệt quá, anh không sao đâu..."
+
+@45681 Schwarz · シュバルツ
+> 「まったく、この呪わしい体から、
+>  ようやく……ようやく解放されると
+"Thật sự, tôi nghĩ cuối cùng tôi cũng... cuối cùng cũng có thể thoát khỏi cơ thể bị nguyền rủa này.
+---
+>  思っていたのにな。まさか、このような
+>  ことになるとは……」
+Nhẹ nhõm. Tôi không ngờ mọi chuyện lại thành ra thế này…”
+
+@45682 Domon · ドモン
+> 「でも兄さん、俺は兄さんが生きて
+>  いてくれて……」
+"Nhưng anh ơi, nếu anh còn sống, em sẽ..."
+
+@45683 Schwarz · シュバルツ
+> 「それは違うぞ、ドモン。キョウジは、
+>  お前の兄は、確かに死んだのだ
+"Không, Domon. Kyoji, anh trai của bạn thực sự đã chết.
+---
+>  私は、しょせんキョウジのコピーに
+>  すぎん……」
+Dù sao thì tôi cũng chỉ là một bản sao của Kyoji mà thôi…”
+
+@45684 Domon · ドモン
+> 「だけど、あんたは俺の兄さんだ!
+>  ずっと俺のことを陰から支えてくれた
+"Nhưng anh là anh trai tôi! Anh đã bí mật giúp đỡ tôi,
+---
+>  俺の子供の頃のことも知っている
+>  俺の兄さんだ……」
+Anh cũng biết chuyện gì đã xảy ra khi em còn nhỏ, và anh là anh trai của em…”
+
+@45685 Schwarz · シュバルツ
+> 「……そんな顔をするな、ドモン。まだまだ
+>  修行が足りんな。お前がそれでは
+"...Đừng thể hiện vẻ mặt đó, Domeng. Việc luyện tập của cậu còn lâu mới đủ. Nếu cậu hành động như thế này,
+---
+>  安心して死ぬこともできん」
+Tôi cũng không thể chết yên bình được. "
+
+@45686 Domon · ドモン
+> 「兄さん……俺たちと一緒に、
+>  戦ってはくれないのかい」
+"Anh... anh có muốn chiến đấu với chúng tôi không?"
+
+@45687 Schwarz · シュバルツ
+> 「しょせんは、かりそめの体、かりそめの
+>  命だ。いつまでもつのかは、わからん
+“Dù sao cũng là thân thể tạm thời, mạng sống tạm bợ, không biết có thể kéo dài bao lâu.
+---
+>  だが……この命の続くかぎり、ドモン、
+>  ともに戦おう」
+Nhưng...chỉ cần sự sống này còn tồn tại, Domon, tôi sẽ chiến đấu bên cạnh bạn. "
+
+@45688 Domon · ドモン
+> 「兄さん!」
+"Anh trai!"
+
+@45689 Cath · キャス
+> 「アレンビーの様子はどう?」
+"Tình hình với Alimbi thế nào rồi?"
+
+@45690 Rain · レイン
+> 「なんとか大丈夫みたい。かなり
+>  体力を消耗しているけど
+"Có vẻ như mọi chuyện cuối cùng vẫn ổn. Mặc dù thể lực của tôi đã khá kiệt sức, nhưng
+---
+>  ハサン先生にお願いしてあるわ」
+Nhưng tôi đã nhờ bác sĩ Hassan lo liệu việc đó. "
+
+@45691 Sally · サリィ
+> 「でも、あの娘、DG細胞におかされて
+>  いたんでしょう? 治るものなの?
+“Nhưng không phải cô gái đó đã bị tế bào DG ăn mòn sao? Bệnh này cũng có thể chữa khỏi được phải không?
+---
+>  サイ・サイシーたちの時は、かなり
+>  特殊だったと思うんだけど……」
+Cai Saixi và những người khác chắc chắn đã rơi vào hoàn cảnh đặc biệt vào thời điểm đó..."
+
+@45692 Rain · レイン
+> 「でも、あれほどひどくはなかったのよ。それ
+>  に、多分システムを停止させたのも
+“Mặc dù vậy, cô ấy không nghiêm túc đến thế đâu. Và tôi nghĩ, hãy để hệ thống dừng lại
+---
+>  よかったんだと思うの」
+Có lẽ nó đã hoạt động. "
+
+@45693 Cath · キャス
+> 「ガンドールの設備も、すごいものね」
+“Trang bị của Gondor thực sự tuyệt vời. "
+
+@45694 Rain · レイン
+> 「ええ。ネェル・アーガマだけだったら、
+>  だめだったかもしれないわ」
+"Ừm. Nếu chỉ có Agama Mới thì có lẽ không thể được. "
+
+@45695 Sally · サリィ
+> 「でもよかったわね。あの娘だけでも
+>  助けることができて」
+“Nhưng nó thật tuyệt. Ít nhất cô gái đã được cứu. "
+
+@45696 Rain · レイン
+> 「ええ」
+"Ừ."
+
+@45697 George · ジョルジュ
+> 「ドモン……ドモン!」
+"Đông...Đông!"
+
+@45698 Domon · ドモン
+> 「あ? ああ……何だ?」
+"Hả? Ồ... có chuyện gì vậy? "
+
+@45699 Sai Saici · サイ・サイシー
+> 「何だって、アニキ。もうそろそろつくぜ」
+"Hỏi xem có chuyện gì vậy anh trai. Nó gần như ở đó. "
+
+@45700 Domon · ドモン
+> 「……そうか」
+"...Thật sao? "
+
+@45701 Duo · デュオ
+> 「おいおい、しっかりしてくれよ。
+>  あんたの方はこれで、ひと区切りかも
+"Này, vui lên đi. Đối với bạn, vấn đề này có thể đã kết thúc.
+---
+>  しれないが、まだ何にも終わっちゃ
+>  いないんだぜ?」
+Nhưng vẫn chưa có gì kết thúc. "
+
+@45702 Domon · ドモン
+> 「わかってるさ……
+>  大丈夫だ。大丈夫」
+"Tôi biết...không sao đâu. Không sao đâu."
+
+@45703 Rain · レイン
+> 「ドモン……本当に大丈夫なの?」
+"Domon...bạn thực sự ổn chứ?"
+
+@45704 Domon · ドモン
+> 「何いってるんだ、レイン。
+>  この通り、なんともないさ」
+"Anh đang nói cái gì vậy, Linh? Bạn thấy đấy, tôi chẳng có vấn đề gì cả. "
+
+@45705 Duo · デュオ
+> (つってもなぁ、表情がうつろなんだよ
+>  なぁ……)
+(Nói xong, vẻ mặt của anh ấy rất trống rỗng...)
+
+@45706 Rain · レイン
+> 「ドモン……」
+"Domon..."
+
+@45707 Heero · ヒイロ
+> 「気がぬけているだけだろう。栄養剤
+>  でも、うっておいてやれ。それで十分だ」
+“Đó chỉ là một sự giải thoát thôi. Chỉ cần tiêm cho anh ấy một mũi bổ sung dinh dưỡng là đủ. "
+
+@45708 Rain · レイン
+> 「ヒイロ? そうね、そうするわ。
+>  あなたが、そんなこといってくれるなんて
+"Hiro? Đúng rồi, cứ làm đi. Làm thế nào bạn có thể nói một điều như vậy?
+---
+>  珍しいわね」
+Nó thực sự hiếm. "
+
+@45709 Heero · ヒイロ
+> 「こいつの戦力は重要だ。
+>  失うわけにはいかない」
+“Khả năng chiến đấu của anh chàng này rất quan trọng. Không thể mất anh ấy được. "
+
+@45710 Duo · デュオ
+> 「やれやれ。お前もあいかわらずだね、
+>  やっぱり」
+“Ối. Thực ra bạn vẫn vậy. "
+
+@45711 Amuro · アムロ
+> 「ここが、かつての財団の本拠地
+>  だったとはな……」
+“Lúc đó đây thực ra là trụ sở của tập đoàn…”
+
+@45712 Bright · ブライト
+> 「……ずいぶん手ひどくやられたようだな」
+“…Có vẻ như anh ta đã bị đánh khá nặng. "
+
+@45713 Banjo · 万丈
+> 「復興には、かなりの時間が必要
+>  だね」
+“Sẽ mất rất nhiều thời gian để xây dựng lại. "
+
+@45714 Anna · アンナ
+> 「ムゲ帝国の時に破壊をまぬがれた
+>  ところもあったのに……」
+"Một số nơi không bị phá hủy trong Đế chế Moog ..."
+
+@45715 David · デビッド
+> 「まったく、伝統や格式ってやつも、
+>  こうなるとかえって無残なもんだな」
+“Thực sự, cái gọi là truyền thống và phong cách bây giờ đã đến mức này thậm chí còn tệ hơn. "
+
+@45716 Roux · ルー
+> 「それでも生き残った人がいれば、また
+>  街がつくられるわ。いいじゃない
+“Nhưng miễn là còn người sống thì thành phố sẽ được xây dựng lại. Điều này không tuyệt vời sao?
+---
+>  伝統なんて、あとからくっついてくる
+>  ものなんだから」
+Truyền thống là thứ được phát triển ban đầu sau này. "
+
+@45717 Masato · 雅人
+> 「そうそう、前向きにいかないとさ」
+"Đúng vậy, bạn phải mong đợi mọi thứ. "
+
+@45718 Roanne · ロアン
+> 「同感だな。国破れて山河あり、
+>  ともいいますしね」
+"Tôi cũng nghĩ vậy. Tục ngữ có câu, đất nước có núi có sông. "
+
+@45719 Koji · 甲児
+> 「なんだよ、それ」
+"Đó là cái gì vậy?"
+
+@45720 Ark · アーク（按段落 3DD1）
+> 「聞いたことがあるような気がするな」
+“Hình như tôi đã nghe thấy câu này ở đâu đó. "
+
+@45721 Simone · シモーヌ
+> 「ずいぶん昔の人の言葉だわね。
+>  戦争で国は滅びてなくなって
+“Đây là điều người ta đã nói từ lâu rồi. Điều này có nghĩa là ngay cả khi đất nước bị tàn phá do chiến tranh,
+---
+>  しまっても、山や河はそのまま残り
+>  つづける、っていう意味よね」
+Núi sông vẫn còn đó. "
+
+@45722 Selain · セレイン（按段落 3DD2）
+> 「ずいぶんと古い言葉だな」
+"Đó là một câu nói cũ. "
+
+@45723 Daisaku · 大作
+> 「どういう意味なんですか?」
+"Điều đó có nghĩa là gì? "
+
+@45724 Simone · シモーヌ
+> 「戦争で国は滅びてなくなって
+>  しまっても、山や河はそのまま
+“Dù đất nước có bị chiến tranh tàn phá thì núi sông vẫn còn đó
+---
+>  残りつづける。だったかしらね」
+sẽ ở lại. Đó là ý nghĩa của nó. "
+
+@45725 Brad · ブラッド（按段落 3DD3）
+> 「戦乱によって国は滅び、なくなって
+>  しまっても、山や河はもとのままに
+“Dù đất nước có mất đi vì chiến tranh, núi sông vẫn còn nguyên
+---
+>  ありつづける。そういう意味の
+>  言葉だ」
+tồn tại như trước đây. Đây chính là ý nghĩa của câu này. "
+
+@45726 Koji · 甲児
+> 「へぇ、よく知ってるじゃないか」
+"Này, cậu hiểu khá rõ đấy. "
+
+@45727 Roux · ルー
+> 「………」
+“…”
+
+@45728 Simone · シモーヌ
+> 「………」
+“…”
+
+@45729 Brad · ブラッド（按段落 3DD3）
+> 「なんだよ」
+"Bạn đang làm gì vậy?"
+
+@45730 Roux · ルー
+> 「……あんたが知ってるなんて、びっくり
+>  しちゃったわよ」
+“…Anh thực sự biết điều này, nó làm tôi sợ. "
+
+@45731 Simone · シモーヌ
+> 「意外すぎて、声もでなかったわ」
+“Thật bất ngờ, tôi không nói nên lời. "
+
+@45732 Brad · ブラッド（按段落 3DD3）
+> 「悪かったな。
+>  ……師匠に教わったんだ」
+“Tôi rất xin lỗi. ...Sư Phụ đã dạy tôi điều này. "
+
+@45733 Manami · マナミ（按段落 3DD4）
+> 「戦乱のために国は滅びて、もとの
+>  姿はなくなっても、山河だけは
+“Cho dù đất nước có bị chiến tranh tàn phá, mất đi hình dáng ban đầu thì chỉ có núi sông
+---
+>  もとのまま存在する。
+>  そういう意味の言葉よ」
+Tồn tại như trước. Đây chính là ý nghĩa của câu này. "
+
+@45734 Koji · 甲児
+> 「ま、今回はあやうく、山や河どころ
+>  か、地球がなくなっちまうところ
+"Nhưng lần này nguy hiểm quá. Chưa kể núi sông, ngay cả trái đất cũng gần như không còn nữa.
+---
+>  だったけどな。ハハハハッ」
+Tuy nhiên. Ha ha ha ha! "
+
+@45735 Sayaka · さやか
+> 「甲児くんたら……」
+"Gia Nhi, ngươi thật sự là..."
+
+@45736 Simone · シモーヌ
+> 「あんたって、ホントしょうがないわね」
+“Bạn thực sự vô vọng. "
+
+@45737 Treize · トレーズ
+> 「ネオ・ホンコンではご苦労だった、
+>  {HeroMech}の諸君」
+{HeroMech} "Cảm ơn mọi người tại _XEROMECHX_ vì đã làm việc chăm chỉ ở New Hong Kong. "
+
+@45738 Bright · ブライト
+> 「しかし、このあたりもずいぶんと、
+>  やられてしまいましたね。財団は
+“Tuy nhiên, khu vực này cũng bị đánh khá nặng. tập đoàn
+---
+>  大丈夫なのですか?」
+Nó không quan trọng sao? "
+
+@45739 Treize · トレーズ
+> 「むろん、大丈夫とはいえない。だが、
+>  戦後の地球の復興を
+"Tất nhiên là không thành vấn đề. Tuy nhiên, thế là đủ
+---
+>  先導していくことができる程度には
+>  人も資源も残っているよ」
+Nhân lực và vật chất dẫn dắt sự phục hồi của trái đất sau chiến tranh vẫn còn. "
+
+@45740 Banjo · 万丈
+> 「それはなにより」
+“Điều đó sẽ hoàn hảo. "
+
+@45741 Treize · トレーズ
+> 「さて諸君、今後のことについて話
+>  をしよう。まず我々の状況だが
+“Vậy mọi người hãy nói về kế hoạch tương lai của mình đi. Đầu tiên hãy nói về hoàn cảnh của chúng tôi,
+---
+>  知っての通りこの戦いで、
+>  OZは残存する兵力のすべてを
+Như các bạn đã biết, OZ đã đầu tư toàn bộ số quân còn lại vào trận chiến này.
+---
+>  投入した。生き残った者たちも、
+>  疲弊しきっている。“刻印”の
+Những người sống sót cũng kiệt sức. Nhờ ‘khắc’,
+---
+>  おかげで、かろうじて地上を死守
+>  することに成功したものの、もはや
+Chúng tôi đã cố gắng giữ vững mặt đất, nhưng có thể nói rằng chúng tôi đã
+---
+>  軍としての体裁を、なしていないと
+>  いっていい。宇宙軍も、似たような
+Không còn là quân đội nữa. Quân đội không gian gần như giống nhau
+---
+>  ものだ。月はいまだ、かろうじて
+>  確保してはいるがね」
+Hoàn cảnh tương tự. Mặt trăng vẫn còn gần như không trụ vững. "
+
+@45742 Amuro · アムロ
+> 「ひどいものだな」
+"Nó thực sự khủng khiếp."
+
+@45743 Alan · アラン
+> 「ああ。だが、それだけ残っているだけでも
+>  よしとしなければな。我々には
+"Ừ. Nhưng thật may mắn khi còn lại những thứ này. Chúng ta
+---
+>  生き残る見こみすら、なかったのだ」
+Không có hy vọng sống sót. "
+
+@45744 Treize · トレーズ
+> 「しかし、我々はなおも戦わねば
+>  ならない。敵が混乱し、士気が
+“Tuy nhiên, chúng ta phải tiếp tục chiến đấu. Lợi dụng sự bối rối và nhuệ khí của kẻ thù.”
+---
+>  低下している今をおいて、反撃の
+>  機会はあるまい。時間を与えて
+Xuống, bây giờ là cơ hội duy nhất để chống trả. Nếu bạn cho kẻ thù thời gian
+---
+>  態勢を整えられれば、我々の
+>  勝機はもはやないだろう」
+Nếu tập hợp lại, chúng ta sẽ không có cơ hội chiến thắng. "
+
+@45745 Banjo · 万丈
+> 「賛成だね」
+"Tôi đồng ý."
+
+@45746 Treize · トレーズ
+> 「アクシズのハマーン・カーンからの
+>  情報では、宇宙でも帝国軍は
+"Theo thông tin từ Harman Kahn của Axis, Quân đội Đế quốc trong vũ trụ cũng
+---
+>  戦闘を停止している。間違い
+>  なく、彼らは時間を欲している
+Cuộc chiến dừng lại. Không còn nghi ngờ gì nữa, họ cần thời gian.
+---
+>  我々にとっては、文字通り、
+>  一刻が千金に値する」
+Đối với chúng tôi, đó thực sự là một khoảnh khắc quý giá. "
+
+@45747 Kamille · カミーユ
+> 「ハマーンから連絡があったんですか?
+>  どうなんです、向こうの状況は」
+"Bạn đã liên lạc với Haman chưa? Tình hình ở đó thế nào?"
+
+@45748 Treize · トレーズ
+> 「さて……アクシズもグワダンも、
+>  無事だったようだがね。くわしいことは
+"Chà... Axis và Gvardan có vẻ ổn. Chi tiết
+---
+>  わからないよ。バルジとリーブラも健在
+>  だそうだ。現在そちらには動きはない」
+Không chắc chắn. Baluchi và Libra cũng được cho là còn nguyên vẹn. Không có chuyển động ở đó vào lúc này. "
+
+@45749 Quattro · クワトロ
+> 「パプティマス・シロッコか……」
+"Paptimas Sirok..."
+
+@45750 Bright · ブライト
+> 「やはり、やっかいなことになりそうだな」
+“Có vẻ như mọi chuyện đang thực sự rắc rối đây.”
+
+@45751 Quattro · クワトロ
+> 「ああ。だが、いまはそれを考えている
+>  場合ではない。……ハマーンは
+"Đúng. Nhưng bây giờ không phải là lúc để nghĩ về điều đó. ... Haman
+---
+>  今回の作戦には参加するのか?」
+Bạn sẽ tham gia vào trận chiến này chứ? "
+
+@45752 Treize · トレーズ
+> 「彼女からの返答は得られなかった
+>  のらりくらりと、ね。一筋縄では
+“Cô ấy không trả lời mà cứ lẩm bẩm.
+---
+>  いかない女性だ」
+Một người phụ nữ khó đối phó. "
+
+@45753 Quattro · クワトロ
+> 「…………」
+“…”
+
+@45754 Treize · トレーズ
+> 「本来ならば多少の休暇でも
+>  必要なところだが、残念だが
+"Ban đầu, lẽ ra chúng ta nên cho mọi người nghỉ ngơi, nhưng thật không may,
+---
+>  我々には時間がない。申しわけ
+>  ないが、ただちに補給物資の
+Chúng tôi không có thời gian. Xin lỗi, vui lòng bắt đầu ngay bây giờ
+---
+>  積みこみと、整備に取りかかって
+>  くれたまえ。私も宇宙へあがる前に
+Đang tải vật tư và dàn dựng. Trước khi tôi đến vũ trụ,
+---
+>  すませておかなければいけない仕事が
+>  ある。これで失礼するよ」
+Vẫn còn một số công việc phải được thực hiện. Tôi xin lỗi. "
+
+@45755 Alan · アラン
+> 「特佐も宇宙へ? では
+>  地上は……」
+"Tezo cũng muốn đi tới vũ trụ? Vậy thì mặt đất sẽ..."
+
+@45756 Treize · トレーズ
+> 「レディにまかせてある。幸いにして、
+>  クスコの聖女隊や、リリーナ嬢の
+“Hãy để việc đó cho Leti. May mắn thay, chúng ta vẫn có thể lấy được Thánh Cusco và Lilina.”
+---
+>  協力も得られることだしね」
+Sự giúp đỡ của cô. "
+
+@45757 Quattro · クワトロ
+> 「…………」
+“…”
+
+@45758 Kamille · カミーユ
+> 「何を考えているんです、
+>  クワトロ特尉」
+“Anh đang nghĩ gì thế, Trung úy Kvatrot?”
+
+@45759 Quattro · クワトロ
+> 「……マスターアジアのことをな」
+“…Tôi đang nghĩ về Đông Phương Bất Bại.”
+
+@45760 Kamille · カミーユ
+> 「なんです、いったい」
+"Chuyện gì đã xảy ra với Đông Phương Bất Bại?"
+
+@45761 Quattro · クワトロ
+> 「地球環境再生のために開発
+>  されたアルティメットガンダムは
+"Gundam tối thượng được phát triển để tái tạo môi trường trái đất
+---
+>  デビルガンダムとなった。だが、その
+>  本質は変化していなかった。ただ
+Biến thành Demon Gundunda. Nhưng bản chất của nó không hề thay đổi. chỉ
+---
+>  人間を最も地球を汚染する
+>  ものと認識し、それを排除しようと
+Nó xác định con người là nguồn ô nhiễm lớn nhất trên hành tinh và muốn
+---
+>  したのだ。あの男は、それを利用した」
+Thoát khỏi con người. Người đàn ông đó đã lợi dụng điều này. "
+
+@45762 Kamille · カミーユ
+> 「はい」
+"Ừ. "
+
+@45763 Quattro · クワトロ
+> 「ある意味では、それは地球のことを
+>  考えた時、もっとも当たり前の
+"Theo một nghĩa nào đó, từ góc nhìn của trái đất, đó là điều tự nhiên nhất
+---
+>  ことだった」
+thực hành. "
+
+@45764 Kamille · カミーユ
+> 「わかる話です。でも、認めたくは
+>  ありませんね。いまの地上は
+"Tôi hiểu điều đó. Nhưng tôi thực sự không muốn thừa nhận điều đó. Trên mặt đất hôm nay,
+---
+>  生きていくことすらむずかしい人たちが
+>  大勢います。コロニーも大部分が
+Có rất nhiều người gặp khó khăn trong việc sinh tồn. Hầu hết các vệ tinh thuộc địa cũng
+---
+>  破壊されてしまった。異星人に
+>  勝てたとしても、僕らはもう一度
+Bị phá hủy. Ngay cả khi chúng ta có thể đánh bại người ngoài hành tinh, chỉ cần
+---
+>  やりなおしていくだけで、
+>  精一杯ですよ」
+Bắt đầu lại từ đầu, chúng tôi đã cố gắng hết sức. "
+
+@45765 Quattro · クワトロ
+> 「ああ……そうだな、カミーユ」
+“Ừ… cậu nói đúng, Camus. "
+
+@45766 Mouar · マウアー
+> 「マウアー・ファラオ、帰還いたしました」
+"Maya Farao, trở lại đội. "
+
+@45767 Scirocco · シロッコ
+> 「ご苦労、特尉。報告してくれ」
+"Cảm ơn vì đã làm việc chăm chỉ, Trung úy. Báo cáo nó. "
+
+@45768 Mouar · マウアー
+> 「当該宙域に、銀河帝国の
+>  勢力は残っておりません
+“Không còn lực lượng nào của Đế chế Thiên hà trong không gian này.
+---
+>  敵の本艦隊に合流したものと
+>  判断します」
+Người ta phán đoán rằng nó đã chạm trán với hạm đội chủ lực của kẻ thù. "
+
+@45769 Scirocco · シロッコ
+> 「そうか……どうやら、しのいだという
+>  わけだな」
+"Thật sao... Có vẻ như cuối cùng tôi cũng đã vượt qua được nó. "
+
+@45770 Jerid · ジェリド
+> 「異星人め……。どういうことなんだ、
+>  シロッコ特佐。なぜ連中は
+“Những người ngoài hành tinh đó…chuyện quái gì đang xảy ra vậy, Siroktezo. Tại sao lại là những kẻ đó?
+---
+>  引きあげた。いいたかないが、あのまま
+>  戦闘が続けば、こっちがやられていた」
+Muốn rút lui? Dù tôi không muốn nói ra nhưng nếu cuộc chiến tiếp tục như thế này thì chúng tôi sẽ là người thiệt mạng. "
+
+@45771 Mouar · マウアー
+> 「やはり……あの異変ですか?」
+"Chắc chắn rồi... có phải vì sự thay đổi đó không? "
+
+@45772 Scirocco · シロッコ
+> 「そう考えるのがまともだな。あのあと、
+>  敵軍には、かなりの混乱が
+“Thật có lý khi nghĩ như vậy. Sau đó, kẻ thù dường như
+---
+>  生じたように思える。どうやら
+>  地上の連中があれをやったのだと
+rơi vào tình trạng bối rối đáng kể. Có vẻ như tôi phải thừa nhận,
+---
+>  いうことは、認めざるを得ないようだ」
+Đó là những gì những người trên mặt đất đã làm. "
+
+@45773 Yazan · ヤザン
+> 「ふん、地上からもかなりの数の
+>  異星人どもが、引きあげたらしいな
+"Hừ, hình như có khá nhiều người ngoài hành tinh đang rút lui khỏi mặt đất.
+---
+>  あの噂は本当なのか、シロッコ?」
+Tin đồn đó có đúng không, Siroc? "
+
+@45774 Scirocco · シロッコ
+> 「空間をゆがめる機構……
+>  “グラドスの刻印”か
+"Thiết bị bóp méo không gian...'Dấu ấn của Grados'."
+---
+>  信じ難い話ではあるが、異星人
+>  どもの反応をみれば、違った答えも
+Dù khó tin nhưng hãy nhìn phản ứng của những người ngoài hành tinh đó,
+---
+>  導き出されよう。おそらく事実だな」
+Kết luận là khác nhau. Tôi sợ đó là sự thật. "
+
+@45775 Jerid · ジェリド
+> 「冗談じゃない! 地球圏は
+>  俺たちの世界だ。異星人などに
+"Thật là một trò đùa! Địa quyển là thế giới của chúng ta. Làm sao người ngoài hành tinh có thể
+---
+>  いつかれてたまるかよ」
+Ở lại đây và từ chối rời đi! "
+
+@45776 Yazan · ヤザン
+> 「連中がお家に帰れなくて混乱
+>  してるってんなら、ちょうどいい
+“Vì những kẻ đó không thể về nhà và gây ra hỗn loạn nên điều đó tốt.
+---
+>  いまのうちに、叩けるだけ叩いておく。
+>  でるぞ、シロッコ
+Hãy chiến đấu nhiều nhất có thể ngay bây giờ khi còn có thể. tấn công Sirocco,
+---
+>  お前もくるか、ジェリド」
+Anh cũng đi à, Jared? "
+
+@45777 Scirocco · シロッコ
+> 「まてヤザン。いまは動くな」
+"Đợi đã, Yazan. Đừng làm vậy lúc này."
+
+@45778 Yazan · ヤザン
+> 「どういうことだ?」
+"Ý bạn là gì?"
+
+@45779 Scirocco · シロッコ
+> 「我々の動くべき時ではないという
+>  ことだ。ここは、このバルジとリーブラ
+“Điều đó có nghĩa là bây giờ không phải lúc để chúng ta hành động. Ưu tiên hàng đầu là tập hợp lại.”
+---
+>  それにモビルドールの態勢を
+>  整え直すのが先決だ。先はまだ
+Các tư thế của Baluch, Libra và những con búp bê di động tại đây. Vẫn còn một con đường phía trước
+---
+>  長い。せいぜい休んでおけ」
+Rất dài. Bây giờ hãy nghỉ ngơi thật tốt nhé. "
+
+@45780 Haman · ハマーン
+> (“グラドスの刻印”……まさか
+>  そのようなものがあろうとはな。フフッ
+(“Dấu ấn của Grados”…Tôi không ngờ lại có chuyện như vậy. Haha,
+---
+>  あの連中はよくやってくれたよ。
+>  このまま帝国軍を排除できれば
+Những người đó đã làm rất tốt. Nếu chúng ta có thể đánh đuổi được Quân đội Đế quốc,
+---
+>  問題はずいぶんと簡単になる。
+>  あの異星人どもが、そう容易に
+Vấn đề sẽ đơn giản hơn nhiều. Mặc dù tôi không nghĩ những người ngoài hành tinh đó
+---
+>  叩けるとは思わんが……。
+>  {HeroMech}……せいぜい期待
+Sẽ bị đánh bại dễ dàng như vậy...{HeroMech}...để tôi mong chờ nhé
+---
+>  させてもらうとしよう。シロッコは……
+>  あの男はまだ動くまいな)
+Chỉ cần thử nó. Sirocco...người đàn ông đó sẽ không di chuyển vào lúc này. )
+
+@45781 Glemy · グレミー
+> 「失礼いたします、ハマーン様。
+>  エンドラが合流してまいりました」
+"Xin lỗi, ngài Haman. Endora đến gặp ngài."
+
+@45782 Haman · ハマーン
+> 「マシュマーが来たか。わかった、
+>  こちらへこさせろ」
+"Mathima có ở đây không? Hiểu rồi, để anh ấy đến đây."
+
+@45783 Glemy · グレミー
+> 「はっ」
+"Ừ. "
+
+@45784 Mashymre · マシュマー
+> 「ハマーン様。マシュマー・セロ、並びに
+>  キャラ・スーンの両名、まいりました」
+"Haman đại nhân. Matthew Mathero và Jira Sen, tới báo cáo."
+
+@45785 Haman · ハマーン
+> 「ご苦労であった。アクシズをよく
+>  守ってくれたようだな。礼をいうぞ」
+"Cảm ơn bạn. Có vẻ như bạn đã bảo vệ Axis rất tốt. Tôi muốn cảm ơn bạn."
+
+@45786 Chara · キャラ
+> 「ありがとうございます、ハマーン様」
+"Cảm ơn vì lời khen, ngài Haman."
+
+@45787 Mashymre · マシュマー
+> 「兵たちの疲れも、そのお言葉を
+>  聞けば、いやされましょう
+“Sự mệt mỏi của binh lính chắc chắn sẽ tan biến sau khi nghe được lời nói của bạn.
+---
+>  我ら一同、再びハマーン様の
+>  おそばにて働けること、この上なき
+Thật là một điều may mắn cho tất cả chúng ta khi được phục vụ bên cạnh Chúa Haman một lần nữa.
+---
+>  喜びにございます」
+Niềm vui tột đỉnh. "
+
+@45788 Haman · ハマーン
+> 「うむ。わかっていると思うが、
+>  まずは銀河帝国軍を相手に
+"Chà. Tôi nghĩ bạn cũng hiểu rằng trước hết, chúng ta phải sử dụng Quân đội Đế quốc Thiên hà làm lực lượng của mình.
+---
+>  することとなろう。お前たちにも存分
+>  に働いてもらう。期待しているぞ」
+đối thủ. Bạn cũng phải nỗ lực hết mình. Tôi đang mong chờ nó. "
+
+@45789 Mashymre · マシュマー
+> 「はっ、我ら一命を賭して、必ずや
+>  ご期待にこたえてごらんにいれます!」
+"Đúng vậy, chúng tôi sẽ mạo hiểm mạng sống của mình để đáp ứng mong đợi của bạn!"
+
+@45790 Haman · ハマーン
+> 「よくぞ申した。もどってよく休め。
+>  作戦は、おって伝える」
+"Nói hay lắm, ngươi trở về nghỉ ngơi thật tốt đi, lát nữa ta sẽ truyền lại kế hoạch tác chiến."
+
+@45791 Bright · ブライト
+> 「状況はどうか」
+"Mọi chuyện thế nào rồi?"
+
+@45792 Beltorchika · ベルトーチカ
+> 「全艦、大気圏の離脱を
+>  終了。問題ありません」
+"Toàn bộ con tàu đã thoát ra khỏi bầu khí quyển. Không có vấn đề gì cả."
+
+@45793 Bright · ブライト
+> 「よし、月から観測データをまわさせろ
+>  レーザー回線、開け」
+"Được rồi, để mặt trăng truyền dữ liệu quan sát. Bật tia laser lên."
+
+@45794 Eiji · エイジ
+> 「ハマーンが動いているですって?」
+“Haman có hành động gì không?”
+
+@45795 Alan · アラン
+> 「ああ。月からの情報では、
+>  アクシズから来た別の戦艦と
+"Ừ. Theo thông tin từ mặt trăng, cô ấy có vẻ giống với người đến từ Axis.
+---
+>  合流したようだ」
+Một chiếc thiết giáp hạm khác đã đến điểm hẹn. "
+
+@45796 Duo · デュオ
+> 「おいおい、まさかこっちにしかけて
+>  くるんじゃないだろうなぁ」
+"Này, này, bạn đang cố gắng tấn công chúng tôi à?"
+
+@45797 Quatre · カトル
+> 「まさか、いくらなんでも、そんなことは……」
+"Không thể nào, dù sao đi nữa, chuyện đó..."
+
+@45798 Kamille · カミーユ
+> 「ない、とはいいきれないな。ただ、今は
+>  それはないだろう」
+"Tôi không thể nói điều đó chắc chắn sẽ không xảy ra. Nhưng có lẽ nó sẽ không xảy ra vào lúc này."
+
+@45799 Kayra · ケーラ
+> 「どうして、そう思うんだい?」
+"Tại sao bạn nghĩ như vậy?"
+
+@45800 Kamille · カミーユ
+> 「あのハマーンが、異星人の軍を
+>  放っておいて僕らとやる気になるとは
+“Tôi không nghĩ Haman sẽ bỏ mặc quân đội ngoài hành tinh và đến chiến đấu với chúng ta.
+---
+>  思えない。そういうことです」
+Thế thôi. "
+
+@45801 Alan · アラン
+> 「そうだな。シロッコの方も、やはり
+>  何の動きも見せていないようだ」
+"Đúng. Có vẻ như vẫn chưa có động tĩnh gì từ phía Siroc."
+
+@45802 Tetsuya · 鉄也
+> 「異星人どもの方は、どうなんだ」
+“Chuyện gì đang xảy ra với những người ngoài hành tinh đó vậy?”
+
+@45803 Alan · アラン
+> 「戦闘光が観測されたようだ」
+"Có vẻ như ánh sáng chiến đấu đã được quan sát."
+
+@45804 Eiji · エイジ
+> 「戦闘光?」
+"Đèn chiến đấu?"
+
+@45805 Roux · ルー
+> 「でも、まだどこもしかけていないんでしょ?」
+“Nhưng vẫn chưa có ai hành động à?”
+
+@45806 Judau · ジュドー
+> 「なにいってんだよ、ルー。連中が、
+>  自分たちでやりあってるってことだろ」
+"Anh đang nói cái gì vậy, Lu? Điều đó có nghĩa là những kẻ đó bắt đầu đánh nhau."
+
+@45807 Kayra · ケーラ
+> 「反乱兵が出ている……そういうこと
+>  か」
+"Có người nổi loạn... có chuyện đó sao?"
+
+@45808 Reika · レイカ
+> 「小型輸送艇1機、接近中」
+"Một chiếc tàu vận tải nhỏ đang đến gần."
+
+@45809 Bunny · バニー
+> 「月からのようです。着艦許可を
+>  求めています」
+"Dường như đến từ mặt trăng. Đang xin phép hạ cánh."
+
+@45810 Amuro · アムロ
+> 「特佐?」
+"Tezo?"
+
+@45811 Treize · トレーズ
+> 「ああ、頼んでおいた補充のMSだろう
+>  新型だよ。月の防衛戦に
+“Chà, có lẽ đó là mobile suit mà tôi muốn bổ sung. Đó là một loại máy móc mới. Nó được sử dụng để bảo vệ mặt trăng.
+---
+>  投入されたが、残念ながら
+>  1機しか残らなかった」
+Thật đáng tiếc khi chỉ còn lại một. "
+
+@45812 Bunny · バニー
+> 「着艦の許可、出しますか?」
+"Bạn có muốn được phép hạ cánh không?"
+
+@45813 Bright · ブライト
+> 「よし、許可する。誘導してやれ」
+"Được, đã đồng ý. Dẫn họ vào."
+
+@45814 Ark · アーク（按段落 3DD1）
+> 「あれ、アムロ特尉、どうしたんです?」
+"Này, Trung úy Amuro, anh bị sao vậy?"
+
+@45815 Selain · セレイン（按段落 3DD2）
+> 「アムロ特尉、ブリッジの方はよろしい
+>  ので?」
+“Trung úy Amuro, trên cầu kia có ổn không?”
+
+@45816 Brad · ブラッド（按段落 3DD3）
+> 「おっと、なんだよ、ぞろぞろと」
+"Yo, chuyện gì đang xảy ra vậy? Họ lần lượt đến."
+
+@45817 Manami · マナミ（按段落 3DD4）
+> 「あら? アムロ特尉、どうかしたんです
+>  か?」
+"Rất tiếc? Trung úy Amuro, anh bị sao vậy?"
+
+@45818 Amuro · アムロ
+> 「いや、補充のMSを見に来たんだよ
+>  チェーン、さっき届いた新型って
+"Không có gì, tôi đến đây để bổ sung MS. Qian'en, chiếc điện thoại di động mới được giao vừa rồi
+---
+>  あれかい?」
+Đó có phải là cái đó không? "
+
+@45819 Chan · チェーン
+> 「ええ、見てください。
+>  量産型のνですよ」
+"Ừ, nhìn này. Đây là loại sản xuất hàng loạt ν."
+
+@45820 Kou · コウ
+> 「量産型のνガンダム!? すごい、
+>  そんなものが完成していたんですか!?」
+“Gundam được sản xuất hàng loạt!? Thật tuyệt vời. Loại chuyện đó đã được hoàn thành rồi à?”
+
+@45821 Amuro · アムロ
+> 「トレーズは月の防衛戦に投入
+>  されたといっていたな。オクトバーさんも
+“Teles nói rằng nó được sử dụng để bảo vệ mặt trăng. Có vẻ như ông Octoba cũng vậy.”
+---
+>  よくやってくれているようだね」
+Làm việc rất tốt. "
+
+@45822 Chan · チェーン
+> 「ええ、助かりますね。急がせたせいか、
+>  オーバーホール中の機体を
+“Ừ, đúng là giúp ích rất nhiều, chắc là tôi đẩy vội quá, cứ như máy còn đang sửa chữa lớn vậy.
+---
+>  持って来ちゃったらしいですけど」
+Trực tiếp mang đến. "
+
+@45823 Astonaige · アストナージ
+> 「ああ、ちょうどよかった。いまチャムに
+>  呼びに行かせるところだったんですよ」
+"À, đúng lúc đấy. Tôi đang định bảo Chaim gọi cho bạn."
+
+@45824 Amuro · アムロ
+> 「どうしたんだ?」
+"Có chuyện gì thế?"
+
+@45825 Shirley · シャリー
+> 「量産型のνガンダムは、
+>  ファンネル装備型か
+“Có vẻ như νGundam được sản xuất hàng loạt có thể được kết hợp với loại trang bị súng nổi và
+---
+>  インコム装備型かの選択が
+>  可能みたいなんです。月では
+Chọn một trong các loại thiết bị súng cảm biến có dây. Hình như mặt trăng ở đằng kia
+---
+>  インコムを使っていたらしいんですが、
+>  こっちで再調整するので、気を
+Pháo cảm ứng có dây được sử dụng, nhưng vì nó cần được điều chỉnh lại ở đây nên tôi trầm ngâm suy nghĩ.
+---
+>  きかせてファンネルも送ってくれたんです」
+Pháo nổi cũng đã được chuyển giao. "
+
+@45826 Astonaige · アストナージ
+> 「これから最終チェックをして、
+>  問題なければ組み上げにかかります
+“Bước tiếp theo là kiểm tra lần cuối và nếu không có vấn đề gì thì hãy bắt đầu lắp ráp.
+---
+>  それで、どっちにするか決めておいて
+>  もらいたいんですよ」
+Vì vậy, tôi hy vọng bạn quyết định nên sử dụng cái nào trước. "
+
+@45827 Amuro · アムロ
+> 「そうか……」
+"Chính là nó..."
+
+@45828 Roux · ルー
+> 「当然、ファンネルよね」
+"Tất nhiên đó là một khẩu pháo nổi. "
+
+@45829 Kou · コウ
+> 「なにいってるんだよ。汎用性の高い
+>  インコムに決まりだろう」
+"Bạn đang nói về cái gì vậy? Tất nhiên nó là một khẩu pháo cảm biến có dây rất linh hoạt. "
+
+@45830 Kayra · ケーラ
+> 「賛成だね」
+"Đồng ý. "
+
+@45831 Shiro · シロー
+> 「ああ、その方がいいだろ」
+“Ừ, thế tốt hơn. "
+
+@45832 Aina · アイナ
+> 「ええ、私もそう思います」
+"Ừ, tôi cũng nghĩ vậy. "
+
+@45833 Elle · エル
+> 「だめだめ! ファンネルよ!
+>  断然、ファンネルよ!」
+“Không, không, không! Pháo nổi! Chắc chắn là một khẩu pháo nổi! "
+
+@45834 Judau · ジュドー
+> 「やっぱり、ファンネル装備型でしょ」
+“Đúng như dự đoán, nó vẫn là loại trang bị pháo nổi. "
+
+@45835 Fa · ファ
+> 「だめよ、そんなの。いつ何があるか
+>  わからないんだから、みんなが
+“Điều đó không ổn. Tôi không biết khi nào điều gì đó sẽ xảy ra, hoặc mọi người
+---
+>  使える方がいいわ」
+Cả hai đều tốt hơn để sử dụng. "
+
+@45836 Kou · コウ
+> 「エマさんたちは、どう思うんです?」
+"Cô Emma, cô nghĩ thế nào? "
+
+@45837 Emma · エマ
+> 「そうね……確かにファンネルは強力だ
+>  けど、自分が乗ることを考えれば
+"Chà... khẩu pháo bay thực sự rất mạnh, nhưng nếu bạn nghĩ đến việc tự mình lái nó,
+---
+>  インコムかしらね」
+Hoặc một khẩu pháo cảm biến có dây. "
+
+@45838 Aboly · アポリー
+> 「そうだな。その方が楽でいいだろ」
+"Ừ. Cách đó dễ dàng hơn. "
+
+@45839 Kou · コウ
+> 「エマさんは、どう思うんです?」
+“Cô nghĩ sao, cô Emma? "
+
+@45840 Emma · エマ
+> 「そうね……確かにファンネルは強力だ
+>  けど、自分が乗ることを考えれば
+"Chà... khẩu pháo bay thực sự rất mạnh, nhưng nếu bạn nghĩ đến việc tự mình lái nó,
+---
+>  インコムかしらね」
+Hoặc một khẩu pháo cảm biến có dây. "
+
+@45841 Four · フォウ
+> 「あたしは、ファンネルの方が扱いやすい
+>  わ。カミーユだってそうでしょう?」
+“Tôi nghĩ sử dụng pháo nổi sẽ tốt hơn. Camus cũng nghĩ vậy phải không? "
+
+@45842 Kamille · カミーユ
+> 「そうだな……フォウのこともあるし、
+>  ファンネル装備の方が……」
+"Đúng... Xét đến chuyện của Feng, loại trang bị súng nổi tốt hơn..."
+
+@45843 Fa · ファ
+> 「カミーユ、そういう決め方ってよくない
+>  わよ!」
+"Camus, anh đã đưa ra quyết định không đúng đắn! "
+
+@45844 Four · フォウ
+> 「どうして?」
+"Tại sao?"
+
+@45845 Fa · ファ
+> 「どうしてって……みんなが使える方が、
+>  いいに決まってるじゃない」
+“Bạn hỏi tại sao… Tất nhiên sẽ tốt hơn nếu mọi người đều có thể sử dụng nó. "
+
+@45846 Amuro · アムロ
+> 「やれやれ、これじゃラチがあかないな」
+"Ồ, sẽ không có kết thúc nếu chuyện này tiếp tục. "
+
+@45847 Roux · ルー
+> 「でもアムロさんだって、ファンネルが
+>  いいって思いません?」
+“Nhưng anh Amuro không nghĩ rằng pháo nổi tốt hơn sao? "
+
+@45848 Kou · コウ
+> 「ルー・ルカ、汚いぞ!」
+"Lou Luka, ngươi thật xảo quyệt! "
+
+@45849 Astonaige · アストナージ
+> 「何でもいいから、早く決めてくれよ。
+>  チェーン、シャリー、悪いけどチェックは
+“Sao cũng được, chỉ cần quyết định nhanh thôi. Thiên Ân, Hạ Li, xin lỗi, ngươi đi trước đi
+---
+>  はじめちまってくれ」
+Bắt đầu kiểm tra. "
+
+@45850 Amuro · アムロ
+> 「……{HeroNick}、ちょっと来てくれないか」
+"...{HeroNick}, bạn có thể đến đây được không? "
+
+@45851 Ark · アーク（按段落 3DD1）
+> 「はい……なんです?」
+"Có... có chuyện gì vậy? "
+
+@45852 Selain · セレイン（按段落 3DD2）
+> 「なにか、特尉」
+"Có chuyện gì vậy, Thiếu úy? "
+
+@45853 Brad · ブラッド（按段落 3DD3）
+> 「別にいいけど……何だ?」
+"Tôi không quan tâm... có chuyện gì vậy? "
+
+@45854 Manami · マナミ（按段落 3DD4）
+> 「ええ、かまいませんわ。なんです、
+>  特尉?」
+"Được rồi, tôi ổn. Có chuyện gì vậy, Trung úy?"
+
+@45855 Amuro · アムロ
+> 「君が決めてくれないか」
+"Bạn quyết định."
+
+@45856 Roux · ルー
+> 「えーっ!?」
+"Này——!?"
+
+@45857 Kou · コウ
+> 「特尉、どういうことです?
+>  {HeroNick}は、関係ないじゃないですか」
+"Trung úy, chuyện gì đang xảy ra vậy? {HeroNick} không liên quan gì đến chuyện đó cả."
+
+@45858 Amuro · アムロ
+> 「だからさ。関係ないから、決めて
+>  もらうんだよ。{HeroNick}の決定に
+"Vì vậy. Chỉ vì nó không quan trọng nên đó là quyết định đúng đắn. Quyết định của {HeroNick},
+---
+>  文句はいわないこと。みんな、いいな?」
+Không ai được phép có ý kiến. Mọi người hiểu không? "
+
+@45859 Roux · ルー
+> 「……わかりました」
+"...Tôi hiểu."
+
+@45860 Kou · コウ
+> 「……はい」
+"...Vâng."
+
+@45861 Astonaige · アストナージ
+> 「{HeroName}、どっちにしておくんだ?」
+"{HeroName}, bạn định chọn cái nào?"
+
+@45862
+> *  ファンネル装備型
+> *  インコム装備型
+* * Loại thiết bị súng nổi
+* * Loại thiết bị súng cảm ứng có dây
+
+@45863 Ark · アーク（按段落 3DD1）
+> 「そうですね……
+>  戦力の強化を第1に考えるなら
+"Chà...nếu ưu tiên là tăng cường sức mạnh chiến đấu,
+---
+>  やっぱりファンネルの方がいいんじゃない
+>  ですか?」
+Quả nhiên pháo nổi vẫn tốt hơn phải không? "
+
+@45864 Ark · アーク（按段落 3DD1）
+> 「そうですね……ファのいうように、
+>  誰でも扱えた方が、いいでしょう
+"Chà... như Hua đã nói, tốt nhất là ai cũng có thể sử dụng nó.
+---
+>  インコム装備型の方がいいと
+>  思いますよ」
+Tôi nghĩ loại thiết bị pháo cảm ứng có dây thì tốt hơn. "
+
+@45865 Selain · セレイン（按段落 3DD2）
+> 「ファンネルだな。いっておくが、苦情は
+>  受けつけないからな」
+"Chỉ là bay pháo thôi, trước tiên nói chuyện đi, ngươi có ý kiến gì, ta sẽ không nghe."
+
+@45866 Selain · セレイン（按段落 3DD2）
+> 「インコムでいいだろう。いっておくが、
+>  苦情は受けつけないからな」
+"Chỉ là có dây cảm biến pháo thôi, trước nói chuyện đi, ngươi có ý kiến gì, ta sẽ không nghe."
+
+@45867 Brad · ブラッド（按段落 3DD3）
+> 「チッ、面倒なことさせるぜ。まぁいい。
+>  戦力の強化を考えるんなら
+"Chậc, nó chỉ khiến mọi người gặp rắc rối thôi. Quên đi. Nếu cậu cân nhắc việc tăng cường sức mạnh chiến đấu của mình,
+---
+>  ファンネルにしとくべきなんじゃないのか?」
+Có nên chọn pháo nổi không? "
+
+@45868 Brad · ブラッド（按段落 3DD3）
+> 「チッ、面倒なことさせるぜ。まぁいい。
+>  インコムにしといた方が無難だろうな」
+"Chậc, chỉ làm người ta phiền phức thôi. Quên đi. Pháo cảm biến có dây sẽ an toàn hơn."
+
+@45869 Manami · マナミ（按段落 3DD4）
+> 「本当に決めてしまっていいんですね?
+>  なら、あたしはファンネルの方がいいと
+"Thật sự có thể để cho ta quyết định sao? Vậy ta cảm thấy bay pháo tốt hơn.
+---
+>  思いますわ。やはり、
+>  戦力の強化を考えれば、ね」
+Rốt cuộc, chúng ta cần xem xét việc tăng cường sức mạnh chiến đấu của mình. "
+
+@45870 Manami · マナミ（按段落 3DD4）
+> 「本当に決めてしまっていいんですね?
+>  なら、あたしはインコムの方がいいと
+"Bạn thực sự có thể để tôi quyết định không? Vậy thì tôi nghĩ pháo cảm biến có dây sẽ tốt hơn.
+---
+>  思いますわ。人を選ばないのは、
+>  いざという時に重要ですもの」
+Điểm không kén chọn này rất quan trọng vào những thời điểm quan trọng. "
+
+@45871 Amuro · アムロ
+> 「悪いね、{HeroNick}。アストナージ、
+>  ファンネル装備型で頼むよ」
+"Tôi xin lỗi, {HeroNick}. Astornaji, hãy biến nó thành một loại thiết bị pháo nổi."
+
+@45872 Amuro · アムロ
+> 「悪いね、{HeroNick}。アストナージ、
+>  インコム装備型で頼むよ」
+"Tôi xin lỗi, {HeroNick}. Astornagi, vui lòng biến nó thành loại thiết bị pháo cảm biến có dây."
+
+@45873 Astonaige · アストナージ
+> 「了解。この作戦には間に合わせ
+>  てみせますよ」
+"Đã hiểu. Tôi sẽ hoàn thành nó trước trận chiến này."

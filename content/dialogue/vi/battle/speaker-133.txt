@@ -1,0 +1,306 @@
+# Bản dịch tiếng Việt Super Robot Wars 64
+# Định dạng và vị trí: docs/guide/dialogue-text.md
+
+@7881 Shingo · 真吾
+# Kích hoạt: Tấn công (Chung，1/6）
+> 「行くぞ!」
+"Nào!"
+
+@7882 Shingo · 真吾
+# Kích hoạt: Tấn công (Chung，2/6）
+> 「これでどうだ!」
+"Động tác này thế nào!"
+
+@7883 Shingo · 真吾
+# Kích hoạt: Tấn công (Chung，3/6）
+> 「さあて、こいつでとどめだ!」
+"Được rồi, tôi sẽ dùng cái này để đưa bạn lên đường!"
+
+@7884 Shingo · 真吾
+# Kích hoạt: Tấn công (Chung，4/6）
+> 「邪魔だ!」
+"Tránh ra!"
+
+@7885 Shingo · 真吾
+# Kích hoạt: Tấn công (Chung，5/6）
+> 「そろそろ本気で行くぞ!」
+"Đã đến lúc phải nghiêm túc!"
+
+@7886 Shingo · 真吾
+# Kích hoạt: Tấn công (Chung，6/6）
+> 「ゴーショーグンの力、見せてやるぜ!」
+"Cho các ngươi thấy sức mạnh của Tướng Hảo!"
+
+@7887 Shingo · 真吾
+# Kích hoạt: 被击坠（通用，1/7）
+> 「何だと!?」
+"Cái gì!?"
+
+@7888 Shingo · 真吾
+# Kích hoạt: 被击坠（通用，2/7）
+> 「くそっ!! やられたっ!」
+"Chết tiệt!! Bị đánh rồi!"
+
+@7889 Shingo · 真吾
+# Kích hoạt: 被击坠（通用，3/7）
+> 「しまった!!」
+"Ối!!"
+
+@7890 Remy · レミー
+# Kích hoạt: 被击坠（通用，4/7）
+> 「やあん! 真吾、しっかりしてよ、
+>  やられちゃったじゃない!」
+"Thật kinh tởm! Jingo, sao anh không cố gắng tức giận hơn nữa? Chúng ta đã bị đánh bại!"
+
+@7891 Remy · レミー
+# Kích hoạt: 被击坠（通用，5/7）
+> 「やん! ダメっ!!」
+"A! Không thể nào!!"
+
+@7892 Killy · キリー
+# Kích hoạt: 被击坠（通用，6/7）
+> 「ちっ! やられちまったぜ!」
+"Tsk! Bị đánh rồi!"
+
+@7893 Killy · キリー
+# Kích hoạt: 被击坠（通用，7/7）
+> 「あーあ、ダメか」
+"Ồ, tôi không thể làm được nữa"
+
+@7894 Shingo · 真吾
+# Kích hoạt: 重伤（剩余 HP 不足 30%）（通用，1/6）
+> 「ちいっ! 調子に乗りすぎたかな?」
+"Tsk! Bạn có quá tự mãn không?"
+
+@7895 Shingo · 真吾
+# Kích hoạt: 重伤（剩余 HP 不足 30%）（通用，2/6）
+> 「ちっ!! このままじゃまずいな……」
+"Tsk!! Cứ tiếp tục thế này không tốt đâu..."
+
+@7896 Shingo · 真吾
+# Kích hoạt: 重伤（剩余 HP 不足 30%）（通用，3/6）
+> 「うわっ!! これはちょっとヤバイかな……」
+"Ồ!! Có gì đó không ổn bây giờ..."
+
+@7897 Remy · レミー
+# Kích hoạt: 重伤（剩余 HP 不足 30%）（通用，4/6）
+> 「きゃあっ! このまま花も咲かずに
+>  散ってたまるもんですか!!」
+"Ừ! Tôi không muốn bông hoa héo trước khi nở!!"
+
+@7898 Killy · キリー
+# Kích hoạt: 重伤（剩余 HP 不足 30%）（通用，5/6）
+> 「うわっ!! 真吾!!
+>  ヤバイぜこいつは!」
+"Wow!! Shingo!! Điều này không tốt chút nào!"
+
+@7899 Killy · キリー
+# Kích hoạt: 重伤（剩余 HP 不足 30%）（通用，6/6）
+> 「ちっ!! こいつは分が悪いぜ!」
+"Tsk!! Trận chiến này không dễ chiến đâu!"
+
+@7900 Shingo · 真吾
+# Kích hoạt: 中伤（剩余 HP 30–90%）（通用，1/8）
+> 「まだまだ、この程度なら!」
+"Vẫn còn sớm, vết thương này không là gì cả!"
+
+@7901 Shingo · 真吾
+# Kích hoạt: 中伤（剩余 HP 30–90%）（通用，2/8）
+> 「ちっ、油断したか?」
+"Tsk, cậu bất cẩn phải không?"
+
+@7902 Shingo · 真吾
+# Kích hoạt: 中伤（剩余 HP 30–90%）（通用，3/8）
+> 「やったな!! このっ!!」
+"Sao mày dám đánh tao!! Đồ này!!"
+
+@7903 Shingo · 真吾
+# Kích hoạt: 中伤（剩余 HP 30–90%）（通用，4/8）
+> 「うっ!! や、やるじゃないの!」
+"Ugh!! Tuy nhiên, đây là một cuộc chiến khá khó khăn!"
+
+@7904 Remy · レミー
+# Kích hoạt: 中伤（剩余 HP 30–90%）（通用，5/8）
+> 「あいたっ! レディに向かってよくも
+>  やってくれたわね!」
+"Đau quá! Sao ngươi dám tấn công một cô nương, ngươi thật dũng cảm!"
+
+@7905 Remy · レミー
+# Kích hoạt: 中伤（剩余 HP 30–90%）（通用，6/8）
+> 「きゃっ! やったわねっ!」
+"A! Sao ngươi dám đánh ta!"
+
+@7906 Killy · キリー
+# Kích hoạt: 中伤（剩余 HP 30–90%）（通用，7/8）
+> 「うわっ!! くそっ、真吾しっかり
+>  やってくれ!」
+"Wow!! Chết tiệt, Shingo, làm ơn làm việc tốt cho tôi đi!"
+
+@7907 Killy · キリー
+# Kích hoạt: 中伤（剩余 HP 30–90%）（通用，8/8）
+> 「つっ! 受けた分は利子つけて
+>  返させてもらうぜ!」
+"Chà! Tôi sẽ trả lại cho bạn tiền lãi sau cú đánh này!"
+
+@7908 Shingo · 真吾
+# Kích hoạt: 轻伤（剩余 HP 90% 以上）（通用，1/8）
+> 「何だ、そんなもの!」
+"Cái gì, đó là tất cả những gì bạn có!"
+
+@7909 Shingo · 真吾
+# Kích hoạt: 轻伤（剩余 HP 90% 以上）（通用，2/8）
+> 「効かないな!」
+"Nó không đau hay ngứa!"
+
+@7910 Shingo · 真吾
+# Kích hoạt: 轻伤（剩余 HP 90% 以上）（通用，3/8）
+> 「ふん、効いてないぜ!」
+“Hừm, nó không đau hay ngứa chút nào cả!”
+
+@7911 Shingo · 真吾
+# Kích hoạt: 轻伤（剩余 HP 90% 以上）（通用，4/8）
+> 「この程度か!」
+“Đó là tất cả những gì cậu có à?”
+
+@7912 Remy · レミー
+# Kích hoạt: 轻伤（剩余 HP 90% 以上）（通用，5/8）
+> 「まだまだ修行が足りないわよ」
+"Kungfu vẫn chưa đủ"
+
+@7913 Remy · レミー
+# Kích hoạt: 轻伤（剩余 HP 90% 以上）（通用，6/8）
+> 「だめねえ、この程度?」
+“Không, đó là tất cả những gì cậu có à?”
+
+@7914 Killy · キリー
+# Kích hoạt: 轻伤（剩余 HP 90% 以上）（通用，7/8）
+> 「効かねえぜ!」
+"Nó không đau hay ngứa!"
+
+@7915 Killy · キリー
+# Kích hoạt: 轻伤（剩余 HP 90% 以上）（通用，8/8）
+> 「やれやれ、この程度か?」
+“Ôi trời, đó là tất cả những gì cậu có à?”
+
+@7916 Shingo · 真吾
+# Kích hoạt: Né tránh（通用，1/8）
+> 「おおっと、あぶない、あぶない」
+"Ôi, nguy hiểm quá, nguy hiểm quá"
+
+@7917 Shingo · 真吾
+# Kích hoạt: Né tránh（通用，2/8）
+> 「当たるものか!」
+"Làm sao có thể đánh trúng!"
+
+@7918 Shingo · 真吾
+# Kích hoạt: Né tránh（通用，3/8）
+> 「ふ、どこをねらってる!」
+"Hừ, ngươi nhắm vào đâu!"
+
+@7919 Shingo · 真吾
+# Kích hoạt: Né tránh（通用，4/8）
+> 「おっと!!」
+"Ồ ồ!!"
+
+@7920 Shingo · 真吾
+# Kích hoạt: Né tránh（通用，5/8）
+> 「ムダだっ!!」
+"Lãng phí công sức!!"
+
+@7921 Remy · レミー
+# Kích hoạt: Né tránh（通用，6/8）
+> 「あらら、残念でした」
+"Ồ, thật đáng tiếc."
+
+@7922 Killy · キリー
+# Kích hoạt: Né tránh（通用，7/8）
+> 「おおはずれ～」
+"Nó hoàn toàn trượt~"
+
+@7923 Killy · キリー
+# Kích hoạt: Né tránh（通用，8/8）
+> 「チッチッ、ねらいがあまいぜ」
+“Tsk, tsk, mục tiêu của cậu tệ quá.”
+
+@7924 Shingo · 真吾
+# Kích hoạt: Tấn công无效（护罩／装甲）（通用，1/4）
+> 「ふん、そんな攻撃が通用するか!」
+"Hừ, đòn tấn công này sao có thể có tác dụng!"
+
+@7925 Shingo · 真吾
+# Kích hoạt: Tấn công无效（护罩／装甲）（通用，2/4）
+> 「ビームは効かないっていってる!!」
+"Tôi đã nói với bạn rằng chùm tia là vô dụng!!"
+
+@7926 Remy · レミー
+# Kích hoạt: Tấn công无效（护罩／装甲）（通用，3/4）
+> 「ちょっと!あたったらどうする気!?」
+"Này! Tôi nên làm gì nếu bị đánh!?"
+
+@7927 Remy · レミー
+# Kích hoạt: Tấn công无效（护罩／装甲）（通用，4/4）
+> 「ビームは効かないっていってるじゃない!」
+"Tôi đã nói với bạn rằng chùm ánh sáng là vô dụng!"
+
+@7928 Shingo · 真吾
+# Kích hoạt: 弹药／EN 不足，无法反击（通用，1/2）
+> 「弾切れ!? しまった!」
+"Hết đạn!? Rất tiếc!"
+
+@7929 Shingo · 真吾
+# Kích hoạt: 弹药／EN 不足，无法反击（通用，2/2）
+> 「くっ! だめか!?」
+"Hmm! Không thể chiến đấu được nữa!?"
+
+@7930 Shingo · 真吾
+# Kích hoạt: 射程外，无法反击（通用，1/2）
+> 「ちっ、ちょ～っと遠すぎるみたいね」
+"Tsk, có vẻ hơi xa."
+
+@7931 Shingo · 真吾
+# Kích hoạt: 射程外，无法反击（通用，2/2）
+> 「くっ! 遠すぎるか!」
+"Hmm! Có xa quá không?"
+
+@14546 Shingo · 真吾
+# Kích hoạt: 使用〈コスモビーム〉（低优先，可能被通用台词顶掉）
+> 「コスモビーム!!」
+"Tia vũ trụ!!"
+
+@14547 Shingo · 真吾
+# Kích hoạt: 使用〈レッドインパルサー〉（低优先，可能被通用台词顶掉）
+> 「レッドインパルサー!!」
+"Xung đỏ!!"
+
+@14548 Shingo · 真吾
+# Kích hoạt: 使用〈ホルスタービーム〉（低优先，可能被通用台词顶掉）
+> 「ホルスタービーム!!」
+"Bao súng tia!!"
+
+@14549 Shingo · 真吾
+# Kích hoạt: 使用〈ゴーサーベル〉（低优先，可能被通用台词顶掉）
+> 「ゴーサーベル!!」
+"Hảo Saber!!"
+
+@14550 Shingo · 真吾
+# Kích hoạt: 使用〈ゴースティック〉（低优先，可能被通用台词顶掉）
+> 「ゴースティック!!」
+"Cây gậy lớn!!"
+
+@14551 Shingo · 真吾
+# Kích hoạt: 使用〈スペースバズーカ〉（低优先，可能被通用台词顶掉）
+> 「スペースバズーカ!!」
+“Bazooka không gian!!”
+
+@14552 Shingo · 真吾
+# Kích hoạt: 使用〈ゴーフラッシャー〉
+> 「ゴーフラッシャーッ!!」
+"Thật nhanh chóng!!"
+
+@14553 Shingo · 真吾
+# Kích hoạt: 使用〈ゴーフラッシャー〉
+> 「これで決める!」
+"Dùng thủ thuật này để quyết định kết quả!"
+---
+> 「ゴーフラッシャーッ!!」
+"Thật nhanh chóng!!"

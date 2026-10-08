@@ -1,0 +1,47 @@
+# Bản dịch tiếng Việt Super Robot Wars 64
+# Định dạng và vị trí: docs/guide/dialogue-text.md
+
+@11821 Lawrence · ローレンス
+# Kích hoạt: Tấn công (Chung，1/1）
+> 「ばかめ!」
+"Đồ ngốc!"
+
+@11822 Lawrence · ローレンス
+# Kích hoạt: 被击坠（通用，1/1）
+> 「ばかめ!」
+"Đồ ngốc!"
+
+@11823 Lawrence · ローレンス
+# Kích hoạt: 重伤（剩余 HP 不足 30%）（通用，1/1）
+> 「ばかめ!」
+"Đồ ngốc!"
+
+@11824 Lawrence · ローレンス
+# Kích hoạt: 中伤（剩余 HP 30–90%）（通用，1/1）
+> 「ばかめ!」
+"Đồ ngốc!"
+
+@11825 Lawrence · ローレンス
+# Kích hoạt: 轻伤（剩余 HP 90% 以上）（通用，1/1）
+> 「ばかめ!」
+"Đồ ngốc!"
+
+@11826 Lawrence · ローレンス
+# Kích hoạt: Né tránh（通用，1/1）
+> 「ばかめ!」
+"Đồ ngốc!"
+
+@11827 Lawrence · ローレンス
+# Kích hoạt: Tấn công无效（护罩／装甲）（通用，1/1）
+> 「ばかめ!」
+"Đồ ngốc!"
+
+@11828 Lawrence · ローレンス
+# Kích hoạt: 弹药／EN 不足，无法反击（通用，1/1）
+> 「ばかめ!」
+"Đồ ngốc!"
+
+@11829 Lawrence · ローレンス
+# Kích hoạt: 射程外，无法反击（通用，1/1）
+> 「ばかめ!」
+"Đồ ngốc!"

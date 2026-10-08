@@ -1,0 +1,47 @@
+# Bản dịch tiếng Việt Super Robot Wars 64
+# Định dạng và vị trí: docs/guide/dialogue-text.md
+
+@9017 Fa · ファ
+# Kích hoạt: Tấn công (Chung，1/1）
+> 「落ちてっ!!」
+"Rớt nó đi!!"
+
+@9018 Fa · ファ
+# Kích hoạt: 被击坠（通用，1/1）
+> 「きゃあああっ!!」
+"Ahhhhhh!!"
+
+@9019 Fa · ファ
+# Kích hoạt: 重伤（剩余 HP 不足 30%）（通用，1/1）
+> 「ダメ、もうもたないっ!?」
+"Không, tôi không thể chịu đựng được nữa!?"
+
+@9020 Fa · ファ
+# Kích hoạt: 中伤（剩余 HP 30–90%）（通用，1/1）
+> 「ま……まだよ、まだいけるっ!!」
+"Nó...nó vẫn chưa kết thúc, tôi vẫn có thể chiến đấu!!"
+
+@9021 Fa · ファ
+# Kích hoạt: 轻伤（剩余 HP 90% 以上）（通用，1/1）
+> 「大丈夫、かすっただけ!」
+"Không sao đâu, tôi chỉ xoa nó thôi!"
+
+@9022 Fa · ファ
+# Kích hoạt: Né tránh（通用，1/1）
+> 「かわせた!」
+"Tránh nó ra!"
+
+@9023 Fa · ファ
+# Kích hoạt: Tấn công无效（护罩／装甲）（通用，1/1）
+> 「ムダよ、そんなビームなんて!」
+"Vô dụng thôi, loại chùm tia đó không có tác dụng!"
+
+@9024 Fa · ファ
+# Kích hoạt: 弹药／EN 不足，无法反击（通用，1/1）
+> 「あ……弾切れ!?」
+"A...hết đạn rồi!?"
+
+@9025 Fa · ファ
+# Kích hoạt: 射程外，无法反击（通用，1/1）
+> 「ダメ、届かない!!」
+"Không, tôi không thể với tới nó!!"

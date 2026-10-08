@@ -1,0 +1,528 @@
+# Bản dịch tiếng Việt Super Robot Wars 64
+# Định dạng và vị trí: docs/guide/dialogue-text.md
+
+@10425 Koji · 甲児
+# Kích hoạt: Tấn công (Chung，1/4）
+> 「このやろうっ!!」
+"Đồ khốn nạn!!"
+
+@10426 Koji · 甲児
+# Kích hoạt: Tấn công (Chung，2/4）
+> 「これでもくらえっ!!」
+“Thử cái này đi!!”
+
+@10427 Koji · 甲児
+# Kích hoạt: Tấn công (Chung，3/4）
+> 「こいつでとどめだ!!」
+"Tôi sẽ giết bạn bằng chiêu thức này!!"
+
+@10428 Koji · 甲児
+# Kích hoạt: Tấn công (Chung，4/4）
+> 「兜甲児が相手だ!」
+"Đối thủ của bạn là Kabutoji!"
+
+@10429 Koji · 甲児
+# Kích hoạt: 被击坠（通用，1/5）
+> 「くそっ!! だめか!」
+"Chết tiệt! Không thể được sao?"
+
+@10430 Koji · 甲児
+# Kích hoạt: 被击坠（通用，2/5）
+> 「ちくしょう! やられちまった!」
+"Quái vật! Anh ta đã bị đánh bại!"
+
+@10431 Koji · 甲児
+# Kích hoạt: 被击坠（通用，3/5）
+> 「くそっ!! だめか!」
+"Chết tiệt! Không thể được sao?"
+
+@10432 Koji · 甲児
+# Kích hoạt: 被击坠（通用，4/5）
+> 「うわあああっ!」
+“Ồ! "
+
+@10433 Koji · 甲児
+# Kích hoạt: 被击坠（通用，5/5）
+> 「うわあっ! な、なんてこったい!!」
+"Wow! Làm sao, sao chuyện này có thể xảy ra được!!"
+
+@10434 Koji · 甲児
+# Kích hoạt: 重伤（剩余 HP 不足 30%）（通用，1/5）
+> 「ぐっ! こいつはちとヤバイかな」
+"Hmm! Bây giờ có gì đó không ổn."
+
+@10435 Koji · 甲児
+# Kích hoạt: 重伤（剩余 HP 不足 30%）（通用，2/5）
+> 「ちくしょう!! このままじゃ
+>  やられちまうぜっ!!」
+"Quái thú!! Nếu tiếp tục như thế này, ngươi sẽ bị đánh bại!!"
+
+@10436 Koji · 甲児
+# Kích hoạt: 重伤（剩余 HP 不足 30%）（通用，3/5）
+> 「くっ! このままじゃヤバイぜ!」
+"Ugh! Tiếp tục như thế này không phải là ý hay đâu!"
+
+@10437 Koji · 甲児
+# Kích hoạt: 重伤（剩余 HP 不足 30%）（通用，4/5）
+> 「くそっ! これじゃもたねえ!!」
+"Chết tiệt! Tôi không thể giữ được như thế này được!!"
+
+@10438 Koji · 甲児
+# Kích hoạt: 重伤（剩余 HP 不足 30%）（通用，5/5）
+> 「くそぉっ! まずいぜ、こいつは!」
+"Chết tiệt! Điều này không tốt chút nào!"
+
+@10439 Koji · 甲児
+# Kích hoạt: 中伤（剩余 HP 30–90%）（通用，1/6）
+> 「てめえ! やりゃあがったな!!」
+"Đồ khốn! Sao ngươi dám đánh ta!!"
+
+@10440 Koji · 甲児
+# Kích hoạt: 中伤（剩余 HP 30–90%）（通用，2/6）
+> 「やったな、このやろう!」
+"Sao ngươi dám đánh ta, đồ khốn!"
+
+@10441 Koji · 甲児
+# Kích hoạt: 中伤（剩余 HP 30–90%）（通用，3/6）
+> 「や、やるじゃねえか……」
+"Ừ, có một lúc..."
+
+@10442 Koji · 甲児
+# Kích hoạt: 中伤（剩余 HP 30–90%）（通用，4/6）
+> 「うわあっ!」
+"Ồ!"
+
+@10443 Koji · 甲児
+# Kích hoạt: 中伤（剩余 HP 30–90%）（通用，5/6）
+> 「やりやがったな、こんちくしょう!」
+"Sao ngươi dám đánh ta, khốn kiếp!"
+
+@10444 Koji · 甲児
+# Kích hoạt: 中伤（剩余 HP 30–90%）（通用，6/6）
+> 「うわっ! この、やったな てめえっ!!」
+"Wow! Tên này sao dám làm vậy!!"
+
+@10445 Koji · 甲児
+# Kích hoạt: 轻伤（剩余 HP 90% 以上）（通用，1/6）
+> 「ちっ! あたっちまったか!」
+"Tsk! Bị trúng đòn!"
+
+@10446 Koji · 甲児
+# Kích hoạt: 轻伤（剩余 HP 90% 以上）（通用，2/6）
+> 「へへん! 効いてないぜ!」
+"Này! Nó không đau hay ngứa chút nào cả!"
+
+@10447 Koji · 甲児
+# Kích hoạt: 轻伤（剩余 HP 90% 以上）（通用，3/6）
+> 「ヘン、その程度かよ!」
+"Hừ, đó là tất cả những gì tôi có thể làm!"
+
+@10448 Koji · 甲児
+# Kích hoạt: 轻伤（剩余 HP 90% 以上）（通用，4/6）
+> 「何でえ、そんなもんかよ!」
+"Cái gì? Đó là tất cả những gì bạn có à?"
+
+@10449 Koji · 甲児
+# Kích hoạt: 轻伤（剩余 HP 90% 以上）（通用，5/6）
+> 「そんな攻撃が通用すると
+>  思ってんのか!?」
+"Bạn có nghĩ cuộc tấn công này sẽ thành công không!?"
+
+@10450 Koji · 甲児
+# Kích hoạt: 轻伤（剩余 HP 90% 以上）（通用，6/6）
+> 「まだまだ! 出直して来な!!」
+"Vẫn còn sớm! Hãy quay lại và luyện tập lại đi!!"
+
+@10451 Koji · 甲児
+# Kích hoạt: Né tránh（通用，1/6）
+> 「へへーんだ!」
+"Này--!"
+
+@10452 Koji · 甲児
+# Kích hoạt: Né tránh（通用，2/6）
+> 「へたくそっ!」
+"Tân binh!"
+
+@10453 Koji · 甲児
+# Kích hoạt: Né tránh（通用，3/6）
+> 「おっとっと」
+"Ối."
+
+@10454 Koji · 甲児
+# Kích hoạt: Né tránh（通用，4/6）
+> 「おっと、あぶねぇあぶねぇ」
+"Ồ, thật là một cuộc gọi gần gũi."
+
+@10455 Koji · 甲児
+# Kích hoạt: Né tránh（通用，5/6）
+> 「ほーれ、こっちこっち」
+"Đi, lối này."
+
+@10456 Koji · 甲児
+# Kích hoạt: Né tránh（通用，6/6）
+> 「どこ狙ってんだよ!」
+"Ngươi nhắm vào đâu!"
+
+@10457 Koji · 甲児
+# Kích hoạt: Tấn công无效（护罩／装甲）（通用，1/2）
+> 「ムダだっ!」
+"Thật vô ích!"
+
+@10458 Koji · 甲児
+# Kích hoạt: Tấn công无效（护罩／装甲）（通用，2/2）
+> 「ムダだっていったろ!」
+"Có nói hết cũng vô ích thôi!"
+
+@10459 Koji · 甲児
+# Kích hoạt: 弹药／EN 不足，无法反击（通用，1/1）
+> 「ちっ! 反撃できねえ!」
+"Tsk! Không có cách nào đánh trả được!"
+
+@10460 Koji · 甲児
+# Kích hoạt: 射程外，无法反击（通用，1/1）
+> 「だめだ! とどかねえっ!」
+"Không! Nó ngoài tầm với!"
+
+@15954 Koji · 甲児
+# Kích hoạt: 使用〈ミサイル／グレネードランチャー／ミサイルポッド／ホーミングミサイル／連装ミサイルランチャー／小型ミサイル／大型ミサイル〉
+> 「ミサイル発射!」
+"Phóng tên lửa!"
+
+@15955 Koji · 甲児
+# Kích hoạt: 使用〈ロケットパンチ〉
+> 「ロケットパーンチッ!」
+"Cú đấm tên lửa bay!"
+
+@15956 Koji · 甲児
+# Kích hoạt: 使用〈冷凍ビーム〉
+> 「冷凍ビーム!!」
+“Ray đóng băng!!”
+
+@15957 Koji · 甲児
+# Kích hoạt: 使用〈光子力ビーム〉
+> 「光子力ビーム!!」
+"Tia lực photon!!"
+
+@15958 Koji · 甲児
+# Kích hoạt: 使用〈アイアンカッター〉
+> 「アイアンカッター!!」
+"Cắt nắm đấm bay!!"
+
+@15959 Koji · 甲児
+# Kích hoạt: 使用〈ミサイル／グレネードランチャー／ミサイルポッド／ホーミングミサイル／連装ミサイルランチャー／小型ミサイル／大型ミサイル〉
+> 「ミサイル!!」
+"Tên lửa!!"
+
+@15960 Koji · 甲児
+# Kích hoạt: 使用〈ドリルミサイル〉
+> 「ドリルミサイル!!」
+"Khoan tên lửa!!"
+
+@15961 Koji · 甲児
+# Kích hoạt: 使用〈ルストハリケーン〉
+> 「ルストハリケーン!!」
+"Cơn bão ăn mòn!!"
+
+@15962 Koji · 甲児
+# Kích hoạt: 使用〈スクランダーカッター〉
+> 「スクランダーカッター!!」
+“Cắt cánh bay!!”
+
+@15963 Koji · 甲児
+# Kích hoạt: 使用〈サザンクロスナイフ〉
+> 「サザンクロスナイフ!!」
+"Phi tiêu Thập tự sao Nam!!"
+
+@15964 Koji · 甲児
+# Kích hoạt: 使用〈ブレストファイヤー／ブレストファイヤーMAP〉
+> 「ブレストファイヤー!!」
+"Lửa ngực!!"
+
+@15965 Koji · 甲児
+# Kích hoạt: 使用〈大車輪ロケットパンチ〉
+> 「大車輪ロケットパーンチッ!!」
+"Cú đấm bay tên lửa bánh xe lớn!!"
+
+@15966 Koji · 甲児
+# Kích hoạt: 使用〈ダブルミサイル〉
+> 「ダブルミサイル!」
+"Tên lửa đôi!"
+
+@15967 Koji · 甲児
+# Kích hoạt: 使用〈サイクロンビーム〉
+> 「サイクロンビーム!」
+"Tia lốc xoáy!"
+
+@15968 Koji · 甲児
+# Kích hoạt: 使用〈ダブルカッター〉
+> 「ダブルカッター!」
+"Cắt đôi!"
+
+@15969 Koji · 甲児
+# Kích hoạt: 使用〈ドリルミサイル〉
+> 「ドリルミサイル!」
+"Khoan tên lửa!"
+
+@15970 Koji · 甲児
+# Kích hoạt: 使用〈スパークボンバー〉
+> 「スパークボンバー!」
+"Bom tia lửa!"
+
+@15971 Koji · 甲児
+# Kích hoạt: 使用〈ドリルアタック〉
+> 「ドリルアタック!」
+"Khoan tấn công!"
+
+@15972 Koji · 甲児
+# Kích hoạt: 使用〈マリンビーム〉
+> 「マリンビーム!」
+"Tia sáng đại dương!"
+
+@15973 Koji · 甲児
+# Kích hoạt: 使用〈マリンカッター〉
+> 「マリンカッター!」
+"Lưỡi cắt đại dương!"
+
+@15974 Koji · 甲児
+# Kích hoạt: 使用〈マリンミサイル〉
+> 「マリンミサイル!」
+"Tên lửa biển!"
+
+@15975 Koji · 甲児
+# Kích hoạt: 使用〈グレートタイフーン〉
+> 「グレートタイフーン!」
+"Cơn bão quỷ vĩ đại!"
+
+@15976 Koji · 甲児
+# Kích hoạt: 使用〈スクランブルカッター〉
+> 「スクランブルカッター!」
+"Cắt cánh chạy nước rút!"
+
+@15977 Koji · 甲児
+# Kích hoạt: 使用〈ネーブルミサイル〉
+> 「ネーブルミサイル!」
+"Tên lửa bụng!"
+
+@15978 Koji · 甲児
+# Kích hoạt: 使用〈マジンガーブレード〉
+> 「マジンガーブレード!」
+"Quỷ Kiếm!"
+
+@15979 Koji · 甲児
+# Kích hoạt: 使用〈グレートブーメラン〉
+> 「グレートブーメラン!」
+"Đại quỷ Boomerang!"
+
+@15980 Koji · 甲児
+# Kích hoạt: 使用〈アトミックパンチ〉
+> 「アトミックパーンチッ!」
+"Nắm đấm bay nguyên tử!"
+
+@15981 Koji · 甲児
+# Kích hoạt: 使用〈ドリルプレッシャーパンチ〉
+> 「ドリルプレッシャーパーンチッ!」
+"Nắm đấm bay mũi khoan quay!"
+
+@15982 Koji · 甲児
+# Kích hoạt: 使用〈ブレストバーン〉
+> 「ブレストバーン!」
+"Ngực trong lửa!"
+
+@15983 Koji · 甲児
+# Kích hoạt: 使用〈サンダーブレーク〉
+> 「サンダーブレーク!」
+"Sấm sét!"
+
+@15984 Koji · 甲児
+# Kích hoạt: 使用〈ニーインパルスキック〉
+> 「ニーインパルスキック!」
+"Cú đá tác động đầu gối!"
+
+@15985 Koji · 甲児
+# Kích hoạt: 使用〈バックスピンキック〉
+> 「バックスピンキック!」
+"Quay lại đá vòng tròn!"
+
+@15986 Koji · 甲児
+# Kích hoạt: 使用〈グレートタイフーン〉
+> 「グレートタイフーン!」
+"Cơn bão quỷ vĩ đại!"
+
+@15987 Koji · 甲児
+# Kích hoạt: 使用〈スクランブルカッター〉
+> 「スクランブルカッター!」
+"Cắt cánh chạy nước rút!"
+
+@15988 Koji · 甲児
+# Kích hoạt: 使用〈ネーブルミサイル〉
+> 「ネーブルミサイル!」
+"Tên lửa bụng!"
+
+@15989 Koji · 甲児
+# Kích hoạt: 使用〈マジンガーブレード〉
+> 「マジンガーブレード!」
+"Quỷ Kiếm!"
+
+@15990 Koji · 甲児
+# Kích hoạt: 使用〈グレートブーメラン〉
+> 「グレートブーメラン!」
+"Đại quỷ Boomerang!"
+
+@15991 Koji · 甲児
+# Kích hoạt: 使用〈アトミックパンチ〉
+> 「アトミックパーンチッ!」
+"Nắm đấm bay nguyên tử!"
+
+@15992 Koji · 甲児
+# Kích hoạt: 使用〈ドリルプレッシャーパンチ〉
+> 「ドリルプレッシャーパーンチッ!」
+"Nắm đấm bay mũi khoan quay!"
+
+@15993 Koji · 甲児
+# Kích hoạt: 使用〈ブレストバーン〉
+> 「ブレストバーン!」
+"Ngực trong lửa!"
+
+@15994 Koji · 甲児
+# Kích hoạt: 使用〈サンダーブレーク〉
+> 「サンダーブレーク!」
+"Sấm sét!"
+
+@15995 Koji · 甲児
+# Kích hoạt: 使用〈グレートブースター〉
+> 「グレートブースター!」
+"Siêu máy bay phản lực!"
+
+@15996 Koji · 甲児
+# Kích hoạt: 使用〈スカーレットビーム／ 補給装置〉
+> 「スカーレットビーム!」
+"Ánh sáng đỏ tươi!"
+
+@15997 Koji · 甲児
+# Kích hoạt: 使用〈ダイアナンミサイル〉
+> 「ダイアナンミサイル!」
+"Tên lửa Diana!"
+
+@15998 Koji · 甲児
+# Kích hoạt: 使用〈フィンガーミサイル〉（低优先，可能被通用台词顶掉）
+> 「フィンガーミサイル!」
+"Tên lửa ngón tay!"
+
+@15999 Koji · 甲児
+# Kích hoạt: 使用〈光子力ミサイル〉
+> 「光子力ミサイル!」
+"Tên lửa lực Photon!"
+
+@16000 Koji · 甲児
+# Kích hoạt: 使用〈ミサイル／グレネードランチャー／ミサイルポッド／ホーミングミサイル／連装ミサイルランチャー／小型ミサイル／大型ミサイル〉
+> 「ミサイル発射!」
+"Phóng tên lửa!"
+
+@16001 Koji · 甲児
+# Kích hoạt: 使用〈光子力ビーム〉
+> 「光子力ビーム!」
+"Tia lực photon!"
+
+@16002 Koji · 甲児
+# Kích hoạt: 使用〈ロケットパンチ〉
+> 「ロケットパーンチッ!」
+"Cú đấm tên lửa bay!"
+
+@16003 Koji · 甲児
+# Kích hoạt: 使用〈ルストハリケーン〉
+> 「ルストハリケーン!」
+"Cơn bão ăn mòn!"
+
+@16004 Koji · 甲児
+# Kích hoạt: 使用〈ブレストファイヤー／ブレストファイヤーMAP〉
+> 「ブレストファイヤー!」
+"Ngực lửa!"
+
+@16005 Koji · 甲児
+# Kích hoạt: 使用〈ボロットパンチ〉
+> 「ボロットパーンチ!!」
+"Cú đấm Borot!!"
+
+@16006 Koji · 甲児
+# Kích hoạt: 使用〈スペシャルボロットパンチ〉
+> 「スペシャルボロットパーンチ!!
+>  ……効かねえかな?」
+“Nắm đấm Borot đặc biệt!!... Nó không có tác dụng, phải không?”
+
+@16007 Koji · 甲児
+# Kích hoạt: 使用〈スペシャルDXボロットパンチ〉
+> 「スペシャルデラックスゴールデンデリシャッ
+>  ……あいて、舌かんだ」
+"Exceptionally luxurious, golden and delicious... Oops, I bit my tongue."
+
+@16008 Koji · 甲児
+# Kích hoạt: 被击坠，乘坐〈グレートマジンガー〉
+> 「ちくしょう! グレートが
+>  やられるなんて!!」
+“可恶!大魔神居然被打倒了!!!”
+
+@16009 Koji · 甲児
+# Kích hoạt: 被击坠，乘坐〈マジンガーZ〉
+> 「ちくしょう! マジンガーが
+>  やられるなんて!!」
+“可恶!魔神居然被打倒了!!!”
+
+@16010 Koji · 甲児
+# Kích hoạt: 被击坠，乘坐〈マジンガーZ(JS)〉
+> 「ちくしょう! マジンガーが
+>  やられるなんて!!」
+“可恶!魔神居然被打倒了!!!”
+
+@16011 Koji · 甲児
+# Kích hoạt: 中伤（剩余 HP 30–90%），乘坐〈グレートマジンガー〉
+> 「くそっ! グレートがこんなもんで
+>  やられるかよっ!」
+"Damn it! How could the Great Demon God be defeated so easily!"
+
+@16012 Koji · 甲児
+# Kích hoạt: 中伤（剩余 HP 30–90%），乘坐〈マジンガーZ〉
+> 「くそっ! マジンガーがこんなもんで
+>  やられるかよっ!」
+"Damn it! How could the devil be defeated so easily!"
+
+@16013 Koji · 甲児
+# Kích hoạt: 中伤（剩余 HP 30–90%），乘坐〈マジンガーZ(JS)〉
+> 「くそっ! マジンガーがこんなもんで
+>  やられるかよっ!」
+"Damn it! How could the devil be defeated so easily!"
+
+@16014 Koji · 甲児
+# Kích hoạt: 轻伤（剩余 HP 90% 以上），乘坐〈グレートマジンガー〉
+> 「そんなもんでこのグレートを
+>  倒す気かよ!!」
+"Chỉ với khả năng nhỏ bé này, tôi muốn đánh bại con đại quỷ này!!"
+
+@16015 Koji · 甲児
+# Kích hoạt: 轻伤（剩余 HP 90% 以上），乘坐〈マジンガーZ〉
+> 「そんなもんでこのマジンガーを
+>  倒す気かよ!!」
+"Chỉ với khả năng này, tôi muốn đánh bại con quỷ này!!"
+
+@16016 Koji · 甲児
+# Kích hoạt: 轻伤（剩余 HP 90% 以上），乘坐〈マジンガーZ(JS)〉
+> 「そんなもんでこのマジンガーを
+>  倒す気かよ!!」
+"Chỉ với khả năng này, tôi muốn đánh bại con quỷ này!!"
+
+@16017 Koji · 甲児
+# Kích hoạt: 轻伤（剩余 HP 90% 以上），乘坐〈グレートマジンガー〉
+> 「超合金ニューZはそんな攻撃じゃ
+>  ビクともしないぜ!」
+"Loại tấn công này thậm chí không thể lay chuyển được Siêu hợp kim Z mới!"
+
+@16018 Koji · 甲児
+# Kích hoạt: 轻伤（剩余 HP 90% 以上），乘坐〈マジンガーZ〉
+> 「超合金Zはそんな攻撃じゃ
+>  ビクともしないぜ!」
+"Loại tấn công này hoàn toàn không thể lay chuyển được Super Alloy Z!"
+
+@16019 Koji · 甲児
+# Kích hoạt: 轻伤（剩余 HP 90% 以上），乘坐〈マジンガーZ(JS)〉
+> 「超合金Zはそんな攻撃じゃ
+>  ビクともしないぜ!」
+"Loại tấn công này hoàn toàn không thể lay chuyển được Super Alloy Z!"

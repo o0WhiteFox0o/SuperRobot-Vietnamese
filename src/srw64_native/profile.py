@@ -140,7 +140,7 @@ UI_KEYS |= {key + "_pad" for key in PAD_HINT_KEYS}
 
 
 def load_profile(path: Path, *, locale: str | None = None, images: str | None = None) -> dict:
-    profile = json.loads(path.read_text())
+    profile = json.loads(path.read_text(encoding="utf-8"))
     if profile.get("schema") != "srw64.play-profile.v1" or profile.get("baseline") != "srw64-jp-rev0":
         raise ValueError("Unsupported play profile/baseline")
     if profile.get("gameplay_mods") != []:
@@ -166,8 +166,8 @@ def prepare_profile(root: Path, profile: dict, rom: Path, output: Path) -> dict:
     p = profile["presentation"]
     locale_path = inside(root, profile["locales"][p["locale"]])
     ja_path = inside(root, profile["locales"]["ja"])
-    language = json.loads(locale_path.read_text())
-    japanese = json.loads(ja_path.read_text())
+    language = json.loads(locale_path.read_text(encoding="utf-8"))
+    japanese = json.loads(ja_path.read_text(encoding="utf-8"))
     if language["locale"] != p["locale"] or japanese["locale"] != "ja":
         raise ValueError("Locale registry identity mismatch")
     entries = compile_locale(language, sources, hashes)
@@ -176,7 +176,7 @@ def prepare_profile(root: Path, profile: dict, rom: Path, output: Path) -> dict:
     locale_options = []
     locale_catalogs = {}
     for locale, relative in profile["locales"].items():
-        document = json.loads(inside(root, relative).read_text())
+        document = json.loads(inside(root, relative).read_text(encoding="utf-8"))
         if document["locale"] != locale:
             raise ValueError("Locale registry identity mismatch")
         compiled = entries if locale == p["locale"] else compile_locale(document, sources, hashes)
@@ -223,9 +223,9 @@ def prepare_profile(root: Path, profile: dict, rom: Path, output: Path) -> dict:
     from .battle_assets import prepare_battle_assets
     data["battle_assets"] = prepare_battle_assets(root, rom.read_bytes(), output / "battle", hd_portrait, hd_unit)
     data["name_entry_assets"] = name_assets
-    (output / "coverage.json").write_text(json.dumps(coverage, ensure_ascii=False, indent=2) + "\n")
+    (output / "coverage.json").write_text(json.dumps(coverage, ensure_ascii=False, indent=2) + "\n", encoding="utf-8")
     dialogue = output / "dialogue.json"
-    dialogue.write_text(json.dumps(data, ensure_ascii=False) + "\n")
+    dialogue.write_text(json.dumps(data, ensure_ascii=False) + "\n", encoding="utf-8")
     result = {"schema": "srw64.prepared-profile.v1", "profile": profile,
               "rom_sha256": data["rom_sha256"], "dialogue": {"path": str(dialogue), "sha256": sha(dialogue.read_bytes())},
               "art": art, "art_source_sha256": art_sha,

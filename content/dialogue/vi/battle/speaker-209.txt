@@ -1,0 +1,146 @@
+# Bản dịch tiếng Việt Super Robot Wars 64
+# Định dạng và vị trí: docs/guide/dialogue-text.md
+
+@7839 Karla · カルラ
+# Kích hoạt: Tấn công (Chung，1/7）
+> 「いさぎよく死ぬがいい!」
+"Chết một cách vui vẻ đi!"
+
+@7840 Karla · カルラ
+# Kích hoạt: Tấn công (Chung，2/7）
+> 「この私に勝てると思っているのか!?」
+"Ngươi nghĩ ngươi có thể đánh bại ta sao!?"
+
+@7841 Karla · カルラ
+# Kích hoạt: Tấn công (Chung，3/7）
+> 「死ぬがいい!!」
+"Xuống địa ngục đi!!"
+
+@7842 Karla · カルラ
+# Kích hoạt: Tấn công (Chung，4/7）
+> 「これがお前の最後だっ!!」
+"Đây là kết thúc của bạn!!"
+
+@7843 Karla · カルラ
+# Kích hoạt: Tấn công (Chung，5/7）
+> 「落ちろっ!」
+"Rớt!"
+
+@7844 Karla · カルラ
+# Kích hoạt: Tấn công (Chung，6/7）
+> 「無駄なあがきをっ!」
+"Tất cả đều vô ích!"
+
+@7845 Karla · カルラ
+# Kích hoạt: Tấn công (Chung，7/7）
+> 「お前がっ!」
+"Tùy cậu thôi!"
+
+@7846 Karla · カルラ
+# Kích hoạt: 被击坠（通用，1/2）
+> 「し、しまった……!」
+"Ối, ôi...!"
+
+@7847 Karla · カルラ
+# Kích hoạt: 被击坠（通用，2/2）
+> 「この私を、ここまで追い詰める
+>  とは!?」
+"Bạn có thể ép tôi đến mức này!?"
+
+@7848 Karla · カルラ
+# Kích hoạt: 重伤（剩余 HP 不足 30%）（通用，1/2）
+> 「うわぁぁぁぁっっ!!」
+"Ồhhhhhhhhh!!"
+
+@7849 Karla · カルラ
+# Kích hoạt: 重伤（剩余 HP 不足 30%）（通用，2/2）
+> 「しまった! このままではもたん!」
+"Ối! Tôi không thể giữ được như thế này!"
+
+@7850 Karla · カルラ
+# Kích hoạt: 中伤（剩余 HP 30–90%）（通用，1/3）
+> 「なんだと!?」
+"Cái gì!?"
+
+@7851 Karla · カルラ
+# Kích hoạt: 中伤（剩余 HP 30–90%）（通用，2/3）
+> 「くぅぅっ!」
+"Ờ-huh!"
+
+@7852 Karla · カルラ
+# Kích hoạt: 中伤（剩余 HP 30–90%）（通用，3/3）
+> 「うぅっ!」
+"Ồ!"
+
+@7853 Karla · カルラ
+# Kích hoạt: 轻伤（剩余 HP 90% 以上）（通用，1/2）
+> 「なにっ!?」
+"Cái gì!?"
+
+@7854 Karla · カルラ
+# Kích hoạt: 轻伤（剩余 HP 90% 以上）（通用，2/2）
+> 「その程度の攻撃で何をしようと
+>  いうのだ!」
+"Với đòn tấn công nhỏ này, bạn muốn gì!"
+
+@7855 Karla · カルラ
+# Kích hoạt: Né tránh（通用，1/3）
+> 「あまいっ!!」
+"Thật ngây thơ!!"
+
+@7856 Karla · カルラ
+# Kích hoạt: Né tránh（通用，2/3）
+> 「おそいっ!!」
+"Quá chậm!!"
+
+@7857 Karla · カルラ
+# Kích hoạt: Né tránh（通用，3/3）
+> 「そんな構えで当てられるか!」
+“Cậu muốn đánh tôi ngay cả với tư thế đó!”
+
+@7858 Karla · カルラ
+# Kích hoạt: Tấn công无效（护罩／装甲）（通用，1/1）
+> 「効きはせん!!」
+“Nó không đau hay ngứa chút nào cả!!”
+
+@7859 Karla · カルラ
+# Kích hoạt: 弹药／EN 不足，无法反击（通用，1/1）
+> 「くっ、だめか!?」
+"Chà, không thể được nữa à!?"
+
+@7860 Karla · カルラ
+# Kích hoạt: 射程外，无法反击（通用，1/1）
+> 「くっ、届かぬというのか!?」
+"Chà, không thể liên lạc được!?"
+
+@14540 Karla · カルラ
+# Kích hoạt: 使用〈遠距離型レーザードライフル〉（低优先，可能被通用台词顶掉）
+> 「シュート!!」
+"Bắn!!"
+
+@14541 Karla · カルラ
+# Kích hoạt: 剧情标志 0 = 0，武器码 0（按表原样）
+> 「ゲイル中尉の仇!」
+"Trả thù cho Trung úy Gale!"
+
+@14542 Karla · カルラ
+# Kích hoạt: 剧情标志 0 = 0，武器码 0（按表原样）
+> 「貴様らは許さん!」
+"Tôi không thể tha cho bạn!"
+
+@14543 Karla · カルラ
+# Kích hoạt: 剧情标志 0 = 0，武器码 0（按表原样）
+> 「ゲイル中尉……自分は、
+>  あなたのためなら……」
+“Trung úy Gale…chỉ cần là vì anh, tôi…”
+
+@14544 Karla · カルラ
+# Kích hoạt: 对手驾驶员〈エイジ〉
+> 「エイジ! 貴様だけはこの手で
+>  殺してやる!」
+"Eiji! Anh là người duy nhất tôi muốn giết bằng chính đôi tay mình!"
+
+@14545 Karla · カルラ
+# Kích hoạt: 对手驾驶员〈エイジ〉
+> 「死ね、エイジ!」
+"Xuống địa ngục đi, Eiji!"

@@ -1,0 +1,128 @@
+# Bản dịch tiếng Việt Super Robot Wars 64
+# Định dạng và vị trí: docs/guide/dialogue-text.md
+
+@11960 Kosuke · 小介
+# Kích hoạt: Tấn công (Chung，1/5）
+> 「このっ!」
+"Xem động tác!"
+
+@11961 Kosuke · 小介
+# Kích hoạt: Tấn công (Chung，2/5）
+> 「やらせませんよ!」
+"Tôi sẽ không để bạn thành công!"
+
+@11962 Kosuke · 小介
+# Kích hoạt: Tấn công (Chung，3/5）
+> 「これでもくらえっ!」
+"Ăn chiêu của tôi đi!"
+
+@11963 Kosuke · 小介
+# Kích hoạt: Tấn công (Chung，4/5）
+> 「いくよっ!」
+"Lên!"
+
+@11964 Kosuke · 小介
+# Kích hoạt: Tấn công (Chung，5/5）
+> 「僕だって!」
+"Tôi cũng có thể làm được!"
+
+@11965 Kosuke · 小介
+# Kích hoạt: 被击坠（通用，1/1）
+> 「わあああっ! す、すいません、やられて
+>  しまいました!」
+"Ồ! Vâng, tôi xin lỗi, tôi đã bị giết!"
+
+@11966 Kosuke · 小介
+# Kích hoạt: 重伤（剩余 HP 不足 30%）（通用，1/3）
+> 「うわああっ! パ、パワーが
+>  違いすぎるっ!」
+"Wow! Có sự khác biệt rất lớn về sức mạnh!"
+
+@11967 Kosuke · 小介
+# Kích hoạt: 重伤（剩余 HP 不足 30%）（通用，2/3）
+> 「わああっ! や、やられちゃうっ!!」
+"Chà! Tôi sắp bị giết mất!!"
+
+@11968 Kosuke · 小介
+# Kích hoạt: 重伤（剩余 HP 不足 30%）（通用，3/3）
+> 「うわあっ! ちずるお姉ちゃん、
+>  豹馬さん、助けてくださいっ!」
+"Wow! Chị Qianhe, anh Baoma, giúp em với!"
+
+@11969 Kosuke · 小介
+# Kích hoạt: 中伤（剩余 HP 30–90%）（通用，1/3）
+> 「くうっ! やったなあっ!」
+"Hừ! Sao ngươi dám!"
+
+@11970 Kosuke · 小介
+# Kích hoạt: 中伤（剩余 HP 30–90%）（通用，2/3）
+> 「こ、このっ! まだやられてませんよ!」
+"Chết tiệt! Tôi còn chưa thua!"
+
+@11971 Kosuke · 小介
+# Kích hoạt: 中伤（剩余 HP 30–90%）（通用，3/3）
+> 「まだだっ! まだやられるもんか!」
+"Vẫn chưa kết thúc! Tôi sẽ không ngã đâu!"
+
+@11972 Kosuke · 小介
+# Kích hoạt: 轻伤（剩余 HP 90% 以上）（通用，1/3）
+> 「わっ! あ、当たったけど、
+>  大丈夫だよね?」
+"Chà! Tôi bị đánh. Có ổn không?"
+
+@11973 Kosuke · 小介
+# Kích hoạt: 轻伤（剩余 HP 90% 以上）（通用，2/3）
+> 「こんな攻撃で落ちるもんか!」
+"Làm thế nào một cuộc tấn công như vậy có thể đánh bại tôi?"
+
+@11974 Kosuke · 小介
+# Kích hoạt: 轻伤（剩余 HP 90% 以上）（通用，3/3）
+> 「この程度のダメージなんて!」
+"Vết thương nhỏ này không là gì cả!"
+
+@11975 Kosuke · 小介
+# Kích hoạt: Né tránh（通用，1/3）
+> 「わあああっ! あ、危なかったぁ」
+"Wow! Nguy hiểm quá."
+
+@11976 Kosuke · 小介
+# Kích hoạt: Né tránh（通用，2/3）
+> 「わあっ! あた、あた……当たってないや」
+"Wow! Đánh, đánh... trượt"
+
+@11977 Kosuke · 小介
+# Kích hoạt: Né tránh（通用，3/3）
+> 「わっ、わっ、来るなぁっ!」
+"Ôi, ôi, đừng tới đây!"
+
+@11978 Kosuke · 小介
+# Kích hoạt: Tấn công无效（护罩／装甲）（通用，1/1）
+> 「そんなビームじゃ、このバトルクラフトは
+>  やられませんよ!」
+"Loại chùm tia này không thể làm hỏng chiếc xe bọc thép chiến đấu này!"
+
+@11979 Kosuke · 小介
+# Kích hoạt: 弹药／EN 不足，无法反击（通用，1/1）
+> 「あ、あれ? 弾切れなの? 計算
+>  間違ったかな?」
+"Hả? Hết đạn à? Tôi tính nhầm à?"
+
+@11980 Kosuke · 小介
+# Kích hoạt: 射程外，无法反击（通用，1/1）
+> 「だ、ダメだ! ここからじゃ届かないよ!」
+"Không, không! Bạn không thể với tới nó từ đây!"
+
+@16793 Kosuke · 小介
+# Kích hoạt: 使用〈クラフトドリル〉（低优先，可能被通用台词顶掉）
+> 「クラフトドリル!」
+"Máy khoan xe bọc thép!"
+
+@16794 Kosuke · 小介
+# Kích hoạt: 使用〈クラフトミサイル〉（低优先，可能被通用台词顶掉）
+> 「クラフトミサァァイル!」
+“Tên lửa xe bọc thép—!”
+
+@16795 Kosuke · 小介
+# Kích hoạt: 使用〈クラフトミサイル〉（低优先，可能被通用台词顶掉）
+> 「ミサイル発射!」
+"Phóng tên lửa!"

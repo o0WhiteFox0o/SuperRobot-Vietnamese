@@ -1,0 +1,163 @@
+# Bản dịch tiếng Việt Super Robot Wars 64
+# Định dạng và vị trí: docs/guide/dialogue-text.md
+
+@7637 Le Cain · ル・カイン
+# Kích hoạt: Tấn công (Chung，1/9）
+> 「愚か者めっ!!」
+"Thằng ngu ngốc!!"
+
+@7638 Le Cain · ル・カイン
+# Kích hoạt: Tấn công (Chung，2/9）
+> 「貴様はここで死ぬのだ!!」
+"Ngươi chết ở chỗ này đi!!"
+
+@7639 Le Cain · ル・カイン
+# Kích hoạt: Tấn công (Chung，3/9）
+> 「貴様!!」
+"Anh bạn!!"
+
+@7640 Le Cain · ル・カイン
+# Kích hoạt: Tấn công (Chung，4/9）
+> 「問答無用!」
+"Không cần phải nói thêm nữa!"
+
+@7641 Le Cain · ル・カイン
+# Kích hoạt: Tấn công (Chung，5/9）
+> 「ハッハッハッハ!!」
+"Hahahaha!!"
+
+@7642 Le Cain · ル・カイン
+# Kích hoạt: Tấn công (Chung，6/9）
+> 「生きてここを去れると思って
+>  いるのか?」
+“Anh có nghĩ mình có thể sống sót ra khỏi đây không?”
+
+@7643 Le Cain · ル・カイン
+# Kích hoạt: Tấn công (Chung，7/9）
+> 「覚悟っ!!」
+"Chết tiệt!!"
+
+@7644 Le Cain · ル・カイン
+# Kích hoạt: Tấn công (Chung，8/9）
+> 「勝負!!」
+"Một cuộc thách đấu!!"
+
+@7645 Le Cain · ル・カイン
+# Kích hoạt: Tấn công (Chung，9/9）
+> 「恨むなら、己を恨め!」
+"Muốn hận thì hận chính mình đi!"
+
+@7646 Le Cain · ル・カイン
+# Kích hoạt: 被击坠（通用，1/2）
+> 「私が貴様らごときに……!?」
+"Làm sao tôi có thể thua một người như bạn...!?"
+
+@7647 Le Cain · ル・カイン
+# Kích hoạt: 被击坠（通用，2/2）
+> 「おのれぇぇぇぇぇっ!」
+"Chết tiệt!"
+
+@7648 Le Cain · ル・カイン
+# Kích hoạt: 重伤（剩余 HP 不足 30%）（通用，1/3）
+> 「ゆるせん……断じて許せん!!」
+"Không thể tha thứ...không bao giờ được tha thứ!!"
+
+@7649 Le Cain · ル・カイン
+# Kích hoạt: 重伤（剩余 HP 不足 30%）（通用，2/3）
+> 「私に恥をかかせてくれた礼は、
+>  タップリとさせてもらうぞ!」
+“让我蒙羞的这笔账,我会好好跟你算清楚!”
+
+@7650 Le Cain · ル・カイン
+# Kích hoạt: 重伤（剩余 HP 不足 30%）（通用，3/3）
+> 「ぐぅぅぅぅぅっ!」
+"Uuuuuuuuuuuuuuuuuuuuu!"
+
+@7651 Le Cain · ル・カイン
+# Kích hoạt: 中伤（剩余 HP 30–90%）（通用，1/5）
+> 「くっ! 私に立ち向かう気か!」
+"Hừ! Sao ngươi dám là kẻ thù của ta!"
+
+@7652 Le Cain · ル・カイン
+# Kích hoạt: 中伤（剩余 HP 30–90%）（通用，2/5）
+> 「お、おのれっ!!」
+“Đ-Chết tiệt!!”
+
+@7653 Le Cain · ル・カイン
+# Kích hoạt: 中伤（剩余 HP 30–90%）（通用，3/5）
+> 「ハッハッハッ、気に入った!
+>  フハハハハハハッ!」
+"Hahaha, thú vị! Hahahahahahaha!"
+
+@7654 Le Cain · ル・カイン
+# Kích hoạt: 中伤（剩余 HP 30–90%）（通用，4/5）
+> 「こ、この程度で!」
+"Chỉ là vết thương nhẹ thôi!"
+
+@7655 Le Cain · ル・カイン
+# Kích hoạt: 中伤（剩余 HP 30–90%）（通用，5/5）
+> 「ぬぅぅっ!」
+"Uuuuuuuuuuuuuuuuu"
+
+@7656 Le Cain · ル・カイン
+# Kích hoạt: 轻伤（剩余 HP 90% 以上）（通用，1/3）
+> 「この程度か!」
+“Đó là tất cả những gì cậu có à?”
+
+@7657 Le Cain · ル・カイン
+# Kích hoạt: 轻伤（剩余 HP 90% 以上）（通用，2/3）
+> 「効かぬわ、愚か者め!」
+"Vô dụng thôi, đồ ngốc!"
+
+@7658 Le Cain · ル・カイン
+# Kích hoạt: 轻伤（剩余 HP 90% 以上）（通用，3/3）
+> 「ふん、それでは相手にならん!」
+"Hừ, ngươi không xứng làm đối thủ của ta với trình độ kỹ năng này!"
+
+@7659 Le Cain · ル・カイン
+# Kích hoạt: Né tránh（通用，1/4）
+> 「フフッ、なかなか楽しませてくれるな」
+"Ha ha, ngươi thật sự làm cho ta vui vẻ."
+
+@7660 Le Cain · ル・カイン
+# Kích hoạt: Né tránh（通用，2/4）
+> 「愚かな」
+"Ngu ngốc."
+
+@7661 Le Cain · ル・カイン
+# Kích hoạt: Né tránh（通用，3/4）
+> 「そんな腕で私を倒そうというのか!?
+>  笑わせるな!」
+"Bạn muốn đánh bại tôi chỉ bằng kỹ năng nhỏ bé đó!? Đừng làm tôi cười!"
+
+@7662 Le Cain · ル・カイン
+# Kích hoạt: Né tránh（通用，4/4）
+> 「貴様ごときの攻撃が、この私に
+>  あたるなどと思うな!」
+"Đừng tưởng đòn tấn công của ngươi có thể đánh trúng ta!"
+
+@7663 Le Cain · ル・カイン
+# Kích hoạt: Tấn công无效（护罩／装甲）（通用，1/2）
+> 「私にダメージを与える事など
+>  貴様らにはできん!」
+"Các người tuyệt đối không được làm tổn thương tôi!"
+
+@7664 Le Cain · ル・カイン
+# Kích hoạt: Tấn công无效（护罩／装甲）（通用，2/2）
+> 「そんな攻撃など効かぬわっ!」
+“Đòn tấn công đó không có tác dụng với tôi!”
+
+@7665 Le Cain · ル・カイン
+# Kích hoạt: 弹药／EN 不足，无法反击（通用，1/1）
+> 「くっ、この私が!?」
+"Chà, tôi thực sự có thể...!?"
+
+@7666 Le Cain · ル・カイン
+# Kích hoạt: 射程外，无法反击（通用，1/1）
+> 「おのれ卑怯な!」
+"Chết tiệt, đồ đáng ghét!"
+
+@14531 Le Cain · ル・カイン
+# Kích hoạt: 使用〈V-MAXレッドパワー〉
+> 「V-MAXスーパーチャージ、オン!!」
+"V-MAX siêu sạc, bắt đầu!!"

@@ -1,0 +1,109 @@
+# Bản dịch tiếng Việt Super Robot Wars 64
+# Định dạng và vị trí: docs/guide/dialogue-text.md
+
+@9981 Gyugaki · 牛餓鬼
+# Kích hoạt: Tấn công (Chung，1/7）
+> 「なまいきな奴らめっ! それっ!」
+"Một lũ kiêu ngạo! Hãy cẩn thận hành động của các ngươi!"
+
+@9982 Gyugaki · 牛餓鬼
+# Kích hoạt: Tấn công (Chung，2/7）
+> 「俺の父さんの牛剣鬼は
+>  空の英雄といわれているんだっ!」
+"Cha ta Ngưu Kiếm Quỷ được mệnh danh là anh hùng của bầu trời!"
+
+@9983 Gyugaki · 牛餓鬼
+# Kích hoạt: Tấn công (Chung，3/7）
+> 「俺は牛剣鬼の息子だ!」
+"Ta là con trai của Sửu Kiếm Ma!"
+
+@9984 Gyugaki · 牛餓鬼
+# Kích hoạt: Tấn công (Chung，4/7）
+> 「それっ!!」
+"Coi chừng động tác!!"
+
+@9985 Gyugaki · 牛餓鬼
+# Kích hoạt: Tấn công (Chung，5/7）
+> 「くらえ!」
+"Ăn chiêu của tôi đi!"
+
+@9986 Gyugaki · 牛餓鬼
+# Kích hoạt: Tấn công (Chung，6/7）
+> 「いくぞ!」
+"Nào!"
+
+@9987 Gyugaki · 牛餓鬼
+# Kích hoạt: Tấn công (Chung，7/7）
+> 「俺だってぇ!」
+"Tôi cũng có thể làm được!"
+
+@9988 Gyugaki · 牛餓鬼
+# Kích hoạt: 被击坠（通用，1/1）
+> 「うわああぁあああああぁぁぁぁっ!」
+"Waaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaa-!"
+
+@9989 Gyugaki · 牛餓鬼
+# Kích hoạt: 重伤（剩余 HP 不足 30%）（通用，1/3）
+> 「ううわっ!?」
+"Ồ!?"
+
+@9990 Gyugaki · 牛餓鬼
+# Kích hoạt: 重伤（剩余 HP 不足 30%）（通用，2/3）
+> 「ぐっ……おめおめと引き返せないっ!」
+“Gu…Tôi không thể chạy trốn trong tuyệt vọng được!”
+
+@9991 Gyugaki · 牛餓鬼
+# Kích hoạt: 重伤（剩余 HP 不足 30%）（通用，3/3）
+> 「うわあぁぁっ!? そ、そんな!?」
+"Ồ!? Làm sao, làm sao có thể được!?"
+
+@9992 Gyugaki · 牛餓鬼
+# Kích hoạt: 中伤（剩余 HP 30–90%）（通用，1/3）
+> 「く、くそーっ、なまいきな奴らめっ!」
+"Chết tiệt! Đúng là một lũ kiêu ngạo!"
+
+@9993 Gyugaki · 牛餓鬼
+# Kích hoạt: 中伤（剩余 HP 30–90%）（通用，2/3）
+> 「だ、大丈夫だ! 俺は
+>  牛剣鬼の息子だ!」
+"Không, không sao đâu! Tôi là con trai của Quỷ Oxbridge!"
+
+@9994 Gyugaki · 牛餓鬼
+# Kích hoạt: 中伤（剩余 HP 30–90%）（通用，3/3）
+> 「ま、まだだ! こんなことでぇっ!」
+"Còn chưa xong đâu! Làm sao tôi có thể ngã xuống như thế này được!"
+
+@9995 Gyugaki · 牛餓鬼
+# Kích hoạt: 轻伤（剩余 HP 90% 以上）（通用，1/2）
+> 「これしきの攻撃で!!」
+“Chỉ đòn tấn công này thôi!!”
+
+@9996 Gyugaki · 牛餓鬼
+# Kích hoạt: 轻伤（剩余 HP 90% 以上）（通用，2/2）
+> 「この牛餓鬼には、効かないぞ!」
+“Việc này không có tác dụng với ta đâu, con ma đói!”
+
+@9997 Gyugaki · 牛餓鬼
+# Kích hoạt: Né tránh（通用，1/2）
+> 「見たか!」
+"Thấy nó!"
+
+@9998 Gyugaki · 牛餓鬼
+# Kích hoạt: Né tránh（通用，2/2）
+> 「俺だってこのくらいはっ!」
+"Tôi có thể làm việc nhỏ này!"
+
+@9999 Gyugaki · 牛餓鬼
+# Kích hoạt: Tấn công无效（护罩／装甲）（通用，1/1）
+> 「バカめ!」
+"Đồ ngốc!"
+
+@10000 Gyugaki · 牛餓鬼
+# Kích hoạt: 弹药／EN 不足，无法反击（通用，1/1）
+> 「こ、攻撃できないのか!?」
+"Thật bất ngờ, tôi không thể tấn công!?"
+
+@10001 Gyugaki · 牛餓鬼
+# Kích hoạt: 射程外，无法反击（通用，1/1）
+> 「届かない!? くそっ、卑怯者め!!」
+"Không thể với tới được!? Chết tiệt, đồ đáng khinh!!"

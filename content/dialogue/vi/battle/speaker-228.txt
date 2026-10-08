@@ -1,0 +1,148 @@
+# Bản dịch tiếng Việt Super Robot Wars 64
+# Định dạng và vị trí: docs/guide/dialogue-text.md
+
+@8869 Dunkel · ダンケル
+# Kích hoạt: Tấn công (Chung，1/7）
+> 「もらったっ!」
+"Đã lấy nó!"
+
+@8870 Dunkel · ダンケル
+# Kích hoạt: Tấn công (Chung，2/7）
+> 「くらえっ!」
+"Ăn chiêu của tôi đi!"
+
+@8871 Dunkel · ダンケル
+# Kích hoạt: Tấn công (Chung，3/7）
+> 「行くぞっ!」
+"Lên!"
+
+@8872 Dunkel · ダンケル
+# Kích hoạt: Tấn công (Chung，4/7）
+> 「このっ!」
+"Anh bạn!"
+
+@8873 Dunkel · ダンケル
+# Kích hoạt: Tấn công (Chung，5/7）
+> 「ここまでだっ!」
+"Chính là nó!"
+
+@8874 Dunkel · ダンケル
+# Kích hoạt: Tấn công (Chung，6/7）
+> 「落ちろってんだよ!」
+"Ta bảo ngươi ngã!"
+
+@8875 Dunkel · ダンケル
+# Kích hoạt: Tấn công (Chung，7/7）
+> 「やらせるかっ!」
+"Đừng nghĩ tới chuyện đó nữa!"
+
+@8876 Dunkel · ダンケル
+# Kích hoạt: 被击坠（通用，1/1）
+> 「し、しまった!? うわあっ!!」
+"Ối! Ôi!? Ôi!!"
+
+@8877 Dunkel · ダンケル
+# Kích hoạt: 重伤（剩余 HP 不足 30%）（通用，1/3）
+> 「うあぁっ! ヤ、ヤザン隊長!
+>  これ以上は!」
+"Ugh! Đội trưởng Yazan! Nếu chuyện này tiếp tục!"
+
+@8878 Dunkel · ダンケル
+# Kích hoạt: 重伤（剩余 HP 不足 30%）（通用，2/3）
+> 「ぐああっ! な、なんてパワーだっ!」
+"Guaaah! Làm sao, làm sao ngươi có thể có được sức mạnh như vậy!"
+
+@8879 Dunkel · ダンケル
+# Kích hoạt: 重伤（剩余 HP 不足 30%）（通用，3/3）
+> 「い、いかん、やられるっ!」
+"Không, không, tôi sẽ bị giết!"
+
+@8880 Dunkel · ダンケル
+# Kích hoạt: 中伤（剩余 HP 30–90%）（通用，1/3）
+> 「ちいっ! やるなっ!」
+"Tsk! Chỉ vài giây thôi!"
+
+@8881 Dunkel · ダンケル
+# Kích hoạt: 中伤（剩余 HP 30–90%）（通用，2/3）
+> 「このっ! まだやられるかっ!」
+"Anh bạn! Tôi chưa nói xong đâu!"
+
+@8882 Dunkel · ダンケル
+# Kích hoạt: 中伤（剩余 HP 30–90%）（通用，3/3）
+> 「くっ! やってくれるっ!」
+"Hmm! Bạn thật tuyệt vời!"
+
+@8883 Dunkel · ダンケル
+# Kích hoạt: 轻伤（剩余 HP 90% 以上）（通用，1/3）
+> 「この程度でっ!」
+"Vết thương nhỏ này không là gì cả!"
+
+@8884 Dunkel · ダンケル
+# Kích hoạt: 轻伤（剩余 HP 90% 以上）（通用，2/3）
+> 「効くかよっ!」
+"Thật kỳ lạ nếu nó hoạt động!"
+
+@8885 Dunkel · ダンケル
+# Kích hoạt: 轻伤（剩余 HP 90% 以上）（通用，3/3）
+> 「パワー不足だな!」
+"Nó không đủ mạnh!"
+
+@8886 Dunkel · ダンケル
+# Kích hoạt: Né tránh（通用，1/4）
+> 「させるかっ!」
+"Thật là một ý nghĩ đẹp đẽ!"
+
+@8887 Dunkel · ダンケル
+# Kích hoạt: Né tránh（通用，2/4）
+> 「遅いぜ!」
+"Quá chậm!"
+
+@8888 Dunkel · ダンケル
+# Kích hoạt: Né tránh（通用，3/4）
+> 「甘いなっ!」
+"Thật ngây thơ!"
+
+@8889 Dunkel · ダンケル
+# Kích hoạt: Né tránh（通用，4/4）
+> 「どこを狙ってる!」
+"Ngươi nhắm vào đâu!"
+
+@8890 Dunkel · ダンケル
+# Kích hoạt: Tấn công无效（护罩／装甲）（通用，1/1）
+> 「効かねえんだよっ!」
+"Nó không có tác dụng gì cả!"
+
+@8891 Dunkel · ダンケル
+# Kích hoạt: 弹药／EN 不足，无法反击（通用，1/1）
+> 「くそっ! 弾切れか!」
+"Chết tiệt! Không còn đạn dược nữa!"
+
+@8892 Dunkel · ダンケル
+# Kích hoạt: 射程外，无法反击（通用，1/1）
+> 「何っ!? あんな距離から!?」
+"Cái gì!? Từ khoảng cách đó!?"
+
+@14662 Dunkel · ダンケル
+# Kích hoạt: 使用〈ビームライフル／銃剣付きビームライフル〉（低优先，可能被通用台词顶掉）
+> 「くらえっ!」
+"Ăn chiêu của tôi đi!"
+
+@14663 Yazan · ヤザン
+# Kích hoạt: 使用〈クモの巣〉（对话第 1/4 句）
+> 「ダンケル、ラムサス、クモの巣をやるぞ!」
+“Dunkel, Ramsus, dùng mạng nhện đi!”
+
+@14664 Ramsus · ラムサス
+# Kích hoạt: 使用〈クモの巣〉（对话第 2/4 句）
+> 「ハッ!」
+"Vâng!"
+
+@14665 Dunkel · ダンケル
+# Kích hoạt: 使用〈クモの巣〉（对话第 3/4 句）
+> 「了解です、隊長!」
+"Đã hiểu, thuyền trưởng!"
+
+@14666 Yazan · ヤザン
+# Kích hoạt: 使用〈クモの巣〉（对话第 4/4 句）
+> 「ハハハッ! しとめるぞっ!」
+"Hahaha! Giết chúng!"

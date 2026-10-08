@@ -1,0 +1,130 @@
+# Bản dịch tiếng Việt Super Robot Wars 64
+# Định dạng và vị trí: docs/guide/dialogue-text.md
+
+@11918 Juzo · 十三
+# Kích hoạt: Tấn công (Chung，1/5）
+> 「いくでーっ!」
+"Cố lên--!"
+
+@11919 Juzo · 十三
+# Kích hoạt: Tấn công (Chung，2/5）
+> 「もろたっ!」
+"Hiểu rồi!"
+
+@11920 Juzo · 十三
+# Kích hoạt: Tấn công (Chung，3/5）
+> 「やらせるかいなっ!」
+"Làm sao có thể để cho ngươi thành công!"
+
+@11921 Juzo · 十三
+# Kích hoạt: Tấn công (Chung，4/5）
+> 「こいつでどやっ!」
+"Động tác này thế nào!"
+
+@11922 Juzo · 十三
+# Kích hoạt: Tấn công (Chung，5/5）
+> 「やったろやないけ!」
+"Nhìn tôi này!"
+
+@11923 Juzo · 十三
+# Kích hoạt: 被击坠（通用，1/1）
+> 「しもたっ! やられてもた!」
+"Rất tiếc! Bị giết!"
+
+@11924 Juzo · 十三
+# Kích hoạt: 重伤（剩余 HP 不足 30%）（通用，1/3）
+> 「あかん! こいつはまずいで!」
+"Không! Điều này không tốt!"
+
+@11925 Juzo · 十三
+# Kích hoạt: 重伤（剩余 HP 不足 30%）（通用，2/3）
+> 「うわああっ! な、なんなんや、こいつ!」
+"Wow! Cái quái gì thế này!"
+
+@11926 Juzo · 十三
+# Kích hoạt: 重伤（剩余 HP 不足 30%）（通用，3/3）
+> 「わああっ! あ、あかん、このままやと
+>  もたん!」
+"Ồ! Không, không, tôi không thể giữ được như thế này!"
+
+@11927 Juzo · 十三
+# Kích hoạt: 中伤（剩余 HP 30–90%）（通用，1/3）
+> 「うっ! やってくれるやないけ!」
+"Chà! Tôi có nó cho bạn!"
+
+@11928 Juzo · 十三
+# Kích hoạt: 中伤（剩余 HP 30–90%）（通用，2/3）
+> 「くっ! そう簡単にやられるかいな!」
+"Hừm! Giết ta không dễ dàng như vậy!"
+
+@11929 Juzo · 十三
+# Kích hoạt: 中伤（剩余 HP 30–90%）（通用，3/3）
+> 「なんのっ! まだやられてへんで!」
+"Cái gì thế này! Tôi vẫn chưa ngã xuống!"
+
+@11930 Juzo · 十三
+# Kích hoạt: 轻伤（剩余 HP 90% 以上）（通用，1/3）
+> 「なあんや、そんなもんかいな」
+“Cái gì, đó là tất cả những gì cậu có à?”
+
+@11931 Juzo · 十三
+# Kích hoạt: 轻伤（剩余 HP 90% 以上）（通用，2/3）
+> 「あかんあかん、話にならんぐらい
+>  弱いで!」
+"Không được, quá yếu!"
+
+@11932 Juzo · 十三
+# Kích hoạt: 轻伤（剩余 HP 90% 以上）（通用，3/3）
+> 「ちゃっちい攻撃やなあ」
+"Cuộc tấn công này quá tồi tàn."
+
+@11933 Juzo · 十三
+# Kích hoạt: Né tránh（通用，1/3）
+> 「ほれほれ、こっちや、こっち!」
+"Đi nào, đi nào, lối này, lối này!"
+
+@11934 Juzo · 十三
+# Kích hoạt: Né tránh（通用，2/3）
+> 「どこねらっとるんや!」
+"Đấu ở đâu!"
+
+@11935 Juzo · 十三
+# Kích hoạt: Né tránh（通用，3/3）
+> 「へたくそが!」
+"Công nghệ thật tệ!"
+
+@11936 Juzo · 十三
+# Kích hoạt: Tấn công无效（护罩／装甲）（通用，1/1）
+> 「そんなもん効くかい!」
+"Thứ này không có tác dụng!"
+
+@11937 Juzo · 十三
+# Kích hoạt: 弹药／EN 不足，无法反击（通用，1/1）
+> 「なんやて!? 弾切れ? しもた、
+>  もっと節約しとくんやった」
+"Cái gì!? Không có đạn? Ồ không, nếu biết sớm hơn thì tôi đã tiết kiệm được nhiều hơn."
+
+@11938 Juzo · 十三
+# Kích hoạt: 射程外，无法反击（通用，1/1）
+> 「なんや!? とどかへんのか!?」
+"Cái gì!? Ngoài tầm với!?"
+
+@16787 Juzo · 十三
+# Kích hoạt: 使用〈ロックファイター〉
+> 「ロックファィター!」
+"Cú đấm bay bằng đá!"
+
+@16788 Juzo · 十三
+# Kích hoạt: 使用〈エレクトロダート〉（低优先，可能被通用台词顶掉）
+> 「エレクトロダート!」
+"Phi tiêu sốc!"
+
+@16789 Juzo · 十三
+# Kích hoạt: 使用〈マグネクロー〉（低优先，可能被通用台词顶掉）
+> 「マグネクロー!」
+"Móng từ tính!"
+
+@16790 Juzo · 十三
+# Kích hoạt: 使用〈アトミックバーナー〉
+> 「アトミックバーナー!」
+"Lò đốt nguyên tử!"

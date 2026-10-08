@@ -1,0 +1,256 @@
+# Bản dịch tiếng Việt Super Robot Wars 64
+# Định dạng và vị trí: docs/guide/dialogue-text.md
+
+@8622 Haman · ハマーン
+# Kích hoạt: Tấn công (Chung，1/13）
+> 「小賢しいっ!!」
+"Trở nên thông minh!!"
+
+@8623 Haman · ハマーン
+# Kích hoạt: Tấn công (Chung，2/13）
+> 「俗物がっ!」
+"Những kẻ thô tục!"
+
+@8624 Haman · ハマーン
+# Kích hoạt: Tấn công (Chung，3/13）
+> 「私に倒されること、幸運に
+>  思うのだな!」
+"Ngươi nên cảm thấy vinh dự khi bị ta đánh bại!"
+
+@8625 Haman · ハマーン
+# Kích hoạt: Tấn công (Chung，4/13）
+> 「もらったぁっ!!」
+"Hiểu rồi!!"
+
+@8626 Haman · ハマーン
+# Kích hoạt: Tấn công (Chung，5/13）
+> 「そこかっ!」
+"Đó!"
+
+@8627 Haman · ハマーン
+# Kích hoạt: Tấn công (Chung，6/13）
+> 「消えろ、目障りだっ!!」
+"Biến đi, đồ phiền phức!!"
+
+@8628 Haman · ハマーン
+# Kích hoạt: Tấn công (Chung，7/13）
+> 「邪魔だっ!」
+"Trên đường đi!"
+
+@8629 Haman · ハマーン
+# Kích hoạt: Tấn công (Chung，8/13）
+> 「これで終わりだっ!」
+"Chính là nó!"
+
+@8630 Haman · ハマーン
+# Kích hoạt: Tấn công (Chung，9/13）
+> 「失せろっ!」
+"Tránh xa!"
+
+@8631 Haman · ハマーン
+# Kích hoạt: Tấn công (Chung，10/13）
+> 「ここまでだっ!」
+"Chỉ cần dừng lại ở đây!"
+
+@8632 Haman · ハマーン
+# Kích hoạt: Tấn công (Chung，11/13）
+> 「やらせんっ!」
+"Đừng nghĩ tới chuyện đó nữa!"
+
+@8633 Haman · ハマーン
+# Kích hoạt: Tấn công (Chung，12/13）
+> 「行けっ!」
+"Đi!"
+
+@8634 Haman · ハマーン
+# Kích hoạt: Tấn công (Chung，13/13）
+> 「ここまでのようだな……覚悟っ!」
+"Xem ra đây chính là ngươi... Chịu chết!"
+
+@8635 Haman · ハマーン
+# Kích hoạt: 被击坠（通用，1/2）
+> 「なんだと!?」
+"Cái gì!?"
+
+@8636 Haman · ハマーン
+# Kích hoạt: 被击坠（通用，2/2）
+> 「ちいっ……」
+"Chậc..."
+
+@8637 Haman · ハマーン
+# Kích hoạt: 重伤（剩余 HP 不足 30%）（通用，1/4）
+> 「くっ!? お、押されているのか!?」
+"Huh!? Tôi-tôi đang bị đàn áp à!?"
+
+@8638 Haman · ハマーン
+# Kích hoạt: 重伤（剩余 HP 不足 30%）（通用，2/4）
+> 「むうっ!? こ、このパワー……」
+"Hả!? Cái này, sức mạnh này..."
+
+@8639 Haman · ハマーン
+# Kích hoạt: 重伤（剩余 HP 不足 30%）（通用，3/4）
+> 「な、何だこの力は!?
+>  これ程の力があるのか!?」
+"Đây là loại sức mạnh gì vậy!? Nó mạnh quá!?"
+
+@8640 Haman · ハマーン
+# Kích hoạt: 重伤（剩余 HP 不足 30%）（通用，4/4）
+> 「ぬううっ! この私が追い詰められて
+>  いるというのか!?」
+"Uh huh! Tôi có bị ép đến mức này không!?"
+
+@8641 Haman · ハマーン
+# Kích hoạt: 中伤（剩余 HP 30–90%）（通用，1/5）
+> 「ちっ! なめたマネを!!」
+"Tsk! Sao ngươi dám đánh giá thấp ta!!"
+
+@8642 Haman · ハマーン
+# Kích hoạt: 中伤（剩余 HP 30–90%）（通用，2/5）
+> 「くっ! そういつまでも好きには
+>  させんぞっ!!」
+"Hmm! Đừng nghĩ rằng bạn luôn có thể làm bất cứ điều gì bạn muốn!!"
+
+@8643 Haman · ハマーン
+# Kích hoạt: 中伤（剩余 HP 30–90%）（通用，3/5）
+> 「うっ! 貴様……つけあがるなっ!」
+"Ugh! Anh bạn...đừng có hứng quá!"
+
+@8644 Haman · ハマーン
+# Kích hoạt: 中伤（剩余 HP 30–90%）（通用，4/5）
+> 「何っ!? 私の動きが
+>  読まれたのか!?」
+"Cái gì!? Hành động của tôi đã bị nhìn thấu sao!?"
+
+@8645 Haman · ハマーン
+# Kích hoạt: 中伤（剩余 HP 30–90%）（通用，5/5）
+> 「俗物が私に!」
+"Sao những chuyện tầm thường lại dám làm tổn thương tôi!"
+
+@8646 Haman · ハマーン
+# Kích hoạt: 轻伤（剩余 HP 90% 以上）（通用，1/5）
+> 「その程度か……みくびられたものだ」
+"Với khả năng nhỏ bé này... bạn thực sự đã đánh giá thấp tôi."
+
+@8647 Haman · ハマーン
+# Kích hoạt: 轻伤（剩余 HP 90% 以上）（通用，2/5）
+> 「ふ……なめられたものだな!」
+"Hừ... sao ngươi dám đánh giá thấp ta!"
+
+@8648 Haman · ハマーン
+# Kích hoạt: 轻伤（剩余 HP 90% 以上）（通用，3/5）
+> 「そんなものでっ!」
+"Chỉ là loại chuyện đó thôi!"
+
+@8649 Haman · ハマーン
+# Kích hoạt: 轻伤（剩余 HP 90% 以上）（通用，4/5）
+> 「そんな腕で私と戦おうとはな……」
+“Ngay cả với khả năng nhỏ bé đó, bạn vẫn muốn trở thành kẻ thù của tôi…”
+
+@8650 Haman · ハマーン
+# Kích hoạt: 轻伤（剩余 HP 90% 以上）（通用，5/5）
+> 「思い上がるなっ!」
+"Đừng tự cho mình là đúng như vậy!"
+
+@8651 Haman · ハマーン
+# Kích hoạt: Né tránh（通用，1/7）
+> 「甘いな!」
+"Thật ngây thơ!"
+
+@8652 Haman · ハマーン
+# Kích hoạt: Né tránh（通用，2/7）
+> 「そうか……見える!」
+"Tôi hiểu... Tôi có thể thấy nó!"
+
+@8653 Haman · ハマーン
+# Kích hoạt: Né tránh（通用，3/7）
+> 「なめるなっ!」
+"Đừng đánh giá thấp tôi!"
+
+@8654 Haman · ハマーン
+# Kích hoạt: Né tránh（通用，4/7）
+> 「当たりはせんよ!」
+"Bạn không thể đánh nó!"
+
+@8655 Haman · ハマーン
+# Kích hoạt: Né tránh（通用，5/7）
+> 「当たってやるわけにはいかんな!」
+"Tôi không thể để anh đánh tôi!"
+
+@8656 Haman · ハマーン
+# Kích hoạt: Né tránh（通用，6/7）
+> 「遅いな!」
+"Quá chậm!"
+
+@8657 Haman · ハマーン
+# Kích hoạt: Né tránh（通用，7/7）
+> 「このキュベレイをなめてもらってはこまる!」
+"Đừng đánh giá thấp Kabini này!"
+
+@8658 Haman · ハマーン
+# Kích hoạt: Tấn công无效（护罩／装甲）（通用，1/2）
+> 「ムダなことを……」
+“Một hành động vô ích…”
+
+@8659 Haman · ハマーン
+# Kích hoạt: Tấn công无效（护罩／装甲）（通用，2/2）
+> 「愚かな……」
+"Ngu ngốc..."
+
+@8660 Haman · ハマーン
+# Kích hoạt: 弹药／EN 不足，无法反击（通用，1/1）
+> 「何っ!? 弾切れか!? ええいっ!」
+"Cái gì!? Không có đạn!? Chết tiệt!"
+
+@8661 Haman · ハマーン
+# Kích hoạt: 射程外，无法反击（通用，1/1）
+> 「賢しいな……射程外から攻撃
+>  してるとは」
+"Bạn thật thông minh... bạn thực sự tấn công từ ngoài phạm vi."
+
+@14636 Haman · ハマーン
+# Kích hoạt: 使用〈ファンネル／マザーファンネル〉
+> 「ファンネルッ!!」
+"Pháo nổi!!"
+
+@14637 Haman · ハマーン
+# Kích hoạt: 使用〈ファンネル／マザーファンネル〉
+> 「いけっ、ファンネル!!」
+"Nào, pháo nổi!!"
+
+@14638 Haman · ハマーン
+# Kích hoạt: Né tránh，条件 1000
+> 「フッ、俗物が私にあてられるなどと
+>  思うな」
+“Hừm, đừng tưởng mấy thứ thô tục đó có thể đánh được tôi.”
+
+@14639 Haman · ハマーン
+# Kích hoạt: Né tránh，条件 1000
+> 「ダミーにかかってくれるとは、助かる」
+"Tôi thực sự đã mắc bẫy, điều đó sẽ tránh được rắc rối."
+
+@14640 Haman · ハマーン
+# Kích hoạt: Né tránh，条件 1000
+> 「それだけか」
+“Đó là tất cả những gì cậu có à?”
+
+@14641 Haman · ハマーン
+# Kích hoạt: Né tránh，条件 1000
+> 「そこまでのようだな」
+"Có vẻ như đó là kết thúc của bạn."
+
+@14642 Haman · ハマーン
+# Kích hoạt: Né tránh，条件 1000
+> 「それでは私を倒すことなどできんよ」
+“Điều này sẽ không đánh bại được tôi.”
+
+@14643 Haman · ハマーン
+# Kích hoạt: Né tránh，条件 1000
+> 「ダミーバルーンというのも
+>  なかなか役に立つ」
+"Bong bóng mồi khá hiệu quả."
+
+@14644 Haman · ハマーン
+# Kích hoạt: Né tránh，条件 1000
+> 「その程度で私がやれると思われては
+>  困るな」
+"Chỉ với năng lực này, đừng tưởng có thể giết được ta."

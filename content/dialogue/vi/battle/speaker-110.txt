@@ -1,0 +1,330 @@
+# Bản dịch tiếng Việt Super Robot Wars 64
+# Định dạng và vị trí: docs/guide/dialogue-text.md
+
+@9808 Dark General · 暗黒大将軍
+# Kích hoạt: Tấn công (Chung，1/10）
+> 「くらえ!」
+"Hãy di chuyển!"
+
+@9809 Dark General · 暗黒大将軍
+# Kích hoạt: Tấn công (Chung，2/10）
+> 「死ねい!」
+"Đi xuống địa ngục đi!"
+
+@9810 Dark General · 暗黒大将軍
+# Kích hoạt: Tấn công (Chung，3/10）
+> 「バカめ!!」
+"Đồ ngốc!!"
+
+@9811 Dark General · 暗黒大将軍
+# Kích hoạt: Tấn công (Chung，4/10）
+> 「憎悪と呪いをこめて!」
+"Đầy hận thù và nguyền rủa!"
+
+@9812 Dark General · 暗黒大将軍
+# Kích hoạt: Tấn công (Chung，5/10）
+> 「葬り去ってくれる!」
+"Ta đi chôn ngươi!"
+
+@9813 Dark General · 暗黒大将軍
+# Kích hoạt: Tấn công (Chung，6/10）
+> 「地獄の責め苦が待っているぞ!」
+"Những đau khổ của địa ngục đang chờ đợi bạn!"
+
+@9814 Dark General · 暗黒大将軍
+# Kích hoạt: Tấn công (Chung，7/10）
+> 「地獄へ送りこんでやる!」
+"Đưa ngươi xuống địa ngục!"
+
+@9815 Dark General · 暗黒大将軍
+# Kích hoạt: Tấn công (Chung，8/10）
+> 「とどめをさしてやる!」
+"Hãy để tôi kết thúc bạn!"
+
+@9816 Dark General · 暗黒大将軍
+# Kích hoạt: Tấn công (Chung，9/10）
+> 「息の根を止めてやる!」
+"Tôi sẽ giết bạn!"
+
+@9817 Dark General · 暗黒大将軍
+# Kích hoạt: Tấn công (Chung，10/10）
+> 「覚悟はいいな!」
+"Chuẩn bị chết!"
+
+@9818 Dark General · 暗黒大将軍
+# Kích hoạt: 被击坠（通用，1/4）
+> 「なに!? くそう、今に見ていろ」
+"Cái gì!? Chết tiệt, đợi tôi một chút."
+
+@9819 Dark General · 暗黒大将軍
+# Kích hoạt: 被击坠（通用，2/4）
+> 「くっ、必ず地獄へ送ってやるぞ!」
+"Được, ta nhất định sẽ đưa ngươi xuống địa ngục!"
+
+@9820 Dark General · 暗黒大将軍
+# Kích hoạt: 被击坠（通用，3/4）
+> 「くそう、今日の屈辱は生涯
+>  忘れぬぞ」
+"Chết tiệt, tôi sẽ không bao giờ quên sự sỉ nhục ngày hôm nay."
+
+@9821 Dark General · 暗黒大将軍
+# Kích hoạt: 被击坠（通用，4/4）
+> 「次は必ず勝てる、必ず……」
+"Lần sau nhất định ta sẽ thắng, ta nhất định sẽ..."
+
+@9822 Dark General · 暗黒大将軍
+# Kích hoạt: 重伤（剩余 HP 不足 30%）（通用，1/4）
+> 「くそう、奴らだけいい気にはさせんぞ」
+"Chết tiệt, sao chúng ta có thể để những kẻ đó kiêu ngạo như vậy?"
+
+@9823 Dark General · 暗黒大将軍
+# Kích hoạt: 重伤（剩余 HP 不足 30%）（通用，2/4）
+> 「せっかくのチャンスをみすみす逃しおって」
+"Một cơ hội hiếm có đã bị bỏ qua một cách vô ích!"
+
+@9824 Dark General · 暗黒大将軍
+# Kích hoạt: 重伤（剩余 HP 不足 30%）（通用，3/4）
+> 「むうう、やむをえん」
+"Ừm, chỉ thế thôi."
+
+@9825 Dark General · 暗黒大将軍
+# Kích hoạt: 重伤（剩余 HP 不足 30%）（通用，4/4）
+> 「俺は1人では死なんぞ!」
+"Tôi sẽ không phải là người duy nhất chết!"
+
+@9826 Dark General · 暗黒大将軍
+# Kích hoạt: 中伤（剩余 HP 30–90%）（通用，1/4）
+> 「なんだと!?」
+"Cái gì!?"
+
+@9827 Dark General · 暗黒大将軍
+# Kích hoạt: 中伤（剩余 HP 30–90%）（通用，2/4）
+> 「ぬう、くそう、味なマネを」
+"Ôi, chết tiệt, cậu đang làm việc này."
+
+@9828 Dark General · 暗黒大将軍
+# Kích hoạt: 中伤（剩余 HP 30–90%）（通用，3/4）
+> 「いくらあがいてもムダだ!」
+"Dù có cố gắng đến đâu, tất cả cũng vô ích!"
+
+@9829 Dark General · 暗黒大将軍
+# Kích hoạt: 中伤（剩余 HP 30–90%）（通用，4/4）
+> 「この暗黒大将軍、これしきでは負けん
+>  ぞ!」
+"Vết thương nhỏ này không thể đánh bại được hắc ám tướng quân ta!"
+
+@9830 Dark General · 暗黒大将軍
+# Kích hoạt: 轻伤（剩余 HP 90% 以上）（通用，1/5）
+> 「それがどうした」
+"Vậy thì sao."
+
+@9831 Dark General · 暗黒大将軍
+# Kích hoạt: 轻伤（剩余 HP 90% 以上）（通用，2/5）
+> 「クククク、ばかめ!」
+"Hehehehe, đồ ngốc!"
+
+@9832 Dark General · 暗黒大将軍
+# Kích hoạt: 轻伤（剩余 HP 90% 以上）（通用，3/5）
+> 「フフ、飛んで火に入る夏の虫か
+>  ハハハハ」
+“Hừm, giống như con bướm bay vào ngọn lửa vậy, hahahaha.”
+
+@9833 Dark General · 暗黒大将軍
+# Kích hoạt: 轻伤（剩余 HP 90% 以上）（通用，4/5）
+> 「おもしろくなってきたぞ!」
+“Càng ngày càng thú vị!”
+
+@9834 Dark General · 暗黒大将軍
+# Kích hoạt: 轻伤（剩余 HP 90% 以上）（通用，5/5）
+> 「見苦しいぞ! ハーッハッハッハッ!」
+"Thật xấu xí! Ha-hahaha!"
+
+@9835 Dark General · 暗黒大将軍
+# Kích hoạt: Né tránh（通用，1/5）
+> 「うむ、勝利は間違いない!」
+"Ồ, tôi chắc chắn sẽ thắng!"
+
+@9836 Dark General · 暗黒大将軍
+# Kích hoạt: Né tránh（通用，2/5）
+> 「愚かな奴らよ、よく見ろ!」
+"Ngu ngốc, để cho ta nhìn rõ!"
+
+@9837 Dark General · 暗黒大将軍
+# Kích hoạt: Né tránh（通用，3/5）
+> 「ハーッハッハッハッ!!」
+"Ha-hahaha!!"
+
+@9838 Dark General · 暗黒大将軍
+# Kích hoạt: Né tránh（通用，4/5）
+> 「ハーッハッハッハッ、いいぞ!」
+"Ha-hahaha, được rồi!"
+
+@9839 Dark General · 暗黒大将軍
+# Kích hoạt: Né tránh（通用，5/5）
+> 「ハハハッ、バカめ!」
+"Hahaha, đồ ngốc!"
+
+@9840 Dark General · 暗黒大将軍
+# Kích hoạt: Tấn công无效（护罩／装甲）（通用，1/2）
+> 「もうよい、力のあるのはわかった」
+"Đủ rồi, trước đây ta đã nhìn thấy thực lực của ngươi."
+
+@9841 Dark General · 暗黒大将軍
+# Kích hoạt: Tấn công无效（护罩／装甲）（通用，2/2）
+> 「ハーッハッハッハッ、いいぞ!」
+"Ha-hahaha, được rồi!"
+
+@9842 Dark General · 暗黒大将軍
+# Kích hoạt: 弹药／EN 不足，无法反击（通用，1/2）
+> 「なに? それは残念だな」
+"Cái gì? Thật đáng tiếc."
+
+@9843 Dark General · 暗黒大将軍
+# Kích hoạt: 弹药／EN 不足，无法反击（通用，2/2）
+> 「な、なんだと!? ばかもの!」
+"C-Cái gì!? Đồ ngốc!"
+
+@9844 Dark General · 暗黒大将軍
+# Kích hoạt: 射程外，无法反击（通用，1/1）
+> 「おのれえぇ!」
+"Chết tiệt!"
+
+@15118 Dark General · 暗黒大将軍
+# Kích hoạt: 使用〈ミサイル／グレネードランチャー／ミサイルポッド／ホーミングミサイル／連装ミサイルランチャー／小型ミサイル／大型ミサイル〉（低优先，可能被通用台词顶掉）
+> 「撃て、撃て、撃ち落とすのだ!」
+"Cháy, cháy, hạ nó xuống!"
+
+@15119 Dark General · 暗黒大将軍
+# Kích hoạt: 使用〈体当たり〉（低优先，可能被通用台词顶掉）
+> 「全速前進、突っこめぇっ!」
+"Tăng tốc độ tối đa, đánh--!"
+
+@15120 Dark General · 暗黒大将軍
+# Kích hoạt: 使用〈体当たり〉（低优先，可能被通用台词顶掉）
+> 「叩きつぶすのだ!」
+"Đập nó thành từng mảnh!"
+
+@15121 Dark General · 暗黒大将軍
+# Kích hoạt: 使用〈体当たり〉（低优先，可能被通用台词顶掉）
+> 「粉砕してしまえ!」
+"Đập nát chúng cho tôi!"
+
+@15122 Dark General · 暗黒大将軍
+# Kích hoạt: Tấn công，乘坐〈ミケロス〉
+> 「葬りにゆけ!」
+“Hãy chôn chúng đi!”
+
+@15123 Dark General · 暗黒大将軍
+# Kích hoạt: Tấn công，乘坐〈ミケロス〉
+> 「倒せ! 葬り去るのだ!」
+"Đả đảo chúng! Chôn tất cả!"
+
+@15124 Dark General · 暗黒大将軍
+# Kích hoạt: Tấn công，乘坐〈ミケロス〉
+> 「息の根を止めてやるのだ!!」
+"Kết liễu chúng đi!!"
+
+@15125 Dark General · 暗黒大将軍
+# Kích hoạt: Tấn công，乘坐〈ミケロス〉
+> 「ようし、総攻撃だ!」
+“Được rồi, hãy tấn công với toàn quân!”
+
+@15126 Dark General · 暗黒大将軍
+# Kích hoạt: Tấn công，乘坐〈デモニカ〉
+> 「葬りにゆけ!」
+“Hãy chôn chúng đi!”
+
+@15127 Dark General · 暗黒大将軍
+# Kích hoạt: Tấn công，乘坐〈デモニカ〉
+> 「倒せ! 葬り去るのだ!」
+"Đả đảo chúng! Chôn tất cả!"
+
+@15128 Dark General · 暗黒大将軍
+# Kích hoạt: Tấn công，乘坐〈デモニカ〉
+> 「息の根を止めてやるのだ!!」
+"Kết liễu chúng đi!!"
+
+@15129 Dark General · 暗黒大将軍
+# Kích hoạt: Tấn công，乘坐〈デモニカ〉
+> 「ようし、総攻撃だ!」
+“Được rồi, hãy tấn công với toàn quân!”
+
+@15130 Dark General · 暗黒大将軍
+# Kích hoạt: 重伤（剩余 HP 不足 30%），乘坐〈ミケロス〉
+> 「ええい、どいつもこいつも役にたたん」
+"Chết tiệt, tất cả đều là rác rưởi"
+
+@15131 Dark General · 暗黒大将軍
+# Kích hoạt: 重伤（剩余 HP 不足 30%），乘坐〈ミケロス〉
+> 「かまわん、全速で突っこめー!」
+“Tôi không quan tâm nữa, lao về phía trước với tốc độ tối đa——!”
+
+@15132 Dark General · 暗黒大将軍
+# Kích hoạt: 重伤（剩余 HP 不足 30%），乘坐〈デモニカ〉
+> 「ええい、どいつもこいつも役にたたん」
+"Chết tiệt, tất cả đều là rác rưởi"
+
+@15133 Dark General · 暗黒大将軍
+# Kích hoạt: 重伤（剩余 HP 不足 30%），乘坐〈デモニカ〉
+> 「かまわん、全速で突っこめー!」
+“Tôi không quan tâm nữa, lao về phía trước với tốc độ tối đa——!”
+
+@15134 Dark General · 暗黒大将軍
+# Kích hoạt: 重伤（剩余 HP 不足 30%），乘坐〈ミケロス〉
+> 「ええい、グズグズするな!」
+"Chết tiệt, đừng lảng vảng nữa!"
+
+@15135 Dark General · 暗黒大将軍
+# Kích hoạt: 重伤（剩余 HP 不足 30%），乘坐〈デモニカ〉
+> 「ええい、グズグズするな!」
+"Chết tiệt, đừng lảng vảng nữa!"
+
+@15136 Dark General · 暗黒大将軍
+# Kích hoạt: 中伤（剩余 HP 30–90%），乘坐〈ミケロス〉
+> 「チャンスは今しかない、ゆけ!」
+"Đừng bỏ lỡ cơ hội này, cố lên!"
+
+@15137 Dark General · 暗黒大将軍
+# Kích hoạt: 中伤（剩余 HP 30–90%），乘坐〈ミケロス〉
+> 「ええい、グズグズするな!」
+"Chết tiệt, đừng lảng vảng nữa!"
+
+@15138 Dark General · 暗黒大将軍
+# Kích hoạt: 中伤（剩余 HP 30–90%），乘坐〈ミケロス〉
+> 「ええい、間抜けめ!」
+"Chết tiệt, đồ ngốc!"
+
+@15139 Dark General · 暗黒大将軍
+# Kích hoạt: 中伤（剩余 HP 30–90%），乘坐〈ミケロス〉
+> 「ばかものめが! 厳罰だ!」
+"Đồ khốn! Tôi sẽ trừng phạt cậu thật nặng!"
+
+@15140 Dark General · 暗黒大将軍
+# Kích hoạt: 中伤（剩余 HP 30–90%），乘坐〈デモニカ〉
+> 「チャンスは今しかない、ゆけ!」
+"Đừng bỏ lỡ cơ hội này, cố lên!"
+
+@15141 Dark General · 暗黒大将軍
+# Kích hoạt: 中伤（剩余 HP 30–90%），乘坐〈デモニカ〉
+> 「ええい、グズグズするな!」
+"Chết tiệt, đừng lảng vảng nữa!"
+
+@15142 Dark General · 暗黒大将軍
+# Kích hoạt: 中伤（剩余 HP 30–90%），乘坐〈デモニカ〉
+> 「ええい、間抜けめ!」
+"Chết tiệt, đồ ngốc!"
+
+@15143 Dark General · 暗黒大将軍
+# Kích hoạt: 中伤（剩余 HP 30–90%），乘坐〈デモニカ〉
+> 「ばかものめが! 厳罰だ!」
+"Đồ khốn! Tôi sẽ trừng phạt cậu thật nặng!"
+
+@15144 Dark General · 暗黒大将軍
+# Kích hoạt: 射程外，无法反击，乘坐〈ミケロス〉
+> 「うぅーむ、何をやっているのだ!」
+"Uh-bạn đang làm gì vậy!"
+
+@15145 Dark General · 暗黒大将軍
+# Kích hoạt: 射程外，无法反击，乘坐〈デモニカ〉
+> 「うぅーむ、何をやっているのだ!」
+"Uh-bạn đang làm gì vậy!"

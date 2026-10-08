@@ -1,0 +1,284 @@
+# Bản dịch tiếng Việt Super Robot Wars 64
+# Định dạng và vị trí: docs/guide/dialogue-text.md
+
+@5904 Shiro · シロー
+# Kích hoạt: Tấn công (Chung，1/21）
+> 「守ったら負ける!」
+"Chỉ phòng thủ sẽ dẫn đến thất bại!"
+
+@5905 Shiro · シロー
+# Kích hoạt: Tấn công (Chung，2/21）
+> 「くそっ、落ちろ!」
+"Chết tiệt, để tôi ngã xuống!"
+
+@5906 Shiro · シロー
+# Kích hoạt: Tấn công (Chung，3/21）
+> 「うわあぁぁぁぁぁぁーっ!」
+"Uwaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaa-!"
+
+@5907 Shiro · シロー
+# Kích hoạt: Tấn công (Chung，4/21）
+> 「落ち着け、落ち着けよシロー……」
+"Bình tĩnh, bình tĩnh, Shiru..."
+
+@5908 Shiro · シロー
+# Kích hoạt: Tấn công (Chung，5/21）
+> 「みてろよ!」
+"Nhìn kìa!"
+
+@5909 Shiro · シロー
+# Kích hoạt: Tấn công (Chung，6/21）
+> 「俺にだってできるんだ!」
+"Tôi cũng có thể làm được!"
+
+@5910 Shiro · シロー
+# Kích hoạt: Tấn công (Chung，7/21）
+> 「かかった!」
+"Đã cắn câu!"
+
+@5911 Shiro · シロー
+# Kích hoạt: Tấn công (Chung，8/21）
+> 「あの時の二の舞はゴメンだ!」
+"Tôi không muốn lặp lại sai lầm tương tự!"
+
+@5912 Shiro · シロー
+# Kích hoạt: Tấn công (Chung，9/21）
+> 「動くなよ!」
+"Đừng di chuyển!"
+
+@5913 Shiro · シロー
+# Kích hoạt: Tấn công (Chung，10/21）
+> 「いちかばちかだ!」
+"Đó là một canh bạc!"
+
+@5914 Shiro · シロー
+# Kích hoạt: Tấn công (Chung，11/21）
+> 「くらえぇぇっ!」
+"Hãy thử thủ thuật này của tôi!"
+
+@5915 Shiro · シロー
+# Kích hoạt: Tấn công (Chung，12/21）
+> 「いけるか!?」
+"Có thể làm được không!?"
+
+@5916 Shiro · シロー
+# Kích hoạt: Tấn công (Chung，13/21）
+> 「ジンクスなんて吹き飛ばしてやる」
+"Mọi điều xui xẻo sẽ bị tôi thổi bay."
+
+@5917 Shiro · シロー
+# Kích hoạt: Tấn công (Chung，14/21）
+> 「いくぞっ!」
+"Lên!"
+
+@5918 Shiro · シロー
+# Kích hoạt: Tấn công (Chung，15/21）
+> 「でやぁぁぁぁっ!」
+"Này a a a a a!"
+
+@5919 Shiro · シロー
+# Kích hoạt: Tấn công (Chung，16/21）
+> 「援護がほしいところだな」
+"Tôi thực sự muốn có ai đó che chở cho tôi."
+
+@5920 Shiro · シロー
+# Kích hoạt: Tấn công (Chung，17/21）
+> 「落ちろぉぉぉぉーっ!」
+"Yêu tôi đi, ahhhhhh--!"
+
+@5921 Shiro · シロー
+# Kích hoạt: Tấn công (Chung，18/21）
+> 「集中攻撃かける!」
+"Tập trung tấn công!"
+
+@5922 Shiro · シロー
+# Kích hoạt: Tấn công (Chung，19/21）
+> 「とらえた!」
+"Có bạn!"
+
+@5923 Shiro · シロー
+# Kích hoạt: Tấn công (Chung，20/21）
+> 「くっそぉぉーっ! 落ちろぉっ!」
+"Chết tiệt! Rơi xuống!"
+
+@5924 Shiro · シロー
+# Kích hoạt: Tấn công (Chung，21/21）
+> 「出てくるか……」
+“Anh ra ngoài chưa…”
+
+@5925 Shiro · シロー
+# Kích hoạt: 被击坠（通用，1/3）
+> 「ア、アイナーッッ!」
+"A-Aina——!"
+
+@5926 Shiro · シロー
+# Kích hoạt: 被击坠（通用，2/3）
+> 「うわぁぁぁぁぁっっ!」
+"Ồhhhhhhhhh!"
+
+@5927 Shiro · シロー
+# Kích hoạt: 被击坠（通用，3/3）
+> 「く……負けた……」
+"À...mất rồi..."
+
+@5928 Shiro · シロー
+# Kích hoạt: 重伤（剩余 HP 不足 30%）（通用，1/5）
+> 「うわぁぁぁぁぁっ!」
+"Ồhhhhhhhhh!"
+
+@5929 Shiro · シロー
+# Kích hoạt: 重伤（剩余 HP 不足 30%）（通用，2/5）
+> 「も、もたないのか!?」
+“Anh không thể nhịn được nữa à!?”
+
+@5930 Shiro · シロー
+# Kích hoạt: 重伤（剩余 HP 不足 30%）（通用，3/5）
+> 「これ以上は、無理か!?」
+“Nếu tiếp tục chiến đấu, cậu sẽ không thể trụ được nữa sao!?”
+
+@5931 Shiro · シロー
+# Kích hoạt: 重伤（剩余 HP 不足 30%）（通用，4/5）
+> 「くっ、もう噴射機が限界か!」
+“Hmm, kim phun đã đạt đến giới hạn chưa?”
+
+@5932 Shiro · シロー
+# Kích hoạt: 重伤（剩余 HP 不足 30%）（通用，5/5）
+> 「まだっ、希望はある!」
+"Vẫn chưa kết thúc, vẫn còn hy vọng!"
+
+@5933 Shiro · シロー
+# Kích hoạt: 中伤（剩余 HP 30–90%）（通用，1/9）
+> 「うっ、なんだこいつは!?」
+“Ồ, có chuyện gì đang xảy ra với anh chàng này vậy!?”
+
+@5934 Shiro · シロー
+# Kích hoạt: 中伤（剩余 HP 30–90%）（通用，2/9）
+> 「くっ、変だ、なにかおかしいぞ!?」
+"Hmm, kỳ lạ, có chuyện gì vậy!?"
+
+@5935 Shiro · シロー
+# Kích hoạt: 中伤（剩余 HP 30–90%）（通用，3/9）
+> 「くっ」
+"Hừm! "
+
+@5936 Shiro · シロー
+# Kích hoạt: 中伤（剩余 HP 30–90%）（通用，4/9）
+> 「あたったのかっ!」
+"Anh đánh nó à?"
+
+@5937 Shiro · シロー
+# Kích hoạt: 中伤（剩余 HP 30–90%）（通用，5/9）
+> 「まだだ!」
+"Nó vẫn chưa kết thúc!"
+
+@5938 Shiro · シロー
+# Kích hoạt: 中伤（剩余 HP 30–90%）（通用，6/9）
+> 「まだまだぁっっ!」
+“Vẫn còn sớm mà!!”
+
+@5939 Shiro · シロー
+# Kích hoạt: 中伤（剩余 HP 30–90%）（通用，7/9）
+> 「くっ、まずいぞ……」
+"Ừ, điều đó không tốt..."
+
+@5940 Shiro · シロー
+# Kích hoạt: 中伤（剩余 HP 30–90%）（通用，8/9）
+> 「くうっ、動きが重いっ!」
+"Chà, cử động của tôi chậm quá!"
+
+@5941 Shiro · シロー
+# Kích hoạt: 中伤（剩余 HP 30–90%）（通用，9/9）
+> 「くっ、左手がやられただけだ!」
+"À, chỉ là tay trái của tôi bị thương thôi!"
+
+@5942 Shiro · シロー
+# Kích hoạt: 轻伤（剩余 HP 90% 以上）（通用，1/6）
+> 「あっ……あたったのか!?」
+"A... Cậu bắn trúng nó à!?"
+
+@5943 Shiro · シロー
+# Kích hoạt: 轻伤（剩余 HP 90% 以上）（通用，2/6）
+> 「この程度ですんでくれた?」
+"Chỉ đau đến mức này sao?"
+
+@5944 Shiro · シロー
+# Kích hoạt: 轻伤（剩余 HP 90% 以上）（通用，3/6）
+> 「くっ、命中した!?」
+"Chà, nó trúng rồi!?"
+
+@5945 Shiro · シロー
+# Kích hoạt: 轻伤（剩余 HP 90% 以上）（通用，4/6）
+> 「損傷は軽微だ!」
+"Tổn thất nhẹ!"
+
+@5946 Shiro · シロー
+# Kích hoạt: 轻伤（剩余 HP 90% 以上）（通用，5/6）
+> 「うぅっ」
+"Ồ!"
+
+@5947 Shiro · シロー
+# Kích hoạt: 轻伤（剩余 HP 90% 以上）（通用，6/6）
+> 「くぅっ、上等だ!」
+"Chà, thời gian tốt lành!"
+
+@5948 Shiro · シロー
+# Kích hoạt: Né tránh（通用，1/4）
+> 「俺の腕もまぁまぁだろ!」
+"Kỹ năng của tôi cũng không tệ!"
+
+@5949 Shiro · シロー
+# Kích hoạt: Né tránh（通用，2/4）
+> 「やった、成功した!」
+"Tuyệt vời, nó đã thành công!"
+
+@5950 Shiro · シロー
+# Kích hoạt: Né tránh（通用，3/4）
+> 「みろっ! やったぞ!」
+"Nhìn này! Tôi đã làm được!"
+
+@5951 Shiro · シロー
+# Kích hoạt: Né tránh（通用，4/4）
+> 「やったか!」
+"Có thành công không? "
+
+@5952 Shiro · シロー
+# Kích hoạt: Tấn công无效（护罩／装甲）（通用，1/1）
+> 「効かないんだよ、それは!」
+"Cái đó không có tác dụng!"
+
+@5953 Shiro · シロー
+# Kích hoạt: 弹药／EN 不足，无法反击（通用，1/1）
+> 「た、弾切れ!?」
+“Không, không còn đạn nữa!?”
+
+@5954 Shiro · シロー
+# Kích hoạt: 射程外，无法反击（通用，1/2）
+> 「やつはどこだ!?」
+“Anh chàng đó đâu rồi!?”
+
+@5955 Shiro · シロー
+# Kích hoạt: 射程外，无法反击（通用，2/2）
+> 「く、どこへいったぁ!?」
+"Ừm, cậu đi đâu vậy!?"
+
+@14232 Shiro · シロー
+# Kích hoạt: 使用〈100mmマシンガン〉（低优先，可能被通用台词顶掉）
+> 「銃身が焼きつくまで撃ちつづけて
+>  やる!」
+"Tôi sẽ tiếp tục bắn cho đến khi nòng súng cháy hết!"
+
+@14233 Shiro · シロー
+# Kích hoạt: 使用〈ビームライフル／銃剣付きビームライフル〉（低优先，可能被通用台词顶掉）
+> 「ビームのエネルギーはもつのか!?」
+"Năng lượng của chùm tia có thể được duy trì không!?"
+
+@14234 Shiro · シロー
+# Kích hoạt: 使用〈ビームライフル／銃剣付きビームライフル〉（低优先，可能被通用台词顶掉）
+> 「あたれぇっ!」
+"Đánh tôi đi!"
+
+@14235 Shiro · シロー
+# Kích hoạt: 使用〈ハイメガキャノン〉（低优先，可能被通用台词顶掉）
+> 「エネルギー充填……
+>  いけっ! ハイメガキャノン!!」
+"Nạp năng lượng... tiếp tục! Mega Cannon năng lượng cao!!"

@@ -16,10 +16,13 @@ for %%E in (n64 v64) do (
   if not defined ROM if exist "%HERE%rom.%%E" set "ROM=%HERE%rom.%%E"
 )
 if not defined ROM (
-  powershell -NoProfile -Command "Add-Type -AssemblyName PresentationFramework; [System.Windows.MessageBox]::Show('找不到 ROM：请把超级机器人大战 64（日版 Rev 0）复制到 %DATA%\rom.z64，或放在 Marchwind64.cmd 旁边并命名为 rom.z64。' + [Environment]::NewLine + [Environment]::NewLine + 'No ROM found: copy your Super Robot Taisen 64 ROM (Japan, Rev 0) to %DATA%\rom.z64, or next to Marchwind64.cmd as rom.z64.', 'Marchwind64') | Out-Null"
+  powershell -NoProfile -Command "Add-Type -AssemblyName PresentationFramework; [System.Windows.MessageBox]::Show('Khong tim thay ROM: Vui long chep ROM Super Robot Taisen 64 (Japan, Rev 0) vao thu muc cung voi Marchwind64.cmd va dat ten la rom.z64.' + [Environment]::NewLine + [Environment]::NewLine + 'No ROM found: copy your Super Robot Taisen 64 ROM (Japan, Rev 0) next to Marchwind64.cmd as rom.z64.', 'Marchwind64') | Out-Null"
   exit /b 1
 )
-rem First launch starts in Simplified Chinese; the settings window changes it.
+rem Standalone content directory with Vietnamese (vi), Japanese (ja), English (en), Chinese (zh-Hans).
+set "CONTENT_ARG="
+if exist "%HERE%content\manifest.json" set "CONTENT_ARG=--content "%HERE%content""
+rem First launch starts in Vietnamese; the settings window changes it (F7 in game).
 set "LANG_ARG="
-if not exist "%DATA%\presentation.json" set "LANG_ARG=--language zh-Hans"
-"%HERE%Marchwind64.exe" --play --rom "%ROM%" %LANG_ARG% %*
+if not exist "%DATA%\presentation.json" set "LANG_ARG=--language vi"
+"%HERE%Marchwind64.exe" --play --rom "%ROM%" %CONTENT_ARG% %LANG_ARG% %*

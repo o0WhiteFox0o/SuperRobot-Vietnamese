@@ -1,0 +1,157 @@
+# Bản dịch tiếng Việt Super Robot Wars 64
+# Định dạng và vị trí: docs/guide/dialogue-text.md
+
+@8504 Kacricon · カクリコン
+# Kích hoạt: Tấn công (Chung，1/10）
+> 「落ちろっ!!」
+"Rớt nó đi!!"
+
+@8505 Kacricon · カクリコン
+# Kích hoạt: Tấn công (Chung，2/10）
+> 「遅いんだよ!」
+"Quá chậm!"
+
+@8506 Kacricon · カクリコン
+# Kích hoạt: Tấn công (Chung，3/10）
+> 「もらった!」
+"Đã lấy nó!"
+
+@8507 Kacricon · カクリコン
+# Kích hoạt: Tấn công (Chung，4/10）
+> 「こいつでとどめだ!!」
+"Hãy sử dụng cái này để đưa bạn lên đường!!"
+
+@8508 Kacricon · カクリコン
+# Kích hoạt: Tấn công (Chung，5/10）
+> 「いけぇっ!」
+"Nào——!"
+
+@8509 Kacricon · カクリコン
+# Kích hoạt: Tấn công (Chung，6/10）
+> 「目障りなんだよ!!」
+“Thật là khó chịu!!”
+
+@8510 Kacricon · カクリコン
+# Kích hoạt: Tấn công (Chung，7/10）
+> 「沈めっ!!」
+“Chìm xuống!!”
+
+@8511 Kacricon · カクリコン
+# Kích hoạt: Tấn công (Chung，8/10）
+> 「死ねよ!!」
+"Xuống địa ngục đi!!"
+
+@8512 Kacricon · カクリコン
+# Kích hoạt: Tấn công (Chung，9/10）
+> 「くらえっ!!」
+"Ăn chiêu của tôi đi!!"
+
+@8513 Kacricon · カクリコン
+# Kích hoạt: Tấn công (Chung，10/10）
+> 「落としてやるぜ!」
+"Xem ta hạ ngươi!"
+
+@8514 Kacricon · カクリコン
+# Kích hoạt: 被击坠（通用，1/2）
+> 「ちいっ!! しくじった!」
+"Tsk! Tôi đã bỏ lỡ nó!"
+
+@8515 Kacricon · カクリコン
+# Kích hoạt: 被击坠（通用，2/2）
+> 「なにっ!?」
+"Cái gì!?"
+
+@8516 Kacricon · カクリコン
+# Kích hoạt: 重伤（剩余 HP 不足 30%）（通用，1/4）
+> 「ぐぅっ! なんてパワーだ!?」
+"Hmm! Thật là một lực lượng mạnh mẽ!?"
+
+@8517 Kacricon · カクリコン
+# Kích hoạt: 重伤（剩余 HP 不足 30%）（通用，2/4）
+> 「くっ! ダメージを受けすぎた!」
+"Hừ! Vết thương quá nặng!"
+
+@8518 Kacricon · カクリコン
+# Kích hoạt: 重伤（剩余 HP 不足 30%）（通用，3/4）
+> 「うおっ!? い、いかん!!」
+"Ồ!? Không, không ổn!!"
+
+@8519 Kacricon · カクリコン
+# Kích hoạt: 重伤（剩余 HP 不足 30%）（通用，4/4）
+> 「くそっ! こいつ、動けっ!!」
+"Chết tiệt! Hãy để tôi di chuyển cái máy hỏng này!!"
+
+@8520 Kacricon · カクリコン
+# Kích hoạt: 中伤（剩余 HP 30–90%）（通用，1/5）
+> 「ちっ、油断できんな」
+“Chậc, đừng bất cẩn.”
+
+@8521 Kacricon · カクリコン
+# Kích hoạt: 中伤（剩余 HP 30–90%）（通用，2/5）
+> 「な、なかなかやる!!」
+"Vâng, có một vài khoảnh khắc!!"
+
+@8522 Kacricon · カクリコン
+# Kích hoạt: 中伤（剩余 HP 30–90%）（通用，3/5）
+> 「なんの、まだまだっ!」
+"Thật buồn cười, vẫn còn sớm!"
+
+@8523 Kacricon · カクリコン
+# Kích hoạt: 中伤（剩余 HP 30–90%）（通用，4/5）
+> 「つっ! まともに当たっちまったか……」
+"Tsk! Tôi đã nhận được một cái tát khá tốt..."
+
+@8524 Kacricon · カクリコン
+# Kích hoạt: 中伤（剩余 HP 30–90%）（通用，5/5）
+> 「ぐおっ! 当たっただと!?」
+"Ờ-ồ! Bị đánh à!?"
+
+@8525 Kacricon · カクリコン
+# Kích hoạt: 轻伤（剩余 HP 90% 以上）（通用，1/3）
+> 「ふん、そんなもの!」
+"Hừ, chỉ vậy thôi!"
+
+@8526 Kacricon · カクリコン
+# Kích hoạt: 轻伤（剩余 HP 90% 以上）（通用，2/3）
+> 「この程度のダメージなど!」
+"Vết thương nhỏ này không là gì cả!"
+
+@8527 Kacricon · カクリコン
+# Kích hoạt: 轻伤（剩余 HP 90% 以上）（通用，3/3）
+> 「効かんな、そんな攻撃は!」
+“Đòn tấn công đó hoàn toàn không có tác dụng!”
+
+@8528 Kacricon · カクリコン
+# Kích hoạt: Né tránh（通用，1/4）
+> 「当たるかよっ!!」
+“Làm sao có thể đánh trúng được!!”
+
+@8529 Kacricon · カクリコン
+# Kích hoạt: Né tránh（通用，2/4）
+> 「甘いぜっ!!」
+"Thật ngây thơ!!"
+
+@8530 Kacricon · カクリコン
+# Kích hoạt: Né tránh（通用，3/4）
+> 「なんのっ!」
+"Đó là một trò đùa!"
+
+@8531 Kacricon · カクリコン
+# Kích hoạt: Né tránh（通用，4/4）
+> 「そこか!」
+"Đó!"
+
+@8532 Kacricon · カクリコン
+# Kích hoạt: Tấn công无效（护罩／装甲）（通用，1/1）
+> 「効かねえっつってんだよ!!」
+"Những gì tôi nói chẳng có tác dụng gì cả!!"
+
+@8533 Kacricon · カクリコン
+# Kích hoạt: 弹药／EN 不足，无法反击（通用，1/1）
+> 「ちっ、弾切れか……」
+"Tsk, cậu hết đạn rồi à..."
+
+@8534 Kacricon · カクリコン
+# Kích hoạt: 射程外，无法反击（通用，1/1）
+> 「くそっ! この距離では……」
+"Chết tiệt! Xa quá..."

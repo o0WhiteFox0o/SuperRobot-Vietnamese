@@ -1,0 +1,454 @@
+# Bản dịch tiếng Việt Super Robot Wars 64
+# Định dạng và vị trí: docs/guide/dialogue-text.md
+
+@50547 Bright · ブライト
+> 「突入部隊は!?」
+“Quân xâm nhập đâu rồi!?”
+
+@50548 Amuro · アムロ
+> 「大丈夫だ。うまく突入して
+>  くれたよ」
+"Không thành vấn đề, bọn họ đã xông vào thành công."
+
+@50549 Bright · ブライト
+> 「アムロ、戻ったのか」
+“Amuro, cậu đã quay lại rồi.”
+
+@50550 Amuro · アムロ
+> 「後は、待つだけさ。ドモンたちがうまく
+>  やってくれるのをね」
+"Việc còn lại chỉ là chờ đợi. Đợi Domeng và những người khác giải quyết xong chuyện."
+
+@50551 Bright · ブライト
+> 「ああ…………」
+"Ừm..."
+
+@50552 Quinze · カーンズ
+> 「くっ……まさかここまで来るとは……」
+"Chà...tôi không ngờ các cậu lại đột nhập vào đây..."
+
+@50553 Domon · ドモン
+> 「カーンズ!? やはり貴様か! よくも
+>  この俺をだまし、利用してくれたな!」
+"Kans!? Thật sự là ngươi! Sao ngươi dám lừa gạt ta, lợi dụng ta!"
+
+@50554 Quinze · カーンズ
+> 「ドモン・カッシュか……フフ、だがもはや
+>  遅いわ。この無敵の動力炉を
+"Là Domon Kashuu... Haha, đáng tiếc đã muộn. Đối mặt với lò năng lượng vô địch này,
+---
+>  相手に、勝てるはずがない」
+Bạn không thể thắng được. "
+
+@50555 Domon · ドモン
+> 「無敵の動力炉だろうが
+>  なんだろうが
+"Cho dù bạn có lò năng lượng bất khả chiến bại nào,
+---
+>  貴様の野望はすべて叩きつぶす!
+>  そこで見ているがいい!
+Tôi muốn nghiền nát mọi tham vọng của bạn! Chỉ cần xem nó ngay tại đó!
+---
+>  ゆくぞ、お前たち!」
+Cố lên mọi người! "
+
+@50556 Quinze · カーンズ
+> 「そ、そんなばかな……
+>  だ、だが動力炉を失った程度で
+“Làm sao, làm sao có thể… Không, nhưng ngay cả khi không có lò điện,
+---
+>  この最終形デビルガンダムは
+>  とめられはせんぞ……」
+Không có cách nào để ngăn chặn hình thức cuối cùng của Demonic Gundunda..."
+
+@50557 Murasame · 村雨
+> 「やはり動力炉をとめても無駄か…
+>  本体を叩かねば
+“Quả nhiên, chỉ dừng lò điện cũng vô ích… Xem ra chúng ta phải tấn công trực tiếp vào cơ thể chính.
+---
+>  だめだということだな」
+Không."
+
+@50558 Ginrei · 銀鈴
+> 「健二さん!?」
+"Ông Kenji!?"
+
+@50559 Murasame · 村雨
+> 「ファルメール、ここをぬけて、
+>  さらに奥へと向かえ
+“Farmel, đi qua đây và vào trong.
+---
+>  そこに、デビルガンダムの本体がいる」
+Cơ thể chính của DevilGundam nằm ở đó. "
+
+@50560 Ginrei · 銀鈴
+> 「でも、健二さん、そのバリアーは……」
+“Nhưng thưa ông Kenji, rào cản đó…”
+
+@50561 Murasame · 村雨
+> 「こいつは俺がなんとかする……くっ」
+"Hãy để việc này cho tôi... à."
+
+@50562 Murasame · 村雨
+> 「ぐうぅぅぅぅぅ……」
+"Uuuuuuuuuuuuuuuuuuuuuuuuuuuuuuu..."
+
+@50563 Ginrei · 銀鈴
+> 「健二さん!?」
+"Ông Kenji!?"
+
+@50564 Murasame · 村雨
+> 「……俺のことはいいんだ。デビルガンダムの
+>  残骸を回収した奴がいると
+"...Đừng lo lắng cho tôi. Kể từ lúc tôi biết rằng có người đã tìm lại được mảnh vỡ của Demon Gundunda,
+---
+>  知った時から、こうなることはわかって
+>  いたさ。でも……
+Tôi biết nó sẽ như thế này. Nhưng...
+---
+>  やっぱりいつものようにファルメール、
+>  お前はそっちで俺はこっちだったよ
+Chắc chắn vẫn như thường lệ thôi, Nông dân, anh ở đằng kia, tôi ở đây.
+---
+>  なに、どうせ俺は死ねない男だ。
+>  どうせすぐに生き返る
+Không sao đâu, dù sao tôi cũng là người không thể chết được. Dù sao đi nữa, anh ấy sẽ sớm sống lại.
+---
+>  ……お前だけだったよ、死ねない男の
+>  つらさをわかってくれたのは。ありがとう…」
+...Chỉ có bạn mới hiểu được nỗi đau của một người không thể chết. Cảm ơn bạn…”
+
+@50565 Ginrei · 銀鈴
+> 「健二さん、やめて!!
+>  私が、私が飛べば……」
+"Ông Kenji, không!! Miễn là tôi, miễn là tôi bay..."
+
+@50566 Murasame · 村雨
+> 「ファルメール、君は力を使っちゃ
+>  いけない。いつかまた会おう……そうだ
+“Farmel, anh không thể sử dụng sức mạnh đó. Một ngày nào đó chúng ta sẽ gặp lại nhau… Nhân tiện,
+---
+>  俺が死ねる、その日がくれば…………」
+Đợi đến ngày tôi chết..."
+
+@50567 Quinze · カーンズ
+> 「ばかな…………」
+"Không thể nào..."
+
+@50568 Ginrei · 銀鈴
+> 「健二さん……
+"Ông Kenji...
+---
+>  みんな、行きましょう
+>  デビルガンダムを倒すのよ」
+Mọi người, hãy đi và đánh bại Demon Gund. "
+
+@50569 Murasame · 村雨
+> 「いま、バリアーを切った。
+>  お前たち、この奥へと向かえ
+"Tôi vừa đóng rào chắn lại. Bạn vào trong đi.
+---
+>  そこにデビルガンダムの本体が
+>  いるはずだ
+Cơ thể chính của Devil Gun chắc chắn sẽ ở đó.
+---
+>  そいつを叩けば、
+>  デビルアクシズもまた亡びる」
+Chỉ cần nó bị đánh bại, con quỷ Axis cũng sẽ bị tiêu diệt. "
+
+@50570 Domon · ドモン
+> 「デビルガンダム……これが最終形態
+>  ……どうやら俺たちの想像以上の
+"DevilGundam... Đây là hình thức cuối cùng... Có vẻ như nó đã đạt được nhiều thành tựu hơn chúng ta tưởng tượng.
+---
+>  力をつけたようだな。だがっ!!」
+sức mạnh. Nhưng! ! "
+
+@50571 Wong · ウォン
+> 「………………」
+“…………”
+
+@50572 Domon · ドモン
+> 「コアはウォンか……哀れな男だ。
+>  せめて、一気にケリをつけてやる!」
+"Lõi có phải màu vàng không... Thật là một kẻ đáng thương. Ít nhất hãy để tôi cho cậu một hơi thở vui vẻ!"
+
+@50573 Quinze · カーンズ
+> 「くっ……おのれ、我々の
+>  オペレーション・メテオを
+“Chà… Chết tiệt, đừng nghĩ đến việc cản trở trận chiến sao băng của chúng ta!
+---
+>  邪魔させはせん!
+>  この最終形態のデビルガンダムが
+Từ hình thức cuối cùng của DevilGundam
+---
+>  貴様らを始末してくれるわ。
+>  ゆけ、デビルウォン!」
+Hãy đến và đối phó với bạn. Cố lên, Quỷ Vàng! "
+
+@50574 Wong · ウォン
+> 「…………」
+“…………”
+
+@50575 Domon · ドモン
+> 「……さぁこい、デビルガンダム!
+>  貴様の最後の姿、この俺が
+"...Cố lên, Devil Gun! Phần còn lại của cậu phụ thuộc vào tôi.
+---
+>  見届けてやる!」
+Hãy nhìn nó bằng chính đôi mắt của bạn! "
+
+@50576 Domon · ドモン
+> 「フン……出たな。いいかお前たち!
+>  これが最後だ!」
+"Hmph...nó ra rồi. Mọi người nghe đây! Đây là trận chiến cuối cùng!"
+
+@50577 Domon · ドモン
+> 「……やったよ兄さん……
+>  今度こそ、デビルガンダムを……」
+"...Tôi đã làm được rồi, anh trai...lần này cuối cùng, tôi đã có được DemonGundam..."
+
+@50578 Rain · レイン
+> 「やったわ、ドモン!
+>  今度こそ、本当に終わりよ」
+"Nó thành công rồi, Domon! Lần này mọi chuyện thực sự kết thúc rồi."
+
+@50579 Duo · デュオ
+> 「へへっ、やったぜ。
+>  もう2度と出てくんじゃねぇぞ!」
+"Hehe, xong rồi, đừng xuất hiện nữa!"
+
+@50580 Heero · ヒイロ
+> 「デビルガンダムの破壊を確認……
+>  任務完了」
+"Xác nhận rằng Demon Gundunda đã bị tiêu diệt... Nhiệm vụ đã hoàn thành."
+
+@50581 Amuro · アムロ
+> 「デビルアクシズが崩壊する……
+>  ドモンたちはまだ出てこないのか?」
+"Trục quỷ đang sụp đổ... Domon và những người khác vẫn chưa xuất hiện sao?"
+
+@50582 Beltorchika · ベルトーチカ
+> 「ええ…………あ、来たわ!」
+"Ừm...A, chúng ta đến rồi!"
+
+@50583 Bright · ブライト
+> 「よし、収容次第、離脱する!
+>  急げよ!」
+"Được rồi, sơ tán ngay sau khi việc quản thúc hoàn tất! Nhanh lên!"
+
+@50584 Dr. Hazuki · 葉月博士
+> 「アクシズの様子はどうかね?」
+“Axis thế nào rồi?”
+
+@50585 Henken · ヘンケン
+> 「アクシズを取り込んでいた
+>  デビルガンダムはなくなったようですな
+“Có vẻ như con quỷ dữ đã nuốt chửng Axis đã biến mất.
+---
+>  が、我々が思っていたほどアクシズ
+>  本体に影響はなかったとみえます」
+Tuy nhiên, tác động lên cơ thể của Axis có vẻ không lớn như chúng ta nghĩ. "
+
+@50586 Sally · サリィ
+> 「どういうことです?」
+"Chuyện gì đang xảy ra vậy?"
+
+@50587 Henken · ヘンケン
+> 「ん……アクシズの核パルスは
+>  いまだに稼働を続けている
+“Chà… xung hạt nhân của Axis vẫn đang chạy.
+---
+>  つまりアクシズはまだ地球へ向けて
+>  落下中だということだ」
+Nói cách khác, Axis vẫn đang rơi về phía trái đất. "
+
+@50588 Anna · アンナ
+> 「そんな……じゃあ……」
+"Sao cậu có thể... nói thế..."
+
+@50589 Henken · ヘンケン
+> 「無駄だったとはいわんよ。
+>  ただ、まだ足りないということだな」
+"Không phải cố gắng là vô ích, chỉ là chưa đủ thôi."
+
+@50590 Shinobu · 忍
+> 「チッ、いってぇどういうことだよ」
+"Tsk, chuyện quái gì đang xảy ra vậy?"
+
+@50591 Bright · ブライト
+> 「アクシズはとまらんか……」
+"Trục không thể dừng lại..."
+
+@50592 Amuro · アムロ
+> 「シャアの奴……デビルガンダムを滅ぼし
+>  ても影響はないと知ってたんだ」
+"Anh chàng Char...anh ta đã biết rằng ngay cả khi anh ta phá hủy Demon Gundunda, anh ta cũng không thể ngăn chặn Axis."
+
+@50593 Banjo · 万丈
+> 「やはりアクシズそのものを
+>  破壊するしかないようだね」
+“Có vẻ như chúng ta chỉ có thể tiêu diệt được Axis.”
+
+@50594 Alan · アラン
+> 「ああ……だが、もうアクシズは
+>  地球の引力に引かれ始める」
+“Hmm… Nhưng, Axis sẽ sớm bị lực hấp dẫn của Trái đất kéo đi thôi.”
+
+@50595 Shinobu · 忍
+> 「ぐだぐだいっててもしかたがねぇ。
+>  もう1回やんなきゃならねぇんだろ!?」
+"Cằn nhằn và rên rỉ cũng vô ích thôi. Chúng ta không phải làm lại lần nữa sao!?"
+
+@50596 Show · ショウ
+> 「それも、すぐにな」
+“Và chúng ta phải đi ngay.”
+
+@50597 Bright · ブライト
+> 「そうだな……補給を急がせろ。
+>  修理は応急処置でかまわん!
+"Đúng... để bọn họ tăng cường tiếp tế. Trước tiên tiến hành cấp cứu!"
+---
+>  またすぐに出すぞ!」
+Chúng tôi sẽ tấn công lại sớm! "
+
+@50598 Astonaige · アストナージ
+> 「違う、それはこっちにまわせ!! レイン
+>  ジャネット、デッキにあがってくれ!
+"Không, chuyển nó qua đây!! Ling, Janet, lên boong đi!
+---
+>  シャリー、急いで!
+>  時間ないんだぞ!!」
+Charlie, nhanh lên! Không có thời gian! ! "
+
+@50599 Koji · 甲児
+> 「うっへぇ、大変そうだなぁ。
+>  アストナージさん、オレもなんか
+"Ồ, tôi bận quá. Ông Astornagyi, ông có muốn tôi làm điều đó không?”
+---
+>  手伝おうか?」
+Bạn có thể giúp tôi được không? "
+
+@50600 Astonaige · アストナージ
+> 「ばかいってないで、パイロットは
+>  ハサン先生のとこで栄養剤でも
+“Đừng nói nhảm nữa, phi công sẽ đến gặp bác sĩ Hassan để tiêm thuốc bổ sung dinh dưỡng.
+---
+>  うってもらって、少しでも休めよ。
+>  こっちは俺たちでなんとかするから!」
+Hãy nghỉ ngơi. Chúng ta có thể tự mình xử lý được! "
+
+@50601 Beltorchika · ベルトーチカ
+> 「……どういうこと?」
+“…Chuyện gì đang xảy ra vậy?”
+
+@50602 Amuro · アムロ
+> 「だからさ、シャアは、
+>  俺と決着をつけたいんだ
+“Ý tôi là, Hạ Ya muốn chấm dứt mọi chuyện với tôi.
+---
+>  だからあえて俺たちの前に出てくる」
+Đó là lý do tại sao anh ấy cố tình xuất hiện trước mặt chúng tôi. "
+
+@50603 Beltorchika · ベルトーチカ
+> 「まさか! そんなことしたって何にも……」
+"Không thể nào! Cho dù cậu có làm vậy thì cũng sẽ không có chuyện gì xảy ra đâu..."
+
+@50604 Amuro · アムロ
+> 「意味はある。シャアはそういう奴だ。
+>  もしかしたら、俺たちと
+"Có lý đấy. Char là loại người như vậy. Có lẽ từ nay trở đi anh ấy vẫn sẽ ở bên chúng ta."
+---
+>  一緒にいた時期から
+>  それを考えていたのかもしれない」
+Khi còn ở bên nhau, chúng tôi đã có ý tưởng này rồi. "
+
+@50605 Beltorchika · ベルトーチカ
+> 「ばかばかしい。地球の
+>  寒冷化作戦なんでしょ?」
+"Thật nực cười. Không phải đó chỉ là một cuộc chiến để hạ nhiệt trái đất sao?"
+
+@50606 Amuro · アムロ
+> 「そうだが……」
+"Đó là những gì tôi đã nói..."
+
+@50607 Beltorchika · ベルトーチカ
+> 「本気じゃないとでも?」
+“Ý cậu là anh ấy không nghiêm túc?”
+
+@50608 Amuro · アムロ
+> 「いや、奴は本気だよ。
+>  俺と対決したいというのもね
+“Không, anh ấy nghiêm túc, anh ấy cũng nghiêm túc muốn đấu với tôi.
+---
+>  そういうことのために
+>  命をはってみせるのがシャアだ
+Có thể mạo hiểm mạng sống của mình vì một điều như vậy, đây là Char.
+---
+>  両立させたいんだよ、奴は」
+Anh chàng đó muốn có cả hai đầu. "
+
+@50609 Beltorchika · ベルトーチカ
+> 「アムロ……」
+“Amuro…”
+
+@50610 Amuro · アムロ
+> 「大丈夫さ。俺は、俺たちは
+>  奴に勝って、アクシズもとめてみせる
+"Không sao đâu. Tôi... không, chúng ta sẽ đánh bại tên đó và chúng ta chắc chắn sẽ ngăn chặn Axis.
+---
+>  そのうえで生きて帰るさ。でないと、
+>  ベルにもチェーンにも、悪いものな?」
+Và sống sót trở lại. Nếu không thì Bell và Qian En sẽ không thể biện minh được phải không? "
+
+@50611 Quess · クェス
+> 「あ……うぅぅ……」
+"A...Ô ô ô..."
+
+@50612 Char · シャア
+> 「ん? どうした?」
+"Hả? Có chuyện gì thế?"
+
+@50613 Quess · クェス
+> 「……大佐……あたし……
+>  敵をみんな殺さないと……あたし
+"...Đại tá...tôi...nếu tôi không giết hết kẻ thù...tôi,
+---
+>  あたし……駄目になっちゃう!!」
+Tôi...không thể chịu đựng được nữa! ! "
+
+@50614 Char · シャア
+> (死にゆく人間の意思を
+>  もろに受けすぎたか……)
+(Bạn có tiếp thu hết suy nghĩ của người sắp chết không...)
+
+@50615 Quess · クェス
+> 「みんな……みんな苦しんだんだよ!?」
+"Mọi người... mọi người đều đau đớn!?"
+
+@50616 Char · シャア
+> 「わかっている。すぐにもう1度
+>  出られるが、クェスには私を
+"Tôi biết. Chúng ta có thể tấn công lại sớm, nhưng Kuisi, cậu phải
+---
+>  守ってもらわねばならん。おびえを
+>  隠すために戦うのでは、よくないな?」
+Chỉ cần bảo vệ tôi. Thật không tốt khi chiến đấu để che giấu nỗi sợ hãi của mình, phải không? "
+
+@50617 Quess · クェス
+> 「大佐……」
+"Đại tá..."
+
+@50618 Char · シャア
+> 「私は準備をせねばならん。少し
+>  休め。いいな」
+"Tôi phải chuẩn bị. Cậu cần nghỉ ngơi một lát. Cậu nghe thấy chứ?"
+
+@50619 Quess · クェス
+> 「……はい」
+"...Vâng."
+
+@50620 Char · シャア
+> (次で終わらせるぞ……アムロ、
+>  そして{HeroMech})
+(Hãy giải quyết vấn đề này trong trận chiến tiếp theo... Amuro và {HeroMech}.)

@@ -1,0 +1,149 @@
+# Bản dịch tiếng Việt Super Robot Wars 64
+# Định dạng và vị trí: docs/guide/dialogue-text.md
+
+@6074 Ortega · オルテガ
+# Kích hoạt: Tấn công (Chung，1/7）
+> 「このっ!!」
+"Anh bạn!!"
+
+@6075 Ortega · オルテガ
+# Kích hoạt: Tấn công (Chung，2/7）
+> 「うおおおおっ!!」
+“Ồ ồ! ! "
+
+@6076 Ortega · オルテガ
+# Kích hoạt: Tấn công (Chung，3/7）
+> 「もらった!!」
+"Thành công!!"
+
+@6077 Ortega · オルテガ
+# Kích hoạt: Tấn công (Chung，4/7）
+> 「やらせん!!」
+"Đừng nghĩ tới chuyện đó nữa!!"
+
+@6078 Ortega · オルテガ
+# Kích hoạt: Tấn công (Chung，5/7）
+> 「こいつっ!!」
+"Anh chàng này!!"
+
+@6079 Ortega · オルテガ
+# Kích hoạt: Tấn công (Chung，6/7）
+> 「くらえっ!!」
+"Ăn chiêu của tôi đi!!"
+
+@6080 Ortega · オルテガ
+# Kích hoạt: Tấn công (Chung，7/7）
+> 「落ちろってんだよ!!」
+"Rớt nó đi!!"
+
+@6081 Ortega · オルテガ
+# Kích hoạt: 被击坠（通用，1/1）
+> 「何!? バカな……」
+"Cái gì!? Không thể nào..."
+
+@6082 Ortega · オルテガ
+# Kích hoạt: 重伤（剩余 HP 不足 30%）（通用，1/3）
+> 「ちいいっ!! こいつ、やるっ!!」
+"Chết tiệt!! Tên này có vấn đề rồi!!"
+
+@6083 Ortega · オルテガ
+# Kích hoạt: 重伤（剩余 HP 不足 30%）（通用，2/3）
+> 「むうっ! ダ、ダメージを受けすぎた……」
+"Ôi! Tôi đau quá..."
+
+@6084 Ortega · オルテガ
+# Kích hoạt: 重伤（剩余 HP 不足 30%）（通用，3/3）
+> 「バカなっ!? 押されているのか!?」
+"Không thể nào!? Tôi thực sự đang ở thế bất lợi!?"
+
+@6085 Ortega · オルテガ
+# Kích hoạt: 中伤（剩余 HP 30–90%）（通用，1/4）
+> 「まだだっ! 黒い三連星の力、
+>  この程度ではない!」
+"Còn chưa kết thúc! Sức mạnh của Hắc Tam Tinh còn hơn thế nữa!"
+
+@6086 Ortega · オルテガ
+# Kích hoạt: 中伤（剩余 HP 30–90%）（通用，2/4）
+> 「ぬっ! このくらいでやられるものかよ!」
+"Chà! Vết thương nhỏ này không giết được tôi đâu!"
+
+@6087 Ortega · オルテガ
+# Kích hoạt: 中伤（剩余 HP 30–90%）（通用，3/4）
+> 「おうっ! 少しはやるようだな……だが!」
+"Ồ! Tôi vẫn còn một số khả năng...nhưng!"
+
+@6088 Ortega · オルテガ
+# Kích hoạt: 中伤（剩余 HP 30–90%）（通用，4/4）
+> 「おのれ、よくもっ!!」
+"Chết tiệt, sao ngươi dám!!"
+
+@6089 Ortega · オルテガ
+# Kích hoạt: 轻伤（剩余 HP 90% 以上）（通用，1/3）
+> 「ふん、ちょこざいな」
+"Hừ, thật là một kỹ năng nhỏ."
+
+@6090 Ortega · オルテガ
+# Kích hoạt: 轻伤（剩余 HP 90% 以上）（通用，2/3）
+> 「この程度の攻撃で落ちるかよ!」
+"Với đòn tấn công nhỏ này, bạn vẫn muốn đánh bại tôi!"
+
+@6091 Ortega · オルテガ
+# Kích hoạt: 轻伤（剩余 HP 90% 以上）（通用，3/3）
+> 「その程度か!」
+“Đó là tất cả những gì cậu có à?”
+
+@6092 Ortega · オルテガ
+# Kích hoạt: Né tránh（通用，1/4）
+> 「なめるなっ!!」
+"Đừng đánh giá thấp tôi!!"
+
+@6093 Ortega · オルテガ
+# Kích hoạt: Né tránh（通用，2/4）
+> 「当たるかよ!」
+"Làm sao có thể để cho ngươi đánh!"
+
+@6094 Ortega · オルテガ
+# Kích hoạt: Né tránh（通用，3/4）
+> 「そこか!」
+"Đó!"
+
+@6095 Ortega · オルテガ
+# Kích hoạt: Né tránh（通用，4/4）
+> 「ふん!」
+"Hừm! "
+
+@6096 Ortega · オルテガ
+# Kích hoạt: Tấn công无效（护罩／装甲）（通用，1/1）
+> 「ムダなんだよ!」
+"Thật vô ích!"
+
+@6097 Ortega · オルテガ
+# Kích hoạt: 弹药／EN 不足，无法反击（通用，1/1）
+> 「ちっ、しまった、弾切れか」
+"Tsk, không, chúng tôi hết đạn rồi."
+
+@6098 Ortega · オルテガ
+# Kích hoạt: 射程外，无法反击（通用，1/1）
+> 「ちっ、臆病者が……」
+"Chậc, đồ hèn nhát..."
+
+@14247 Ortega · オルテガ
+# Kích hoạt: 使用〈ビームサーベル／銃剣付きビームサーベル〉（低优先，可能被通用台词顶掉）
+> 「もらった!!」
+"Thành công!!"
+
+@14248 Gaia · ガイア
+# Kích hoạt: 使用〈ジェットストリームアタック〉（对话第 1/3 句）
+> 「オルテガ! マッシュ!
+>  ジェットストリーム・アタックをかけるぞ!」
+"Ortega! Matthew! Phát động một cuộc tấn công bằng dòng phản lực!"
+
+@14249 Ortega · オルテガ
+# Kích hoạt: 使用〈ジェットストリームアタック〉（对话第 2/3 句）
+> 「おう!」
+"Được rồi!"
+
+@14250 Mash · マッシュ
+# Kích hoạt: 使用〈ジェットストリームアタック〉（对话第 3/3 句）
+> 「了解だ、ガイア!」
+"Hiểu rồi, Gaia!"

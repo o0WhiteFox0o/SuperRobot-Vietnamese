@@ -1,0 +1,244 @@
+# Bản dịch tiếng Việt Super Robot Wars 64
+# Định dạng và vị trí: docs/guide/dialogue-text.md
+
+@10938 Mashymre · マシュマー
+# Kích hoạt: Tấn công (Chung，1/13）
+> 「私は胸のバラにかけてお前を倒す!」
+"Tôi thề trước bông hồng trên ngực rằng tôi sẽ đánh bại bạn!"
+
+@10939 Mashymre · マシュマー
+# Kích hoạt: Tấn công (Chung，2/13）
+> 「ハマーン様ご覧ください!」
+"Chúa Haman, xin hãy nhìn!"
+
+@10940 Mashymre · マシュマー
+# Kích hoạt: Tấn công (Chung，3/13）
+> 「とどめ!!」
+"Kết liễu ngươi đi!!"
+
+@10941 Mashymre · マシュマー
+# Kích hoạt: Tấn công (Chung，4/13）
+> 「でやあぁぁっ!!」
+"Này a a a!!"
+
+@10942 Mashymre · マシュマー
+# Kích hoạt: Tấn công (Chung，5/13）
+> 「もらったあ!!」
+"Thành công!!"
+
+@10943 Mashymre · マシュマー
+# Kích hoạt: Tấn công (Chung，6/13）
+> 「勝負だ!」
+"Một cuộc thách đấu!"
+
+@10944 Mashymre · マシュマー
+# Kích hoạt: Tấn công (Chung，7/13）
+> 「いざ、尋常に勝負っ!!」
+“Nào, hãy chiến đấu một cách chính trực!!”
+
+@10945 Mashymre · マシュマー
+# Kích hoạt: Tấn công (Chung，8/13）
+> 「落ちろおぉぉっ!!」
+"Đổ cho tôi!!"
+
+@10946 Mashymre · マシュマー
+# Kích hoạt: Tấn công (Chung，9/13）
+> 「私が相手だっ!!」
+"Đối thủ của bạn là tôi!!"
+
+@10947 Mashymre · マシュマー
+# Kích hoạt: Tấn công (Chung，10/13）
+> 「うおおおおっ!!」
+“Ồ ồ! ! "
+
+@10948 Mashymre · マシュマー
+# Kích hoạt: Tấn công (Chung，11/13）
+> 「マシュマー・セロ、参る!!」
+"Mathema Sero, cố lên!!"
+
+@10949 Mashymre · マシュマー
+# Kích hoạt: Tấn công (Chung，12/13）
+> 「行くぞっ!!」
+"Nào! ! "
+
+@10950 Mashymre · マシュマー
+# Kích hoạt: Tấn công (Chung，13/13）
+> 「これでどうだっ!!」
+"Động thái này thế nào!!"
+
+@10951 Mashymre · マシュマー
+# Kích hoạt: 被击坠（通用，1/3）
+> 「な、なに!?」
+"C-Cái gì!?"
+
+@10952 Mashymre · マシュマー
+# Kích hoạt: 被击坠（通用，2/3）
+> 「しまった!? ええーい、出直しだ!」
+"Chết tiệt!? Chết tiệt, tập hợp lại và thử lại!"
+
+@10953 Mashymre · マシュマー
+# Kích hoạt: 被击坠（通用，3/3）
+> 「ハ、ハマーン様っ!」
+"Ha-Chúa Haman!"
+
+@10954 Mashymre · マシュマー
+# Kích hoạt: 重伤（剩余 HP 不足 30%）（通用，1/4）
+> 「ええい! パワーが上がらんではないか!」
+"Chết tiệt! Tại sao sức mạnh không thể tăng lên?"
+
+@10955 Mashymre · マシュマー
+# Kích hoạt: 重伤（剩余 HP 不足 30%）（通用，2/4）
+> 「な、なんとっ!? これ程の威力が
+>  あるのか!?」
+"C-cái gì!? Nó mạnh quá!?"
+
+@10956 Mashymre · マシュマー
+# Kích hoạt: 重伤（剩余 HP 不足 30%）（通用，3/4）
+> 「な、なんというパワーだっ!?」
+“S-sức mạnh đáng kinh ngạc thế!?”
+
+@10957 Mashymre · マシュマー
+# Kích hoạt: 重伤（剩余 HP 不足 30%）（通用，4/4）
+> 「ぬううっ! 私は負けるわけには
+>  いかんのだ!この胸のバラにかけても!」
+"Uh-huh! Tôi không thể thua! Cho dù tôi có mạo hiểm với bông hồng trên ngực mình!"
+
+@10958 Mashymre · マシュマー
+# Kích hoạt: 中伤（剩余 HP 30–90%）（通用，1/6）
+> 「くっ! なかなかやるな!」
+"Ừm! Phải mất một lúc!"
+
+@10959 Mashymre · マシュマー
+# Kích hoạt: 中伤（剩余 HP 30–90%）（通用，2/6）
+> 「ちいっ! 見事だ!!」
+"Chậc! Đẹp quá!!"
+
+@10960 Mashymre · マシュマー
+# Kích hoạt: 中伤（剩余 HP 30–90%）（通用，3/6）
+> 「むっ! 少しはできるようだな!」
+"Chà! Có vẻ như bạn vẫn còn một số kỹ năng!"
+
+@10961 Mashymre · マシュマー
+# Kích hoạt: 中伤（剩余 HP 30–90%）（通用，4/6）
+> 「うっ! なるほど、油断は禁物
+>  と言う事だな」
+"Chà! Tôi hiểu rồi, bạn thực sự không thể bất cẩn được."
+
+@10962 Mashymre · マシュマー
+# Kích hoạt: 中伤（剩余 HP 30–90%）（通用，5/6）
+> 「ほう、やるな! 見直したぞ!」
+"Ồ, không tệ! Tôi rất ấn tượng với bạn!"
+
+@10963 Mashymre · マシュマー
+# Kích hoạt: 中伤（剩余 HP 30–90%）（通用，6/6）
+> 「くっ! 貴様、私を怒らせたい
+>  らしいな!!」
+"Hmm! Anh này, hình như anh muốn chọc giận tôi!!"
+
+@10964 Mashymre · マシュマー
+# Kích hoạt: 轻伤（剩余 HP 90% 以上）（通用，1/6）
+> 「その程度の腕で私に勝負を
+>  挑むとは……10年早いわ!!」
+"Ngươi dám khiêu chiến ta chỉ bằng chút kỹ năng này... hãy luyện tập thêm mười năm nữa đi!!"
+
+@10965 Mashymre · マシュマー
+# Kích hoạt: 轻伤（剩余 HP 90% 以上）（通用，2/6）
+> 「ちいっ! かすっただけだっ!!」
+"Tsk! Chỉ là lau thôi mà!!"
+
+@10966 Mashymre · マシュマー
+# Kích hoạt: 轻伤（剩余 HP 90% 以上）（通用，3/6）
+> 「ふははは、効きはせんよ!!」
+"Hahaha, nó không đau hay ngứa chút nào cả!!"
+
+@10967 Mashymre · マシュマー
+# Kích hoạt: 轻伤（剩余 HP 90% 以上）（通用，4/6）
+> 「ふ…この私にかなうと思っているのか?」
+"Hmph... cậu nghĩ cậu đã thắng được tôi rồi à?"
+
+@10968 Mashymre · マシュマー
+# Kích hoạt: 轻伤（剩余 HP 90% 以上）（通用，5/6）
+> 「無礼な!」
+"Thật bất lịch sự!"
+
+@10969 Mashymre · マシュマー
+# Kích hoạt: 轻伤（剩余 HP 90% 以上）（通用，6/6）
+> 「私に勝てるもりでいるのか!?」
+"Ngươi nghĩ có thể đánh bại ta sao!?"
+
+@10970 Mashymre · マシュマー
+# Kích hoạt: Né tránh（通用，1/7）
+> 「なんのっ!」
+"Đó là một trò đùa!"
+
+@10971 Mashymre · マシュマー
+# Kích hoạt: Né tránh（通用，2/7）
+> 「甘いな!」
+"Thật ngây thơ!"
+
+@10972 Mashymre · マシュマー
+# Kích hoạt: Né tránh（通用，3/7）
+> 「当たるかっ!」
+"Làm sao có thể đánh trúng!"
+
+@10973 Mashymre · マシュマー
+# Kích hoạt: Né tránh（通用，4/7）
+> 「所詮は私の敵ではないな!」
+"Rốt cuộc anh ta không phải là đối thủ của tôi!"
+
+@10974 Mashymre · マシュマー
+# Kích hoạt: Né tránh（通用，5/7）
+> 「ははははっ! 何をやっている!」
+"Hahahaha! Bạn đang làm gì vậy!"
+
+@10975 Mashymre · マシュマー
+# Kích hoạt: Né tránh（通用，6/7）
+> 「それで狙っているつもりか!」
+"Cái này có tính là nhắm không!"
+
+@10976 Mashymre · マシュマー
+# Kích hoạt: Né tránh（通用，7/7）
+> 「見切ったわ!!」
+"Nhìn thấu!!"
+
+@10977 Mashymre · マシュマー
+# Kích hoạt: Tấn công无效（护罩／装甲）（通用，1/1）
+> 「そんな攻撃が、この私に
+>  通用するか!!」
+"Làm sao kiểu tấn công này có thể có tác dụng với tôi!!"
+
+@10978 Mashymre · マシュマー
+# Kích hoạt: 弹药／EN 不足，无法反击（通用，1/1）
+> 「なんと!? 弾切れか……ぬかった」
+"Cái gì!? Tôi hết đạn rồi... Tôi bất cẩn."
+
+@10979 Mashymre · マシュマー
+# Kích hoạt: 射程外，无法反击（通用，1/2）
+> 「ええい、正々堂々と勝負しろ!」
+"Chết tiệt, công khai đấu với tôi!"
+
+@10980 Mashymre · マシュマー
+# Kích hoạt: 射程外，无法反击（通用，2/2）
+> 「ぬぅ、なんと卑怯な」
+"Chà, thật xấu tính."
+
+@16372 Mashymre · マシュマー
+# Kích hoạt: 使用〈ファンネル／マザーファンネル〉
+> 「行けっ! ファンネルよ!」
+"Đi! Phi pháo!"
+
+@16373 Mashymre · マシュマー
+# Kích hoạt: 使用〈ファンネル／マザーファンネル〉
+> 「蹴散らせっ! ファンネルッ!!」
+"Quét chúng đi cho tôi! Pháo nổi!!"
+
+@16374 Mashymre · マシュマー
+# Kích hoạt: 使用〈フィンファンネル〉
+> 「蹴散らせっ! ファンネルッ!!」
+"Quét chúng đi cho tôi! Pháo nổi!!"
+
+@16375 Mashymre · マシュマー
+# Kích hoạt: 使用〈ハイメガキャノン〉（低优先，可能被通用台词顶掉）
+> 「エネルギー充填……
+>  いけっ! ハイメガキャノン!!」
+"Nạp năng lượng...cố lên! Mega Cannon năng lượng cao!!"

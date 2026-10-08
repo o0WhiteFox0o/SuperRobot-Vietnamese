@@ -8,7 +8,10 @@ complete progress recovery. Presentation is outside compatibility.
 from __future__ import annotations
 
 from contextlib import contextmanager
-import fcntl
+try:
+    import fcntl
+except ImportError:
+    fcntl = None
 import hashlib
 import json
 import os
@@ -27,6 +30,8 @@ def digest(data: bytes) -> str:
 
 
 def sync_dir(path: Path) -> None:
+    if os.name == 'nt':
+        return
     fd = os.open(path, os.O_RDONLY)
     try:
         os.fsync(fd)
@@ -59,8 +64,22 @@ def atomic_json(path: Path, data: dict) -> None:
 def locked(root: Path):
     root.mkdir(parents=True, exist_ok=True)
     with (root / 'store.lock').open('a') as stream:
-        fcntl.flock(stream, fcntl.LOCK_EX)
-        yield
+        if fcntl is not None:
+            fcntl.flock(stream, fcntl.LOCK_EX)
+        elif os.name == 'nt':
+            import msvcrt
+            msvcrt.locking(stream.fileno(), msvcrt.LK_LOCK, 1)
+        try:
+            yield
+        finally:
+            if fcntl is not None:
+                fcntl.flock(stream, fcntl.LOCK_UN)
+            elif os.name == 'nt':
+                import msvcrt
+                try:
+                    msvcrt.locking(stream.fileno(), msvcrt.LK_UNLCK, 1)
+                except OSError:
+                    pass
 
 
 def validate_identity(identity: dict) -> None:

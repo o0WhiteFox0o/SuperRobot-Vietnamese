@@ -1,0 +1,222 @@
+# Bản dịch tiếng Việt Super Robot Wars 64
+# Định dạng và vị trí: docs/guide/dialogue-text.md
+
+@7007 Takeru · タケル
+# Kích hoạt: Tấn công (Chung，1/13）
+> 「とりゃぁぁぁぁーっ!」
+"Này a a a a a -!"
+
+@7008 Takeru · タケル
+# Kích hoạt: Tấn công (Chung，2/13）
+> 「むんんんっ!」
+"Mmmmmmmmm!"
+
+@7009 Takeru · タケル
+# Kích hoạt: Tấn công (Chung，3/13）
+> 「ぬぅぅぅっ!」
+"Uuuuuuuuuuuuuuuuuuu"
+
+@7010 Takeru · タケル
+# Kích hoạt: Tấn công (Chung，4/13）
+> 「おぅりゃぁぁぁぁ!」
+"Ồhhhhhh!"
+
+@7011 Takeru · タケル
+# Kích hoạt: Tấn công (Chung，5/13）
+> 「おりゃあぁぁぁーっ!」
+"Ồhhhhhh-!"
+
+@7012 Takeru · タケル
+# Kích hoạt: Tấn công (Chung，6/13）
+> 「はあぁぁぁぁーっ!」
+"Haaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaa!"
+
+@7013 Takeru · タケル
+# Kích hoạt: Tấn công (Chung，7/13）
+> 「おぉぉぉぉぉーっ!」
+"Ồhhhhhh-!"
+
+@7014 Takeru · タケル
+# Kích hoạt: Tấn công (Chung，8/13）
+> 「オレは、生きる!」
+"Tôi muốn sống!"
+
+@7015 Takeru · タケル
+# Kích hoạt: Tấn công (Chung，9/13）
+> 「つあぁぁぁぁぁぁーっ!」
+"Ahhhhhhhhhhhhhhh-!"
+
+@7016 Takeru · タケル
+# Kích hoạt: Tấn công (Chung，10/13）
+> 「消えろぉ!」
+"Ra khỏi đây!"
+
+@7017 Takeru · タケル
+# Kích hoạt: Tấn công (Chung，11/13）
+> 「オレは、地球人だ!」
+"Tôi đến từ Trái Đất!"
+
+@7018 Takeru · タケル
+# Kích hoạt: Tấn công (Chung，12/13）
+> 「逃がすものか!」
+"Đừng cố trốn thoát!"
+
+@7019 Takeru · タケル
+# Kích hoạt: Tấn công (Chung，13/13）
+> 「消えうせろ!」
+"Biến mất!"
+
+@7020 Takeru · タケル
+# Kích hoạt: 被击坠（通用，1/2）
+> 「し、しまった……」
+"Ôi, ôi..."
+
+@7021 Takeru · タケル
+# Kích hoạt: 被击坠（通用，2/2）
+> 「くっ、まずい、反陽子爆弾が……」
+“À, không, bom phản proton cần phải…”
+
+@7022 Takeru · タケル
+# Kích hoạt: 重伤（剩余 HP 不足 30%）（通用，1/6）
+> 「オレは死なん!」
+"Tôi sẽ không chết!"
+
+@7023 Takeru · タケル
+# Kích hoạt: 重伤（剩余 HP 不足 30%）（通用，2/6）
+> 「オレは死ねない!」
+"Tôi không thể chết!"
+
+@7024 Takeru · タケル
+# Kích hoạt: 重伤（剩余 HP 不足 30%）（通用，3/6）
+> 「くそぅ……こんなところで死んだら……」
+"Chết tiệt...nếu cậu chết ở một nơi như thế này..."
+
+@7025 Takeru · タケル
+# Kích hoạt: 重伤（剩余 HP 不足 30%）（通用，4/6）
+> 「ああぁぁぁ……あぁぁぁぁーっ!」
+"Ahhh...ahhhhhh-!"
+
+@7026 Takeru · タケル
+# Kích hoạt: 重伤（剩余 HP 不足 30%）（通用，5/6）
+> 「うわぁぁぁぁぁぁぁっ!」
+"Aaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaa!"
+
+@7027 Takeru · タケル
+# Kích hoạt: 重伤（剩余 HP 不足 30%）（通用，6/6）
+> 「こ、こんなところでオレはやられる!?」
+“Tôi-tôi sẽ kết thúc ở một nơi như thế này sao!?”
+
+@7028 Takeru · タケル
+# Kích hoạt: 中伤（剩余 HP 30–90%）（通用，1/7）
+> 「ウウッ、ウワァァーッ!」
+"Uh-huh, ồ--!"
+
+@7029 Takeru · タケル
+# Kích hoạt: 中伤（剩余 HP 30–90%）（通用，2/7）
+> 「うわぁぁ!?」
+"Ồ!?"
+
+@7030 Takeru · タケル
+# Kích hoạt: 中伤（剩余 HP 30–90%）（通用，3/7）
+> 「くそぅっ!」
+"Chết tiệt!"
+
+@7031 Takeru · タケル
+# Kích hoạt: 中伤（剩余 HP 30–90%）（通用，4/7）
+> 「おのれぇっ!」
+"Đồ khốn!"
+
+@7032 Takeru · タケル
+# Kích hoạt: 中伤（剩余 HP 30–90%）（通用，5/7）
+> 「ぐわっ!」
+"Guwa!"
+
+@7033 Takeru · タケル
+# Kích hoạt: 中伤（剩余 HP 30–90%）（通用，6/7）
+> 「しまった!?」
+"Ối!?"
+
+@7034 Takeru · タケル
+# Kích hoạt: 中伤（剩余 HP 30–90%）（通用，7/7）
+> 「ううっだめだっ!」
+"Uh-huh, không thể nào!"
+
+@7035 Takeru · タケル
+# Kích hoạt: 轻伤（剩余 HP 90% 以上）（通用，1/4）
+> 「まずい!?」
+"Không tốt!?"
+
+@7036 Takeru · タケル
+# Kích hoạt: 轻伤（剩余 HP 90% 以上）（通用，2/4）
+> 「ううっ!」
+"Ờ-huh!"
+
+@7037 Takeru · タケル
+# Kích hoạt: 轻伤（剩余 HP 90% 以上）（通用，3/4）
+> 「あうぅっ!」
+"Ồ!"
+
+@7038 Takeru · タケル
+# Kích hoạt: 轻伤（剩余 HP 90% 以上）（通用，4/4）
+> 「くっ!」
+"Hừm! "
+
+@7039 Takeru · タケル
+# Kích hoạt: Né tránh（通用，1/2）
+> 「とうっ!」
+"Này!"
+
+@7040 Takeru · タケル
+# Kích hoạt: Né tránh（通用，2/2）
+> 「とおっ!」
+"Ha!"
+
+@7041 Takeru · タケル
+# Kích hoạt: Tấn công无效（护罩／装甲）（通用，1/2）
+> 「そんな攻撃など!」
+"Đây là kiểu tấn công gì vậy!"
+
+@7042 Takeru · タケル
+# Kích hoạt: Tấn công无效（护罩／装甲）（通用，2/2）
+> 「つぅおぅりゃぁぁぁぁっ!」
+"Bồ ồ ồ ồ ồ ồ ồ!"
+
+@7043 Takeru · タケル
+# Kích hoạt: 弹药／EN 不足，无法反击（通用，1/1）
+> 「しまった、エネルギーが!?」
+"Rất tiếc, không đủ năng lượng!?"
+
+@7044 Takeru · タケル
+# Kích hoạt: 射程外，无法反击（通用，1/1）
+> 「おのれ、そんなところから!」
+"Chết tiệt, ngươi đánh ta từ xa như vậy!"
+
+@14400 Takeru · タケル
+# Kích hoạt: 使用〈衝撃波ビーム〉（低优先，可能被通用台词顶掉）
+> 「衝撃波ぁぁぁっ!」
+"Sóng xung kích a a!"
+
+@14401 Takeru · タケル
+# Kích hoạt: 使用〈衝撃波〉（低优先，可能被通用台词顶掉）
+> 「衝撃波ぁぁぁっ!」
+"Sóng xung kích a a!"
+
+@14402 Takeru · タケル
+# Kích hoạt: 使用〈ゴッドファイヤー〉
+> 「ゴッドファイヤァァーッ!」
+"Ngọn lửa của Chúa ahhhhhhhhhhhhhhhhhhhhhhhhhhhhhhh"
+
+@14403 Takeru · タケル
+# Kích hoạt: 使用〈ファイナルゴッドマーズ〉（对话第 1/2 句）
+> 「マァァァズフラァッシュ!」
+"Sao Hỏa - Tia sáng!"
+
+@14404 Takeru · タケル
+# Kích hoạt: 使用〈ファイナルゴッドマーズ〉（对话第 2/2 句）
+> 「ファイナル・ゴッドマァァァァァズ!!」
+“Vua Sấm Tối Thượng——!!”
+
+@14405 Takeru · タケル
+# Kích hoạt: Tấn công，乘坐〈ゴッドマーズ〉
+> 「いくんだ! ゴッドマーズ!」
+"Tiến lên! Lôi Vương!"

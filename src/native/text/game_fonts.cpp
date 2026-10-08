@@ -16,7 +16,7 @@ std::filesystem::path utf8_path(const char* value) {
 std::vector<FontSource> packaged(const std::filesystem::path& dir,const std::string& locale,int weight) {
     std::vector<std::string> names;
     // SRW64Prompts holds the hints' button icons in the Private Use Area (text/button_prompts.hpp).
-    if(locale=="en")names={"HarmonyOS_Sans_Condensed.ttf","HarmonyOS_Sans_SC.ttf","SRW64Symbols.ttf","SRW64Prompts.ttf"};
+    if(locale=="en" || locale=="vi")names={"HarmonyOS_Sans_Condensed.ttf","HarmonyOS_Sans_SC.ttf","SRW64Symbols.ttf","SRW64Prompts.ttf"};
     else names={"HarmonyOS_Sans_SC.ttf","SRW64Symbols.ttf","SRW64Prompts.ttf"};
     std::vector<FontSource> sources;
     for(const auto& name:names) {
@@ -53,8 +53,8 @@ std::filesystem::path game_font_path() {
     throw std::runtime_error("No CJK font found. Run tools/content/prepare_fonts.py and set SRW64_FONT_DIR, or set SRW64_TEXT_FONT to a TTF/OTF/TTC file.");
 }
 std::vector<FontSource> game_font_sources(const std::string& locale,int weight) {
-    if(locale!="zh-Hans" && locale!="ja" && locale!="en")
-        throw std::runtime_error("Game text supports zh-Hans, ja and en only");
+    if(locale!="zh-Hans" && locale!="ja" && locale!="en" && locale!="vi")
+        throw std::runtime_error("Game text supports zh-Hans, ja, en and vi only");
     const char* dir=std::getenv("SRW64_FONT_DIR");
     if(!std::getenv("SRW64_TEXT_FONT") && dir && *dir)return packaged(utf8_path(dir),locale,weight);
     // Unit tests and older probes without packaged fonts: one CJK face, one weight.

@@ -1,0 +1,199 @@
+# Bản dịch tiếng Việt Super Robot Wars 64
+# Định dạng và vị trí: docs/guide/dialogue-text.md
+
+@8556 Four · フォウ
+# Kích hoạt: Tấn công (Chung，1/11）
+> 「やらせないっ!!」
+"Tôi sẽ không để bạn thành công!!"
+
+@8557 Four · フォウ
+# Kích hoạt: Tấn công (Chung，2/11）
+> 「そこっ!」
+"Đó!"
+
+@8558 Four · フォウ
+# Kích hoạt: Tấn công (Chung，3/11）
+> 「当てる!」
+"Chắc chắn sẽ trúng!"
+
+@8559 Four · フォウ
+# Kích hoạt: Tấn công (Chung，4/11）
+> 「これ以上好きにはやらせないっ!」
+"Tôi sẽ không để anh làm bất cứ điều gì anh muốn nữa!"
+
+@8560 Four · フォウ
+# Kích hoạt: Tấn công (Chung，5/11）
+> 「やってみる!!」
+"Hãy để tôi thử!!"
+
+@8561 Four · フォウ
+# Kích hoạt: Tấn công (Chung，6/11）
+> 「これならっ!」
+"Bây giờ là lúc đi đến trụ sở chính!"
+
+@8562 Four · フォウ
+# Kích hoạt: Tấn công (Chung，7/11）
+> 「落ちろっ!」
+"Rơi xuống!"
+
+@8563 Four · フォウ
+# Kích hoạt: Tấn công (Chung，8/11）
+> 「そう簡単にっ!」
+"Không dễ thế đâu!"
+
+@8564 Four · フォウ
+# Kích hoạt: Tấn công (Chung，9/11）
+> 「邪魔をしないでっ!!」
+“Đừng cản đường!!”
+
+@8565 Four · フォウ
+# Kích hoạt: Tấn công (Chung，10/11）
+> 「この一撃で決めるっ!」
+"Dùng đòn này để quyết định kết quả!"
+
+@8566 Four · フォウ
+# Kích hoạt: Tấn công (Chung，11/11）
+> 「行けっ!」
+"Đi!"
+
+@8567 Four · フォウ
+# Kích hoạt: 被击坠（通用，1/2）
+> 「くうっ!! しまった!!」
+"Ugh!! Rất tiếc!!"
+
+@8568 Four · フォウ
+# Kích hoạt: 被击坠（通用，2/2）
+> 「カ、カミーユッ!!」
+"C-Camus!!"
+
+@8569 Four · フォウ
+# Kích hoạt: 重伤（剩余 HP 不足 30%）（通用，1/4）
+> 「くうっ! な、なんてパワー……」
+"Wow! Đây, một sức mạnh to lớn như vậy..."
+
+@8570 Four · フォウ
+# Kích hoạt: 重伤（剩余 HP 不足 30%）（通用，2/4）
+> 「ま、まだっ!! まだ落ちないよっ!!」
+"Chưa!! Tôi vẫn chưa ngã!!"
+
+@8571 Four · フォウ
+# Kích hoạt: 重伤（剩余 HP 不足 30%）（通用，3/4）
+> 「あうっ! つ、強い……」
+"A! Mạnh quá..."
+
+@8572 Four · フォウ
+# Kích hoạt: 重伤（剩余 HP 不足 30%）（通用，4/4）
+> 「ううっ! まだ……まだ負けちゃいない!」
+"Woo! Chưa... Tôi vẫn chưa thua!"
+
+@8573 Four · フォウ
+# Kích hoạt: 中伤（剩余 HP 30–90%）（通用，1/4）
+> 「つっ!
+>  この程度のダメージなら、まだ!」
+"Hmm! Vết thương nhỏ này vẫn có thể chịu đựng được!"
+
+@8574 Four · フォウ
+# Kích hoạt: 中伤（剩余 HP 30–90%）（通用，2/4）
+> 「まだっ! まだやられたわけじゃないっ!」
+"Chưa! Tôi vẫn chưa bị đánh gục!"
+
+@8575 Four · フォウ
+# Kích hoạt: 中伤（剩余 HP 30–90%）（通用，3/4）
+> 「うっ! やる……でもっ!」
+"Chà! Có hai khoảnh khắc...nhưng!"
+
+@8576 Four · フォウ
+# Kích hoạt: 中伤（剩余 HP 30–90%）（通用，4/4）
+> 「あうっ!
+>  こ、こんな事でやられるもんかっ!」
+"A! Làm sao có thể như vậy, vết thương nhỏ này có thể đánh bại ta!"
+
+@8577 Four · フォウ
+# Kích hoạt: 轻伤（剩余 HP 90% 以上）（通用，1/4）
+> 「この程度でっ!」
+"Vết thương nhỏ này không là gì cả!"
+
+@8578 Four · フォウ
+# Kích hoạt: 轻伤（剩余 HP 90% 以上）（通用，2/4）
+> 「当たった!? けど、それだけっ!」
+"Đánh!? Nhưng chỉ vậy thôi!"
+
+@8579 Four · フォウ
+# Kích hoạt: 轻伤（剩余 HP 90% 以上）（通用，3/4）
+> 「こんなダメージっ!」
+"Tổn thương nhỏ này không là gì cả!"
+
+@8580 Four · フォウ
+# Kích hoạt: 轻伤（剩余 HP 90% 以上）（通用，4/4）
+> 「大丈夫、かすっただけ!」
+"Không sao đâu, tôi chỉ lau nó thôi!"
+
+@8581 Four · フォウ
+# Kích hoạt: Né tránh（通用，1/6）
+> 「当たらないよ!」
+"Bạn không thể đánh nó!"
+
+@8582 Four · フォウ
+# Kích hoạt: Né tránh（通用，2/6）
+> 「見える!」
+"Bạn có thể nhìn thấy nó!"
+
+@8583 Four · フォウ
+# Kích hoạt: Né tránh（通用，3/6）
+> 「甘いね!」
+"Thật ngây thơ!"
+
+@8584 Four · フォウ
+# Kích hoạt: Né tránh（通用，4/6）
+> 「来る……そこっ!」
+"Tới... kia!"
+
+@8585 Four · フォウ
+# Kích hoạt: Né tránh（通用，5/6）
+> 「こんなものっ!」
+"Đó là tất cả!"
+
+@8586 Four · フォウ
+# Kích hoạt: Né tránh（通用，6/6）
+> 「避けてみせるっ!」
+"Coi chừng tôi chạy đi!"
+
+@8587 Four · フォウ
+# Kích hoạt: Tấn công无效（护罩／装甲）（通用，1/2）
+> 「効かないよっ!」
+"Thật vô ích!"
+
+@8588 Four · フォウ
+# Kích hoạt: Tấn công无效（护罩／装甲）（通用，2/2）
+> 「この程度のビームでっ!」
+"Chùm ánh sáng nhỏ này là gì?"
+
+@8589 Four · フォウ
+# Kích hoạt: 弹药／EN 不足，无法反击（通用，1/1）
+> 「そんな……弾切れなの?」
+"Sao...hết đạn rồi?"
+
+@8590 Four · フォウ
+# Kích hoạt: 射程外，无法反击（通用，1/1）
+> 「あ……届かない」
+"À... tôi không thể đánh nó được."
+
+@14632 Four · フォウ
+# Kích hoạt: 使用〈ファンネル／マザーファンネル〉
+> 「ファンネルッ!!」
+"Pháo nổi!!"
+
+@14633 Four · フォウ
+# Kích hoạt: 使用〈ファンネル／マザーファンネル〉
+> 「いけっ、ファンネル!!」
+"Nào, pháo nổi!!"
+
+@14634 Four · フォウ
+# Kích hoạt: 使用〈フィンファンネル〉
+> 「フィンファンネル!!」
+"Pháo nổi có vây!!"
+
+@14635 Four · フォウ
+# Kích hoạt: 使用〈ハイメガキャノン〉（低优先，可能被通用台词顶掉）
+> 「行くよ……ハイメガキャノン!!」
+"Trên tàu... Mega Cannon công suất cao!!"

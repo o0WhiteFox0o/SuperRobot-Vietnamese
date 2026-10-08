@@ -1,0 +1,145 @@
+# Bản dịch tiếng Việt Super Robot Wars 64
+# Định dạng và vị trí: docs/guide/dialogue-text.md
+
+@13069 Argo · アルゴ
+# Kích hoạt: Tấn công (Chung，1/7）
+> 「うおぉぉぉぉぉ!」
+"Ồhhhhhh!"
+
+@13070 Argo · アルゴ
+# Kích hoạt: Tấn công (Chung，2/7）
+> 「でえぃぃぃぃっ!」
+"Này eh eh eh eh!"
+
+@13071 Argo · アルゴ
+# Kích hoạt: Tấn công (Chung，3/7）
+> 「ぬぅぉぉぉぉっ!」
+"Ồ ồ ồ ồ!"
+
+@13072 Argo · アルゴ
+# Kích hoạt: Tấn công (Chung，4/7）
+> 「うおぉぉぉりゃぁぁぁっ!」
+"Ooohhhhhhhhhhhhhhhhhhhhhhhhhhh!"
+
+@13073 Argo · アルゴ
+# Kích hoạt: Tấn công (Chung，5/7）
+> 「ぬうぅぅん!」
+"Mmmmmmmmm!"
+
+@13074 Argo · アルゴ
+# Kích hoạt: Tấn công (Chung，6/7）
+> 「勝負だ!」
+"Một cuộc thách đấu!"
+
+@13075 Argo · アルゴ
+# Kích hoạt: Tấn công (Chung，7/7）
+> 「ゆくぞ」
+"Lên."
+
+@13076 Argo · アルゴ
+# Kích hoạt: 被击坠（通用，1/2）
+> 「うおぉぉぉぉぉ」
+"Ồ ồ ồ ồ ồ"
+
+@13077 Argo · アルゴ
+# Kích hoạt: 被击坠（通用，2/2）
+> 「ま、負けたのか……」
+“Đ-tôi đã thua sao…”
+
+@13078 Argo · アルゴ
+# Kích hoạt: 重伤（剩余 HP 不足 30%）（通用，1/2）
+> 「俺は、俺は負けるわけには
+>  いかんのだぁぁぁ!」
+“T-tôi không thể thua được!”
+
+@13079 Argo · アルゴ
+# Kích hoạt: 重伤（剩余 HP 不足 30%）（通用，2/2）
+> 「ぬぁぁぁぁぁぁっ!」
+"Uhhhhhhhhh!"
+
+@13080 Argo · アルゴ
+# Kích hoạt: 中伤（剩余 HP 30–90%）（通用，1/4）
+> 「どうやら遠慮はいらんようだな」
+“Có vẻ như bạn được chào đón”
+
+@13081 Argo · アルゴ
+# Kích hoạt: 中伤（剩余 HP 30–90%）（通用，2/4）
+> 「なにっ!?」
+"Cái gì!?"
+
+@13082 Argo · アルゴ
+# Kích hoạt: 中伤（剩余 HP 30–90%）（通用，3/4）
+> 「ぐ、うううう……」
+"G-wuwuwuwu..."
+
+@13083 Argo · アルゴ
+# Kích hoạt: 中伤（剩余 HP 30–90%）（通用，4/4）
+> 「そうこなくてはな」
+“Nó phải như vậy”
+
+@13084 Argo · アルゴ
+# Kích hoạt: 轻伤（剩余 HP 90% 以上）（通用，1/5）
+> 「戦いの最中にムダ口をたたくのは、
+>  素人だ」
+“Nói quá nhiều trong trận chiến là kẻ nghiệp dư”
+
+@13085 Argo · アルゴ
+# Kích hoạt: 轻伤（剩余 HP 90% 以上）（通用，2/5）
+> 「それだけか」
+“Đó là tất cả những gì cậu có à?”
+
+@13086 Argo · アルゴ
+# Kích hoạt: 轻伤（剩余 HP 90% 以上）（通用，3/5）
+> 「貴様もこの程度か」
+"Đây không phải là trường hợp của bạn?"
+
+@13087 Argo · アルゴ
+# Kích hoạt: 轻伤（剩余 HP 90% 以上）（通用，4/5）
+> 「どうした、それで終わりか」
+“Cái gì, thế thôi à?”
+
+@13088 Argo · アルゴ
+# Kích hoạt: 轻伤（剩余 HP 90% 以上）（通用，5/5）
+> 「どうした!」
+"Có chuyện gì vậy!"
+
+@13089 Argo · アルゴ
+# Kích hoạt: Né tránh（通用，1/2）
+> 「当たるものか」
+"Làm sao có thể đánh được"
+
+@13090 Argo · アルゴ
+# Kích hoạt: Né tránh（通用，2/2）
+> 「させるかぁっ!」
+"Đừng nghĩ tới chuyện đó nữa!"
+
+@13091 Argo · アルゴ
+# Kích hoạt: Tấn công无效（护罩／装甲）（通用，1/1）
+> 「こんな子供だましが通用するとでも
+>  思っているのか!」
+"Ngươi cho rằng thủ đoạn lừa gạt trẻ con này có hiệu quả sao!"
+
+@13092 Argo · アルゴ
+# Kích hoạt: 弹药／EN 不足，无法反击（通用，1/1）
+> 「くそっ!」
+"Chết tiệt!"
+
+@13093 Argo · アルゴ
+# Kích hoạt: 射程外，无法反击（通用，1/1）
+> 「奴は……どこだ!?」
+"Anh chàng đó...anh ta ở đâu vậy!?"
+
+@17311 Argo · アルゴ
+# Kích hoạt: 使用〈グラビトンハンマー〉（低优先，可能被通用台词顶掉）
+> 「グラビトンハンマァァァッ!」
+“Bolas trọng lực——!”
+
+@17312 Argo · アルゴ
+# Kích hoạt: 使用〈ガイアクラッシャー〉
+> 「さぁくれつ! ガイアクラッシャーッ!」
+"Nổ tung! Gaia tan vỡ!"
+
+@17313 Argo · アルゴ
+# Kích hoạt: 使用〈ガイアクラッシャー〉
+> 「炸裂! ガイアクラッシャー!」
+"Nổ tung! Gaia tan vỡ!"

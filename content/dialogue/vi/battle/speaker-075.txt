@@ -1,0 +1,177 @@
+# Bản dịch tiếng Việt Super Robot Wars 64
+# Định dạng và vị trí: docs/guide/dialogue-text.md
+
+@8475 Buran · ブラン
+# Kích hoạt: Tấn công (Chung，1/8）
+> 「ダテじゃないんだよ!!」
+"Tôi không vô ích!!"
+
+@8476 Buran · ブラン
+# Kích hoạt: Tấn công (Chung，2/8）
+> 「照準内!」
+"Vào trong tầm ngắm!"
+
+@8477 Buran · ブラン
+# Kích hoạt: Tấn công (Chung，3/8）
+> 「もらった!!」
+"Hiểu rồi!!"
+
+@8478 Buran · ブラン
+# Kích hoạt: Tấn công (Chung，4/8）
+> 「そこかっ!」
+"Ngay đó!"
+
+@8479 Buran · ブラン
+# Kích hoạt: Tấn công (Chung，5/8）
+> 「当てる!!」
+"Xem tôi đánh cậu đấy!!"
+
+@8480 Buran · ブラン
+# Kích hoạt: Tấn công (Chung，6/8）
+> 「いけっ!」
+"Lên!"
+
+@8481 Buran · ブラン
+# Kích hoạt: Tấn công (Chung，7/8）
+> 「いただく!」
+"Lấy nó đi!"
+
+@8482 Buran · ブラン
+# Kích hoạt: Tấn công (Chung，8/8）
+> 「スキだらけだな……甘いっ!」
+"Nó đầy rẫy những sai sót...thật ngây thơ!"
+
+@8483 Buran · ブラン
+# Kích hoạt: 被击坠（通用，1/2）
+> 「な……バカなっ!?」
+"Cái... sao có thể như vậy được!?"
+
+@8484 Buran · ブラン
+# Kích hoạt: 被击坠（通用，2/2）
+> 「なんだと!? 直撃か!?」
+"Cái gì!? Bị đánh!?"
+
+@8485 Buran · ブラン
+# Kích hoạt: 重伤（剩余 HP 不足 30%）（通用，1/4）
+> 「ぐっ!! こいつ……やる!!」
+"Ugh!! Tên này...có vấn đề rồi!!"
+
+@8486 Buran · ブラン
+# Kích hoạt: 重伤（剩余 HP 不足 30%）（通用，2/4）
+> 「ぬおっ!! まだだ!! まだやらせん!!」
+"Uh-oh!! Mọi chuyện vẫn chưa kết thúc!! Giết tôi không dễ thế đâu!!"
+
+@8487 Buran · ブラン
+# Kích hoạt: 重伤（剩余 HP 不足 30%）（通用，3/4）
+> 「ちいっ! 貴様などにやられるわけには
+>  いかんのだ!!」
+"Tsk! Làm sao tôi có thể bị đánh bại bởi một kẻ như anh chứ!!"
+
+@8488 Buran · ブラン
+# Kích hoạt: 重伤（剩余 HP 不足 30%）（通用，4/4）
+> 「何っ! これほどのパワーがあるのか!?」
+"Cái gì! Có sức mạnh mạnh mẽ như vậy!?"
+
+@8489 Buran · ブラン
+# Kích hoạt: 中伤（剩余 HP 30–90%）（通用，1/5）
+> 「くっ!! いい腕をしている!」
+"Hmm!! Kỹ năng tốt!"
+
+@8490 Buran · ブラン
+# Kích hoạt: 中伤（剩余 HP 30–90%）（通用，2/5）
+> 「ちっ! そうそう好きにはやらせんよ!!」
+"Tsk! Không phải lúc nào tôi cũng để cậu làm bất cứ điều gì cậu muốn đâu!!"
+
+@8491 Buran · ブラン
+# Kích hoạt: 中伤（剩余 HP 30–90%）（通用，3/5）
+> 「うおっ! こいつ、ただものではないな!」
+"Ồ! Tên này không đơn giản!"
+
+@8492 Buran · ブラン
+# Kích hoạt: 中伤（剩余 HP 30–90%）（通用，4/5）
+> 「ぬうっ! 貴様らの好きにはさせん!」
+"Chà! Tôi sẽ không để bạn làm bất cứ điều gì bạn muốn!"
+
+@8493 Buran · ブラン
+# Kích hoạt: 中伤（剩余 HP 30–90%）（通用，5/5）
+> 「やるっ! だが、こちらとて!」
+"Một vài lần! Nhưng tôi cũng không phải là người ăn chay!"
+
+@8494 Buran · ブラン
+# Kích hoạt: 轻伤（剩余 HP 90% 以上）（通用，1/3）
+> 「効かんな!!」
+“Nó không có tác dụng gì cả!!”
+
+@8495 Buran · ブラン
+# Kích hoạt: 轻伤（剩余 HP 90% 以上）（通用，2/3）
+> 「そんなものか……」
+“Đây là tất cả những gì cậu có à…”
+
+@8496 Buran · ブラン
+# Kích hoạt: 轻伤（剩余 HP 90% 以上）（通用，3/3）
+> 「その程度の腕で戦場にでるとは
+>  ……貴様、戦いをなめているな!」
+"Ngươi ra chiến trường chỉ với chút năng lực này... Ngươi, ngươi đánh giá thấp chiến đấu!"
+
+@8497 Buran · ブラン
+# Kích hoạt: Né tránh（通用，1/4）
+> 「当たるかよ!」
+"Làm sao có thể đánh được!"
+
+@8498 Buran · ブラン
+# Kích hoạt: Né tránh（通用，2/4）
+> 「甘いな!!」
+"Thật ngây thơ!!"
+
+@8499 Buran · ブラン
+# Kích hoạt: Né tránh（通用，3/4）
+> 「まだまだだな!」
+"Nó thậm chí còn không gần!"
+
+@8500 Buran · ブラン
+# Kích hoạt: Né tránh（通用，4/4）
+> 「やはりな……攻撃パターンが
+>  単純なんだよ!」
+"Quả nhiên... chiêu thức tấn công quá đơn điệu!"
+
+@8501 Buran · ブラン
+# Kích hoạt: Tấn công无效（护罩／装甲）（通用，1/1）
+> 「ビームだと? ムダな事を」
+"Beam? Lãng phí công sức."
+
+@8502 Buran · ブラン
+# Kích hoạt: 弹药／EN 不足，无法反击（通用，1/1）
+> 「なに!? 弾切れか!?」
+"Cái gì!? Hết đạn!?"
+
+@8503 Buran · ブラン
+# Kích hoạt: 射程外，无法反击（通用，1/1）
+> 「ちっ、この距離では反撃できんな…」
+“Tsk, tôi không thể đánh trả từ khoảng cách xa như vậy được…”
+
+@14627 Buran · ブラン
+# Kích hoạt: 使用〈フィンファンネル〉
+> 「フィンファンネルっ!!」
+"Pháo nổi có vây!!"
+
+@14628 Buran · ブラン
+# Kích hoạt: 被击坠，乘坐〈アッシマー〉
+> 「アッシマーがぁーっ!?」
+“Ahim—!?”
+
+@14629 Buran · ブラン
+# Kích hoạt: 轻伤（剩余 HP 90% 以上），乘坐〈アッシマー〉
+> 「アッシマーの装甲を甘くみるな!」
+“Đừng đánh giá thấp áo giáp của Ashima!”
+
+@14630 Four · フォウ
+# Kích hoạt: 轻伤（剩余 HP 90% 以上），乘坐〈サイコガンダム〉
+> 「このサイコガンダムに、そんな攻撃が
+>  通用するか!」
+"Đòn tấn công này vô dụng đối với con robot telekinesis này!"
+
+@14631 Four · フォウ
+# Kích hoạt: 轻伤（剩余 HP 90% 以上），乘坐〈サイコガンダムmkⅡ〉
+> 「このサイコガンダムに、そんな攻撃が
+>  通用するか!」
+"Đòn tấn công này vô dụng đối với con robot telekinesis này!"

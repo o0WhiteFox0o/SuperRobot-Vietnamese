@@ -1,0 +1,1542 @@
+# Bản dịch tiếng Việt Super Robot Wars 64
+# Định dạng và vị trí: docs/guide/dialogue-text.md
+
+@22052 Quattro · クワトロ
+> 「グレスコ総督が……死んだだと?」
+"Thống đốc Gresco...đã chết?"
+
+@22053 Koji · 甲児
+> 「ああ、なんかみんなで大騒ぎしてたぜ。
+>  一応敵軍の親玉だろ?
+“Đúng vậy, mọi người đều gặp rắc rối. Dù sao hắn cũng là thủ lĩnh của quân địch.
+---
+>  ざまぁみろって感じだよな」
+Bạn xứng đáng với nó! "
+
+@22054 Prof. Yumi · 弓教授
+> 「なんでも各地の中継局を通じて
+>  全地球圏規模で
+"Tôi nghe nói rằng nó được truyền tới toàn bộ vòng tròn trái đất thông qua các trạm chuyển tiếp ở nhiều nơi.
+---
+>  放送が行われているそうだよ」
+Phát lại. "
+
+@22055 Eiji · エイジ
+> 「グレスコが……」
+"Gresco..."
+
+@22056 Anna · アンナ
+> 「エイジ……」
+"Eiji..."
+
+@22057 Quattro · クワトロ
+> 「ふむ……問題はこれが状況に
+>  どう影響してくるかだな……」
+"Chà...vấn đề là điều này sẽ có ảnh hưởng gì đến tình hình..."
+
+@22058 David · デビッド
+> 「お、始まっちまってるぜ」
+"Ồ, nó đã bắt đầu rồi."
+
+@22059 Duo · デュオ
+> 「あーやだやだ。
+>  こんな盛大な葬式みたことないぜ」
+"A -- ta nhịn không được. Ta chưa từng thấy qua như thế tang lễ hoành tráng."
+
+@22060 Roux · ルー
+> 「ちょっとぉ、もっとボリューム大きくして
+>  くれないと、聞こえないじゃない」
+"Này, tăng âm lượng lên, nếu không cậu sẽ không nghe được đâu."
+
+@22061 Quatre · カトル
+> 「あ、はい、今あげます」
+"À, được rồi, bật nó lên đi."
+
+@22062 Le Cain · ル・カイン
+> 「……全兵士諸君、私はここに、
+>  亡き父の遺志をつぎ
+"...Tất cả những người lính, tôi sẽ kế thừa di sản của người cha quá cố của tôi,
+---
+>  帝国と地球人のための
+>  理想国家の建設に
+Để xây dựng một đất nước lý tưởng thuộc về đế quốc và nhân dân trên trái đất
+---
+>  努力することを誓うものである」
+Hãy cố gắng hết sức và thề điều này. "
+
+@22063 Kamille · カミーユ
+> 「なにが理想なものか、ル・カインめ!」
+"Lý tưởng này là gì vậy Ru Kane?"
+
+@22064 Fa · ファ
+> 「カミーユ……」
+"Camus..."
+
+@22065 Le Cain · ル・カイン
+> 「ロアン・デミトリッヒ、
+>  トレーズ・クシュリナーダ、ここへ」
+"Roan Dmitrich, Teres Kshurinada, lại đây."
+
+@22066 David · デビッド
+> 「あの野郎!! 裏切り者の
+>  ブタ野郎が、のうのうとしてやがるぜ」
+"Tên khốn đó!! Con lợn ngu ngốc phản bội này vẫn còn dám sống tự do ở đó!"
+
+@22067 Anna · アンナ
+> 「ロアン……」
+"Lạc An..."
+
+@22068 Simone · シモーヌ
+> 「…………」
+“…………”
+
+@22069 Eiji · エイジ
+> 「…………」
+“…………”
+
+@22070 Le Cain · ル・カイン
+> 「諸君、この者たちは地球人で
+>  ありながら、実にすぐれた者たちだ
+"Mọi người, mặc dù những người này đến từ Trái đất, nhưng họ đều là những tài năng hiếm có.
+---
+>  これからの私は地球人であろうとも
+>  すぐれている者はわけへだてなく
+Từ giờ trở đi, tôi sẽ đối xử bình đẳng với mọi người miễn là họ có tài, bất kể họ có đến từ Trái đất hay không.
+---
+>  登用することにした。それでこそ
+>  はじめて、理想的な国家が
+được tái sử dụng. Bởi vì tôi nhận ra rằng chỉ bằng cách này chúng ta mới có thể xây dựng được
+---
+>  建設できると気づいたからだ。私の
+>  理想はこのようにして実現される
+đất nước lý tưởng. Đây là cách lý tưởng của tôi sẽ được thực hiện.
+---
+>  ところで、ロアン・デミトリッヒ、
+>  地球には火がすべてのものを
+Nhắc mới nhớ, Roan Dmitrich, tôi nghe nói trên trái đất có một tin đồn
+---
+>  浄化するという、言い伝えが
+>  あるそうだな?」
+Ý tưởng rằng lửa có thể thanh lọc mọi thứ? "
+
+@22071 Roanne · ロアン
+> 「はい」
+"Ừ. "
+
+@22072 Le Cain · ル・カイン
+> 「諸君、まさに今がそのときだ。
+>  古きもの、悪しきものは
+"Các bạn ơi, đã đến lúc rồi. Đồ cổ, đồ xấu
+---
+>  炎に焼かれて浄化される。
+>  トレーズ・クシュリナーダ」
+Tất cả sẽ bị thiêu rụi trong ngọn lửa và được thanh lọc. Teles Khurinada. "
+
+@22073 Treize · トレーズ
+> 「はい。すべて閣下のご命令のまま、
+>  反乱分子のせん滅作戦
+"Vâng. Tất cả các hoạt động được thực hiện theo mệnh lệnh của bạn để tiêu diệt quân nổi dậy.
+---
+>  および主要都市、コロニーの
+>  再建計画が整っております」
+Cũng như các kế hoạch tái thiết các thành phố lớn và các vệ tinh thuộc địa, tất cả đều đã được triển khai. "
+
+@22074 Le Cain · ル・カイン
+> 「諸君、聞いての通りだ。
+>  古きものよ! 悪しきものよ!
+"Mọi người đều đã nghe thấy rồi. Đồ cổ xưa! Đồ xấu xa!
+---
+>  新しきもの、理想なるものの誕生
+>  のため、炎の洗礼を受けよ!!」
+Để sinh ra những điều mới mẻ và những điều lý tưởng, hãy chấp nhận lễ rửa tội bằng lửa! ! "
+
+@22075 Duo · デュオ
+> 「……なぁ、それってまさか……」
+"...Này, điều đó có nghĩa là..."
+
+@22076 Ryoma · リョウ
+> 「ああ、奴ら徹底的にやるつもりだな」
+"Chà, những kẻ đó đang lên kế hoạch giết tất cả."
+
+@22077 Ryo · 亮
+> 「今となっては抵抗組織の中では
+>  俺たちがいちばん戦力がある
+“Tính đến thời điểm hiện tại, chúng tôi có khả năng chiến đấu mạnh nhất trong số các tổ chức kháng chiến.
+---
+>  連中の最大の標的は
+>  俺たちだと考えて間違いないだろう」
+Chắc chắn mục tiêu lớn nhất của họ là chúng ta. "
+
+@22078 Hayato · ハヤト
+> 「どれだけの数が攻めてくるのか、
+>  見当もつかんな」
+"Không thể ước tính có bao nhiêu kẻ thù sẽ đến giết chúng ta."
+
+@22079 Daisaku · 大作
+> 「それじゃあ……
+>  僕たちはどうなるんですか!?」
+"Vậy... vậy chúng ta nên làm gì đây!?"
+
+@22080 Quatre · カトル
+> 「……さすがに……
+>  勝てないかもしれませんね」
+“…Lần này…tôi e là mình thực sự không thể thắng được.”
+
+@22081 Ginrei · 銀鈴
+> 「…………」
+“…………”
+
+@22082 Shinobu · 忍
+> 「ちきしょう! 冗談じゃないぜ!
+>  そう簡単にやられてたまるかよ!!」
+"Chết tiệt! Thật là một trò đùa! Làm sao bạn có thể bị giết dễ dàng như vậy!!"
+
+@22083 Anna · アンナ
+> 「……エイジ?」
+"...Eiji?"
+
+@22084 Eiji · エイジ
+> 「艦長たちに伝えてくるよ」
+"Tôi sẽ thông báo cho thuyền trưởng và họ."
+
+@22085 Shapiro · シャピロ
+> 「……お前はどう思う、ルーナ?」
+"...Em nghĩ sao vậy, Luna?"
+
+@22086 Luna · ルーナ
+> 「はい、ル・カイン様は地球人と
+>  共存なさるおつもりのようですわね」
+“Đúng vậy, có vẻ như Lãnh chúa Lu Kane có ý định cùng tồn tại với người dân trên Trái đất.”
+
+@22087 Shapiro · シャピロ
+> 「ふ……愚かな。それは、
+>  ムゲゾルバドス帝国の
+"Huh...ngu ngốc. Với tư cách là Đế chế Moog Zorbados
+---
+>  支配下にある星として、
+>  正しいあり方かな?」
+Đây có phải là hành tinh dưới sự cai trị của chúng ta sẽ như thế nào không? "
+
+@22088 Luna · ルーナ
+> 「もちろん、違います」
+"Tất nhiên là không."
+
+@22089 Shapiro · シャピロ
+> 「グレスコ閣下が病気で
+>  お亡くなりになったとのことだが?」
+“Tôi nghe nói Lãnh chúa Gresco chết vì bệnh tật?”
+
+@22090 Luna · ルーナ
+> 「不審なこと、このうえありません」
+"Điều này không thể đáng ngờ hơn."
+
+@22091 Shapiro · シャピロ
+> 「ふむ……アステロイド基地に
+>  連絡はつけられるな、ルーナ?」
+"Hmm...bạn có thể liên lạc với căn cứ tiểu hành tinh được không, Luna?"
+
+@22092 Luna · ルーナ
+> 「ル・カインの手の者が
+>  通信施設を押さえておりますが
+“Người của Ru Kane đã nắm quyền kiểm soát các cơ sở liên lạc.
+---
+>  可能でありましょう」
+Nhưng chúng ta vẫn có thể liên lạc được. "
+
+@22093 Shapiro · シャピロ
+> 「フフフフフ、いずれすべてが
+>  この俺の前にひざまづくことになる
+“Hehehehe, sớm hay muộn mọi thứ cũng sẽ phải quỳ gối trước mặt tôi.
+---
+>  百鬼一族のグラー博士を
+>  お呼びしてくれ、ルーナ。丁重にな」
+Mời Tiến sĩ Guerra từ Trăm Quỷ Tộc, Luna. Hãy nhớ, đối xử lịch sự với người khác. "
+
+@22094 Luna · ルーナ
+> 「はい、シャピロ様」
+"Vâng, thưa ngài Shapiro."
+
+@22095 Le Cain · ル・カイン
+> 「ロアンか、どうした?」
+"Lạc An, sao vậy?"
+
+@22096 Roanne · ロアン
+> 「はっ……実は……」
+"Ừ... thực ra thì..."
+
+@22097 Le Cain · ル・カイン
+> 「通信施設が帝国の
+>  兵士によって襲撃されただと?」
+“Cơ sở liên lạc đã bị lính Đế quốc tấn công?”
+
+@22098 Roanne · ロアン
+> 「はっ、すでに鎮圧しております。
+>  どうやらアステロイドへ向けて
+"Đúng, sự đàn áp đã bị trấn áp. Có vẻ như họ đang hướng về phía tiểu hành tinh."
+---
+>  送信したようです。
+>  首謀者は現在調査中ですが
+Đã gửi một tin nhắn. Kẻ chủ mưu vẫn đang điều tra.
+---
+>  まずは報告をと思いまして」
+Tôi muốn báo cáo với bạn đầu tiên. "
+
+@22099 Le Cain · ル・カイン
+> 「…………もうよい。調査は続行せよ」
+“…Đủ rồi. Tiếp tục điều tra.”
+
+@22100 Roanne · ロアン
+> 「はっ?」
+"Đúng?"
+
+@22101 Le Cain · ル・カイン
+> 「もうよい! さがれ!」
+"Đủ rồi! Lùi lại!"
+
+@22102 Le Cain · ル・カイン
+> 「……およそ理想というものを持たぬ
+>  愚か者どもめ……
+“…một lũ ngu ngốc không có lý tưởng gì cả…
+---
+>  アステロイド前線基地から
+>  将軍どもを呼んだか……」
+Họ thực sự đã triệu hồi các tướng lĩnh từ căn cứ tiền tuyến của tiểu hành tinh…”
+
+@22103 Julia · ジュリア
+> 「…………」
+“…………”
+
+@22104 Le Cain · ル・カイン
+> 「すぐれた者によるよりよき指導、
+>  それに従う無垢なる従順……
+“Hãy để người xuất sắc dẫn đầu, và người trong sạch sẽ tuân theo và đi theo…
+---
+>  私の理想とした国家の建設は
+>  夢で終わらせはせん……」
+Đất nước lý tưởng của tôi sẽ không bao giờ chỉ là một giấc mơ..."
+
+@22105 Gresco · グレスコ
+> (支配とは力だ……)
+(Sự thống trị là sức mạnh...)
+
+@22106 Le Cain · ル・カイン
+> 「……父上! あなたが悪い!
+>  幼き日より帝国の誇りを
+"...Cha! Tất cả là lỗi của cha! Cha đã muốn con từ khi con còn nhỏ
+---
+>  持ち続けるようにいい続けてきたのは
+>  父上、あなたです!
+Chính cha, người luôn ghi nhớ niềm tự hào của đế chế!
+---
+>  ……あなたではありませんか……」
+...Không phải cậu..."
+
+@22107 Julia · ジュリア
+> 「ル・カイン様……」
+"Lục Khảm đại nhân..."
+
+@22108 Le Cain · ル・カイン
+> 「ジュリア……祈ってくれ。
+>  父のために祈ってくれ」
+"Julia...cầu nguyện. Cầu nguyện cho cha tôi."
+
+@22109 Julia · ジュリア
+> 「…………」
+“…………”
+
+@22110 Le Cain · ル・カイン
+> 「祈れ、祈ってくれ。祈るのだ!
+“Hãy cầu nguyện, hãy cầu nguyện. Hãy cầu nguyện!
+---
+>  我が父のために祈れ!
+Hãy cầu nguyện cho bố tôi!
+---
+>  お前が聖女と呼ばれるのならば
+>  父のため……そしてこの私のために
+Bởi vì bạn được gọi là một vị thánh, bạn là vì cha tôi... và vì tôi.
+---
+>  祈ってくれ。すぐれた者に加護が
+>  あるように……己の父を手にかけた
+Giữ ngón tay của bạn vượt qua. Cầu mong những người xuất sắc được bảo vệ... cho người đàn ông này đã tự tay giết cha mình.
+---
+>  哀れな男のために……祈ってくれ!」
+Người đàn ông tội nghiệp... hãy cầu nguyện! "
+
+@22111 Roanne · ロアン
+> 「なんの用だい、こんなところに
+>  呼び出して。僕は忙しいんだよ」
+"Có chuyện gì thế? Gọi tôi đến một nơi như thế này đi. Tôi rất bận."
+
+@22112 Arthur · アーサー
+> 「ロアン、今まで敵に従うフリをして、
+>  ひとりでがんばってきて
+"Lạc An, ngươi một mực giả vờ nghe lệnh địch, một mình chiến đấu.
+---
+>  つらかっただろうな。でも僕にだけは
+>  本当のことをいってくれていいんだよ」
+Nó phải khó khăn. Nhưng ít nhất bạn có thể nói sự thật trước mặt tôi. "
+
+@22113 Roanne · ロアン
+> 「なんのことだい?」
+"Bạn đang nói về cái gì vậy?"
+
+@22114 Arthur · アーサー
+> 「またまた。僕にはわかってるんだよ。
+>  みんなル・カインの信頼を得るための
+"Đừng giả vờ nữa. Tôi biết rất rõ. Những điều này đều là để lấy lòng tin của Ru Kane.
+---
+>  お芝居なんだろう?」
+Diễn xuất phải không? "
+
+@22115 Roanne · ロアン
+> 「僕は帝国の方がすばらしいと
+>  思ったからそうしているだけだ
+“Tôi chỉ làm vậy vì tôi nghĩ Đế chế tốt hơn.
+---
+>  用っていうのがそれだけなら、
+>  僕はもう行くよ」
+Nếu đó là tất cả những gì bạn muốn nói thì tôi sẽ đi đây. "
+
+@22116 Arthur · アーサー
+> 「待ってくれよ、ロアン!」
+"Chờ một chút, Lạc An!"
+
+@22117 Roanne · ロアン
+> 「相手が僕だからよかったものの、
+>  誰かに聞かれたら銃殺刑ものだよ
+“May mắn thay là tôi nghe thấy, nếu có người khác nghe thấy thì bạn sẽ bị bắn.
+---
+>  もう僕の前に顔を見せないでくれ。
+>  いいね」
+Đừng xuất hiện trước mặt tôi nữa. Bạn có hiểu không? "
+
+@22118 Arthur · アーサー
+> 「ロアン、ロアンッ!!」
+"La An, La An!!"
+
+@22119 Duo · デュオ
+> 「聞いたかよ、奴ら
+>  ついにおっぱじめたって話だぜ?」
+"Bạn có nghe nói rằng những kẻ đó cuối cùng đã hành động?"
+
+@22120 Kamille · カミーユ
+> 「くそッ帝国め!!」
+"Đế quốc chết tiệt!!"
+
+@22121 Amuro · アムロ
+> 「落ち着くんだカミーユ。
+>  少し休んでおいた方がいい」
+"Bình tĩnh nào, Camus. Tốt nhất cậu nên nghỉ ngơi đi."
+
+@22122 Kamille · カミーユ
+> 「今にも敵がくるかもしれないのに、
+>  できるわけないでしょう!!」
+"Kẻ thù có thể tấn công bất cứ lúc nào, tôi làm sao có thể nghỉ ngơi được!!"
+
+@22123 Amuro · アムロ
+> 「カミーユ」
+"Camus."
+
+@22124 Kamille · カミーユ
+> 「整備……手伝ってきます。
+>  その方が気がまぎれますから」
+"Tôi sẽ... giúp chuẩn bị. Tôi sẽ cảm thấy tốt hơn nếu làm việc gì đó."
+
+@22125 Duo · デュオ
+> 「チェッ、男のヒステリーはみっともないぜ」
+"Chậc chậc, trưởng thành cuồng loạn rồi, thật sự là xấu xí."
+
+@22126 Amuro · アムロ
+> 「そういうふうにいうものじゃない。
+>  みんな、つらいんだよ」
+"Đừng nói thế. Mọi người đều thấy khó chịu."
+
+@22127 Amuro · アムロ
+> 「そういえば、
+>  {HeroNick}はどうしたんだ?」
+"Nhắc mới nhớ, người {HeroNick} đâu rồi?"
+
+@22128 Duo · デュオ
+> 「俺は見てないぜ」
+"Tôi không nhìn thấy nó."
+
+@22129 Domon · ドモン
+> 「……奴なら暗い顔して
+>  うろつきまわってたようだぞ」
+“…Tên đó có vẻ đang đi loanh quanh với vẻ mặt u ám.”
+
+@22130 Amuro · アムロ
+> 「そうか……。ドモン、すまないな。君には
+>  その……別の目的があったというのに」
+"Thật sự...Domeng, tôi rất xin lỗi. Anh có...mục đích khác."
+
+@22131 Domon · ドモン
+> 「まったくだ。だが、この程度のことで
+>  やられてしまうならば、
+"Không. Tuy nhiên, nếu thứ nhỏ bé này có thể đánh bại tôi,
+---
+>  しょせんは俺もその程度でしか
+>  なかったということだ。それに……
+Sau tất cả, đó là tất cả những gì tôi có thể làm. Bên cạnh đó...
+---
+>  奴の手がかりがない以上は、やはり
+>  あんたたちに頼るしかないのも
+Vì tôi không thể tìm ra manh mối nào về tên đó nên giờ tôi chỉ có thể trông cậy vào bạn.
+---
+>  また事実。気にしてもらう
+>  必要はない」
+Điều này cũng đúng. Đừng để nó trong lòng. "
+
+@22132 Ark · アーク（按段落 3DD1）
+> (帝国の……大部隊……
+>  これで、終わってしまうのか?
+(Đội quân đông đảo của đế quốc...có phải bây giờ họ sắp kết thúc rồi không?
+---
+>  俺は……なんにもできずに……
+>  俺は……)
+Tôi...không thể làm gì được...tôi...)
+
+@22133 Lera · レラ
+> 「あっ……
+"À...
+---
+>  なんだ、あんたか。
+>  機体の整備はやんなくてもいいの?」
+Cái gì, là bạn. Cơ thể không cần phải được phục hồi sao? "
+
+@22134
+> *  レラと話をする
+> *  レラを艦から降ろそうとする
+> *  無視する
+* * Nói chuyện với Layla
+* * Cố gắng đưa Layla ra khỏi tàu
+* * phớt lờ cô ấy
+
+@22135 Ark · アーク（按段落 3DD1）
+> 「……お前こそ、
+>  こんなところで何やってんだよ」
+“…Anh vẫn đang nói về tôi, anh đang làm gì ở đây vậy?”
+
+@22136 Lera · レラ
+> 「別に。ただの休憩。…………さすがに
+>  今度はダメかもしんないんでしょ?」
+"Không có gì, tôi chỉ đang nghỉ ngơi thôi, lần này sợ thật sự không nhịn được phải không?"
+
+@22137 Ark · アーク（按段落 3DD1）
+> 「……ああ。お前はいいのかよ、それで。
+>  まだ降ろしてもらえるんだろ」
+"...Vâng. Bạn có sẵn lòng không? Bây giờ có lẽ đã quá muộn để xuống tàu."
+
+@22138 Lera · レラ
+> 「なんだよ今さら。アタシはずっと、ずっと
+>  戦ってきたんだ。あんたよりも長い
+“Tại sao bây giờ anh lại nói đến chuyện này? Tôi đã chiến đấu suốt thời gian qua và tôi có thể chiến đấu giỏi hơn anh.
+---
+>  間ね。何度か捕まって、そのたびに
+>  逃げ出して。撃たれたことだってある」
+Còn lâu nữa. Anh ta bị bắt nhiều lần, lần nào anh ta cũng trốn thoát và bị bắn. "
+
+@22139 Ark · アーク（按段落 3DD1）
+> 「……すごいな……」
+"...Nó thực sự tuyệt vời..."
+
+@22140 Lera · レラ
+> 「なにがさ」
+"Có gì tuyệt vời về nó?"
+
+@22141 Ark · アーク（按段落 3DD1）
+> 「お前みたいのが、そこまでできるって
+>  ことがさ」
+“Người như anh thực sự có thể tiến xa đến mức này.”
+
+@22142 Lera · レラ
+> 「強くなれば……力があれば……戦って
+>  さえいれば……誇りをもって生きて
+"Miễn là bạn trở nên mạnh mẽ hơn...miễn là bạn có sức mạnh...miễn là bạn tiếp tục chiến đấu...bạn có thể sống với niềm tự hào.
+---
+>  いける。……それで死ぬなら……きっと
+>  後悔しないですむから」
+...Cho dù tôi có chết vì chuyện này...tôi chắc chắn sẽ không hối hận. "
+
+@22143 Ark · アーク（按段落 3DD1）
+> 「俺は……恐いよ。やっぱり、死にたく
+>  はない。だってそうだろう? 死んだら
+"Tôi... sợ. Dù sao thì tôi vẫn không muốn chết. Phải không? Người ta chết,
+---
+>  何にも……何にもならないじゃないか」
+Chỉ là... không có gì. "
+
+@22144 Lera · レラ
+> 「じゃあ、あんたはなんで戦ってるのさ?」
+“Vậy ngươi đang chiến đấu vì cái gì?”
+
+@22145 Ark · アーク（按段落 3DD1）
+> 「他に、他にはどうしようもなかったんだ
+>  ……あの時は……」
+"Tôi không còn... con đường nào khác để đi... vào thời điểm đó..."
+
+@22146 Lera · レラ
+> 「なら、なんで今までずっと戦って
+>  きたんだよ? とっととやめればよかった
+“Vậy tại sao cậu lại chiến đấu cho đến bây giờ? Sẽ tốt hơn nếu cậu bỏ cuộc sớm hơn.
+---
+>  じゃないか。それとも、こないだの
+>  あいつのせい?」
+Hay là vì anh chàng lần trước? "
+
+@22147 Ark · アーク（按段落 3DD1）
+> 「あぁ……最初はあいつが憎かった。
+>  ……違うな、たぶん、やめてもどうやって
+"Ừ...Lúc đầu tôi ghét anh chàng đó. ...Không, có lẽ vì ngay cả khi tôi dừng lại, tôi cũng không biết
+---
+>  生きていけばいいのか、わからなかった
+>  せいだ」
+Làm thế nào để sống sót. "
+
+@22148 Lera · レラ
+> 「それで今まで戦ってきて、今だって
+>  恐いって言ってるのに、逃げようとは
+“Ngươi vẫn như vậy chiến đấu cho đến bây giờ, ngươi còn nói sợ hãi, nhưng là còn chưa nghĩ tới.
+---
+>  思わないんだろ?」
+Chạy trốn? "
+
+@22149 Ark · アーク（按段落 3DD1）
+> 「逃げるなんて……できるわけない
+>  じゃないか」
+"Trốn... làm sao tôi có thể trốn được?"
+
+@22150 Lera · レラ
+> 「もう、はっきりしなよ! 覚悟も決め
+>  ずに、いつまでもうだうだやってんのは
+“Xin anh nhẹ nhàng hơn một chút! Lòng em chưa nguôi, em đã mài giũa và rên rỉ.
+---
+>  みっともないよ!!」
+Có đáng xấu hổ không? ! "
+
+@22151 Ark · アーク（按段落 3DD1）
+> 「お前にそんなことをいわれたくない!」
+"Không đến lượt anh nói điều này!"
+
+@22152 Lera · レラ
+> 「考えるのは後にしなよ。もうそんな
+>  状況じゃないのは、あんただって
+"Hãy suy nghĩ về điều đó sau. Bây giờ không phải là lúc để nghĩ về điều này.
+---
+>  わかってるはずだろ!?」
+Bạn biết điều đó trong trái tim của bạn, phải không? ? "
+
+@22153 Ark · アーク（按段落 3DD1）
+> 「……ちぇっ。なんでお前に説教され
+>  なきゃならないんだよ、まったく」
+"...Tch. Tại sao cậu phải dạy tôi một bài học? Thật đấy."
+
+@22154 Lera · レラ
+> 「なら、言われないようにしてみせなよ!
+>  ホントは……アタシだってあんたみたいな
+“Vậy thì hãy làm gì đó và đừng để ai nói cho bạn biết! Thực ra… tôi cũng vậy, nếu có người như bạn
+---
+>  力があれば……」
+Quyền lực..."
+
+@22155 Ark · アーク（按段落 3DD1）
+> 「お前……」
+"Bạn..."
+
+@22156 Ark · アーク（按段落 3DD1）
+> 「……ッ! 敵襲!? 早すぎるッ!!」
+"...! Kẻ thù tấn công!? Quá nhanh!!"
+
+@22157 Ark · アーク（按段落 3DD1）
+> 「お前……まだいたのか。今からでも
+>  遅くないんだろ、艦を降りろよ」
+"Ngươi... vẫn còn ở đó, cũng không muộn, chúng ta xuống thuyền đi."
+
+@22158 Lera · レラ
+> 「なんでさ!?」
+"Tại sao!?"
+
+@22159 Ark · アーク（按段落 3DD1）
+> 「今回は……ダメかもしれない。
+>  こんなところで死ぬのを待つことはない」
+"Lần này sợ rằng mình không sống nổi, không cần phải đợi chết ở một nơi như thế này."
+
+@22160 Lera · レラ
+> 「……自分が恐いからって、
+>  勝手なこというな!」
+“…Đừng nói nhảm ở đây chỉ vì sợ!”
+
+@22161 Ark · アーク（按段落 3DD1）
+> 「な……なんだよ! 人が親切でいって
+>  やってんのに! パイロットでもないから
+"Cái...cái gì! Tôi đang nói với bạn điều này một cách tử tế! Ý tôi là, bạn không phải là phi công.
+---
+>  ムダ死にすることはないって、
+>  いってるんだよ、俺は!」
+Không cần thiết phải chết vô ích! "
+
+@22162 Lera · レラ
+> 「アタシがパイロットじゃないのが
+>  そんなに悪いのかよ!
+"Phi công chẳng phải kém cỏi sao?
+---
+>  大きなお世話だ! そんなことより
+>  自分の心配してなッ!」
+Tránh xa việc kinh doanh của riêng bạn! Nếu bạn có thời gian để lo lắng về điều này, hãy lo lắng cho bản thân bạn trước! "
+
+@22163 Ark · アーク（按段落 3DD1）
+> 「こいつッ! ……」
+"Anh bạn!..."
+
+@22164 Ark · アーク（按段落 3DD1）
+> 「……ッ! 敵襲!? 早すぎるッ!!」
+"...! Kẻ thù tấn công!? Quá nhanh!!"
+
+@22165 Lera · レラ
+> 「遅かったみたいだね。
+>  ほら、さっさと行きなよ!」
+"Xem ra đã muộn rồi, sao còn lảng vảng nữa? Đi nhanh đi!"
+
+@22166 Ark · アーク（按段落 3DD1）
+> 「わかってる!」
+"Tôi biết!"
+
+@22167 Ark · アーク（按段落 3DD1）
+> 「…………」
+“…………”
+
+@22168 Lera · レラ
+> 「……なんだよ、あったまくるなぁ!
+>  あんたになんか話しかけた
+"...Anh đang làm gì vậy? Tôi giận quá! Thực ra tôi đến đây để nói chuyện với anh,
+---
+>  アタシがバカだったよ!」
+Tôi thật là ngu ngốc! "
+
+@22169 Ark · アーク（按段落 3DD1）
+> 「……なにやってんだ……俺は……」
+"...Tôi đang làm gì vậy...tôi..."
+
+@22170 Ark · アーク（按段落 3DD1）
+> 「……ッ! 敵襲!? 早すぎるッ!!」
+"...! Kẻ thù tấn công!? Quá nhanh!!"
+
+@22171 Amuro · アムロ
+> 「そういえば、
+>  {HeroNick}はどうしたんだ?」
+"Nhắc mới nhớ, người {HeroNick} đâu rồi?"
+
+@22172 Duo · デュオ
+> 「俺は見てないぜ」
+"Tôi không nhìn thấy nó."
+
+@22173 Domon · ドモン
+> 「さっきレインと話をしていたようだがな。
+>  あいつは、いいファイターだ
+“Hình như vừa rồi tôi đang nói chuyện với Ling. Anh chàng đó là một chiến binh xuất sắc.
+---
+>  心配することもないだろう」
+Không cần phải lo lắng. "
+
+@22174 Amuro · アムロ
+> 「そうだな…………ドモン、君はいいのか?
+>  残ってくれるのはありがたいが
+"Ừ... Domeng, cậu có thực sự ổn không? Tôi rất biết ơn vì cậu đã sẵn lòng ở lại.
+---
+>  君には別の目的があったのだろう?」
+Nhưng bạn không có mục đích khác sao? "
+
+@22175 Domon · ドモン
+> 「いいわけないだろう。だが、
+>  この程度のことでやられてしまうならば
+“Không thành vấn đề bằng cách nào. Tuy nhiên, nếu thứ nhỏ bé này có thể đánh bại tôi,
+---
+>  しょせんは俺もその程度でしか
+>  なかったということだ。それに……
+Sau tất cả, đó là tất cả những gì tôi có thể làm. Bên cạnh đó...
+---
+>  奴の手がかりがない以上は、やはり
+>  あんたたちに頼るしかないのも
+Vì tôi không thể tìm ra manh mối nào về tên đó nên giờ tôi chỉ có thể trông cậy vào bạn.
+---
+>  また事実。気にしてもらう
+>  必要はない」
+Điều này cũng đúng. Đừng bận tâm với tôi. "
+
+@22176 Selain · セレイン（按段落 3DD2）
+> (帝国の……大部隊か……。
+>  いずれこうなることは
+(Đế quốc...quân đội đông đảo...việc này sớm hay muộn cũng sẽ xảy ra,
+---
+>  予想していたことだ。
+>  やれるだけやってみるさ)
+Tôi đã mong đợi nó. Cứ làm hết sức mình đi. )
+
+@22177 Lera · レラ
+> 「あっ……
+"À...
+---
+>  なんだ、あんたか。
+>  機体の整備はやんなくてもいいの?」
+Cái gì, là bạn. Thân thể không cần sửa chữa sao? "
+
+@22178
+> *  レラと話をする
+> *  レラを艦から降ろそうとする
+> *  無視する
+* * Nói chuyện với Layla
+* * Cố gắng đưa Layla ra khỏi tàu
+* * phớt lờ cô ấy
+
+@22179 Selain · セレイン（按段落 3DD2）
+> 「お前こそこんなところで
+>  何をやっている?」
+"Bạn đang làm gì ở một nơi như thế này? "
+
+@22180 Lera · レラ
+> 「別に……ただの休憩だよ。
+>  ……さすがに今度はヤバイんでしょ?」
+“Không có gì…chỉ là nghỉ ngơi thôi. ...Lần này nó thực sự bị treo à? "
+
+@22181 Selain · セレイン（按段落 3DD2）
+> 「そうだ。艦を降りたいのか?」
+"Đúng vậy. Bạn có muốn xuống tàu không? "
+
+@22182 Lera · レラ
+> 「バ……バカにしないでよ! アタシだって
+>  ずっとやつらと戦って来たんだ
+"Đừng... đừng đánh giá thấp mọi người! Tôi đã chiến đấu với những kẻ đó mọi lúc.
+---
+>  死にかけたことだって
+>  一度や二度じゃない
+Tôi đã đi qua cổng địa ngục hơn một hoặc hai lần.
+---
+>  こんな程度のことで
+>  逃げ出したりするもんか!!」
+Tôi sẽ không chạy trốn chỉ vì điều này! ! "
+
+@22183 Selain · セレイン（按段落 3DD2）
+> 「そうか……
+>  お前はなぜそうまでして戦う?」
+"Thật sao... tại sao cậu lại phải chiến đấu như thế này? "
+
+@22184 Lera · レラ
+> 「その言葉、
+>  あんたにそっくり返してあげるよ
+“Tôi sẽ trả lại câu này cho bạn như cũ.
+---
+>  この時代に、それ以外にどれだけ
+>  ましな生き方があるっていうのさ」
+Ở thời đại này, còn cách nào tử tế hơn để sống? "
+
+@22185 Selain · セレイン（按段落 3DD2）
+> 「ああ……そうだな。確かに、お前の
+>  いう通りだ。つまらないことをいったな」
+"Ừm...ừ. Chính xác những gì bạn nói. Chính tôi là người nói quá nhiều. "
+
+@22186 Lera · レラ
+> 「……いいよ、別に。それよりも……」
+“…Quên đi, không có gì đâu. So với cái này..."
+
+@22187 Lera · レラ
+> 「敵? もう来たの!?」
+"Kẻ thù? Đã ở đây rồi! ? "
+
+@22188 Selain · セレイン（按段落 3DD2）
+> 「予想よりも早かったな。
+>  それだけ連中も本気だということだ
+“Sớm hơn dự kiến. Nó cho thấy những người đó là nghiêm túc.
+---
+>  お前も早く機銃座へ行け」
+Bạn cũng hãy đến chỗ gắn súng máy một cách nhanh chóng. "
+
+@22189 Lera · レラ
+> 「わかってるよ!!」
+"Tôi biết! ! "
+
+@22190 Selain · セレイン（按段落 3DD2）
+> 「お前か……まだいたとは思わなかった」
+"Là anh... Tôi không ngờ anh vẫn còn ở đây. "
+
+@22191 Lera · レラ
+> 「なんだよ、それ。いちゃ悪いっての!?」
+"Anh đang nói gì thế? Tôi đang làm phiền anh ở đây à!?"
+
+@22192 Selain · セレイン（按段落 3DD2）
+> 「いや。しかし今度の戦いが最後に
+>  なるかもしれん。一緒にここで
+“Không, chỉ là trận chiến này có thể là trận chiến cuối cùng, không cần phải chết ở đây với chúng ta.
+---
+>  死ぬこともなかろう。艦を降りろ。
+>  今ならばまだ間に合うだろう」
+Xuống tàu đi. Vẫn chưa quá muộn. "
+
+@22193 Lera · レラ
+> 「じょ、冗談じゃないよ!
+>  今さらそんなこといわれて
+"Bạn đang đùa tôi à! Bạn đã không nói điều này với tôi cho đến bây giờ,
+---
+>  はいそうですかって降りられるもんか!
+>  アタシだって、ずっと、あんたたちと
+Tôi có thể nói 'có' và xuống tàu được không! Tôi đã ở bên bạn từ rất lâu rồi
+---
+>  会う前からずっと奴らと戦って
+>  きたんだ。今さら……
+Tôi đã chiến đấu với những kẻ đó trước khi chúng ta gặp nhau. Cho đến nay...
+---
+>  今さら、危険だからって
+>  逃げたりできるわけないじゃないか!!
+Lúc này, sao có thể chỉ vì nguy hiểm mà bỏ chạy! !
+---
+>  アタシがパイロットじゃないからって
+>  そんなこというなんて、きたないよ!」
+Thật đáng khinh khi nói những điều như thế chỉ vì tôi không phải là phi công! "
+
+@22194 Selain · セレイン（按段落 3DD2）
+> 「そうか、お前…………すまなかったな、
+>  そういうつもりではなかったんだが
+"Thật sự, cậu... Xin lỗi, tôi không có ý đó.
+---
+>  覚悟があるならそれもよかろう」
+Bây giờ bạn đã quyết định rồi thì ổn thôi. "
+
+@22195 Lera · レラ
+> 「…………」
+“…………”
+
+@22196 Lera · レラ
+> 「敵? もう来たの!?」
+"Kẻ thù? Đã ở đây rồi! ? "
+
+@22197 Selain · セレイン（按段落 3DD2）
+> 「予想よりも早かったな。
+>  それだけ連中も本気だということだ
+“Sớm hơn dự kiến. Nó cho thấy những người đó là nghiêm túc.
+---
+>  お前も早く機銃座へ行け」
+Bạn cũng hãy đến chỗ gắn súng máy một cách nhanh chóng. "
+
+@22198 Lera · レラ
+> 「わかってるよ!!」
+"Tôi biết! ! "
+
+@22199 Selain · セレイン（按段落 3DD2）
+> 「…………」
+“…………”
+
+@22200 Lera · レラ
+> 「……なんだよ、あったまくるなぁ!
+>  あんたになんか話しかけた
+"...Anh đang làm gì vậy? Tôi giận quá! Thực ra tôi đến đây để nói chuyện với anh,
+---
+>  アタシがバカだったよ!」
+Tôi thật là ngu ngốc! "
+
+@22201 Selain · セレイン（按段落 3DD2）
+> 「もの好きな奴だ……
+>  さっさと降りてしまえばいいものを
+"Thật là kỳ lạ... Ước gì tôi có thể xuống tàu càng sớm càng tốt.
+---
+>  こんな戦いにつきあう必要は
+>  ないだろうに」
+Tại sao bạn nên đi cùng chúng tôi để chiến đấu loại trận chiến này? "
+
+@22202 Selain · セレイン（按段落 3DD2）
+> 「敵か……予想よりも早かったな」
+"Kẻ thù... nhanh hơn dự kiến."
+
+@22203 Duo · デュオ
+> 「ま、確かに、それが普通かもな。
+>  かなり厳しいってのは
+"Ừ, đúng vậy. Đây là chuyện bình thường. Trận chiến này khó đến mức nào?
+---
+>  わかりきってることだもんなぁ」
+Đó là điều hiển nhiên đối với mọi người. "
+
+@22204 Amuro · アムロ
+> 「そういうことだ。しかしドモン、
+>  君はよかったのか?
+"Đúng vậy. Nhưng Domon, điều đó có thực sự ổn với bạn không?
+---
+>  いてくれるのはありがたいが、君にはその
+>  ……別の目的があったのだろう?」
+Tôi rất biết ơn vì bạn đã sẵn lòng ở lại, nhưng bạn không có... mục đích khác sao? "
+
+@22205 Domon · ドモン
+> 「いいわけはないだろう。だが、
+>  この程度のことでやられてしまうならば
+“Không thành vấn đề bằng cách nào. Tuy nhiên, nếu thứ nhỏ bé này có thể đánh bại tôi,
+---
+>  しょせんは俺もその程度でしか
+>  なかったということだ」
+Sau tất cả, đó là tất cả những gì tôi có thể làm. "
+
+@22206 Brad · ブラッド（按段落 3DD3）
+> 「俺もその意見には賛成だな。
+>  ここで終わる程度なら
+"Tôi cũng đồng ý. Nếu bạn ngã ở đây,
+---
+>  地球圏の解放など
+>  できるはずもないだろう」
+Và nói về việc giải phóng quả cầu trái đất. "
+
+@22207 Duo · デュオ
+> 「ちょっと極端すぎるような気も
+>  するけど、間違っちゃいないと思うぜ」
+“Mặc dù có chút cực đoan nhưng cũng không sai. "
+
+@22208 Domon · ドモン
+> 「ああ。それに……奴の手がかりが
+>  ない以上は、やはりあんたたちに
+"Ừm. Ngoài ra...vì chúng tôi không thể tìm thấy bất kỳ manh mối nào về gã đó nên chúng tôi chỉ có thể dựa vào
+---
+>  頼るしかないのもまた事実。
+>  気にしてもらう必要はない」
+Các bạn ơi, điều này cũng đúng đấy. Đừng bận tâm với tôi. "
+
+@22209 Brad · ブラッド（按段落 3DD3）
+> 「とかいって、本当はレインさんに
+>  そういわれたんだろ?」
+“Nghe thì hay đấy, nhưng thực ra là cô Ling đã thuyết phục cậu như vậy phải không? "
+
+@22210 Domon · ドモン
+> 「……{HeroNick}、盗み聞きするとは
+>  ファイターの風上にもおけん奴だな」
+"...{HeroNick}, nghe lén cuộc trò chuyện của người khác thực sự là một điều sỉ nhục đối với một chiến binh. "
+
+@22211 Brad · ブラッド（按段落 3DD3）
+> 「なんだやっぱりそうだったのか」
+"Cái gì, quả thực là như thế này. "
+
+@22212 Domon · ドモン
+> 「なに?」
+"Cái gì? "
+
+@22213 Brad · ブラッド（按段落 3DD3）
+> 「俺はそうじゃないかって
+>  思っただけだぜ?
+"Tôi chỉ đoán thôi à?
+---
+>  あんまりレインさんに面倒かけるなよな」
+Đừng tiếp tục gây rắc rối cho cô Ling nữa. "
+
+@22214 Domon · ドモン
+> 「大きなお世話だ。
+>  レインは俺のパートナーだ
+“Hãy lo việc của mình đi. Ling là đối tác của tôi,
+---
+>  お前にいわれるすじあいじゃない」
+Không đến lượt bạn đưa ra những nhận xét vô trách nhiệm. "
+
+@22215 Brad · ブラッド（按段落 3DD3）
+> 「いいかドモン、知らないようだから
+>  教えてやるが、レインさんは
+“Đa Mông nghe đây, thấy cô hình như không biết, tôi nói cho cô biết, cô Ling.
+---
+>  アストナージさんと並んで、メカニックの
+>  要だし、医療でだって
+Giống như ông Astornagyi, ông ấy là trụ cột của máy móc và y tế của chúng tôi
+---
+>  大事な人なんだぞ」
+Cô ấy cũng không thể thiếu. "
+
+@22216 Amuro · アムロ
+> 「もうよせ、ふたりとも。いつ敵がくるかも
+>  わからないというのに……」
+"Được rồi, hai người đừng nói nữa. Kẻ thù có thể đến bất cứ lúc nào..."
+
+@22217 Brad · ブラッド（按段落 3DD3）
+> 「もう来やがったってのか!?
+>  早すぎるぜ!!」
+"Bạn đã đến đây chưa!? Nhanh quá!!"
+
+@22218 Duo · デュオ
+> 「さぁて、いっちょ派手に
+>  あばれてやりますか」
+"Được rồi, hãy để tôi làm ầm ĩ lên."
+
+@22219 Duo · デュオ
+> 「ま、確かに、それが普通かもな。
+>  かなり厳しいってのは
+"Ừ, đúng vậy. Đây là chuyện bình thường. Trận chiến này khó đến mức nào?
+---
+>  わかりきってることだもんなぁ」
+Đó là điều hiển nhiên đối với mọi người. "
+
+@22220 Amuro · アムロ
+> 「そういうことだ。しかしドモン、
+>  君はよかったのか?
+"Đúng vậy. Nhưng Domon, điều đó có thực sự ổn với bạn không?
+---
+>  いてくれるのはありがたいが、君にはその
+>  ……別の目的があったのだろう?」
+Tôi rất biết ơn vì bạn đã sẵn lòng ở lại, nhưng bạn không có... mục đích khác sao? "
+
+@22221 Domon · ドモン
+> 「いいわけはないだろう。だが、
+>  この程度のことでやられてしまうならば
+“Không thành vấn đề bằng cách nào. Tuy nhiên, nếu thứ nhỏ bé này có thể đánh bại tôi,
+---
+>  しょせんは俺もその程度でしか
+>  なかったということだ。それに……
+Sau tất cả, đó là tất cả những gì tôi có thể làm. Bên cạnh đó...
+---
+>  奴の手がかりがない以上は、やはり
+>  あんたたちに頼るしかないのも
+Vì chúng tôi không thể tìm thấy bất kỳ manh mối nào về anh chàng đó nên chúng tôi chỉ có thể dựa vào
+---
+>  また事実。気にしてもらう
+>  必要はない」
+Các bạn ơi, điều này cũng đúng đấy. Đừng bận tâm với tôi. "
+
+@22222 Amuro · アムロ
+> 「そういってもらえると助かる」
+"Ngươi nói như vậy, ta liền cảm thấy nhẹ nhõm."
+
+@22223 Manami · マナミ（按段落 3DD4）
+> 「負けられない……負けるわけには
+>  いかないのね、この戦いは」
+"Chúng ta không thể thua... trận chiến này chúng ta không thể thua."
+
+@22224 Amuro · アムロ
+> 「ああ……どこまで持ちこたえられるか
+>  わからないが
+"Hmm... Tôi không biết mình có thể chịu đựng được bao lâu.
+---
+>  やれるところまでやるしかない。
+>  それでだめなら、俺たちは……」
+Nhưng chỉ cần cố gắng hết sức mình. Nếu điều đó không hiệu quả, chúng ta sẽ…”
+
+@22225 Lawrence · ローレンス
+> 「弱気は禁物ですぞ、アムロ様」
+“Đừng nản lòng, anh Amuro.”
+
+@22226 Amuro · アムロ
+> 「すまない、ローレンス」
+"Xin lỗi, Lawrence."
+
+@22227 Lawrence · ローレンス
+> 「いえいえ。皆様ご存じですかな、
+>  かの1年戦争のおり
+"Ở đâu. Bạn đã bao giờ nghe nói về nó chưa? Trong Chiến tranh Một Năm,
+---
+>  異星人の侵略に対抗して
+>  最後まで戦い、そして……
+Có một chàng trai trẻ vô danh đã chiến đấu đến cùng để chống lại cuộc xâm lược của người ngoài hành tinh. Cuối cùng...
+---
+>  公開処刑された、名もなき
+>  青年の残した言葉を」
+đã bị hành quyết công khai. Anh đã để lại một câu như vậy. "
+
+@22228 Simone · シモーヌ
+> 「全身全霊をかけて望みさえすれば
+>  希望は常に我々とともにある
+“Chỉ cần chúng ta cố gắng hết sức để hy vọng, hy vọng sẽ luôn ở bên chúng ta——
+---
+>  だったかしらね」
+Thế thôi. "
+
+@22229 Lawrence · ローレンス
+> 「さようです。彼の言葉通り、
+>  あれから3年たった今も私どもが
+"Chính xác. Như anh ấy đã nói, hôm nay ba năm sau, chúng tôi
+---
+>  こうして再び戦っています。
+>  希望は常にあるのです」
+Trở lại cuộc chiến như thế này. Hy vọng luôn ở đó. "
+
+@22230 Manami · マナミ（按段落 3DD4）
+> 「敵? もう来たの!?」
+"Kẻ thù? Họ đã ở đây rồi à!?"
+
+@22231 Duo · デュオ
+> 「ちょっと早すぎるぜ、まったく」
+"Thật sự là quá nhanh."
+
+@22232 Lawrence · ローレンス
+> 「まいりましょう、皆様方」
+"Đi thôi mọi người."
+
+@22233 Bright · ブライト
+> 「総員第一戦闘配置!
+>  敵の数は!?」
+"Mọi người tiến vào trận hình đầu tiên! Kẻ địch số lượng ở đâu!?"
+
+@22234 Beltorchika · ベルトーチカ
+> 「すごい数です。計測できません!」
+"Đếm nhiều quá!"
+
+@22235 Ginrei · 銀鈴
+> 「ブライト艦長、あのことを皆さんに
+>  お伝えしなくてよかったのですか?」
+"Đội trưởng Bright, anh không cần nói cho mọi người biết chuyện đó sao?"
+
+@22236 Bright · ブライト
+> 「かまわん。成功すれば
+>  それにこしたことはないが、
+"Không cần. Tất nhiên là thành công là tốt nhất.
+---
+>  不確かな情報はあてにできんよ。
+>  パイロット各員、出撃を急げ!」
+Nhưng bạn không thể dựa vào thông tin mà bạn không chắc chắn. Tất cả phi công, hãy tấn công nhanh chóng! "
+
+@22237 Quatre · カトル
+> 「デュオ、あれを!
+>  みんな来てくれたんだ!」
+"Dior, nhìn kìa! Mọi người đều ở đây!"
+
+@22238 Duo · デュオ
+> 「こんな状況じゃ、あんまり喜べないぜ」
+"Tôi không thể hài lòng về tình huống này ngay bây giờ."
+
+@22239 Quatre · カトル
+> 「ヒイロ! トロワ! 五飛も!
+>  みんな来てくれたんですね!」
+"Anh hùng! Trowa! Và Wu Fei! Mọi người đều ở đây!"
+
+@22240 Trowa · トロワ
+> 「気にするな。戦略的に考えて
+>  現状でもっとも
+"Đừng lo lắng. Tôi chỉ chọn chiến lược hiện tại thôi."
+---
+>  生存確率の高い行動を
+>  選んだだけのことだ」
+Đó chỉ là hành động có xác suất sống sót cao nhất. "
+
+@22241 Heero · ヒイロ
+> 「ああ……そういうことだ」
+"À... vậy thôi."
+
+@22242 Wufei · 五飛
+> 「正しい者は強くなくてはならない!
+>  お前たちが正しいというのなら
+"Người chính trực phải mạnh mẽ! Nếu bạn nghĩ mình chính trực,
+---
+>  この状況をくつがえしてみせろ!」
+Hãy xoay chuyển tình thế này và chỉ cho tôi xem! "
+
+@22243 Duo · デュオ
+> 「まったく、どいつもこいつも……」
+"Thật sự thì mọi người đều như thế này..."
+
+@22244 Quattro · クワトロ
+> 「協力してくれるのならば助かる。
+>  ……敵も来たようだな」
+"Nếu như ngươi chịu ra tay thì sẽ giúp ích rất nhiều... Xem ra kẻ địch cũng đã tới."
+
+@22245 Giura · ギウラ
+> 「バカな奴らめ。攻撃を開始せよ。
+>  ここを奴らの墓場にしてやれ!!」
+"Một lũ ngu ngốc. Bắt đầu tấn công! Hãy coi đây là nơi chôn cất chúng!!"
+
+@22246 Giura · ギウラ
+> 「ル、ル・カイン閣下アァァァーッ!!」
+"Chúa ơi, Lu, Lu Kane, ahhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhh!"
+
+@22247 Zechs · ゼクス
+> 「そうか、あの部隊か。残念だが
+>  これで終わりにしなければならん」
+"Thật sự là cái kia quân đội, đáng tiếc, nhưng phải kết thúc ở đây."
+
+@22248 Noin · ノイン
+> 「しかしゼクス、トレーズ閣下は……」
+“Nhưng Jacks, Chúa Telles…”
+
+@22249 Zechs · ゼクス
+> 「この状況では
+>  そうもいってられんだろう、ノイン」
+"Trong tình huống này, bạn không thể quan tâm nhiều như vậy được, Nuoyin."
+
+@22250 Jerid · ジェリド
+> 「何をごちゃごちゃやってやがる。
+>  俺は先に行かせてもらうぜ
+"Bạn đang lẩm bẩm gì ở đó vậy? Tôi lên trước,
+---
+>  奴らは俺が仕留めてやる!」
+Tôi sẽ chăm sóc những kẻ đó! "
+
+@22251 Zechs · ゼクス
+> 「クッ……これが私の甘さか……」
+"Hmm...đây có phải là sự vô tội của tôi không..."
+
+@22252 Jerid · ジェリド
+> 「なぜだ!? なぜ俺は奴らに勝てない
+>  んだッッ!! クソォォォォーッ!」
+"Tại sao!? Tại sao tôi không thể đánh bại những kẻ đó!! Chết tiệt!"
+
+@22253 Dark General · 暗黒大将軍
+> 「うわーははははぁッ!
+>  そろそろ限界が近づいてきたようだな
+"Wow - hahahaha! Có vẻ như bạn đã gần đạt đến giới hạn của mình rồi.
+---
+>  我がミケーネ闇の軍団が
+>  トドメをさしてくれるわ!!」
+Hãy để tôi, Đội quân bóng tối Mycenaean, đưa bạn lên đường! ! "
+
+@22254 Dark General · 暗黒大将軍
+> 「おのれぇ……覚えておれ!!」
+"Chết tiệt... nhớ lấy nó!!"
+
+@22255 Ryoma · リョウ
+> 「ふう……どうにか持ちこたえたようだな」
+"Huh... Cuối cùng tôi cũng trụ được."
+
+@22256 Amuro · アムロ
+> 「いや、まだだ。気を抜くな!」
+"Không, nó vẫn chưa kết thúc. Đừng thư giãn!"
+
+@22257 Anna · アンナ
+> 「気をつけてください。敵の
+>  第2波が接近しています!!
+"Xin hãy cẩn thận. Làn sóng kẻ thù thứ hai đang đến gần!!
+---
+>  ダメ! 完全に包囲されているわ!」
+Không! Chúng ta đang bị bao vây! "
+
+@22258 Shinobu · 忍
+> 「くそったれ! なんてしつこい奴らだ」
+"Chết tiệt! Những kẻ này thực sự khó chịu."
+
+@22259 Le Cain · ル・カイン
+> 「見ろ、ロアン。すべては予定通りに
+>  進行している」
+“Nhìn này, Roan. Mọi thứ đang diễn ra theo đúng kế hoạch.”
+
+@22260 Roanne · ロアン
+> 「…………」
+“…………”
+
+@22261 Le Cain · ル・カイン
+> 「フフフ、どうやら先が見えたな。
+>  もはやこの戦況はくつがえらぬ
+"Ha ha, xem ra thắng bại đã phân định, trận chiến này cục diện đã không thể xoay chuyển được nữa.
+---
+>  ロアン・デミトリッヒ」
+Roan Dmitrich. "
+
+@22262 Roanne · ロアン
+> 「はい」
+"Ừ. "
+
+@22263 Le Cain · ル・カイン
+> 「あとはお前にまかせた。
+>  私は休んで果報を待つとしよう
+“Việc còn lại tùy anh, tôi đi nghỉ ngơi chờ tin vui.
+---
+>  ……どうしたロアン・デミトリッヒ?」
+…Có chuyện gì thế, Roan Dmitrich? "
+
+@22264 Roanne · ロアン
+> 「はっ?」
+"Hả?"
+
+@22265 Le Cain · ル・カイン
+> 「そこでは作戦の指揮はできんぞ。
+>  指揮官の席は……あそこだ」
+“Đứng ở đó không thể chỉ huy trận chiến. Vị trí chỉ huy…ở đằng kia.”
+
+@22266 Roanne · ロアン
+> 「……閣下」
+"...Thưa ngài."
+
+@22267 Le Cain · ル・カイン
+> 「選ばれた者にとまどいは不要だ。
+>  ただ私の期待に応えればよい」
+"Người được chọn không cần phải do dự. Tất cả những gì cậu phải làm là đáp ứng mong đợi của tôi."
+
+@22268 Roanne · ロアン
+> 「……はい」
+"...Vâng."
+
+@22269 Arthur · アーサー
+> (ロアン……)
+(Lạc An...)
+
+@22270 Grados Soldier · グラドス兵
+> 「司令、いつまで待つおつもりです。
+>  このままでは奴らに逃げる余裕を
+"Chỉ huy, ngài định đợi bao lâu? Nếu cứ tiếp tục như vậy, sẽ chỉ còn chỗ cho những kẻ đó trốn thoát.
+---
+>  与えることになります。司令、
+>  今すぐ総攻撃許可を!」
+Chỉ huy, xin vui lòng chấp thuận cuộc tổng tấn công ngay lập tức! "
+
+@22271 Roanne · ロアン
+> 「………………」
+“…………”
+
+@22272 Grados Soldier · グラドス兵
+> 「司令!! 攻撃許可を!!」
+"Chỉ huy!! Xin hãy cho phép tấn công!!"
+
+@22273 Roanne · ロアン
+> 「……全軍に撤退命令を
+>  出したまえ!」
+“…Ra lệnh cho toàn quân rút lui!”
+
+@22274 Grados Soldier · グラドス兵
+> 「な……なんだと!? 貴様やはり!!」
+"Cái...cái gì!? Anh thực sự như thế này!!"
+
+@22275 Roanne · ロアン
+> 「諸君、動くな!
+>  この本部タワー内に
+“Mọi người, đừng di chuyển! Trong tòa tháp trụ sở này,
+---
+>  強力な爆弾がしかけてある。
+>  タワーごと諸君らを地上から
+Chứa đầy những quả bom cực mạnh, đủ sức hạ gục bạn bằng toàn bộ tòa tháp
+---
+>  消し去るのに十分な量だ。
+>  今より当本部は
+Lau nó khỏi mặt đất. Từ nay trở đi, trụ sở chính
+---
+>  地球解放戦線機構の
+>  管理下にあると心得てもらいたい」
+Nó được tiếp quản bởi tổ chức Mặt trận Giải phóng Trái đất. Xin hãy hiểu điều này. "
+
+@22276 Grados Soldier · グラドス兵
+> 「ぐ……バ、バカなッ!」
+"Ừm... làm sao, làm sao có thể!"
+
+@22277 Treize · トレーズ
+> (そうだロアン、君はそうするのが
+>  いちばん正しい
+(Đúng vậy, La An, đây là việc nên làm.
+---
+>  それでこそ歴史は
+>  よどみなく流れるのだ)
+Bằng cách này, lịch sử có thể trôi về phía trước mà không gặp bất kỳ trở ngại nào. )
+
+@22278 Lady · レディ
+> 「トレーズ様」
+“Chúa kể.”
+
+@22279 Treize · トレーズ
+> 「行くよレディ。
+>  私はここにいては殺されてしまうからね
+“Nào, Letty. Tôi sẽ bị giết nếu ở lại đây.
+---
+>  私にはまだやらなければならないことが、
+>  多く残されている」
+Tôi vẫn còn nhiều việc phải hoàn thành. "
+
+@22280 Lady · レディ
+> 「はい閣下。
+>  すでにシャトルの用意はできております」
+"Vâng, thưa ngài. Xe đưa đón đã sẵn sàng."
+
+@22281 Treize · トレーズ
+> 「第2幕がはじまった。……忙しくなる」
+“Màn 2 bắt đầu. ...Đã đến lúc bận rộn rồi.”
+
+@22282 Le Cain · ル・カイン
+> 「フ……フハハハハハッ。父を殺してまで
+>  守らんとした私の理想が、
+"Haha...hahahahaha. Tôi thậm chí còn giết cha mình để bảo vệ lý tưởng của mình.
+---
+>  まさかこのような形でくずされようとはな」
+Tôi không ngờ nó lại sụp đổ theo cách này. "
+
+@22283 Roanne · ロアン
+> 「……閣下、おわかりください。
+>  私は地球人なのです」
+"...Thưa ngài, xin hãy hiểu. Tôi đến từ Trái đất."
+
+@22284 Le Cain · ル・カイン
+> 「……このような事態となっては、
+>  アステロイドの将軍たちの介入を
+“…Bây giờ sự việc đã đến nước này, các tướng lĩnh của tiểu hành tinh đã can thiệp.
+---
+>  とめることはもはやかなわぬ。
+>  あの者どもよりも、私の理想に
+Tôi không thể dừng nó lại. Thay vì nhận lệnh từ những người đó,
+---
+>  したがっていた方が地球にとっては
+>  よかったのだがな。これで
+Làm theo lý tưởng của tôi sẽ tốt hơn nhiều cho hành tinh này. Bằng cách này,
+---
+>  再び秩序は消え去るであろう」
+Tôi sợ trật tự sẽ bị mất lần nữa. "
+
+@22285 Roanne · ロアン
+> 「ザカール!? 閣下……?」
+"Zakar!? Thưa ngài...?"
+
+@22286 Le Cain · ル・カイン
+> 「ロアン・デミトリッヒ。
+>  だまされていたとはいえ、貴様たちに
+"Roan Dmitrich. Dù bị lừa nhưng tôi đã từng
+---
+>  はかなき夢を託したのも、また事実
+>  私が帰るまでその命、あずけておこう」
+Cũng đúng là tôi giao phó cho bạn những giấc mơ vô ích của tôi. Hãy cứu lấy mạng sống của bạn cho đến khi tôi quay lại lấy nó. "
+
+@22287 Roanne · ロアン
+> 「…………閣下……」
+"...Thưa ngài..."
+
+@22288 Le Cain · ル・カイン
+> 「ロアン・デミトリッヒ!
+>  私は帰ってくるぞ、必ず!」
+"Roan Dmitrich! Chắc chắn tôi sẽ quay lại!"
+
+@22289 Alan · アラン
+> 「クッ……ばかな!
+>  なぜル・カインを逃がした!?
+"Hmm... Chết tiệt! Tại sao anh lại để Lu Kane đi!?
+---
+>  奴は親衛隊と合流して、
+>  最後の戦いに望むつもりだぞ」
+Anh ấy sẽ tham gia Đội cận vệ cho trận chiến cuối cùng! "
+
+@22290 Roanne · ロアン
+> 「そうでしょうね。
+>  しかし……僕には閣下を
+"Tôi đoán vậy. Nhưng...tôi thực sự không thể."
+---
+>  お止めすることは、できませんよ」
+Dừng lại đi bạn. "
+
+@22291 Alan · アラン
+> 「……長くそばにいれば情もうつるか。
+>  まぁいい。そのくらいは彼らが
+"...Nếu ở lại lâu, liệu cậu có còn tình cảm không? Không sao cả. Đây không phải việc của họ.
+---
+>  なんとかしてくれるだろう。タワー内は
+>  我々が武装解除したとはいえ、
+Luôn có thể đối phó. Mặc dù kẻ thù trong tòa tháp đã bị chúng tôi tước vũ khí,
+---
+>  各地の攻撃部隊が戻ればひと
+>  たまりもない。そろそろ引き上げどきだ」
+Nhưng một khi quân tấn công từ nhiều nơi quay trở lại, chúng ta sẽ không thể chống lại được chúng. Đã đến lúc phải rút lui. "
+
+@22292 Roanne · ロアン
+> 「そうですね……指揮官クラスの
+>  連中はどうなりました?」
+"Ừ...những người ở cấp chỉ huy đó thế nào rồi?"
+
+@22293 Alan · アラン
+> 「だめだ。百鬼やミケーネは、
+>  もともとここにはいない。その上、
+“Không. Hyakki và Mycenae ngay từ đầu đã không có ở đây. Hơn nữa,
+---
+>  シャピロもトレーズも、我々の
+>  行動を予測していたらしい
+Shapiro và Telles dường như đã đoán trước được hành động của chúng tôi,
+---
+>  逃げられたよ。
+>  万丈たちが追っているが、
+Hãy để họ chạy đi. Wan Zhang và họ đang đuổi theo,
+---
+>  だめだろうな。
+>  それより急いでくれ。ドレイクの
+Nhưng tôi sợ mình sẽ không bắt kịp được. Đừng nói về chuyện này nữa, nhanh lên. tôi muốn ở trong Drake's
+---
+>  ウィル・ウィプスがくる前に、
+>  ここを出たい」
+Hãy ra khỏi đây trước khi Will Wips đến. "
+
+@22294 Roanne · ロアン
+> 「ええ、わかっています」
+"Ừ, tôi hiểu."

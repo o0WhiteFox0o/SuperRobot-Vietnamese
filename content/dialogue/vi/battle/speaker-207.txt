@@ -1,0 +1,123 @@
+# Bản dịch tiếng Việt Super Robot Wars 64
+# Định dạng và vị trí: docs/guide/dialogue-text.md
+
+@7582 Julia · ジュリア
+# Kích hoạt: Tấn công (Chung，1/7）
+> 「待ちなさい!」
+"Dừng lại!"
+
+@7583 Julia · ジュリア
+# Kích hoạt: Tấn công (Chung，2/7）
+> 「こちらを向いて私と戦うのです!」
+"Quay lại và chiến đấu với tôi!"
+
+@7584 Julia · ジュリア
+# Kích hoạt: Tấn công (Chung，3/7）
+> 「こちらからいきます!」
+"Vậy tôi đi trước!"
+
+@7585 Julia · ジュリア
+# Kích hoạt: Tấn công (Chung，4/7）
+> 「決着をつけます!」
+"Đã đến lúc kết thúc nó!"
+
+@7586 Julia · ジュリア
+# Kích hoạt: Tấn công (Chung，5/7）
+> 「覚悟!!」
+"Tiến lên!!"
+
+@7587 Julia · ジュリア
+# Kích hoạt: Tấn công (Chung，6/7）
+> 「覚悟なさい!!」
+"Chấp nhận số phận của bạn!!"
+
+@7588 Julia · ジュリア
+# Kích hoạt: Tấn công (Chung，7/7）
+> 「逃げても無駄です!」
+"Không có ích gì khi chạy trốn!"
+
+@7589 Julia · ジュリア
+# Kích hoạt: 被击坠（通用，1/2）
+> 「し、しまった!!」
+"Ối, ôi!!"
+
+@7590 Julia · ジュリア
+# Kích hoạt: 被击坠（通用，2/2）
+> 「や、やられた!?」
+"Đã, bị giết!?"
+
+@7591 Julia · ジュリア
+# Kích hoạt: 重伤（剩余 HP 不足 30%）（通用，1/3）
+> 「あ、ああっ!?」
+"À, à!?"
+
+@7592 Julia · ジュリア
+# Kích hoạt: 重伤（剩余 HP 不足 30%）（通用，2/3）
+> 「くっ! ダメージが大きすぎる!!」
+"Ugh! Thiệt hại quá nghiêm trọng!!"
+
+@7593 Julia · ジュリア
+# Kích hoạt: 重伤（剩余 HP 不足 30%）（通用，3/3）
+> 「くっ! も、もうこれ以上は……!」
+"Ugh! Tôi không thể chịu đựng được nữa...!"
+
+@7594 Julia · ジュリア
+# Kích hoạt: 中伤（剩余 HP 30–90%）（通用，1/4）
+> 「きゃぁぁぁぁ!!」
+"Ahhhhhh!!"
+
+@7595 Julia · ジュリア
+# Kích hoạt: 中伤（剩余 HP 30–90%）（通用，2/4）
+> 「つ、つよい!!」
+"Thật mạnh mẽ!!"
+
+@7596 Julia · ジュリア
+# Kích hoạt: 中伤（剩余 HP 30–90%）（通用，3/4）
+> 「あうっ、しまった!!」
+"Ôi, thật kinh khủng!!"
+
+@7597 Julia · ジュリア
+# Kích hoạt: 中伤（剩余 HP 30–90%）（通用，4/4）
+> 「うぅっ、まだいけるはず!」
+"Ồ, tôi có thể giữ được!"
+
+@7598 Julia · ジュリア
+# Kích hoạt: 轻伤（剩余 HP 90% 以上）（通用，1/3）
+> 「この程度なら!」
+"Vết thương nhỏ này không sao cả!"
+
+@7599 Julia · ジュリア
+# Kích hoạt: 轻伤（剩余 HP 90% 以上）（通用，2/3）
+> 「本気で戦いなさい!」
+"Hãy thể hiện kỹ năng thực sự của bạn và chiến đấu!"
+
+@7600 Julia · ジュリア
+# Kích hoạt: 轻伤（剩余 HP 90% 以上）（通用，3/3）
+> 「これくらいは!」
+"Vết thương nhỏ này!"
+
+@7601 Julia · ジュリア
+# Kích hoạt: Né tránh（通用，1/2）
+> 「このくらいはっ!」
+"Điều này có nghĩa là gì?"
+
+@7602 Julia · ジュリア
+# Kích hoạt: Né tránh（通用，2/2）
+> 「避けてみせる!」
+"Coi chừng tôi chạy đi!"
+
+@7603 Julia · ジュリア
+# Kích hoạt: Tấn công无效（护罩／装甲）（通用，1/1）
+> 「効きはしない!」
+"Thật vô ích!"
+
+@7604 Julia · ジュリア
+# Kích hoạt: 弹药／EN 不足，无法反击（通用，1/1）
+> 「くっ、このような時に!」
+"Ân, vào lúc này!"
+
+@7605 Julia · ジュリア
+# Kích hoạt: 射程外，无法反击（通用，1/1）
+> 「私と正々堂々と勝負を
+>  するのです」
+“Hãy đấu tranh với tôi một cách chính trực.”

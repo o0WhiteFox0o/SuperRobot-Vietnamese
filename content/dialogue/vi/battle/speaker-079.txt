@@ -1,0 +1,252 @@
+# Bản dịch tiếng Việt Super Robot Wars 64
+# Định dạng và vị trí: docs/guide/dialogue-text.md
+
+@8944 Yazan · ヤザン
+# Kích hoạt: Tấn công (Chung，1/13）
+> 「落ちなっ!」
+"Rớt!"
+
+@8945 Yazan · ヤザン
+# Kích hoạt: Tấn công (Chung，2/13）
+> 「いただきだな!!」
+"Tôi đã chấp nhận nó!!"
+
+@8946 Yazan · ヤザン
+# Kích hoạt: Tấn công (Chung，3/13）
+> 「落ちろっつってんだよ!!」
+"Ta bảo ngươi ngã xuống, ngươi có nghe thấy không!!"
+
+@8947 Yazan · ヤザン
+# Kích hoạt: Tấn công (Chung，4/13）
+> 「ちょろちょろと……目障りなんだよ!!」
+“Nó chạy loanh quanh… chướng mắt quá!!”
+
+@8948 Yazan · ヤザン
+# Kích hoạt: Tấn công (Chung，5/13）
+> 「ネズミが……死になっ!!」
+"Chuột...đi xuống địa ngục đi!!"
+
+@8949 Yazan · ヤザン
+# Kích hoạt: Tấn công (Chung，6/13）
+> 「ほらよっ!!」
+"Coi chừng động tác!!"
+
+@8950 Yazan · ヤザン
+# Kích hoạt: Tấn công (Chung，7/13）
+> 「終わりだな!!」
+"Hết rồi!!"
+
+@8951 Yazan · ヤザン
+# Kích hoạt: Tấn công (Chung，8/13）
+> 「この俺に向かってくるとは、
+>  いい度胸だ……だがなっ!!」
+"Bạn rất dũng cảm nếu dám đến gần tôi... nhưng!!"
+
+@8952 Yazan · ヤザン
+# Kích hoạt: Tấn công (Chung，9/13）
+> 「ふん、身の程知らずがっ!!」
+"Hừ, ngươi không biết trời cao bao nhiêu!"
+
+@8953 Yazan · ヤザン
+# Kích hoạt: Tấn công (Chung，10/13）
+> 「観念しなっ!!」
+"Bỏ cuộc!!"
+
+@8954 Yazan · ヤザン
+# Kích hoạt: Tấn công (Chung，11/13）
+> 「ははははっ! 落ちろっ!!」
+"Hahahaha! Hãy đổ cho tôi!!"
+
+@8955 Yazan · ヤザン
+# Kích hoạt: Tấn công (Chung，12/13）
+> 「もらったあっ!!」
+"Hiểu rồi!!"
+
+@8956 Yazan · ヤザン
+# Kích hoạt: Tấn công (Chung，13/13）
+> 「これまでだっ!!」
+“Chính là nó!!”
+
+@8957 Yazan · ヤザン
+# Kích hoạt: 被击坠（通用，1/3）
+> 「なんだと!?」
+"Cái gì!?"
+
+@8958 Yazan · ヤザン
+# Kích hoạt: 被击坠（通用，2/3）
+> 「バカなっ!? この俺が落ちるだと……」
+"Không thể nào!? Tôi thực sự sẽ bị bắn hạ mất..."
+
+@8959 Yazan · ヤザン
+# Kích hoạt: 被击坠（通用，3/3）
+> 「なんなんだ! こいつは!?」
+"Anh chàng này là ai?"
+
+@8960 Yazan · ヤザン
+# Kích hoạt: 重伤（剩余 HP 不足 30%）（通用，1/5）
+> 「なにいっ!? パワーダウンか!?」
+"Cái gì!? Mất điện!?"
+
+@8961 Yazan · ヤザン
+# Kích hoạt: 重伤（剩余 HP 不足 30%）（通用，2/5）
+> 「こ、こいつ……なめるなっ!!」
+"Cái này, cái tên này... đừng đánh giá thấp tôi!!"
+
+@8962 Yazan · ヤザン
+# Kích hoạt: 重伤（剩余 HP 不足 30%）（通用，3/5）
+> 「ぐおっ!? バカな……」
+"Ồ!? Không thể nào..."
+
+@8963 Yazan · ヤザン
+# Kích hoạt: 重伤（剩余 HP 不足 30%）（通用，4/5）
+> 「でえい、ダメージを受けすぎたか!?」
+"Chết tiệt, thiệt hại có nghiêm trọng quá không!?"
+
+@8964 Yazan · ヤザン
+# Kích hoạt: 重伤（剩余 HP 不足 30%）（通用，5/5）
+> 「なんだと!? 直撃をくらったのか!?」
+"Cái gì!? Bị đánh!?"
+
+@8965 Yazan · ヤザン
+# Kích hoạt: 中伤（剩余 HP 30–90%）（通用，1/6）
+> 「ちっ、少しは歯ごたえがありそうだな」
+“Tsk, có vẻ như nó vẫn còn hơi dai.”
+
+@8966 Yazan · ヤザン
+# Kích hoạt: 中伤（剩余 HP 30–90%）（通用，2/6）
+> 「くっ! 楽しませてくれるじゃねえか!」
+"Chà! Nó thực sự làm tôi hạnh phúc!"
+
+@8967 Yazan · ヤザン
+# Kích hoạt: 中伤（剩余 HP 30–90%）（通用，3/6）
+> 「ち、当たっちまったか!」
+“Tch, anh ấy bị đánh rồi!”
+
+@8968 Yazan · ヤザン
+# Kích hoạt: 中伤（剩余 HP 30–90%）（通用，4/6）
+> 「つう……やってくれるぜ!」
+"Đau quá...bạn thực sự có cách với nó!"
+
+@8969 Yazan · ヤザン
+# Kích hoạt: 中伤（剩余 HP 30–90%）（通用，5/6）
+> 「ちいっ! なんの、まだまだぁっ!」
+"Tsk! Điều này có nghĩa là gì? Vẫn còn sớm -!"
+
+@8970 Yazan · ヤザン
+# Kích hoạt: 中伤（剩余 HP 30–90%）（通用，6/6）
+> 「ふん、やるな!」
+"Hừ, có hai lần!"
+
+@8971 Yazan · ヤザン
+# Kích hoạt: 轻伤（剩余 HP 90% 以上）（通用，1/3）
+> 「どうした、その程度か!」
+“Sao vậy, đó là tất cả những gì cậu có à?”
+
+@8972 Yazan · ヤザン
+# Kích hoạt: 轻伤（剩余 HP 90% 以上）（通用，2/3）
+> 「ははははっ!! 笑わせやがる!!」
+"Hahahaha!! Đừng làm tôi cười!!"
+
+@8973 Yazan · ヤザン
+# Kích hoạt: 轻伤（剩余 HP 90% 以上）（通用，3/3）
+> 「そんな攻撃で、俺を落とせると
+>  思っているのか!?」
+“Anh muốn hạ gục tôi chỉ bằng đòn tấn công này sao!?”
+
+@8974 Yazan · ヤザン
+# Kích hoạt: Né tránh（通用，1/6）
+> 「当たらんな!」
+"Tôi không thể đánh nó!"
+
+@8975 Yazan · ヤザン
+# Kích hoạt: Né tránh（通用，2/6）
+> 「甘いんだよ!!」
+"Thật ngây thơ!!"
+
+@8976 Yazan · ヤザン
+# Kích hoạt: Né tránh（通用，3/6）
+> 「まだ子供の間合いだな!!」
+"Bạn có thể kiểm soát khoảng cách như một đứa trẻ!!"
+
+@8977 Yazan · ヤザン
+# Kích hoạt: Né tránh（通用，4/6）
+> 「見え見えなんだよ!」
+"Ngươi có thể nhìn qua nó trong nháy mắt!"
+
+@8978 Yazan · ヤザン
+# Kích hoạt: Né tránh（通用，5/6）
+> 「フン! へたくそが!!」
+"Hừm! Công nghệ tệ quá!!"
+
+@8979 Yazan · ヤザン
+# Kích hoạt: Né tránh（通用，6/6）
+> 「ハッ、こんな攻撃にあたったら
+>  減俸ものだな」
+"Ha, nếu bị loại công kích này, sẽ bị trừ lương."
+
+@8980 Yazan · ヤザン
+# Kích hoạt: Tấn công无效（护罩／装甲）（通用，1/1）
+> 「バカが! ビームが効くかよ!」
+"Đồ ngốc! Làm sao chùm tia có thể hoạt động được?"
+
+@8981 Yazan · ヤザン
+# Kích hoạt: 弹药／EN 不足，无法反击（通用，1/1）
+> 「弾切れか!!」
+"Hết đạn rồi!!"
+
+@8982 Yazan · ヤザン
+# Kích hoạt: 射程外，无法反击（通用，1/1）
+> 「ちっ! 射程距離外からか……」
+"Tsk! Anh ấy thực sự đã đánh tôi từ ngoài phạm vi..."
+
+@14669 Yazan · ヤザン
+# Kích hoạt: 使用〈ビームサーベル／銃剣付きビームサーベル〉（低优先，可能被通用台词顶掉）
+> 「外から串刺しにしてやる!!」
+"Xâu chuỗi bạn lại từ bên ngoài!!"
+
+@14670 Yazan · ヤザン
+# Kích hoạt: 使用〈海ヘビ〉（低优先，可能被通用台词顶掉）
+> 「海ヘビをやるぞ!」
+"Hãy nhìn roi rắn biển của tôi!"
+
+@14671 Yazan · ヤザン
+# Kích hoạt: 使用〈クモの巣〉（对话第 1/4 句）
+> 「ダンケル、ラムサス、クモの巣をやるぞ!」
+“Dunkel, Ramsus, dùng mạng nhện đi!”
+
+@14672 Ramsus · ラムサス
+# Kích hoạt: 使用〈クモの巣〉（对话第 2/4 句）
+> 「ハッ!」
+"Vâng!"
+
+@14673 Dunkel · ダンケル
+# Kích hoạt: 使用〈クモの巣〉（对话第 3/4 句）
+> 「了解です、隊長!」
+"Đã hiểu, thuyền trưởng!"
+
+@14674 Yazan · ヤザン
+# Kích hoạt: 使用〈クモの巣〉（对话第 4/4 句）
+> 「ハハハッ! しとめるぞっ!」
+"Hahaha! Giết chúng!"
+
+@14675 Yazan · ヤザン
+# Kích hoạt: Né tránh，乘坐〈ハンブラビ〉
+> 「スピードはハンブラビの方が
+>  上のようだな!!」
+"Về tốc độ, Hambrabi tốt hơn!!"
+
+@14676 Yazan · ヤザン
+# Kích hoạt: Né tránh，条件 1000
+> 「ハハハハッ、ダミーにかかってくれたよう
+>  だな!」
+"Hahahaha, có vẻ như cậu đã mắc bẫy rồi!"
+
+@14677 Yazan · ヤザン
+# Kích hoạt: Né tránh，条件 1000
+> 「そいつはダミーなんだよ!」
+“Thứ đó là mồi nhử!”
+
+@14678 Yazan · ヤザン
+# Kích hoạt: Né tránh，条件 1000
+> 「ダミーの一つや二つ、くれてやる!」
+"Làm mồi nhử, cho ngươi một hai cái cũng không hại gì!"

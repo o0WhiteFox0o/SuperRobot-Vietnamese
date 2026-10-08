@@ -1,0 +1,132 @@
+# Bản dịch tiếng Việt Super Robot Wars 64
+# Định dạng và vị trí: docs/guide/dialogue-text.md
+
+@7067 Rose · ロゼ
+# Kích hoạt: Tấn công (Chung，1/10）
+> 「覚悟っ!」
+"Đáng chết!"
+
+@7068 Rose · ロゼ
+# Kích hoạt: Tấn công (Chung，2/10）
+> 「どうした!」
+"Có chuyện gì vậy!"
+
+@7069 Rose · ロゼ
+# Kích hoạt: Tấn công (Chung，3/10）
+> 「ええぃ!」
+"Này!"
+
+@7070 Rose · ロゼ
+# Kích hoạt: Tấn công (Chung，4/10）
+> 「とどめをさしてやる!」
+"Hãy để tôi kết thúc bạn!"
+
+@7071 Rose · ロゼ
+# Kích hoạt: Tấn công (Chung，5/10）
+> 「わたしは、戦士だ!」
+"Tôi là một chiến binh!"
+
+@7072 Rose · ロゼ
+# Kích hoạt: Tấn công (Chung，6/10）
+> 「たぁっ!」
+"Uống đi!"
+
+@7073 Rose · ロゼ
+# Kích hoạt: Tấn công (Chung，7/10）
+> 「倒してみせる!」
+"Ta nhất định sẽ đánh bại ngươi!"
+
+@7074 Rose · ロゼ
+# Kích hoạt: Tấn công (Chung，8/10）
+> 「はあぁぁぁっ!」
+"Haaahhhh!"
+
+@7075 Rose · ロゼ
+# Kích hoạt: Tấn công (Chung，9/10）
+> 「やってみせる!」
+"Tôi chắc chắn có thể làm được!"
+
+@7076 Rose · ロゼ
+# Kích hoạt: Tấn công (Chung，10/10）
+> 「そこか!」
+"Đó!"
+
+@7077 Rose · ロゼ
+# Kích hoạt: 被击坠（通用，1/1）
+> 「あ!? あぁぁぁぁぁぁぁっ!」
+"A!? Ahhhhhh!"
+
+@7078 Rose · ロゼ
+# Kích hoạt: 重伤（剩余 HP 不足 30%）（通用，1/3）
+> 「ウワァァァァッ!」
+"Ồhhhhhh!"
+
+@7079 Rose · ロゼ
+# Kích hoạt: 重伤（剩余 HP 不足 30%）（通用，2/3）
+> 「うっ、これではもたない!?」
+"Chà, tôi không thể giữ được như thế này!?"
+
+@7080 Rose · ロゼ
+# Kích hoạt: 重伤（剩余 HP 不足 30%）（通用，3/3）
+> 「うぅぅぅっ!」
+"Uuuuuuuuuuuuuuuuu"
+
+@7081 Rose · ロゼ
+# Kích hoạt: 中伤（剩余 HP 30–90%）（通用，1/3）
+> 「キャァァァァァッ!」
+"Ahhhhhhhhh!"
+
+@7082 Rose · ロゼ
+# Kích hoạt: 中伤（剩余 HP 30–90%）（通用，2/3）
+> 「くぅ、こんなものではっ!」
+"Ừ, vết thương nhỏ này không là gì cả!"
+
+@7083 Rose · ロゼ
+# Kích hoạt: 中伤（剩余 HP 30–90%）（通用，3/3）
+> 「うっ、なにっ!?」
+"Ừm, cái gì!?"
+
+@7084 Rose · ロゼ
+# Kích hoạt: 轻伤（剩余 HP 90% 以上）（通用，1/2）
+> 「アァァッ!」
+"Ahhh!"
+
+@7085 Rose · ロゼ
+# Kích hoạt: 轻伤（剩余 HP 90% 以上）（通用，2/2）
+> 「あぅ!?」
+"A!?"
+
+@7086 Rose · ロゼ
+# Kích hoạt: Né tránh（通用，1/2）
+> 「か、かわせたのか!?」
+"Trốn, cậu trốn à!?"
+
+@7087 Rose · ロゼ
+# Kích hoạt: Né tránh（通用，2/2）
+> 「このくらいなら!」
+"Bạn vẫn có thể tránh được đòn tấn công này!"
+
+@7088 Rose · ロゼ
+# Kích hoạt: Tấn công无效（护罩／装甲）（通用，1/2）
+> 「効きはしないっ!」
+"Nó không hoạt động!"
+
+@7089 Rose · ロゼ
+# Kích hoạt: Tấn công无效（护罩／装甲）（通用，2/2）
+> 「ムダだ!」
+"Thật vô ích!"
+
+@7090 Rose · ロゼ
+# Kích hoạt: 弹药／EN 不足，无法反击（通用，1/1）
+> 「エネルギー切れ!? そんな!」
+"Năng lượng cạn kiệt!? Làm sao có thể!"
+
+@7091 Rose · ロゼ
+# Kích hoạt: 射程外，无法反击（通用，1/2）
+> 「く……これでは届かない!?」
+"Hmm...không thể đánh từ đây được!?"
+
+@7092 Rose · ロゼ
+# Kích hoạt: 射程外，无法反击（通用，2/2）
+> 「くっ、卑怯な!」
+"Chà, điều đó thật xấu xa!"

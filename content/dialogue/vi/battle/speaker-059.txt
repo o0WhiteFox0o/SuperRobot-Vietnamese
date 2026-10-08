@@ -1,0 +1,168 @@
+# Bản dịch tiếng Việt Super Robot Wars 64
+# Định dạng và vị trí: docs/guide/dialogue-text.md
+
+@9055 Rosamia · ロザミア
+# Kích hoạt: Tấn công (Chung，1/9）
+> 「そこねっ!」
+"Chính là nó!"
+
+@9056 Rosamia · ロザミア
+# Kích hoạt: Tấn công (Chung，2/9）
+> 「やらせないっ!!」
+"Đừng nghĩ tới chuyện đó nữa!!"
+
+@9057 Rosamia · ロザミア
+# Kích hoạt: Tấn công (Chung，3/9）
+> 「みんなを守るのよ!」
+"Tôi muốn bảo vệ mọi người!"
+
+@9058 Rosamia · ロザミア
+# Kích hoạt: Tấn công (Chung，4/9）
+> 「あたしだって、やれるんだからっ!」
+"Tôi cũng có thể làm được!"
+
+@9059 Rosamia · ロザミア
+# Kích hoạt: Tấn công (Chung，5/9）
+> 「このっ!」
+"Anh bạn!"
+
+@9060 Rosamia · ロザミア
+# Kích hoạt: Tấn công (Chung，6/9）
+> 「お兄ちゃん、見てて!」
+"Anh trai, xem!"
+
+@9061 Rosamia · ロザミア
+# Kích hoạt: Tấn công (Chung，7/9）
+> 「あっち行っちゃえーっ!」
+“Đi đi—!”
+
+@9062 Rosamia · ロザミア
+# Kích hoạt: Tấn công (Chung，8/9）
+> 「落ちなさいよっ!」
+"Rớt nó!"
+
+@9063 Rosamia · ロザミア
+# Kích hoạt: Tấn công (Chung，9/9）
+> 「どいてっ!」
+"Tránh ra!"
+
+@9064 Rosamia · ロザミア
+# Kích hoạt: 被击坠（通用，1/1）
+> 「ああっ! お兄ちゃん!!」
+"A! Anh trai!!"
+
+@9065 Rosamia · ロザミア
+# Kích hoạt: 重伤（剩余 HP 不足 30%）（通用，1/3）
+> 「ああっ! だ、ダメぇ! やられちゃうっ!」
+"A! Không, không! Tôi sắp bị giết!"
+
+@9066 Rosamia · ロザミア
+# Kích hoạt: 重伤（剩余 HP 不足 30%）（通用，2/3）
+> 「うああっ! あ、頭が……い、痛い……」
+"Ôi! Đầu tôi, đầu tôi... đau quá... đau quá..."
+
+@9067 Rosamia · ロザミア
+# Kích hoạt: 重伤（剩余 HP 不足 30%）（通用，3/3）
+> 「きゃああっ! ど、どうして!?」
+"Ahhh! Tại sao, tại sao!?"
+
+@9068 Rosamia · ロザミア
+# Kích hoạt: 中伤（剩余 HP 30–90%）（通用，1/3）
+> 「あうっ! ま、まだよ、こんなのっ!」
+"A! Chưa, chưa, đây là ý gì!"
+
+@9069 Rosamia · ロザミア
+# Kích hoạt: 中伤（剩余 HP 30–90%）（通用，2/3）
+> 「ううっ! や、やられてないよね、まだ……」
+"Ư...Tôi, tôi vẫn chưa bị đánh gục, chưa..."
+
+@9070 Rosamia · ロザミア
+# Kích hoạt: 中伤（剩余 HP 30–90%）（通用，3/3）
+> 「きゃっ! やったわねえっ!」
+"A! Sao ngươi dám đánh ta!"
+
+@9071 Rosamia · ロザミア
+# Kích hoạt: 轻伤（剩余 HP 90% 以上）（通用，1/3）
+> 「なにさ、そんな攻撃っ!」
+"Đây là kiểu tấn công gì vậy!"
+
+@9072 Rosamia · ロザミア
+# Kích hoạt: 轻伤（剩余 HP 90% 以上）（通用，2/3）
+> 「効かないのよっ!」
+"Nó không có tác dụng gì cả!"
+
+@9073 Rosamia · ロザミア
+# Kích hoạt: 轻伤（剩余 HP 90% 以上）（通用，3/3）
+> 「この程度でっ!」
+"Vết thương nhỏ này không thể đánh bại tôi!"
+
+@9074 Rosamia · ロザミア
+# Kích hoạt: Né tránh（通用，1/6）
+> 「やったあ、かわせた!」
+"Tuyệt vời, tránh ra!"
+
+@9075 Rosamia · ロザミア
+# Kích hoạt: Né tránh（通用，2/6）
+> 「どんなもんよ!」
+"Thế nào rồi!"
+
+@9076 Rosamia · ロザミア
+# Kích hoạt: Né tránh（通用，3/6）
+> 「当たらないもん!」
+"Bạn không thể đánh nó!"
+
+@9077 Rosamia · ロザミア
+# Kích hoạt: Né tránh（通用，4/6）
+> 「きゃっ! ちょっと、危ないじゃないっ!」
+"Ừ! Này, nguy hiểm quá!"
+
+@9078 Rosamia · ロザミア
+# Kích hoạt: Né tránh（通用，5/6）
+> 「あ……見える!?」
+"A...bạn có thấy nó không!?"
+
+@9079 Rosamia · ロザミア
+# Kích hoạt: Né tránh（通用，6/6）
+> 「やったよ、お兄ちゃん!」
+"Tôi đã làm được rồi, anh trai!"
+
+@9080 Rosamia · ロザミア
+# Kích hoạt: Tấn công无效（护罩／装甲）（通用，1/2）
+> 「効かないのよっ!」
+"Nó không có tác dụng gì cả!"
+
+@9081 Rosamia · ロザミア
+# Kích hoạt: Tấn công无效（护罩／装甲）（通用，2/2）
+> 「ムダよ!」
+"Thật vô ích!"
+
+@9082 Rosamia · ロザミア
+# Kích hoạt: 弹药／EN 不足，无法反击（通用，1/1）
+> 「あれ? 弾がでない! どうしたんだろ?」
+"Hả? Đạn không thể bắn ra! Chuyện gì đang xảy ra vậy?"
+
+@9083 Rosamia · ロザミア
+# Kích hoạt: 射程外，无法反击（通用，1/1）
+> 「ウソ、届かないの?」
+"Không thể nào, không thể tới được?"
+
+@14683 Rosamia · ロザミア
+# Kích hoạt: 使用〈ファンネル／マザーファンネル〉
+> 「行くよっ! ファンネルっ!」
+"Tiến lên! Pháo nổi!"
+
+@14684 Rosamia · ロザミア
+# Kích hoạt: 使用〈ファンネル／マザーファンネル〉
+> 「ファンネル!」
+"Pháo bay!"
+
+@14685 Rosamia · ロザミア
+# Kích hoạt: 使用〈フィンファンネル〉
+> 「フィンファンネル、いっけぇぇぇっ!」
+“Pháo pháo vây, tiến lên——!!”
+
+@14686 Rosamia · ロザミア
+# Kích hoạt: 使用〈ハイメガキャノン〉（低优先，可能被通用台词顶掉）
+> 「エネルギー充填……
+>  いけっ! ハイメガキャノン!!」
+"Sạc năng lượng...bắn! Mega Cannon năng lượng cao!!"

@@ -1,0 +1,139 @@
+# Bản dịch tiếng Việt Super Robot Wars 64
+# Định dạng và vị trí: docs/guide/dialogue-text.md
+
+@10130 Dr. Gura · グラー博士
+# Kích hoạt: Tấn công (Chung，1/6）
+> 「奴らを、け散らせぇっ!」
+"Giết chúng thành từng mảnh!"
+
+@10131 Dr. Gura · グラー博士
+# Kích hoạt: Tấn công (Chung，2/6）
+> 「くそ～! なまいきな人間どもめ!」
+"Chết tiệt——! Những con người kiêu ngạo này!"
+
+@10132 Dr. Gura · グラー博士
+# Kích hoạt: Tấn công (Chung，3/6）
+> 「撃て、撃てぇ!」
+"Cháy, cháy!"
+
+@10133 Dr. Gura · グラー博士
+# Kích hoạt: Tấn công (Chung，4/6）
+> 「一気に叩きつぶせ!」
+"Đè bẹp tất cả chúng trong một lần!"
+
+@10134 Dr. Gura · グラー博士
+# Kích hoạt: Tấn công (Chung，5/6）
+> 「やってしまえ!」
+"Giết chúng!"
+
+@10135 Dr. Gura · グラー博士
+# Kích hoạt: Tấn công (Chung，6/6）
+> 「破壊しろ!」
+"Tiêu diệt chúng!"
+
+@10136 Dr. Gura · グラー博士
+# Kích hoạt: 被击坠（通用，1/2）
+> 「ほとんど成功していたのに……」
+“Gần như thành công rồi…”
+
+@10137 Dr. Gura · グラー博士
+# Kích hoạt: 被击坠（通用，2/2）
+> 「うあ、ああああーっ!」
+"Ư, ahhh!"
+
+@10138 Dr. Gura · グラー博士
+# Kích hoạt: 重伤（剩余 HP 不足 30%）（通用，1/5）
+> 「うおおぉぉーっ!? バ、バカな……」
+"Uh ồ ồ!? Không, không thể nào..."
+
+@10139 Dr. Gura · グラー博士
+# Kích hoạt: 重伤（剩余 HP 不足 30%）（通用，2/5）
+> 「百鬼一族はこれしきのことで負け
+>  はせん!」
+"Bách Quỷ Tộc sao có thể bị chuyện nhỏ như vậy đánh bại!"
+
+@10140 Dr. Gura · グラー博士
+# Kích hoạt: 重伤（剩余 HP 不足 30%）（通用，3/5）
+> 「おのれ、まだだ!」
+"Chết tiệt, nó vẫn chưa kết thúc!"
+
+@10141 Dr. Gura · グラー博士
+# Kích hoạt: 重伤（剩余 HP 不足 30%）（通用，4/5）
+> 「どうしたっ! なにごとだ!?」
+"Sao vậy! Chuyện gì đã xảy ra vậy!?"
+
+@10142 Dr. Gura · グラー博士
+# Kích hoạt: 重伤（剩余 HP 不足 30%）（通用，5/5）
+> 「い、いかんっ! このままではまずいぞ!」
+"Không, không! Tiếp tục như thế này không phải là ý hay đâu!"
+
+@10143 Dr. Gura · グラー博士
+# Kích hoạt: 中伤（剩余 HP 30–90%）（通用，1/4）
+> 「万が一にもぬかりがあってはならんぞっ」
+“Không được có sai sót”
+
+@10144 Dr. Gura · グラー博士
+# Kích hoạt: 中伤（剩余 HP 30–90%）（通用，2/4）
+> 「何ごとだっ!」
+"Chuyện gì đang xảy ra vậy!"
+
+@10145 Dr. Gura · グラー博士
+# Kích hoạt: 中伤（剩余 HP 30–90%）（通用，3/4）
+> 「油断はならんぞ!」
+"Đừng bất cẩn!"
+
+@10146 Dr. Gura · グラー博士
+# Kích hoạt: 中伤（剩余 HP 30–90%）（通用，4/4）
+> 「うぬぅ、このままでは不利だ!」
+"Chà, bạn sẽ phải chịu đựng nếu điều này tiếp tục!"
+
+@10147 Dr. Gura · グラー博士
+# Kích hoạt: 轻伤（剩余 HP 90% 以上）（通用，1/3）
+> 「まったく、うるさい奴らだ」
+“Thật là một lũ phiền phức”
+
+@10148 Dr. Gura · グラー博士
+# Kích hoạt: 轻伤（剩余 HP 90% 以上）（通用，2/3）
+> 「あわてることはない!」
+"Đừng hoảng sợ!"
+
+@10149 Dr. Gura · グラー博士
+# Kích hoạt: 轻伤（剩余 HP 90% 以上）（通用，3/3）
+> 「しまった、間にあわなかったか!」
+"Ồ, không có thời gian đâu!"
+
+@10150 Dr. Gura · グラー博士
+# Kích hoạt: Né tránh（通用，1/3）
+> 「貴様らの攻撃など、あたるわけがない」
+"Với đòn tấn công của bạn, làm sao bạn có thể đánh trúng nó?"
+
+@10151 Dr. Gura · グラー博士
+# Kích hoạt: Né tránh（通用，2/3）
+> 「やったぞ!」
+"Thành công!"
+
+@10152 Dr. Gura · グラー博士
+# Kích hoạt: Né tránh（通用，3/3）
+> 「ワシの設計にくるいはない、わはははは!」
+"Sẽ không có sai sót nào trong thiết kế của tôi, hahahaha!"
+
+@10153 Dr. Gura · グラー博士
+# Kích hoạt: Tấn công无效（护罩／装甲）（通用，1/1）
+> 「ワシの設計にくるいはない、わはははは」
+"Sẽ không có sai sót nào trong thiết kế của tôi đâu, hahahaha"
+
+@10154 Dr. Gura · グラー博士
+# Kích hoạt: 弹药／EN 不足，无法反击（通用，1/2）
+> 「なんということだ!」
+"Làm sao chuyện như vậy có thể xảy ra!"
+
+@10155 Dr. Gura · グラー博士
+# Kích hoạt: 弹药／EN 不足，无法反击（通用，2/2）
+> 「やや、これは!」
+"Ồ, là nó đây!"
+
+@10156 Dr. Gura · グラー博士
+# Kích hoạt: 射程外，无法反击（通用，1/1）
+> 「なすすべもなく、指をくわえて見て
+>  おるのか!」
+"Chúng ta có thể ngồi đó bất lực và nhìn chằm chằm được không?"

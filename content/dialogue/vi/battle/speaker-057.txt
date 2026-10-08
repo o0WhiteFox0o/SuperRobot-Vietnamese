@@ -1,0 +1,202 @@
+# Bản dịch tiếng Việt Super Robot Wars 64
+# Định dạng và vị trí: docs/guide/dialogue-text.md
+
+@11191 Ple-Two · プルツー
+# Kích hoạt: Tấn công (Chung，1/9）
+> 「よくもまぁのこのこと、恐れる心が
+>  ないのかい!?」
+"Ngươi mạnh dạn tiến tới như vậy, ngươi không biết sợ sao!?"
+
+@11192 Ple-Two · プルツー
+# Kích hoạt: Tấn công (Chung，2/9）
+> 「さかしいよっ!!」
+“Đừng có thông minh thế nữa!!”
+
+@11193 Ple-Two · プルツー
+# Kích hoạt: Tấn công (Chung，3/9）
+> 「かんねんしなっ!!」
+"Bỏ cuộc!!"
+
+@11194 Ple-Two · プルツー
+# Kích hoạt: Tấn công (Chung，4/9）
+> 「もらったっ!!」
+"Thành công!!"
+
+@11195 Ple-Two · プルツー
+# Kích hoạt: Tấn công (Chung，5/9）
+> 「くらいなっ!!」
+"Ăn chiêu của tôi đi!!"
+
+@11196 Ple-Two · プルツー
+# Kích hoạt: Tấn công (Chung，6/9）
+> 「おそいっ!!」
+"Quá chậm!!"
+
+@11197 Ple-Two · プルツー
+# Kích hoạt: Tấn công (Chung，7/9）
+> 「落ちろ!」
+"Rơi xuống!"
+
+@11198 Ple-Two · プルツー
+# Kích hoạt: Tấn công (Chung，8/9）
+> 「追いかけっこはこれまでだな」
+"Trò chơi rượt đuổi kết thúc ở đây."
+
+@11199 Ple-Two · プルツー
+# Kích hoạt: Tấn công (Chung，9/9）
+> 「観念しなっ!」
+"Bỏ cuộc đi!"
+
+@11200 Ple-Two · プルツー
+# Kích hoạt: 被击坠（通用，1/3）
+> 「し、しまった!!」
+"Ối, ôi!!"
+
+@11201 Ple-Two · プルツー
+# Kích hoạt: 被击坠（通用，2/3）
+> 「くっ! ここまでか!!」
+"Hmm! Thế là xong rồi à?!"
+
+@11202 Ple-Two · プルツー
+# Kích hoạt: 被击坠（通用，3/3）
+> 「きゃあああっ!」
+"Ahhh!"
+
+@11203 Ple-Two · プルツー
+# Kích hoạt: 重伤（剩余 HP 不足 30%）（通用，1/3）
+> 「直撃!?」
+“Tấn công trực tiếp!?”
+
+@11204 Ple-Two · プルツー
+# Kích hoạt: 重伤（剩余 HP 不足 30%）（通用，2/3）
+> 「くっ、やられるのか!?」
+"Ừm, tôi sắp bị giết à!?"
+
+@11205 Ple-Two · プルツー
+# Kích hoạt: 重伤（剩余 HP 不足 30%）（通用，3/3）
+> 「!! まだ落ちるわけには!」
+"!! Tôi chưa thể ngã ở đây được!"
+
+@11206 Ple-Two · プルツー
+# Kích hoạt: 中伤（剩余 HP 30–90%）（通用，1/4）
+> 「ううっ! こいつ、並みではない!」
+"Hừ! Tên này không phải người bình thường!"
+
+@11207 Ple-Two · プルツー
+# Kích hoạt: 中伤（剩余 HP 30–90%）（通用，2/4）
+> 「やる! でもまだ!」
+"Hai lần! Nhưng tôi vẫn chưa xong!"
+
+@11208 Ple-Two · プルツー
+# Kích hoạt: 中伤（剩余 HP 30–90%）（通用，3/4）
+> 「くっ!! やったねっ!!」
+"Hmm!! Nó là của bạn!!"
+
+@11209 Ple-Two · プルツー
+# Kích hoạt: 中伤（剩余 HP 30–90%）（通用，4/4）
+> 「つっ! よくもやってくれたな!」
+"Hừ! Sao ngươi dám!"
+
+@11210 Ple-Two · プルツー
+# Kích hoạt: 轻伤（剩余 HP 90% 以上）（通用，1/3）
+> 「こんなので!」
+"Chỉ đòn này thôi!"
+
+@11211 Ple-Two · プルツー
+# Kích hoạt: 轻伤（剩余 HP 90% 以上）（通用，2/3）
+> 「フン、この程度の攻撃!」
+"Hừm, đây chỉ là một đòn tấn công thôi!"
+
+@11212 Ple-Two · プルツー
+# Kích hoạt: 轻伤（剩余 HP 90% 以上）（通用，3/3）
+> 「ハハハハハハッ」
+"Hahahahaha!"
+
+@11213 Ple-Two · プルツー
+# Kích hoạt: Né tránh（通用，1/4）
+> 「あまいっ!!」
+"Thật ngây thơ!!"
+
+@11214 Ple-Two · プルツー
+# Kích hoạt: Né tránh（通用，2/4）
+> 「あたんないよ!!」
+"Không thể đánh tôi!!"
+
+@11215 Ple-Two · プルツー
+# Kích hoạt: Né tránh（通用，3/4）
+> 「みえみえなんだよ!!」
+"Tôi đã nhìn thấy nó từ lâu rồi!!"
+
+@11216 Ple-Two · プルツー
+# Kích hoạt: Né tránh（通用，4/4）
+> 「フン、ムダなことをっ!!」
+"Hừm, lãng phí công sức!!"
+
+@11217 Ple-Two · プルツー
+# Kích hoạt: Tấn công无效（护罩／装甲）（通用，1/3）
+> 「ふん、限界だな」
+“Hừ, đó là tất cả những gì cậu có thể làm.”
+
+@11218 Ple-Two · プルツー
+# Kích hoạt: Tấn công无效（护罩／装甲）（通用，2/3）
+> 「あまいんだよ!!」
+"Thật ngây thơ!!"
+
+@11219 Ple-Two · プルツー
+# Kích hoạt: Tấn công无效（护罩／装甲）（通用，3/3）
+> 「ビームは効かないっていってる!」
+"Tôi đã nói với bạn rằng chùm tia là vô dụng!"
+
+@11220 Ple-Two · プルツー
+# Kích hoạt: 弹药／EN 不足，无法反击（通用，1/1）
+> 「ちっ、反撃不可能!」
+"Tsk, không có cách nào đánh trả!"
+
+@11221 Ple-Two · プルツー
+# Kích hoạt: 射程外，无法反击（通用，1/2）
+> 「クッ……どこからの攻撃だ!?」
+"Ừm...nó đến từ đâu vậy!?"
+
+@11222 Ple-Two · プルツー
+# Kích hoạt: 射程外，无法反击（通用，2/2）
+> 「射程外からの攻撃!?
+>  賢しいんだよ!」
+"Đánh từ ngoài phạm vi!? Thật là một thủ thuật thông minh!"
+
+@16402 Ple-Two · プルツー
+# Kích hoạt: Tấn công，乘坐〈サイコガンダム〉
+> 「サイコガンダムの前には、赤子も
+>  同然だな」
+"Trước mặt PsychoGundam, bạn chẳng khác gì một đứa bé."
+
+@16403 Ple-Two · プルツー
+# Kích hoạt: Tấn công，乘坐〈サイコガンダムmkⅡ〉
+> 「サイコガンダムの前には、赤子も
+>  同然だな」
+"Trước mặt PsychoGundam, bạn chẳng khác gì một đứa bé."
+
+@16404 Ple-Two · プルツー
+# Kích hoạt: 使用〈ファンネル／マザーファンネル〉
+> 「いけっ! ファンネルたち!」
+"Đi! Pháo bay!"
+
+@16405 Ple-Two · プルツー
+# Kích hoạt: 使用〈ファンネル／マザーファンネル〉
+> 「いっけぇーっ!! ファンネル!!」
+“Tiến lên——!! Pháo nổi!!”
+
+@16406 Ple-Two · プルツー
+# Kích hoạt: 使用〈フィンファンネル〉
+> 「いっけぇーっ!! フィンファンネル!!」
+“Tiến lên——!! Pháo vây!!”
+
+@16407 Ple-Two · プルツー
+# Kích hoạt: 使用〈フィンファンネル〉
+> 「いけっ! フィンファンネルたち!!」
+"Đi! Pháo vây!!"
+
+@16408 Ple-Two · プルツー
+# Kích hoạt: 使用〈ハイメガキャノン〉（低优先，可能被通用台词顶掉）
+> 「エネルギー充填……
+>  いけっ! ハイメガキャノン!!」
+"Nạp năng lượng...cố lên! Mega Cannon năng lượng cao!!"

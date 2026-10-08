@@ -1,0 +1,144 @@
+# Bản dịch tiếng Việt Super Robot Wars 64
+# Định dạng và vị trí: docs/guide/dialogue-text.md
+
+@10824 Wyme · ワイム
+# Kích hoạt: Tấn công (Chung，1/6）
+> 「間合いが甘いんだよ!」
+"Khoảng cách của bạn quá tệ!"
+
+@10825 Wyme · ワイム
+# Kích hoạt: Tấn công (Chung，2/6）
+> 「おぉぉぉーっ!」
+"Ồ ồ ồ——!"
+
+@10826 Wyme · ワイム
+# Kích hoạt: Tấn công (Chung，3/6）
+> 「さぁ正々堂々と勝負だ!」
+"Hãy đến và để chúng tôi quyết định kết quả một cách chính trực và công bằng!"
+
+@10827 Wyme · ワイム
+# Kích hoạt: Tấn công (Chung，4/6）
+> 「我らと尋常に勝負せよ!」
+"Cạnh tranh với chúng tôi một cách công khai!"
+
+@10828 Wyme · ワイム
+# Kích hoạt: Tấn công (Chung，5/6）
+> 「いく!」
+"Lên!"
+
+@10829 Wyme · ワイム
+# Kích hoạt: Tấn công (Chung，6/6）
+> 「これならばっ!」
+"Còn chiêu này thì sao!"
+
+@10830 Wyme · ワイム
+# Kích hoạt: 被击坠（通用，1/1）
+> 「うわぁぁぁぁーっ!」
+"Aaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaa!"
+
+@10831 Wyme · ワイム
+# Kích hoạt: 重伤（剩余 HP 不足 30%）（通用，1/3）
+> 「く、くそぅ、よくも!」
+"Chết tiệt, sao ngươi dám!"
+
+@10832 Wyme · ワイム
+# Kích hoạt: 重伤（剩余 HP 不足 30%）（通用，2/3）
+> 「おぉぉ!? こ、こんなことがっ!」
+"Ồ!? Làm sao, làm sao có thể!"
+
+@10833 Wyme · ワイム
+# Kích hoạt: 重伤（剩余 HP 不足 30%）（通用，3/3）
+> 「ぐぅぅっ! やられる!?」
+"Hmm! Tôi sắp bị giết!?"
+
+@10834 Wyme · ワイム
+# Kích hoạt: 中伤（剩余 HP 30–90%）（通用，1/3）
+> 「くっ……なんということだ!」
+"Ừm... sao chuyện này có thể xảy ra được!"
+
+@10835 Wyme · ワイム
+# Kích hoạt: 中伤（剩余 HP 30–90%）（通用，2/3）
+> 「くっ! さすがにやるな!」
+"Chà! Quả nhiên đã xảy ra hai lần!"
+
+@10836 Wyme · ワイム
+# Kích hoạt: 中伤（剩余 HP 30–90%）（通用，3/3）
+> 「うぅ! 戦いがいのある相手だ!」
+"Wow! Anh ấy là một đối thủ đáng chiến đấu!"
+
+@10837 Wyme · ワイム
+# Kích hoạt: 轻伤（剩余 HP 90% 以上）（通用，1/3）
+> 「かすっただけだ!」
+"Chỉ là lau thôi mà!"
+
+@10838 Wyme · ワイム
+# Kích hoạt: 轻伤（剩余 HP 90% 以上）（通用，2/3）
+> 「そんなものでっ!」
+"Chỉ cần thế thôi!"
+
+@10839 Wyme · ワイム
+# Kích hoạt: 轻伤（剩余 HP 90% 以上）（通用，3/3）
+> 「まだまだ!」
+"Vẫn còn sớm!"
+
+@10840 Wyme · ワイム
+# Kích hoạt: Né tránh（通用，1/3）
+> 「甘い甘い!」
+"Thật ngây thơ, thật ngây thơ!"
+
+@10841 Wyme · ワイム
+# Kích hoạt: Né tránh（通用，2/3）
+> 「なにを!」
+"Đừng nghĩ tới chuyện đó nữa!"
+
+@10842 Wyme · ワイム
+# Kích hoạt: Né tránh（通用，3/3）
+> 「見切った!」
+"Xem qua đi!"
+
+@10843 Wyme · ワイム
+# Kích hoạt: Tấn công无效（护罩／装甲）（通用，1/1）
+> 「甘い甘い!」
+"Thật ngây thơ, thật ngây thơ!"
+
+@10844 Wyme · ワイム
+# Kích hoạt: 弹药／EN 不足，无法反击（通用，1/1）
+> 「弾切れ!? これでは戦えんでは
+>  ないか!」
+"Hết đạn!? Chẳng phải là không thể chiến đấu sao!"
+
+@10845 Wyme · ワイム
+# Kích hoạt: 射程外，无法反击（通用，1/2）
+> 「な、なんと卑怯なやつらだ!」
+"Thật là một kẻ đáng khinh!"
+
+@10846 Wyme · ワイム
+# Kích hoạt: 射程外，无法反击（通用，2/2）
+> 「くっ……そんなところから撃つなど
+>  卑怯者のすることだぞ!」
+"Chà... chỉ có kẻ hèn hạ mới trốn và bắn từ khoảng cách xa như vậy!"
+
+@16352 Wyme · ワイム
+# Kích hoạt: 使用〈フィンファンネル〉
+> 「ガザの嵐を味わうがいい!」
+“Hãy nếm thử cơn bão ở Gaza!”
+
+@16353 Pampa · パンパ
+# Kích hoạt: 使用〈ガザストーム〉（对话第 1/4 句）
+> 「ワイム、ビアン、例のやついくぞ!」
+"Đợi đã, Bi'an, thực hiện động tác đó!"
+
+@16354 Wyme · ワイム
+# Kích hoạt: 使用〈ガザストーム〉（对话第 2/4 句）
+> 「ハッ」
+"Vâng!"
+
+@16355 Beanne · ビアン
+# Kích hoạt: 使用〈ガザストーム〉（对话第 3/4 句）
+> 「行けるぞ!」
+"Bạn có thể đến bất cứ lúc nào!"
+
+@16356 Pampa · パンパ
+# Kích hoạt: 使用〈ガザストーム〉（对话第 4/4 句）
+> 「ようし、ガザストームフォーメーション!」
+"Được rồi, Đội hình Bão Gaza!"

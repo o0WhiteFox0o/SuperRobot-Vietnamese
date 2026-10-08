@@ -19,7 +19,10 @@ from __future__ import annotations
 
 import argparse
 import base64
-import fcntl
+try:
+    import fcntl
+except ImportError:
+    fcntl = None
 import io
 import json
 from pathlib import Path
@@ -117,7 +120,11 @@ def expand_one(out: Path, sample: dict, config: dict, candidate: int = 1) -> dic
                   'reserved_cny': PRICE, 'price_is_estimate': True, 'status': 'request_started',
                   'started_at_utc': time.strftime('%Y-%m-%dT%H:%M:%SZ', time.gmtime())}
         with (out / '.budget.lock').open('a') as guard:
-            fcntl.flock(guard, fcntl.LOCK_EX)
+            if fcntl is not None:
+                fcntl.flock(guard, fcntl.LOCK_EX)
+            elif os.name == 'nt':
+                import msvcrt
+                msvcrt.locking(guard.fileno(), msvcrt.LK_LOCK, 1)
             reserved = sum(json.loads(f.read_text())['reserved_cny'] for f in (out / 'runs').glob('*/request.json'))
             if reserved + PRICE > BUDGET + 1e-8:
                 raise RuntimeError(f'spending reservation would exceed CNY {BUDGET}')

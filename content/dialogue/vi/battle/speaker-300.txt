@@ -1,0 +1,208 @@
+# Bản dịch tiếng Việt Super Robot Wars 64
+# Định dạng và vị trí: docs/guide/dialogue-text.md
+
+@13522 Guerrilla · ゲリラ
+# Kích hoạt: Tấn công (Chung，1/11）
+> 「このおぉぉぉっ!!」
+“Chết tiệt—! ! "
+
+@13523 Guerrilla · ゲリラ
+# Kích hoạt: Tấn công (Chung，2/11）
+> 「覚悟!」
+"Dậy đi!"
+
+@13524 Guerrilla · ゲリラ
+# Kích hoạt: Tấn công (Chung，3/11）
+> 「くらえっ!!」
+"Ăn chiêu của tôi đi!!"
+
+@13525 Guerrilla · ゲリラ
+# Kích hoạt: Tấn công (Chung，4/11）
+> 「うけてみろっ!!」
+"Tiến lên!!"
+
+@13526 Guerrilla · ゲリラ
+# Kích hoạt: Tấn công (Chung，5/11）
+> 「いけっ!」
+"Lên!"
+
+@13527 Guerrilla · ゲリラ
+# Kích hoạt: Tấn công (Chung，6/11）
+> 「させるかっ!」
+"Thật là một ý nghĩ đẹp đẽ!"
+
+@13528 Guerrilla · ゲリラ
+# Kích hoạt: Tấn công (Chung，7/11）
+> 「うおおっ!」
+"Ồ ồ!"
+
+@13529 Guerrilla · ゲリラ
+# Kích hoạt: Tấn công (Chung，8/11）
+> 「そこだっ!」
+"Chính là nó!"
+
+@13530 Guerrilla · ゲリラ
+# Kích hoạt: Tấn công (Chung，9/11）
+> 「当たれっ!」
+"Đánh!"
+
+@13531 Guerrilla · ゲリラ
+# Kích hoạt: Tấn công (Chung，10/11）
+> 「とどめっ!!」
+"Kết liễu ngươi đi!!"
+
+@13532 Guerrilla · ゲリラ
+# Kích hoạt: Tấn công (Chung，11/11）
+> 「こいつでどうだっ!」
+"Thử cái này đi!"
+
+@13533 Guerrilla · ゲリラ
+# Kích hoạt: 被击坠（通用，1/2）
+> 「うわっ! や、やられたっ!」
+"Wow! Đánh, đánh!"
+
+@13534 Guerrilla · ゲリラ
+# Kích hoạt: 被击坠（通用，2/2）
+> 「ぐうっ! しまった!」
+"Goooo! Ồ không!"
+
+@13535 Guerrilla · ゲリラ
+# Kích hoạt: 重伤（剩余 HP 不足 30%）（通用，1/5）
+> 「うおおっ! く、なんてパワーなんだ!?」
+"Oooh! Cái gì, đây là loại sức mạnh gì vậy!?"
+
+@13536 Guerrilla · ゲリラ
+# Kích hoạt: 重伤（剩余 HP 不足 30%）（通用，2/5）
+> 「ぐあっ! こ、こいつ、強いぞ!」
+"Guah! Tên này mạnh quá!"
+
+@13537 Guerrilla · ゲリラ
+# Kích hoạt: 重伤（剩余 HP 不足 30%）（通用，3/5）
+> 「な、何っ!? バカな!?」
+"C-cái gì!? Không thể nào!?"
+
+@13538 Guerrilla · ゲリラ
+# Kích hoạt: 重伤（剩余 HP 不足 30%）（通用，4/5）
+> 「うぐっ! い、いかん、やられる!?」
+"Wu Gu! Không, không, sắp kết thúc rồi!?"
+
+@13539 Guerrilla · ゲリラ
+# Kích hoạt: 重伤（剩余 HP 不足 30%）（通用，5/5）
+> 「あうっ! ま、まずい、このままでは……」
+"Aww! Rất tiếc, rất tiếc, nếu chuyện này tiếp tục..."
+
+@13540 Guerrilla · ゲリラ
+# Kích hoạt: 中伤（剩余 HP 30–90%）（通用，1/5）
+> 「ちっ、さすがにできるな!」
+"Tsk, nó thực sự đã xảy ra hai lần!"
+
+@13541 Guerrilla · ゲリラ
+# Kích hoạt: 中伤（剩余 HP 30–90%）（通用，2/5）
+> 「ぐっ! だが、この程度ならまだっ!」
+"Hmm! Nhưng tôi vẫn có thể chịu đựng được vết thương này!"
+
+@13542 Guerrilla · ゲリラ
+# Kích hoạt: 中伤（剩余 HP 30–90%）（通用，3/5）
+> 「くっ! まだまだ勝負はこれからよ!」
+"Chà! Chiến thắng vừa mới bắt đầu!"
+
+@13543 Guerrilla · ゲリラ
+# Kích hoạt: 中伤（剩余 HP 30–90%）（通用，4/5）
+> 「うっ! やるな!!」
+"Ugh! Có hai khoảnh khắc!!"
+
+@13544 Guerrilla · ゲリラ
+# Kích hoạt: 中伤（剩余 HP 30–90%）（通用，5/5）
+> 「くぅっ! やってくれたな!!」
+"Ugh! Bạn thật độc ác!!"
+
+@13545 Guerrilla · ゲリラ
+# Kích hoạt: 轻伤（剩余 HP 90% 以上）（通用，1/5）
+> 「ふん、かすった程度のものよ!」
+"Hừm, chỉ là một vết xước nhỏ thôi!"
+
+@13546 Guerrilla · ゲリラ
+# Kích hoạt: 轻伤（剩余 HP 90% 以上）（通用，2/5）
+> 「こそばゆいぜ!」
+"Giống như gãi ngứa!"
+
+@13547 Guerrilla · ゲリラ
+# Kích hoạt: 轻伤（剩余 HP 90% 以上）（通用，3/5）
+> 「ちっ、あたっちまった!」
+"Chậc, tôi bị trúng đòn rồi!"
+
+@13548 Guerrilla · ゲリラ
+# Kích hoạt: 轻伤（剩余 HP 90% 以上）（通用，4/5）
+> 「この程度のダメージなど!!」
+"Tác hại nhỏ này chẳng là gì cả!"
+
+@13549 Guerrilla · ゲリラ
+# Kích hoạt: 轻伤（剩余 HP 90% 以上）（通用，5/5）
+> 「当たっただけだ!」
+"Chỉ là một cái tát thôi!"
+
+@13550 Guerrilla · ゲリラ
+# Kích hoạt: Né tránh（通用，1/7）
+> 「甘いっ!」
+"Thật ngây thơ!"
+
+@13551 Guerrilla · ゲリラ
+# Kích hoạt: Né tránh（通用，2/7）
+> 「そこかっ!」
+"Đó!"
+
+@13552 Guerrilla · ゲリラ
+# Kích hoạt: Né tránh（通用，3/7）
+> 「かわせたっ!」
+"Tránh nó ra!"
+
+@13553 Guerrilla · ゲリラ
+# Kích hoạt: Né tránh（通用，4/7）
+> 「当たるか!」
+"Làm sao có thể đánh trúng!"
+
+@13554 Guerrilla · ゲリラ
+# Kích hoạt: Né tránh（通用，5/7）
+> 「なんの!」
+"Cái gì thế này!"
+
+@13555 Guerrilla · ゲリラ
+# Kích hoạt: Né tránh（通用，6/7）
+> 「かわしてみせる!!」
+"Coi chừng tôi trốn!!"
+
+@13556 Guerrilla · ゲリラ
+# Kích hoạt: Né tránh（通用，7/7）
+> 「残念だったな!」
+"Thật đáng tiếc!"
+
+@13557 Guerrilla · ゲリラ
+# Kích hoạt: Tấn công无效（护罩／装甲）（通用，1/2）
+> 「そんなビームなど!」
+"Đây là loại chùm tia gì?"
+
+@13558 Guerrilla · ゲリラ
+# Kích hoạt: Tấn công无效（护罩／装甲）（通用，2/2）
+> 「ふん、ムダなことをする!」
+"Hừ, lãng phí sức lực!"
+
+@13559 Guerrilla · ゲリラ
+# Kích hoạt: 弹药／EN 不足，无法反击（通用，1/2）
+> 「ちっ、しまった! 弾切れか!」
+"Tsk, không may mắn! Không còn đạn nữa!"
+
+@13560 Guerrilla · ゲリラ
+# Kích hoạt: 弹药／EN 不足，无法反击（通用，2/2）
+> 「くそっ! 弾切れかよ!」
+"Chết tiệt! Không còn viên đạn nào nữa!"
+
+@13561 Guerrilla · ゲリラ
+# Kích hoạt: 射程外，无法反击（通用，1/2）
+> 「くっ! ここからでは
+>  反撃は無理か……」
+"Hmm! Chúng ta không thể đánh trả từ khoảng cách này sao..."
+
+@13562 Guerrilla · ゲリラ
+# Kích hoạt: 射程外，无法反击（通用，2/2）
+> 「あんな遠くから攻撃してくるのか!?」
+"Bạn thực sự đã gọi cho tôi từ rất xa!?"

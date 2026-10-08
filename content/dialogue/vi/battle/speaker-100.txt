@@ -1,0 +1,177 @@
+# Bản dịch tiếng Việt Super Robot Wars 64
+# Định dạng và vị trí: docs/guide/dialogue-text.md
+
+@6974 Quinze · カーンズ
+# Kích hoạt: Tấn công (Chung，1/10）
+> 「全砲門開け!
+>  何としても撃ち落とすのだ」
+"Mở tất cả cửa súng! Hãy chắc chắn bắn hạ nó."
+
+@6975 Quinze · カーンズ
+# Kích hoạt: Tấn công (Chung，2/10）
+> 「敵部隊、
+>  有効射程距離内に入った!」
+"Quân địch đã tiến vào phạm vi tác dụng!"
+
+@6976 Quinze · カーンズ
+# Kích hoạt: Tấn công (Chung，3/10）
+> 「なんとしても撃破せよ!」
+"Nhất định phải đánh bại nó!"
+
+@6977 Quinze · カーンズ
+# Kích hoạt: Tấn công (Chung，4/10）
+> 「我々の未来のために、
+>  やっておかなければならないのだ!」
+"Vì tương lai của chúng ta, chúng ta phải làm điều này!"
+
+@6978 Quinze · カーンズ
+# Kích hoạt: Tấn công (Chung，5/10）
+> 「これで決着がつく!」
+"Hết giờ rồi!"
+
+@6979 Quinze · カーンズ
+# Kích hoạt: Tấn công (Chung，6/10）
+> 「このまま放置しておくわけには
+>  いかんっ!」
+"Chúng ta không thể cứ để nó một mình được!"
+
+@6980 Quinze · カーンズ
+# Kích hoạt: Tấn công (Chung，7/10）
+> 「必ず、落とす!!」
+"Phải bắn hạ nó!!"
+
+@6981 Quinze · カーンズ
+# Kích hoạt: Tấn công (Chung，8/10）
+> 「今度こそ、沈める!!」
+"Lần này chúng ta phải đánh chìm nó!!"
+
+@6982 Quinze · カーンズ
+# Kích hoạt: Tấn công (Chung，9/10）
+> 「宇宙は我々コロニー市民の
+>  ものだ!」
+"Vũ trụ thuộc về các công dân vệ tinh thuộc địa của chúng ta!"
+
+@6983 Quinze · カーンズ
+# Kích hoạt: Tấn công (Chung，10/10）
+> 「我々には大義がある!」
+"Chính nghĩa đứng về phía chúng ta!"
+
+@6984 Quinze · カーンズ
+# Kích hoạt: 被击坠（通用，1/1）
+> 「……終わった……」
+"...Kết thúc rồi..."
+
+@6985 Quinze · カーンズ
+# Kích hoạt: 重伤（剩余 HP 不足 30%）（通用，1/5）
+> 「バカ者っ! またしてもやられたのか!!」
+"Đồ ngốc! Sao lại bị đánh nữa!!"
+
+@6986 Quinze · カーンズ
+# Kích hoạt: 重伤（剩余 HP 不足 30%）（通用，2/5）
+> 「なんだと!? そんなムチャな!」
+"Cái gì!? Nó quá ngẫu nhiên!"
+
+@6987 Quinze · カーンズ
+# Kích hoạt: 重伤（剩余 HP 不足 30%）（通用，3/5）
+> 「制御回路がオーバーロードして
+>  しまっただと!?」
+"Vòng điều khiển bị quá tải!?"
+
+@6988 Quinze · カーンズ
+# Kích hoạt: 重伤（剩余 HP 不足 30%）（通用，4/5）
+> 「えーい、修理はまだかっ!?」
+"Chết tiệt, nó vẫn chưa được sửa sao!?"
+
+@6989 Quinze · カーンズ
+# Kích hoạt: 重伤（剩余 HP 不足 30%）（通用，5/5）
+> 「こ、こんなバカなことが……」
+"Cái này, cái này sao có thể..."
+
+@6990 Quinze · カーンズ
+# Kích hoạt: 中伤（剩余 HP 30–90%）（通用，1/4）
+> 「くっあれほど用心しろといったはずだ!」
+"Chà, chẳng phải tôi đã bảo cậu phải cẩn thận hết lần này đến lần khác sao?"
+
+@6991 Quinze · カーンズ
+# Kích hoạt: 中伤（剩余 HP 30–90%）（通用，2/4）
+> 「主砲のシステムダウン……
+>  各部損傷だとぉ!?」
+“Hệ thống súng chính bị tê liệt… hư hỏng khắp nơi!?”
+
+@6992 Quinze · カーンズ
+# Kích hoạt: 中伤（剩余 HP 30–90%）（通用，3/4）
+> 「しかし、このままでは……」
+“Nhưng nếu chuyện này tiếp tục…”
+
+@6993 Quinze · カーンズ
+# Kích hoạt: 中伤（剩余 HP 30–90%）（通用，4/4）
+> 「なにぃっ!?」
+"Cái gì!?"
+
+@6994 Quinze · カーンズ
+# Kích hoạt: 轻伤（剩余 HP 90% 以上）（通用，1/6）
+> 「なにごとだ!?」
+"Chuyện gì đang xảy ra vậy!?"
+
+@6995 Quinze · カーンズ
+# Kích hoạt: 轻伤（剩余 HP 90% 以上）（通用，2/6）
+> 「これは子どもの遊びではないのだ」
+"Đây không phải là trò chơi trẻ con"
+
+@6996 Quinze · カーンズ
+# Kích hoạt: 轻伤（剩余 HP 90% 以上）（通用，3/6）
+> 「対処のしようがないのであろう!」
+"Bạn đang ở mức cuối cùng của trí thông minh của bạn!"
+
+@6997 Quinze · カーンズ
+# Kích hoạt: 轻伤（剩余 HP 90% 以上）（通用，4/6）
+> 「新たな武器でも用意してるかと
+>  思ったが……」
+"Tôi tưởng bạn đã chuẩn bị một số vũ khí mới ..."
+
+@6998 Quinze · カーンズ
+# Kích hoạt: 轻伤（剩余 HP 90% 以上）（通用，5/6）
+> 「作戦を続行しろ!!」
+"Tiếp tục chiến đấu!!"
+
+@6999 Quinze · カーンズ
+# Kích hoạt: 轻伤（剩余 HP 90% 以上）（通用，6/6）
+> 「そんなものでは落ちんよ……」
+“Đòn tấn công đó không thể đánh bại được tôi…”
+
+@7000 Quinze · カーンズ
+# Kích hoạt: Né tránh（通用，1/2）
+> 「ムダな抵抗はやめろ」
+“Đừng chống cự một cách vô ích nữa.”
+
+@7001 Quinze · カーンズ
+# Kích hoạt: Né tránh（通用，2/2）
+> 「宇宙の民のためにも当たるわけには
+>  いかんのだよ」
+"Vì vũ trụ người, ta không thể bị đánh."
+
+@7002 Quinze · カーンズ
+# Kích hoạt: Tấn công无效（护罩／装甲）（通用，1/1）
+> 「ムダな抵抗はやめろ」
+“Đừng chống cự một cách vô ích nữa.”
+
+@7003 Quinze · カーンズ
+# Kích hoạt: 弹药／EN 不足，无法反击（通用，1/2）
+> 「くっ、次の攻撃までに要する
+>  時間は、どれぐらいかっ!?」
+"Chà, phải mất bao lâu nữa chúng ta mới có thể bắn lại!?"
+
+@7004 Quinze · カーンズ
+# Kích hoạt: 弹药／EN 不足，无法反击（通用，2/2）
+> 「弾切れだと!?」
+"Hết đạn!?"
+
+@7005 Quinze · カーンズ
+# Kích hoạt: 射程外，无法反击（通用，1/2）
+> 「射程に入っていないというのかっ!?」
+"Chưa vào tầm bắn!?"
+
+@7006 Quinze · カーンズ
+# Kích hoạt: 射程外，无法反击（通用，2/2）
+> 「どこからの攻撃か!?」
+"Cuộc tấn công đến từ đâu!?"

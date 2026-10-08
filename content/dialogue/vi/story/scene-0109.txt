@@ -1,0 +1,71 @@
+# Bản dịch tiếng Việt Super Robot Wars 64
+# Định dạng và vị trí: docs/guide/dialogue-text.md
+
+@50789 Cecily · セシリー
+> 「レジスタンス部隊は、まだ発見でき
+>  ないの?」
+"Lực lượng kháng chiến còn chưa tìm được sao?"
+
+@50790 Seabook · シーブック
+> 「だめだな。……そろそろ合流地点
+>  なんだけどな」
+“Không. ...Đã đến giờ hẹn rồi.”
+
+@50791 Cecily · セシリー
+> 「いくら命令だからといって、私たち
+>  2人だけで派遣されるなんてね」
+"Cho dù đây là mệnh lệnh, cũng chỉ có hai chúng ta được phái đi."
+
+@50792 Seabook · シーブック
+> 「しかたがないさ、セシリー。今はどこの
+>  組織だって、ひとりでも戦力を
+“Chúng ta không thể làm gì được, Cecily. Dù bây giờ là tổ chức nào thì cũng chỉ có thể có thêm một sức mạnh chiến đấu.
+---
+>  確保しておきたいんだ。2人も
+>  出られるだけでも、たいしたもんだよ」
+Có thể cử đi hai người đã là điều tuyệt vời rồi. "
+
+@50793 Cecily · セシリー
+> 「そうかもね。……えっ、何の音?
+>  ……あ、あれは何!」
+"Có lẽ vậy. ...Này, âm thanh gì vậy? ...À, đó là cái gì vậy!"
+
+@50794 Seabook · シーブック
+> 「レジスタンス部隊が来たのか?
+>  ……違う! 敵だ!」
+“Lực lượng kháng chiến đang đến à?... Không! Đó là kẻ thù!”
+
+@50795 Seabook · シーブック
+> 「2人だけでもできるってとこ、
+>  見せてやるさ」
+"Ngay cả khi chỉ có hai chúng ta, hãy cho họ thấy khả năng của chúng ta."
+
+@50796 Seabook · シーブック
+> 「な、なんでだよ!」
+"Tại sao, tại sao!"
+
+@50797 Cecily · セシリー
+> 「あぁぁ!? シ、シーブック!」
+"Ahhh!? Si-Sibuk!"
+
+@50798 Seabook · シーブック
+> 「やったぞ! 全滅だ!」
+"Giết rồi! Không còn ai!"
+
+@50799 Cecily · セシリー
+> 「……なんとか終わったようね」
+“…Cuối cùng cũng kết thúc.”
+
+@50800 Seabook · シーブック
+> 「ああ。……でも戦いは、まだまだ続くさ」
+"Chà...nhưng trận chiến còn lâu mới kết thúc."
+
+@50801 Cecily · セシリー
+> 「見て! あれ、レジスタンス部隊じゃ
+>  ないかしら」
+"Nhìn xem! Đó không phải là lực lượng kháng cự sao?"
+
+@50802 Seabook · シーブック
+> 「やっと来たか……
+>  セシリー、彼らと合流しよう」
+“Cuối cùng chúng ta cũng đến rồi… Cecily, đi gặp họ thôi.”

@@ -93,7 +93,10 @@ class CheckpointTests(unittest.TestCase):
         target = self.root / 'outside.bin'
         target.write_bytes(self.members['sram.bin'])
         (self.root / new / 'sram.bin').unlink()
-        (self.root / new / 'sram.bin').symlink_to(target)
+        try:
+            (self.root / new / 'sram.bin').symlink_to(target)
+        except OSError:
+            self.skipTest('Symlinks require privileges on Windows')
         self.assertIn('Symlink', recover(self.root, IDENTITY)[2][0]['reason'])
 
 

@@ -1,0 +1,334 @@
+# Bản dịch tiếng Việt Super Robot Wars 64
+# Định dạng và vị trí: docs/guide/dialogue-text.md
+
+@12899 George · ジョルジュ
+# Kích hoạt: Tấn công (Chung，1/7）
+> 「いくぞ!」
+"Lên!"
+
+@12900 George · ジョルジュ
+# Kích hoạt: Tấn công (Chung，2/7）
+> 「いざ!」
+"Cố lên!"
+
+@12901 George · ジョルジュ
+# Kích hoạt: Tấn công (Chung，3/7）
+> 「いきますよ!」
+"Tôi đang ở trên đó!"
+
+@12902 George · ジョルジュ
+# Kích hoạt: Tấn công (Chung，4/7）
+> 「うぁぁぁぁぁぁ!」
+"Uuuuuuuuuuuuuuuuuuuuuuuuu"
+
+@12903 George · ジョルジュ
+# Kích hoạt: Tấn công (Chung，5/7）
+> 「とどめだぁ!」
+"Đòn cuối cùng!"
+
+@12904 George · ジョルジュ
+# Kích hoạt: Tấn công (Chung，6/7）
+> 「これはどうです!?」
+“Còn động tác này thì sao!?”
+
+@12905 George · ジョルジュ
+# Kích hoạt: Tấn công (Chung，7/7）
+> 「今私の目に映るのは、お前のみ!」
+"Lúc này trong mắt tôi chỉ có em!"
+
+@12906 George · ジョルジュ
+# Kích hoạt: 被击坠（通用，1/3）
+> 「む、無念……」
+"Tôi thực sự không muốn..."
+
+@12907 George · ジョルジュ
+# Kích hoạt: 被击坠（通用，2/3）
+> 「あなたの勝ちだ……」
+"Bạn đã thắng ..."
+
+@12908 George · ジョルジュ
+# Kích hoạt: 被击坠（通用，3/3）
+> 「マ、マリアルイゼ様……」
+"C-Ông Maria Ruth..."
+
+@12909 George · ジョルジュ
+# Kích hoạt: 重伤（剩余 HP 不足 30%）（通用，1/5）
+> 「うわぁぁぁぁぁぁぁぁっ!」
+"Aaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaa"
+
+@12910 George · ジョルジュ
+# Kích hoạt: 重伤（剩余 HP 不足 30%）（通用，2/5）
+> 「こ、こんなはずは……」
+"Làm sao, làm sao chuyện này có thể xảy ra..."
+
+@12911 George · ジョルジュ
+# Kích hoạt: 重伤（剩余 HP 不足 30%）（通用，3/5）
+> 「ぐぅぅ、騎士は敵に背を向けぬ!」
+“Hmm, một hiệp sĩ sẽ không bao giờ quay lưng lại với kẻ thù!”
+
+@12912 George · ジョルジュ
+# Kích hoạt: 重伤（剩余 HP 不足 30%）（通用，4/5）
+> 「ま、まさか!?」
+"Làm sao, làm sao có thể!?"
+
+@12913 George · ジョルジュ
+# Kích hoạt: 重伤（剩余 HP 不足 30%）（通用，5/5）
+> 「どうした! 戦いはまだ終わって
+>  いないぞぉ!」
+"Sao vậy! Trận chiến vẫn chưa kết thúc!"
+
+@12914 George · ジョルジュ
+# Kích hoạt: 中伤（剩余 HP 30–90%）（通用，1/6）
+> 「その罪、万死に値します!」
+"Tội ác này không thể chuộc được bằng cái chết!"
+
+@12915 George · ジョルジュ
+# Kích hoạt: 中伤（剩余 HP 30–90%）（通用，2/6）
+> 「うっ!?」
+"Ờ!?"
+
+@12916 George · ジョルジュ
+# Kích hoạt: 中伤（剩余 HP 30–90%）（通用，3/6）
+> 「なにっ!?」
+"Cái gì!?"
+
+@12917 George · ジョルジュ
+# Kích hoạt: 中伤（剩余 HP 30–90%）（通用，4/6）
+> 「ぬぅっ!」
+"Hừm! "
+
+@12918 George · ジョルジュ
+# Kích hoạt: 中伤（剩余 HP 30–90%）（通用，5/6）
+> 「フッ、さすがですね」
+"Ồ, nó thực sự tuyệt vời."
+
+@12919 George · ジョルジュ
+# Kích hoạt: 中伤（剩余 HP 30–90%）（通用，6/6）
+> 「そうこなくては張り合いがありません」
+“Như vậy chắc sẽ thú vị lắm.”
+
+@12920 George · ジョルジュ
+# Kích hoạt: 轻伤（剩余 HP 90% 以上）（通用，1/3）
+> 「そのくらい」
+"Vết thương nhỏ này không có gì đáng lo ngại."
+
+@12921 George · ジョルジュ
+# Kích hoạt: 轻伤（剩余 HP 90% 以上）（通用，2/3）
+> 「フッ、その程度ですか」
+“Ồ, đó là tất cả những gì cậu có à?”
+
+@12922 George · ジョルジュ
+# Kích hoạt: 轻伤（剩余 HP 90% 以上）（通用，3/3）
+> 「そんな攻撃は効きませんよ」
+“Đòn tấn công đó không có tác dụng với tôi.”
+
+@12923 George · ジョルジュ
+# Kích hoạt: Né tránh（通用，1/5）
+> 「フッ!」
+"Hừm! "
+
+@12924 George · ジョルジュ
+# Kích hoạt: Né tránh（通用，2/5）
+> 「どうしたのですか?」
+"Có chuyện gì thế?"
+
+@12925 George · ジョルジュ
+# Kích hoạt: Né tránh（通用，3/5）
+> 「私はここですよ!」
+"Tôi ở đây!"
+
+@12926 George · ジョルジュ
+# Kích hoạt: Né tránh（通用，4/5）
+> 「このような攻撃など!」
+"Đây là kiểu tấn công gì vậy!"
+
+@12927 George · ジョルジュ
+# Kích hoạt: Né tránh（通用，5/5）
+> 「どうやらムダだったようですね」
+"Có vẻ như nỗ lực này là vô ích."
+
+@12928 George · ジョルジュ
+# Kích hoạt: Tấn công无效（护罩／装甲）（通用，1/2）
+> 「効かないといっているのです!」
+"Tôi đã nói là vô dụng!"
+
+@12929 George · ジョルジュ
+# Kích hoạt: Tấn công无效（护罩／装甲）（通用，2/2）
+> 「ビーム攻撃などと、ムダなことを!」
+"Tấn công bằng tia là lãng phí công sức!"
+
+@12930 George · ジョルジュ
+# Kích hoạt: 弹药／EN 不足，无法反击（通用，1/1）
+> 「弾切れ!? 私としたことが」
+“Hết đạn rồi!? Làm sao tôi có thể…”
+
+@12931 George · ジョルジュ
+# Kích hoạt: 射程外，无法反击（通用，1/2）
+> 「ここからでは届かないようですね」
+“Có vẻ như không thể liên lạc được từ đây.”
+
+@12932 George · ジョルジュ
+# Kích hoạt: 射程外，无法反击（通用，2/2）
+> 「卑怯なっ!」
+"Thật đáng khinh!"
+
+@17243 George · ジョルジュ
+# Kích hoạt: Tấn công，乘坐〈ガンダムローズ〉
+> 「ローズ!」
+"Hoa hồng!"
+
+@17244 George · ジョルジュ
+# Kích hoạt: Tấn công，乘坐〈ガンダムローズS〉
+> 「いくぞ、ガンダムローズ!」
+"Cố lên, RoseGundam!"
+
+@17245 George · ジョルジュ
+# Kích hoạt: 使用〈シュバリエサーベル〉（低优先，可能被通用台词顶掉）
+> 「この剣が受けられますか!?」
+"Bạn có thể lấy thanh kiếm này không!?"
+
+@17246 George · ジョルジュ
+# Kích hoạt: 使用〈ローゼスビット〉
+> 「ローゼスビット!」
+"Pháo bay hoa hồng!"
+
+@17247 George · ジョルジュ
+# Kích hoạt: 使用〈ローゼスビット〉
+> 「ゆけ! ローゼスビットォッ!」
+"Tiến lên! Hoa Hồng Phi Pháo——!"
+
+@17248 George · ジョルジュ
+# Kích hoạt: 使用〈ローゼスビット〉
+> 「受けよ我が洗礼!」
+"Hãy chấp nhận lễ rửa tội của tôi!"
+---
+> 「ローゼスビット!」
+"Pháo bay hoa hồng!"
+
+@17249 George · ジョルジュ
+# Kích hoạt: 使用〈ローゼスビット〉
+> 「いかがかな、
+>  変幻自在のローゼスビットは!?」
+“Pháo hoa hồng bay tự do có mùi vị như thế nào!?”
+
+@17250 George · ジョルジュ
+# Kích hoạt: 使用〈ローゼススクリーマー〉
+> 「受けよ我が洗礼!」
+"Hãy chấp nhận lễ rửa tội của tôi!"
+---
+> 「ローゼススクリーマー!」
+"Hoa hồng gầm lên!"
+
+@17251 George · ジョルジュ
+# Kích hoạt: 使用〈ローゼススクリーマー〉
+> 「ゆくぞ!」
+"Lên!"
+---
+> 「ローゼススクリーマー!」
+"Hoa hồng gầm lên!"
+
+@17252 George · ジョルジュ
+# Kích hoạt: 使用〈ローゼススクリーマー〉
+> 「ローゼススクリーマー!」
+"Hoa hồng gầm lên!"
+
+@17253 George · ジョルジュ
+# Kích hoạt: 剧情标志 45 = 3，使用〈ローゼスハリケーン〉
+> 「ゆけっ、ローゼスハリケーン!」
+"Tiếp tục đi, Bão Hồng!"
+
+@17254 George · ジョルジュ
+# Kích hoạt: 剧情标志 45 = 3，使用〈ローゼスハリケーン〉
+> 「とどめ! ローゼスハリケーン!!」
+"Một đòn chí mạng! Cơn bão hoa hồng!!"
+
+@17255 George · ジョルジュ
+# Kích hoạt: 剧情标志 45 = 3，使用〈ローゼスハリケーン〉
+> 「このエネルギーの渦から逃がれることは
+>  不可能!」
+"Tuyệt đối không thể thoát khỏi vòng xoáy năng lượng này!"
+
+@17256 George · ジョルジュ
+# Kích hoạt: 剧情标志 45 = 0，使用〈ローゼスハリケーン〉
+> 「ゆけっ、ローゼスハリケーン!」
+"Tiếp tục đi, Bão Hồng!"
+
+@17257 George · ジョルジュ
+# Kích hoạt: 剧情标志 45 = 0，使用〈ローゼスハリケーン〉
+> 「とどめ! ローゼスハリケーン!!」
+"Một đòn chí mạng! Cơn bão hoa hồng!!"
+
+@17258 George · ジョルジュ
+# Kích hoạt: 剧情标志 45 = 0，使用〈ローゼスハリケーン〉
+> 「このエネルギーの渦から逃がれることは
+>  不可能!」
+"Tuyệt đối không thể thoát khỏi vòng xoáy năng lượng này!"
+
+@17259 Domon · ドモン
+# Kích hoạt: 使用〈シャッフル同盟拳〉（对话第 1/7 句）
+> 「いくぞ、お前たちぃ!!」
+"Nào các bạn!!"
+
+@17260 Chibodee · チボデー
+# Kích hoạt: 使用〈シャッフル同盟拳〉（对话第 2/7 句）
+> 「おおっ!」
+"Ồ!"
+
+@17261 Chibodee · チボデー
+# Kích hoạt: 使用〈シャッフル同盟拳〉（对话第 3/7 句）
+> 「この魂の炎!」
+"Ngọn lửa linh hồn này!"
+
+@17262 George · ジョルジュ
+# Kích hoạt: 使用〈シャッフル同盟拳〉（对话第 4/7 句）
+> 「極限まで高めれば!」
+"Nhược Nhiên đạt tới cực hạn!"
+
+@17263 Sai Saici · サイ・サイシー
+# Kích hoạt: 使用〈シャッフル同盟拳〉（对话第 5/7 句）
+> 「倒せないものなど!」
+"Không có gì đâu!"
+
+@17264 Argo · アルゴ
+# Kích hoạt: 使用〈シャッフル同盟拳〉（对话第 6/7 句）
+> 「なにもない!」
+"Nó không thể bị đánh bại!"
+
+@17265 Domon · ドモン
+# Kích hoạt: 使用〈シャッフル同盟拳〉（对话第 7/7 句）
+> 「爆熱ッ! シャッフル同盟拳!!」
+"Sức nóng bùng nổ! Xáo trộn nắm đấm liên minh!!"
+
+@17266 George · ジョルジュ
+# Kích hoạt: 重伤（剩余 HP 不足 30%），乘坐〈ガンダムローズ〉
+> 「くっ……しかし私は負けない!
+>  ゆくぞガンダムロォォォズ!」
+"Hmm...nhưng tôi sẽ không thua! Tiến lên nào, Rose Gun——!"
+
+@17267 George · ジョルジュ
+# Kích hoạt: 重伤（剩余 HP 不足 30%），乘坐〈ガンダムローズS〉
+> 「くっ……しかし私は負けない!
+>  ゆくぞガンダムロォォォズ!」
+"Hmm...nhưng tôi sẽ không thua! Tiến lên nào, Rose Gun——!"
+
+@17268 George · ジョルジュ
+# Kích hoạt: 中伤（剩余 HP 30–90%），乘坐〈ガンダムローズ〉
+> 「ガ、ガンダムローズが……」
+"Rose, thực ra Rose Gun..."
+
+@17269 George · ジョルジュ
+# Kích hoạt: 中伤（剩余 HP 30–90%），乘坐〈ガンダムローズS〉
+> 「ガ、ガンダムローズが……」
+"Rose, thực ra Rose Gun..."
+
+@17270 George · ジョルジュ
+# Kích hoạt: Tấn công无效（护罩／装甲），乘坐〈ガンダムローズ〉
+> 「それではこのガンダムローズに、
+>  傷ひとつつきませんよ」
+"Điều này sẽ không làm tổn thương bông hồng chút nào."
+
+@17271 George · ジョルジュ
+# Kích hoạt: Tấn công无效（护罩／装甲），乘坐〈ガンダムローズS〉
+> 「それではこのガンダムローズに、
+>  傷ひとつつきませんよ」
+"Điều này sẽ không làm tổn thương bông hồng chút nào."

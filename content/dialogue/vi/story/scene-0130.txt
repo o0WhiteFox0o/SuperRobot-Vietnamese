@@ -1,0 +1,526 @@
+# Bản dịch tiếng Việt Super Robot Wars 64
+# Định dạng và vị trí: docs/guide/dialogue-text.md
+
+@43321 Beltorchika · ベルトーチカ
+> 「高原地帯に敵が防衛線を
+>  はっています!」
+"Kẻ địch đã bố trí phòng tuyến trên cao nguyên!"
+
+@43322 Bright · ブライト
+> 「ここを突破すればクスコまですぐだ
+>  一気に突破するぞ!」
+"Chỉ cần chúng ta đột phá nơi này, liền đến Cusco không xa. Chạy một mạch tới!"
+
+@43323 Amuro · アムロ
+> 「みんないいか、とにかく敵を突破する
+>  んだ」
+“Mọi người nghe đây, trước tiên hãy đột phá đội hình của kẻ địch.”
+
+@43324 Rose · ロゼ
+> 「私は自分が助かろうとは思わない
+>  だがマーグの復讐、これだけは……」
+"Tôi chưa bao giờ nghĩ đến việc sống sót. Nhưng sự trả thù duy nhất của Magu là thế này..."
+
+@43325 Takeru · タケル
+> 「あれは……ロゼか」
+"Đó là...Rose."
+
+@43326 Rose · ロゼ
+> 「マーズ……お前は私が殺す。
+>  マーグ隊長の仇をうたせてもらう!」
+"Mars... Ta sẽ tự tay giết chết ngươi. Ta sẽ báo thù cho đội trưởng Magu!"
+
+@43327 Takeru · タケル
+> 「なんだって!? ばかな、それは
+>  俺のセリフだ!」
+"Anh nói gì thế!? Anh đang đùa à, đó là điều tôi nên nói!"
+
+@43328 Rose · ロゼ
+> 「問答無用!!」
+"Bớt nói nhảm đi!!"
+
+@43329 Takeru · タケル
+> 「お前がそうなら、俺こそマーグの仇を
+>  うたせてもらう。ロゼッ!」
+"Trong trường hợp này, tôi muốn trả thù cho Magu. Rose!"
+
+@43330 Julia · ジュリア
+> 「おやめなさい。復讐は復讐を
+>  呼びます。誰かが、その鎖を
+"Dừng lại. Trả thù chỉ sinh ra trả thù. Ai đó phải làm vậy,
+---
+>  断ち切らねばならないのです」
+Cắt chuỗi này. "
+
+@43331 Takeru · タケル
+> 「聖女ジュリア!? だが、あの女は
+>  マーグを……」
+"Thánh Julia! ? Nhưng người phụ nữ đó đã giết Magu…”
+
+@43332 Julia · ジュリア
+> 「かつては、わたくしも復讐のために、
+>  それがすべてと信じて、自分の弟と
+"Ngày xửa ngày xưa, tôi có ý định trả thù và nghĩ rằng thế là xong.
+---
+>  戦いました」
+Đấu tranh với chính anh trai mình. "
+
+@43333 Takeru · タケル
+> 「あなたが……エイジと?」
+"Cậu... và Eiji? "
+
+@43334 Julia · ジュリア
+> 「それがいかに無意味であったかは、
+>  今のわたくしはよく知っているのです
+“Bây giờ tôi mới biết quá rõ điều đó vô nghĩa thế nào.
+---
+>  鎖を断ち切りなさい。
+>  あなたなら、できるはずです」
+Cắt đứt dây xích. Nếu là bạn, bạn chắc chắn có thể làm được. "
+
+@43335 Takeru · タケル
+> 「……マーグ……兄さん……
+>  兄さんもそう思うのかい……?」
+"...Magu...Anh...Anh, anh cũng nghĩ vậy sao...?" "
+
+@43336 Takeru · タケル
+> 「ロゼか!?」
+"Có phải là Rose không??"
+
+@43337 Rose · ロゼ
+> 「マーズ……ここで失敗すれば
+>  私は死を選ぶしかない
+"Sao Hỏa... nếu lần này thất bại, tôi sẽ không còn lựa chọn nào khác ngoài chết.
+---
+>  ズール皇帝の名において、
+>  お前を殺す」
+Nhân danh Hoàng đế Zulu, tôi sẽ giết anh. "
+
+@43338 Takeru · タケル
+> 「やめろ、ロゼ! マーグに聞いた。
+>  君は本当は戦うことを
+"Dừng lại đi, Rosey! Tôi nghe Magoo nói. Thực ra bạn không
+---
+>  望んではいないはずだ」
+Muốn chiến đấu. "
+
+@43339 Rose · ロゼ
+> 「マーグ……隊長が……。だめだっ!
+>  私はズール皇帝の兵士
+"Đội trưởng Magu... anh ấy... không thể làm được! Tôi là quân nhân của Hoàng đế Zulu,
+---
+>  皇帝の命のままに動く道具だ。
+>  戦って、お前を倒す以外の道は
+Nó là một công cụ chỉ tuân theo mệnh lệnh của hoàng đế. Ngoài việc chiến đấu và đánh bại bạn,
+---
+>  選べない!」
+Tôi không có lựa chọn nào khác! "
+
+@43340 Takeru · タケル
+> 「ロゼ!」
+"Hoa hồng!"
+
+@43341 Takeru · タケル
+> 「やめろ、やめるんだロゼ!」
+"Dừng lại, dừng lại, Rose!"
+
+@43342 Rose · ロゼ
+> 「黙れ!」
+"Im đi!"
+
+@43343 Takeru · タケル
+> 「君はズールの道具でも、命じられた
+>  ままに戦うバトルマシンでもないはずだ
+“Bạn không phải là công cụ của Zulu cũng không phải là cỗ máy chiến đấu chỉ tuân theo mệnh lệnh chiến đấu.
+---
+>  人間なんだ。マーグは君を助けたい
+>  といった。俺も……
+Bạn là con người. Magu nói rằng anh ấy muốn cứu bạn. Tôi cũng vậy...
+---
+>  俺も君を殺したくない」
+Tôi cũng không muốn giết bạn. "
+
+@43344 Rose · ロゼ
+> 「マーズ……なぜ……なぜ敵である私を
+>  助けようとする? 任務のためなら
+"Sao Hỏa... tại sao... tại sao anh lại muốn cứu tôi, kẻ thù là ai? Vì nhiệm vụ,
+---
+>  味方ですら私を殺すだろうと
+>  いうのに。なぜ!?」
+Ngay cả người của tôi cũng sẽ giết tôi. Tại sao! ? "
+
+@43345 Takeru · タケル
+> 「俺は、俺たちはそんな戦い方は
+>  しない。マーグはいったよ。悪いのは
+“Tôi, chúng ta không đánh nhau như vậy. Magu nói, có chuyện gì vậy
+---
+>  ズールだと。銀河帝国のすべてが
+>  ズールと同じわけではないと
+Zulu. Đế chế Thiên hà không hoàn toàn giống Zulu.
+---
+>  俺もそう思う。間違っているのは
+>  ズールなんだ」
+Tôi cũng nghĩ vậy. Chính Zulu đã sai. "
+
+@43346 Rose · ロゼ
+> 「マーズ……私……私は……。くっ」
+"Sao Hỏa...tôi...tôi...chà."
+
+@43347 Takeru · タケル
+> 「ロゼ……!?」
+"Hoa hồng...!?"
+
+@43348 Rose · ロゼ
+> 「マーズ、よくもぬけぬけと」
+"Mars, ngươi thật không biết xấu hổ khi nói như vậy."
+
+@43349 Takeru · タケル
+> 「待て、ロゼ。戦うことはいつでもできる
+>  その前に聞きたいことがある
+"Đợi đã, Rose. Bạn có thể chiến đấu bất cứ lúc nào bạn muốn. Trước đó, tôi muốn hỏi bạn một điều.
+---
+>  マーグは俺たちが復讐しあうのを
+>  喜ぶと思うか?」
+Bạn có nghĩ Magu sẽ vui khi thấy chúng ta trả thù lẫn nhau không? "
+
+@43350 Rose · ロゼ
+> 「…………ズール皇帝の命令は、
+>  すべてに優先する」
+"...mệnh lệnh của Hoàng đế Zulu được ưu tiên hơn mọi thứ khác."
+
+@43351 Takeru · タケル
+> 「やめるんだ、ロゼ!
+>  君を殺したくはない。もうやめてくれ!」
+"Dừng lại đi, Rosé! Tôi không muốn giết bạn. Hãy ngừng chiến đấu!"
+
+@43352 Rose · ロゼ
+> 「!? なぜ敵である私を助けようと
+>  する。任務のためなら、味方ですら
+"!? Tại sao bạn muốn cứu tôi như một kẻ thù? Đối với nhiệm vụ, ngay cả người của tôi cũng sẽ
+---
+>  私を殺すだろうというのに。
+>  私はマーグの仇だろう!? なぜ!?」
+Giết tôi đi. Tôi không phải là kẻ thù của Magu sao? ? Tại sao! ? "
+
+@43353 Takeru · タケル
+> 「君を倒してもマーグは喜ばない……
+>  ロゼ、君はバトルマシンではない
+“Ngay cả khi tôi đánh bại bạn, Magu cũng sẽ không vui… Rose, bạn không phải là một cỗ máy chiến đấu.
+---
+>  人間なんだ。ズールの道具なんか
+>  では、ないはずだ」
+Bạn là con người. Bạn không phải là một công cụ Zulu nào đó. "
+
+@43354 Rose · ロゼ
+> 「マーズ……? 私……私は……」
+"Sao Hỏa...? Tôi...tôi..."
+
+@43355 Takeru · タケル
+> 「もうやめるんだ、ロゼ。君だって本当
+>  はこんな戦いを望んじゃいないはずだ
+"Đừng cãi nhau nữa, Rose. Trên thực tế, bạn không muốn chiến đấu như thế này.
+---
+>  そうだろう?」
+Đúng không? "
+
+@43356 Rose · ロゼ
+> 「くっ……」
+"Ờ..."
+
+@43357 Takeru · タケル
+> 「ロゼッ!?」
+"Hoa hồng! ? "
+
+@43358 Banjo · 万丈
+> 「やれやれ、なんとか突破できたようだね」
+“Ôi trời, có vẻ như cuối cùng chúng ta cũng có bước đột phá rồi. "
+
+@43359 Garrison · ギャリソン
+> 「そうですな。銀河帝国軍が
+>  我々の動きを察知して
+"Chính xác. Quân đội Đế quốc Thiên hà dường như đã nhận thấy chuyển động của chúng tôi,
+---
+>  南米に集結を始めておりますが、
+>  クスコのOZ軍は、まだ
+đã bắt đầu tập trung ở Nam Mỹ, nhưng có vẻ như quân OZ ở Cusco vẫn còn
+---
+>  もちこたえている様子。これで
+>  我々もどうにか間にあいましたな」
+Đợi đã. Bằng cách này, cuối cùng chúng tôi đã bắt kịp. "
+
+@43360 Bright · ブライト
+> 「よし、クスコへ急ぐぞ」
+"Được rồi, nhanh tới Cusco. "
+
+@43361 Alan · アラン
+> 「くそっ、敵の勢力圏は突破
+>  できたが、予想以上の時間が
+“Chết tiệt, mặc dù tôi đã thoát ra khỏi phạm vi ảnh hưởng của kẻ địch nhưng lại mất nhiều thời gian hơn dự kiến.
+---
+>  かかってしまった。これでは……」
+Quá nhiều. Nếu chuyện này tiếp tục..."
+
+@43362 Bright · ブライト
+> 「とにかく、クスコへ向かうぞ」
+“Dù sao thì, đang hướng tới Cusco. "
+
+@43363 Sayaka · さやか
+> 「あら……あれは銀河帝国の……。
+>  ちょっとボス、タケルを呼んできて
+"Ồ...đó là từ Đế chế Thiên Hà...Sếp, đi gọi Wu.
+---
+>  ちょうだい」
+Được rồi. "
+
+@43364 Boss · ボス
+> 「おう、わかったわよん」
+"Ồ, tôi biết. "
+
+@43365 Sayaka · さやか
+> 「タケル、ほら、あれよ」
+"Wu, nhìn này, chính là nó. "
+
+@43366 Takeru · タケル
+> 「ロゼ!? いったいどうして……」
+"Hoa hồng! ? Sao cậu có thể..."
+
+@43367 Rose · ロゼ
+> 「マーズ……あなたには負けたわ。
+>  でも、あなたの強さは何なの?
+"Mars...tôi đã thua bạn. Nhưng sức mạnh của bạn đến từ đâu?
+---
+>  地球人でもないのに、命をかけて
+>  まで地球のために戦えるのは
+Dù rõ ràng anh ta không đến từ Trái đất nhưng tại sao anh ta lại có thể mạo hiểm mạng sống của mình để chiến đấu vì Trái đất?
+---
+>  なぜなの?」
+Tại sao lại thế này? "
+
+@43368 Takeru · タケル
+> 「俺は……確かにギシン星人だ。
+>  だけど、心は地球人だ
+"Tôi... quả thực là một thành viên của Alien Earthquake. Nhưng tôi có một trái tim trần thế.
+---
+>  俺は地球で育ったんだよ」
+Tôi lớn lên trên Trái đất. "
+
+@43369 Rose · ロゼ
+> 「地球人の心……」
+“Trái tim của mọi người trên trái đất…”
+
+@43370 Takeru · タケル
+> 「ロゼ、君はこれからどうするつもり
+>  なんだ?」
+"Rose, tiếp theo cậu định làm gì? "
+
+@43371 Rose · ロゼ
+> 「……マーグ隊長はどうされているの?」
+“…Đội trưởng Magu thế nào rồi? "
+
+@43372 Takeru · タケル
+> 「マーグは療養中だよ。ここにはいない」
+“Magu đang hồi phục. Không phải ở đây. "
+
+@43373 Rose · ロゼ
+> 「そう……マーズ、私は……」
+"Chính là nó...Mars, tôi..."
+
+@43374 Banjo · 万丈
+> 「彼女かい、投降してきた銀河
+>  帝国軍の兵士というのは?」
+"Có phải cô ấy, người lính của Đế chế Thiên hà đã đầu hàng? "
+
+@43375 Takeru · タケル
+> 「万丈さん……ええ、そうです」
+"Ông. Wan Zhang...vâng, chính là cô ấy. "
+
+@43376 Banjo · 万丈
+> 「悪いが僕たちにはあまり時間がない
+>  のんびりと話をしているわけには
+"Xin lỗi, chúng tôi không có nhiều thời gian, chúng tôi không thể từ từ được.
+---
+>  いかないんだが……」
+Trò chuyện..."
+
+@43377 Rose · ロゼ
+> 「状況は理解しているつもりです。
+>  私も一緒に連れて行ってください」
+“Tôi có hiểu biết chung về tình hình. Hãy đưa tôi đi cùng bạn. "
+
+@43378 Takeru · タケル
+> 「君を!?」
+"Mang ngươi theo ta! ? "
+
+@43379 Banjo · 万丈
+> 「別に君を疑うわけじゃないが……」
+“Tôi không nghi ngờ anh…”
+
+@43380 Rose · ロゼ
+> 「お願いします。もっとよく知りたい
+>  んです。地球人のものの考え方を」
+"Làm ơn. Tôi muốn hiểu sâu hơn...cách suy nghĩ của mọi người trên Trái đất. "
+
+@43381 Takeru · タケル
+> 「万丈さん、彼女がいれば作戦が
+>  成功した時に、敵に与える
+"Ông. Vạn Chương, có nàng ở đây, khi trận chiến thành công, kẻ địch có thể sẽ có được
+---
+>  動揺を大きくできるかもしれない」
+Rung động hơn. "
+
+@43382 Banjo · 万丈
+> 「そうだな……わかった、艦長たちと
+>  相談してみよう」
+“Đúng rồi… Được rồi, tôi sẽ đi bàn bạc với đội trưởng và những người khác. "
+
+@43383 Takeru · タケル
+> 「ありがとうございます」
+"Cảm ơn bạn."
+
+@43384 Rose · ロゼ
+> 「マーズ……」
+"Sao Hỏa..."
+
+@43385 Sayaka · さやか
+> 「あら……あれは銀河帝国の……。
+>  ちょっとボス、タケルを呼んできて
+"Ồ...đó là từ Đế chế Thiên Hà...Sếp, đi gọi Wu.
+---
+>  ちょうだい」
+Được rồi. "
+
+@43386 Boss · ボス
+> 「おう、わかったわよん」
+"Ồ, tôi biết. "
+
+@43387 Sayaka · さやか
+> 「タケル、ほら、あれよ」
+"Wu, nhìn này, chính là nó. "
+
+@43388 Takeru · タケル
+> 「ロゼ!? いったいどうして……」
+"Hoa hồng! ? Sao cậu có thể..."
+
+@43389 Rose · ロゼ
+> 「マーズ……あなたには負けたわ。
+>  でも、あなたの強さは何なの?
+"Mars...tôi đã thua bạn. Nhưng sức mạnh của bạn đến từ đâu?
+---
+>  地球人でもないのに、命をかけて
+>  まで地球のために戦えるのは
+Dù rõ ràng anh ta không đến từ Trái đất nhưng tại sao anh ta lại có thể mạo hiểm mạng sống của mình để chiến đấu vì Trái đất?
+---
+>  なぜなの?」
+Tại sao lại thế này? "
+
+@43390 Takeru · タケル
+> 「俺は……確かにギシン星人だ。
+>  だけど、心は地球人だ
+"Tôi... quả thực là một thành viên của Alien Earthquake. Nhưng tôi có một trái tim trần thế.
+---
+>  俺は地球で育ったんだよ」
+Tôi lớn lên trên Trái đất. "
+
+@43391 Rose · ロゼ
+> 「地球人の心……」
+“Trái tim của mọi người trên trái đất…”
+
+@43392 Takeru · タケル
+> 「ロゼ、君は……」
+"Rose, cậu..."
+
+@43393 Rose · ロゼ
+> 「マーズ、私はたぶん、あなたにあえて
+>  よかったのだと思う
+"Mars, tôi nghĩ gặp được bạn có lẽ là một điều tốt.
+---
+>  それを伝えたかったの。私の星も
+>  銀河帝国にせめこまれた星だった」
+Tôi muốn nói với bạn điều này. Hành tinh của tôi cũng bị Đế chế Thiên hà xâm chiếm. "
+
+@43394 Takeru · タケル
+> 「ロゼ……これからどうするんだ?」
+"Rose... tiếp theo em định làm gì? "
+
+@43395 Rose · ロゼ
+> 「私は、また任務に失敗したわ。
+>  もう、もどっても名誉な死すらも
+“Tôi lại thất bại trong nhiệm vụ của mình. Cho dù có quay lại, e rằng mình cũng không chết trong danh dự.
+---
+>  与えられないでしょう。
+>  きっと洗脳されて、戦うだけの
+được cho phép. Anh ta chắc chắn sẽ bị tẩy não và trở thành kẻ chỉ biết chiến đấu.
+---
+>  バトルマシンにされてしまう。だけど……
+>  もどらないわけにはいかないもの」
+Máy chiến đấu. Nhưng...tôi không thể không quay lại. "
+
+@43396 Takeru · タケル
+> 「ダメだ! もどっちゃいけない、ロゼ。
+>  自分の命を無駄にするな!」
+"Không! Cô không thể quay lại được, Rose. Đừng lãng phí cuộc đời mình một cách vô ích! "
+
+@43397 Rose · ロゼ
+> 「マーズ……!? でも私は……」
+"Sao Hỏa...!? Nhưng, tôi..."
+
+@43398 Koji · 甲児
+> 「話は聞いてたけどさ、
+>  別に帝国にもどる以外にも
+"Tôi đã nghe tất cả những gì bạn nói, nhưng bên cạnh việc trở về đế quốc,
+---
+>  やりようは、あるんじゃないのか?
+>  どこか適当なところへ逃げちまえば
+Không có cách nào khác sao? Chỉ cần tìm một nơi để trốn thoát
+---
+>  いいじゃないか」
+Chỉ cần không. "
+
+@43399 Banjo · 万丈
+> 「そういうこと。嫌なことを無理にする
+>  ことはない」
+"Đúng vậy. Không cần thiết phải ép buộc bản thân làm điều gì đó mà bạn không muốn làm. "
+
+@43400 Takeru · タケル
+> 「万丈さん……」
+"Ông Vạn Chương..."
+
+@43401 Rose · ロゼ
+> 「敵の私を、そこまで自由にさせると
+>  いうの? なぜ……?」
+"Ngươi định để ta, kẻ thù, được tự do như vậy sao? Tại sao……? "
+
+@43402 Banjo · 万丈
+> 「別に、坊主憎けりゃ袈裟まで
+>  憎いってわけでもないからね
+“Điều đó không có nghĩa là nếu bạn ghét một nhà sư thì bạn cũng phải ghét chiếc áo cà sa.
+---
+>  ま、実際のところは僕たちもまったく
+>  余裕がないんでね。よけいなことに
+Nhưng thành thật mà nói, chúng ta có quá nhiều thời gian để chăm sóc bản thân. Những điều thừa thãi,
+---
+>  かかわっていられないのさ」
+Tôi thực sự không có thời gian để quan tâm. "
+
+@43403 Rose · ロゼ
+> 「……なら……私も一緒に連れて
+>  行ってください」
+“...Vậy...xin hãy đưa tôi đi cùng. "
+
+@43404 Banjo · 万丈
+> 「君を?」
+"Ôm ngươi? "
+
+@43405 Rose · ロゼ
+> 「状況は知っています。少なくとも、
+>  役には立つはずです」
+"Tôi hiểu tình hình. Ít nhất, nó sẽ có ích. "
+
+@43406 Banjo · 万丈
+> 「それはそうだが……」
+“Điều anh nói là đúng…”
+
+@43407 Rose · ロゼ
+> 「それに……もっと知りたいんです。
+>  地球人のものの考え方を」
+“Và... tôi muốn hiểu sâu hơn... cách suy nghĩ của mọi người trên Trái đất. "

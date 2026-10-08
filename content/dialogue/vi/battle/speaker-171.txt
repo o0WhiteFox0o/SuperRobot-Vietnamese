@@ -1,0 +1,762 @@
+# Bản dịch tiếng Việt Super Robot Wars 64
+# Định dạng và vị trí: docs/guide/dialogue-text.md
+
+@9271 Shinobu · 忍
+# Kích hoạt: Tấn công (Chung，1/17）
+> 「くらえっ!!」
+"Ăn chiêu của tôi đi!!"
+
+@9272 Shinobu · 忍
+# Kích hoạt: Tấn công (Chung，2/17）
+> 「くらいやがれっ!!」
+"Đưa tôi chiêu này!!"
+
+@9273 Shinobu · 忍
+# Kích hoạt: Tấn công (Chung，3/17）
+> 「くたばれっ!!!」
+"Xuống địa ngục đi!!!"
+
+@9274 Shinobu · 忍
+# Kích hoạt: Tấn công (Chung，4/17）
+> 「覚悟しやがれ!!」
+"Chết tiệt!!"
+
+@9275 Shinobu · 忍
+# Kích hoạt: Tấn công (Chung，5/17）
+> 「なろうっ!」
+"Đồ khốn! "
+
+@9276 Shinobu · 忍
+# Kích hoạt: Tấn công (Chung，6/17）
+> 「いくぜ!」
+"Nào!"
+
+@9277 Shinobu · 忍
+# Kích hoạt: Tấn công (Chung，7/17）
+> 「さっさとかえんな!」
+"Quay lại đây nhanh lên!"
+
+@9278 Shinobu · 忍
+# Kích hoạt: Tấn công (Chung，8/17）
+> 「いけぇいっ!」
+"Nào!"
+
+@9279 Shinobu · 忍
+# Kích hoạt: Tấn công (Chung，9/17）
+> 「くたばりやがれ!」
+"Đi xuống địa ngục đi!"
+
+@9280 Shinobu · 忍
+# Kích hoạt: Tấn công (Chung，10/17）
+> 「もー許さねぇ! やってやるぜ!」
+"Tôi sẽ không tha cho bạn nữa! Tôi sẽ chiến đấu với bạn!"
+
+@9281 Shinobu · 忍
+# Kích hoạt: Tấn công (Chung，11/17）
+> 「これでもくらいなっ!」
+"Ăn chiêu của tôi đi!"
+
+@9282 Shinobu · 忍
+# Kích hoạt: Tấn công (Chung，12/17）
+> 「こいつでとどめだ!!」
+"Tao sẽ giết mày ngay bây giờ!!"
+
+@9283 Shinobu · 忍
+# Kích hoạt: Tấn công (Chung，13/17）
+> 「うぅぅおおおおっ!!」
+"Ồhhhhhh!!"
+
+@9284 Shinobu · 忍
+# Kích hoạt: Tấn công (Chung，14/17）
+> 「いっけぇーっ!!!」
+"Tiếp đi——!!!"
+
+@9285 Shinobu · 忍
+# Kích hoạt: Tấn công (Chung，15/17）
+> 「いやっってやるぜっっ!!!」
+"Cẩn thận nếu tôi không giết anh!!!"
+
+@9286 Shinobu · 忍
+# Kích hoạt: Tấn công (Chung，16/17）
+> 「いくぜっ!!」
+"Nào! ! "
+
+@9287 Shinobu · 忍
+# Kích hoạt: Tấn công (Chung，17/17）
+> 「やってやるぜっっ!!」
+"Hãy xem tôi làm điều đó!!"
+
+@9288 Shinobu · 忍
+# Kích hoạt: 被击坠（通用，1/3）
+> 「くそっ!! やられちまったっ!」
+"Chết tiệt!! Bị giết rồi!"
+
+@9289 Shinobu · 忍
+# Kích hoạt: 被击坠（通用，2/3）
+> 「ちっくしょおおおおおっ!!」
+"Chết tiệt ahhhhhh!!"
+
+@9290 Shinobu · 忍
+# Kích hoạt: 被击坠（通用，3/3）
+> 「チッ! しくじったか!?」
+"Tsk! Bạn có bỏ lỡ nó không!?"
+
+@9291 Shinobu · 忍
+# Kích hoạt: 重伤（剩余 HP 不足 30%）（通用，1/8）
+> 「うっ! ま、まずいっ!!」
+"Ừm! Không, không ổn!!"
+
+@9292 Shinobu · 忍
+# Kích hoạt: 重伤（剩余 HP 不足 30%）（通用，2/8）
+> 「くっ! 損傷率70%
+>  オーバーか!?」
+"Hmm! Tỷ lệ thiệt hại có trên 70% không!?"
+
+@9293 Shinobu · 忍
+# Kích hoạt: 重伤（剩余 HP 不足 30%）（通用，3/8）
+> 「くっ!! ヤバイな……」
+"Ugh!! Điều đó không tốt..."
+
+@9294 Shinobu · 忍
+# Kích hoạt: 重伤（剩余 HP 不足 30%）（通用，4/8）
+> 「ちくしょう!! このままじゃ
+>  やられちまうぜっ!!」
+"Chết tiệt!! Nếu tiếp tục như thế này, bạn sẽ bị giết!!"
+
+@9295 Shinobu · 忍
+# Kích hoạt: 重伤（剩余 HP 不足 30%）（通用，5/8）
+> 「ちくしょう、くたばってたまるかよ」
+“Chết tiệt, tôi sẽ không chết như thế này đâu.”
+
+@9296 Shinobu · 忍
+# Kích hoạt: 重伤（剩余 HP 不足 30%）（通用，6/8）
+> 「うわあああああっ!!」
+"Aaaaaaaaaaaaaaaaaaaaaaaaaaaaaa!!"
+
+@9297 Shinobu · 忍
+# Kích hoạt: 重伤（剩余 HP 不足 30%）（通用，7/8）
+> 「今てめーらにやられるわけには
+>  いかねえんだよ!」
+“Tôi không thể để các người giết tôi bây giờ được!”
+
+@9298 Shinobu · 忍
+# Kích hoạt: 重伤（剩余 HP 不足 30%）（通用，8/8）
+> 「てめぇっ、許せねぇ!」
+"Đồ khốn, tôi không thể tha cho anh!"
+
+@9299 Shinobu · 忍
+# Kích hoạt: 中伤（剩余 HP 30–90%）（通用，1/10）
+> 「やりゃあがったな、こんちくしょう!!」
+"Sao ngươi dám đánh ta, đồ khốn!!"
+
+@9300 Shinobu · 忍
+# Kích hoạt: 中伤（剩余 HP 30–90%）（通用，2/10）
+> 「いてっ! てめえ、何しやがるっ!」
+"Đau quá! Cậu đang làm gì vậy, nhóc!"
+
+@9301 Shinobu · 忍
+# Kích hoạt: 中伤（剩余 HP 30–90%）（通用，3/10）
+> 「まだまだ! やらせるかっ!!」
+"Vẫn còn sớm! Làm sao có thể để ngươi thành công!!"
+
+@9302 Shinobu · 忍
+# Kích hoạt: 中伤（剩余 HP 30–90%）（通用，4/10）
+> 「ちっ! 意外とやるじゃねえかよ!」
+"Tsk! Đúng là rắc rối quá!"
+
+@9303 Shinobu · 忍
+# Kích hoạt: 中伤（剩余 HP 30–90%）（通用，5/10）
+> 「ぐっ! ちっ、当たっちまったぜ!」
+"Uh! Tsk, anh ấy bị trúng đạn!"
+
+@9304 Shinobu · 忍
+# Kích hoạt: 中伤（剩余 HP 30–90%）（通用，6/10）
+> 「くっ!! まだいけるぜ!!」
+"Hmm!! Tôi vẫn có thể chiến đấu!!"
+
+@9305 Shinobu · 忍
+# Kích hoạt: 中伤（剩余 HP 30–90%）（通用，7/10）
+> 「てめえ! やりゃあがったな!!」
+"Anh! Sao anh dám đánh tôi!!"
+
+@9306 Shinobu · 忍
+# Kích hoạt: 中伤（剩余 HP 30–90%）（通用，8/10）
+> 「ちくしょお! なめやがって!!」
+"Chết tiệt! Sao ngươi dám đánh giá thấp ta!!"
+
+@9307 Shinobu · 忍
+# Kích hoạt: 中伤（剩余 HP 30–90%）（通用，9/10）
+> 「ちくしょう! もう許さねぇぜ!」
+"Chết tiệt! Tôi sẽ không bao giờ tha thứ cho bạn nữa!"
+
+@9308 Shinobu · 忍
+# Kích hoạt: 中伤（剩余 HP 30–90%）（通用，10/10）
+> 「やりやがったな!!」
+"Sao ngươi dám đánh ta!!"
+
+@9309 Shinobu · 忍
+# Kích hoạt: 轻伤（剩余 HP 90% 以上）（通用，1/9）
+> 「へっ、余裕、余裕」
+"Này, Tiểu Mỹ, Tiểu Mỹ"
+
+@9310 Shinobu · 忍
+# Kích hoạt: 轻伤（剩余 HP 90% 以上）（通用，2/9）
+> 「効いてねえぜ!」
+"Nó không đau hay ngứa chút nào!"
+
+@9311 Shinobu · 忍
+# Kích hoạt: 轻伤（剩余 HP 90% 以上）（通用，3/9）
+> 「くそっ! うるせぇんだよ!!」
+"Chết tiệt! Ồn ào quá!!"
+
+@9312 Shinobu · 忍
+# Kích hoạt: 轻伤（剩余 HP 90% 以上）（通用，4/9）
+> 「くっ!」
+"Hừm! "
+
+@9313 Shinobu · 忍
+# Kích hoạt: 轻伤（剩余 HP 90% 以上）（通用，5/9）
+> 「なろー!」
+"Đồ khốn! "
+
+@9314 Shinobu · 忍
+# Kích hoạt: 轻伤（剩余 HP 90% 以上）（通用，6/9）
+> 「ちっ」
+"cắt"
+
+@9315 Shinobu · 忍
+# Kích hoạt: 轻伤（剩余 HP 90% 以上）（通用，7/9）
+> 「その程度かよ!」
+"Đây là tất cả những gì bạn có thể làm?"
+
+@9316 Shinobu · 忍
+# Kích hoạt: 轻伤（剩余 HP 90% 以上）（通用，8/9）
+> 「なんだ? きかねぇな!」
+"Cái gì? Không đau cũng không ngứa!"
+
+@9317 Shinobu · 忍
+# Kích hoạt: 轻伤（剩余 HP 90% 以上）（通用，9/9）
+> 「その程度かよ!」
+"Đây là tất cả những gì bạn có thể làm?"
+
+@9318 Shinobu · 忍
+# Kích hoạt: Né tránh（通用，1/13）
+> 「当たるかよ!」
+"Thật kỳ lạ nếu bạn đánh nó!"
+
+@9319 Shinobu · 忍
+# Kích hoạt: Né tránh（通用，2/13）
+> 「おおっと!」
+"Ối!"
+
+@9320 Shinobu · 忍
+# Kích hoạt: Né tránh（通用，3/13）
+> 「当たらねえな!」
+"Tôi không thể đánh nó!"
+
+@9321 Shinobu · 忍
+# Kích hoạt: Né tránh（通用，4/13）
+> 「もっとしっかり狙いな!」
+"Đưa cho tôi điểm ngắm!"
+
+@9322 Shinobu · 忍
+# Kích hoạt: Né tránh（通用，5/13）
+> 「どこ狙ってやがる!へたくそが!」
+"Bạn đang nhắm đến đâu! Tân binh!"
+
+@9323 Shinobu · 忍
+# Kích hoạt: Né tránh（通用，6/13）
+> 「まだまだ! あまいんだよ!」
+"Vẫn còn sớm! Mềm quá!"
+
+@9324 Shinobu · 忍
+# Kích hoạt: Né tránh（通用，7/13）
+> 「おっと、あぶねえ」
+"Oa, nguy hiểm quá"
+
+@9325 Shinobu · 忍
+# Kích hoạt: Né tránh（通用，8/13）
+> 「おっと!」
+"Ối!"
+
+@9326 Shinobu · 忍
+# Kích hoạt: Né tránh（通用，9/13）
+> 「おっと、危ない!!」
+"Ôi, thật là nguy hiểm!!"
+
+@9327 Shinobu · 忍
+# Kích hoạt: Né tránh（通用，10/13）
+> 「まだまだ、あまいんだよ!」
+"Vẫn còn sớm, còn quá trẻ!"
+
+@9328 Shinobu · 忍
+# Kích hoạt: Né tránh（通用，11/13）
+> 「狙いがあまいんだよ!」
+"Mục tiêu không chính xác chút nào!"
+
+@9329 Shinobu · 忍
+# Kích hoạt: Né tránh（通用，12/13）
+> 「おっと、あぶねえ!」
+"Ồ, thật là nguy hiểm!"
+
+@9330 Shinobu · 忍
+# Kích hoạt: Né tránh（通用，13/13）
+> 「ざっとこんなもんさ」
+"Thấy chưa, đơn giản thế thôi"
+
+@9331 Shinobu · 忍
+# Kích hoạt: Tấn công无效（护罩／装甲）（通用，1/3）
+> 「この程度のビームなんざへでも
+>  ねえぜ!!」
+"Chùm ánh sáng nhỏ này chẳng là gì cả!!"
+
+@9332 Shinobu · 忍
+# Kích hoạt: Tấn công无效（护罩／装甲）（通用，2/3）
+> 「そんなもん効くかよっ!!」
+“Làm như vậy không được đâu!!”
+
+@9333 Shinobu · 忍
+# Kích hoạt: Tấn công无效（护罩／装甲）（通用，3/3）
+> 「あまいんだよ!!」
+"Thật ngây thơ!!"
+
+@9334 Shinobu · 忍
+# Kích hoạt: 弹药／EN 不足，无法反击（通用，1/2）
+> 「ちっ! 反撃できねえ!」
+"Tsk! Không có cách nào đánh trả được!"
+
+@9335 Shinobu · 忍
+# Kích hoạt: 弹药／EN 不足，无法反击（通用，2/2）
+> 「エネルギー切れ? くそぉーっ!!」
+"Hết năng lượng? Chết tiệt——!!"
+
+@9336 Shinobu · 忍
+# Kích hoạt: 射程外，无法反击（通用，1/1）
+> 「くそっ!! とどかねえ!」
+"Chết tiệt!! Ngoài tầm với!"
+
+@14727 Shinobu · 忍
+# Kích hoạt: 对手驾驶员〈ムゲ兵〉
+> 「くたばれムゲ野郎!」
+"Xuống địa ngục đi, tên khốn Mugai!"
+
+@14728 Shinobu · 忍
+# Kích hoạt: 对手驾驶员〈ギルドローム〉
+> 「くたばれムゲ野郎!」
+"Xuống địa ngục đi, tên khốn Mugai!"
+
+@14729 Shinobu · 忍
+# Kích hoạt: 对手驾驶员〈シャピロ〉
+> 「くたばれムゲ野郎!」
+"Xuống địa ngục đi, tên khốn Mugai!"
+
+@14730 Shinobu · 忍
+# Kích hoạt: 对手驾驶员〈デスガイヤー〉
+> 「くたばれムゲ野郎!」
+"Xuống địa ngục đi, tên khốn Mugai!"
+
+@14731 Shinobu · 忍
+# Kích hoạt: 对手驾驶员〈ヘルマット〉
+> 「くたばれムゲ野郎!」
+"Xuống địa ngục đi, tên khốn Mugai!"
+
+@14732 Shinobu · 忍
+# Kích hoạt: 对手驾驶员〈ムゲ帝王〉
+> 「くたばれムゲ野郎!」
+"Xuống địa ngục đi, tên khốn Mugai!"
+
+@14733 Shinobu · 忍
+# Kích hoạt: 对手驾驶员〈ルーナ〉
+> 「くたばれムゲ野郎!」
+"Xuống địa ngục đi, tên khốn Mugai!"
+
+@14734 Shinobu · 忍
+# Kích hoạt: 使用〈断空砲〉（低优先，可能被通用台词顶掉）
+> 「行くぜ! 断空砲!!」
+"Nào! Pháo phá trời!!"
+
+@14735 Shinobu · 忍
+# Kích hoạt: 使用〈断空砲〉（低优先，可能被通用台词顶掉）
+> 「いくぜっ!! 断空砲!!」
+"Cố lên!! Pháo trống!!"
+
+@14736 Shinobu · 忍
+# Kích hoạt: 使用〈断空砲〉（低优先，可能被通用台词顶掉）
+> 「断空砲フォーメーションだ!!」
+“Phá vỡ đội hình pháo!!”
+
+@14737 Shinobu · 忍
+# Kích hoạt: 使用〈断空砲〉（低优先，可能被通用台词顶掉）
+> 「断空砲、発射!!」
+"Phá pháo, bắn!!"
+
+@14738 Shinobu · 忍
+# Kích hoạt: 使用〈断空砲〉（低优先，可能被通用台词顶掉）
+> 「くらえっ!! 断空砲!!」
+“Hãy nhận đòn của tôi đi!! Pháo phá trời!!”
+
+@14739 Shinobu · 忍
+# Kích hoạt: 使用〈断空光牙剣〉（对话第 1/3 句）
+> 「愛の心にて悪しき空間を断つ!」
+"Dựa vào tình yêu, cắt đứt tà ác không gian!"
+
+@14740 Shinobu · 忍
+# Kích hoạt: 使用〈断空光牙剣〉（对话第 2/3 句）
+> 「名付けて、断空光牙剣!!」
+“Tên là——Đoàn Không Quang Nha Kiếm!!”
+
+@14741 Shinobu · 忍
+# Kích hoạt: 使用〈断空光牙剣〉（对话第 3/3 句）
+> 「やぁぁぁぁっってやるぜっ!!!」
+"Nhìn ta - giết ngươi!!!"
+
+@14742 Shinobu · 忍
+# Kích hoạt: 使用〈断空光牙剣〉（对话第 1/3 句）
+> 「こいつで最後だ!」
+"Dùng thủ thuật này để kết thúc nó!"
+
+@14743 Shinobu · 忍
+# Kích hoạt: 使用〈断空光牙剣〉（对话第 2/3 句）
+> 「断空光牙剣!!
+>  やってやるぜっ!!」
+"Đoàn Không Quang Na Kiếm!! Nhìn tôi này!!"
+
+@14744 Shinobu · 忍
+# Kích hoạt: 使用〈断空光牙剣〉（对话第 3/3 句）
+> 「でぇぇぇぇぇぇぃっ!!!」
+"Này-vâng-!!!"
+
+@14745 Sara · 沙羅
+# Kích hoạt: 使用〈断空光牙剣〉（对话第 1/3 句）
+> 「忍! 一気にきめるよ!」
+"Ninja! Giải quyết nó trong một lần!"
+
+@14746 Shinobu · 忍
+# Kích hoạt: 使用〈断空光牙剣〉（对话第 2/3 句）
+> 「わかってる!
+>  愛の心にて悪しき空間を断つ!」
+"Tôi biết! Dùng tình yêu cắt đứt không gian tà ác!"
+
+@14747 Shinobu · 忍
+# Kích hoạt: 使用〈断空光牙剣〉（对话第 3/3 句）
+> 「断・空・光・牙・剣!!」
+"Phá vỡ, Bầu trời, Ánh sáng, Nanh, Kiếm!!"
+
+@14748 Ryo · 亮
+# Kích hoạt: 使用〈断空光牙剣〉（对话第 1/3 句）
+> 「忍、もうこうなったらアレを使うしか
+>  ねぇぜ」
+"Nhẫn nhịn, lúc này chúng ta chỉ có thể dùng chiêu kia!"
+
+@14749 Shinobu · 忍
+# Kích hoạt: 使用〈断空光牙剣〉（对话第 2/3 句）
+> 「ああ、あれか!」
+"A, hành động đó!"
+
+@14750 Shinobu · 忍
+# Kích hoạt: 使用〈断空光牙剣〉（对话第 3/3 句）
+> 「断空光牙剣!!
+>  やぁっってやるぜっ!!!」
+"Đoan Không Quang Nha Kiếm!! Xem ta giết ngươi!!!"
+
+@14751 Sara · 沙羅
+# Kích hoạt: 使用〈断空光牙剣〉（对话第 1/3 句）
+> 「こっちはいつでもいいよ、忍!」
+"Tôi luôn ở đây, Shinobu!"
+
+@14752 Shinobu · 忍
+# Kích hoạt: 使用〈断空光牙剣〉（对话第 2/3 句）
+> 「いくぜ! 愛の心にて、悪しき
+>  空間を断つ!」
+"Tiến lên! Dùng tình yêu cắt đứt không gian tà ác!"
+
+@14753 Shinobu · 忍
+# Kích hoạt: 使用〈断空光牙剣〉（对话第 3/3 句）
+> 「名付けて、断空光牙剣!!
+>  やぁっってやるぜっ!!!」
+"Tên là——Đoàn Không Quang Nha Kiếm!! Xem ta giết ngươi!!!"
+
+@14754 Masato · 雅人
+# Kích hoạt: 使用〈断空光牙剣〉（对话第 1/3 句）
+> 「忍、パーッとやっちまおうぜ!」
+"Hãy chịu đựng, chúng ta hãy cùng nhau vượt qua khó khăn nhé!"
+
+@14755 Shinobu · 忍
+# Kích hoạt: 使用〈断空光牙剣〉（对话第 2/3 句）
+> 「よぉし、やってやるぜ!」
+"Được rồi, cứ làm đi!"
+
+@14756 Shinobu · 忍
+# Kích hoạt: 使用〈断空光牙剣〉（对话第 3/3 句）
+> 「断・空・光・牙・剣!!」
+"Phá vỡ, Bầu trời, Ánh sáng, Nanh, Kiếm!!"
+
+@14757 Shinobu · 忍
+# Kích hoạt: 使用〈断空剣〉
+> 「心にて、悪しき空間を断つ!
+>  名付けて、断空剣!!」
+"Hãy dùng trái tim của bạn để cắt đứt không gian tà ác! Nó tên là - Thanh kiếm phá bầu trời!!"
+
+@14758 Shinobu · 忍
+# Kích hoạt: 使用〈断空剣〉
+> 「心にて悪しき空間を断つ、
+>  名づけて断空剣!」
+"Dùng trái tim chặt đứt tà không gian, tên là Phá Thiên Kiếm!"
+
+@14759 Shinobu · 忍
+# Kích hoạt: 使用〈断空剣〉
+> 「行くぜ! 断・空・剣!!」
+"Lên! Phá Thiên Kiếm!!"
+
+@14760 Shinobu · 忍
+# Kích hoạt: 使用〈断空剣〉
+> 「いくぜっ!! 断空剣!!」
+"Lên!! Thanh kiếm phá trời!!"
+
+@14761 Shinobu · 忍
+# Kích hoạt: 使用〈断空剣〉
+> 「断・空・剣!!」
+"Thiên Kiếm Phá Vỡ!!"
+
+@14762 Shinobu · 忍
+# Kích hoạt: 使用〈断空剣〉
+> 「いっけえぇぇぇっ!! 断空剣!!」
+"Nào——!! Phá Thiên Kiếm!!"
+
+@14763 Shinobu · 忍
+# Kích hoạt: 使用〈ダイガン〉（低优先，可能被通用台词顶掉）
+> 「ダイガン!」
+"Súng lớn!"
+
+@14764 Shinobu · 忍
+# Kích hoạt: 使用〈ダイガン〉（低优先，可能被通用台词顶掉）
+> 「マキシマムレベル、シューッ!」
+"Sức mạnh tối đa, bắn!"
+
+@14765 Shinobu · 忍
+# Kích hoạt: 使用〈ダイガン〉（低优先，可能被通用台词顶掉）
+> 「きやがれ! かたっぱしから
+>  撃ち落としてやるぜっ!!」
+"Tới đây! Tôi sẽ hạ gục tất cả các người!!"
+
+@14766 Shinobu · 忍
+# Kích hoạt: 重伤（剩余 HP 不足 30%），乘坐〈ダンクーガ〉
+> 「ちきしょう! このままじゃダンクーガが
+>  もたねえ……」
+"Chết tiệt! Nếu cứ tiếp tục như vậy Đoạn Không, tôi sẽ không thể trụ được nữa..."
+
+@14767 Shinobu · 忍
+# Kích hoạt: 重伤（剩余 HP 不足 30%），乘坐〈ダンクーガ〉
+> 「ちきしょう! このままじゃダンクーガが
+>  もたねえ……」
+"Chết tiệt! Nếu cứ tiếp tục như vậy Đoạn Không, tôi sẽ không thể trụ được nữa..."
+
+@14768 Shinobu · 忍
+# Kích hoạt: 重伤（剩余 HP 不足 30%），乘坐〈ダンクーガ〉（对话第 1/2 句）
+> 「くっそおおおっ!!」
+"Chết tiệt!!"
+
+@14769 Sara · 沙羅
+# Kích hoạt: 重伤（剩余 HP 不足 30%），乘坐〈ダンクーガ〉（对话第 2/2 句）
+> 「うっ……忍! あんたらしくないよっ!?」
+"Ư... Ninja! Cái này trông không giống anh chút nào!?"
+
+@14770 Shinobu · 忍
+# Kích hoạt: 重伤（剩余 HP 不足 30%），乘坐〈ダンクーガ〉（对话第 1/2 句）
+> 「ちっこれじゃばらばらだぜ!」
+"Chậc, nếu cứ tiếp tục thế này thì nó sẽ tan nát mất!"
+
+@14771 Ryo · 亮
+# Kích hoạt: 重伤（剩余 HP 不足 30%），乘坐〈ダンクーガ〉（对话第 2/2 句）
+> 「何やってるんだ忍! このままじゃ
+>  まずいぞ!!」
+"Shinobu, cậu đang làm gì vậy! Sẽ rất tệ nếu cậu tiếp tục như thế này!!"
+
+@14772 Shinobu · 忍
+# Kích hoạt: 重伤（剩余 HP 不足 30%），乘坐〈ダンクーガ〉（对话第 1/2 句）
+> 「このままじゃばらばらにされちまう!」
+"Còn tiếp tục như vậy, ngươi sẽ bị đánh thành từng mảnh!"
+
+@14773 Sara · 沙羅
+# Kích hoạt: 重伤（剩余 HP 不足 30%），乘坐〈ダンクーガ〉（对话第 2/2 句）
+> 「きゃっ! し、忍、このままじゃ
+>  ヤバいよ!」
+"Ah! Ren, Ren, sẽ tệ lắm nếu cậu làm điều này lần nữa!"
+
+@14774 Shinobu · 忍
+# Kích hoạt: 重伤（剩余 HP 不足 30%），乘坐〈ダンクーガ〉（对话第 1/2 句）
+> 「ぐおおおっ!!」
+"Ồ ồ ồ ồ!!"
+
+@14775 Masato · 雅人
+# Kích hoạt: 重伤（剩余 HP 不足 30%），乘坐〈ダンクーガ〉（对话第 2/2 句）
+> 「わっ! ちゃ、ちゃんとやってよ、忍!!」
+"Wow! Được rồi, làm tốt nhé Shinobi!!"
+
+@14776 Shinobu · 忍
+# Kích hoạt: 重伤（剩余 HP 不足 30%），乘坐〈ダンクーガ〉（对话第 1/2 句）
+> 「くっそおおおっ!!」
+"Chết tiệt!!"
+
+@14777 Sara · 沙羅
+# Kích hoạt: 重伤（剩余 HP 不足 30%），乘坐〈ダンクーガ〉（对话第 2/2 句）
+> 「あうっ、忍! あんたらしくないよっ!?」
+"A, Ninja! Cái này nhìn không giống ngươi!?"
+
+@14778 Shinobu · 忍
+# Kích hoạt: 重伤（剩余 HP 不足 30%），乘坐〈ダンクーガ〉（对话第 1/2 句）
+> 「ちっこれじゃばらばらだぜ!」
+"Chậc, nếu cứ tiếp tục thế này thì nó sẽ tan nát mất!"
+
+@14779 Ryo · 亮
+# Kích hoạt: 重伤（剩余 HP 不足 30%），乘坐〈ダンクーガ〉（对话第 2/2 句）
+> 「何やってるんだ忍! このままじゃ
+>  まずいぞ!!」
+"Shinobu, cậu đang làm gì vậy! Sẽ rất tệ nếu cậu tiếp tục như thế này!!"
+
+@14780 Shinobu · 忍
+# Kích hoạt: 重伤（剩余 HP 不足 30%），乘坐〈ダンクーガ〉（对话第 1/2 句）
+> 「このままじゃばらばらにされちまう!」
+"Còn tiếp tục như vậy, ngươi sẽ bị đánh thành từng mảnh!"
+
+@14781 Sara · 沙羅
+# Kích hoạt: 重伤（剩余 HP 不足 30%），乘坐〈ダンクーガ〉（对话第 2/2 句）
+> 「きゃっ! し、忍、このままじゃ
+>  ヤバいよ!」
+"Ah! Ren, Ren, sẽ tệ lắm nếu cậu làm điều này lần nữa!"
+
+@14782 Shinobu · 忍
+# Kích hoạt: 重伤（剩余 HP 不足 30%），乘坐〈ダンクーガ〉（对话第 1/2 句）
+> 「ぐおおおっ!!」
+"Ồ ồ ồ ồ!!"
+
+@14783 Masato · 雅人
+# Kích hoạt: 重伤（剩余 HP 不足 30%），乘坐〈ダンクーガ〉（对话第 2/2 句）
+> 「わっ! ちゃ、ちゃんとやってよ、忍!!」
+"Wow! Được rồi, làm tốt nhé Shinobi!!"
+
+@14784 Shinobu · 忍
+# Kích hoạt: 中伤（剩余 HP 30–90%），乘坐〈ダンクーガ〉（对话第 1/2 句）
+> 「ちっくしょーっ!!」
+"Chết tiệt!!"
+
+@14785 Ryo · 亮
+# Kích hoạt: 中伤（剩余 HP 30–90%），乘坐〈ダンクーガ〉（对话第 2/2 句）
+> 「どうした忍!? 一方的に
+>  やられているぞ!」
+"Anh bị sao vậy, Shinobu!? Chúng tôi đã hoàn toàn bị đánh bại và bị đàn áp!"
+
+@14786 Shinobu · 忍
+# Kích hoạt: 中伤（剩余 HP 30–90%），乘坐〈ダンクーガ〉（对话第 1/2 句）
+> 「なにしやがる!」
+"Bạn đang làm gì vậy!"
+
+@14787 Masato · 雅人
+# Kích hoạt: 中伤（剩余 HP 30–90%），乘坐〈ダンクーガ〉（对话第 2/2 句）
+> 「くっ! ダンクーガはこんなもんじゃ
+>  ないだろ!?」
+"Hmm! Tôi thừa khả năng Đoan Không, phải không!?"
+
+@14788 Shinobu · 忍
+# Kích hoạt: 中伤（剩余 HP 30–90%），乘坐〈ダンクーガ〉
+> 「しまった!?」
+"Ối!?"
+
+@14789 Shinobu · 忍
+# Kích hoạt: 中伤（剩余 HP 30–90%），乘坐〈ダンクーガ〉（对话第 1/2 句）
+> 「もうゆるさねぇ!!」
+"Ta sẽ không bao giờ tha cho ngươi nữa!!"
+
+@14790 Sara · 沙羅
+# Kích hoạt: 中伤（剩余 HP 30–90%），乘坐〈ダンクーガ〉（对话第 2/2 句）
+> 「忍! しっかりやんなよっ!!」
+"Shinobu! Vui lên!"
+
+@14791 Shinobu · 忍
+# Kích hoạt: 中伤（剩余 HP 30–90%），乘坐〈ダンクーガ〉（对话第 1/2 句）
+> 「なんだと!?」
+"Cái gì!?"
+
+@14792 Sara · 沙羅
+# Kích hoạt: 中伤（剩余 HP 30–90%），乘坐〈ダンクーガ〉（对话第 2/2 句）
+> 「何ボーッとしてんだよ、忍!」
+"Sao cậu lại choáng váng thế, Shinobu!"
+
+@14793 Shinobu · 忍
+# Kích hoạt: 中伤（剩余 HP 30–90%），乘坐〈ダンクーガ〉（对话第 1/2 句）
+> 「ちっくしょーっ!!」
+"Chết tiệt!!"
+
+@14794 Ryo · 亮
+# Kích hoạt: 中伤（剩余 HP 30–90%），乘坐〈ダンクーガ〉（对话第 2/2 句）
+> 「どうした忍!? 一方的に
+>  やられているぞ!」
+"Anh bị sao vậy, Shinobu!? Chúng tôi đã hoàn toàn bị đánh bại và bị đàn áp!"
+
+@14795 Shinobu · 忍
+# Kích hoạt: 中伤（剩余 HP 30–90%），乘坐〈ダンクーガ〉（对话第 1/2 句）
+> 「なにしやがる!」
+"Bạn đang làm gì vậy!"
+
+@14796 Masato · 雅人
+# Kích hoạt: 中伤（剩余 HP 30–90%），乘坐〈ダンクーガ〉（对话第 2/2 句）
+> 「くっ! ダンクーガはこんなもんじゃ
+>  ないだろ!?」
+"Hmm! Tôi thừa khả năng Đoan Không, phải không!?"
+
+@14797 Shinobu · 忍
+# Kích hoạt: 中伤（剩余 HP 30–90%），乘坐〈ダンクーガ〉
+> 「しまった!?」
+"Ối!?"
+
+@14798 Shinobu · 忍
+# Kích hoạt: 中伤（剩余 HP 30–90%），乘坐〈ダンクーガ〉（对话第 1/2 句）
+> 「もうゆるさねぇ!!」
+"Ta sẽ không bao giờ tha cho ngươi nữa!!"
+
+@14799 Sara · 沙羅
+# Kích hoạt: 中伤（剩余 HP 30–90%），乘坐〈ダンクーガ〉（对话第 2/2 句）
+> 「忍! しっかりやんなよっ!!」
+"Shinobu! Vui lên!"
+
+@14800 Shinobu · 忍
+# Kích hoạt: 中伤（剩余 HP 30–90%），乘坐〈ダンクーガ〉（对话第 1/2 句）
+> 「なんだと!?」
+"Cái gì!?"
+
+@14801 Sara · 沙羅
+# Kích hoạt: 中伤（剩余 HP 30–90%），乘坐〈ダンクーガ〉（对话第 2/2 句）
+> 「何ボーッとしてんだよ、忍!」
+"Sao cậu lại choáng váng thế, Shinobu!"
+
+@14802 Shinobu · 忍
+# Kích hoạt: 轻伤（剩余 HP 90% 以上），乘坐〈ダンクーガ〉
+> 「ダンクーガが、そう簡単に
+>  やられるかよっ!」
+"Ta Đoàn Không sao có thể dễ dàng bị đánh bại như vậy!"
+
+@14803 Shinobu · 忍
+# Kích hoạt: 轻伤（剩余 HP 90% 以上），乘坐〈ダンクーガ〉
+> 「ダンクーガが、そう簡単に
+>  やられるかよっ!」
+"Ta Đoàn Không sao có thể dễ dàng bị đánh bại như vậy!"
+
+@14804 Shinobu · 忍
+# Kích hoạt: 轻伤（剩余 HP 90% 以上），乘坐〈ダンクーガ〉（对话第 1/2 句）
+> 「あまいんだよ!!」
+"Thật ngây thơ!!"
+
+@14805 Masato · 雅人
+# Kích hoạt: 轻伤（剩余 HP 90% 以上），乘坐〈ダンクーガ〉（对话第 2/2 句）
+> 「へへ～ん、ご機嫌だね、忍!」
+"Hehe~ Bạn đang có tâm trạng tốt đấy, Shinobu!"
+
+@14806 Shinobu · 忍
+# Kích hoạt: 轻伤（剩余 HP 90% 以上），乘坐〈ダンクーガ〉（对话第 1/2 句）
+> 「あまいんだよ!!」
+"Thật ngây thơ!!"
+
+@14807 Masato · 雅人
+# Kích hoạt: 轻伤（剩余 HP 90% 以上），乘坐〈ダンクーガ〉（对话第 2/2 句）
+> 「へへ～ん、ご機嫌だね、忍!」
+"Hehe~ Bạn đang có tâm trạng tốt đấy, Shinobu!"

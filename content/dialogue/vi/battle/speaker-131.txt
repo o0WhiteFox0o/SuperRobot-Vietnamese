@@ -1,0 +1,47 @@
+# Bản dịch tiếng Việt Super Robot Wars 64
+# Định dạng và vị trí: docs/guide/dialogue-text.md
+
+@7932 Killy · キリー
+# Kích hoạt: Tấn công (Chung，1/1）
+> 「ばかめ!」
+"Đồ ngốc!"
+
+@7933 Killy · キリー
+# Kích hoạt: 被击坠（通用，1/1）
+> 「ばかめ!」
+"Đồ ngốc!"
+
+@7934 Killy · キリー
+# Kích hoạt: 重伤（剩余 HP 不足 30%）（通用，1/1）
+> 「ばかめ!」
+"Đồ ngốc!"
+
+@7935 Killy · キリー
+# Kích hoạt: 中伤（剩余 HP 30–90%）（通用，1/1）
+> 「ばかめ!」
+"Đồ ngốc!"
+
+@7936 Killy · キリー
+# Kích hoạt: 轻伤（剩余 HP 90% 以上）（通用，1/1）
+> 「ばかめ!」
+"Đồ ngốc!"
+
+@7937 Killy · キリー
+# Kích hoạt: Né tránh（通用，1/1）
+> 「ばかめ!」
+"Đồ ngốc!"
+
+@7938 Killy · キリー
+# Kích hoạt: Tấn công无效（护罩／装甲）（通用，1/1）
+> 「ばかめ!」
+"Đồ ngốc!"
+
+@7939 Killy · キリー
+# Kích hoạt: 弹药／EN 不足，无法反击（通用，1/1）
+> 「ばかめ!」
+"Đồ ngốc!"
+
+@7940 Killy · キリー
+# Kích hoạt: 射程外，无法反击（通用，1/1）
+> 「ばかめ!」
+"Đồ ngốc!"

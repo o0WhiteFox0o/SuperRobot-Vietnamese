@@ -1,0 +1,208 @@
+# Bản dịch tiếng Việt Super Robot Wars 64
+# Định dạng và vị trí: docs/guide/dialogue-text.md
+
+@13740 Axis Soldier · アクシズ兵
+# Kích hoạt: Tấn công (Chung，1/11）
+> 「このおぉぉぉっ!!」
+“Chết tiệt—! ! "
+
+@13741 Axis Soldier · アクシズ兵
+# Kích hoạt: Tấn công (Chung，2/11）
+> 「覚悟!」
+"Dậy đi!"
+
+@13742 Axis Soldier · アクシズ兵
+# Kích hoạt: Tấn công (Chung，3/11）
+> 「くらえっ!!」
+"Ăn chiêu của tôi đi!!"
+
+@13743 Axis Soldier · アクシズ兵
+# Kích hoạt: Tấn công (Chung，4/11）
+> 「うけてみろっ!!」
+"Tiến lên!!"
+
+@13744 Axis Soldier · アクシズ兵
+# Kích hoạt: Tấn công (Chung，5/11）
+> 「いけっ!」
+"Lên!"
+
+@13745 Axis Soldier · アクシズ兵
+# Kích hoạt: Tấn công (Chung，6/11）
+> 「させるかっ!」
+"Đừng nghĩ tới chuyện đó nữa!"
+
+@13746 Axis Soldier · アクシズ兵
+# Kích hoạt: Tấn công (Chung，7/11）
+> 「うおおっ!」
+"Ồ ồ!"
+
+@13747 Axis Soldier · アクシズ兵
+# Kích hoạt: Tấn công (Chung，8/11）
+> 「そこだっ!」
+"Chính là nó!"
+
+@13748 Axis Soldier · アクシズ兵
+# Kích hoạt: Tấn công (Chung，9/11）
+> 「当たれっ!」
+"Đánh!"
+
+@13749 Axis Soldier · アクシズ兵
+# Kích hoạt: Tấn công (Chung，10/11）
+> 「とどめっ!!」
+"Kết liễu ngươi đi!!"
+
+@13750 Axis Soldier · アクシズ兵
+# Kích hoạt: Tấn công (Chung，11/11）
+> 「こいつでどうだっ!」
+"Động tác này thế nào!"
+
+@13751 Axis Soldier · アクシズ兵
+# Kích hoạt: 被击坠（通用，1/2）
+> 「うわっ! や、やられたっ!」
+"Wow! Tôi, tôi đã bị giết!"
+
+@13752 Axis Soldier · アクシズ兵
+# Kích hoạt: 被击坠（通用，2/2）
+> 「ぐうっ! しまった!」
+"Goooo! Ồ không!"
+
+@13753 Axis Soldier · アクシズ兵
+# Kích hoạt: 重伤（剩余 HP 不足 30%）（通用，1/5）
+> 「うおおっ! く、なんてパワーなんだ!?」
+"Oooh! Cái gì, đây là loại sức mạnh gì vậy!?"
+
+@13754 Axis Soldier · アクシズ兵
+# Kích hoạt: 重伤（剩余 HP 不足 30%）（通用，2/5）
+> 「ぐあっ! こ、こいつ、強いぞ!」
+"Guah! Tên này mạnh quá!"
+
+@13755 Axis Soldier · アクシズ兵
+# Kích hoạt: 重伤（剩余 HP 不足 30%）（通用，3/5）
+> 「な、何っ!? バカな!?」
+"C-cái gì!? Không thể nào!?"
+
+@13756 Axis Soldier · アクシズ兵
+# Kích hoạt: 重伤（剩余 HP 不足 30%）（通用，4/5）
+> 「うぐっ! い、いかん、やられる!?」
+"Wu Gu! Không, không, sắp kết thúc rồi!?"
+
+@13757 Axis Soldier · アクシズ兵
+# Kích hoạt: 重伤（剩余 HP 不足 30%）（通用，5/5）
+> 「あうっ! ま、まずい、このままでは……」
+"Aww! Rất tiếc, rất tiếc, nếu chuyện này tiếp tục..."
+
+@13758 Axis Soldier · アクシズ兵
+# Kích hoạt: 中伤（剩余 HP 30–90%）（通用，1/5）
+> 「ちっ、さすがにできるな!」
+"Tsk, nó thực sự đã xảy ra hai lần!"
+
+@13759 Axis Soldier · アクシズ兵
+# Kích hoạt: 中伤（剩余 HP 30–90%）（通用，2/5）
+> 「ぐっ! だが、この程度ならまだっ!」
+"Gu! Nhưng tôi vẫn có thể chịu đựng được vết thương này!"
+
+@13760 Axis Soldier · アクシズ兵
+# Kích hoạt: 中伤（剩余 HP 30–90%）（通用，3/5）
+> 「くっ! まだまだ勝負はこれからよ!」
+"Chà! Chiến thắng vừa mới bắt đầu!"
+
+@13761 Axis Soldier · アクシズ兵
+# Kích hoạt: 中伤（剩余 HP 30–90%）（通用，4/5）
+> 「うっ! やるな!!」
+"Ugh! Có hai khoảnh khắc!!"
+
+@13762 Axis Soldier · アクシズ兵
+# Kích hoạt: 中伤（剩余 HP 30–90%）（通用，5/5）
+> 「くぅっ! やってくれたな!!」
+"Ugh! Bạn thật độc ác!!"
+
+@13763 Axis Soldier · アクシズ兵
+# Kích hoạt: 轻伤（剩余 HP 90% 以上）（通用，1/5）
+> 「ふん、かすった程度のものよ!」
+"Hừm, chỉ là một vết xước nhỏ thôi!"
+
+@13764 Axis Soldier · アクシズ兵
+# Kích hoạt: 轻伤（剩余 HP 90% 以上）（通用，2/5）
+> 「こそばゆいぜ!」
+"Giống như gãi ngứa!"
+
+@13765 Axis Soldier · アクシズ兵
+# Kích hoạt: 轻伤（剩余 HP 90% 以上）（通用，3/5）
+> 「ちっ、あたっちまった!」
+"Chậc, tôi bị trúng đòn rồi!"
+
+@13766 Axis Soldier · アクシズ兵
+# Kích hoạt: 轻伤（剩余 HP 90% 以上）（通用，4/5）
+> 「この程度のダメージなど!!」
+"Tác hại nhỏ này chẳng là gì cả!"
+
+@13767 Axis Soldier · アクシズ兵
+# Kích hoạt: 轻伤（剩余 HP 90% 以上）（通用，5/5）
+> 「当たっただけだ!」
+"Chỉ là một cái tát thôi!"
+
+@13768 Axis Soldier · アクシズ兵
+# Kích hoạt: Né tránh（通用，1/7）
+> 「甘いっ!」
+"Thật ngây thơ!"
+
+@13769 Axis Soldier · アクシズ兵
+# Kích hoạt: Né tránh（通用，2/7）
+> 「そこかっ!」
+"Đó!"
+
+@13770 Axis Soldier · アクシズ兵
+# Kích hoạt: Né tránh（通用，3/7）
+> 「かわせたっ!」
+"Tránh nó ra!"
+
+@13771 Axis Soldier · アクシズ兵
+# Kích hoạt: Né tránh（通用，4/7）
+> 「当たるか!」
+"Làm sao có thể để cho ngươi đánh!"
+
+@13772 Axis Soldier · アクシズ兵
+# Kích hoạt: Né tránh（通用，5/7）
+> 「なんの!」
+"Cái gì thế này!"
+
+@13773 Axis Soldier · アクシズ兵
+# Kích hoạt: Né tránh（通用，6/7）
+> 「かわしてみせる!!」
+"Coi chừng tôi trốn!!"
+
+@13774 Axis Soldier · アクシズ兵
+# Kích hoạt: Né tránh（通用，7/7）
+> 「残念だったな!」
+"Thật đáng tiếc!"
+
+@13775 Axis Soldier · アクシズ兵
+# Kích hoạt: Tấn công无效（护罩／装甲）（通用，1/2）
+> 「そんなビームなど!」
+"Đây là loại chùm tia gì?"
+
+@13776 Axis Soldier · アクシズ兵
+# Kích hoạt: Tấn công无效（护罩／装甲）（通用，2/2）
+> 「ふん、ムダなことをする!」
+"Hừ, lãng phí sức lực!"
+
+@13777 Axis Soldier · アクシズ兵
+# Kích hoạt: 弹药／EN 不足，无法反击（通用，1/2）
+> 「ちっ、しまった! 弾切れか!」
+"Tsk, không may mắn! Không còn đạn nữa!"
+
+@13778 Axis Soldier · アクシズ兵
+# Kích hoạt: 弹药／EN 不足，无法反击（通用，2/2）
+> 「くそっ! 弾切れかよ!」
+"Chết tiệt! Không còn viên đạn nào nữa!"
+
+@13779 Axis Soldier · アクシズ兵
+# Kích hoạt: 射程外，无法反击（通用，1/2）
+> 「くっ! ここからでは
+>  反撃は無理か……」
+"Hmm! Chúng ta không thể đánh trả từ đây sao..."
+
+@13780 Axis Soldier · アクシズ兵
+# Kích hoạt: 射程外，无法反击（通用，2/2）
+> 「あんな遠くから攻撃してくるのか!?」
+"Bạn thực sự đã gọi cho tôi từ rất xa!?"

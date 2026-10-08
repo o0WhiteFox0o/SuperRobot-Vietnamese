@@ -1,0 +1,155 @@
+# Bản dịch tiếng Việt Super Robot Wars 64
+# Định dạng và vị trí: docs/guide/dialogue-text.md
+
+@9533 Death Gaia · デスガイヤー
+# Kích hoạt: Tấn công (Chung，1/8）
+> 「ええいめんどうだ!」
+"Chết tiệt, thật là rắc rối!"
+
+@9534 Death Gaia · デスガイヤー
+# Kích hoạt: Tấn công (Chung，2/8）
+> 「いっきにケリをつけてやる!」
+"Ta sẽ kết liễu ngươi trong một đòn!"
+
+@9535 Death Gaia · デスガイヤー
+# Kích hoạt: Tấn công (Chung，3/8）
+> 「さぁ止めをさしてやる!」
+"Nào, cho ngươi đòn cuối cùng!"
+
+@9536 Death Gaia · デスガイヤー
+# Kích hoạt: Tấn công (Chung，4/8）
+> 「死ね!」
+"Chết đi!"
+
+@9537 Death Gaia · デスガイヤー
+# Kích hoạt: Tấn công (Chung，5/8）
+> 「燃える、燃えるぞ!」
+"Nó đang cháy, tôi đang cháy!"
+
+@9538 Death Gaia · デスガイヤー
+# Kích hoạt: Tấn công (Chung，6/8）
+> 「くるならきてみろ!」
+"Có gan thì cho ngựa của ngươi tới đây!"
+
+@9539 Death Gaia · デスガイヤー
+# Kích hoạt: Tấn công (Chung，7/8）
+> 「このデスガイヤーが相手だ!」
+"Đối thủ của bạn là tôi, Disgaea!"
+
+@9540 Death Gaia · デスガイヤー
+# Kích hoạt: Tấn công (Chung，8/8）
+> 「叩きつぶしてやろう!」
+"Đập ngươi thành từng mảnh!"
+
+@9541 Death Gaia · デスガイヤー
+# Kích hoạt: 被击坠（通用，1/2）
+> 「こ、この俺が負けるなどと……」
+“Tôi, tôi sẽ thua…”
+
+@9542 Death Gaia · デスガイヤー
+# Kích hoạt: 被击坠（通用，2/2）
+> 「ムゲ帝王さまぁぁぁぁーっ!」
+"Chúa Muge Hoàng đế ahhhh-!"
+
+@9543 Death Gaia · デスガイヤー
+# Kích hoạt: 重伤（剩余 HP 不足 30%）（通用，1/5）
+> 「ぐっ!? 銀河の果てでこの俺が
+>  負けるなど、有り得ないこと!」
+"Hả!? Tôi sẽ bị đánh bại ở nơi tận cùng thiên hà. Điều này là không thể!"
+
+@9544 Death Gaia · デスガイヤー
+# Kích hoạt: 重伤（剩余 HP 不足 30%）（通用，2/5）
+> 「うぉ!? 俺の戦法に間違いは
+>  なかったはずだ!」
+"Ồ-ồ!? Phương pháp chiến đấu của tôi rõ ràng không sai!"
+
+@9545 Death Gaia · デスガイヤー
+# Kích hoạt: 重伤（剩余 HP 不足 30%）（通用，3/5）
+> 「うぉぉぉぉぉ!?」
+"Uuuuuuuuuuuuuuuuuuuuu!?"
+
+@9546 Death Gaia · デスガイヤー
+# Kích hoạt: 重伤（剩余 HP 不足 30%）（通用，4/5）
+> 「こ、こんなことがっ!!」
+"Chuyện như vậy có thể xảy ra!!"
+
+@9547 Death Gaia · デスガイヤー
+# Kích hoạt: 重伤（剩余 HP 不足 30%）（通用，5/5）
+> 「ば、ばかなぁぁっ!」
+"Không, điều đó là không thể!"
+
+@9548 Death Gaia · デスガイヤー
+# Kích hoạt: 中伤（剩余 HP 30–90%）（通用，1/4）
+> 「バカなっ!?」
+"Không thể nào!?"
+
+@9549 Death Gaia · デスガイヤー
+# Kích hoạt: 中伤（剩余 HP 30–90%）（通用，2/4）
+> 「このデスガイヤー、これしきのことで
+>  やられはせん!」
+“Làm sao tôi, Disgaia, có thể bị đánh bại bởi vết thương này!”
+
+@9550 Death Gaia · デスガイヤー
+# Kích hoạt: 中伤（剩余 HP 30–90%）（通用，3/4）
+> 「この程度でやられる俺ではないわ!」
+"Bạn không thể đánh bại tôi ở cấp độ này!"
+
+@9551 Death Gaia · デスガイヤー
+# Kích hoạt: 中伤（剩余 HP 30–90%）（通用，4/4）
+> 「おおっ!?」
+"Ồ!?"
+
+@9552 Death Gaia · デスガイヤー
+# Kích hoạt: 轻伤（剩余 HP 90% 以上）（通用，1/3）
+> 「効かぬわ!」
+"Nó không đau hay ngứa!"
+
+@9553 Death Gaia · デスガイヤー
+# Kích hoạt: 轻伤（剩余 HP 90% 以上）（通用，2/3）
+> 「ばかめ!」
+"Đồ ngốc!"
+
+@9554 Death Gaia · デスガイヤー
+# Kích hoạt: 轻伤（剩余 HP 90% 以上）（通用，3/3）
+> 「貴様らごときが!」
+"Chỉ có các bạn thôi!"
+
+@9555 Death Gaia · デスガイヤー
+# Kích hoạt: Né tránh（通用，1/2）
+> 「当たらんな!」
+"Bỏ lỡ!"
+
+@9556 Death Gaia · デスガイヤー
+# Kích hoạt: Né tránh（通用，2/2）
+> 「ハハハハハッ!」
+"Hahahahaha!"
+
+@9557 Death Gaia · デスガイヤー
+# Kích hoạt: Tấn công无效（护罩／装甲）（通用，1/2）
+> 「当たらんな!」
+"Bỏ lỡ!"
+
+@9558 Death Gaia · デスガイヤー
+# Kích hoạt: Tấn công无效（护罩／装甲）（通用，2/2）
+> 「ハハハハハッ!」
+"Hahahahaha!"
+
+@9559 Death Gaia · デスガイヤー
+# Kích hoạt: 弹药／EN 不足，无法反击（通用，1/1）
+> 「ぬうぅ弾切れとはな!」
+"Uh-huh, tôi hết đạn rồi!"
+
+@9560 Death Gaia · デスガイヤー
+# Kích hoạt: 射程外，无法反击（通用，1/1）
+> 「ばかなっ届かんだとぉっ!?」
+"Không thể, ngoài tầm với!?"
+
+@14812 Death Gaia · デスガイヤー
+# Kích hoạt: 对手机体〈ダンクーガ〉
+> 「死ねぃダンクーガ!」
+"Cút đi, Đoạn Không ta!"
+
+@14813 Death Gaia · デスガイヤー
+# Kích hoạt: 对手机体〈ダンクーガ〉
+> 「死ねぃダンクーガ!」
+"Cút đi, Đoạn Không ta!"

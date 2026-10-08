@@ -1,0 +1,374 @@
+# Bản dịch tiếng Việt Super Robot Wars 64
+# Định dạng và vị trí: docs/guide/dialogue-text.md
+
+@12408 Ciela · シーラ
+# Kích hoạt: Tấn công (Chung，1/2）
+> 「やらせてはなりません」
+"Chúng ta không được để họ thành công."
+
+@12409 Ciela · シーラ
+# Kích hoạt: Tấn công (Chung，2/2）
+> 「落とすのです。なんとしても」
+"Bắn hạ nó dù thế nào đi nữa"
+
+@12410 Ciela · シーラ
+# Kích hoạt: 被击坠（通用，1/2）
+> 「つっ……ここまでか……」
+"Chà...cuối cùng là vậy sao..."
+
+@12411 Ciela · シーラ
+# Kích hoạt: 被击坠（通用，2/2）
+> 「総員退避せよ!」
+"Mọi người sơ tán!"
+
+@12412 Ciela · シーラ
+# Kích hoạt: 重伤（剩余 HP 不足 30%）（通用，1/5）
+> 「くっ ま、まだです。まだ落ちては
+>  なりません!」
+"Ừm, còn chưa xong, còn chưa thể bắn hạ!"
+
+@12413 Ciela · シーラ
+# Kích hoạt: 重伤（剩余 HP 不足 30%）（通用，2/5）
+> 「こ、この程度で落ちるわけにはまいりませ
+>  ん!」
+"Làm sao có thể ngã với chút tổn thương này!"
+
+@12414 Ciela · シーラ
+# Kích hoạt: 重伤（剩余 HP 不足 30%）（通用，3/5）
+> 「つっ……どこをやられたか!?」
+"Hmm...nó bị đánh ở đâu vậy!?"
+
+@12415 Ciela · シーラ
+# Kích hoạt: 重伤（剩余 HP 不足 30%）（通用，4/5）
+> 「っはぁ……出力が下がったぞ、
+>  どうしたか!?」
+"Hả... mất điện rồi, chuyện gì thế này!?"
+
+@12416 Ciela · シーラ
+# Kích hoạt: 重伤（剩余 HP 不足 30%）（通用，5/5）
+> 「うっ……被害状況は!」
+"Hmm...thiệt hại thế nào?"
+
+@12417 Ciela · シーラ
+# Kích hoạt: 中伤（剩余 HP 30–90%）（通用，1/4）
+> 「くっ……敵も必死ですね」
+"Chà...kẻ thù cũng đang chiến đấu đến chết."
+
+@12418 Ciela · シーラ
+# Kích hoạt: 中伤（剩余 HP 30–90%）（通用，2/4）
+> 「うっ……ひるんではなりません!」
+"Chà...chúng ta không được lùi bước!"
+
+@12419 Ciela · シーラ
+# Kích hoạt: 中伤（剩余 HP 30–90%）（通用，3/4）
+> 「どこをやられたか!?」
+"Nó bị đánh ở đâu!?"
+
+@12420 Ciela · シーラ
+# Kích hoạt: 中伤（剩余 HP 30–90%）（通用，4/4）
+> 「被害状況を知らせよ」
+"Báo cáo thiệt hại."
+
+@12421 Ciela · シーラ
+# Kích hoạt: 轻伤（剩余 HP 90% 以上）（通用，1/3）
+> 「グランガランはこの程度では
+>  落ちはしません」
+"Đòn tấn công đơn thuần này không thể đánh bại Gulan Galan."
+
+@12422 Ciela · シーラ
+# Kích hoạt: 轻伤（剩余 HP 90% 以上）（通用，2/3）
+> 「たいした被害はないようですね」
+“Có vẻ như không có thiệt hại gì nhiều.”
+
+@12423 Ciela · シーラ
+# Kích hoạt: 轻伤（剩余 HP 90% 以上）（通用，3/3）
+> 「まだ大丈夫です」
+“Nó vẫn còn đứng vững.”
+
+@12424 Ciela · シーラ
+# Kích hoạt: Né tránh（通用，1/2）
+> 「グランガラン急速降下!」
+"Gulan Garan, nhanh chóng đi xuống!"
+
+@12425 Ciela · シーラ
+# Kích hoạt: Né tránh（通用，2/2）
+> 「急速回頭!」
+"Quay lại nhanh lên!"
+
+@12426 Ciela · シーラ
+# Kích hoạt: Tấn công无效（护罩／装甲）（通用，1/3）
+> 「そんな攻撃はムダです!」
+"Đòn tấn công đó là vô ích!"
+
+@12427 Ciela · シーラ
+# Kích hoạt: Tấn công无效（护罩／装甲）（通用，2/3）
+> 「グランガランを抜けはしません!」
+"Đừng nghĩ tới việc đột phá Gulan Garan!"
+
+@12428 Ciela · シーラ
+# Kích hoạt: Tấn công无效（护罩／装甲）（通用，3/3）
+> 「この程度ならば問題ありませんね」
+"Cuộc tấn công này không thành vấn đề."
+
+@12429 Ciela · シーラ
+# Kích hoạt: 弹药／EN 不足，无法反击（通用，1/1）
+> 「弾切れだというのですか!?」
+"Bạn hết đạn rồi à!?"
+
+@12430 Ciela · シーラ
+# Kích hoạt: 射程外，无法反击（通用，1/1）
+> 「ここからでは反撃はできませんね……」
+"Không có cách nào để đánh trả từ đây ..."
+
+@17003 Ciela · シーラ
+# Kích hoạt: 使用〈オーラバルカン〉（低优先，可能被通用台词顶掉）
+> 「やらせてはなりません」
+"Chúng ta không được để họ thành công."
+
+@17004 Ciela · シーラ
+# Kích hoạt: 使用〈オーラバルカン〉（低优先，可能被通用台词顶掉）
+> 「各砲座、撃て」
+"Mỗi tháp pháo, khai hỏa"
+
+@17005 Ciela · シーラ
+# Kích hoạt: 使用〈オーラバルカン〉（低优先，可能被通用台词顶掉）
+> 「前方に集中砲火をかけよ」
+“Tập trung pháo binh bắn thẳng về phía trước”
+
+@17006 Ciela · シーラ
+# Kích hoạt: 使用〈フレイボム〉
+> 「前方に集中砲火をかけよ」
+“Tập trung pháo binh bắn thẳng về phía trước”
+
+@17007 Ciela · シーラ
+# Kích hoạt: 使用〈オーラキャノン〉（低优先，可能被通用台词顶掉）
+> 「全砲門、撃て!」
+"Tất cả súng, bắn!"
+
+@17008 Ciela · シーラ
+# Kích hoạt: 使用〈フレイボム〉
+> 「落とすのです。なんとしても」
+"Bắn hạ nó dù thế nào đi nữa"
+
+@17009 Ciela · シーラ
+# Kích hoạt: 使用〈ハイパーオーラキャノン〉
+> 「落とすのです。なんとしても」
+"Bắn hạ nó dù thế nào đi nữa"
+
+@17010 Ciela · シーラ
+# Kích hoạt: 使用〈ハイパーオーラキャノン〉
+> 「主砲、発射!」
+"Súng chính, khai hỏa!"
+
+@17011 Ciela · シーラ
+# Kích hoạt: 使用〈ハイパーオーラキャノン〉
+> 「落としてみせよ」
+"Bắn nó đi cho tôi"
+
+@17012 Ciela · シーラ
+# Kích hoạt: 副驾驶〈チャム〉，使用〈オーラバルカン〉（对话第 1/2 句）
+> 「前方に集中砲火をかけよ」
+“Tập trung pháo binh bắn thẳng về phía trước”
+
+@17013 Chum · チャム
+# Kích hoạt: 副驾驶〈チャム〉，使用〈オーラバルカン〉（对话第 2/2 句）
+> 「やっちゃえーっ!!」
+“Giết nó-!!”
+
+@17014 Chum · チャム
+# Kích hoạt: 副驾驶〈チャム〉，使用〈オーラバルカン〉（对话第 1/2 句）
+> 「シーラさま、来た!!」
+"Chúa Sheela, chúng tôi đến đây !!"
+
+@17015 Ciela · シーラ
+# Kích hoạt: 副驾驶〈チャム〉，使用〈オーラバルカン〉（对话第 2/2 句）
+> 「全砲門、撃て」
+"Tất cả các cổng súng, bắn"
+
+@17016 Chum · チャム
+# Kích hoạt: 副驾驶〈チャム〉，使用〈オーラバルカン〉（对话第 1/2 句）
+> 「シーラさま、いまよ!」
+"Lãnh chúa Sheela, ngay bây giờ!"
+
+@17017 Ciela · シーラ
+# Kích hoạt: 副驾驶〈チャム〉，使用〈オーラバルカン〉（对话第 2/2 句）
+> 「各砲座、撃て」
+"Mỗi tháp pháo, khai hỏa"
+
+@17018 Ciela · シーラ
+# Kích hoạt: 副驾驶〈チャム〉，使用〈ハイパーオーラキャノン〉（对话第 1/2 句）
+> 「主砲、発射!」
+"Súng chính, khai hỏa!"
+
+@17019 Chum · チャム
+# Kích hoạt: 副驾驶〈チャム〉，使用〈ハイパーオーラキャノン〉（对话第 2/2 句）
+> 「いっけぇぇーっ!」
+"Nào——!"
+
+@17020 Ciela · シーラ
+# Kích hoạt: 副驾驶〈チャム〉，使用〈ハイパーオーラキャノン〉（对话第 1/2 句）
+> 「やらせてはなりません」
+"Chúng ta không được để họ thành công."
+
+@17021 Chum · チャム
+# Kích hoạt: 副驾驶〈チャム〉，使用〈ハイパーオーラキャノン〉（对话第 2/2 句）
+> 「やらせちゃだめ!!」
+“Chúng ta không thể để họ thành công được!!”
+
+@17022 Ciela · シーラ
+# Kích hoạt: 重伤（剩余 HP 不足 30%），副驾驶〈チャム〉（对话第 1/2 句）
+> 「うっ……被害状況は!」
+"Hmm...thiệt hại thế nào?"
+
+@17023 Chum · チャム
+# Kích hoạt: 重伤（剩余 HP 不足 30%），副驾驶〈チャム〉（对话第 2/2 句）
+> 「はやく知らせてぇっ!!」
+"Báo cáo nhanh lên!!"
+
+@17024 Chum · チャム
+# Kích hoạt: 重伤（剩余 HP 不足 30%），副驾驶〈チャム〉（对话第 1/2 句）
+> 「グランガランがやられちゃうーっ!!」
+"Gulan Garan sắp bị phá vỡ!!"
+
+@17025 Ciela · シーラ
+# Kích hoạt: 重伤（剩余 HP 不足 30%），副驾驶〈チャム〉（对话第 2/2 句）
+> 「まだ、まだ落ちません!」
+"Ngươi vẫn chưa bị đánh bại!"
+
+@17026 Chum · チャム
+# Kích hoạt: 重伤（剩余 HP 不足 30%），副驾驶〈チャム〉（对话第 1/2 句）
+> 「いやあぁぁーっ!!」
+“Không—!!”
+
+@17027 Ciela · シーラ
+# Kích hoạt: 重伤（剩余 HP 不足 30%），副驾驶〈チャム〉（对话第 2/2 句）
+> 「まだもちます!」
+"Tôi vẫn có thể giữ được!"
+
+@17028 Chum · チャム
+# Kích hoạt: 中伤（剩余 HP 30–90%），副驾驶〈チャム〉
+> 「グランガランはこの程度じゃ、落ちないん
+>  だからぁっ!!」
+"Với vết thương như vậy, Gulan Garan sẽ không bị đánh bại!!"
+
+@17029 Ciela · シーラ
+# Kích hoạt: 中伤（剩余 HP 30–90%），副驾驶〈チャム〉（对话第 1/2 句）
+> 「くっ……敵も必死ですね」
+"Chà...kẻ thù cũng đang chiến đấu đến chết."
+
+@17030 Chum · チャム
+# Kích hoạt: 中伤（剩余 HP 30–90%），副驾驶〈チャム〉（对话第 2/2 句）
+> 「こっちもそうよぉっ!」
+"Chúng tôi cũng vậy!"
+
+@17031 Ciela · シーラ
+# Kích hoạt: 中伤（剩余 HP 30–90%），副驾驶〈チャム〉（对话第 1/2 句）
+> 「うっ……ひるんではなりません!」
+"Chà...chúng ta không được lùi bước!"
+
+@17032 Chum · チャム
+# Kích hoạt: 中伤（剩余 HP 30–90%），副驾驶〈チャム〉（对话第 2/2 句）
+> 「ひるんじゃだめ!」
+"Không thể lùi bước!"
+
+@17033 Ciela · シーラ
+# Kích hoạt: 轻伤（剩余 HP 90% 以上），副驾驶〈チャム〉（对话第 1/2 句）
+> 「グランガランはこの程度では」
+"Đây chỉ là một cuộc tấn công nhỏ thôi, Gulan Garan"
+
+@17034 Chum · チャム
+# Kích hoạt: 轻伤（剩余 HP 90% 以上），副驾驶〈チャム〉（对话第 2/2 句）
+> 「落ちないよ!」
+"Không thể đánh bại!"
+
+@17035 Ciela · シーラ
+# Kích hoạt: 轻伤（剩余 HP 90% 以上），副驾驶〈チャム〉（对话第 1/2 句）
+> 「たいした被害はないようですね」
+“Có vẻ như không có thiệt hại gì nhiều.”
+
+@17036 Chum · チャム
+# Kích hoạt: 轻伤（剩余 HP 90% 以上），副驾驶〈チャム〉（对话第 2/2 句）
+> 「ベーッだ!」
+"Hơi nhẹ!"
+
+@17037 Ciela · シーラ
+# Kích hoạt: 轻伤（剩余 HP 90% 以上），副驾驶〈チャム〉（对话第 1/2 句）
+> 「まだ大丈夫ですね」
+“Nó vẫn chưa thành vấn đề”
+
+@17038 Chum · チャム
+# Kích hoạt: 轻伤（剩余 HP 90% 以上），副驾驶〈チャム〉（对话第 2/2 句）
+> 「ぜーんぜん平気なんだから」
+“Nó hoàn toàn ổn”
+
+@17039 Ciela · シーラ
+# Kích hoạt: Né tránh，副驾驶〈チャム〉（对话第 1/2 句）
+> 「急速回頭!」
+"Quay lại nhanh lên!"
+
+@17040 Chum · チャム
+# Kích hoạt: Né tránh，副驾驶〈チャム〉（对话第 2/2 句）
+> 「やったぁっ!!」
+“Tuyệt vời!!”
+
+@17041 Ciela · シーラ
+# Kích hoạt: Né tránh，副驾驶〈チャム〉（对话第 1/2 句）
+> 「急速回頭!」
+"Quay lại nhanh lên!"
+
+@17042 Chum · チャム
+# Kích hoạt: Né tránh，副驾驶〈チャム〉（对话第 2/2 句）
+> 「あたらないんだから!」
+"Bạn không thể đánh nó chút nào!"
+
+@17043 Chum · チャム
+# Kích hoạt: Né tránh，副驾驶〈チャム〉（对话第 1/2 句）
+> 「シーラさま、来る!」
+"Chúa Sheila, chúng tôi đến đây!"
+
+@17044 Ciela · シーラ
+# Kích hoạt: Né tránh，副驾驶〈チャム〉（对话第 2/2 句）
+> 「大丈夫です!」
+"Nó không quan trọng!"
+
+@17045 Ciela · シーラ
+# Kích hoạt: Tấn công无效（护罩／装甲），副驾驶〈チャム〉（对话第 1/2 句）
+> 「この程度ならば問題ありませんね」
+"Cuộc tấn công này không thành vấn đề."
+
+@17046 Chum · チャム
+# Kích hoạt: Tấn công无效（护罩／装甲），副驾驶〈チャム〉（对话第 2/2 句）
+> 「問題ない!」
+"Không vấn đề gì!"
+
+@17047 Ciela · シーラ
+# Kích hoạt: Tấn công无效（护罩／装甲），副驾驶〈チャム〉（对话第 1/2 句）
+> 「そんな攻撃はムダです!」
+"Đòn tấn công đó là vô ích!"
+
+@17048 Chum · チャム
+# Kích hoạt: Tấn công无效（护罩／装甲），副驾驶〈チャム〉（对话第 2/2 句）
+> 「ムダムダ!」
+"Thật vô ích!"
+
+@17049 Ciela · シーラ
+# Kích hoạt: Tấn công无效（护罩／装甲），副驾驶〈チャム〉
+> 「大丈夫です。オーラバリアが防いで
+>  くれます」
+"Không thành vấn đề. Aura Barrier sẽ chặn nó."
+
+@17050 Ciela · シーラ
+# Kích hoạt: Tấn công无效（护罩／装甲），副驾驶〈チャム〉（对话第 1/2 句）
+> 「大丈夫です。オーラバリアが防いで
+>  くれます」
+"Không thành vấn đề. Aura Barrier sẽ chặn nó."
+
+@17051 Chum · チャム
+# Kích hoạt: Tấn công无效（护罩／装甲），副驾驶〈チャム〉（对话第 2/2 句）
+> 「効かないよ!」
+"Nó không có tác dụng gì cả!"
+
+@17052 Chum · チャム
+# Kích hoạt: Tấn công无效（护罩／装甲），副驾驶〈チャム〉
+> 「オーラバリアーよ!」
+“Rào cản hào quang—!”

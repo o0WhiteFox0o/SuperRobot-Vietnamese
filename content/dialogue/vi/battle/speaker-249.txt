@@ -1,0 +1,142 @@
+# Bản dịch tiếng Việt Super Robot Wars 64
+# Định dạng và vị trí: docs/guide/dialogue-text.md
+
+@6781 Quatre · カトル
+# Kích hoạt: Tấn công (Chung，1/12）
+> 「恐いんだね、死ぬのが……だったら、
+>  戦わなければいいんだよ!!」
+"Sợ sao? Sợ chết... vậy thì đừng đánh nữa!!"
+
+@6782 Quatre · カトル
+# Kích hoạt: Tấn công (Chung，2/12）
+> 「邪魔しないでっていってるだろぉ!?」
+"Không phải tôi đã bảo cậu tránh ra sao!?"
+
+@6783 Quatre · カトル
+# Kích hoạt: Tấn công (Chung，3/12）
+> 「近づかないでっていってるだろぉ!?」
+"Không phải tôi đã bảo cậu đừng đến gần sao!?"
+
+@6784 Quatre · カトル
+# Kích hoạt: Tấn công (Chung，4/12）
+> 「僕はこの狂った宇宙のすべてを
+>  破壊するんだ……」
+"Tôi muốn phá hủy mọi thứ trong vũ trụ điên rồ này..."
+
+@6785 Quatre · カトル
+# Kích hoạt: Tấn công (Chung，5/12）
+> 「だめなんだよぉ!」
+"Nó sẽ không hoạt động!"
+
+@6786 Quatre · カトル
+# Kích hoạt: Tấn công (Chung，6/12）
+> 「すべてを……破壊するんだ」
+"Phá hủy tất cả..."
+
+@6787 Quatre · カトル
+# Kích hoạt: Tấn công (Chung，7/12）
+> 「それ以上近づかないで!」
+“Đừng tới gần hơn nữa!”
+
+@6788 Quatre · カトル
+# Kích hoạt: Tấn công (Chung，8/12）
+> 「はぁ……はぁ……はぁ……」
+"Ha ha... ha ha... ha ha..."
+
+@6789 Quatre · カトル
+# Kích hoạt: Tấn công (Chung，9/12）
+> 「消滅させる」
+"Ta sẽ tiêu diệt ngươi"
+
+@6790 Quatre · カトル
+# Kích hoạt: Tấn công (Chung，10/12）
+> 「宇宙に必要なのは、戦争なんだ」
+"Cái vũ trụ cần là chiến tranh"
+
+@6791 Quatre · カトル
+# Kích hoạt: Tấn công (Chung，11/12）
+> 「宇宙は狂ってしまったんだ。だから
+>  すべてを破壊するんだ」
+"Vũ trụ đã trở nên điên loạn. Vì vậy tôi sẽ phá hủy mọi thứ."
+
+@6792 Quatre · カトル
+# Kích hoạt: Tấn công (Chung，12/12）
+> 「さようなら」
+"Tạm biệt"
+
+@6793 Quatre · カトル
+# Kích hoạt: 被击坠（通用，1/1）
+> 「う、うわあぁぁぁぁぁぁーーっ!!」
+"Uuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuu"
+
+@6794 Quatre · カトル
+# Kích hoạt: 重伤（剩余 HP 不足 30%）（通用，1/2）
+> 「くっ、どうしても戦うんだね」
+"Này, cậu có cần phải đấu với tôi không?"
+
+@6795 Quatre · カトル
+# Kích hoạt: 重伤（剩余 HP 不足 30%）（通用，2/2）
+> 「うわぁぁっ!
+>  すべてを破壊するんだぁぁっ!」
+"Wow! Tôi sẽ phá hủy mọi thứ!"
+
+@6796 Quatre · カトル
+# Kích hoạt: 中伤（剩余 HP 30–90%）（通用，1/3）
+> 「死ぬよ」
+"sẽ chết"
+
+@6797 Quatre · カトル
+# Kích hoạt: 中伤（剩余 HP 30–90%）（通用，2/3）
+> 「うくっ、こんなものではだめだよ!」
+"Chà, thế vẫn chưa đủ!"
+
+@6798 Quatre · カトル
+# Kích hoạt: 中伤（剩余 HP 30–90%）（通用，3/3）
+> 「くっ、そんなに死にたいなら!」
+"Chà, vì bạn muốn chết quá!"
+
+@6799 Quatre · カトル
+# Kích hoạt: 轻伤（剩余 HP 90% 以上）（通用，1/4）
+> 「僕の前にあらわれるなら、殺すよ」
+"Nếu ngươi dám xuất hiện trước mặt ta, ta sẽ giết ngươi."
+
+@6800 Quatre · カトル
+# Kích hoạt: 轻伤（剩余 HP 90% 以上）（通用，2/4）
+> 「だめなんだよ!」
+"Nó sẽ không hoạt động!"
+
+@6801 Quatre · カトル
+# Kích hoạt: 轻伤（剩余 HP 90% 以上）（通用，3/4）
+> 「ムダなんだよ!」
+"Thật vô ích!"
+
+@6802 Quatre · カトル
+# Kích hoạt: 轻伤（剩余 HP 90% 以上）（通用，4/4）
+> 「邪魔をしないで!」
+"Tránh ra!"
+
+@6803 Quatre · カトル
+# Kích hoạt: Né tránh（通用，1/2）
+> 「本気でやっているのかい? 死ぬよ?」
+"Anh nghiêm túc đấy à? Anh sắp chết rồi."
+
+@6804 Quatre · カトル
+# Kích hoạt: Né tránh（通用，2/2）
+> 「そう、死にたいんだね……
+>  なら殺してあげるよ」
+"Thật sự, ngươi muốn chết... Ta liền giết ngươi."
+
+@6805 Quatre · カトル
+# Kích hoạt: Tấn công无效（护罩／装甲）（通用，1/1）
+> 「効かないって言ってるだろぅ!?」
+"Không phải tôi đã nói nó vô dụng sao!?"
+
+@6806 Quatre · カトル
+# Kích hoạt: 弹药／EN 不足，无法反击（通用，1/1）
+> 「エネルギー切れか」
+“Anh hết năng lượng rồi à?”
+
+@6807 Quatre · カトル
+# Kích hoạt: 射程外，无法反击（通用，1/1）
+> 「射程外……死ぬのがこわいんだね」
+"Ngoài phạm vi... ngươi có sợ chết không?"

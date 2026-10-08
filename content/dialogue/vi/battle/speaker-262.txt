@@ -1,0 +1,325 @@
+# Bản dịch tiếng Việt Super Robot Wars 64
+# Định dạng và vị trí: docs/guide/dialogue-text.md
+
+@8005 Amuro · アムロ
+# Kích hoạt: Tấn công (Chung，1/14）
+> 「おちろっ!」
+"Rớt!"
+
+@8006 Amuro · アムロ
+# Kích hoạt: Tấn công (Chung，2/14）
+> 「あたれっ!」
+"Đánh!"
+
+@8007 Amuro · アムロ
+# Kích hoạt: Tấn công (Chung，3/14）
+> 「そこだっ!!」
+“Chính là nó!!”
+
+@8008 Amuro · アムロ
+# Kích hoạt: Tấn công (Chung，4/14）
+> 「直撃させるっ!!」
+"Hãy để bạn ăn hết mình!!"
+
+@8009 Amuro · アムロ
+# Kích hoạt: Tấn công (Chung，5/14）
+> 「逃げ回っても無駄だっ!」
+“Trốn chỗ này chỗ kia cũng vô ích thôi!”
+
+@8010 Amuro · アムロ
+# Kích hoạt: Tấn công (Chung，6/14）
+> 「この一撃で!」
+"Chỉ một đòn này thôi!"
+
+@8011 Amuro · アムロ
+# Kích hoạt: Tấn công (Chung，7/14）
+> 「邪魔だっ!」
+"Tránh ra!"
+
+@8012 Amuro · アムロ
+# Kích hoạt: Tấn công (Chung，8/14）
+> 「あててみせるっ!」
+"Xem ta đánh ngươi!"
+
+@8013 Amuro · アムロ
+# Kích hoạt: Tấn công (Chung，9/14）
+> 「落としてみせるっ!」
+"Ta nhất định sẽ đánh ngã ngươi!"
+
+@8014 Amuro · アムロ
+# Kích hoạt: Tấn công (Chung，10/14）
+> 「そこだっ!!」
+“Chính là nó!!”
+
+@8015 Amuro · アムロ
+# Kích hoạt: Tấn công (Chung，11/14）
+> 「いけるかっ!?」
+"Có thể làm được không!?"
+
+@8016 Amuro · アムロ
+# Kích hoạt: Tấn công (Chung，12/14）
+> 「やらせるかっ!」
+"Thật là một ý nghĩ đẹp đẽ!"
+
+@8017 Amuro · アムロ
+# Kích hoạt: Tấn công (Chung，13/14）
+> 「させるかっ!」
+"Đừng nghĩ tới chuyện đó nữa!"
+
+@8018 Amuro · アムロ
+# Kích hoạt: Tấn công (Chung，14/14）
+> 「このおっ!」
+"Anh bạn!"
+
+@8019 Amuro · アムロ
+# Kích hoạt: 被击坠（通用，1/2）
+> 「し、しまった!!」
+"Ối, ôi!!"
+
+@8020 Amuro · アムロ
+# Kích hoạt: 被击坠（通用，2/2）
+> 「うわぁぁぁぁっ!!」
+"Ồhhhhhhhhh!!"
+
+@8021 Amuro · アムロ
+# Kích hoạt: 重伤（剩余 HP 不足 30%）（通用，1/6）
+> 「も、もつのか!?」
+"Bạn vẫn có thể giữ được!?"
+
+@8022 Amuro · アムロ
+# Kích hoạt: 重伤（剩余 HP 不足 30%）（通用，2/6）
+> 「くっ! ダメージが大きすぎる!?」
+"Ugh! Thiệt hại quá nhiều!?"
+
+@8023 Amuro · アムロ
+# Kích hoạt: 重伤（剩余 HP 不足 30%）（通用，3/6）
+> 「ダメだ、このままじゃもたないっ!!」
+"Không, tôi không thể giữ vững như thế này được!!"
+
+@8024 Amuro · アムロ
+# Kích hoạt: 重伤（剩余 HP 不足 30%）（通用，4/6）
+> 「しまった!ダメージを受けすぎたか!」
+"Rất tiếc! Thiệt hại có quá nghiêm trọng không?"
+
+@8025 Amuro · アムロ
+# Kích hoạt: 重伤（剩余 HP 不足 30%）（通用，5/6）
+> 「こ、このままではやられる!?」
+“Đ-Nếu cứ tiếp tục thế này thì mình sẽ bị giết mất!?”
+
+@8026 Amuro · アムロ
+# Kích hoạt: 重伤（剩余 HP 不足 30%）（通用，6/6）
+> 「やられる!?」
+"Anh sắp bị giết à!?"
+
+@8027 Amuro · アムロ
+# Kích hoạt: 中伤（剩余 HP 30–90%）（通用，1/10）
+> 「このくらい!」
+"Vết thương nhỏ này!"
+
+@8028 Amuro · アムロ
+# Kích hoạt: 中伤（剩余 HP 30–90%）（通用，2/10）
+> 「!! まだだ!!」
+"!! Vẫn chưa kết thúc đâu!!"
+
+@8029 Amuro · アムロ
+# Kích hoạt: 中伤（剩余 HP 30–90%）（通用，3/10）
+> 「くっ! まだまだ!」
+"Chà! Vẫn còn sớm!"
+
+@8030 Amuro · アムロ
+# Kích hoạt: 中伤（剩余 HP 30–90%）（通用，4/10）
+> 「くっ! まだだ! まだいける!!」
+"Chà! Vẫn chưa kết thúc! Tôi vẫn còn có thể chiến đấu!!"
+
+@8031 Amuro · アムロ
+# Kích hoạt: 中伤（剩余 HP 30–90%）（通用，5/10）
+> 「くっ! だが、この程度なら
+>  まだいける!」
+"Hmm! Nhưng tôi vẫn có thể chịu đựng được vết thương này!"
+
+@8032 Amuro · アムロ
+# Kích hoạt: 中伤（剩余 HP 30–90%）（通用，6/10）
+> 「ま、まだまだ!」
+"Vẫn còn sớm lắm!"
+
+@8033 Amuro · アムロ
+# Kích hoạt: 中伤（剩余 HP 30–90%）（通用，7/10）
+> 「やる!だが、まだこんなもので!
+"Hai lần! Tuy nhiên, vết thương này không thể đánh bại được tôi!"
+
+@8034 Amuro · アムロ
+# Kích hoạt: 中伤（剩余 HP 30–90%）（通用，8/10）
+> 「やったな!」
+"Sao ngươi dám đánh ta!"
+
+@8035 Amuro · アムロ
+# Kích hoạt: 中伤（剩余 HP 30–90%）（通用，9/10）
+> 「まだだっ!まだやられたわけじゃない!」
+"Vẫn chưa kết thúc! Tôi còn chưa bị giết!"
+
+@8036 Amuro · アムロ
+# Kích hoạt: 中伤（剩余 HP 30–90%）（通用，10/10）
+> 「ちっ! 機体の調整が完全じゃ
+>  ないのか!?」
+"Tsk! Máy vẫn chưa được điều chỉnh sao!?"
+
+@8037 Amuro · アムロ
+# Kích hoạt: 轻伤（剩余 HP 90% 以上）（通用，1/6）
+> 「ちっ!」
+"Chậc!"
+
+@8038 Amuro · アムロ
+# Kích hoạt: 轻伤（剩余 HP 90% 以上）（通用，2/6）
+> 「この程度なら!!」
+"Tôi vẫn có thể chịu được vết thương nhỏ này!!"
+
+@8039 Amuro · アムロ
+# Kích hoạt: 轻伤（剩余 HP 90% 以上）（通用，3/6）
+> 「この程度のダメージなら!」
+"Tổn thương nhỏ này không là gì cả!"
+
+@8040 Amuro · アムロ
+# Kích hoạt: 轻伤（剩余 HP 90% 以上）（通用，4/6）
+> 「こんなことでっ!!」
+"Chính là nó!"
+
+@8041 Amuro · アムロ
+# Kích hoạt: 轻伤（剩余 HP 90% 以上）（通用，5/6）
+> 「かすっただけだ!」
+"Chỉ là lau thôi mà!"
+
+@8042 Amuro · アムロ
+# Kích hoạt: 轻伤（剩余 HP 90% 以上）（通用，6/6）
+> 「何の、この程度っ!」
+"Cấp độ này không là gì cả!"
+
+@8043 Amuro · アムロ
+# Kích hoạt: Né tránh（通用，1/10）
+> 「みえる!!」
+"Bạn có thể thấy nó!!"
+
+@8044 Amuro · アムロ
+# Kích hoạt: Né tránh（通用，2/10）
+> 「させるかっ!」
+"Đừng nghĩ tới chuyện đó nữa!"
+
+@8045 Amuro · アムロ
+# Kích hoạt: Né tránh（通用，3/10）
+> 「あまいっ!!」
+"Thật ngây thơ!!"
+
+@8046 Amuro · アムロ
+# Kích hoạt: Né tránh（通用，4/10）
+> 「あたるかっ!」
+"Thật kỳ lạ nếu bạn đánh nó!"
+
+@8047 Amuro · アムロ
+# Kích hoạt: Né tránh（通用，5/10）
+> 「そこっ!」
+"Đó!"
+
+@8048 Amuro · アムロ
+# Kích hoạt: Né tránh（通用，6/10）
+> 「見える!!」
+"Bạn có thể thấy nó!!"
+
+@8049 Amuro · アムロ
+# Kích hoạt: Né tránh（通用，7/10）
+> 「あたるものかっ!」
+"Làm sao có thể đánh được!"
+
+@8050 Amuro · アムロ
+# Kích hoạt: Né tránh（通用，8/10）
+> 「敵の動きが……見える!」
+“Chuyển động của kẻ thù… Tôi có thể nhìn thấy chúng!”
+
+@8051 Amuro · アムロ
+# Kích hoạt: Né tránh（通用，9/10）
+> 「ムダだっ!」
+"Thật vô ích!"
+
+@8052 Amuro · アムロ
+# Kích hoạt: Né tránh（通用，10/10）
+> 「みえる!!」
+"Bạn có thể thấy nó!!"
+
+@8053 Amuro · アムロ
+# Kích hoạt: Tấn công无效（护罩／装甲）（通用，1/3）
+> 「ムダだっ!!」
+"Thật vô dụng!!"
+
+@8054 Amuro · アムロ
+# Kích hoạt: Tấn công无效（护罩／装甲）（通用，2/3）
+> 「させるかっ」
+"Đừng nghĩ tới chuyện đó nữa!"
+
+@8055 Amuro · アムロ
+# Kích hoạt: Tấn công无效（护罩／装甲）（通用，3/3）
+> 「やられるっ!?」
+"Anh sắp bị giết à!?"
+
+@8056 Amuro · アムロ
+# Kích hoạt: 弹药／EN 不足，无法反击（通用，1/2）
+> 「くっ、だめか!?」
+"Chà, bạn không thể chiến đấu nữa!?"
+
+@8057 Amuro · アムロ
+# Kích hoạt: 弹药／EN 不足，无法反击（通用，2/2）
+> 「しまった、弾切れか!」
+"Ồ, không còn đạn nữa!"
+
+@8058 Amuro · アムロ
+# Kích hoạt: 射程外，无法反击（通用，1/2）
+> 「くっ! 遠すぎるか!」
+"Ugh! Xa quá!"
+
+@8059 Amuro · アムロ
+# Kích hoạt: 射程外，无法反击（通用，2/2）
+> 「あんな距離から攻撃できるのか!?」
+"Bạn có thể gọi cho chúng tôi từ khoảng cách xa như vậy!?"
+
+@14563 Amuro · アムロ
+# Kích hoạt: 使用〈ファンネル／マザーファンネル〉
+> 「いけっ! ファンネル!!」
+"Nào! Pháo nổi!!"
+
+@14564 Amuro · アムロ
+# Kích hoạt: 使用〈ファンネル／マザーファンネル〉
+> 「ファンネル!!」
+"Pháo nổi!!"
+
+@14565 Amuro · アムロ
+# Kích hoạt: 使用〈フィンファンネル〉
+> 「フィンファンネル!!」
+"Pháo nổi có vây!!"
+
+@14566 Amuro · アムロ
+# Kích hoạt: 使用〈フィンファンネル〉
+> 「いけっ! フィンファンネル!!」
+"Nào! Pháo nổi hình vây!!"
+
+@14567 Amuro · アムロ
+# Kích hoạt: 使用〈ヴェスバー〉（低优先，可能被通用台词顶掉）
+> 「ヴェスバー!!」
+"VSBR!!"
+
+@14568 Amuro · アムロ
+# Kích hoạt: Tấn công，乘坐〈νガンダム〉
+> 「νガンダムは伊達じゃないっ!」
+"νGundam không phải là vật trang trí!"
+
+@14569 Amuro · アムロ
+# Kích hoạt: Tấn công，乘坐〈量産型νガンダムF〉
+> 「νガンダムは伊達じゃないっ!」
+"νGundam không phải là vật trang trí!"
+
+@14570 Amuro · アムロ
+# Kích hoạt: Tấn công，乘坐〈量産型νガンダムI〉
+> 「νガンダムは伊達じゃないっ!」
+"νGundam không phải là vật trang trí!"
+
+@14571 Amuro · アムロ
+# Kích hoạt: 使用〈ハイメガキャノン〉（低优先，可能被通用台词顶掉）
+> 「エネルギー充填……
+>  いけっ! ハイメガキャノン!!」
+"Nạp năng lượng... tiếp tục! Mega Cannon năng lượng cao!!"

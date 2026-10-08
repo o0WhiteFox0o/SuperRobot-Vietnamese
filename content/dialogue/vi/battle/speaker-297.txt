@@ -1,0 +1,192 @@
+# Bản dịch tiếng Việt Super Robot Wars 64
+# Định dạng và vị trí: docs/guide/dialogue-text.md
+
+@13972 Grados Soldier · グラドス兵
+# Kích hoạt: Tấn công (Chung，1/10）
+> 「邪魔なんだよ!」
+"Đừng cản đường nữa!"
+
+@13973 Grados Soldier · グラドス兵
+# Kích hoạt: Tấn công (Chung，2/10）
+> 「うおおおおっ!!」
+“Ồ ồ! ! "
+
+@13974 Grados Soldier · グラドス兵
+# Kích hoạt: Tấn công (Chung，3/10）
+> 「これでとどめだ!!」
+"Đây là kết thúc của bạn!!"
+
+@13975 Grados Soldier · グラドス兵
+# Kích hoạt: Tấn công (Chung，4/10）
+> 「こいつで決めてやる!」
+"Dùng cái này để kết liễu ngươi!"
+
+@13976 Grados Soldier · グラドス兵
+# Kích hoạt: Tấn công (Chung，5/10）
+> 「やらせるかっ!!」
+"Đừng nghĩ tới chuyện đó nữa!!"
+
+@13977 Grados Soldier · グラドス兵
+# Kích hoạt: Tấn công (Chung，6/10）
+> 「落ちろっ!!」
+"Ngã!!"
+
+@13978 Grados Soldier · グラドス兵
+# Kích hoạt: Tấn công (Chung，7/10）
+> 「このっ!!」
+"Anh bạn!!"
+
+@13979 Grados Soldier · グラドス兵
+# Kích hoạt: Tấn công (Chung，8/10）
+> 「行くぞっ!!」
+"Nào! ! "
+
+@13980 Grados Soldier · グラドス兵
+# Kích hoạt: Tấn công (Chung，9/10）
+> 「そこだっ!」
+"Chính là nó!"
+
+@13981 Grados Soldier · グラドス兵
+# Kích hoạt: Tấn công (Chung，10/10）
+> 「もらった!」
+"Thành công!"
+
+@13982 Grados Soldier · グラドス兵
+# Kích hoạt: 被击坠（通用，1/2）
+> 「な、何だと!?」
+"C-Cái gì!?"
+
+@13983 Grados Soldier · グラドス兵
+# Kích hoạt: 被击坠（通用，2/2）
+> 「しまった! 直撃か!?」
+"Ối! Đánh trực tiếp!?"
+
+@13984 Grados Soldier · グラドス兵
+# Kích hoạt: 重伤（剩余 HP 不足 30%）（通用，1/5）
+> 「ぐうっ、い、いかん、やられる!?」
+"Guwu, không, không, tôi sắp bị giết rồi!?"
+
+@13985 Grados Soldier · グラドス兵
+# Kích hoạt: 重伤（剩余 HP 不足 30%）（通用，2/5）
+> 「うおっ!? くっ、こっちが不利か!」
+"Uh-oh!? Chà, tôi có bị tụt lại phía sau không!"
+
+@13986 Grados Soldier · グラドス兵
+# Kích hoạt: 重伤（剩余 HP 不足 30%）（通用，3/5）
+> 「ぬうううっ! つ、強いっ!」
+"Ouch! Mạnh quá!"
+
+@13987 Grados Soldier · グラドス兵
+# Kích hoạt: 重伤（剩余 HP 不足 30%）（通用，4/5）
+> 「やるっ! さすがは!」
+"Phải mất hai! Bạn thực sự là một cao thủ!"
+
+@13988 Grados Soldier · グラドス兵
+# Kích hoạt: 重伤（剩余 HP 不足 30%）（通用，5/5）
+> 「ぐうぅっ!! パワーが違いすぎる!!」
+"Goooooo!! Sức mạnh thật khác biệt!!"
+
+@13989 Grados Soldier · グラドス兵
+# Kích hoạt: 中伤（剩余 HP 30–90%）（通用，1/5）
+> 「ちいっ! まだまだっ!」
+"Tsk! Vẫn còn sớm!"
+
+@13990 Grados Soldier · グラドス兵
+# Kích hoạt: 中伤（剩余 HP 30–90%）（通用，2/5）
+> 「くっ! 少しはできるな!」
+"Hmm! Bạn khá có năng lực!"
+
+@13991 Grados Soldier · グラドス兵
+# Kích hoạt: 中伤（剩余 HP 30–90%）（通用，3/5）
+> 「ぬうっ! そう簡単にやられはせん!!」
+"Hmm! Tôi sẽ không bị giết dễ dàng như vậy đâu!!"
+
+@13992 Grados Soldier · グラドス兵
+# Kích hoạt: 中伤（剩余 HP 30–90%）（通用，4/5）
+> 「うっ! やってくれたな!!」
+"Hừ! Sao ngươi dám đánh ta!!"
+
+@13993 Grados Soldier · グラドス兵
+# Kích hoạt: 中伤（剩余 HP 30–90%）（通用，5/5）
+> 「まだだっ! まだこれからよ!!」
+"Mọi chuyện vẫn chưa kết thúc! Đây chỉ là sự khởi đầu thôi!!"
+
+@13994 Grados Soldier · グラドス兵
+# Kích hoạt: 轻伤（剩余 HP 90% 以上）（通用，1/5）
+> 「非力なんだよ!」
+"Mềm mại!"
+
+@13995 Grados Soldier · グラドス兵
+# Kích hoạt: 轻伤（剩余 HP 90% 以上）（通用，2/5）
+> 「パワー不足だな!」
+"Không đủ mạnh!"
+
+@13996 Grados Soldier · グラドス兵
+# Kích hoạt: 轻伤（剩余 HP 90% 以上）（通用，3/5）
+> 「その程度か!」
+"Đây là tất cả những gì bạn có thể làm?"
+
+@13997 Grados Soldier · グラドス兵
+# Kích hoạt: 轻伤（剩余 HP 90% 以上）（通用，4/5）
+> 「そんな攻撃など効くものかよ!」
+"Làm thế nào một cuộc tấn công như vậy có thể làm tổn thương tôi?"
+
+@13998 Grados Soldier · グラドス兵
+# Kích hoạt: 轻伤（剩余 HP 90% 以上）（通用，5/5）
+> 「ふん、かすっただけよ!」
+"Hừ, lau đi thôi!"
+
+@13999 Grados Soldier · グラドス兵
+# Kích hoạt: Né tránh（通用，1/5）
+> 「当たるものかよ!」
+"Làm sao có thể đánh trúng!"
+
+@14000 Grados Soldier · グラドス兵
+# Kích hoạt: Né tránh（通用，2/5）
+> 「踏み込みが足りん!」
+"Bạn sạc chưa đủ mạnh!"
+
+@14001 Grados Soldier · グラドス兵
+# Kích hoạt: Né tránh（通用，3/5）
+> 「間合いが遠いわっ!」
+"Nó quá xa!"
+
+@14002 Grados Soldier · グラドス兵
+# Kích hoạt: Né tránh（通用，4/5）
+> 「狙いが甘い!」
+"Mục tiêu kém!"
+
+@14003 Grados Soldier · グラドス兵
+# Kích hoạt: Né tránh（通用，5/5）
+> 「バカめ。どこを狙っている!」
+"Đồ ngốc. Cậu đang nhắm vào đâu vậy!"
+
+@14004 Grados Soldier · グラドス兵
+# Kích hoạt: Tấn công无效（护罩／装甲）（通用，1/2）
+> 「ムダな攻撃をする……」
+"Thật lãng phí sức lực..."
+
+@14005 Grados Soldier · グラドス兵
+# Kích hoạt: Tấn công无效（护罩／装甲）（通用，2/2）
+> 「ふ、そんなビームではな!」
+“Hừm, loại chùm tia đó vô dụng thôi!”
+
+@14006 Grados Soldier · グラドス兵
+# Kích hoạt: 弹药／EN 不足，无法反击（通用，1/2）
+> 「ちっ、弾切れとはな……」
+“Chậc, thực ra không có đạn…”
+
+@14007 Grados Soldier · グラドス兵
+# Kích hoạt: 弹药／EN 不足，无法反击（通用，2/2）
+> 「弾切れか……しかたあるまい」
+"Không có đạn...chúng tôi không thể làm gì được"
+
+@14008 Grados Soldier · グラドス兵
+# Kích hoạt: 射程外，无法反击（通用，1/2）
+> 「ちっ、遠距離からの攻撃か……」
+“Chậc, tôi thực sự đã đánh cậu từ xa…”
+
+@14009 Grados Soldier · グラドス兵
+# Kích hoạt: 射程外，无法反击（通用，2/2）
+> 「む……ここからでは反撃できん」
+"Chà...chúng ta không thể đánh trả ở đây được."

@@ -1,0 +1,229 @@
+# Bản dịch tiếng Việt Super Robot Wars 64
+# Định dạng và vị trí: docs/guide/dialogue-text.md
+
+@8733 Jerid · ジェリド
+# Kích hoạt: Tấn công (Chung，1/15）
+> 「落ちろってんだよ!!」
+"Rớt nó đi!!"
+
+@8734 Jerid · ジェリド
+# Kích hoạt: Tấn công (Chung，2/15）
+> 「観念するんだな!!」
+"Bỏ cuộc!!"
+
+@8735 Jerid · ジェリド
+# Kích hoạt: Tấn công (Chung，3/15）
+> 「沈めえっ!!」
+“Chìm xuống!!”
+
+@8736 Jerid · ジェリド
+# Kích hoạt: Tấn công (Chung，4/15）
+> 「このっ!!」
+"Anh bạn!!"
+
+@8737 Jerid · ジェリド
+# Kích hoạt: Tấn công (Chung，5/15）
+> 「こいつでとどめだっ!!」
+"Hãy sử dụng cái này để đưa bạn lên đường!!"
+
+@8738 Jerid · ジェリド
+# Kích hoạt: Tấn công (Chung，6/15）
+> 「きっさまぁぁっ!!」
+“Đồ khốn——!!”
+
+@8739 Jerid · ジェリド
+# Kích hoạt: Tấn công (Chung，7/15）
+> 「もらった!!」
+"Thành công!!"
+
+@8740 Jerid · ジェリド
+# Kích hoạt: Tấn công (Chung，8/15）
+> 「くらえっ!!」
+"Ăn chiêu của tôi đi!!"
+
+@8741 Jerid · ジェリド
+# Kích hoạt: Tấn công (Chung，9/15）
+> 「そこかあっ!!」
+"Ngay đó!!"
+
+@8742 Jerid · ジェリド
+# Kích hoạt: Tấn công (Chung，10/15）
+> 「当ててみせる!!」
+"Xem tôi đánh cậu đấy!!"
+
+@8743 Jerid · ジェリド
+# Kích hoạt: Tấn công (Chung，11/15）
+> 「じゃまだ!!」
+"Trên đường đi!!"
+
+@8744 Jerid · ジェリド
+# Kích hoạt: Tấn công (Chung，12/15）
+> 「落ちろっ!!」
+"Ngã!!"
+
+@8745 Jerid · ジェリド
+# Kích hoạt: Tấn công (Chung，13/15）
+> 「今、楽にしてやるぜ!!」
+"Hãy để tôi thả bạn ra ngay bây giờ!!"
+
+@8746 Jerid · ジェリド
+# Kích hoạt: Tấn công (Chung，14/15）
+> 「そんなに落とされたいか!?」
+"Bạn có thực sự muốn bị bắn hạ không!?"
+
+@8747 Jerid · ジェリド
+# Kích hoạt: Tấn công (Chung，15/15）
+> 「どこからでも来い! 近づくやつは、
+>  みんな灰にしてやる!」
+"Cứ tới đi! Kẻ nào dám tới gần sẽ bị ta biến thành tro bụi!"
+
+@8748 Jerid · ジェリド
+# Kích hoạt: 被击坠（通用，1/3）
+> 「くっそおぉぉぉっ!!」
+"Chết tiệt!!"
+
+@8749 Jerid · ジェリド
+# Kích hoạt: 被击坠（通用，2/3）
+> 「ええい、これまでか!!」
+"Chết tiệt, thế là xong rồi à?!"
+
+@8750 Jerid · ジェリド
+# Kích hoạt: 被击坠（通用，3/3）
+> 「くそっ! なぜだ! なぜ勝てないっ!?」
+"Chết tiệt! Tại sao! Tại sao bạn không thể thắng!?"
+
+@8751 Jerid · ジェリド
+# Kích hoạt: 重伤（剩余 HP 不足 30%）（通用，1/4）
+> 「バカな……この俺が押されている!?」
+“Làm sao có thể…tôi đã bị đàn áp!?”
+
+@8752 Jerid · ジェリド
+# Kích hoạt: 重伤（剩余 HP 不足 30%）（通用，2/4）
+> 「ぐうっ! こ、こいつっ!」
+"Ờ! Cái này, cái gã này!"
+
+@8753 Jerid · ジェリド
+# Kích hoạt: 重伤（剩余 HP 不足 30%）（通用，3/4）
+> 「なんだと!?」
+"Cái gì!?"
+
+@8754 Jerid · ジェリド
+# Kích hoạt: 重伤（剩余 HP 不足 30%）（通用，4/4）
+> 「ぐあっ! なんてパワーだ!!」
+"A! Thật là một thế lực mạnh mẽ!!"
+
+@8755 Jerid · ジェリド
+# Kích hoạt: 中伤（剩余 HP 30–90%）（通用，1/5）
+> 「ちいっ! いい気になるなっ!!」
+"Tsk! Đừng quá khích!!"
+
+@8756 Jerid · ジェリド
+# Kích hoạt: 中伤（剩余 HP 30–90%）（通用，2/5）
+> 「まだまだっ!!」
+“Vẫn còn sớm mà!!”
+
+@8757 Jerid · ジェリド
+# Kích hoạt: 中伤（剩余 HP 30–90%）（通用，3/5）
+> 「うっ! 貴様なんぞにっ!!」
+"Ugh! Chỉ có bạn thôi!!"
+
+@8758 Jerid · ジェリド
+# Kích hoạt: 中伤（剩余 HP 30–90%）（通用，4/5）
+> 「ちいっ! なめた真似してくれるぜっ!」
+"Tsk! Sao ngươi dám đánh giá thấp ta!"
+
+@8759 Jerid · ジェリド
+# Kích hoạt: 中伤（剩余 HP 30–90%）（通用，5/5）
+> 「ぬうっ!! まだだ、まだ戦える!!」
+"Hmm!! Vẫn chưa kết thúc đâu, tôi vẫn còn có thể chiến đấu!!"
+
+@8760 Jerid · ジェリド
+# Kích hoạt: 轻伤（剩余 HP 90% 以上）（通用，1/4）
+> 「こんなもんで落ちるかよっ!!」
+"Bạn vẫn muốn đánh bại tôi chỉ vì điều này!!"
+
+@8761 Jerid · ジェリド
+# Kích hoạt: 轻伤（剩余 HP 90% 以上）（通用，2/4）
+> 「かすっただけだ!!」
+"Chỉ là lau thôi mà!!"
+
+@8762 Jerid · ジェリド
+# Kích hoạt: 轻伤（剩余 HP 90% 以上）（通用，3/4）
+> 「この程度!!」
+"Vết thương nhỏ này!!"
+
+@8763 Jerid · ジェリド
+# Kích hoạt: 轻伤（剩余 HP 90% 以上）（通用，4/4）
+> 「そんなものか!! 笑わせるぜ!!」
+"Đó là tất cả những gì bạn có à? Buồn cười quá!!"
+
+@8764 Jerid · ジェリド
+# Kích hoạt: Né tránh（通用，1/5）
+> 「あまいんだよっ!!」
+"Thật ngây thơ!!"
+
+@8765 Jerid · ジェリド
+# Kích hoạt: Né tránh（通用，2/5）
+> 「なめるなっ!!」
+"Đừng đánh giá thấp tôi!!"
+
+@8766 Jerid · ジェリド
+# Kích hoạt: Né tránh（通用，3/5）
+> 「なんのっ!!」
+"Đó là một trò đùa!!"
+
+@8767 Jerid · ジェリド
+# Kích hoạt: Né tránh（通用，4/5）
+> 「させるかっ!!」
+"Đừng nghĩ tới chuyện đó nữa!!"
+
+@8768 Jerid · ジェリド
+# Kích hoạt: Né tránh（通用，5/5）
+> 「ハハハッ! あたるかッ!」
+"Ha ha ha! Làm sao có thể đánh trúng!"
+
+@8769 Jerid · ジェリド
+# Kích hoạt: Tấn công无效（护罩／装甲）（通用，1/1）
+> 「効かねえなっ!」
+"Nó không đau hay ngứa chút nào!"
+
+@8770 Jerid · ジェリド
+# Kích hoạt: 弹药／EN 不足，无法反击（通用，1/2）
+> 「しまった、弾切れか!?」
+"Rất tiếc, không còn đạn nữa!?"
+
+@8771 Jerid · ジェリド
+# Kích hoạt: 弹药／EN 不足，无法反击（通用，2/2）
+> 「しまった、撃ちつくした! スペア!!」
+"Rất tiếc, tất cả đều bắn! Đạn dự phòng!!"
+
+@8772 Jerid · ジェリド
+# Kích hoạt: 射程外，无法反击（通用，1/1）
+> 「くそっ! 反撃できん!!」
+"Chết tiệt! Không có cách nào để đánh trả cả!!"
+
+@14650 Jerid · ジェリド
+# Kích hoạt: 使用〈フィンファンネル〉
+> 「フィンファンネルっ!!」
+"Pháo nổi có vây!!"
+
+@14651 Jerid · ジェリド
+# Kích hoạt: 轻伤（剩余 HP 90% 以上），乘坐〈バウンド・ドック〉
+> 「そんな事で、このバウンド・ドッグは
+>  落ちないぜ!」
+“Với kiểu tấn công đó, con chó săn này sẽ không gục ngã!”
+
+@14652 Jerid · ジェリド
+# Kích hoạt: Né tránh，条件 1000
+> 「かかった!?」
+"Đã cắn câu!?"
+
+@14653 Jerid · ジェリド
+# Kích hoạt: Né tránh，条件 1000
+> 「いいぞ、こいつはなかなか使える!」
+"Ừ, anh chàng này khá hữu ích!"
+
+@14654 Jerid · ジェリド
+# Kích hoạt: Né tránh，条件 1000
+> 「よし、ダミーにいったな」
+"Được rồi, chúng ta hãy cắn mồi."

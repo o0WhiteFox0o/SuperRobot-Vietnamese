@@ -1,0 +1,275 @@
+# Bản dịch tiếng Việt Super Robot Wars 64
+# Định dạng và vị trí: docs/guide/dialogue-text.md
+
+@8174 Gyunei · ギュネイ
+# Kích hoạt: Tấn công (Chung，1/16）
+> 「よけられるか?」
+“Cậu có thể trốn đi được không?”
+
+@8175 Gyunei · ギュネイ
+# Kích hoạt: Tấn công (Chung，2/16）
+> 「いけぇーっ!!」
+"Đi-!!"
+
+@8176 Gyunei · ギュネイ
+# Kích hoạt: Tấn công (Chung，3/16）
+> 「あたれぇーっ!!」
+"Đánh tôi đi——!!"
+
+@8177 Gyunei · ギュネイ
+# Kích hoạt: Tấn công (Chung，4/16）
+> 「そこまでだっ!!」
+“Chính là nó!!”
+
+@8178 Gyunei · ギュネイ
+# Kích hoạt: Tấn công (Chung，5/16）
+> 「くらえっ!!」
+"Ăn chiêu của tôi đi!!"
+
+@8179 Gyunei · ギュネイ
+# Kích hoạt: Tấn công (Chung，6/16）
+> 「そこっ!」
+"Chính là nó!"
+
+@8180 Gyunei · ギュネイ
+# Kích hoạt: Tấn công (Chung，7/16）
+> 「このぉ!」
+"Anh bạn!"
+
+@8181 Gyunei · ギュネイ
+# Kích hoạt: Tấn công (Chung，8/16）
+> 「おそいっ!!」
+"Quá chậm!!"
+
+@8182 Gyunei · ギュネイ
+# Kích hoạt: Tấn công (Chung，9/16）
+> 「いかせるか!」
+"Làm sao có thể để cho ngươi thành công!"
+
+@8183 Gyunei · ギュネイ
+# Kích hoạt: Tấn công (Chung，10/16）
+> 「逃すか!」
+"Đừng cố trốn thoát!"
+
+@8184 Gyunei · ギュネイ
+# Kích hoạt: Tấn công (Chung，11/16）
+> 「来たなプレッシャー!」
+"Áp lực này tới rồi!"
+
+@8185 Gyunei · ギュネイ
+# Kích hoạt: Tấn công (Chung，12/16）
+> 「じゃまだっ!!」
+"Trên đường đi!!"
+
+@8186 Gyunei · ギュネイ
+# Kích hoạt: Tấn công (Chung，13/16）
+> 「こんな連中など、オレ1機で!」
+"Loại chuyện này tôi có thể tự mình xử lý được!"
+
+@8187 Gyunei · ギュネイ
+# Kích hoạt: Tấn công (Chung，14/16）
+> 「今の俺ならガンダムだろうが、
+>  何だろうがっ!!」
+"Bây giờ tôi không quan tâm liệu anh ta có phải là một con robot hay thứ gì khác không nữa!!"
+
+@8188 Gyunei · ギュネイ
+# Kích hoạt: Tấn công (Chung，15/16）
+> 「このギュネイ・ガスの警告を無視
+>  するから!」
+"Ai bảo cậu bỏ qua lời cảnh báo của tôi, Qioni Geis!"
+
+@8189 Gyunei · ギュネイ
+# Kích hoạt: Tấn công (Chung，16/16）
+> 「邪魔だっ!!」
+"Tránh xa ra!!"
+
+@8190 Gyunei · ギュネイ
+# Kích hoạt: 被击坠（通用，1/4）
+> 「し、しまった!!」
+"Ối, ôi!!"
+
+@8191 Gyunei · ギュネイ
+# Kích hoạt: 被击坠（通用，2/4）
+> 「クェスッ!!」
+"Kỳ Sĩ!!"
+
+@8192 Gyunei · ギュネイ
+# Kích hoạt: 被击坠（通用，3/4）
+> 「くっ! しまったっ!!」
+"Ugh! Rất tiếc!!"
+
+@8193 Gyunei · ギュネイ
+# Kích hoạt: 被击坠（通用，4/4）
+> 「馬鹿な……この俺が!?」
+"Không thể nào... thực ra là tôi!?"
+
+@8194 Gyunei · ギュネイ
+# Kích hoạt: 重伤（剩余 HP 不足 30%）（通用，1/4）
+> 「なにっ!?」
+"Cái gì!?"
+
+@8195 Gyunei · ギュネイ
+# Kích hoạt: 重伤（剩余 HP 不足 30%）（通用，2/4）
+> 「くっ!! ダメージを受けすぎたか!?」
+"Ugh!! Có đau quá không!?"
+
+@8196 Gyunei · ギュネイ
+# Kích hoạt: 重伤（剩余 HP 不足 30%）（通用，3/4）
+> 「バカな!? このオレが押されて
+>  いるだと!?」
+"Không thể nào!? Tôi đã bị đàn áp!?"
+
+@8197 Gyunei · ギュネイ
+# Kích hoạt: 重伤（剩余 HP 不足 30%）（通用，4/4）
+> 「うっ! やられる!?」
+"Ừm! Cậu sắp bị giết à!?"
+
+@8198 Gyunei · ギュネイ
+# Kích hoạt: 中伤（剩余 HP 30–90%）（通用，1/6）
+> 「くそっ!」
+"Chết tiệt!"
+
+@8199 Gyunei · ギュネイ
+# Kích hoạt: 中伤（剩余 HP 30–90%）（通用，2/6）
+> 「くっ! まだまだ!」
+"Chà! Vẫn còn sớm!"
+
+@8200 Gyunei · ギュネイ
+# Kích hoạt: 中伤（剩余 HP 30–90%）（通用，3/6）
+> 「ちいっ!
+>  だが、まだやられたワケじゃないぜ!」
+"Tsk! Nhưng tôi vẫn chưa thua!"
+
+@8201 Gyunei · ギュネイ
+# Kích hoạt: 中伤（剩余 HP 30–90%）（通用，4/6）
+> 「うおっ! なんの、これからだっ!!」
+"Ồ! Đừng lo lắng, đây chỉ là sự khởi đầu thôi!!"
+
+@8202 Gyunei · ギュネイ
+# Kích hoạt: 中伤（剩余 HP 30–90%）（通用，5/6）
+> 「ぐっ!! 貴様、よくもっ!」
+"Ugh!! Sao ngươi dám!"
+
+@8203 Gyunei · ギュネイ
+# Kích hoạt: 中伤（剩余 HP 30–90%）（通用，6/6）
+> 「このプレッシャーはなんだ!?」
+"Áp lực này là gì vậy!?"
+
+@8204 Gyunei · ギュネイ
+# Kích hoạt: 轻伤（剩余 HP 90% 以上）（通用，1/6）
+> 「この損傷なら爆発しない!」
+"Với chút sát thương này, nó sẽ không nổ tung!"
+
+@8205 Gyunei · ギュネイ
+# Kích hoạt: 轻伤（剩余 HP 90% 以上）（通用，2/6）
+> 「その程度かよ!」
+“Đó là tất cả những gì cậu có à?”
+
+@8206 Gyunei · ギュネイ
+# Kích hoạt: 轻伤（剩余 HP 90% 以上）（通用，3/6）
+> 「効くかよ!!」
+“Làm sao nó có thể hoạt động được!!”
+
+@8207 Gyunei · ギュネイ
+# Kích hoạt: 轻伤（剩余 HP 90% 以上）（通用，4/6）
+> 「この程度でっ!!」
+"Đó là tất cả!"
+
+@8208 Gyunei · ギュネイ
+# Kích hoạt: 轻伤（剩余 HP 90% 以上）（通用，5/6）
+> 「たいした攻撃じゃないぜ!」
+"Cuộc tấn công này không là gì cả!"
+
+@8209 Gyunei · ギュネイ
+# Kích hoạt: 轻伤（剩余 HP 90% 以上）（通用，6/6）
+> 「効かないな!」
+"Nó không có tác dụng gì cả!"
+
+@8210 Gyunei · ギュネイ
+# Kích hoạt: Né tránh（通用，1/5）
+> 「あたってたまるかよっ!!」
+"Làm sao có thể bị đánh được!!"
+
+@8211 Gyunei · ギュネイ
+# Kích hoạt: Né tránh（通用，2/5）
+> 「きたっ!」
+"Tới!"
+
+@8212 Gyunei · ギュネイ
+# Kích hoạt: Né tránh（通用，3/5）
+> 「みえみえなんだよ!!」
+“Bạn có thể thấy nó ngay lập tức!!”
+
+@8213 Gyunei · ギュネイ
+# Kích hoạt: Né tránh（通用，4/5）
+> 「見えるぜ!」
+"Tôi có thể nhìn thấy nó!"
+
+@8214 Gyunei · ギュネイ
+# Kích hoạt: Né tránh（通用，5/5）
+> 「はははっ! 俺だってこれ位の芸当
+>  はできる!」
+"Hahaha! Tôi cũng có thể làm được trò này!"
+
+@8215 Gyunei · ギュネイ
+# Kích hoạt: Tấn công无效（护罩／装甲）（通用，1/3）
+> 「ムダだっ!!」
+"Lãng phí công sức!!"
+
+@8216 Gyunei · ギュネイ
+# Kích hoạt: Tấn công无效（护罩／装甲）（通用，2/3）
+> 「効くかよ!」
+"Làm sao nó có thể hoạt động được!"
+
+@8217 Gyunei · ギュネイ
+# Kích hoạt: Tấn công无效（护罩／装甲）（通用，3/3）
+> 「ビームなんざ無駄なんだよっ!」
+"Dầm và các thứ đều vô dụng!"
+
+@8218 Gyunei · ギュネイ
+# Kích hoạt: 弹药／EN 不足，无法反击（通用，1/2）
+> 「くっ、だめか!?」
+"Chà, bạn có thể không!?"
+
+@8219 Gyunei · ギュネイ
+# Kích hoạt: 弹药／EN 不足，无法反击（通用，2/2）
+> 「ちっ! せっかくの反撃のチャンス
+>  だってのに、弾切れかよ!!」
+"Tsk! Đánh trả hiếm lắm, nhưng chúng ta không có đạn dược!!"
+
+@8220 Gyunei · ギュネイ
+# Kích hoạt: 射程外，无法反击（通用，1/2）
+> 「くっ! 遠すぎるか!」
+"Ugh! Xa quá!"
+
+@8221 Gyunei · ギュネイ
+# Kích hoạt: 射程外，无法反击（通用，2/2）
+> 「くそっ! なんて所から攻撃して
+>  くるんだ!!」
+"Chết tiệt! Cậu thực sự đã đánh tôi từ khoảng cách xa như vậy!!"
+
+@14584 Gyunei · ギュネイ
+# Kích hoạt: 使用〈ファンネル／マザーファンネル〉
+> 「行けっ! ファンネルッ!!」
+"Nào! Pháo nổi!!"
+
+@14585 Gyunei · ギュネイ
+# Kích hoạt: 使用〈ファンネル／マザーファンネル〉
+> 「このファンネルでっ!!」
+“Chỉ cần sử dụng khẩu pháo nổi này thôi!!”
+
+@14586 Gyunei · ギュネイ
+# Kích hoạt: Né tránh，条件 1000
+> 「はははっ! ダミーを使えばこのくらい
+>  の芸当は!」
+"Hahaha! Có bom mồi, thủ đoạn này không có gì to tát cả!"
+
+@14587 Gyunei · ギュネイ
+# Kích hoạt: Né tránh，条件 1000
+> 「このギュネイ・ガスにあてるつもりか!?」
+"Anh đang cố đánh tôi đấy à, Qiony Gus!?"
+
+@14588 Gyunei · ギュネイ
+# Kích hoạt: Né tránh，条件 1000
+> 「そんな攻撃、ムダなんだよ!」
+"Đòn tấn công đó là vô ích!"

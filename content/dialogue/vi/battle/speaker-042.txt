@@ -1,0 +1,308 @@
+# Bản dịch tiếng Việt Super Robot Wars 64
+# Định dạng và vị trí: docs/guide/dialogue-text.md
+
+@11078 Judau · ジュドー
+# Kích hoạt: Tấn công (Chung，1/16）
+> 「そこだあっ!!」
+“Chính là nó!!”
+
+@11079 Judau · ジュドー
+# Kích hoạt: Tấn công (Chung，2/16）
+> 「こいつで終わりだっ!!」
+“Một đòn này sẽ kết liễu ngươi!!”
+
+@11080 Judau · ジュドー
+# Kích hoạt: Tấn công (Chung，3/16）
+> 「どけえっ!」
+"Tránh xa!"
+
+@11081 Judau · ジュドー
+# Kích hoạt: Tấn công (Chung，4/16）
+> 「しつこいんだよっ!」
+"Thật khó chịu!"
+
+@11082 Judau · ジュドー
+# Kích hoạt: Tấn công (Chung，5/16）
+> 「くらえっ!」
+"Ăn chiêu của tôi đi!"
+
+@11083 Judau · ジュドー
+# Kích hoạt: Tấn công (Chung，6/16）
+> 「やるかよっ!」
+"Thật là một ý nghĩ đẹp đẽ!"
+
+@11084 Judau · ジュドー
+# Kích hoạt: Tấn công (Chung，7/16）
+> 「消えろっ!」
+"Biến mất!"
+
+@11085 Judau · ジュドー
+# Kích hoạt: Tấn công (Chung，8/16）
+> 「そう簡単に、やらせるかよっ!」
+"Không dễ dàng thành công như vậy!"
+
+@11086 Judau · ジュドー
+# Kích hoạt: Tấn công (Chung，9/16）
+> 「あまいんだよっ!」
+"Thật ngây thơ!"
+
+@11087 Judau · ジュドー
+# Kích hoạt: Tấn công (Chung，10/16）
+> 「直撃させるっ!!」
+"Hãy để bạn ăn hết mình!!"
+
+@11088 Judau · ジュドー
+# Kích hoạt: Tấn công (Chung，11/16）
+> 「このおっ!」
+"Anh bạn!"
+
+@11089 Judau · ジュドー
+# Kích hoạt: Tấn công (Chung，12/16）
+> 「やらせるかっ!」
+"Đừng nghĩ tới chuyện đó nữa!"
+
+@11090 Judau · ジュドー
+# Kích hoạt: Tấn công (Chung，13/16）
+> 「でやあーっ!」
+"Này ah-!"
+
+@11091 Judau · ジュドー
+# Kích hoạt: Tấn công (Chung，14/16）
+> 「んなくそぉーっ!」
+“Chết tiệt—!”
+
+@11092 Judau · ジュドー
+# Kích hoạt: Tấn công (Chung，15/16）
+> 「なめるなぁーっ!!」
+“Đừng đánh giá thấp tôi——!!”
+
+@11093 Judau · ジュドー
+# Kích hoạt: Tấn công (Chung，16/16）
+> 「おかえしだぜっ!」
+"Tôi sẽ trả lại cho bạn ngay bây giờ!"
+
+@11094 Judau · ジュドー
+# Kích hoạt: 被击坠（通用，1/3）
+> 「うわっ!やられたっ!!」
+"Ồ! Bị giết rồi!!"
+
+@11095 Judau · ジュドー
+# Kích hoạt: 被击坠（通用，2/3）
+> 「うわっちゃあ!やられちまったぜ!!」
+"Wow! Anh ấy thực sự đã bị giết!!"
+
+@11096 Judau · ジュドー
+# Kích hoạt: 被击坠（通用，3/3）
+> 「し、しまった!!」
+"Ối, ôi!!"
+
+@11097 Judau · ジュドー
+# Kích hoạt: 重伤（剩余 HP 不足 30%）（通用，1/7）
+> 「わああっ! ダメージがでかすぎるぜ!!」
+"Oa! Vết thương quá nghiêm trọng!!"
+
+@11098 Judau · ジュドー
+# Kích hoạt: 重伤（剩余 HP 不足 30%）（通用，2/7）
+> 「うわあっ!! こ、このままじゃ……」
+"Wow!! Chuyện này, nếu chuyện này tiếp tục..."
+
+@11099 Judau · ジュドー
+# Kích hoạt: 重伤（剩余 HP 不足 30%）（通用，3/7）
+> 「くそっ! なんてパワーだ!?」
+"Chết tiệt! Sức mạnh đó đến từ đâu vậy!?"
+
+@11100 Judau · ジュドー
+# Kích hoạt: 重伤（剩余 HP 不足 30%）（通用，4/7）
+> 「うわああっ! まずい、パワーが段ちだ!」
+"Ồ! Không tốt, sức mạnh chênh lệch quá lớn!"
+
+@11101 Judau · ジュドー
+# Kích hoạt: 重伤（剩余 HP 不足 30%）（通用，5/7）
+> 「くっ!!ヤバイな……」
+"Ugh!! Điều đó không tốt..."
+
+@11102 Judau · ジュドー
+# Kích hoạt: 重伤（剩余 HP 不足 30%）（通用，6/7）
+> 「くっ!ダメージがでかすぎるか!?」
+"Ugh! Có đau quá không!?"
+
+@11103 Judau · ジュドー
+# Kích hoạt: 重伤（剩余 HP 不足 30%）（通用，7/7）
+> 「ちいっ!!ちょいとヤバイぜ!」
+"Tsk!! Có gì đó không ổn!"
+
+@11104 Judau · ジュドー
+# Kích hoạt: 中伤（剩余 HP 30–90%）（通用，1/8）
+> 「まだまだあっ!! いいようにさせるか!!」
+"Vẫn còn quá sớm!! Làm sao tôi có thể để cậu muốn làm gì thì làm!!"
+
+@11105 Judau · ジュドー
+# Kích hoạt: 中伤（剩余 HP 30–90%）（通用，2/8）
+> 「うっ! す、好き勝手やってくれ
+>  ちゃって!!」
+"Hừ! Sao ngươi dám kiêu ngạo như vậy!!"
+
+@11106 Judau · ジュドー
+# Kích hoạt: 中伤（剩余 HP 30–90%）（通用，3/8）
+> 「落ちるかよっ!!」
+“Tôi sẽ không bị đánh bại đâu!!”
+
+@11107 Judau · ジュドー
+# Kích hoạt: 中伤（剩余 HP 30–90%）（通用，4/8）
+> 「ぐっ! な、何の、これからこれから!」
+"Chà! Cái này, cái này cũng không có gì, trò vui còn chưa tới!"
+
+@11108 Judau · ジュドー
+# Kích hoạt: 中伤（剩余 HP 30–90%）（通用，5/8）
+> 「ま、まだやられるかよっ!」
+"Tuy nhiên, đây không phải là lượt của tôi để ngã!"
+
+@11109 Judau · ジュドー
+# Kích hoạt: 中伤（剩余 HP 30–90%）（通用，6/8）
+> 「くっ!やるじゃないの!」
+"Chà! Chỉ mất vài giây thôi!"
+
+@11110 Judau · ジュドー
+# Kích hoạt: 中伤（剩余 HP 30–90%）（通用，7/8）
+> 「まだまだぁっ!!」
+“Vẫn còn sớm mà!!”
+
+@11111 Judau · ジュドー
+# Kích hoạt: 中伤（剩余 HP 30–90%）（通用，8/8）
+> 「くっ!!まだいけるぜ!!」
+"Hmm!! Tôi vẫn có thể chiến đấu!!"
+
+@11112 Judau · ジュドー
+# Kích hoạt: 轻伤（剩余 HP 90% 以上）（通用，1/5）
+> 「こんなもん、効くかよ!!」
+"Loại chuyện này không được!"
+
+@11113 Judau · ジュドー
+# Kích hoạt: 轻伤（剩余 HP 90% 以上）（通用，2/5）
+> 「そんな攻撃でっ!」
+"Chỉ là kiểu tấn công này thôi!"
+
+@11114 Judau · ジュドー
+# Kích hoạt: 轻伤（剩余 HP 90% 以上）（通用，3/5）
+> 「当たった!? けど、このくらいでっ!」
+"Đánh!? Nhưng vết thương nhỏ này chẳng là gì cả!"
+
+@11115 Judau · ジュドー
+# Kích hoạt: 轻伤（剩余 HP 90% 以上）（通用，4/5）
+> 「なんのっ!!」
+"Cái quái gì vậy!!"
+
+@11116 Judau · ジュドー
+# Kích hoạt: 轻伤（剩余 HP 90% 以上）（通用，5/5）
+> 「その程度かよ!」
+“Đó là tất cả những gì cậu có à?”
+
+@11117 Judau · ジュドー
+# Kích hoạt: Né tránh（通用，1/9）
+> 「おおっと!!」
+"Ối!!"
+
+@11118 Judau · ジュドー
+# Kích hoạt: Né tránh（通用，2/9）
+> 「何やってんだよ、ヘタクソ!」
+"Bạn đang làm gì vậy, tân binh!"
+
+@11119 Judau · ジュドー
+# Kích hoạt: Né tránh（通用，3/9）
+> 「ひょいっと」
+“Một tia chớp nhẹ.”
+
+@11120 Judau · ジュドー
+# Kích hoạt: Né tránh（通用，4/9）
+> 「当たらないね!」
+"Tôi không thể đánh nó!"
+
+@11121 Judau · ジュドー
+# Kích hoạt: Né tránh（通用，5/9）
+> 「あたってたまるかよっ!!」
+"Làm sao có thể bị đánh được!!"
+
+@11122 Judau · ジュドー
+# Kích hoạt: Né tránh（通用，6/9）
+> 「あぶねぇ、あぶねぇ」
+"Rủi ro gì, rủi ro gì."
+
+@11123 Judau · ジュドー
+# Kích hoạt: Né tránh（通用，7/9）
+> 「ねらいがあまいぜ!」
+"Mục tiêu quá tệ!"
+
+@11124 Judau · ジュドー
+# Kích hoạt: Né tránh（通用，8/9）
+> 「効かないってよ!」
+"Nó không hoạt động!"
+
+@11125 Judau · ジュドー
+# Kích hoạt: Né tránh（通用，9/9）
+> 「ムダだっていってんじゃん!」
+"Tôi đã nói với bạn rằng đó là một sự lãng phí công sức!"
+
+@11126 Judau · ジュドー
+# Kích hoạt: Tấn công无效（护罩／装甲）（通用，1/1）
+> 「こんなもん、効くかい!!」
+"Loại chuyện này không được!"
+
+@11127 Judau · ジュドー
+# Kích hoạt: 弹药／EN 不足，无法反击（通用，1/1）
+> 「ちっ!反撃できねえ!!」
+"Tsk! Không có cách nào để đánh trả được!!"
+
+@11128 Judau · ジュドー
+# Kích hoạt: 射程外，无法反击（通用，1/1）
+> 「だめだ!とどかねえっ!」
+"Không! Nó ngoài tầm với!"
+
+@16387 Judau · ジュドー
+# Kích hoạt: 使用〈ファンネル／マザーファンネル〉
+> 「そこだっ! ファンネル!!」
+"Chính là nó! Pháo nổi!!"
+
+@16388 Judau · ジュドー
+# Kích hoạt: 使用〈ファンネル／マザーファンネル〉
+> 「ファンネル!!」
+"Pháo nổi!!"
+
+@16389 Judau · ジュドー
+# Kích hoạt: 使用〈ファンネル／マザーファンネル〉
+> 「いけっ!ファンネル!!」
+"Đi! Pháo nổi!!"
+
+@16390 Judau · ジュドー
+# Kích hoạt: 使用〈フィンファンネル〉
+> 「いけっ!フィンファンネル!!」
+"Đi! Pháo nổi vây!!"
+
+@16391 Judau · ジュドー
+# Kích hoạt: 使用〈フィンファンネル〉
+> 「フィンファンネル!!」
+"Pháo nổi có vây!!"
+
+@16392 Judau · ジュドー
+# Kích hoạt: 使用〈フィンファンネル〉
+> 「フィンファンネル、行けぇぇっ!!」
+"Pháo vây, cố gắng lên!!"
+
+@16393 Judau · ジュドー
+# Kích hoạt: 使用〈ヴェスバー〉（低优先，可能被通用台词顶掉）
+> 「ヴェスバー!!」
+"VSBR!!"
+
+@16394 Judau · ジュドー
+# Kích hoạt: 使用〈ハイメガキャノン〉（低优先，可能被通用台词顶掉）
+> 「いっけーっ!!ハイメガキャノン!!」
+"Đi-!! Mega Cannon công suất cao!!"
+
+@16395 Judau · ジュドー
+# Kích hoạt: 使用〈ハイメガキャノン〉（低优先，可能被通用台词顶掉）
+> 「一気にいくぜっ! ハイメガキャノン!」
+"Chỉ cần một lần! Mega Cannon công suất cao!"
+
+@16396 Judau · ジュドー
+# Kích hoạt: 使用〈ハイメガキャノン〉（低优先，可能被通用台词顶掉）
+> 「行けえぇっ! ハイメガキャノン砲っ!」
+“Tiến lên—! Mega Cannon công suất cao!”

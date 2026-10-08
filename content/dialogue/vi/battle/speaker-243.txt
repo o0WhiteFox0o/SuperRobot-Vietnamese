@@ -1,0 +1,139 @@
+# Bản dịch tiếng Việt Super Robot Wars 64
+# Định dạng và vị trí: docs/guide/dialogue-text.md
+
+@12052 Warchimedes · ワルキメデス
+# Kích hoạt: Tấn công (Chung，1/9）
+> 「ゆくぞ、ダークロン!」
+"Nào, Daklon!"
+
+@12053 Warchimedes · ワルキメデス
+# Kích hoạt: Tấn công (Chung，2/9）
+> 「頼むぞダークロン!」
+"Làm ơn đi, Daklon!"
+
+@12054 Warchimedes · ワルキメデス
+# Kích hoạt: Tấn công (Chung，3/9）
+> 「のるかそるかだ!」
+"Thành công hay thất bại đều phụ thuộc vào điều này!"
+
+@12055 Warchimedes · ワルキメデス
+# Kích hoạt: Tấn công (Chung，4/9）
+> 「逃しはせん!」
+"Đừng nghĩ tới việc trốn thoát!"
+
+@12056 Warchimedes · ワルキメデス
+# Kích hoạt: Tấn công (Chung，5/9）
+> 「それっ!」
+"Xem động tác!"
+
+@12057 Warchimedes · ワルキメデス
+# Kích hoạt: Tấn công (Chung，6/9）
+> 「どうだ!」
+"Thế nào rồi!"
+
+@12058 Warchimedes · ワルキメデス
+# Kích hoạt: Tấn công (Chung，7/9）
+> 「ダークロン、最大出力
+>  120%!」
+"Daclon, sản lượng tối đa 120%!"
+
+@12059 Warchimedes · ワルキメデス
+# Kích hoạt: Tấn công (Chung，8/9）
+> 「これまでよ。死ねぃ!」
+"Vậy đó. Xuống địa ngục đi!"
+
+@12060 Warchimedes · ワルキメデス
+# Kích hoạt: Tấn công (Chung，9/9）
+> 「これでもくらうがいい!」
+"Thử cái này đi!"
+
+@12061 Warchimedes · ワルキメデス
+# Kích hoạt: 被击坠（通用，1/3）
+> 「うおぉぉぉぉぉーっ!?」
+"Uuuuuuuuuuuuuuuuuuuuuuuuu——!?"
+
+@12062 Warchimedes · ワルキメデス
+# Kích hoạt: 被击坠（通用，2/3）
+> 「だ、脱出だ!」
+"Nhanh, đi ra nhanh!"
+
+@12063 Warchimedes · ワルキメデス
+# Kích hoạt: 被击坠（通用，3/3）
+> 「ジャネラ様、申しわけございません!!」
+"Chúa Gagnela, tôi rất xin lỗi!!"
+
+@12064 Warchimedes · ワルキメデス
+# Kích hoạt: 重伤（剩余 HP 不足 30%）（通用，1/3）
+> 「うおっ!? お、俺はまだ
+>  死にたくない!」
+"Uh-oh!? T-tôi chưa muốn chết!"
+
+@12065 Warchimedes · ワルキメデス
+# Kích hoạt: 重伤（剩余 HP 不足 30%）（通用，2/3）
+> 「ぐっ……ばかな、こんなばかな!」
+"Chà... không thể, điều này là không thể!"
+
+@12066 Warchimedes · ワルキメデス
+# Kích hoạt: 重伤（剩余 HP 不足 30%）（通用，3/3）
+> 「お……おのれ、このままでは……」
+"Nhưng... chết tiệt, nếu chuyện này tiếp tục..."
+
+@12067 Warchimedes · ワルキメデス
+# Kích hoạt: 中伤（剩余 HP 30–90%）（通用，1/3）
+> 「な、なんだ!?」
+"C-Cái gì!?"
+
+@12068 Warchimedes · ワルキメデス
+# Kích hoạt: 中伤（剩余 HP 30–90%）（通用，2/3）
+> 「くっ……なんということだ!」
+"Ừm... sao chuyện này có thể xảy ra được!"
+
+@12069 Warchimedes · ワルキメデス
+# Kích hoạt: 中伤（剩余 HP 30–90%）（通用，3/3）
+> 「ええいっ! これしきのことで!」
+"Chết tiệt! Chỉ là một vết thương như vậy thôi!"
+
+@12070 Warchimedes · ワルキメデス
+# Kích hoạt: 轻伤（剩余 HP 90% 以上）（通用，1/3）
+> 「フフフ、無駄な攻撃だ!」
+"Hehehe, lãng phí công sức!"
+
+@12071 Warchimedes · ワルキメデス
+# Kích hoạt: 轻伤（剩余 HP 90% 以上）（通用，2/3）
+> 「このダークロンには効きはせん!」
+"Nó hoàn toàn không có tác dụng với Daklone này!"
+
+@12072 Warchimedes · ワルキメデス
+# Kích hoạt: 轻伤（剩余 HP 90% 以上）（通用，3/3）
+> 「ハハハッ、痛くもかゆくもないわ!」
+"Hahaha, không đau cũng không ngứa!"
+
+@12073 Warchimedes · ワルキメデス
+# Kích hoạt: Né tránh（通用，1/1）
+> 「ハハハッ、何度でもやるがよい!」
+"Hahaha, đến bao nhiêu lần tùy thích!"
+
+@12074 Warchimedes · ワルキメデス
+# Kích hoạt: Tấn công无效（护罩／装甲）（通用，1/1）
+> 「フン、無駄なことだ!」
+"Hừ, lãng phí sức lực!"
+
+@12075 Warchimedes · ワルキメデス
+# Kích hoạt: 弹药／EN 不足，无法反击（通用，1/1）
+> 「な、なんと弾切れか!?」
+“C-Cái gì, chúng ta hết đạn rồi!?”
+
+@12076 Warchimedes · ワルキメデス
+# Kích hoạt: 射程外，无法反击（通用，1/1）
+> 「ええいっ、届かぬではないか!」
+"Chết tiệt, tôi thậm chí còn không thể chạm tới nó!"
+
+@16797 Warchimedes · ワルキメデス
+# Kích hoạt: 使用〈ダークロンドリル〉（低优先，可能被通用台词顶掉）
+> 「ダークロンドリルでとどめをさしてやる!」
+"Đưa bạn lên đường với máy khoan daclon!"
+
+@16798 Warchimedes · ワルキメデス
+# Kích hoạt: 使用〈爪ミサイル〉（低优先，可能被通用台词顶掉）
+> 「ツメミサイル!」
+"Tên lửa móng vuốt!"

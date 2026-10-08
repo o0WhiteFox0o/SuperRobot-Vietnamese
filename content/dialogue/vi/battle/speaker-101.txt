@@ -1,0 +1,352 @@
+# Bản dịch tiếng Việt Super Robot Wars 64
+# Định dạng và vị trí: docs/guide/dialogue-text.md
+
+@6524 Zechs · ゼクス
+# Kích hoạt: Tấn công (Chung，1/15）
+> 「ギリギリだが、叩ける!」
+"Nó vừa đủ trong tầm tay và có thể bị đánh bại!"
+
+@6525 Zechs · ゼクス
+# Kích hoạt: Tấn công (Chung，2/15）
+> 「あと何機だ!?」
+"Còn lại bao nhiêu!?"
+
+@6526 Zechs · ゼクス
+# Kích hoạt: Tấn công (Chung，3/15）
+> 「そこだっ!!」
+“Chính là nó!!”
+
+@6527 Zechs · ゼクス
+# Kích hoạt: Tấn công (Chung，4/15）
+> 「……私は軍人なのだよ……」
+"...Tôi là một người lính..."
+
+@6528 Zechs · ゼクス
+# Kích hoạt: Tấn công (Chung，5/15）
+> 「とどめだっ!!」
+"Kết liễu ngươi đi!!"
+
+@6529 Zechs · ゼクス
+# Kích hoạt: Tấn công (Chung，6/15）
+> 「直撃させる!」
+"Hãy nhìn tôi bị trúng đòn trực tiếp!"
+
+@6530 Zechs · ゼクス
+# Kích hoạt: Tấn công (Chung，7/15）
+> 「落ちるがいい!」
+"Hãy để tôi rơi!"
+
+@6531 Zechs · ゼクス
+# Kích hoạt: Tấn công (Chung，8/15）
+> 「あまいぞ、そこだっ!」
+"Thật ngây thơ, chính là ở chỗ đó!"
+
+@6532 Zechs · ゼクス
+# Kích hoạt: Tấn công (Chung，9/15）
+> 「お前は所詮そこまでだっ!!」
+"Rốt cuộc thì cậu chỉ có khả năng này thôi!!"
+
+@6533 Zechs · ゼクス
+# Kích hoạt: Tấn công (Chung，10/15）
+> 「お前は戦いに何を
+>  見い出すのだ!?」
+"Chính xác thì bạn đang cố gắng tìm kiếm điều gì trong trận chiến!?"
+
+@6534 Zechs · ゼクス
+# Kích hoạt: Tấn công (Chung，11/15）
+> 「悪いが、死んでもらおう!」
+"Xin lỗi, ta phải cầu ngươi chết đi!"
+
+@6535 Zechs · ゼクス
+# Kích hoạt: Tấn công (Chung，12/15）
+> 「ふ……面白い!」
+"Hmph...thú vị!"
+
+@6536 Zechs · ゼクス
+# Kích hoạt: Tấn công (Chung，13/15）
+> 「相手にとって不足はない!」
+"Bạn là một đối thủ xứng đáng!"
+
+@6537 Zechs · ゼクス
+# Kích hoạt: Tấn công (Chung，14/15）
+> 「雑念は捨てている!」
+"Tôi đã từ bỏ những suy nghĩ mất tập trung!"
+
+@6538 Zechs · ゼクス
+# Kích hoạt: Tấn công (Chung，15/15）
+> 「私なりになんとかしよう」
+“Tôi có cách riêng của mình”
+
+@6539 Zechs · ゼクス
+# Kích hoạt: 被击坠（通用，1/3）
+> 「私の運命もここまでか……?」
+"Đây có phải là kết thúc của số phận tôi...?"
+
+@6540 Zechs · ゼクス
+# Kích hoạt: 被击坠（通用，2/3）
+> 「ぐぅぅっ、ここまでかっ」
+"Ừm, xong rồi à?"
+
+@6541 Zechs · ゼクス
+# Kích hoạt: 被击坠（通用，3/3）
+> 「これまでか……」
+"Đây có phải là kết thúc..."
+
+@6542 Zechs · ゼクス
+# Kích hoạt: 重伤（剩余 HP 不足 30%）（通用，1/6）
+> 「ぬぅおあぁぁぁっ!」
+"Uh-ohhhhhh-!"
+
+@6543 Zechs · ゼクス
+# Kích hoạt: 重伤（剩余 HP 不足 30%）（通用，2/6）
+> 「このままでは、こちらも戦えんか!?」
+“Nếu chuyện này tiếp tục, tôi sẽ không thể chiến đấu được nữa!?”
+
+@6544 Zechs · ゼクス
+# Kích hoạt: 重伤（剩余 HP 不足 30%）（通用，3/6）
+> 「くっ、これ以上はもう無理だな」
+"Được rồi, tôi không thể chịu đựng được nữa."
+
+@6545 Zechs · ゼクス
+# Kích hoạt: 重伤（剩余 HP 不足 30%）（通用，4/6）
+> 「くっ、油断があったということか!?」
+"Chà, tôi có bất cẩn không!?"
+
+@6546 Zechs · ゼクス
+# Kích hoạt: 重伤（剩余 HP 不足 30%）（通用，5/6）
+> 「うっ……こうも直撃をくらうとは!」
+"Chà... Tôi thực sự đã nhận được một đòn trực tiếp như vậy!"
+
+@6547 Zechs · ゼクス
+# Kích hoạt: 重伤（剩余 HP 不足 30%）（通用，6/6）
+> 「死ぬな……このままでは……」
+“Anh sẽ chết…nếu tiếp tục như thế này…”
+
+@6548 Zechs · ゼクス
+# Kích hoạt: 中伤（剩余 HP 30–90%）（通用，1/7）
+> 「やるなっ!!」
+"Hai lần!!"
+
+@6549 Zechs · ゼクス
+# Kích hoạt: 中伤（剩余 HP 30–90%）（通用，2/7）
+> 「ぐぅっっ……!」
+"Ờ ờ...!"
+
+@6550 Zechs · ゼクス
+# Kích hoạt: 中伤（剩余 HP 30–90%）（通用，3/7）
+> 「くっ……面白い!」
+"Ừm...thú vị!"
+
+@6551 Zechs · ゼクス
+# Kích hoạt: 中伤（剩余 HP 30–90%）（通用，4/7）
+> 「そうこなくてはな!」
+"Đó là cách nó nên được!"
+
+@6552 Zechs · ゼクス
+# Kích hoạt: 中伤（剩余 HP 30–90%）（通用，5/7）
+> 「やられはせんよ!」
+"Tôi sẽ không bị đánh gục!"
+
+@6553 Zechs · ゼクス
+# Kích hoạt: 中伤（剩余 HP 30–90%）（通用，6/7）
+> 「なにっ!?」
+"Cái gì!?"
+
+@6554 Zechs · ゼクス
+# Kích hoạt: 中伤（剩余 HP 30–90%）（通用，7/7）
+> 「よい攻撃だ! しかし私はまだ
+>  死なん!」
+"Thật là một đòn đau! Nhưng tôi chưa thể chết được!"
+
+@6555 Zechs · ゼクス
+# Kích hoạt: 轻伤（剩余 HP 90% 以上）（通用，1/4）
+> 「フフ、私に挑んでくる相手を、
+>  無下にはできんな」
+"Haha, tôi không thể bỏ mặc đối thủ thách thức tôi được."
+
+@6556 Zechs · ゼクス
+# Kích hoạt: 轻伤（剩余 HP 90% 以上）（通用，2/4）
+> 「その程度では沈まんよ!」
+"Đòn tấn công này không thể nhấn chìm tôi!"
+
+@6557 Zechs · ゼクス
+# Kích hoạt: 轻伤（剩余 HP 90% 以上）（通用，3/4）
+> 「私に戦いを挑むとは……」
+"Sao ngươi dám thách thức ta..."
+
+@6558 Zechs · ゼクス
+# Kích hoạt: 轻伤（剩余 HP 90% 以上）（通用，4/4）
+> 「この戦いは私の勝ちだな。
+>  なんの恐怖も感じない」
+"Trận chiến này ta thắng rồi, ta không có một chút sợ hãi."
+
+@6559 Zechs · ゼクス
+# Kích hoạt: Né tránh（通用，1/7）
+> 「私の命の見積もりが甘かった
+>  ようだな」
+"Có vẻ như anh đã đánh giá mạng sống của tôi quá rẻ mạt."
+
+@6560 Zechs · ゼクス
+# Kích hoạt: Né tránh（通用，2/7）
+> 「レーダー反応ロスト!? いや下か!」
+“Tín hiệu radar bị mất!? Không, ở phía dưới!”
+
+@6561 Zechs · ゼクス
+# Kích hoạt: Né tránh（通用，3/7）
+> 「無能な……」
+"Người không có năng lực..."
+
+@6562 Zechs · ゼクス
+# Kích hoạt: Né tránh（通用，4/7）
+> 「あまい!」
+"Thật ngây thơ!"
+
+@6563 Zechs · ゼクス
+# Kích hoạt: Né tránh（通用，5/7）
+> 「貴様には無理だ!!」
+"Bạn không thể làm điều đó!!"
+
+@6564 Zechs · ゼクス
+# Kích hoạt: Né tránh（通用，6/7）
+> 「ついているな、私は」
+"Có vẻ như tôi may mắn."
+
+@6565 Zechs · ゼクス
+# Kích hoạt: Né tránh（通用，7/7）
+> 「あっけない。これでよいのか?」
+"Thật nhàm chán. Chỉ thế thôi à?"
+
+@6566 Zechs · ゼクス
+# Kích hoạt: Tấn công无效（护罩／装甲）（通用，1/2）
+> 「やらせはせんっ!!」
+"Đừng nghĩ tới chuyện đó nữa!!"
+
+@6567 Zechs · ゼクス
+# Kích hoạt: Tấn công无效（护罩／装甲）（通用，2/2）
+> 「させるかぁぁぁっ!!」
+“Làm sao tôi có thể để cậu thành công——!!”
+
+@6568 Zechs · ゼクス
+# Kích hoạt: 弹药／EN 不足，无法反击（通用，1/2）
+> 「くっ……このような時に弾切れか…?」
+"Hmm... nhưng lúc này chúng ta không có đạn dược...?"
+
+@6569 Zechs · ゼクス
+# Kích hoạt: 弹药／EN 不足，无法反击（通用，2/2）
+> 「エネルギーが切れたか……?」
+"Năng lượng đã cạn kiệt chưa...?"
+
+@6570 Zechs · ゼクス
+# Kích hoạt: 射程外，无法反击（通用，1/2）
+> 「レーダー反応、ロスト!?」
+“Tín hiệu radar, bị mất!?”
+
+@6571 Zechs · ゼクス
+# Kích hoạt: 射程外，无法反击（通用，2/2）
+> 「ロストしただと!? ばかな!」
+"Mất!? Làm sao có thể!"
+
+@14327 Zechs · ゼクス
+# Kích hoạt: 使用〈ビームサーベル／銃剣付きビームサーベル〉（低优先，可能被通用台词顶掉）
+> 「接近戦に持ち込めば
+>  なんとかなるな」
+"Chỉ cần chúng ta chuyển sang cận chiến thì luôn có cách."
+
+@14328 Zechs · ゼクス
+# Kích hoạt: Tấn công，乘坐〈トールギス〉
+> 「このトールギスならば!」
+"Dorukis này ở đây!"
+
+@14329 Zechs · ゼクス
+# Kích hoạt: Tấn công，乘坐〈トールギスⅡ〉
+> 「このトールギスならば!」
+"Dorukis này ở đây!"
+
+@14330 Zechs · ゼクス
+# Kích hoạt: Tấn công，乘坐〈トールギスⅢ〉
+> 「このトールギスならば!」
+"Dorukis này ở đây!"
+
+@14331 Zechs · ゼクス
+# Kích hoạt: Tấn công，乘坐〈トールギス〉
+> 「このトールギスならできるのだ!」
+"Dorukis này có thể làm được!"
+
+@14332 Zechs · ゼクス
+# Kích hoạt: Tấn công，乘坐〈トールギスⅡ〉
+> 「このトールギスならできるのだ!」
+"Dorukis này có thể làm được!"
+
+@14333 Zechs · ゼクス
+# Kích hoạt: Tấn công，乘坐〈トールギスⅢ〉
+> 「このトールギスならできるのだ!」
+"Dorukis này có thể làm được!"
+
+@14334 Zechs · ゼクス
+# Kích hoạt: Tấn công，乘坐〈ウイングゼロ〉
+> 「殺しに来た者は殺せ、
+>  そういうのだな、ゼロ?」
+“Giết bất cứ ai đến giết, ý cậu là vậy phải không Zero?”
+
+@14335 Zechs · ゼクス
+# Kích hoạt: Tấn công，乘坐〈ウイングゼロ(バード)〉
+> 「殺しに来た者は殺せ、
+>  そういうのだな、ゼロ?」
+“Giết bất cứ ai đến giết, ý cậu là vậy phải không Zero?”
+
+@14336 Zechs · ゼクス
+# Kích hoạt: Tấn công，乘坐〈ウイングゼロカスタム〉
+> 「殺しに来た者は殺せ、
+>  そういうのだな、ゼロ?」
+“Giết bất cứ ai đến giết, ý cậu là vậy phải không Zero?”
+
+@14337 Zechs · ゼクス
+# Kích hoạt: Tấn công，乘坐〈ウイングゼロ〉
+> 「ウイングゼロ……私に勝利を
+>  見せてくれ!」
+"Flying Wing Zero...mang lại chiến thắng cho tôi!"
+
+@14338 Zechs · ゼクス
+# Kích hoạt: Tấn công，乘坐〈ウイングゼロ(バード)〉
+> 「ウイングゼロ……私に勝利を
+>  見せてくれ!」
+"Flying Wing Zero...mang lại chiến thắng cho tôi!"
+
+@14339 Zechs · ゼクス
+# Kích hoạt: Tấn công，乘坐〈ウイングゼロカスタム〉
+> 「ウイングゼロ……私に勝利を
+>  見せてくれ!」
+"Flying Wing Zero...mang lại chiến thắng cho tôi!"
+
+@14340 Zechs · ゼクス
+# Kích hoạt: Tấn công，乘坐〈ガンダムエピオン〉
+> 「いくぞエピオン!」
+"Nào, thế hệ tiếp theo của Gundun!"
+
+@14341 Zechs · ゼクス
+# Kích hoạt: Tấn công，乘坐〈ガンダムエピオン(MA)〉
+> 「いくぞエピオン!」
+"Nào, thế hệ tiếp theo của Gundun!"
+
+@14342 Zechs · ゼクス
+# Kích hoạt: 中伤（剩余 HP 30–90%），乘坐〈ウイングゼロ〉
+> 「このウイングゼロに決戦を挑むと
+>  いうのか」
+“Anh thực sự định chiến đấu đến chết với Zero cánh bay này à?”
+
+@14343 Zechs · ゼクス
+# Kích hoạt: 中伤（剩余 HP 30–90%），乘坐〈ウイングゼロ(バード)〉
+> 「このウイングゼロに決戦を挑むと
+>  いうのか」
+“Anh thực sự định chiến đấu đến chết với Zero cánh bay này à?”
+
+@14344 Zechs · ゼクス
+# Kích hoạt: 中伤（剩余 HP 30–90%），乘坐〈ウイングゼロカスタム〉
+> 「このウイングゼロに決戦を挑むと
+>  いうのか」
+“Anh thực sự định chiến đấu đến chết với Zero cánh bay này à?”
+
+@14345 Zechs · ゼクス
+# Kích hoạt: Né tránh，乘坐〈トールギス〉
+> 「ぐぅぅぅっ、殺人的な加速だ!」
+"Uh-huh, gia tốc này đang giết chết tôi!"

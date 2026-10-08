@@ -1,0 +1,188 @@
+# Bản dịch tiếng Việt Super Robot Wars 64
+# Định dạng và vị trí: docs/guide/dialogue-text.md
+
+@8108 Rezin · レズン
+# Kích hoạt: Tấn công (Chung，1/13）
+> 「はっ!」
+"Ha!"
+
+@8109 Rezin · レズン
+# Kích hoạt: Tấn công (Chung，2/13）
+> 「落ちなっ!!」
+"Thả tôi xuống!!"
+
+@8110 Rezin · レズン
+# Kích hoạt: Tấn công (Chung，3/13）
+> 「もらったっ!!」
+"Thành công!!"
+
+@8111 Rezin · レズン
+# Kích hoạt: Tấn công (Chung，4/13）
+> 「アハハハハ、落ちなよっ!!」
+"Ahahahaha, ngã xuống đi!!"
+
+@8112 Rezin · レズン
+# Kích hoạt: Tấn công (Chung，5/13）
+> 「くらいなよ!!」
+"Hãy di chuyển của tôi!!"
+
+@8113 Rezin · レズン
+# Kích hoạt: Tấn công (Chung，6/13）
+> 「かんねんしなっ!!」
+"Chấp nhận số phận của bạn!!"
+
+@8114 Rezin · レズン
+# Kích hoạt: Tấn công (Chung，7/13）
+> 「もらったっ!!」
+"Thành công!!"
+
+@8115 Rezin · レズン
+# Kích hoạt: Tấn công (Chung，8/13）
+> 「アタシだけで掃除してやるよ!」
+"Tôi có thể tự mình làm sạch tất cả cho bạn!"
+
+@8116 Rezin · レズン
+# Kích hoạt: Tấn công (Chung，9/13）
+> 「こういうときに数を減らす!」
+"Chúng ta hãy tận dụng điều này để loại bỏ một vài người trong số các bạn!"
+
+@8117 Rezin · レズン
+# Kích hoạt: Tấn công (Chung，10/13）
+> 「みーつけた」
+"Tìm thấy bạn"
+
+@8118 Rezin · レズン
+# Kích hoạt: Tấn công (Chung，11/13）
+> 「とりついた!」
+"Tôi bị mắc kẹt với bạn!"
+
+@8119 Rezin · レズン
+# Kích hoạt: Tấn công (Chung，12/13）
+> 「あれかっ!?」
+"Đó là cái đó à!?"
+
+@8120 Rezin · レズン
+# Kích hoạt: Tấn công (Chung，13/13）
+> 「ニュータイプだ、強化人間だって、
+>  敵の足を止めてくれなくちゃさ!」
+"Dù là nhân loại mới hay nhân loại cường hóa, ta đều phải ngăn chặn kẻ địch!"
+
+@8121 Rezin · レズン
+# Kích hoạt: 被击坠（通用，1/3）
+> 「こ、このアタシが直撃をうけたのか!?」
+"Tôi-tôi thực sự đã bị đánh!?"
+
+@8122 Rezin · レズン
+# Kích hoạt: 被击坠（通用，2/3）
+> 「バカな!? このアタシが!?」
+"Không thể nào!? Thật ra là tôi!?"
+
+@8123 Rezin · レズン
+# Kích hoạt: 被击坠（通用，3/3）
+> 「直撃だと!?」
+“Tấn công trực tiếp!?”
+
+@8124 Rezin · レズン
+# Kích hoạt: 重伤（剩余 HP 不足 30%）（通用，1/4）
+> 「いかん! やられる!?」
+"Không ổn! Tôi sắp bị giết!?"
+
+@8125 Rezin · レズン
+# Kích hoạt: 重伤（剩余 HP 不足 30%）（通用，2/4）
+> 「くっ! ダメージがでかすぎるか!?」
+"Hmm! Thiệt hại có quá lớn không!?"
+
+@8126 Rezin · レズン
+# Kích hoạt: 重伤（剩余 HP 不足 30%）（通用，3/4）
+> 「なんなんだ! この力は!?」
+“Chính xác thì sức mạnh này là gì!?”
+
+@8127 Rezin · レズン
+# Kích hoạt: 重伤（剩余 HP 不足 30%）（通用，4/4）
+> 「アタシが直撃を受けている!?」
+"Tôi thực sự đã bị đánh!?"
+
+@8128 Rezin · レズン
+# Kích hoạt: 中伤（剩余 HP 30–90%）（通用，1/4）
+> 「やるじゃないか、ちょこまかと!」
+"Nó chạy tới chạy lui, có khi được một lúc!"
+
+@8129 Rezin · レズン
+# Kích hoạt: 中伤（剩余 HP 30–90%）（通用，2/4）
+> 「くっ! やるじゃないか!」
+"Chà! Chỉ mất vài giây thôi!"
+
+@8130 Rezin · レズン
+# Kích hoạt: 中伤（剩余 HP 30–90%）（通用，3/4）
+> 「くっ!! やるなっ!!」
+"Ugh!! Phải mất một lúc đấy!!"
+
+@8131 Rezin · レズン
+# Kích hoạt: 中伤（剩余 HP 30–90%）（通用，4/4）
+> 「なにぃっ!?」
+"Cái gì!?"
+
+@8132 Rezin · レズン
+# Kích hoạt: 轻伤（剩余 HP 90% 以上）（通用，1/6）
+> 「なにっ!?」
+"Cái gì!?"
+
+@8133 Rezin · レズン
+# Kích hoạt: 轻伤（剩余 HP 90% 以上）（通用，2/6）
+> 「うっ!」
+"Hừm! "
+
+@8134 Rezin · レズン
+# Kích hoạt: 轻伤（剩余 HP 90% 以上）（通用，3/6）
+> 「ハン! そんなものかい!」
+"Huh! Đó là tất cả những gì bạn có à?"
+
+@8135 Rezin · レズン
+# Kích hoạt: 轻伤（剩余 HP 90% 以上）（通用，4/6）
+> 「ハハハハ、その程度かいっ!!」
+"Hahahaha, đó là tất cả những gì bạn có à?"
+
+@8136 Rezin · レズン
+# Kích hoạt: 轻伤（剩余 HP 90% 以上）（通用，5/6）
+> 「その程度かい!!」
+“Đây là tất cả những gì bạn có thể làm sao!!”
+
+@8137 Rezin · レズン
+# Kích hoạt: 轻伤（剩余 HP 90% 以上）（通用，6/6）
+> 「なまいきやっちゃって!」
+"Đừng có mang đi!"
+
+@8138 Rezin · レズン
+# Kích hoạt: Né tránh（通用，1/3）
+> 「どこを狙ってる!」
+"Ngươi nhắm vào đâu!"
+
+@8139 Rezin · レズン
+# Kích hoạt: Né tránh（通用，2/3）
+> 「みえみえなんだよ!!」
+“Bạn có thể thấy nó ngay lập tức!!”
+
+@8140 Rezin · レズン
+# Kích hoạt: Né tránh（通用，3/3）
+> 「あたるかい!」
+"Bạn không thể đánh nó!"
+
+@8141 Rezin · レズン
+# Kích hoạt: Tấn công无效（护罩／装甲）（通用，1/2）
+> 「ビームは効かないっていってる!!」
+"Tôi đã nói với bạn rằng chùm tia là vô dụng!!"
+
+@8142 Rezin · レズン
+# Kích hoạt: Tấn công无效（护罩／装甲）（通用，2/2）
+> 「効かないんだよ!!」
+“Không có tác dụng gì cả!!”
+
+@8143 Rezin · レズン
+# Kích hoạt: 弹药／EN 不足，无法反击（通用，1/1）
+> 「くっ、だめか!?」
+"Chà, không thể được nữa à!?"
+
+@8144 Rezin · レズン
+# Kích hoạt: 射程外，无法反击（通用，1/1）
+> 「くっ! 遠すぎるか!」
+"Ugh! Xa quá!"

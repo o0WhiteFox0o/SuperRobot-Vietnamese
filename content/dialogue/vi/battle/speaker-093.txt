@@ -1,0 +1,220 @@
+# Bản dịch tiếng Việt Super Robot Wars 64
+# Định dạng và vị trí: docs/guide/dialogue-text.md
+
+@6261 Trowa · トロワ
+# Kích hoạt: Tấn công (Chung，1/17）
+> 「密集などしているからだ」
+“Ai bảo các cậu tụ tập cùng nhau?”
+
+@6262 Trowa · トロワ
+# Kích hoạt: Tấn công (Chung，2/17）
+> 「なんであろうと、邪魔ならば戦う」
+"Dù thế nào đi chăng nữa, nếu nó cản đường, tôi sẽ đánh bạn."
+
+@6263 Trowa · トロワ
+# Kích hoạt: Tấn công (Chung，3/17）
+> 「攻撃を開始する」
+"Bắt đầu tấn công"
+
+@6264 Trowa · トロワ
+# Kích hoạt: Tấn công (Chung，4/17）
+> 「……いただく」
+"...hiểu rồi"
+
+@6265 Trowa · トロワ
+# Kích hoạt: Tấn công (Chung，5/17）
+> 「邪魔をするならば……遠慮はしない」
+“Nếu cậu cản đường…tôi sẽ không lịch sự đâu.”
+
+@6266 Trowa · トロワ
+# Kích hoạt: Tấn công (Chung，6/17）
+> 「目標捕捉……破壊する」
+"Khóa mục tiêu...tiêu diệt"
+
+@6267 Trowa · トロワ
+# Kích hoạt: Tấn công (Chung，7/17）
+> 「始めるか……」
+"Hãy bắt đầu thôi..."
+
+@6268 Trowa · トロワ
+# Kích hoạt: Tấn công (Chung，8/17）
+> 「敵をせん滅する」
+"Tiêu diệt kẻ thù"
+
+@6269 Trowa · トロワ
+# Kích hoạt: Tấn công (Chung，9/17）
+> 「…………」
+“…………”
+
+@6270 Trowa · トロワ
+# Kích hoạt: Tấn công (Chung，10/17）
+> 「…………」
+“…………”
+
+@6271 Trowa · トロワ
+# Kích hoạt: Tấn công (Chung，11/17）
+> 「…………」
+“…………”
+
+@6272 Trowa · トロワ
+# Kích hoạt: Tấn công (Chung，12/17）
+> 「…………」
+“…………”
+
+@6273 Trowa · トロワ
+# Kích hoạt: Tấn công (Chung，13/17）
+> 「…………」
+“…………”
+
+@6274 Trowa · トロワ
+# Kích hoạt: Tấn công (Chung，14/17）
+> 「すべてを消滅させる」
+"Phá hủy mọi thứ"
+
+@6275 Trowa · トロワ
+# Kích hoạt: Tấn công (Chung，15/17）
+> 「戦術的に見て、お前の判断は
+>  正しい。だが……」
+“Từ góc độ chiến thuật, phán đoán của anh là đúng. Nhưng…”
+
+@6276 Trowa · トロワ
+# Kích hoạt: Tấn công (Chung，16/17）
+> 「こちらの戦力を把握する前に
+>  行動を起こすべきではなかったな」
+"Bạn không nên hành động trước khi biết khả năng chiến đấu của chúng tôi."
+
+@6277 Trowa · トロワ
+# Kích hoạt: Tấn công (Chung，17/17）
+> 「はあぁぁぁーっ!」
+"Haaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaa!"
+
+@6278 Trowa · トロワ
+# Kích hoạt: 被击坠（通用，1/4）
+> 「これまでのようだな」
+“Có vẻ như thế là xong rồi.”
+
+@6279 Trowa · トロワ
+# Kích hoạt: 被击坠（通用，2/4）
+> 「ん……なんだ?……俺の……涙か?」
+"Ừm...đây là...nước mắt của tôi à?"
+
+@6280 Trowa · トロワ
+# Kích hoạt: 被击坠（通用，3/4）
+> 「俺の戦いもこれで終わりか……」
+"Đây có phải là kết thúc cuộc chiến của tôi ..."
+
+@6281 Trowa · トロワ
+# Kích hoạt: 被击坠（通用，4/4）
+> 「早かったな……俺の死も……」
+"Nó đang đến quá nhanh...ngày chết của tôi..."
+
+@6282 Trowa · トロワ
+# Kích hoạt: 重伤（剩余 HP 不足 30%）（通用，1/4）
+> 「やるな……だが最後の詰めが甘い」
+"Có hai khoảnh khắc...nhưng cái kết chưa đủ gay gắt."
+
+@6283 Trowa · トロワ
+# Kích hoạt: 重伤（剩余 HP 不足 30%）（通用，2/4）
+> 「くっ! ……さすがにパワーはあるようだな」
+“Hừm!...Quả nhiên, uy lực không hề nhỏ.”
+
+@6284 Trowa · トロワ
+# Kích hoạt: 重伤（剩余 HP 不足 30%）（通用，3/4）
+> 「きびしい戦いになる……」
+"Sẽ là một cuộc chiến khó khăn..."
+
+@6285 Trowa · トロワ
+# Kích hoạt: 重伤（剩余 HP 不足 30%）（通用，4/4）
+> 「直撃をくらったか……これ以上は
+>  きついな」
+“Sau khi bị đánh mạnh…tôi sẽ không thể trụ được nữa.”
+
+@6286 Trowa · トロワ
+# Kích hoạt: 中伤（剩余 HP 30–90%）（通用，1/4）
+> 「く……戦闘続行可能、
+>  任務を継続する」
+"Chà... chúng ta vẫn có thể tiếp tục chiến đấu và nhiệm vụ vẫn tiếp tục."
+
+@6287 Trowa · トロワ
+# Kích hoạt: 中伤（剩余 HP 30–90%）（通用，2/4）
+> 「なるほど……的確な攻撃だ」
+"Tôi hiểu rồi... đó là một phát bắn rất chính xác."
+
+@6288 Trowa · トロワ
+# Kích hoạt: 中伤（剩余 HP 30–90%）（通用，3/4）
+> 「脚部にトラブルか…まだ大丈夫だ」
+"Chân tôi gãy rồi... Tôi còn có thể trụ được."
+
+@6289 Trowa · トロワ
+# Kích hoạt: 中伤（剩余 HP 30–90%）（通用，4/4）
+> 「この程度の損傷なら
+>  任務継続に支障はない」
+"Mức độ thiệt hại này không ảnh hưởng đến việc tiếp tục thực hiện nhiệm vụ."
+
+@6290 Trowa · トロワ
+# Kích hoạt: 轻伤（剩余 HP 90% 以上）（通用，1/4）
+> 「戦術を誤ったようだな」
+"Có vẻ như bạn đã phạm sai lầm chiến thuật."
+
+@6291 Trowa · トロワ
+# Kích hoạt: 轻伤（剩余 HP 90% 以上）（通用，2/4）
+> 「この機体にたいしては
+>  ムダな攻撃だったな」
+"Cuộc tấn công vào máy này là vô ích."
+
+@6292 Trowa · トロワ
+# Kích hoạt: 轻伤（剩余 HP 90% 以上）（通用，3/4）
+> 「こちらの戦闘力を把握して
+>  おくべきだったな」
+"Trước tiên ngươi nên tìm hiểu hiệu quả chiến đấu của chúng ta."
+
+@6293 Trowa · トロワ
+# Kích hoạt: 轻伤（剩余 HP 90% 以上）（通用，4/4）
+> 「その程度か……」
+"Chính là nó..."
+
+@6294 Trowa · トロワ
+# Kích hoạt: Né tránh（通用，1/4）
+> 「戦術、戦闘レベル共に、
+>  ムダな攻撃だ……」
+"Bất kể chiến thuật và cấp độ, đó là một cuộc tấn công vô ích ..."
+
+@6295 Trowa · トロワ
+# Kích hoạt: Né tránh（通用，2/4）
+> 「単純な攻撃だ…パターンは読めた」
+"Cuộc tấn công quá đơn điệu...việc thường lệ đã bị nhìn thấu"
+
+@6296 Trowa · トロワ
+# Kích hoạt: Né tránh（通用，3/4）
+> 「的確な攻撃だ……だが」
+"Đó là một phát bắn khá chính xác...nhưng"
+
+@6297 Trowa · トロワ
+# Kích hoạt: Né tránh（通用，4/4）
+> 「なるほど、この程度か」
+“Tôi hiểu rồi, vậy thôi?”
+
+@6298 Trowa · トロワ
+# Kích hoạt: Tấn công无效（护罩／装甲）（通用，1/2）
+> 「どうやらムダだったようだな」
+“Có vẻ như mọi nỗ lực đều vô ích.”
+
+@6299 Trowa · トロワ
+# Kích hoạt: Tấn công无效（护罩／装甲）（通用，2/2）
+> 「ビーム兵器は効かない」
+"Vũ khí chùm không hoạt động"
+
+@6300 Trowa · トロワ
+# Kích hoạt: 弹药／EN 不足，无法反击（通用，1/2）
+> 「全弾撃ち尽くしたか……」
+“Đạn đã bay hết rồi…”
+
+@6301 Trowa · トロワ
+# Kích hoạt: 弹药／EN 不足，无法反击（通用，2/2）
+> 「残弾……0か」
+"Đạn còn lại...không"
+
+@6302 Trowa · トロワ
+# Kích hoạt: 射程外，无法反击（通用，1/1）
+> 「ここからでは距離がありすぎるな」
+“Quá xa để lái xe từ đây.”

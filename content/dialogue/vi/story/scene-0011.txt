@@ -1,0 +1,1246 @@
+# Bản dịch tiếng Việt Super Robot Wars 64
+# Định dạng và vị trí: docs/guide/dialogue-text.md
+
+@18545 Anna · アンナ
+> 「アフターコロニー195年。
+>  かつてここは地球でもっとも栄え
+"AC 195. Đây là thời kỳ thịnh vượng nhất,
+---
+>  もっとも自由に満ちていた
+>  都市の一つでした
+Một trong những thành phố tự do nhất.
+---
+>  今は、暗やみと恐怖の支配する
+>  名を禁じられた
+Ngày nay, nơi này bị bao phủ bởi bóng tối và nỗi kinh hoàng, ngay cả cái tên cũng bị cấm nhắc đến.
+---
+>  ムゲゾルバドス帝国の町。それでも
+>  いつかきっとくる自由の光を待って
+Nó đã trở thành một thị trấn trong Đế chế Muge Zorbados. Dù vậy, để chờ đợi ánh sáng tự do cuối cùng sẽ đến,
+---
+>  町の誰もが、息を潜めている。
+>  私の名は、アンナ・ステファニー」
+Mọi người trong thị trấn đều nín thở. Tên tôi là Anna Stephanie. "
+
+@18546 David · デビッド
+> 「なんだアンナ、
+>  また日記を録音してたのか
+"Sao thế, Anna, em lại viết nhật ký à?
+---
+>  もうすぐ出発だぞ」
+Nó sắp rời đi. "
+
+@18547 Anna · アンナ
+> 「デビッド……
+>  本当にこの町を出て行くの?」
+"David...anh thực sự đang rời khỏi thị trấn à?"
+
+@18548 David · デビッド
+> 「ここは奴らのおひざ元だ。捕まらない
+>  程度にちまちまやっているだけじゃ
+"Nơi này ngay trước mũi bọn họ. Chỉ cần tránh xa họ và làm ầm lên một chút là được.
+---
+>  ラチがあかねぇ。ここを離れて、もっと
+>  大規模に抵抗運動を
+Không hữu ích chút nào. Vì vậy chúng tôi rời khỏi đây để xây dựng một phong trào phản kháng lớn hơn.
+---
+>  やろうっていうんだ。
+>  悪い話じゃないだろう」
+Điều này không tuyệt vời sao? "
+
+@18549 Anna · アンナ
+> 「でも……」
+"Nhưng..."
+
+@18550 David · デビッド
+> 「アンナの言いたいことはわかるが、
+>  置いていくわけにはいかないぜ
+"Ana, anh hiểu em muốn nói gì, nhưng anh không thể để em yên được.
+---
+>  ここにいれば銃を持っていなく
+>  たって捕まっちまうんだ
+Nếu ở lại đây, dù không có súng trong tay cũng sẽ bị bắt đi.
+---
+>  もう仲間たちも出発を待ってる。
+>  いこうぜ」
+Những người bạn đồng hành cũng đang chờ khởi hành. Đi thôi. "
+
+@18551 Grados Soldier · グラドス兵
+> 「そこのお前たち、動くな!」
+“Mọi người ở đó, xin đừng di chuyển!”
+
+@18552 David · デビッド
+> 「ちっ!」
+"Chậc!"
+
+@18553 Grados Soldier · グラドス兵
+> 「ムダだ。お前たちは包囲されている」
+"Vô dụng thôi. Bạn đã bị bao vây rồi."
+
+@18554 David · デビッド
+> 「くそぉ……」
+"Chết tiệt nó..."
+
+@18555 Roanne · ロアン
+> 「おとなしくした方がいいですよ。
+>  無理をしてむざむざ命を
+"Thành thật thì tốt hơn. Tại sao phải vất vả như vậy? Tất cả đều vô ích.
+---
+>  捨てることも、ないでしょう」
+Vứt bỏ cuộc sống của bạn. "
+
+@18556 David · デビッド
+> 「ッ!! 貴様……
+>  噂は本当だったのか!?」
+"!! Cậu... tin đồn đó là sự thật à!?"
+
+@18557 Anna · アンナ
+> 「どういうこと!?
+>  ロアン、説明して!
+"Chuyện gì đang xảy ra vậy!? La An, giải thích rõ ràng cho tôi biết đi!
+---
+>  私には信じられない」
+Tôi không thể tin được. "
+
+@18558 Roanne · ロアン
+> 「僕の方こそ驚きましたよ。2人
+>  そろって、こんなことをしているなんてね」
+"Tôi chỉ ngạc nhiên thôi. Tôi không ngờ hai người lại cùng nhau làm chuyện như vậy."
+
+@18559 David · デビッド
+> 「売ったのは貴様か!
+>  このクソヤロウがっ!!」
+"Ngươi đã phản bội chúng ta! Đồ khốn nạn!!"
+
+@18560 Roanne · ロアン
+> 「君たちが見ているとおり
+>  僕は裏切り者
+"Như bạn thấy đấy, tôi là kẻ phản bội.
+---
+>  いまさら何をいわれても、こたえませんよ」
+Hiện tại tôi không quan tâm bạn nói gì. "
+
+@18561 Anna · アンナ
+> 「どうしてなの!?
+>  どうしてあなたが帝国の側に!?」
+"Tại sao!? Tại sao bạn lại đứng về phía đế quốc!?"
+
+@18562 Roanne · ロアン
+> 「つまらない地球人の誇りなどすてて
+>  帝国の支配を受け入れれば
+"Hãy vứt bỏ lòng tự trọng nhàm chán của người dân trên trái đất và chấp nhận sự cai trị của đế chế.
+---
+>  いいのです。そうすればそれなりに
+>  平和に生活していけます
+Bằng cách này bạn có thể sống một cuộc sống khá yên bình.
+---
+>  君たちも僕を見習って
+>  そうしたらどうです」
+Thế còn bạn cũng học hỏi từ tôi thì sao? "
+
+@18563 Anna · アンナ
+> 「えぇっ!? ロアン、あなたって人は……」
+"Này! ? Lạc An, ngươi là..."
+
+@18564 Grados Soldier · グラドス兵
+> 「なんだ! ゲリラか!?」
+"Chuyện gì đang xảy ra vậy! Họ có phải là du kích không? ? "
+
+@18565 Roux · ルー
+> 「あんたたち、早く逃げるのよ!」
+"Hai người các ngươi chạy đi! "
+
+@18566 David · デビッド
+> 「ありがてぇ、助かったぜ!」
+“Cảm ơn, đó là một sự trợ giúp lớn! "
+
+@18567 Roux · ルー
+> 「そんなことはいいから、
+>  例の場所へ急いで!」
+"Đừng nói chuyện này nữa, nhanh chóng đến địa điểm đã hẹn! "
+
+@18568 David · デビッド
+> 「ああっ。アンナ、走れ!」
+"Được rồi. Anna, chạy đi! "
+
+@18569 Anna · アンナ
+> 「え、ええ!」
+"Ờ-huh! "
+
+@18570 Aboly · アポリー
+> 「どうした?」
+"Có chuyện gì thế?"
+
+@18571 Ark · アーク（按段落 3DD1）
+> 「いえ……
+>  このミデアって
+“Không có gì đâu… tôi chỉ cảm thấy Midea này,
+---
+>  ずいぶん、のりごこちが悪いんだなと
+>  思って」
+Ngồi đó khó chịu lắm. "
+
+@18572 Roberto · ロベルト
+> 「ハハハ、そりゃ当たり前だ
+"Hahaha, tất nhiên rồi.
+---
+>  こいつは、ただのポンコツ輸送機
+>  だからな」
+Thứ này chỉ là một chiếc máy bay vận tải tồi tàn. "
+
+@18573 Aboly · アポリー
+> 「無理やり改装してあるだけ
+>  なんだ
+“Đó chỉ là một sửa đổi khó khăn.
+---
+>  下を歩かなくていいぶんは、
+>  勘弁してもらわないとな」
+Ít nhất thì tôi không phải đi bộ trên mặt đất nên tôi sẽ cố gắng làm điều đó. "
+
+@18574 Ark · アーク（按段落 3DD1）
+> 「……どうなるんです、これから?」
+“…Chuyện gì sẽ xảy ra tiếp theo? "
+
+@18575 Aboly · アポリー
+> 「なんだ、いきなり」
+"Có chuyện gì thế? Tôi đột nhiên hỏi. "
+
+@18576 Ark · アーク（按段落 3DD1）
+> 「だって、地球上はどこも帝国軍
+>  に支配されているっていうのに
+"Tuy nhiên, toàn bộ trái đất nằm dưới sự cai trị của Quân đội Hoàng gia.
+---
+>  いつまでもこんな戦い方ばかり
+>  してたら、そのうち……」
+Nếu cứ tiếp tục chiến đấu như thế này, sớm muộn gì cậu cũng sẽ..."
+
+@18577 Aboly · アポリー
+> 「まぁ、大規模で組織的な
+>  抵抗運動は、始まったばかり
+“Chà, phong trào kháng chiến có tổ chức, quy mô lớn vừa mới bắt đầu.
+---
+>  だからな。ただ世界中で結構
+>  そういう動きってのは、活発になって
+Tuy nhiên, những hành động tương tự trên khắp thế giới ngày càng trở nên tích cực.
+---
+>  きているんだ。俺たちはこれからどんどん
+>  そういうのを、増やそうとしてるんだよ
+Bước tiếp theo của chúng tôi là làm cho loại sức mạnh này ngày càng mạnh mẽ hơn.
+---
+>  そうなれば戦力も増えるし、
+>  もっとましな状態になるさ」
+Bằng cách đó sức chiến đấu cũng sẽ tăng lên và tình hình sẽ tốt hơn. "
+
+@18578 Ark · アーク（按段落 3DD1）
+> 「…………」
+“…………”
+
+@18579 Aboly · アポリー
+> 「あまり考えすぎるなよ。今お前が
+>  するべきなのは、自分の機体を
+"Đừng suy nghĩ quá nhiều. Điều bạn nên làm bây giờ là đặt cơ thể của bạn
+---
+>  ちゃんと整備して、1回ごとの戦い
+>  に、しっかり生き残ることなんだからな」
+Hãy duy trì nó thật tốt và sống sót qua mọi trận chiến. "
+
+@18580 Bright · ブライト
+> 「さすがにかなり状況は
+>  かわってきているな」
+“Tình hình thực sự đã thay đổi rất nhiều. "
+
+@18581 Quattro · クワトロ
+> 「ああ、帝国軍も本格的に
+>  レジスタンスへの対応に
+"Ừm, Quân đội Đế quốc cũng đã bắt đầu nghiêm túc đối phó với tổ chức kháng chiến.
+---
+>  乗り出して来ている。
+>  スペシャルズの動きも
+Sự di chuyển của lực lượng đặc biệt cũng
+---
+>  気になるところだが……
+>  どうした、{HeroName}」
+Làm mọi người quan tâm...có chuyện gì thế, {HeroName}? "
+
+@18582 Selain · セレイン（按段落 3DD2）
+> 「我々は、勝てるのでしょうか?」
+"Chúng ta có thể thắng không? "
+
+@18583 Quattro · クワトロ
+> 「らしくないな。君はこれまでずっと
+>  帝国軍と、戦ってきたのだと
+“Điều này không giống cậu. Tôi tưởng bạn luôn
+---
+>  思ったが」
+Tất cả họ đều đang chiến đấu chống lại Quân đội Đế quốc. "
+
+@18584 Selain · セレイン（按段落 3DD2）
+> 「中佐のいったように
+>  状況がかわっています
+“Như Trung tá đã nói, tình hình đang thay đổi.
+---
+>  私は限定された地域内で、
+>  帝国軍の末端の
+Tôi từng chỉ làm việc ở một khu vực nhỏ với những thành viên cấp thấp hơn của Quân đội Đế quốc.
+---
+>  ゲリラ狩り部隊と戦っていた
+>  だけですから
+Đó chỉ là cuộc chiến giữa quân du kích và quân đàn áp.
+---
+>  それも、ただその場その時に
+>  小競り合いをしていただけで
+Và chỉ có những cuộc trao đổi lửa lẻ tẻ.
+---
+>  みな帝国の支配を
+>  受け入れるのがいやだから
+Mọi người chỉ không muốn chấp nhận sự cai trị của đế chế.
+---
+>  戦っていたにすぎません。
+>  誰も本気で今の地球から
+Cứ chiến đấu đi. Không ai thực sự nghĩ rằng đế chế có thể
+---
+>  帝国を排除できるとは
+>  考えていませんでした
+Lái xe ra khỏi trái đất hiện tại.
+---
+>  地球解放戦線機構は、
+>  帝国と真正面から戦うつもり
+Không phải tổ chức Mặt trận Giải phóng Trái đất đang lên kế hoạch đối đầu với Đế quốc sao?
+---
+>  なのではないのですか」
+Đối đầu? "
+
+@18585 Quattro · クワトロ
+> 「無茶をいう。しかし、
+>  我々が戦うことで
+“Điều này thật khó để ai đó có thể làm được. Tuy nhiên, nếu cuộc chiến của chúng ta có thể làm
+---
+>  潜在的な戦力が
+>  増加してくるのであれば
+Sức mạnh chiến đấu tiềm tàng tăng lên,
+---
+>  ある程度の対応はできる。
+>  我々もカラバも、独自に兵器を
+Ít nhiều gì tôi cũng có thể xử lý được. Kalaba và chúng tôi dần dần có thể tự mình làm được việc đó
+---
+>  開発できるようになってきてもいる。
+>  が、君の最初の質問に対しての
+Phát triển vũ khí. Đó chỉ là câu hỏi ban đầu của bạn,
+---
+>  回答は、今の私にはできん」
+Tôi chưa thể đưa ra câu trả lời. "
+
+@18586 Selain · セレイン（按段落 3DD2）
+> 「でも、いつか力尽きて倒れることに
+>  なるとは、思っていないのですね」
+“Nhưng bạn không nghĩ rằng một ngày nào đó chúng ta sẽ gục ngã vì kiệt sức phải không? "
+
+@18587 Bright · ブライト
+> 「これ以上時が過ぎるのを
+>  見ていたら
+"Nếu tôi tiếp tục nhìn thời gian trôi qua như thế này,
+---
+>  地球圏を地球人の手に
+>  戻すことは、かなわなくなる
+Sẽ không thể trả lại Quả cầu Trái đất vào tay Người Trái đất được nữa.
+---
+>  そういう危機感があったからこそ、
+>  我々のような敗残兵が
+Chính vì cảm giác khủng hoảng này mà chúng ta tàn quân và đánh bại các tướng
+---
+>  いまさらのように戦っている。勝てるか
+>  と聞かれれば、答えようがないが、
+Đó là lý do tại sao hiện nay chúng tôi vẫn đang chiến đấu. Hỏi tôi có thể thắng không, nhưng tôi không thể trả lời.
+---
+>  勝算がまるでないわけでもないと、
+>  我々は考えている」
+Nhưng chúng tôi tin rằng không có cơ hội chiến thắng. "
+
+@18588 Selain · セレイン（按段落 3DD2）
+> 「ではロームフェラについては?
+>  彼らは地球人でありながら
+“Còn Romphela thì sao? Mặc dù họ là người trái đất,
+---
+>  昔とそれほど変わることのない
+>  生活をしています
+Nhưng anh sống một cuộc sống không khác nhiều so với quá khứ.
+---
+>  帝国の支配下であっても、
+>  いずれ地球人による自治は
+Ngay cả dưới sự cai trị của Đế quốc, người dân trên Trái đất sớm hay muộn cũng sẽ có thể đạt được quyền tự chủ——
+---
+>  可能となるという見方も
+>  あるのでは?」
+Một số người không thấy nó như vậy sao? "
+
+@18589 Quattro · クワトロ
+> 「どちらにしても、このままでは
+>  地球そのものがもたなくなる」
+“Dù thế nào đi chăng nữa, nếu tình trạng này tiếp diễn, bản thân trái đất sẽ không thể trụ vững được. "
+
+@18590 Selain · セレイン（按段落 3DD2）
+> 「地球が……ですか?」
+"Ý bạn là...Trái đất? "
+
+@18591 Quattro · クワトロ
+> 「そうだ。重要なことだ」
+"Đúng vậy. Điều này rất quan trọng. "
+
+@18592 Guerrilla · ゲリラ
+> 「小隊長……小隊長!!」
+“Đội trưởng…đội trưởng! ! "
+
+@18593 Shiro · シロー
+> 「あ……なんだ?」
+"À... có chuyện gì thế? "
+
+@18594 Guerrilla · ゲリラ
+> 「まぁたその時計ですか。女ものじゃな
+>  いんですかい、それ。恋人のやつとか?」
+"Tôi đang xem lại chiếc đồng hồ đó. Đó có phải là đồng hồ nữ không? Của bạn gái tôi à?"
+
+@18595 Shiro · シロー
+> 「そんなんじゃない。で、なんだ?」
+"Không phải như cậu nghĩ đâu. Hãy nói cho tôi biết, có chuyện gì vậy?"
+
+@18596 Guerrilla · ゲリラ
+> 「ここに潜伏してもう1週間ですぜ。
+>  本当に奴は来るんですか?」
+“Tôi đã ẩn nấp ở đây được một tuần rồi, tên đó có thực sự đến không?”
+
+@18597 Shiro · シロー
+> 「来る。ここが奴のテスト飛行の
+>  ルートなのは、確実なんだ」
+"Sẽ đến. Nơi này chắc chắn nằm trên đường bay thử nghiệm của tên đó."
+
+@18598 Guerrilla · ゲリラ
+> 「かもしれませんけど、また来るっていう
+>  保証は……」
+“Có thể, nhưng không có gì đảm bảo rằng anh ấy sẽ quay lại…”
+
+@18599 Shiro · シロー
+> 「!? 静かにしろ!」
+"!? Đừng gây ra tiếng động!"
+
+@18600 Guerrilla · ゲリラ
+> 「ビンゴだ。本当に来やがった。
+>  やるかい、小隊長」
+"Anh đoán được rồi. Nó thực sự ở đây. Anh có muốn làm không, đội trưởng?"
+
+@18601 Shiro · シロー
+> 「まだだ、十分引きつけてからだ!」
+"Vẫn chưa, đợi hắn đến gần hơn đã!"
+
+@18602 Aina · アイナ
+> 「…………」
+“…………”
+
+@18603 Specials · スペシャルズ
+> 「なんだ、待ち伏せか!?」 
+“Cái gì, đó là một cuộc phục kích à!?”
+
+@18604 Shiro · シロー
+> 「よぉし、正面ポイントデルタより、
+>  集中攻撃かける!」
+“Được rồi, tập trung hỏa lực tấn công từ điểm delta phía trước!”
+
+@18605 Shiro · シロー
+> 「……だめか!?」
+“…Thật vô dụng!?”
+
+@18606 Guerrilla · ゲリラ
+> 「小隊長、こいつはヤバイ!
+>  引き上げよう!」
+"Đội trưởng, người này quá nguy hiểm! Cút ra!"
+
+@18607 Shiro · シロー
+> 「もう遅い!」
+"Đã quá muộn rồi!"
+
+@18608 Guerrilla · ゲリラ
+> 「うわあぁぁぁーっ!!」
+"Whoaahhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhh!"
+
+@18609 Shiro · シロー
+> 「くっそぉぉーっ!!」
+"Chết tiệt!"
+
+@18610 Aina · アイナ
+> 「離れなさい! 死にたいのですか!?」
+"Tránh xa ra! Bạn có muốn chết không!?"
+
+@18611 Shiro · シロー
+> 「……その声は……まさか……」
+"...giọng nói này...có lẽ nào..."
+
+@18612 Aina · アイナ
+> 「……!?」
+"...!?"
+
+@18613 Shiro · シロー
+> 「そんな……この化け物のパイロットが…
+>  …アイナ……?」
+"Sao...người điều khiển con quái vật này lại là...Aina...?"
+
+@18614 Shiro · シロー
+> 「アイナ、アイナ・サハリン!
+>  聞こえるか!?
+"Aina, Aina Sakhalin! Bạn có nghe thấy tôi không!?
+---
+>  アイナなんだろ!? 応えてくれ!!」
+Đó là Aina! ? trả lời tôi đi! ! "
+
+@18615 Aina · アイナ
+> 「…………」
+“…………”
+
+@18616 Shiro · シロー
+> 「覚えていないか!? 俺だ、
+>  シロー・アマダ! 生きているんなら
+"Cậu không nhớ à!? Là tôi đây,Shiro Amada! Nếu tôi còn sống,
+---
+>  返事をしてくれ!!」
+Chỉ cần nói lại điều gì đó! ! "
+
+@18617 Aina · アイナ
+> 「本当に……本当に
+>  シロー・アマダ……?」
+"Thật...thật sao,Shirou Amada...?"
+
+@18618 Shiro · シロー
+> 「覚えていてくれたか。無事でよかった
+>  また会えるなんて、思わなかった」
+"Anh vẫn còn nhớ đến em. Thật tốt khi anh không sao. Không ngờ lại gặp lại em."
+
+@18619 Aina · アイナ
+> 「私も……あっ!」
+"Tôi cũng vậy...ah!"
+
+@18620 Shiro · シロー
+> 「どうしたアイナ!?」
+"Có chuyện gì thế Aina!?"
+
+@18621 Aina · アイナ
+> 「くっ、機体の安定を保てない……」
+"Ừ, máy không ổn định..."
+
+@18622 Aina · アイナ
+> 「別の部隊が接近中……?」
+"Có đội quân nào khác đang đến gần không...?"
+
+@18623 Shiro · シロー
+> 「アイナ!?」
+"Aina!?"
+
+@18624 Aina · アイナ
+> 「シロー……離れてください」
+"Shirou... làm ơn tránh xa ra."
+
+@18625 Shiro · シロー
+> 「アイナ? ……待ってくれアイナ!!」
+"Aina?...Đợi đã, Aina!!"
+
+@18626 Shiro · シロー
+> 「アイナッ!!」
+"Aina!!"
+
+@18627 Shiro · シロー
+> 「くっ、オーバーヒート!? くそっ、
+>  こんなときに! アイナァァァーッ!!」
+"Ừm, nóng quá!? Chết tiệt, vào lúc này! Ainaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaa--!!"
+
+@18628 Shiro · シロー
+> 「うわあぁぁぁぁぁーっ!!」
+"Ooohhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhh!"
+
+@18629 Shiro · シロー
+> 「くそ……こんな時に故障だなんて……
+>  アイナ……」
+"Chết tiệt...nó lại xảy ra vào lúc này...Aina..."
+
+@18630 Shiro · シロー
+> 「あの化け物のパイロットが、アイナ
+>  だったなんて……。くそ、こいつも
+“Phi công của con quái vật đó thực ra là Aina… Chết tiệt, thứ này cũng vậy.”
+---
+>  動かないか……」
+Tôi không thể di chuyển..."
+
+@18631 Shiro · シロー
+> 「……だめかぁ。やっぱり修理は
+>  ムリか……くそっ」
+“…Không thể nào. Đúng như dự đoán, nó vẫn không thể sửa được…Chết tiệt.”
+
+@18632 Shiro · シロー
+> 「……なんだ?」
+“…Có chuyện gì thế?”
+
+@18633 David · デビッド
+> 「みんな急げ、おいつかれるぞ!」
+"Mọi người nhanh lên, chúng ta sẽ bị đuổi kịp!"
+
+@18634 Gosterro · ゴステロ
+> 「ふん、サルどもが
+"Hừ, một lũ khỉ,
+---
+>  逃げられるとでも思っていやがるのか?
+Bạn vẫn nghĩ rằng bạn có thể trốn thoát?
+---
+>  ええ、お笑いだなぁ」
+Ha, buồn cười thật. "
+
+@18635 David · デビッド
+> 「ジョージ!? マイケルッ!
+>  ジェイムズーッ!
+"George!? Michael! James-!"
+---
+>  くそっ……ちくしょうっ!!」
+Khốn kiếp...con khốn! ! "
+
+@18636 Gosterro · ゴステロ
+> 「ひゃーっははははっ、たまらないなぁ
+>  人殺しというのはぁっ!」
+"Này hahahaha, giết người thật dễ gây nghiện!"
+
+@18637 Roux · ルー
+> 「くっ、まいったわね
+“Chà, điều đó thật rắc rối.
+---
+>  これほどしつこく追撃隊まで
+>  出してくるなんて、予想外だわ」
+Không ngờ họ kiên trì đến mức còn cử cả một đội truy đuổi. "
+
+@18638 David · デビッド
+> 「ロアンのやつめ……
+"Cái gã Lạc An đó...
+---
+>  どうするんだよ、仲間もほとんど
+>  やられちまったぞ!」
+Phải làm gì bây giờ, tất cả bạn đồng hành của tôi gần như đã chết! "
+
+@18639 Roux · ルー
+> 「どうするったって……
+>  とにかく逃げ切るしかないでしょ!」
+"Hỏi ta phải làm sao... Dù sao chúng ta cũng chỉ có thể trốn trước rồi mới nói!"
+
+@18640 Anna · アンナ
+> 「デビッド……」
+"David..."
+
+@18641 David · デビッド
+> 「アンナ、しっかりつかまってろ!」
+"Anna, nhanh lên!"
+
+@18642 Gosterro · ゴステロ
+> 「逃げろ逃げろ。ひーっひっひっひ。
+>  残りはじわじわと殺してやる」
+"Chạy đi, chạy đi. Hehehehe. Chỉ cần giết phần còn lại từ từ thôi."
+
+@18643 Gosterro · ゴステロ
+> 「さぁて、そろそろサルどもの狩りを
+>  再開するとしようか」
+"Chà, đã đến lúc bắt đầu săn lại những con khỉ đó."
+
+@18644 David · デビッド
+> 「くそっ、やつめ
+"Chết tiệt, gã đó,
+---
+>  俺たちを、なぶり殺しにして
+>  楽しんでやがる!」
+Họ coi chúng tôi như con mồi và từ từ tra tấn chúng tôi để mua vui! "
+
+@18645 Gosterro · ゴステロ
+> 「なにぃ、増援だとぉ!?
+>  サルのくせに、なめたまねしやがって
+"Cái gì, quân tiếp viện!? Sao ngươi dám, một con khỉ đơn thuần, làm điều này với tôi!
+---
+>  しかたがねぇ、お前ら、
+>  全員迎撃しろ!」
+Không còn cách nào khác, tất cả các bạn phải chiến đấu chống lại tôi! "
+
+@18646 Quattro · クワトロ
+> 「遅かったか。せめて、あの2機だけでも
+>  救助せねばな。全機、続け!」
+"Vẫn còn quá muộn. Ít nhất chúng ta phải cứu được hai đơn vị đó. Mọi người hãy đi theo chúng tôi!"
+
+@18647 Roux · ルー
+> 「きゃーっ、やったぁ!
+>  あれ、解放戦線よ
+"Ừ - tuyệt quá! Đó là mặt trận giải phóng,
+---
+>  迎えに来てくれたんだわ!」
+Đến đón chúng tôi đi! "
+
+@18648 Anna · アンナ
+> 「デビッド見て!
+>  あれはレイズナーよ!」
+"Nhìn kìa David! Đó là Rezner!"
+
+@18649 David · デビッド
+> 「レイズナー!?
+>  まさかエイジだってのか!?」
+"Rezner!? Có phải Eiji không!?"
+
+@18650 Anna · アンナ
+> 「間違いないわ! きっとそうよ!」
+"Đúng! Chắc chắn là anh ấy!"
+
+@18651 Shiro · シロー
+> 「あれは……確か新型のシュツルム
+>  ディアスだ。ブライト中佐の部隊に
+“Đó…hãy nhớ rằng đây là một loại Schutzlum Dias mới. Nó chỉ được trang bị cho
+---
+>  しか、まわされていないはずだ……」
+Quân của Trung tá Bright là đúng rồi…”
+
+@18652 David · デビッド
+> 「エイジ、おいエイジ!
+“Eiji, cho Eiji ăn đi!
+---
+>  レイズナーに乗ってるのは
+>  エイジなんだろ!?
+Chắc chắn là Eiji đang lái Reznar! ?
+---
+>  俺だ、デビッドだ!」
+Là tôi đây David! "
+
+@18653 Eiji · エイジ
+> 「デビッド!?
+>  本当に君なのか?」
+"David!? Có thật là anh không?"
+
+@18654 David · デビッド
+> 「やっぱりエイジだ!
+>  俺だけじゃない、アンナもいるぜ!」
+"Quả nhiên là Eiji! Không chỉ tôi mà cả Anna nữa!"
+
+@18655 Eiji · エイジ
+> 「アンナまで?」
+"Ngay cả Anna cũng ở đây à?"
+
+@18656 Anna · アンナ
+> 「エイジ……本当に……
+>  本当にエイジなのね!?」
+"Eiji...thật sự...thật sự Eiji phải không!?"
+
+@18657 Eiji · エイジ
+> 「ああ、本当だ
+"Ừ, đó là sự thật.
+---
+>  アンナ……久しぶりだね。
+>  元気そうでよかった」
+Anna...Đã lâu không gặp. Thấy bạn ổn, tôi cảm thấy nhẹ nhõm. "
+
+@18658 Anna · アンナ
+> 「エイジ……」
+"Eiji..."
+
+@18659 Aboly · アポリー
+> 「おしゃべりはその辺でやめにしろ!
+“Nói chuyện phiếm thế là đủ rồi!
+---
+>  そこの2機、
+>  我々の指揮下に入れ
+Hai cỗ máy đằng kia nằm dưới sự chỉ huy của chúng tôi.
+---
+>  追撃隊を片付けるぞ」
+Thoát khỏi đội truy đuổi. "
+
+@18660 Roux · ルー
+> 「了解!」
+"Đã hiểu!"
+
+@18661 David · デビッド
+> 「了解したっ!
+"Đã hiểu!
+---
+>  野郎、仲間の仇は
+>  うたせてもらうぜ!」
+Khốn kiếp, tôi muốn trả thù cho đồng đội của mình! "
+
+@18662 Gosterro · ゴステロ
+> 「なにぃ!? ゲイル、
+>  貴様、何しにきやがった!」
+"Cái gì!? Gale, anh đang làm gì ở đây vậy!"
+
+@18663 Gale · ゲイル
+> 「ゴステロ中尉、現状には
+>  ふさわしくない言葉だな
+"Trung úy Gostro, đây không phải là thời điểm thích hợp để nói điều này.
+---
+>  レジスタンス追撃にこれほど
+>  時間がかかった理由は
+Tại sao cuộc kháng chiến lại kéo dài lâu như vậy?
+---
+>  後で追及させてもらうとしよう」
+Tôi sẽ hỏi bạn sau để tìm hiểu. "
+
+@18664 Gosterro · ゴステロ
+> (くそーっ。ゲイルの野郎、
+>  ふざけやがってっ!)
+(Chết tiệt...tên khốn Gale, sao ngươi dám giở trò đồi bại với ta!)
+
+@18665 Karla · カルラ
+> 「ゲイル隊長、
+>  ゴステロ中尉はいないようです」
+"Đại úy Gale, Trung úy Gostrow hình như không có ở đây."
+
+@18666 Gale · ゲイル
+> 「そうだな。
+>  また悪いクセが出たか……」
+"Ừ. Có vẻ như thói quen cũ lại tái diễn..."
+
+@18667 Eiji · エイジ
+> 「ゲイル先輩か……」
+“Là tiền bối Gale…”
+
+@18668 Gale · ゲイル
+> 「エイジ……
+>  今度は本気でいかせてもらうぞ」
+“Eiji…Lần này tôi sẽ nghiêm túc thực hiện.”
+
+@18669 Gale · ゲイル
+> 「エイジはいないか……」
+“Eiji không có ở đây à…”
+
+@18670 Eiji · エイジ
+> 「ゴステロっ!
+>  貴様は遊びで人をっ!」
+"Gostrow! Bạn đang coi thường mạng sống của con người!"
+
+@18671 Gosterro · ゴステロ
+> 「裏切り者のこぞうが!
+>  演説はいい!
+"Thằng phản bội! Đừng nói chuyện vô nghĩa với tôi nữa!
+---
+>  俺はゲイルと違って
+>  話しあいなどせん!」
+Không giống như Gale, tôi không có thời gian để nói chuyện với bạn! "
+
+@18672 Gosterro · ゴステロ
+> 「こぞう、たっぷりとかわいがってやる!」
+"Tiểu tử, để xem ta đối phó ngươi thế nào!"
+
+@18673 Eiji · エイジ
+> 「ゴステロッ!」
+"Chúa ơi!"
+
+@18674 Gale · ゲイル
+> 「エイジ……容赦はせんぞ」
+“Eiji…tôi sẽ không tỏ ra thương xót đâu.”
+
+@18675 Eiji · エイジ
+> 「ゲイル先輩、俺もここで
+>  やられるわけにはいかないんです!」
+"Sư huynh Gale, ta cũng không thể rơi ở chỗ này!"
+
+@18676 Gale · ゲイル
+> 「ならば、その覚悟を
+>  見せてみろ、エイジ!」
+"Vậy hãy cho tôi thấy quyết tâm của bạn, Eiji!"
+
+@18677 Gosterro · ゴステロ
+> 「なにぃ!? ゲイル、
+>  貴様、何しにきやがった!」
+"Cái gì!? Gale, anh đang làm gì ở đây vậy!"
+
+@18678 Gale · ゲイル
+> 「ゴステロ中尉、現状には
+>  ふさわしくない言葉だな
+"Trung úy Gostro, đây không phải là thời điểm thích hợp để nói điều này.
+---
+>  レジスタンス追撃にこれほど
+>  時間がかかった理由は
+Tại sao cuộc kháng chiến lại kéo dài lâu như vậy?
+---
+>  後で追及させてもらうとしよう」
+Tôi sẽ hỏi bạn sau để tìm hiểu. "
+
+@18679 Gosterro · ゴステロ
+> (くそーっ。ゲイルの野郎、
+>  ふざけやがってっ!)
+(Chết tiệt...tên khốn Gale, sao ngươi dám giở trò đồi bại với ta!)
+
+@18680 Karla · カルラ
+> 「ゲイル隊長、
+>  ゴステロ中尉はいないようです」
+"Đại úy Gale, Trung úy Gostrow hình như không có ở đây."
+
+@18681 Gale · ゲイル
+> 「そうだな。
+>  また悪いクセが出たか……」
+"Ừ. Có vẻ như thói quen cũ lại tái diễn..."
+
+@18682 Eiji · エイジ
+> 「ゲイル先輩か……」
+“Là tiền bối Gale…”
+
+@18683 Gale · ゲイル
+> 「エイジ……
+>  今度は本気でいかせてもらうぞ」
+“Eiji…Lần này tôi sẽ nghiêm túc thực hiện.”
+
+@18684 Gale · ゲイル
+> 「エイジはいないか……」
+“Eiji không có ở đây à…”
+
+@18685 David · デビッド
+> 「エイジ!」
+"Eiji!"
+
+@18686 Eiji · エイジ
+> 「デビッド!」
+"David!"
+
+@18687 David · デビッド
+> 「あっははははははっ。貴様ぁ、
+>  どこへいってたんだ、この3年」
+"A hahahahahaha. Cậu đã đi đâu suốt ba năm qua vậy?"
+
+@18688 Eiji · エイジ
+> 「会いたかったよ。
+>  きっと、会えると思っていた」
+"Anh cũng rất muốn gặp em. Anh biết chúng ta sẽ gặp lại nhau."
+
+@18689 David · デビッド
+> 「こいつぅ。ははははははっ
+"Anh bạn. Hahahahaha.
+---
+>  アンナ、こっちにこいよ。
+>  本物のエイジだぜ!」
+Anna, đến đây nhanh lên! Đó là Eiji thật! "
+
+@18690 Eiji · エイジ
+> 「アンナ……」
+"Anna..."
+
+@18691 Anna · アンナ
+> 「……エイジ……エイジっ!」
+"...Eiji...Eiji!"
+
+@18692 Anna · アンナ
+> 「エイジ……会いたかった……」
+"Eiji...anh thực sự muốn gặp em..."
+
+@18693 Eiji · エイジ
+> 「……すまない。ずいぶん長い間
+>  連絡もできずに……」
+"...Xin lỗi. Đã lâu không liên lạc..."
+
+@18694 Anna · アンナ
+> 「いいの……もう、いいの」
+"Không quan trọng... thực sự không còn quan trọng nữa."
+
+@18695 Ark · アーク（按段落 3DD1）
+> 「…………」
+“…………”
+
+@18696 Aboly · アポリー
+> 「ん? どうしたんだ、あいつ」
+"Hả? Có chuyện gì với anh chàng đó vậy?"
+
+@18697 Roberto · ロベルト
+> 「さあ?」
+"Ai biết được?"
+
+@18698 Aboly · アポリー
+> 「お前たち、
+>  感動のご対面中に悪いが
+"Các bạn, cuộc hội ngộ cảm động của chúng ta sẽ diễn ra ở đây trước tiên.
+---
+>  とっとと、ここから逃げるぞ」
+Nhanh lên, chúng ta phải rút lui. "
+
+@18699 Eiji · エイジ
+> 「あ、ああ、すまない」
+"À, ừm, xin lỗi."
+
+@18700 Selain · セレイン（按段落 3DD2）
+> 「すまないが、
+>  すぐに移動しなければならない
+"Xin lỗi, chúng tôi phải di chuyển ngay bây giờ.
+---
+>  続きは、あとでやってもらいたい」
+Hãy nói về phần còn lại sau. "
+
+@18701 Eiji · エイジ
+> 「あ、ああ、すまない」
+"À, ừm, xin lỗi."
+
+@18702 David · デビッド
+> 「なんだ、
+>  ずいぶん無愛想な女だな」
+"Cái gì? Thật là một người phụ nữ lạnh lùng."
+
+@18703 Selain · セレイン（按段落 3DD2）
+> 「愛想よくする理由が
+>  思いつかないだけだ。急いでくれ」
+"Tôi chỉ không thể nghĩ ra lý do nào để lịch sự với bạn. Thôi nào."
+
+@18704 Shiro · シロー
+> 「気づいてくれよ……」
+“Nhanh lên và để ý tới tôi…”
+
+@18705 Aboly · アポリー
+> 「ん? ……大尉、解放戦線の
+>  発光信号です」
+“Hả?...Đội trưởng, anh là tín hiệu sáng chói của mặt trận giải phóng.”
+
+@18706 Quattro · クワトロ
+> 「こんなところでか。間違いないのか?
+>  場所は?」
+"Ở một nơi như thế này? Cậu có chắc là đúng không? Vị trí ở đâu?"
+
+@18707 Aboly · アポリー
+> 「あそこの森の中ほどですね」
+“Nó ở ngay giữa rừng.”
+
+@18708 Quattro · クワトロ
+> 「ふむ……中佐、確認してくるが」
+"Hmm... Trung tá, tôi sẽ đi kiểm tra."
+
+@18709 Bright · ブライト
+> 「ああ、そうしてくれ。アポリー、ロベルト、
+>  周囲の警戒を怠るな」
+"Được rồi, cậu cứ tiếp tục đi. April, Roberto, hãy cẩn thận xung quanh cậu."
+
+@18710 Roberto · ロベルト
+> 「了解」
+"Đã hiểu."
+
+@18711 Shiro · シロー
+> 「くる……? 気づいてくれたか」
+"Đến đây...? Cuối cùng cũng nhận ra."
+
+@18712 Quattro · クワトロ
+> 「ほう……陸戦型のガンダムか。
+>  ずいぶんとくたびれているな
+"Ồ...đó là Land Combat," Nó thực sự tồi tàn.
+---
+>  そこのパイロット、解放戦線の
+>  者か?」
+Phi công đằng kia, anh thuộc Mặt trận Giải phóng phải không? "
+
+@18713 Shiro · シロー
+> 「シロー・アマダ少尉であります。
+>  お手数をおかけして
+“Tôi là Thiếu úy Shirou Amada. Tôi đang gây rắc rối cho anh đấy.
+---
+>  申しわけありません」
+Tôi rất xin lỗi. "
+
+@18714 Quattro · クワトロ
+> 「かまわんよ。他にもまだいるのか?」
+"Không sao đâu. Còn ai nữa không?"
+
+@18715 Shiro · シロー
+> 「いえ、自分だけです。あとは……
+>  やられてしまいました」
+"Không, chỉ có tôi thôi. Những người khác... đều đã chết."
+
+@18716 Quattro · クワトロ
+> 「……そうか。そのガンダムは動けない
+>  ようだな?」
+"...Vậy sao? Cái tên đó không thể di chuyển được phải không?"
+
+@18717 Shiro · シロー
+> 「はい。焼き切れた電装部品の
+>  スペアを持ってきておりませんでしたので」
+"Ừ. Linh kiện điện tử bị cháy, tôi không mang theo phụ tùng."
+
+@18718 Quattro · クワトロ
+> 「わかった。
+>  我々のミデアへ運びこむが、いいか?」
+"Được rồi. Hãy chuyển nó đến Media. Được chứ?"
+
+@18719 Shiro · シロー
+> 「おまかせします」
+"Vậy thì xin vui lòng."
+
+@18720 Bright · ブライト
+> 「ふむ……テスト中のモビルアーマーか。
+>  データはとっているのか?」
+"Hmm...mobile Armor đang được thử nghiệm. Bạn có dữ liệu chưa?"
+
+@18721 Shiro · シロー
+> 「はい。いまコピーしてもらっています」
+"Đúng. Chúng tôi đang thuê người sao chép nó."
+
+@18722 Bright · ブライト
+> 「機体のほうは、今すぐに動くよう
+>  にはできんらしい。多少時間が
+“Có vẻ như máy không thể sửa chữa ngay được, sẽ phải mất một thời gian.
+---
+>  かかるが、我々もいつまでもここにいる
+>  わけにもいかん。同行してくれたほうが
+Nhưng chúng ta không thể ở đây mãi được. Nếu bạn đi cùng chúng tôi,
+---
+>  楽なのだが、どうする?」
+Nó cũng dễ dàng hơn cho chúng tôi. Bạn nghĩ gì? "
+
+@18723 Shiro · シロー
+> 「よろしいのですか?」
+"Điều đó có ổn không?"
+
+@18724 Quattro · クワトロ
+> 「どのみち、戦力を集めているところ
+>  だった。ここへ来たのも、そのためでな
+“Dù sao thì chúng tôi cũng đang tập trung sức mạnh. Đó là lý do tại sao chúng tôi đến đây.
+---
+>  君がその気ならば、准将のほうへは
+>  話をしておく
+Nếu ngài sẵn lòng, tôi sẽ đi nói với thiếu tướng.
+---
+>  ここに残りたいというのなら、
+>  別だが……」
+Tất nhiên, nếu cậu muốn ở lại đây thì lại là chuyện khác…”
+
+@18725 Shiro · シロー
+> 「いえ、お願いします、大尉」
+"Không, làm ơn, thưa thuyền trưởng."
+
+@18726 Bright · ブライト
+> 「なるほど、情勢はかなり厳しいという
+>  ことか。アマダ少尉も同様のことを
+“Tôi hiểu rồi, có vẻ như tình hình khá nghiêm trọng. Thiếu úy Amada cũng nói
+---
+>  いっていたな」
+Những từ giống nhau. "
+
+@18727 Roux · ルー
+> 「はい。申しわけありません。結局、
+>  みな、ここまでたどり着けませんでした」
+"Vâng. Tôi rất xin lỗi. Cuối cùng, không ai có thể đi xa đến thế này."
+
+@18728 Quattro · クワトロ
+> 「気にすることはない。君とデビッドくん
+>  を拾えただけでも、十分に
+"Đừng lo lắng về điều đó. Chỉ cần cứu bạn và David là đủ.
+---
+>  意味はあった。それに、偶然とは
+>  いえ、アマダ少尉も救助できた」
+Nó đáng giá. Và dù chỉ là ngẫu nhiên nhưng anh ấy cũng đã cứu được Thiếu úy Amada. "
+
+@18729 Roux · ルー
+> 「ありがとうございます」
+"Cảm ơn bạn."
+
+@18730 Roux · ルー
+> 「へぇ、じゃ、あなたたちは、あの
+>  最初に帝国軍に襲われた
+"Ồ, vậy ra các bạn là những người đầu tiên bị Quân đội Hoàng gia tấn công.
+---
+>  火星の生き残りなんだ?」
+Người sống sót trên sao Hỏa? "
+
+@18731 David · デビッド
+> 「そうさ。エイジがいなけりゃ
+>  火星で、なくしてた命だ
+“Đúng vậy. Nếu không có Eiji thì chúng ta đã chết trên sao Hỏa rồi.
+---
+>  だから俺たちは、あの時の
+>  エイジの志をムダにしないために
+Vì vậy, để đáp ứng được tham vọng của Eiji hồi đó,
+---
+>  3年間抵抗を続けてきたんだ」
+Chúng tôi đã chống cự trong ba năm. "
+
+@18732 Aboly · アポリー
+> 「エイジはあのSPTに乗ってたんだろ?
+>  よく信じる気になったな」
+"Loại SPT Eiji đã lái xe vào thời điểm đó phải không? Cảm ơn bạn đã tin tưởng anh ấy."
+
+@18733 David · デビッド
+> 「最初は、俺たちも
+>  信用しなかったんですけどね
+“Lúc đầu, chúng tôi cũng không tin anh ấy.
+---
+>  ま、いろいろあったわけで」
+Nhưng sau đó có rất nhiều chuyện xảy ra. "
+
+@18734 Anna · アンナ
+> 「最初はデビッドが一番
+>  エイジを嫌ってたのよね」
+"Ban đầu, người ghét Eiji nhất là David."
+
+@18735 David · デビッド
+> 「アンナは最初っからエイジを
+>  好きだったんだよな」
+"Anna, thực ra ngay từ đầu em đã thích Eiji rồi."
+
+@18736 Anna · アンナ
+> 「そんな、私は、ただ……」
+"Không thể nào, tôi chỉ..."
+
+@18737 Roux · ルー
+> 「ただ、なによ?」
+"Chỉ là cái gì?"
+
+@18738 Anna · アンナ
+> 「……この人は信じられる、
+>  信じなきゃって……そう思ったの」
+"...Người này có thể tin được, nhất định phải tin được...đó là những gì tôi nghĩ."
+
+@18739 Roux · ルー
+> 「はいはい」
+"Được, được."
+
+@18740 Bright · ブライト
+> 「大尉、ちょっといいか?」
+"Đội trưởng, ngài có rảnh không?"
+
+@18741 Quattro · クワトロ
+> 「ああ、ブレックス准将はなんと?」
+"Ồ, Chuẩn tướng Blakes đã nói gì?"
+
+@18742 Bright · ブライト
+> 「それなんだが……
+"Nói đến chuyện đó...
+---
+>  大尉はコロニーのM作戦のことを
+>  聞いたことはあるか?」
+Thuyền trưởng, anh đã nghe nói về Chiến dịch M trên vệ tinh thuộc địa chưa? "
+
+@18743 Quattro · クワトロ
+> 「流星に偽装した兵器を
+>  地球に落とすというあれか?
+"Anh ta có phải là người đã tấn công trái đất bằng vũ khí được cải trang thành thiên thạch không?
+---
+>  スウィートウォーターで入手した
+>  情報だな」
+Đó hẳn là thông tin thu được ở Ganquan. "
+
+@18744 Bright · ブライト
+> 「そうだ。それがどうも実際に
+>  行われるらしい
+“Đúng. Có vẻ như họ thực sự sẽ hành động.
+---
+>  准将はそれを我々の側へ
+>  取り込みたがっている」
+Chuẩn tướng muốn mang nó về phía chúng ta. "
+
+@18745 Quattro · クワトロ
+> 「やれやれ、ずいぶんと
+>  無理難題をおっしゃる
+"Thật sự, Chuẩn tướng thực sự có khả năng gây ra vấn đề.
+---
+>  スペシャルズあたりに利用
+>  されたくないというのはわかるが」
+Anh ấy không muốn bị lực lượng đặc biệt lợi dụng, tôi có thể hiểu được điều đó…”
+
+@18746 Bright · ブライト
+> 「まだ我々の行動範囲内に
+>  来るかどうかはわからんがね
+“Mặc dù vẫn chưa rõ liệu nó có lọt vào phạm vi hoạt động của chúng tôi hay không,
+---
+>  一応、準備だけは
+>  しておいてほしい
+Tóm lại, bạn nên chuẩn bị trước.
+---
+>  我々はとりあえず南方へ
+>  向けて移動する」
+Bây giờ chúng ta hãy di chuyển về phía nam. "
+
+@18747 Quattro · クワトロ
+> 「了解だ」
+"Đã hiểu."
