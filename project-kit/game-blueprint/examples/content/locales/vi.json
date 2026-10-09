@@ -1,0 +1,14 @@
+{
+  "schema": "mygame.locale.v1",
+  "locale": "vi",
+  "source_locale": "en",
+  "display_name": "Tiếng Việt",
+  "names": {
+    "pilot.hero.name": "Anh hùng", "pilot.rookie.name": "Tân binh",
+    "unit.hero.name": "Chiến binh số 1", "unit.grunt.name": "Lính cơ bản",
+    "weapon.beam_saber.name": "Kiếm tia", "weapon.rifle.name": "Súng trường",
+    "spirit.focus.name": "Tập trung",
+    "scene.001.title": "Chương 1: Khởi đầu", "scene.002.title": "Chương 2: Kết thúc",
+    "campaign.main.name": "Chiến dịch chính"
+  }
+}

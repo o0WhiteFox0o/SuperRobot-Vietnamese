@@ -1,0 +1,7 @@
+{
+  "schema": "mygame.units.v1",
+  "records": [
+    {"id": "unit.hero", "name_key": "unit.hero.name", "sprite": "art.sprite.hero", "hp": 5000, "en": 120, "armor": 1000, "terrain": {"air": "B", "land": "A", "water": "C", "space": "B"}, "weapons": ["weapon.beam_saber", "weapon.rifle"]},
+    {"id": "unit.grunt", "name_key": "unit.grunt.name", "sprite": "art.sprite.grunt", "hp": 2500, "en": 80, "armor": 800, "terrain": {"air": "-", "land": "B", "water": "D", "space": "C"}, "weapons": ["weapon.rifle"]}
+  ]
+}

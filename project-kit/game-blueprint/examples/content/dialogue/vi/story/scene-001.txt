@@ -1,0 +1,6 @@
+# scene-001 (vi)
+@scene-001#intro hero
+> Let's go!
+Đi thôi, {HeroNick}!
+---
+Kẻ địch đang tới gần.

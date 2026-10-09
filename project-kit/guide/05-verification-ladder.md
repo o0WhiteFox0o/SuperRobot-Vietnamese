@@ -38,3 +38,4 @@ Khi sửa lỗi/thay logic: chạy **hai lượt giống hệt nhau trừ một 
 
 > [!IMPORTANT]
 > Quy tắc: **tính năng chưa có đường kiểm chứng tự động thì chưa tính là "đã cài"** — chỉ là "đã cài – chưa kiểm chứng".
+

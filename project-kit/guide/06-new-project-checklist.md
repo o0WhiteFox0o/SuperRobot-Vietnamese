@@ -37,3 +37,4 @@
 - [ ] Rà `Ngày/Trạng thái` của tài liệu cũ: chuyển `Lịch sử` nếu không còn đúng.
 - [ ] Rà danh sách "chưa xác minh": mục nào đã có bằng chứng → đóng; mục nào mới → thêm.
 - [ ] Rà `docs/README.md`: mục đích → tài liệu còn đúng không?
+

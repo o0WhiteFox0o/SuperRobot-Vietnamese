@@ -41,3 +41,4 @@ Một bản beta được phép khi: phạm vi **ghi rõ phần đã/ chưa** ph
 ## 4.6 Kỷ luật xử lý lỗi xuyên giai đoạn
 
 Tái hiện lỗi chạy suốt các giai đoạn; **lỗi ảnh hưởng quy trình nền được sửa trước**, không chờ giai đoạn sau. Mỗi lỗi xuống [bug-register](../templates/bug-register.md).
+

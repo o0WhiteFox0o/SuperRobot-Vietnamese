@@ -75,3 +75,4 @@ Mỗi loại có mẫu riêng ở [`templates/`](../templates/). Điểm chung: 
 2. **Liệt kê** vào `docs/README.md`.
 3. **Chạy** `test_docs` (link, đường dẫn, chỉ mục).
 4. **Cập nhật** khi có bằng chứng mới — sửa trạng thái, *thêm* mục (đừng viết đè lịch sử); khi không còn đúng → chuyển `Lịch sử`, không xoá.
+

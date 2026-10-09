@@ -1,0 +1,14 @@
+{
+  "schema": "mygame.locale.v1",
+  "locale": "en",
+  "source_locale": "en",
+  "display_name": "English",
+  "names": {
+    "pilot.hero.name": "Hero", "pilot.rookie.name": "Rookie",
+    "unit.hero.name": "Warrior One", "unit.grunt.name": "Grunt",
+    "weapon.beam_saber.name": "Beam Saber", "weapon.rifle.name": "Rifle",
+    "spirit.focus.name": "Focus",
+    "scene.001.title": "Chapter 1: Beginning", "scene.002.title": "Chapter 2: Ending",
+    "campaign.main.name": "Main Campaign"
+  }
+}

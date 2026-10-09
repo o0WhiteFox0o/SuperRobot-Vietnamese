@@ -33,3 +33,4 @@ Ngày: {{YYYY-MM-DD}}. Trạng thái: **Đã cài – kiểm chứng một phầ
 
 ## 6. Kết luận
 Một–hai câu, nêu rõ bậc trên thang kiểm chứng (xem [05-verification-ladder](../guide/05-verification-ladder.md)).
+

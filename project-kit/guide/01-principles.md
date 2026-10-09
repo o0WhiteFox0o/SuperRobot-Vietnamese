@@ -47,3 +47,4 @@ Mỗi giai đoạn (M0, M1, X0…) có **bảng gói công việc ↔ ngưỡng 
 
 > [!IMPORTANT]
 > Quy tắc vàng: **nếu một câu trong tài liệu không thể trả lời "bằng chứng ở đâu?", hãy hạ nó thành giả thuyết hoặc đưa vào danh sách chưa xác minh.**
+

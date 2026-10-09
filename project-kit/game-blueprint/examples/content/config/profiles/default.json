@@ -1,0 +1,6 @@
+{
+  "schema": "mygame.profile.v1",
+  "id": "default",
+  "locale": "vi",
+  "options": {"fix_stat_overflow": true, "damage_cap": 65535}
+}

@@ -1,0 +1,16 @@
+{
+  "schema": "mygame.scene.v1",
+  "id": "scene.001",
+  "title_key": "scene.001.title",
+  "map": "map.plains_01",
+  "deployments": [
+    {"template": "unit.hero", "pilot": "pilot.hero", "group": 0, "x": 2, "y": 3, "faction": "player"},
+    {"template": "unit.grunt", "pilot": "pilot.rookie", "group": 1, "x": 8, "y": 3, "faction": "enemy"}
+  ],
+  "events": [
+    {"id": "opening", "trigger": {"type": "opening"},
+     "commands": [{"op": "dialogue", "ref": "scene-001#intro"}, {"op": "bgm", "id": "bgm.battle1"}]},
+    {"id": "win", "trigger": {"type": "all_enemies_defeated"},
+     "commands": [{"op": "victory"}, {"op": "next_scene", "scene": "scene.002"}]}
+  ]
+}

@@ -1,0 +1,7 @@
+{
+  "schema": "mygame.weapons.v1",
+  "records": [
+    {"id": "weapon.beam_saber", "name_key": "weapon.beam_saber.name", "power": 1800, "melee": true, "range": [1, 1], "en_cost": 10},
+    {"id": "weapon.rifle", "name_key": "weapon.rifle.name", "power": 1200, "melee": false, "range": [1, 4], "en_cost": 5}
+  ]
+}

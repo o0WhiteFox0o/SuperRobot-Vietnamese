@@ -53,3 +53,4 @@ Rút ra từ SuperRobot, đã tổng quát hoá. Nguyên tắc: **mỗi thư m�
 
 > [!TIP]
 > Khi kiến trúc đổi, **di chuyển + cập nhật docs + test_docs xanh trong cùng một commit**. SuperRobot từng chuyển `tools/recomp/native-host` → `src/host` và chia lại `tools/recomp/` theo mục đích theo cách này.
+

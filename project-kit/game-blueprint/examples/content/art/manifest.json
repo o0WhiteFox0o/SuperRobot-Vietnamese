@@ -1,0 +1,9 @@
+{
+  "schema": "mygame.art-manifest.v1",
+  "assets": {
+    "art.portrait.hero": {"file": "art/portrait/hero.png", "kind": "portrait", "size": [96, 96]},
+    "art.portrait.rookie": {"file": "art/portrait/rookie.png", "kind": "portrait", "size": [96, 96]},
+    "art.sprite.hero": {"file": "art/sprite/hero.png", "kind": "sprite", "size": [64, 64]},
+    "art.sprite.grunt": {"file": "art/sprite/grunt.png", "kind": "sprite", "size": [64, 64]}
+  }
+}

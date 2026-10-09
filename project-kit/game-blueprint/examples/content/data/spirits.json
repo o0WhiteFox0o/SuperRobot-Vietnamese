@@ -1,0 +1,6 @@
+{
+  "schema": "mygame.spirits.v1",
+  "records": [
+    {"id": "spirit.focus", "name_key": "spirit.focus.name", "sp_cost": 10, "until": "next_attack", "effect": {"op": "hit_bonus", "value": 30}}
+  ]
+}

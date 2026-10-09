@@ -32,3 +32,4 @@ Cơ chế, tần suất, riêng tư, **không tải/cài tự động** (nếu c
 
 ## Hỗ trợ và báo lỗi
 Cách người dùng xuất báo cáo (không kèm dữ liệu riêng tư/đầu vào có bản quyền).
+

@@ -1,0 +1,13 @@
+{
+  "schema": "mygame.scene.v1",
+  "id": "scene.002",
+  "title_key": "scene.002.title",
+  "map": "map.plains_01",
+  "deployments": [
+    {"template": "unit.hero", "pilot": "pilot.hero", "group": 0, "x": 1, "y": 1, "faction": "player"}
+  ],
+  "events": [
+    {"id": "end", "trigger": {"type": "turn_start", "turn": 3},
+     "commands": [{"op": "victory"}, {"op": "ending"}]}
+  ]
+}

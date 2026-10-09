@@ -56,3 +56,4 @@ Các tài liệu này ghi cấu hình và nghiệm thu tại thời điểm đó
 ## Tầng kiểm chứng
 
 Kiểm tra tĩnh, test thành phần, replay cố định, chạy sản phẩm thật, chạy trên hệ thống tham chiếu và kiểm tra thủ công **có phạm vi riêng**. "Có ảnh chụp" hoặc "exit code 0" không tự động nghĩa là cả quy trình đã nghiệm thu. `tests/test_docs.py` kiểm tra mọi link Markdown và mọi đường dẫn repo được nhắc tới.
+

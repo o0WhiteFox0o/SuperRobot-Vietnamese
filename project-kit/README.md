@@ -39,3 +39,7 @@ Sau đó đọc theo thứ tự:
 
 > [!NOTE]
 > Bộ khung **không phụ thuộc** vào chủ đề recomp/game. Các ví dụ lấy từ SuperRobot chỉ để minh hoạ; thay bằng lĩnh vực của bạn.
+
+## Bản thiết kế game có chiều sâu (game-blueprint/)
+
+Tài liệu cấu trúc chi tiết (nhân vật, JSON, ảnh, cốt truyện, thoại, chiến đấu), ví dụ chạy được và validator: [game-blueprint/README.md](game-blueprint/README.md).

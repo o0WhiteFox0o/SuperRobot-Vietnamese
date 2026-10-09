@@ -1,0 +1,7 @@
+{
+  "schema": "mygame.pilots.v1",
+  "records": [
+    {"id": "pilot.hero", "name_key": "pilot.hero.name", "portrait": "art.portrait.hero", "spirits": ["spirit.focus"], "stats": {"melee": 120, "ranged": 110, "defense": 100}},
+    {"id": "pilot.rookie", "name_key": "pilot.rookie.name", "portrait": "art.portrait.rookie", "spirits": [], "stats": {"melee": 90, "ranged": 90, "defense": 90}}
+  ]
+}

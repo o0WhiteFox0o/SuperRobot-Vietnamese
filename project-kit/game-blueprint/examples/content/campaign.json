@@ -1,0 +1,10 @@
+{
+  "schema": "mygame.campaign.v1",
+  "id": "campaign.main",
+  "name_key": "campaign.main.name",
+  "start": "scene.001",
+  "stages": {
+    "scene.001": {"file": "scenes/scene-001.json"},
+    "scene.002": {"file": "scenes/scene-002.json"}
+  }
+}
